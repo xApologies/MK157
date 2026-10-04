@@ -1,0 +1,139 @@
+{
+  "project": "MK157",
+  "checkpoint": "02",
+  "date": "2026-10-03",
+  "canonical_city_spelling": "Valnak",
+  "authority": "cumulative; Checkpoint 02 addendum supersedes conflicts in Checkpoint 01",
+  "critical_new_terms": [
+    "Legacy",
+    "True Legacy",
+    "Black Legacy",
+    "Permanent Valnak",
+    "Seasonal Valnak",
+    "Blackstone",
+    "illi"
+  ],
+  "file_count": 24,
+  "files": [
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 3149,
+      "sha256": "e31953b97e664c973c67b67ffc0c8fd8254d6999e939c15453ec25ec6ead2245"
+    },
+    {
+      "path": "EXECUTABLE_CHECKPOINT_01.md",
+      "bytes": 3141,
+      "sha256": "9d016f7093a6d7894bb91041add251e38bed85636a08a352e9d3cd1f4cb5ba87"
+    },
+    {
+      "path": "FILE_INVENTORY.json",
+      "bytes": 3203,
+      "sha256": "d04e86218ac5fc24e68142808305aba78c5a584fb30e1cdb42449f14ec1b1a7f"
+    },
+    {
+      "path": "MANIFEST.json",
+      "bytes": 1721,
+      "sha256": "fd96e06a4c3cf81fca4997b2db9880da8f132609518500ad94761a66ec3e4ad5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 838,
+      "sha256": "a838be9462d99bbbced0b308cddc8cfc0fd42f3f3fb099b9ebe9e52323db35e7"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE.md",
+      "bytes": 1921,
+      "sha256": "03e546b6b38851acf37d07a4f8e69d327dd9728ad7b487625067afc21888c5a9"
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "bytes": 4922,
+      "sha256": "c316ca71481965f20a031bc1c48fea1eb1ccf3bd96f3e5325dacd4a6e20cb5a8"
+    },
+    {
+      "path": "live-model/02_COSMOLOGY.md",
+      "bytes": 3962,
+      "sha256": "fe8182c99d094d2695558709d54875190c9ac2be880fb88bc0c049d43ee68718"
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "bytes": 6890,
+      "sha256": "9d9106bce960f3e5dc3f2f5b2b9c58c495398afea50bf81fd0a35ffc3233eaf4"
+    },
+    {
+      "path": "live-model/04_COMBAT_WORLD.md",
+      "bytes": 4750,
+      "sha256": "5e76513b54708dacd6c812df76f52d11efbe32509a5f68e0f4d705379afa36c1"
+    },
+    {
+      "path": "live-model/05_VISUAL_CANON.md",
+      "bytes": 1833,
+      "sha256": "eb2b1313aab6724f9842c973f3b05db0746cbbd2d475ecc8ad5335bb427921e8"
+    },
+    {
+      "path": "live-model/06_OPEN_PROVENANCE.md",
+      "bytes": 4838,
+      "sha256": "81d4d081519892de0719e205aca7ba09a28328469100c25ad3444ae6506398bc"
+    },
+    {
+      "path": "live-model/07_CHECKPOINT_02_ADDENDUM.md",
+      "bytes": 11778,
+      "sha256": "316a272d23ff1cddc5c4ba1f205f97a8d8972dce96c88bd0280f01254421db5a"
+    },
+    {
+      "path": "prior-checkpoint-source/EXECUTABLE.md",
+      "bytes": 4070,
+      "sha256": "2983ccd5503f262dfab308b9fa0bcd2307def51ce79f038a839a727ebd782d30"
+    },
+    {
+      "path": "prior-checkpoint-source/LIVE_MODEL_01_CANON.md",
+      "bytes": 4866,
+      "sha256": "5bfb713cbb1dd8f763350b6a076d2e81136c9513073176f5be2077e19654cd08"
+    },
+    {
+      "path": "prior-checkpoint-source/LIVE_MODEL_02_VALNAK.md",
+      "bytes": 7077,
+      "sha256": "21a441d015550ec560119767292e780d3a3a3d17c18151d75307f3015e0d09d4"
+    },
+    {
+      "path": "prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+      "bytes": 13482,
+      "sha256": "dd2da114edc1c29eb3134154abc6999a922904c77e7fff1fcf6fcbfbe477c2dc"
+    },
+    {
+      "path": "prior-checkpoint-source/OPEN_AND_PROVENANCE.md",
+      "bytes": 3668,
+      "sha256": "cf07bd365414480c937d35677c3d78fba8f9665492927964278e03ab488ef072"
+    },
+    {
+      "path": "visual-references/ARMOR_OF_THE_ABYSS_REFERENCE.jpeg",
+      "bytes": 262318,
+      "sha256": "a6b0f831ca879c109ea73c5ba6afd8650478b54b0610e041c0d061a190df53b4"
+    },
+    {
+      "path": "visual-references/KIRA_AFFLICTED_REFERENCE.jpeg",
+      "bytes": 616734,
+      "sha256": "e06030bafbb9d57e9ab7b3d99c3e22c13eda72c2ec745bc8c8fdef4f77f7756a"
+    },
+    {
+      "path": "visual-references/KIRA_GOLDEN_EYE_REFERENCE.png",
+      "bytes": 2203558,
+      "sha256": "24dfd79eed4663dd1bd51ef1c89817cc9ffffb76a76120df745e57e3c05629ef"
+    },
+    {
+      "path": "visual-references/KIRA_POST_VALNEK_CANON.png",
+      "bytes": 2618868,
+      "sha256": "ad02bd9bf07e5bef26594c1362530a99b3f5484f4a1b58f77eb1e1369ba436e9"
+    },
+    {
+      "path": "visual-references/VALNAK_AUTHOR_MAP_CURRENT.jpeg",
+      "bytes": 1001450,
+      "sha256": "394c161fb135da928f32eaacf8e0d6a899b0c02a139f93b93b37555b93461196"
+    },
+    {
+      "path": "visual-references/VALNEK_PATH_PLAQUES.jpeg",
+      "bytes": 538292,
+      "sha256": "039885c6024326c202b3b019d128cf8ed5358297eb6cc68cee10b3a2f6bdc331"
+    }
+  ]
+}

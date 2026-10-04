@@ -1,0 +1,58 @@
+{
+  "project": "MK157",
+  "checkpoint": "2026-10-03 exhaustive live model through Kira Black transformation",
+  "authority": "current cumulative working canon; newer statements supersede conflicting prior-checkpoint-source statements",
+  "canonical_terms": [
+    "Valnek",
+    "Elara",
+    "Kira",
+    "ELDRIS",
+    "Transduction",
+    "Binding",
+    "shaping",
+    "maege",
+    "maegi",
+    "ru\u2019ne",
+    "Armor of the Abyss",
+    "Genesis Log",
+    "Black Path"
+  ],
+  "critical_corrections": [
+    "Kira genuinely enters Valnek Afflicted",
+    "MK157 Kira is broadly Binding-compatible, unlike MK147 Binding-circle-incompatible Kira",
+    "Kira accesses Black as one unified neon domain, not six independent channels",
+    "Black access/depth does not equal infinite output or perfect competency",
+    "Armor of the Abyss is Kira's own Genesis-energy/chirality reconfiguration",
+    "Elara emergency-cuts the transformation after Kira browns out Valnek's available throughput"
+  ],
+  "visual_refs": [
+    "VALNEK_PATH_PLAQUES.jpeg",
+    "KIRA_GOLDEN_EYE_REFERENCE.png",
+    "KIRA_POST_VALNEK_CANON.png",
+    "KIRA_AFFLICTED_REFERENCE.jpeg",
+    "ARMOR_OF_THE_ABYSS_REFERENCE.jpeg"
+  ],
+  "audit_targets": {
+    "kira_first_rank": "Yellow after clearing Wave 8",
+    "kira_failure": "Wave 9, 23 ELDRIS",
+    "lifespan_years": {
+      "Red": 100,
+      "Orange": 130,
+      "Yellow": 170,
+      "Green": 210,
+      "Blue": 280,
+      "Violet": 330,
+      "White": 400
+    },
+    "genesis_equilibrium": {
+      "Red": "1/7",
+      "Orange": "2/7",
+      "Yellow": "3/7",
+      "Green": "4/7",
+      "Blue": "5/7",
+      "Violet": "6/7"
+    },
+    "post_valnek_height": "5'11\"",
+    "pre_valnek_height": "5'8\""
+  }
+}
