@@ -1,6 +1,6 @@
 # Visual-reference status
 
-Checkpoint 06 > 05 > 04 > 03 > 02 > 01 governs the images. Current Kira has energized WHITE skin, healthy WHITE hair, BLACK/R→V eyes and perfect symmetry. Historical asset filenames remain unchanged for traceability.
+Checkpoint 07 > 06 > 05 > 04 > 03 > 02 > 01 governs the images. Current Kira has energized WHITE skin, healthy WHITE hair, BLACK/R→V eyes and perfect symmetry. Historical asset filenames remain unchanged for traceability.
 
 - [Armor of the Abyss](ARMOR_OF_THE_ABYSS_REFERENCE.jpeg): working liquid-Black silhouette; apply buried-neon depth, integrated-body rules, and learned claw geometry.
 - [Afflicted Kira](KIRA_AFFLICTED_REFERENCE.jpeg): pre-transformation silhouette; Kira genuinely enters Afflicted.

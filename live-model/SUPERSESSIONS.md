@@ -1,6 +1,6 @@
 # Authority and supersessions
 
-Checkpoint 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ Retain every older OPEN item unless a checkpoint explicitly answers it. Importin
 - Class-first Binding taxonomy is superseded by six Transduction domains. Professions/build affinities remain metadata.
 - Basin colors are structural energy identities only. Any basin-to-domain/element/power mapping is forbidden and noncanonical.
 - Healing ontology is locked to Directed Coherence, Persistent Coherence, Coherence Field and their three Decoherence mirrors. Injury types do not create separate healing operations.
-- Current working season duration is seven weeks per season. Exact external conversion and per-wave timing remain unresolved.
+- Current working season duration is seven weeks per season. Exact external conversion remains OPEN; the former per-wave timing-unresolved boundary is superseded by Checkpoint 07 narrative ranges.
 - The current working acquisition scaffold puts Genesis Orbs in late Yellow before Halo in early Blue, superseding the older prescribed order on that explicit point. Armor, CSR, Orbs, Halo, Domain remain the five foundational systems; purchase is not mastery.
 - Checkpoint 05 uses Paths for curated Builder trajectories and illi's developmental opportunity. Earlier contractual Legacy/True Legacy detail remains non-conflicting provenance, and Kira's Black Legacy remains explicit. Generated Paths do not automatically define Kira or illi.
 
@@ -37,3 +37,11 @@ See [Checkpoint 05](10_CHECKPOINT_05_ADDENDUM.md) for complete governing detail.
 ## Checkpoint 06 normalization
 
 Active Kira and visual summaries now state the WHITE biological skin/hair and BLACK/R→V eyes with effectively perfect symmetry and crystalline Genesis skeletal/neural integration. Historical black/gold phenotype text and images are SUPERSEDED, retained in provenance. White biological hair can integrate/reconfigure into body-linked Armor. Intrinsic Black/rainbow geometry is Genesis resolution through the biological boundary rather than pigmentation or tissue burrowing. Precise anatomy, organ remodeling, mass changes and skin-depth mechanism remain OPEN. Source morphology imports no identity, potion causality, Class-2 rank ladder, tattoo ontology or unrelated setting mechanics.
+
+## Checkpoint 07 definitive reconciliation
+
+Checkpoint 05's per-wave timing-unresolved statement is superseded by the ranges and Violet W26/W30/W34 anchors in [COMBAT_THRESHOLDS.md](COMBAT_THRESHOLDS.md). These are narrative normalization ranges, not stopwatch guarantees or monster-count × constant kill time.
+
+**BLACKOUT** is current terminology for Kira's major Valnak power-loss event. Older brownout wording is historical analogy/provenance. Orb blender, Duo recursion, Trio consequence and Eternal Standings are promoted into active Kira/combat summaries. Checkpoint 06 biology remains unchanged in substance; registries remain infrastructure rather than character canon.
+
+Exact final record waves, Elara-through-Orb identity semantics, indefinite two/three-Orb sustainment, final Halo coloration and the eventual Trio third friend remain OPEN.

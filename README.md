@@ -1,6 +1,6 @@
-# MK157 — Current through Checkpoint 06
+# MK157 — Current through Checkpoint 07
 
-Authority: **Checkpoint 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative. All OPEN questions remain OPEN unless explicitly answered by a supplied checkpoint.
+Authority: **Checkpoint 07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative. All OPEN questions remain OPEN unless explicitly answered by a supplied checkpoint.
 
 Start with [live-model/INDEX.md](live-model/INDEX.md). Current Kira and visual summaries reflect WHITE skin/hair, BLACK/R→V eyes, perfect symmetry, and Genesis/crystalline biology.
 
@@ -12,3 +12,5 @@ Start with [live-model/INDEX.md](live-model/INDEX.md). Current Kira and visual s
 - [Checkpoint 06 clean-build handoff](provenance/checkpoint-06-package/EXECUTABLE.md): archived instructions for this normalization.
 
 `provenance/` and `prior-checkpoint-source/` preserve historical evidence and may contain superseded text. Historical root executables/manifests now live in `provenance/historical-root-handoffs/`. Git history is preserved.
+
+[Checkpoint 07 definitive reconciliation](live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md) promotes the Orb blender and Solo/Duo/Trio interactions into [Kira](live-model/01_KIRA.md) and [combat](live-model/04_COMBAT_WORLD.md), with the complete [Trial timing model](live-model/COMBAT_THRESHOLDS.md). The [original handoff](provenance/checkpoint-07-package/EXECUTABLE.md) is preserved in provenance.

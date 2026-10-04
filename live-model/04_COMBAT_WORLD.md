@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Combat Trial, rankings, longevity, nobility, world culture
 
@@ -121,3 +121,75 @@ strata, making exterior staging comparatively safe.
 Dungeon/aithren culture is laid-back, communal and professional because
 danger is contained inside. Festival/NASCAR-infield/FOB analogies are
 author-side only.
+
+## Trial architecture
+Valnak supports Solo, Duo, and Trio open wave Trials. Retain rank thresholds:
+Red W1–3; Orange W4–7; Yellow W8–12; Green W13–18; Blue W19–25; Violet W26–34; White W35+.
+Monster count retains the established prime-number escalation.
+
+
+## Genesis-Orb blender — promote to active canon
+Kira's Genesis Orbs are persistent external Black Genesis-energy bodies, roughly cannonball-sized (~8 in / 20 cm), dense/solid in interaction and capable of acting as mobile Transducers.
+
+Kira's signature Trial use is the **Orb blender**:
+- one or more Orbs resolve into extremely rapid orbital trajectories around Kira / defended local space;
+- this creates a moving physical/Genesis-interactive exclusion/disruption geometry;
+- it is **NOT a force field**;
+- ELDRIS entering the orbital path physically collide with dense, high-speed Black Genesis Orbs and suffer catastrophic blunt/Genesis trauma;
+- open Trial arenas provide unusually favorable unconstrained geometry;
+- multi-Orb patterned control progressively makes ordinary melee-wave pressure pathological for Valnak's assumptions.
+
+Kira therefore breaks the Trial while obeying its rules.
+
+Ordinary wave pressure:
+`more ELDRIS → more simultaneous threats → eventual saturation`
+
+Mature Kira in an open Trial:
+`more ELDRIS → more bodies attempting to cross the Orb exclusion geometry`
+
+As long as control/sustain/geometry remain favorable, wave quantity no longer scales against her normally. Later progression can become limited more by time, cognitive load, fatigue, boredom, or willingness to continue than immediate defeat.
+
+Exact final Eternal Standing wave numbers remain OPEN. Do not canonize Wave 96 merely because it was used conversationally as an example.
+
+
+## Kira + illi Duo recursion
+Early Kira carries illi deeper.
+Deeper clears create more progression/credits.
+illi converts progression into stronger prevention/sustainment.
+Stronger illi support extends Kira's combat window.
+That enables deeper clears and more progression.
+
+Loop:
+`Kira carries illi → credits/progression → illi improves sustainment → Kira lasts longer → deeper clear → repeat`
+
+Mature conceptual defensive stack:
+**Orb exclusion → illi absorption/prevention → Armor of the Abyss → Kira**
+
+This is valid system behavior, not cheating and not something Valnak patches out.
+
+
+## Trio
+The architecture extends to Trio. Kira + illi can carry an eventual recurring third participant to extreme Trial progression because the core Trial-breaking stack already exists. The third friend remains UNDEFINED until separately established.
+
+Expected narrative Eternal Standing outcome:
+- Kira: top Solo Eternal Standing.
+- Kira + illi: top Duo Eternal Standing.
+- Kira + illi + eventual third: top Trio Eternal Standing.
+
+Final wave numbers remain OPEN.
+
+
+## Eternal Standings
+Canonical name: **Eternal Standings**. Valnak keeps seasonal/current standings plus permanent historical Solo/Duo/Trio records. Records may show voluntary withdrawal/termination rather than defeat.
+
+
+## Why other combat theaters still matter
+The Orb blender is optimized for open arenas.
+
+Dungeons impose walls, corridors, corners, ceilings, objectives, allies, and constrained trajectories. Kira must learn precision, changing orbit, remote trajectories, and actual Transducer use.
+
+Progression by theater:
+- Trials: overwhelming local/open-arena control.
+- Dungeons: precision / constrained geometry.
+- Raids: coordinated group execution.
+- `domai`: battlefield/operation scale.

@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Valnak, Elara, Paths, automation, residences, cities
 
@@ -158,3 +158,14 @@ plazas, - airy vertical structures, - clean luminous advanced design, -
 nature and architecture interwoven.
 
 Exact mileage, hubs, occupancy caps, and final map remain OPEN.
+
+## BLACKOUT / Halo / late-thread anchors
+Use **BLACKOUT** for the major Valnak power-loss event associated with Kira's Black restructuring. Historical “brownout” may remain analogy/provenance.
+
+Halo working stages:
+Stage I ~2 ft diameter; Stage II ~4 ft; Stage III ~6 ft / ~3 ft radius.
+Final Halo coloration remains OPEN and must follow Genesis/Black grammar; do not revive canonical gold.
+
+Preserve the working model that Valnak is Earth-localized through Planck-Horizon/Genesis architecture rather than an unrelated fantasy afterlife plane. Do not overformalize until dedicated cosmology work.
+
+Valnak city instances are operationally/politically managed environments, not arbitrary videogame shards; future development should respect governance, population management, social continuity, and political consequences.

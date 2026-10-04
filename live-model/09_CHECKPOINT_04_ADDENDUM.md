@@ -1,4 +1,4 @@
-> Source checkpoint 04. Authority: 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 04. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Checkpoint 04 Addendum — Black Legacy Pipeline, Eternal Standings, and Post-Valnak Continuity
 

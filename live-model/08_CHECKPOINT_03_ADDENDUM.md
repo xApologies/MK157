@@ -1,4 +1,4 @@
-> Source checkpoint 03. Authority: 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 03. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Checkpoint 03 — Kira Battle Architecture and Biological Realization
 

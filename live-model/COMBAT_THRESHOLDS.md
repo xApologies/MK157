@@ -1,6 +1,6 @@
 # Retained Combat Trial thresholds
 
-Non-conflicting baseline section retained verbatim. Eternal Standing final outlier wave numbers remain OPEN per Checkpoint 04.
+Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Baseline thresholds and prime-count escalation are retained. Exact final Eternal Standing wave numbers remain OPEN.
 
 ## Endless Combat Trial and rank
 
@@ -35,3 +35,15 @@ Most first-time entrants rank Red or Orange. First-trial Yellow is rare,
 perhaps one or two people in an ordinary cycle, and usually involves
 years of preparation plus expensive equipment.
 
+## Trial timing — governing writing model
+Approximate combat duration per wave:
+- Red W1–3: **20–40 minutes**
+- Orange W4–7: **45–75 minutes**
+- Yellow W8–12: **1–2 hours**
+- Green W13–18: **2–3.5 hours**
+- Blue W19–25: **3.5–6 hours**
+- Violet W26–34: **6–12 hours**
+- White W35+: **12+ hours; extreme waves may become multi-day**
+
+Violet anchors: W26 ≈6h; W30 ≈9h; W34 ≈12h.
+Ranges are narrative normalization, not stopwatch guarantees. Reject near-flat upper-wave timing. Duration is not monster-count × constant kill time.

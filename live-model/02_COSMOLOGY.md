@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Starscapes, Genesis Log, neon, White/Black Möbius, energy
 
@@ -99,3 +99,7 @@ emergency-cuts.
 
 "Infinitely deep well" means **Valnak cannot find Kira's saturation
 point**, not that the text must claim literal mathematical infinity.
+
+## Checkpoint 07 localization anchor
+
+Preserve the working model that Valnak is Earth-localized through Planck-Horizon/Genesis architecture rather than an unrelated fantasy afterlife plane. Do not overformalize until dedicated cosmology work.

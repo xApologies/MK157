@@ -1,4 +1,4 @@
-> Source checkpoint 02. Authority: 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 02. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Checkpoint 02 Addendum — Valnak Society, illi, Highlights, Legacies
 
@@ -8,7 +8,7 @@
 Current canonical spelling is **VALNAK**. Normalize Valnak/Valnec/Valmec/Valmac variants to Valnak going forward.
 
 ## Arc One
-Arc One: Kira enters Afflicted → evaluation → six Black offerings → Armor of the Abyss → Valnak brownout / Elara emergency cutoff → Kira remade → solo Trial → Wave 8 clear → Yellow → Wave 9 overwhelm/death → restoration.
+Arc One: Kira enters Afflicted → evaluation → six Black offerings → Armor of the Abyss → Valnak BLACKOUT / Elara emergency cutoff → Kira remade → solo Trial → Wave 8 clear → Yellow → Wave 9 overwhelm/death → restoration.
 
 Kira and the noble prodigy both clear Wave 8 and are Yellow. Kira kills several more ELDRIS during Wave 9, making her **#1 First-Cycle standing**; the noble is #2.
 
@@ -116,7 +116,7 @@ Author analogy: **Elara is essentially a computer scientist; Valnak is her livin
 
 Kira is an edge case that makes Elara's program “misbehave” while technically obeying its rules: pruning fails to find a ceiling, Black classifications appear, development proposals become unprecedented, energy budgets exceed assumptions. Elara checks/computes in real time and gets frustrated because Valnak is not actually wrong.
 
-This is recurring comedy. In genuine danger Elara becomes instantly competent (brownout emergency cutoff). She deliberately engineers Kira/illi's dinner and genuinely enjoys the resulting trio.
+This is recurring comedy. In genuine danger Elara becomes instantly competent (BLACKOUT emergency cutoff). She deliberately engineers Kira/illi's dinner and genuinely enjoys the resulting trio.
 
 ## Binding terminology
 Use **Binding**, not spell, for acquired persistent capability architecture. Shaping is what a Binding enables/expresses.

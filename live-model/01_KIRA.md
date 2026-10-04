@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Kira --- Affliction, evolution, transformation, design
 
@@ -43,7 +43,7 @@ Craftsman.
 Kira is presented with six unprecedented Black offerings; **Armor of the
 Abyss** attracts her because she is an armorsmith.
 
-## Brownout transformation
+## BLACKOUT transformation
 
 Valnak attempts the Black Binding/chirality restructuring. Normally a
 bounded restructuring reaches saturation. Kira does not.
@@ -117,3 +117,59 @@ Initial combat vocabulary remains small: armor + claws. Extraordinary
 access does not equal mature skill/control/output.
 
 Permanent pigmentation remains WHITE. Abyssal Black with buried R→V spectral depth principally belongs to body-linked battle/Genesis architecture; intrinsic Black-compatible geometry is Genesis resolution through her biological boundary, not ordinary pigment or tissue burrowing. Recovered source morphology does not import identity, potion causality, rank ladders, tattoo ontology, or unrelated mechanics.
+
+## Genesis-Orb blender — promote to active canon
+Kira's Genesis Orbs are persistent external Black Genesis-energy bodies, roughly cannonball-sized (~8 in / 20 cm), dense/solid in interaction and capable of acting as mobile Transducers.
+
+Kira's signature Trial use is the **Orb blender**:
+- one or more Orbs resolve into extremely rapid orbital trajectories around Kira / defended local space;
+- this creates a moving physical/Genesis-interactive exclusion/disruption geometry;
+- it is **NOT a force field**;
+- ELDRIS entering the orbital path physically collide with dense, high-speed Black Genesis Orbs and suffer catastrophic blunt/Genesis trauma;
+- open Trial arenas provide unusually favorable unconstrained geometry;
+- multi-Orb patterned control progressively makes ordinary melee-wave pressure pathological for Valnak's assumptions.
+
+Kira therefore breaks the Trial while obeying its rules.
+
+Ordinary wave pressure:
+`more ELDRIS → more simultaneous threats → eventual saturation`
+
+Mature Kira in an open Trial:
+`more ELDRIS → more bodies attempting to cross the Orb exclusion geometry`
+
+As long as control/sustain/geometry remain favorable, wave quantity no longer scales against her normally. Later progression can become limited more by time, cognitive load, fatigue, boredom, or willingness to continue than immediate defeat.
+
+Exact final Eternal Standing wave numbers remain OPEN. Do not canonize Wave 96 merely because it was used conversationally as an example.
+
+
+## Orb mastery
+`one Orb → orbit/fight with one → two → patterned/symmetric control → three → independent trajectories/transductions`
+
+Orbs are mobile Transducers, not merely weapons. Their crude cannonball use is simply devastating early application.
+
+With ordinary Halo support, one Orb can eventually be maintained continuously/full-time with negligible energetic fatigue; active control still costs cognition. Whether two or three can be sustained indefinitely remains OPEN.
+
+Orbs can eventually become remote Transductive/Domain anchors.
+
+
+## Kira seasonal Black scaffold
+- Entry / early cycle: Armor of the Abyss
+- Early Orange: CSR
+- Late Yellow: Genesis Orbs
+- Early Blue: Halo
+- Late Violet: Domain
+- White: smaller support/interface/battlefield-integration acquisitions
+
+Acquisition is not mastery. Orb competency continues one→two→three across later seasons.
+
+
+## Black economics / Elara comedy engine
+Armor's initial ~1,000-credit availability is an anomaly caused by Black being outside ordinary pricing knowledge. Elara repairs later pricing. Later Black Bindings require meaningful credits plus competency/admissibility.
+
+Kira's later Trial credit explosions legitimately finance further Black development.
+
+Elara's comedy engine:
+1. Kira breaks assumptions while obeying rules.
+2. Valnak correctly rewards those unprecedented valid results.
+
+Examples: starter pricing anomaly; Orb cannonballs; Orb blender; Trial-credit explosions; Halo reducing energetic constraints; Eternal Standings preserving the absurd outputs.
