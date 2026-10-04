@@ -1,0 +1,11 @@
+{
+  "entity_count": 220,
+  "elemental_count": 180,
+  "creature_pattern_count": 40,
+  "unique_ids": 220,
+  "unique_names": 220,
+  "all_non_sentient_autonomous": true,
+  "all_three_domains": true,
+  "all_have_required_basins": true,
+  "status": "PASS"
+}

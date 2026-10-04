@@ -1,0 +1,145 @@
+{
+  "package": "MK157 Checkpoint 05 Git Update",
+  "date": "2026-10-04",
+  "target_repo": "xApologies/MK157",
+  "observed_main_tree_sha": "e6d8b0397337f510f503e234792a83003233c2ba",
+  "payload": [
+    "Checkpoint 05 live-model addendum",
+    "Binding registry",
+    "Summoned Entity registry",
+    "Valnak Builder Path registry",
+    "Codex executable"
+  ],
+  "files": [
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 2667,
+      "sha256": "877dfe0decb489e4e17a8f7ac25d23e6f4f16453c4fb56928a6768eaf6a98876"
+    },
+    {
+      "path": "PACKAGE_AUDIT.json",
+      "bytes": 223,
+      "sha256": "3ede7318740f32cb1402bb31324b48db0439cb72bdb5c38b6deaf0c071d17f2d"
+    },
+    {
+      "path": "bindings/AUDIT.json",
+      "bytes": 668,
+      "sha256": "d4c2b0e8b22ca4ee51efda0941ac0a34dc3a4104db432ba5228a6286aaf7e41b"
+    },
+    {
+      "path": "bindings/BINDINGS.csv",
+      "bytes": 984277,
+      "sha256": "915a4e090c93a020568b4d28ac160a7ea87b99d730036550d6e6df7a2d6a0635"
+    },
+    {
+      "path": "bindings/BINDINGS.json",
+      "bytes": 2714396,
+      "sha256": "a664a9898cd5a9410e97c82d14ab07632a7f8b16a58b1c7f88640a5e1753863c"
+    },
+    {
+      "path": "bindings/BINDINGS.jsonl",
+      "bytes": 2413386,
+      "sha256": "9f850b1ba4f112647f0a35c23c65b1fea5a4e9ef3e307adcea0814a20afdf356"
+    },
+    {
+      "path": "bindings/CANON_LOCKS.md",
+      "bytes": 1796,
+      "sha256": "efd23b5bbced5ff5990e34e7e389dbe3fa38b8ae80f5294ac131a26066b13879"
+    },
+    {
+      "path": "bindings/COMPENDIUM.md",
+      "bytes": 616974,
+      "sha256": "59ab4f4c9f0aace5c7594789e964806594934f1b2864f4df4bae923abb3a8782"
+    },
+    {
+      "path": "bindings/PRICING_MODEL.md",
+      "bytes": 283,
+      "sha256": "4fb70c2883ef6bd4e258198f67b8fd6afec62423be8ae735e052033494858065"
+    },
+    {
+      "path": "bindings/README.md",
+      "bytes": 1042,
+      "sha256": "c9458fddcb2da5402bb26a229b0f348c4a75884bd77c471f889bd7be4540340d"
+    },
+    {
+      "path": "builder/paths/AUDIT.json",
+      "bytes": 283,
+      "sha256": "cf7ca507aa66b2507f56d2254971b8bec07d156c407e8d028a0212e4ed544978"
+    },
+    {
+      "path": "builder/paths/CANON_GUARDRAILS.md",
+      "bytes": 685,
+      "sha256": "35dcc8e07ca935f4d5fbf6ad555a90f8529acc1fcf6ce603512b1e7a83822808"
+    },
+    {
+      "path": "builder/paths/PATHS.csv",
+      "bytes": 303691,
+      "sha256": "44ebe159f33f461fd91f61104cb4fcad7241b694da1509a0655d0b7912bcb8a8"
+    },
+    {
+      "path": "builder/paths/PATHS.json",
+      "bytes": 412992,
+      "sha256": "02aa803bf369bfaf032aa2c5b3b4c38d316e26418565487576bb497b42c9b0b3"
+    },
+    {
+      "path": "builder/paths/PATHS.jsonl",
+      "bytes": 356840,
+      "sha256": "270a2273a72c18f4ffe1bad2d6cfae54471a97180ca5eb68a0490c546a47fe57"
+    },
+    {
+      "path": "builder/paths/PATH_CATALOG.md",
+      "bytes": 102744,
+      "sha256": "3b1f7fa0fd9189c8495ed67420297c60f8130a378017c49909adb395a7254026"
+    },
+    {
+      "path": "builder/paths/PATH_SCHEMA.md",
+      "bytes": 261,
+      "sha256": "29c0876bc0d9f5e3cfc34270c299aa75e0dfac53420d2002d4b09eaa7617395e"
+    },
+    {
+      "path": "builder/paths/README.md",
+      "bytes": 530,
+      "sha256": "a0e9ae88b6f8be808ba19b63b30bac1368ea6cf3a157878a1295d82b7df6cc4e"
+    },
+    {
+      "path": "live-model/10_CHECKPOINT_05_ADDENDUM.md",
+      "bytes": 10525,
+      "sha256": "d425ba4ab8141a0a6450670eaa8525da2af243822dc886babfbd69b9dc3769b4"
+    },
+    {
+      "path": "summons/AUDIT.json",
+      "bytes": 251,
+      "sha256": "c62f4c5f12d247650bde395987058a56a12be6dc083077c5848a1fcefed257c4"
+    },
+    {
+      "path": "summons/CATALOG.md",
+      "bytes": 177496,
+      "sha256": "e3f338ad459b4669416d8db758ea8a59490b5565b84d298693f08d16747d0b9e"
+    },
+    {
+      "path": "summons/ENTITY_SCHEMA.md",
+      "bytes": 528,
+      "sha256": "e5235422378f035a7e1c065cd8bbb68f1531f61912bd4971b8a16261a99fd1d0"
+    },
+    {
+      "path": "summons/README.md",
+      "bytes": 1094,
+      "sha256": "0227aa12d8362f787c60e7521dbdc3a814c1ce7922e705459bd0582721b76a73"
+    },
+    {
+      "path": "summons/SUMMONED_ENTITIES.csv",
+      "bytes": 445125,
+      "sha256": "cef4f1b57b1952e9a29da3766c66e36c25be124673ad038ce86f1b927cd6212e"
+    },
+    {
+      "path": "summons/SUMMONED_ENTITIES.json",
+      "bytes": 633977,
+      "sha256": "95830be4b637abe771cee1cc91ac83d70d7b4011de39bdca536f0e832459773e"
+    },
+    {
+      "path": "summons/SUMMONED_ENTITIES.jsonl",
+      "bytes": 547373,
+      "sha256": "7955c4afa1ebb40246d82f0c6dedeedc309139f9f2f0fed79c4bed963566ac3e"
+    }
+  ]
+}

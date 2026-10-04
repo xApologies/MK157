@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "bindings": 1014,
+  "summons": 220,
+  "paths": 200,
+  "binding_refs_valid": true,
+  "summon_refs_valid": true,
+  "nested_zips": 0,
+  "checkpoint_addendum": "live-model/10_CHECKPOINT_05_ADDENDUM.md"
+}

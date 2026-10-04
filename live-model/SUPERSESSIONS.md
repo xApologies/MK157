@@ -1,6 +1,6 @@
 # Authority and supersessions
 
-Checkpoint 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -20,3 +20,15 @@ Checkpoint 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail 
 Do not revive six separate Black channels, unlimited output/automatic mastery, MK147 Binding-circle incompatibility, White=Crown Vaelle, or unrelated Kaira/Enix mechanics. The explicit Checkpoint 03 biological cannibalization remains authorized without its old potion/Class-2 causality.
 
 Retain every older OPEN item unless a checkpoint explicitly answers it. Importing or indexing it never supplies an answer.
+
+## Checkpoint 05 supersessions
+
+- The illustrative 300-credit Fireball + 700-credit shield economy is superseded by each Binding's intrinsic Red base cost and recursive rank pricing: ×1.60, ×1.80, ×2.10, ×2.50, ×3.00, ×4.00.
+- Class-first Binding taxonomy is superseded by six Transduction domains. Professions/build affinities remain metadata.
+- Basin colors are structural energy identities only. Any basin-to-domain/element/power mapping is forbidden and noncanonical.
+- Healing ontology is locked to Directed Coherence, Persistent Coherence, Coherence Field and their three Decoherence mirrors. Injury types do not create separate healing operations.
+- Current working season duration is seven weeks per season. Exact external conversion and per-wave timing remain unresolved.
+- The current working acquisition scaffold puts Genesis Orbs in late Yellow before Halo in early Blue, superseding the older prescribed order on that explicit point. Armor, CSR, Orbs, Halo, Domain remain the five foundational systems; purchase is not mastery.
+- Checkpoint 05 uses Paths for curated Builder trajectories and illi's developmental opportunity. Earlier contractual Legacy/True Legacy detail remains non-conflicting provenance, and Kira's Black Legacy remains explicit. Generated Paths do not automatically define Kira or illi.
+
+See [Checkpoint 05](10_CHECKPOINT_05_ADDENDUM.md) for complete governing detail. Older checkpoint documents remain unchanged by this update.

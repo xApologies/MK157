@@ -1,0 +1,15 @@
+{
+  "path_count": 200,
+  "unique_ids": 200,
+  "unique_names": 200,
+  "role_counts": {
+    "Combat Medic": 30,
+    "Augmenter": 45,
+    "Maege": 65,
+    "Summoner": 60
+  },
+  "all_binding_refs_valid": true,
+  "all_summon_refs_valid": true,
+  "architect_paths": 0,
+  "status": "PASS"
+}

@@ -1,0 +1,26 @@
+# Entity Profile Schema
+Each entity has:
+- Entity ID / name
+- Entity type
+- Body mechanism
+- Sentience/autonomy state
+- Transduction domains
+- Behavior package
+- Combat role
+- Scale
+- Mobility
+- Offensive expressions
+- Defensive expressions
+- Control complexity
+- Manifestation cost profile
+- Sustain load
+- Maximum practical persistence
+- Required basins
+- Basin draw profile
+- Collapse conditions
+- Command architecture
+- Range/leash
+- Rank inheritance
+- White secondary expression
+- Binding reference
+- Builder tags / status

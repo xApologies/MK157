@@ -1,6 +1,6 @@
 # OPEN ledger
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -9,3 +9,5 @@ No OPEN question was resolved by repository import. Read all source ledgers with
 - [Checkpoint 04](09_CHECKPOINT_04_ADDENDUM.md): exact later Black pricing; indefinite two/three-Orb sustainment; Orb-hosted Elara identity/instancing; exact Eternal Standing wave numbers; unidentified recurring Trio friend; exact subjective/external time conversion.
 
 Wave 96 is expressly not canonized. AERA is retained as supplied without inventing an expansion or mechanics. Working figures are not promoted to fixed universal laws.
+
+- [Checkpoint 05](10_CHECKPOINT_05_ADDENDUM.md): exact per-wave timing, final illi build, candidate registry evolution, and topology-derived Binding basin requirements remain unresolved. Seven weeks per season is a supplied working value, not an invented conversion law.

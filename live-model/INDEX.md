@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
+Authority: 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -18,3 +18,10 @@ Authority: 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin 
 - [Visual references](../visual-references/INDEX.md) — Current versus superseded asset status.
 - [Original package text](../provenance/checkpoint-04-package/README.md) — Verbatim originals before spelling normalization.
 - [Prior baseline](../prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md) — Complete inherited mechanics and story, subject to supersessions.
+
+- [Checkpoint 05](10_CHECKPOINT_05_ADDENDUM.md) — Seasons, economy, six-domain taxonomy, fatigue, summons, Builder, Kira/illi progression.
+- [Binding registry](../bindings/README.md) — 1,014 domain-first candidate Bindings and recursive rank pricing.
+- [Summoned Entity registry](../summons/README.md) — 220 non-sentient autonomous manifestation candidates.
+- [Builder Paths](../builder/paths/README.md) — 200 candidate trajectories; generated candidates do not define Kira or illi.
+- [Checkpoint 05 package](../provenance/checkpoint-05-package/MANIFEST.json) — Original update manifest and handoff.
+- [Checkpoint 05 validation](../provenance/CHECKPOINT_05_AUDIT.json) — Import hashes and independently verified registry counts/references.

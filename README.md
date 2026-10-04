@@ -1,6 +1,6 @@
-# MK157 — Cumulative Checkpoint 04
+# MK157 — Live Model through Checkpoint 05
 
-Current authority: **04 > 03 > 02 > 01** for explicit conflicts; all non-conflicting detail accumulates. This is the full cumulative 2026-10-04 model for xApologies/MK157.
+Current authority: **05 > 04 > 03 > 02 > 01** for explicit conflicts; all non-conflicting detail accumulates. This is the cumulative 2026-10-04 model through Checkpoint 05 for xApologies/MK157.
 
 Start with [live-model/INDEX.md](live-model/INDEX.md), [supersessions](live-model/SUPERSESSIONS.md), [OPEN ledger](live-model/OPEN.md), and [visual-reference status](visual-references/INDEX.md). Original text is preserved in provenance/checkpoint-04-package/ and prior-checkpoint-source/. Historical manifests describe their own checkpoints; MANIFEST_CHECKPOINT_04.json governs package verification.
 
@@ -34,3 +34,9 @@ Read `live-model/08_CHECKPOINT_03_ADDENDUM.md` last. It contains the newest cano
 
 ## Checkpoint 04 authority
 Checkpoint 04 is the current FULL cumulative handoff. Read `live-model/09_CHECKPOINT_04_ADDENDUM.md` last. `EXECUTABLE.md` is the current Codex handoff.
+
+## Checkpoint 05 infrastructure
+
+[Checkpoint 05](live-model/10_CHECKPOINT_05_ADDENDUM.md) adds the root-level [Binding registry](bindings/README.md), [Summoned Entity registry](summons/README.md), and [Builder Paths](builder/paths/README.md). Registry entries are candidates governed by canon locks; generated Paths do not automatically define Kira or illi. The original update handoff and manifest are retained in provenance/checkpoint-05-package/.
+
+The current update handoff is [Checkpoint 05 EXECUTABLE.md](provenance/checkpoint-05-package/EXECUTABLE.md). Root executable/manifests and the quoted README chronology retain their historical checkpoint scope.

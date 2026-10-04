@@ -1,0 +1,20 @@
+{
+  "checkpoint": "05",
+  "status": "PASS",
+  "bindings": 1014,
+  "unique_binding_ids": 1014,
+  "unique_binding_names": 1014,
+  "locked_coherence_decoherence_entries": 6,
+  "summons": 220,
+  "all_summons_non_sentient_autonomous": true,
+  "summon_domains_valid": true,
+  "paths": 200,
+  "architect_paths": 0,
+  "binding_references_validated": 1598,
+  "summon_references_validated": 180,
+  "manifest_files_verified": 26,
+  "csv_json_jsonl_counts_match": true,
+  "older_checkpoint_files_preserved": true,
+  "open_items_silently_resolved": false,
+  "basin_mapping_review": "Structural identities only; prohibited mappings appear only as explicitly rejected examples/guardrails."
+}
