@@ -1,6 +1,6 @@
 # Authority and supersessions
 
-Checkpoint 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -32,8 +32,3 @@ Retain every older OPEN item unless a checkpoint explicitly answers it. Importin
 - Checkpoint 05 uses Paths for curated Builder trajectories and illi's developmental opportunity. Earlier contractual Legacy/True Legacy detail remains non-conflicting provenance, and Kira's Black Legacy remains explicit. Generated Paths do not automatically define Kira or illi.
 
 See [Checkpoint 05](10_CHECKPOINT_05_ADDENDUM.md) for complete governing detail. Older checkpoint documents remain unchanged by this update.
-
-
-## Checkpoint 06 normalization
-
-Active Kira and visual summaries now state the WHITE biological skin/hair and BLACK/R→V eyes with effectively perfect symmetry and crystalline Genesis skeletal/neural integration. Historical black/gold phenotype text and images are SUPERSEDED, retained in provenance. White biological hair can integrate/reconfigure into body-linked Armor. Intrinsic Black/rainbow geometry is Genesis resolution through the biological boundary rather than pigmentation or tissue burrowing. Precise anatomy, organ remodeling, mass changes and skin-depth mechanism remain OPEN. Source morphology imports no identity, potion causality, Class-2 rank ladder, tattoo ontology or unrelated setting mechanics.

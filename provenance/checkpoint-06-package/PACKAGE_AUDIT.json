@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "package_type": "clean-build instructions + Checkpoint 06 authoritative content",
+  "observed_repo_tree_sha": "dad02e4a456cd4b8e5337a5504c93eca70f6970b",
+  "payload_files": [
+    "EXECUTABLE.md",
+    "CLEAN_BUILD_PLAN.md",
+    "11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md"
+  ],
+  "note": "Codex is instructed to normalize existing repo content rather than blindly overlay a partial tree."
+}

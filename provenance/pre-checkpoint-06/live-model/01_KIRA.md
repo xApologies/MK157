@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Kira --- Affliction, evolution, transformation, design
 
@@ -73,17 +73,21 @@ balance and proprioception. Arms/legs are proportionally longer.
 Build: **thin, lithe, trim, muscular, unusually dense**. Natural
 fighter's physique. Not bulky/bodybuilder-heavy and not willowy.
 
-Skin: energized multilayered **WHITE**, healthy rather than pathological Afflicted chalk-white. Physically thin but visually/energetically deep; observers seem to look into Genesis resolution, with extreme apparent depth rather than infinitely thick tissue.
+Skin: extremely deep **matte black**, smooth and ultra-fine with an
+almost chalk-like optical texture. Depth without gloss. Not metallic,
+obsidian, rough or dusty.
 
-Hair: healthy biological **WHITE** hair, dramatically fuller and thicker; working morphology approximately 2–3× former apparent fullness.
+Nails: even blacker than skin and completely non-reflective---quiet
+optical-void black.
 
-Eyes: **BLACK** internal depth with **Red→Violet spectral/rainbow striation**. Enlarged/restructured orbital anatomy supports heightened Genesis/topological perception and exotic beauty while remaining human.
+Eyes: most striking feature. Narrow/deep vertical Black pupil surrounded
+by turbulent radiant **golden Genesis energy**. Visual inspiration:
+Eye-of-Mordor-like vertical geometry converted from fire to golden
+energy. Alien-looking but Kira remains human.
 
-Symmetry: effectively **perfect** biological/facial symmetry. Kira remains recognizably herself and unmistakably human.
-
-Skeleton: Genesis-integrated with crystalline skeletal lamina/structure at concept level. Brain and nervous system use hybrid crystalline-Genesis neural integration; musculature/connective structures participate in the same coherent biological-energy realization.
-
-Precise microscopic anatomy, organ remodeling, weight/mass change, and the exact mechanism of apparent non-terminating skin depth remain OPEN. Former optical-void nails described relative to black skin are historical morphology, not a newly fixed nail specification.
+Hair: long, made of fine individual strands/filaments of **golden
+Genesis energy**. It still reads and moves as hair. Energy shimmers
+along strands. Not cables, tethers, tentacles or literal flames.
 
 Face/skeleton: recognizably Kira but more angular/refined: high
 cheekbones, clean angular jaw, sharper facial planes, slightly larger
@@ -99,7 +103,7 @@ Armor is not equipment worn over Kira. Since she is remade in Genesis
 energy, armor manifestation is a **reconfiguration of her own
 energetic/chirality structure**.
 
-Her healthy white biological hair can integrate/reconfigure into
+Her long golden hair ceases being organized as hair and resolves into
 the armor. The armor can close seamlessly over head/body. When
 dismissed, energy re-resolves into Kira's ordinary post-transformation
 form.
@@ -109,11 +113,9 @@ unified neon R--V rainbow/geometry appears trapped far beneath the
 surface and only intermittently manifests. Black dominates; neon reveals
 structure.
 
-Learned hand geometry: five armored fingers initially, resolving with practice into three large claws per hand---thumb; index+middle;
+Initial hand geometry: three large claws per hand---thumb; index+middle;
 ring+pinky. Biological fingers remain; armor forms the larger claw
 geometry.
 
 Initial combat vocabulary remains small: armor + claws. Extraordinary
 access does not equal mature skill/control/output.
-
-Permanent pigmentation remains WHITE. Abyssal Black with buried R→V spectral depth principally belongs to body-linked battle/Genesis architecture; intrinsic Black-compatible geometry is Genesis resolution through her biological boundary, not ordinary pigment or tissue burrowing. Recovered source morphology does not import identity, potion causality, rank ladders, tattoo ontology, or unrelated mechanics.

@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # OPEN questions, supersessions, provenance
 
@@ -83,7 +83,9 @@ recurring comedy, but exact later Paths remain OPEN.
 8.  Valnak attempts restructuring.
 9.  Kira opens into Black and overloads Valnak's available throughput.
 10. Valnak visibly dims; Elara emergency-cuts the draw.
-11. Kira emerges remade, no longer Afflicted: approximately 5'11", energized multilayered WHITE skin, healthy WHITE hair, BLACK/R→V spectral eyes, perfect symmetry, crystalline Genesis skeletal/neural integration, lithe dense anatomy and tapered human ears.
+11. Kira emerges remade, no longer Afflicted: 5'11", matte-black skin,
+    gold energy eyes/hair, lithe dense anatomy, tapered ears, Black
+    chirality organization.
 12. Armor manifests by reconfiguring Kira herself; hair resolves into
     armor; three claws per hand.
 13. Kira enters normal solo Combat Trial as a crude brawler/juggernaut.

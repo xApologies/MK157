@@ -1,0 +1,27 @@
+{
+  "package": "MK157 Checkpoint 06 Clean Build",
+  "date": "2026-10-04",
+  "target_repo": "xApologies/MK157",
+  "files": [
+    {
+      "path": "11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+      "bytes": 3770,
+      "sha256": "5d8c3b10b9edcc200dfeb5aaa4bdbb05c443239cd264fb7d27bd89e1578132b8"
+    },
+    {
+      "path": "CLEAN_BUILD_PLAN.md",
+      "bytes": 7074,
+      "sha256": "606697cd435c3f9909fae02534011ea3b1e48562aa0385beca7e59cb5fbe3c87"
+    },
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 1057,
+      "sha256": "9c22e2b5909868b7fca53c8549dfec1fe5cbc50814d13074a3f914abca296eff"
+    },
+    {
+      "path": "PACKAGE_AUDIT.json",
+      "bytes": 407,
+      "sha256": "2c87d0907bba43d3c4995fe6dcc38df97b49624590d661b6025f7a344376c9e8"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Visual canon
 
@@ -19,22 +19,17 @@ visually.
 
 Kira sees six Black plaques at first Black Path presentation.
 
-## Kira eye reference
+## Kira eye reference — SUPERSEDED
 
-`visual-references/KIRA_GOLDEN_EYE_REFERENCE.png`. Use the vertical
-Black pupil + golden turbulent Genesis-energy quality. Do not literally
-reproduce fiery Mordor orange; canonical energy is gold.
+`visual-references/KIRA_GOLDEN_EYE_REFERENCE.png` is provenance only. Golden Eye-of-Mordor eyes are SUPERSEDED. Current eyes have BLACK internal depth with Red→Violet spectral/rainbow striation.
 
-## Post-transformation Kira
+## Current post-transformation Kira
 
-`visual-references/KIRA_POST_VALNEK_CANON.png` is the selected current
-visual reference.
+Current ordinary Kira: energized multilayered WHITE skin, healthy/full WHITE biological hair, BLACK/R→V spectral eyes, effectively perfect symmetry, refined angular geometry, enlarged orbital anatomy, crystalline Genesis skeletal/neural integration, approximately 5'11", lithe/dense athletic build. She is exotic/otherworldly and recognizably human. [Checkpoint 06](11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md) governs the complete morphology and OPEN boundaries.
 
-Important corrections/interpretation: - keep her thin/lithe rather than
-bulky; - matte-black skin; - golden energy hair that still behaves as
-hair; - golden slit-energy eyes; - black dress/gown in this reference is
-visual presentation, not permanent armor; - Armor of the Abyss remains a
-separate liquid-Black/neon manifestation.
+`visual-references/KIRA_POST_VALNEK_CANON.png` is a historical filename only. Its black/gold phenotype is SUPERSEDED / provenance only; it is not a current ordinary-Kira reference. The dress/gown remains presentation rather than permanent armor.
+
+Black Armor of the Abyss is body-linked liquid/deep Black with buried R→V spectral structure. White biological hair can integrate/reconfigure into the armored state. Halo's final visual remains OPEN under Genesis/Black grammar.
 
 ## Pre-transformation reference
 

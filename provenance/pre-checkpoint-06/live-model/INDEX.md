@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
+Authority: 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -25,6 +25,3 @@ Authority: 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulati
 - [Builder Paths](../builder/paths/README.md) — 200 candidate trajectories; generated candidates do not define Kira or illi.
 - [Checkpoint 05 package](../provenance/checkpoint-05-package/MANIFEST.json) — Original update manifest and handoff.
 - [Checkpoint 05 validation](../provenance/CHECKPOINT_05_AUDIT.json) — Import hashes and independently verified registry counts/references.
-
-- [Checkpoint 06](11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md) — Current Kira biological realization, intrinsic Black/rainbow geometry, source firewall and supersessions.
-- [Clean-build validation](../provenance/CHECKPOINT_06_AUDIT.json) — Full normalization and registry validation results.
