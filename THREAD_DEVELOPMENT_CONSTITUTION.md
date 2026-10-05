@@ -6,7 +6,7 @@ This constitution governs cross-thread MK157 development. Its purpose is continu
 ## Authority
 1. Git is the persistent cross-thread source of truth.
 2. At a new thread start, crawl the MK157 repository before reconstructing established systems from memory.
-3. Current authority is Checkpoint 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+3. Current authority is Checkpoint 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 4. Provenance/historical files are not current canon merely because they remain in Git.
 5. Never silently revive superseded material.
 6. OPEN means OPEN. Distinguish LOCKED / WORKING / ALPHA / OPEN / SUPERSEDED.
@@ -196,3 +196,5 @@ Do not import unrelated MK-147 Kira/Enix identity, Binding-circle causality, old
 ## Checkpoint 10 continuity
 
 31-hour planetary days are LOCKED. The ordinary four-season planetary year is distinct from Valnak's seven-color seasons. Calendar month-sum/week-length conflicts are explicitly OPEN; consult [calendar reconciliation](live-model/PLANETARY_CALENDAR.md). Fixed Trial geography and wave delivery follow [Trial arena](live-model/TRIAL_ARENA.md). Deep pushes require multi-day scheduling; W35 saturation and Kira's four-day estimate remain WORKING. Do not import unpromoted upstream plot or biology mechanisms.
+
+Checkpoint 11 governs acquisition economy, Blue Persistent Coherence White Legacy entry, standing calendar and card-color semantics. Consult [economy handoff](live-model/ECONOMY_PURCHASE_SCHEDULE.md), [Genesis Cards](live-model/GENESIS_CARDS.md), and [World Clock](live-model/WORLD_CLOCK.md). Exact purchase dates and discretionary prices remain OPEN.

@@ -168,3 +168,45 @@ Competition can begin distributed across city instances and collapse toward civi
 Exact bracket sizes and tournament scoring remain OPEN until needed.
 
 Rewards can include credits and specialty/exclusive cards. Exact reward tables remain OPEN.
+## Checkpoint 11 shared card medium and color firewall
+
+## 7. Two distinct card ecosystems
+
+MK157 has TWO distinct card cultures:
+
+1. **`raeon`** — playable topology/manifold card game.
+2. **Genesis Cards** — collectible trading/display cards containing bounded representations of Transductive manifolds.
+
+Do not conflate them.
+
+## 8. Shared physical card form
+
+Both systems use durable transparent **maege-glass** cards.
+
+Working physical form:
+approximately standard trading-card/baseball-card size, roughly **2.5 × 3.5 inches**.
+Exact millimeter dimensions remain nonessential unless later needed.
+
+Maege glass is:
+- transparent;
+- extremely durable;
+- Genesis/energy interactive;
+- suitable for anchored field/manifold structures.
+
+Do NOT depict these cards as opaque colored plastic slabs.
+
+## 11. `raeon` card visual/color semantics
+
+`raeon` remains the playable game and defers detailed mechanics to `_raeon`.
+
+Its physical cards use transparent/durable maege glass.
+
+For `raeon`, the Red -> Orange -> Yellow -> Green -> Blue -> Violet (and established White where applicable) color presentation is a GAME classification/rarity identity, not a statement that the card's represented topology requires those energy basins.
+
+FIREWALL:
+**Genesis Card color = actual basin composition of the represented manifold.**
+**`raeon` card color = game classification/rarity.**
+
+Do not merge these semantics.
+
+[Genesis Cards](GENESIS_CARDS.md) are a separate collectible culture. Seasonal raeon championship is W7 D5; late bracket/semifinals occupy W7 D1–D4. Bracket size and individual card prices remain OPEN.

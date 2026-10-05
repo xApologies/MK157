@@ -174,3 +174,68 @@ Deep Duo/Trio attempts similarly consume major calendar blocks.
 This is foundational for the forthcoming Valnak Calendar / World Clock + Kira + illi scheduling work.
 
 One planetary day is 31 hours. The central W1–35 estimate (~156 h) converts to 5 days + 1 hour; Kira's mature-blender ~4-day estimate is WORKING. [Calendar reconciliation](PLANETARY_CALENDAR.md) leaves month totals and planetary/Valnak week conversion OPEN. Existing 49-week and 37-team CSVs remain unchanged; this delta schedules no new events.
+
+## Checkpoint 11 governing standing schedule
+
+## 1. Valnak Calendar coordinate system
+
+Canonical author coordinate:
+**Season -> Week -> Day**
+
+Examples:
+Red W3 D4
+Yellow W6 D2
+White W1 D7
+
+Valnak Seasonal deployment:
+7 color seasons × 7 weeks × 7 days = 343 Valnak days.
+Planetary day = 31 hours.
+
+Long events use ranges rather than fake daily repetition:
+Yellow W4 D2–D6 — deep Duo Trial, etc.
+
+## 2. Standing World Clock schedule
+
+### Nightly Highlight Reels
+Every Valnak day:
+**25:00 — Nightly Highlight Reels**
+
+Voluntary social/decompression event. It occurs daily whether or not Kira/illi attend.
+Specific reels are annotated only when narratively important.
+
+### `raeon` tournament
+Every season:
+- W1–W4 ordinary play/build/shop/practice
+- W5 opening/qualification bracket
+- W6 elimination progression
+- W7 D1–D4 late bracket / semifinals
+- **W7 D5 seasonal championship**
+
+Exact bracket size remains OPEN.
+
+### Seasonal Auction
+Every season:
+**W7 D5–D7**
+
+Three-day social/economic spectacle.
+W7 D5 overlaps the seasonal `raeon` championship.
+Exact lot ordering remains OPEN.
+
+### Prism
+One long championship.
+Regular season:
+**Red W1 through Violet W7**
+Standings = wins/losses.
+37 tracked teams; ~20 moving competitive bubble.
+
+Postseason:
+- White W1–W2: Round of 16
+- White W3: Quarterfinals
+- White W4: Semifinals
+- White W5: championship buildup
+- White W6: Prism Championship
+- White W7: closing/social/final Auction week
+
+Top 16 qualify; 16 -> 8 -> 4 -> 2 -> Champion.
+
+This schedule supersedes earlier OPEN highlight time and playoff-week placement. It does not populate team names or purchase dates. [Economy and simulation handoff](ECONOMY_PURCHASE_SCHEDULE.md). Multi-day Trial blocks from Checkpoint 10 remain governing.

@@ -116,3 +116,6 @@ Top 16 qualify.
 Standings use wins/losses.
 
 Do NOT generate team names or rosters yet. Those remain OPEN until the World Clock is populated.
+## Checkpoint 11 postseason calendar
+
+Regular play: Red W1 through Violet W7. White W1–W2 Round of 16; W3 quarterfinals; W4 semifinals; W5 buildup; W6 championship; W7 closing/social/final Auction. This supersedes OPEN playoff-week placement; match frequency, team size, names, rosters, seeding and tie-breaks remain OPEN.

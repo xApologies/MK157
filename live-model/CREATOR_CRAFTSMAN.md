@@ -675,3 +675,4 @@ Core principle:
 **CRAFT KNOWLEDGE + MATERIAL KNOWLEDGE + TRANSDUCTION = ADVANCED CREATION**
 
 Creation is a primary Valnak route parallel to Combat.
+Checkpoint 11 fixes seasonal Auctions at W7 D5–D7. Originals remain distinct from reproducible Shop designs. Equipment, materials, cards and Binding development compete for credits; discretionary prices remain OPEN. See [economy](ECONOMY_PURCHASE_SCHEDULE.md).

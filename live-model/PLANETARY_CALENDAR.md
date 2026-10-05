@@ -44,3 +44,6 @@ seven weeks per season, 49 Valnak weeks total.
 Do not conflate the planet's ordinary four-season astronomical year with Valnak's seven-color Seasonal deployment. They are different calendar structures.
 
 Four ordinary astronomical seasons of 90 days each are supplied in the source note; this is distinct from Valnak color seasons. Only explicitly promoted calendar infrastructure is inherited; unrelated astronomy/Blackstone material remains quarantined.
+## Checkpoint 11 calendar clarification
+
+Valnak scheduling weeks have seven days: 7 seasons × 7 weeks × 7 days = **343 Valnak days**, each 31 hours. This resolves the previously OPEN Valnak-week length without equating it to planetary weeks. The supplied planetary 360 days / 60 weeks implies six-day planetary weeks. Planetary month lengths still total 353 instead of stated 360; that separate reconciliation remains CONFLICT/OPEN. Checkpoint 10's unresolved week wording is historical; use this explicit Valnak coordinate structure for current scheduling.

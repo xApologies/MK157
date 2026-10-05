@@ -1,6 +1,6 @@
 # OPEN ledger
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -67,3 +67,22 @@ The supplied month sequence 33/32/31/33/31/32/33/32/31/33/32 totals **353**, not
 360 days / 60 weeks implies six days per planetary week, while the source Trial planning prose mentions a seven-day week. The relationship between planetary weeks and Valnak scheduling weeks is OPEN; no day-to-Valnak-week conversion is assigned. The existing seven seasons × seven Valnak weeks = 49-week template remains unchanged. The **31-hour day** and **156 hours = 5 days + 1 hour** conversion are unaffected.
 
 W96 remains NONCANON. W35 maximum-pressure saturation and Kira's ~4-day W1–35 estimate remain WORKING.
+
+## Checkpoint 11 current unresolved decisions
+
+## 13. Protected OPEN items
+
+Do not silently decide:
+- exact Genesis Card set sizes/rarities/prices;
+- exact `raeon` individual card prices;
+- exact Auction item prices;
+- exact Kira discretionary purchases;
+- exact illi discretionary purchases;
+- exact Red-season credit income until Trial/Dungeon reward tables are solved;
+- exact day illi reaches Blue Persistent Coherence;
+- exact day Absorption Shield is acquired;
+- exact day Kira buys CSR;
+- exact credit cost of Absorption Shield unless already grounded elsewhere;
+- exact standard card dimensions beyond the working trading-card form factor.
+
+Resolved by Checkpoint 11: Black acquisition gates, Blue Persistent Coherence entry qualification, Valnak seven-day weeks, 25:00 highlights and standing championship/Auction/postseason placement. Older OPEN entries for these are superseded. Planetary month reconciliation remains OPEN; team names, detailed match schedule, credit income and purchase dates remain OPEN.

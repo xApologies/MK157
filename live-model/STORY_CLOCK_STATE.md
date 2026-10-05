@@ -160,3 +160,84 @@ Deep Duo/Trio attempts similarly consume major calendar blocks.
 This is foundational for the forthcoming Valnak Calendar / World Clock + Kira + illi scheduling work.
 
 One planetary day is 31 hours. The central W1–35 estimate (~156 h) converts to 5 days + 1 hour; Kira's mature-blender ~4-day estimate is WORKING. [Calendar reconciliation](PLANETARY_CALENDAR.md) leaves month totals and planetary/Valnak week conversion OPEN. Existing 49-week and 37-team CSVs remain unchanged; this delta schedules no new events.
+
+## Checkpoint 11 purchase-simulation handoff
+
+## 4. illi Red-season economic objective / White Legacy gate
+
+illi begins with:
+**Persistent Coherence — Red**
+
+During Red season, she develops/ranks Persistent Coherence using the ordinary recursive Binding economy.
+
+Ordinary pricing law remains:
+Red = B
+Orange = previous ×1.60
+Yellow = previous ×1.80
+Green = previous ×2.10
+Blue = previous ×2.50
+Violet = previous ×3.00
+White = previous ×4.00
+
+For an illustrative B=1,000 Persistent Coherence:
+R 1,000
+O 1,600
+Y 2,880
+G 6,048
+B 15,120
+
+Cumulative Red-through-Blue investment:
+**26,648 credits**
+
+Author shorthand: roughly 27k / just under 30k.
+
+NEW LOCK:
+**Persistent Coherence must reach BLUE for illi to qualify for/access her White Legacy trajectory.**
+
+This gives Red season a concrete illi objective:
+rank Persistent Coherence R -> O -> Y -> G -> B.
+
+Once Blue Persistent Coherence is achieved, the White Legacy becomes available and can prescribe/enable the next major acquisition:
+**Absorption Shield**.
+
+The exact calendar day on which Blue is purchased and Absorption is acquired will be solved in the next thread from actual credit accumulation. Do not silently retain an older arbitrary Orange W1 D4 acquisition date if the economic simulation moves it.
+
+Existing later White-Legacy gates remain:
+- Genesis Beam GREEN -> Genesis Prime RED available
+- Persistent Coherence GREEN -> Coherence Prime RED available
+- Absorption Shield GREEN -> Resonance Prime RED available
+
+The new Blue Persistent Coherence rule is specifically the ENTRY QUALIFICATION for access to the White Legacy trajectory, not a replacement for later individual Prime gates.
+
+## 12. Next-thread development target
+
+The next MK157 thread should crawl Git after Checkpoint 11 and continue with the **Valnak Calendar / purchase schedule simulation**.
+
+Primary task:
+map Kira + illi across:
+Season -> Week -> Day
+
+Track:
+- current Bindings / ranks;
+- next purchase/gate;
+- credit earned;
+- credit spent;
+- ledger balance;
+- Solo/Duo/Trio wave progression;
+- time consumed by Trials;
+- Dungeons;
+- raid preparation/attempts;
+- `domai` operations;
+- social/royal obligations;
+- Prism;
+- `raeon`;
+- Auctions;
+- nightly highlights;
+- story/arc purpose.
+
+Immediate economic goals:
+- Kira accumulates toward each 61,000-credit Black acquisition.
+- illi accumulates/ranks Persistent Coherence to Blue to unlock White Legacy access.
+- solve actual acquisition dates from credit income rather than arbitrary calendar placement.
+
+White Legacy access requires Blue Persistent Coherence. Previous seasonal acquisition labels remain planning scaffold only; no purchase date is assigned by this integration. Standing schedule: highlights 25:00 daily; raeon championship W7 D5; Auction W7 D5–D7; Prism White postseason follows [World Clock](WORLD_CLOCK.md).

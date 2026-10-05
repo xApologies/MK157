@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Governance and terminology
 
@@ -96,3 +96,5 @@ Do not import unrelated MK-147 Kira/Enix identity, Binding-circle causality, old
 [Source quarantine](SOURCE_BOUNDARIES.md) governs inherited documents. The exact Checkpoint 09 master is retained verbatim as source evidence; its PENDING header describes package creation, not current integration state.
 
 Checkpoint 10 explicitly promotes the 31-hour day; [calendar conflicts](PLANETARY_CALENDAR.md) remain OPEN. Source quarantine continues for all unpromoted external material.
+
+Checkpoint 11 explicitly promotes Genesis Card inheritance: bounded-manifold collectibles, not Binding grants/casts. [Genesis Card color](GENESIS_CARDS.md) is structural basin composition; raeon color is game classification/rarity. The handoff to future purchase simulation does not fix acquisition dates.

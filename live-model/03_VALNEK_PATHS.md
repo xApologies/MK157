@@ -431,3 +431,76 @@ Participants optimize simultaneously for:
 White Legacies are exceptional partly because they can compress these graphs.
 
 Creation is a primary Valnak route: [full Creator/Craftsman continuity](CREATOR_CRAFTSMAN.md). [City/culture/transport](VALNAK_CITY_CULTURE_TRANSPORT.md), [raeon](RAEON.md), [Prism](PRISM.md), and [World Clock](WORLD_CLOCK.md) preserve the full current domain detail. Checkpoint 08 Green Solo graduation and Black/White progression remain governing.
+
+## Checkpoint 11 illi entry qualification and economy
+
+## 4. illi Red-season economic objective / White Legacy gate
+
+illi begins with:
+**Persistent Coherence — Red**
+
+During Red season, she develops/ranks Persistent Coherence using the ordinary recursive Binding economy.
+
+Ordinary pricing law remains:
+Red = B
+Orange = previous ×1.60
+Yellow = previous ×1.80
+Green = previous ×2.10
+Blue = previous ×2.50
+Violet = previous ×3.00
+White = previous ×4.00
+
+For an illustrative B=1,000 Persistent Coherence:
+R 1,000
+O 1,600
+Y 2,880
+G 6,048
+B 15,120
+
+Cumulative Red-through-Blue investment:
+**26,648 credits**
+
+Author shorthand: roughly 27k / just under 30k.
+
+NEW LOCK:
+**Persistent Coherence must reach BLUE for illi to qualify for/access her White Legacy trajectory.**
+
+This gives Red season a concrete illi objective:
+rank Persistent Coherence R -> O -> Y -> G -> B.
+
+Once Blue Persistent Coherence is achieved, the White Legacy becomes available and can prescribe/enable the next major acquisition:
+**Absorption Shield**.
+
+The exact calendar day on which Blue is purchased and Absorption is acquired will be solved in the next thread from actual credit accumulation. Do not silently retain an older arbitrary Orange W1 D4 acquisition date if the economic simulation moves it.
+
+Existing later White-Legacy gates remain:
+- Genesis Beam GREEN -> Genesis Prime RED available
+- Persistent Coherence GREEN -> Coherence Prime RED available
+- Absorption Shield GREEN -> Resonance Prime RED available
+
+The new Blue Persistent Coherence rule is specifically the ENTRY QUALIFICATION for access to the White Legacy trajectory, not a replacement for later individual Prime gates.
+
+## 5. Credit economy doctrine
+
+Credit generation != credit retention.
+
+Credits compete among:
+- Binding acquisition;
+- Binding rank development;
+- equipment;
+- rare materials / `vaen`;
+- Auction purchases;
+- `raeon` cards;
+- Genesis Cards;
+- other Valnak shopping/leisure.
+
+First-cycle participants are capability-throttled rather than arbitrarily credit-capped.
+Most first cycles remain in relatively modest Trial/Dungeon bands for substantial portions of the cycle.
+Green Solo permits graduation from first-cycle progression grouping, but early Green is unusual.
+
+Veterans operate in a different economic regime because they bring accumulated:
+Bindings, ranks, competency, equipment, experience and carried-forward credits across cycles.
+
+Kira later bends the credit curve because the Orb blender lawfully breaks ordinary Trial scaling, but large Black prices and discretionary spending prevent her ledger from functioning like a simple XP bar.
+
+This qualification supersedes any earlier suggestion that illi enters with her White Legacy already accessible. Persistent Coherence starts Red; Blue unlocks trajectory access. Earlier Early Orange Absorption labels are provisional scaffold, not locked acquisition dates. Existing individual Prime gates remain unchanged. Full [economy](ECONOMY_PURCHASE_SCHEDULE.md) and [Genesis Cards](GENESIS_CARDS.md) are discoverable current domains.

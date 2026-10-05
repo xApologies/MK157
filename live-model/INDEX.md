@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
+Authority: 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -66,3 +66,8 @@ Authority: 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit confl
 - [Planetary calendar](PLANETARY_CALENDAR.md) — 31-hour day and explicit month/week conflicts.
 - [Trial arena](TRIAL_ARENA.md) — fixed geography, throughput delivery and WORKING W35 saturation.
 - [Checkpoint 10 coverage](../provenance/CHECKPOINT_10_COVERAGE_MANIFEST.csv) and [audit](../provenance/CHECKPOINT_10_AUDIT.json).
+
+- [Checkpoint 11 exact master](18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md) — economy/cards/calendar continuation.
+- [Economy and purchase simulation handoff](ECONOMY_PURCHASE_SCHEDULE.md) — Black gates, illi entry qualification, credit sinks and future ledger inputs.
+- [Genesis Cards](GENESIS_CARDS.md) — transparent manifold collectibles and raeon color firewall.
+- [Checkpoint 11 coverage](../provenance/CHECKPOINT_11_COVERAGE_MANIFEST.csv) and [audit](../provenance/CHECKPOINT_11_AUDIT.json).

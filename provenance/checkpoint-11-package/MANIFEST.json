@@ -1,0 +1,26 @@
+{
+  "checkpoint": "11",
+  "created_utc": "2026-10-05T17:41:25.639197Z",
+  "files": [
+    {
+      "path": "18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md",
+      "bytes": 11192,
+      "sha256": "f88056e11c659f373ee388acc0bcaa00c563c9c072d06c88174d96cc9c126d56"
+    },
+    {
+      "path": "COVERAGE_MANIFEST.csv",
+      "bytes": 914,
+      "sha256": "26b5bbf26b416b02c78d529c43424fa4e7251321cf6eb4cc64e4e5089abfffe2"
+    },
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 2926,
+      "sha256": "b4db8ff7c4a32f68f20a78d37560251aaaf10b5e60c2d17b20e2cf98299e398c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 473,
+      "sha256": "42488d5c442b6da55d2b13182ed7fe13f6e843719e4eb3fe33fd4406cffd2585"
+    }
+  ]
+}

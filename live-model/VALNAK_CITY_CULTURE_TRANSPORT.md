@@ -285,3 +285,4 @@ Character-facing abstraction:
 hail carriage -> board -> select destination -> ride -> exit.
 
 Do not over-engineer the underlying propulsion unless story requires it.
+Checkpoint 11 sets nightly highlights at 25:00 every Valnak day; the earlier exact-time OPEN is superseded. [Genesis Cards](GENESIS_CARDS.md) use the shared transparent maege-glass medium with structural basin colors, distinct from raeon classification/rarity colors.

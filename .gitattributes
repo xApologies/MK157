@@ -13,3 +13,7 @@ visual-references/CITY_LOCATION_REGISTRY.csv whitespace=cr-at-eol
 provenance/checkpoint-10-package/*.md whitespace=-blank-at-eol
 provenance/checkpoint-10-package/*.csv whitespace=cr-at-eol
 live-model/17_CHECKPOINT_10_TRIAL_CALENDAR_DELTA.md whitespace=-blank-at-eol
+
+provenance/checkpoint-11-package/*.md whitespace=-blank-at-eol
+provenance/checkpoint-11-package/*.csv whitespace=cr-at-eol
+live-model/18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md whitespace=-blank-at-eol

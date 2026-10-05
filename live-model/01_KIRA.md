@@ -394,3 +394,42 @@ This is a Kira-specific tactic, not a universally optimal Trial strategy.
 Other participants use the fixed geography strategically.
 
 [Trial arena](TRIAL_ARENA.md) governs fixed terrain and throughput-responsive ingress. Exact final records and White+ wave durations remain OPEN.
+
+## Checkpoint 11 acquisition economy
+
+## 3. Kira Black acquisition economy
+
+Kira's foundational Black sequence remains:
+Armor of the Abyss -> CSR -> Genesis Orbs -> Halo -> Domain.
+
+Armor remains the anomalous starter-pricing event at approximately **1,000 credits** because Valnak/Elara did not yet know how to price Black.
+
+After Armor, Elara corrects the pricing environment.
+
+LOCK:
+Each of Kira's four remaining foundational Black acquisitions costs:
+
+**61,000 credits**
+
+- CSR — 61,000
+- Genesis Orbs — 61,000
+- Halo — 61,000
+- Domain — 61,000
+
+Total post-Armor foundational Black cost:
+**244,000 credits**
+
+Approximate total including the anomalous Armor:
+**245,000 credits**
+
+61 is intentionally prime-derived.
+
+These are acquisition prices/gates for Kira's Black foundations, NOT ordinary R->W rank prices. Kira's Black architecture develops primarily through acquisition + competency/discovery/integration.
+
+The high price is intentional:
+- Kira can farm Solo independently of illi;
+- later Black architecture makes her an exceptional credit generator;
+- Elara is not giving later Black foundations away;
+- purchases create meaningful multi-week objectives.
+
+Earlier seasonal scaffold describes developmental order, not exact purchase dates. Solve dates from [credit ledgers and calendar simulation](ECONOMY_PURCHASE_SCHEDULE.md).

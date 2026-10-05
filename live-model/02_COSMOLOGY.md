@@ -128,3 +128,7 @@ Valnak is PLANET-localized through local Genesis-field/starscape architecture; s
 ## Checkpoint 10 planetary time
 
 31 hours/day is LOCKED. The supplied planetary year is 360 days, 60 weeks, 11 months; the month sequence totals 353 and requires reconciliation. The ordinary four-season astronomical year is distinct from Valnak's seven-color, 49-week deployment. [Calendar facts and explicit conflicts](PLANETARY_CALENDAR.md) govern; no week-length conversion is invented.
+
+## Checkpoint 11 calendar clarification
+
+Valnak scheduling weeks have seven days: 7 seasons × 7 weeks × 7 days = **343 Valnak days**, each 31 hours. This resolves the previously OPEN Valnak-week length without equating it to planetary weeks. The supplied planetary 360 days / 60 weeks implies six-day planetary weeks. Planetary month lengths still total 353 instead of stated 360; that separate reconciliation remains CONFLICT/OPEN. Checkpoint 10's unresolved week wording is historical; use this explicit Valnak coordinate structure for current scheduling.
