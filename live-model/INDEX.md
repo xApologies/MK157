@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
+Authority: 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -61,3 +61,8 @@ Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts;
 - [Prism tracker](../world-clock/PRISM_TEAM_TRACKER.csv) — 37 exact unnamed placeholders.
 - [Locations](../visual-references/CITY_LOCATION_REGISTRY.csv) — 001 flagship, 001-A restaurant, 001-B Champion Tables.
 - [Checkpoint 09 coverage](../provenance/CHECKPOINT_09_COVERAGE_MANIFEST.csv) and [audit](../provenance/CHECKPOINT_09_AUDIT.json).
+
+- [Checkpoint 10 exact master](17_CHECKPOINT_10_TRIAL_CALENDAR_DELTA.md) — Trial/calendar delta; package header preserved.
+- [Planetary calendar](PLANETARY_CALENDAR.md) — 31-hour day and explicit month/week conflicts.
+- [Trial arena](TRIAL_ARENA.md) — fixed geography, throughput delivery and WORKING W35 saturation.
+- [Checkpoint 10 coverage](../provenance/CHECKPOINT_10_COVERAGE_MANIFEST.csv) and [audit](../provenance/CHECKPOINT_10_AUDIT.json).

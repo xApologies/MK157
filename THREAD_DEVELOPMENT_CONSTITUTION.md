@@ -6,7 +6,7 @@ This constitution governs cross-thread MK157 development. Its purpose is continu
 ## Authority
 1. Git is the persistent cross-thread source of truth.
 2. At a new thread start, crawl the MK157 repository before reconstructing established systems from memory.
-3. Current authority is Checkpoint 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+3. Current authority is Checkpoint 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 4. Provenance/historical files are not current canon merely because they remain in Git.
 5. Never silently revive superseded material.
 6. OPEN means OPEN. Distinguish LOCKED / WORKING / ALPHA / OPEN / SUPERSEDED.
@@ -192,3 +192,7 @@ MK157 explicit canon > applicable MK-147 story/world implementation > `_raeon` g
 Do not import unrelated MK-147 Kira/Enix identity, Binding-circle causality, old progression ladders, or other setting-specific material merely because a source file exists.
 
 [Source quarantine](live-model/SOURCE_BOUNDARIES.md) governs inherited documents. The exact Checkpoint 09 master is retained verbatim as source evidence; its PENDING header describes package creation, not current integration state.
+
+## Checkpoint 10 continuity
+
+31-hour planetary days are LOCKED. The ordinary four-season planetary year is distinct from Valnak's seven-color seasons. Calendar month-sum/week-length conflicts are explicitly OPEN; consult [calendar reconciliation](live-model/PLANETARY_CALENDAR.md). Fixed Trial geography and wave delivery follow [Trial arena](live-model/TRIAL_ARENA.md). Deep pushes require multi-day scheduling; W35 saturation and Kira's four-day estimate remain WORKING. Do not import unpromoted upstream plot or biology mechanisms.

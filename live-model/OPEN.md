@@ -1,6 +1,6 @@
 # OPEN ledger
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -44,3 +44,26 @@ Do not silently decide:
 - exact dungeon/`domai` overlay symbol convention until approved.
 
 Creator universal metrics and task-to-color tables; shop inheritance/transfer/death/retirement; inter-instance property semantics; exact agronomy remain OPEN. Upstream mechanics remain delegated, not copied or invented.
+
+## Checkpoint 10 protected unresolved decisions
+
+# 13. Protected OPEN items
+
+Remain OPEN:
+- exact final Eternal Standing wave;
+- exact post-W35 total population progression law;
+- exact Kira post-W35 per-wave duration;
+- exact sleep/food/reset mechanics during extreme multi-day Trial pushes;
+- exact biological mechanism allowing multi-day wakefulness;
+- exact Trial boundary visual/ontology beyond the approved author map;
+- exact numeric concurrent population cap;
+- exact spawn/inflow algorithm;
+- exact names, if any, that participants culturally give individual Trial terrain features beyond current author labels.
+
+## Calendar reconciliation — OPEN
+
+The supplied month sequence 33/32/31/33/31/32/33/32/31/33/32 totals **353**, not 360 days. Checkpoint 10 supplies both as locked facts, so the month-to-year reconciliation is CONFLICT/OPEN. Preserve the sequence and the stated 360-day year/60-week year/11-month year; do not invent seven extra days or alter a month.
+
+360 days / 60 weeks implies six days per planetary week, while the source Trial planning prose mentions a seven-day week. The relationship between planetary weeks and Valnak scheduling weeks is OPEN; no day-to-Valnak-week conversion is assigned. The existing seven seasons × seven Valnak weeks = 49-week template remains unchanged. The **31-hour day** and **156 hours = 5 days + 1 hour** conversion are unaffected.
+
+W96 remains NONCANON. W35 maximum-pressure saturation and Kira's ~4-day W1–35 estimate remain WORKING.

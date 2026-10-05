@@ -1,0 +1,36 @@
+{
+  "checkpoint": "10",
+  "baseline_git_head": "7005b4eed92f6520790c61801a81d417dad75d2d",
+  "files": [
+    {
+      "path": "17_CHECKPOINT_10_TRIAL_CALENDAR_DELTA.md",
+      "bytes": 10124,
+      "sha256": "312d6212b6ae6709e39e973e3ff0be0d7e900605f3b69d592e72bc863af6c606"
+    },
+    {
+      "path": "COVERAGE_MANIFEST.csv",
+      "bytes": 1551,
+      "sha256": "0f5c270a6c1a2585beac115c3ed6a44f89a65b48c738c5a48b7805afb16fc9cd"
+    },
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 3278,
+      "sha256": "a1f985b952689b66babece754169f6ddb012871c047deb6e956aa885e8b8e739"
+    },
+    {
+      "path": "PLANETARY_CALENDAR_SOURCE_NOTE.md",
+      "bytes": 787,
+      "sha256": "dafd8e648edfb46d7f69c038502931beaf155ef67dbdbcf4e9877cc89026842d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 496,
+      "sha256": "9e2caf7832d658930fc3858c9a3a759c6ff322f0c049f01a86c84b6297f9eee6"
+    },
+    {
+      "path": "visual-references/VALNAK_TRIAL_ARENA_3X3.png",
+      "bytes": 3211523,
+      "sha256": "4cb41017a62499c4bcfb40b7277fa15da46ce22fc5077042d5be25afb53e1b52"
+    }
+  ]
+}

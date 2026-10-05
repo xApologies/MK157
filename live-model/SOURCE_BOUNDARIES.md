@@ -58,3 +58,6 @@ Inheritance order for conflicts:
 MK157 explicit canon > applicable MK-147 story/world implementation > `_raeon` game mechanics > `_bricked` foundational math for the relevant layer.
 
 Do not import unrelated MK-147 Kira/Enix identity, Binding-circle causality, old progression ladders, or other setting-specific material merely because a source file exists.
+## Checkpoint 10 limited calendar promotion
+
+Checkpoint 10 explicitly promotes 31-hour days and applicable planetary calendar infrastructure, superseding the earlier prohibition on importing that day. This is a narrow promotion; schedule PDFs still supply methodology only except for expressly promoted facts, and no old plot/classes/cosmology is imported. [Calendar reconciliation](PLANETARY_CALENDAR.md) records the conflicting month sum and week wording. The exact Checkpoint 09 master and provenance remain unchanged historical evidence.

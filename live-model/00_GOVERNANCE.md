@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Governance and terminology
 
@@ -94,3 +94,5 @@ MK157 explicit canon > applicable MK-147 story/world implementation > `_raeon` g
 Do not import unrelated MK-147 Kira/Enix identity, Binding-circle causality, old progression ladders, or other setting-specific material merely because a source file exists.
 
 [Source quarantine](SOURCE_BOUNDARIES.md) governs inherited documents. The exact Checkpoint 09 master is retained verbatim as source evidence; its PENDING header describes package creation, not current integration state.
+
+Checkpoint 10 explicitly promotes the 31-hour day; [calendar conflicts](PLANETARY_CALENDAR.md) remain OPEN. Source quarantine continues for all unpromoted external material.

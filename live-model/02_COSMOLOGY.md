@@ -124,3 +124,7 @@ R→O→Y→G→B→V→W, 7 weeks each = 49 Valnak weeks
 seasonal closes → Permanent continues → accumulation resumes.
 Do NOT map seasons to basin consumption.
 Valnak is PLANET-localized through local Genesis-field/starscape architecture; supersede older “Earth-localized” working wording. Planet proper name remains OPEN unless recovered. Existing Orange↔Yellow aggregate Genesis-Log tendency remains; it is not a power tier.
+
+## Checkpoint 10 planetary time
+
+31 hours/day is LOCKED. The supplied planetary year is 360 days, 60 weeks, 11 months; the month sequence totals 353 and requires reconciliation. The ordinary four-season astronomical year is distinct from Valnak's seven-color, 49-week deployment. [Calendar facts and explicit conflicts](PLANETARY_CALENDAR.md) govern; no week-length conversion is invented.

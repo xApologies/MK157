@@ -553,3 +553,69 @@ Unlike the outside-world natural `domai`, the Valnak training incursion terminat
 Exact credit formula remains OPEN.
 
 [Combat ecology](COMBAT_ECOLOGY.md) includes the complete domain summary and build economics. Outside-world persistent Dungeons are distinct from Valnak's procedurally realized training instances.
+
+## Checkpoint 10 fixed Trial battlefield
+
+# 4. Fixed Trial arena
+
+Solo, Duo and Trio use the **same fixed Trial arena geography**.
+
+Canonical working geometry:
+- **3 miles × 3 miles**
+- **9 square miles**
+- participant(s) initially resolve near the center
+- outer boundary is obscured / visually unreadable and functions as the encounter-ingress perimeter
+- geography does NOT procedurally regenerate between attempts.
+
+This contrasts with Dungeons:
+- Trial = fixed battlefield, changing pressure.
+- Dungeon = procedurally changing battlefield/encounter realization.
+
+Participants can learn Trial terrain over repeated attempts. That is intended.
+
+# 6. Wave population vs concurrent population
+
+A wave's listed `eldris` count represents the **TOTAL population processed during that wave**.
+
+It does NOT mean the entire wave population resolves simultaneously.
+
+Define conceptually:
+N_wave = N_defeated + N_active + N_remaining.
+
+Valnak controls the active encounter pressure while the remaining population continues to feed into the arena.
+
+# 7. Perimeter / throughput-controlled wave delivery
+
+At wave start, `eldris` begin resolving/emerging around the obscured outer perimeter and advance inward.
+
+Higher waves can activate more of the perimeter and sustain more complex converging approaches.
+
+Wave delivery is throughput-responsive:
+- participant clears slowly -> existing active population continues applying pressure;
+- participant clears quickly -> Valnak resolves more of the remaining wave population more quickly;
+- therefore faster killing causes faster replacement/inflow rather than long artificial idle timers.
+
+High waves may continue spawning from the perimeter for the entire duration of the wave.
+
+This is why a high wave can last many hours without requiring thousands of `eldris` to exist simultaneously.
+
+# 8. White+ saturation law
+
+Wave 35 is the **working saturation boundary** for the Trial's practical maximum encounter-pressure envelope.
+
+W35+ does NOT primarily escalate by placing endlessly increasing numbers of `eldris` simultaneously on the battlefield.
+
+Beyond the saturation boundary, White progression increasingly tests:
+- sustained Transductive efficiency;
+- fatigue management;
+- concentration;
+- persistence;
+- sustained maximum-pressure operation;
+- legal White encounter composition/geometry;
+- total delivered population / duration where appropriate.
+
+Exact post-W35 population law remains OPEN. It is not yet decided whether total population continues to grow, eventually flattens, or follows another bounded rule.
+
+Maximum concurrent/inflow pressure is the important saturation concept.
+
+[Trial arena](TRIAL_ARENA.md) preserves all five tactical regions, their advantages/costs and approved map. Trial terrain is fixed; procedural Dungeon realization remains unchanged.

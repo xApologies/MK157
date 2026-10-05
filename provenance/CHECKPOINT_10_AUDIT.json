@@ -1,0 +1,113 @@
+{
+  "checkpoint": "10",
+  "validation_status": "PASS_WITH_DISCLOSED_SOURCE_CONFLICTS",
+  "baseline_commit": "7005b4eed92f6520790c61801a81d417dad75d2d",
+  "final_commit": null,
+  "final_commit_note": "Audit committed with integration; final hash verified against remote and reported after commit.",
+  "authority_chain": "10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01",
+  "changed_files": [
+    ".gitattributes",
+    "live-model/00_GOVERNANCE.md",
+    "live-model/01_KIRA.md",
+    "live-model/02_COSMOLOGY.md",
+    "live-model/04_COMBAT_WORLD.md",
+    "live-model/17_CHECKPOINT_10_TRIAL_CALENDAR_DELTA.md",
+    "live-model/COMBAT_THRESHOLDS.md",
+    "live-model/INDEX.md",
+    "live-model/OPEN.md",
+    "live-model/PLANETARY_CALENDAR.md",
+    "live-model/SOURCE_BOUNDARIES.md",
+    "live-model/STORY_CLOCK_STATE.md",
+    "live-model/SUPERSESSIONS.md",
+    "live-model/TRIAL_ARENA.md",
+    "live-model/WORLD_CLOCK.md",
+    "provenance/CHECKPOINT_10_AUDIT.json",
+    "provenance/CHECKPOINT_10_COVERAGE_MANIFEST.csv",
+    "provenance/checkpoint-10-package/17_CHECKPOINT_10_TRIAL_CALENDAR_DELTA.md",
+    "provenance/checkpoint-10-package/COVERAGE_MANIFEST.csv",
+    "provenance/checkpoint-10-package/EXECUTABLE.md",
+    "provenance/checkpoint-10-package/MANIFEST.json",
+    "provenance/checkpoint-10-package/PLANETARY_CALENDAR_SOURCE_NOTE.md",
+    "provenance/checkpoint-10-package/README.md",
+    "provenance/checkpoint-10-package/visual-references/VALNAK_TRIAL_ARENA_3X3.png",
+    "README.md",
+    "THREAD_DEVELOPMENT_CONSTITUTION.md",
+    "visual-references/INDEX.md",
+    "visual-references/VALNAK_TRIAL_ARENA_3X3.png",
+    "world-clock/WORLD_CLOCK.md"
+  ],
+  "package_hashes_verified": 6,
+  "exact_master_preserved": true,
+  "checkpoint_09_master_and_package_unchanged": true,
+  "existing_registry_files_byte_unchanged": true,
+  "protected_hashes_verified": 55,
+  "coverage": {
+    "conflict": 1,
+    "all_destinations_exist": true,
+    "pending": 0,
+    "total": 14,
+    "integrated": 13
+  },
+  "world_clock": {
+    "no_new_schedule_events": true,
+    "teams": 37,
+    "csvs_byte_unchanged": true,
+    "weeks": 49
+  },
+  "trial_map": {
+    "sha256": "4cb41017a62499c4bcfb40b7277fa15da46ce22fc5077042d5be25afb53e1b52",
+    "path": "visual-references/VALNAK_TRIAL_ARENA_3X3.png",
+    "visually_inspected": true
+  },
+  "checks": [
+    "31-hour day discoverable",
+    "156 h = 5 days + 1 hour verified",
+    "Original timing thresholds preserved",
+    "W35 pressure boundary and Kira four-day estimate WORKING",
+    "W96 remains NONCANON",
+    "Fixed Trial versus procedural Dungeon distinction preserved",
+    "No new registry records",
+    "Checkpoint 09 substantive material accumulated without compression",
+    "Limited calendar promotion explicitly supersedes earlier 31-hour quarantine only"
+  ],
+  "conflicts": [
+    {
+      "actual_sum": 353,
+      "id": "C10-CAL-002",
+      "stated_year_days": 360,
+      "resolution": "CONFLICT/OPEN; values retained without invented correction",
+      "source_month_lengths": [
+        33,
+        32,
+        31,
+        33,
+        31,
+        32,
+        33,
+        32,
+        31,
+        33,
+        32
+      ]
+    },
+    {
+      "planetary_weeks": 60,
+      "implied_days_per_week": 6,
+      "resolution": "OPEN planetary/Valnak week relation; no day-to-week conversion assigned",
+      "trial_source_days_per_week": 7,
+      "planetary_days": 360,
+      "id": "C10-WEEK"
+    }
+  ],
+  "open_items": [
+    "Calendar month/year reconciliation and week relation",
+    "Final Eternal Standing wave",
+    "Post-W35 population law",
+    "Exact Kira White+ duration",
+    "Concurrent population cap",
+    "Spawn/inflow algorithm",
+    "Sleep/food/reset mechanics and biological wakefulness mechanism",
+    "Boundary ontology and further cultural terrain names"
+  ],
+  "source_quarantine": "No unrelated PDF astronomy, plot, class schedule or cosmology imported; only expressly promoted calendar infrastructure."
+}

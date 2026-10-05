@@ -1,6 +1,6 @@
 # Retained Combat Trial thresholds
 
-Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Baseline thresholds and prime-count escalation are retained. Exact final Eternal Standing wave numbers remain OPEN.
+Authority: 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Baseline thresholds and prime-count escalation are retained. Exact final Eternal Standing wave numbers remain OPEN.
 
 ## Endless Combat Trial and rank
 
@@ -47,3 +47,43 @@ Approximate combat duration per wave:
 
 Violet anchors: W26 ≈6h; W30 ≈9h; W34 ≈12h.
 Ranges are narrative normalization, not stopwatch guarantees. Reject near-flat upper-wave timing. Duration is not monster-count × constant kill time.
+
+## Checkpoint 10 author planning conversion
+
+# 2. Trial timing conversion
+
+Existing governing Trial timing remains:
+- Red W1–3: 20–40 min/wave
+- Orange W4–7: 45–75 min/wave
+- Yellow W8–12: 1–2 h/wave
+- Green W13–18: 2–3.5 h/wave
+- Blue W19–25: 3.5–6 h/wave
+- Violet W26–34: 6–12 h/wave
+- White W35+: 12+ h; extreme waves may become multi-day
+- Violet anchors: W26 ≈6h; W30 ≈9h; W34 ≈12h.
+
+Those remain narrative-normalization ranges, not stopwatch guarantees.
+
+Using a smooth central author interpolation through W1–35 gives approximately **156 hours**.
+
+Under the canonical 31-hour day:
+156 h = **5 planetary days + 1 hour**.
+
+This ~156h / ~5-day figure is an AUTHOR-PLANNING CENTRAL ESTIMATE, not a new exact stopwatch law.
+
+For an ordinary participant, reaching/clearing the beginning of White therefore represents approximately a week-scale sustained combat commitment within a seven-day week, allowing only the Trial's short reset windows.
+
+Genesis-adapted/Binding-developed human biology can sustain multi-day operation without ordinary Earth-human sleep requirements. Upper human lifespan can approach roughly **400 years**; prolonged operational capacity is part of the setting's Genesis-modified biology. Exact sleep-deprivation physiology remains undescribed unless needed.
+
+# 3. Kira timing exception
+
+Once Kira's Genesis-Orb blender is mature, she processes incoming encounters substantially faster than the normalized participant.
+
+Working author estimate:
+Kira may reach/clear W35 in roughly **4 planetary days** rather than the ordinary ~5-day central estimate.
+
+This is WORKING, not stopwatch canon.
+
+Kira's advantage does not mean Trial runtime becomes trivial. Deep Solo/Duo/Trio pushes still consume large multi-day calendar blocks.
+
+**Calendar qualification:** the source seven-day-week wording is unresolved against 360 days / 60 weeks. Use the validated hour-to-day conversion; do not derive Valnak-week lengths. [Calendar conflicts](PLANETARY_CALENDAR.md). [Wave delivery](TRIAL_ARENA.md) clarifies total population versus simultaneous pressure; W35 saturation is WORKING, not an exact cap.

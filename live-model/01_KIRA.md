@@ -343,3 +343,54 @@ She remains a blacksmith even while the Black Legacy forces combat development.
 
 
 Full Creation continuity: [Creator/Craftsman](CREATOR_CRAFTSMAN.md). Current story runtime: [story clocks](STORY_CLOCK_STATE.md).
+
+## Checkpoint 10 mature Trial strategy and time commitment
+
+# 3. Kira timing exception
+
+Once Kira's Genesis-Orb blender is mature, she processes incoming encounters substantially faster than the normalized participant.
+
+Working author estimate:
+Kira may reach/clear W35 in roughly **4 planetary days** rather than the ordinary ~5-day central estimate.
+
+This is WORKING, not stopwatch canon.
+
+Kira's advantage does not mean Trial runtime becomes trivial. Deep Solo/Duo/Trio pushes still consume large multi-day calendar blocks.
+
+# 9. Kira breaks the intended pressure architecture
+
+Ordinary Trial causal expectation:
+arrival/inflow -> combat accumulation -> participant bandwidth saturation -> fatigue -> failure.
+
+Mature Kira:
+arrival/inflow -> convergence -> Genesis-Orb blender -> destruction -> Valnak feeds more -> destruction.
+
+As Kira develops, her combat throughput can exceed the Trial's intended encounter-pressure mechanism.
+
+Eventually the limiting factor increasingly becomes **Trial encounter-delivery throughput and elapsed time**, rather than Kira's ability to survive the incoming population.
+
+This does NOT lock Kira's final Eternal Standing wave.
+
+Wave 96 remains explicitly NONCANON / illustrative until deliberately chosen.
+
+Kira may eventually stop a record push voluntarily because of boredom/time commitment rather than being defeated. This is a working character direction, not yet a locked final record scene.
+
+# 10. Kira's preferred mature-blender position
+
+Once the Orb blender is mature, Kira deliberately rejects most terrain advantages.
+
+Preferred position:
+the broad open grassland **slightly north of the Central Basin**, before the stream/Pillars terrain meaningfully constrains ingress.
+
+Reason:
+- clean radial approach;
+- maximum visibility;
+- minimal terrain interference;
+- `eldris` naturally come to her;
+- Orb trajectories process incoming bodies.
+
+This is a Kira-specific tactic, not a universally optimal Trial strategy.
+
+Other participants use the fixed geography strategically.
+
+[Trial arena](TRIAL_ARENA.md) governs fixed terrain and throughput-responsive ingress. Exact final records and White+ wave durations remain OPEN.

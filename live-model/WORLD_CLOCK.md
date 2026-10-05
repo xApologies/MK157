@@ -159,3 +159,18 @@ The recurring slice-of-life/social World Clock contains four main staples:
 4. **Prism Championship** — one 49-week league/championship story.
 
 Special Events remain OPEN and are woven in only when needed.
+## Checkpoint 10 Trial scheduling consequence
+
+# 11. Calendar consequence
+
+Deep Trials are multi-day calendar blocks.
+
+Do NOT write late Trial progression as repeated 15-minute activities.
+
+A deep White push can consume most/all of a Valnak week.
+
+Deep Duo/Trio attempts similarly consume major calendar blocks.
+
+This is foundational for the forthcoming Valnak Calendar / World Clock + Kira + illi scheduling work.
+
+One planetary day is 31 hours. The central W1–35 estimate (~156 h) converts to 5 days + 1 hour; Kira's mature-blender ~4-day estimate is WORKING. [Calendar reconciliation](PLANETARY_CALENDAR.md) leaves month totals and planetary/Valnak week conversion OPEN. Existing 49-week and 37-team CSVs remain unchanged; this delta schedules no new events.

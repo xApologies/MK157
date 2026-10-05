@@ -9,3 +9,7 @@ provenance/checkpoint-09-package/*.csv whitespace=cr-at-eol
 live-model/16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md whitespace=-blank-at-eol
 world-clock/*.csv whitespace=cr-at-eol
 visual-references/CITY_LOCATION_REGISTRY.csv whitespace=cr-at-eol
+
+provenance/checkpoint-10-package/*.md whitespace=-blank-at-eol
+provenance/checkpoint-10-package/*.csv whitespace=cr-at-eol
+live-model/17_CHECKPOINT_10_TRIAL_CALENDAR_DELTA.md whitespace=-blank-at-eol
