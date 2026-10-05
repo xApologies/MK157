@@ -25,3 +25,7 @@ Major corrections:
 ## Checkpoint 08 integration
 
 Current totals: 1,016 Binding records and 229 Summoned Entity records. All preexisting records are preserved. Two approved gas concepts use safe GE IDs with OPEN pricing/rank expressions/basins. Nine Prime Elementals are additions; 180 ordinary Elementals remain intact. [Prime recipes](../summons/PRIME_ELEMENTAL_RECIPES.md) distinguish locked ordinary graphs, working candidates and sandboxed illi overrides.
+
+## Checkpoint 12 canonical pricing
+
+[Pricing policy](PRICING_MODEL.md) now governs all 1,016 records. BINDINGS JSON/JSONL retain nested rank_costs and add explicit Red–White price fields; CSV mirrors the same ladder. All price statuses are LOCKED — Checkpoint 12, independently of mechanism/candidate status. [Pricing audit](PRICING_AUDIT.json) and [row reasoning](../provenance/CHECKPOINT_12_PRICING_DECISIONS.csv) expose classification and preservation checks. Earlier scaffold prices and gas cost-OPEN claims are superseded; topology/rank-expression OPENs remain.

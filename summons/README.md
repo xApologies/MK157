@@ -16,3 +16,7 @@ This is an ALPHA candidate registry intended to populate builds and give the sto
 ## Checkpoint 08 integration
 
 Current totals: 1,016 Binding records and 229 Summoned Entity records. All preexisting records are preserved. Two approved gas concepts use safe GE IDs with OPEN pricing/rank expressions/basins. Nine Prime Elementals are additions; 180 ordinary Elementals remain intact. [Prime recipes](../summons/PRIME_ELEMENTAL_RECIPES.md) distinguish locked ordinary graphs, working candidates and sandboxed illi overrides.
+
+## Checkpoint 12 price atlases
+
+[SUMMON_PRICING.csv](SUMMON_PRICING.csv), [JSON](SUMMON_PRICING.json) and [JSONL](SUMMON_PRICING.jsonl) price all 229 entity IDs without rewriting entity profiles. [PRIME_ELEMENTAL_PRICING.csv](PRIME_ELEMENTAL_PRICING.csv) and [JSON](PRIME_ELEMENTAL_PRICING.json) lock all nine Primes at Red 10,000; ordinary summons are below that. [Audit](PRICING_AUDIT.json) validates mirrors, arithmetic and unchanged recipes/illi gates. White Legacy compresses access, not acquisition cost; no implicit Prime subsidy is granted.

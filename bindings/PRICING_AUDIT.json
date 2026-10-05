@@ -1,0 +1,62 @@
+{
+  "checkpoint": "12",
+  "result": "PASS",
+  "records": 1016,
+  "priced": 1016,
+  "counts_by_pricing_class": {
+    "ADVANCED": 309,
+    "COMMON_SPECIALIZATION": 487,
+    "EXCEPTIONAL": 1,
+    "FOUNDATIONAL": 110,
+    "POWERFUL": 109
+  },
+  "red_base_statistics": {
+    "min": 600,
+    "median": 2150,
+    "max": 10000
+  },
+  "counts_by_domain": {
+    "Chirality": 60,
+    "Dimensional Geometry": 31,
+    "Genesis Expression": 599,
+    "Genesis Field Topology": 90,
+    "Persistent Topology / Coherence–Decoherence": 6,
+    "Resonance": 230
+  },
+  "anchor_checks": [
+    {
+      "id": "PT-0002",
+      "red_base_cost": 600,
+      "pass": true
+    },
+    {
+      "id": "PT-0001",
+      "red_base_cost": 1800,
+      "pass": true
+    },
+    {
+      "id": "GE-0043",
+      "red_base_cost": 5000,
+      "pass": true
+    },
+    {
+      "id": "GE-0537",
+      "red_base_cost": 3000,
+      "pass": true
+    },
+    {
+      "id": "PT-0003",
+      "red_base_cost": 700,
+      "pass": true
+    }
+  ],
+  "null_price_count": 0,
+  "arithmetic_checks": "PASS — decimal sequential ROUND_HALF_UP",
+  "mirror_equality": "PASS — JSON/JSONL all fields; CSV existing fields and full price fields",
+  "preserved_checks": "PASS — IDs, six domains, basin fields/OPENs, mechanisms, White expressions, statuses, lineage, recipes/gates",
+  "suspicious_distributions_for_review": [
+    "Generated families often share templates; same semantic geometry/control factors intentionally share prices across elemental names. Review repeated-price clusters when mechanisms gain substantive detail.",
+    "Gas record historical status strings still say costs OPEN; pricing_status supersedes costs only, preserving rank-expression/basin OPENs.",
+    "Exceptional ordinary Sever Field price reflects area architecture dismantling; review alongside evolving topology canon."
+  ]
+}

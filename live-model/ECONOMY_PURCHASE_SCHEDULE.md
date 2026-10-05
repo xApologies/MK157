@@ -170,3 +170,8 @@ Do not silently decide:
 - exact day Kira buys CSR;
 - exact credit cost of Absorption Shield unless already grounded elsewhere;
 - exact standard card dimensions beyond the working trading-card form factor.
+## Checkpoint 12 canonical inputs
+
+Current ordinary prices are in the [Binding registry](../bindings/BINDINGS.json), [summon price atlas](../summons/SUMMON_PRICING.json) and [Prime price atlas](../summons/PRIME_ELEMENTAL_PRICING.json). Persistent Coherence B=700 gives R 700, O 1120, Y 2016, G 4234, Blue 10585 under sequential HALF_UP; cumulative R-through-Blue is **18,655**, or **17,955** after Red has been paid. The above Checkpoint 11 B=1000 calculation remains illustrative only. Absorption Shield B=3000 and Genesis Beam B=5000 are resolved. All Primes B=10000; White Legacy access compression does not waive acquisition cost.
+
+Kira's four post-Armor Black acquisitions remain **61,000 each**. Ordinary registry prices do not substitute for them. Purchase dates, reward/income tables and discretionary prices remain OPEN; this pass does not run the future calendar/ledger simulation. See [Checkpoint 12](19_CHECKPOINT_12_COMPLETE_PRICING.md).

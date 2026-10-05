@@ -1,6 +1,6 @@
 # OPEN ledger
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -86,3 +86,7 @@ Do not silently decide:
 - exact standard card dimensions beyond the working trading-card form factor.
 
 Resolved by Checkpoint 11: Black acquisition gates, Blue Persistent Coherence entry qualification, Valnak seven-day weeks, 25:00 highlights and standing championship/Auction/postseason placement. Older OPEN entries for these are superseded. Planetary month reconciliation remains OPEN; team names, detailed match schedule, credit income and purchase dates remain OPEN.
+
+## Checkpoint 12 limited pricing resolution
+
+Red base costs, ordinary semantic acquisition bands, deterministic HALF_UP ladders, five exact anchors and all nine Prime 10000 prices are resolved. This supersedes earlier base-pricing-convention/gas-cost OPENs. It does not resolve topology-derived basin requirements, mechanism/White development, ALPHA/WORKING recipe selection, purchase dates, credit-income/reward tables, discretionary item/card prices or planetary month arithmetic. Preserved source status strings may retain historical cost-OPEN text; pricing_status governs only prices.

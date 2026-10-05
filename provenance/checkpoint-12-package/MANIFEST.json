@@ -1,0 +1,25 @@
+{
+  "name": "MK157_CHECKPOINT12_COMPLETE_PRICING_v2",
+  "baseline": "Checkpoint 11",
+  "execution_entrypoint": "EXECUTABLE.md",
+  "scope": {
+    "bindings": 1016,
+    "summoned_entities": 229,
+    "prime_elementals": 9
+  },
+  "prime_red_base_cost": 10000,
+  "ordinary_summon_red_max": 9900,
+  "anchors": {
+    "PT-0002": 600,
+    "PT-0003": 700,
+    "PT-0001": 1800,
+    "GE-0537": 3000,
+    "GE-0043": 5000
+  },
+  "kira_black_firewall": {
+    "CSR": 61000,
+    "Genesis Orbs": 61000,
+    "Halo": 61000,
+    "Domain": 61000
+  }
+}

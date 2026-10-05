@@ -1,0 +1,239 @@
+{
+  "checkpoint": "12",
+  "result": "PASS",
+  "baseline_commit": "a8f360fb42f1a472edd2b22055b4d9f350a4e223",
+  "final_commit_note": "Integration commit hash reported after commit; not embedded self-referentially.",
+  "authority_chain": "12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01",
+  "changed_files": [
+    ".gitattributes",
+    "bindings/BINDINGS.csv",
+    "bindings/BINDINGS.json",
+    "bindings/BINDINGS.jsonl",
+    "bindings/COMPENDIUM.md",
+    "bindings/PRICING_AUDIT.json",
+    "bindings/PRICING_MODEL.md",
+    "bindings/README.md",
+    "live-model/19_CHECKPOINT_12_COMPLETE_PRICING.md",
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+    "live-model/INDEX.md",
+    "live-model/OPEN.md",
+    "live-model/SUPERSESSIONS.md",
+    "provenance/CHECKPOINT_12_AUDIT.json",
+    "provenance/CHECKPOINT_12_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_12_PRICING_DECISIONS.csv",
+    "provenance/checkpoint-12-package/AUTHOR_DECISIONS.md",
+    "provenance/checkpoint-12-package/EXECUTABLE.md",
+    "provenance/checkpoint-12-package/MANIFEST.json",
+    "provenance/checkpoint-12-package/PRICING_POLICY.md",
+    "provenance/checkpoint-12-package/SEMANTIC_PRICING.ps1",
+    "provenance/checkpoint-12-package/VALIDATE_PRICING.ps1",
+    "README.md",
+    "summons/PRICING_AUDIT.json",
+    "summons/PRIME_ELEMENTAL_PRICING.csv",
+    "summons/PRIME_ELEMENTAL_PRICING.json",
+    "summons/README.md",
+    "summons/SUMMON_PRICING.csv",
+    "summons/SUMMON_PRICING.json",
+    "summons/SUMMON_PRICING.jsonl",
+    "THREAD_DEVELOPMENT_CONSTITUTION.md"
+  ],
+  "before_hashes": {
+    "bindings/BINDINGS.csv": "26557EF9830A61B2BBC9B126006428FB4C2028D5075BC2EBC5E77589010C2D8B",
+    "summons/ILLI_WHITE_LEGACY_GATES.json": "FF86F06D6564B436BD7119705126FE844CBE262D4A7AEDA181D320E10BFBE57E",
+    "builder/paths/AUDIT.json": "CF7CA507AA66B2507F56D2254971B8BEC07D156C407E8D028A0212E4ED544978",
+    "summons/PRIME_ELEMENTAL_TAXONOMY.csv": "07A74E1DDF7EC5D7D95887A74010F7C72713D59C9437CAC72EC48BA9D9F3F4B0",
+    "world-clock/WORLD_CLOCK.md": "7C28147858D58284C11D0C13F5FD73FBA0B2D1AD90F0CA5CFCA7F26669F54FE9",
+    "builder/paths/CANON_GUARDRAILS.md": "D90728A549423AEF4B6F3F13E9E6AFCD91803BF1FCAC8E004F1DC1CEB31EBC34",
+    "builder/paths/PATHS.csv": "44EBE159F33F461FD91F61104CB4FCAD7241B694DA1509A0655D0B7912BCB8A8",
+    "bindings/BINDINGS.jsonl": "5F9EDB69CCF1A6CB4BA78AEA9526C266D3F316A72A30D5A447C01211C9211E3A",
+    "world-clock/WORLD_CLOCK_TEMPLATE.csv": "7579C5F1FAF0F411C553926AF32A03349D0CAEDD4318FF6B4EB3AD822C020E2D",
+    "builder/paths/PATH_SCHEMA.md": "A1CD5AE011606B888448EFCC5A9D6A3B2A9A5BC90D8B2C97FA7B62F23794C559",
+    "summons/AUDIT.json": "57F26B13AEF8C9D4F6A318588FFAA7EC7B2FD9C34807C5BC3D46CA4F8BB18681",
+    "summons/SUMMONED_ENTITIES.json": "41F8D57CC037D5CB0A93E220A66FD6EA4D7BA1B57B2FF15FA51932216DBDC33B",
+    "live-model/18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md": "F88056E11C659F373EE388ACC0BCAA00C563C9C072D06C88174D96CC9C126D56",
+    "bindings/README.md": "F9DE746A52DCA0478BDA9704B5D853A595CD4442D1C92B203864351D78BFE38D",
+    "summons/PRIME_ELEMENTAL_RECIPES.csv": "B9C49EC0B277354404F341307B5A0BC57CEE266BA850D5EF77B2845DAF4ACD59",
+    "world-clock/PRISM_TEAM_TRACKER.csv": "35E974BFCDB9C555ADED14B99615A250924364FBF10CC4412E378B92AF17EFF3",
+    "bindings/PRICING_MODEL.md": "F45F60670A8F819E4FE139EFD97B99BDA36624B2C35CFB5F85B1D2BAB4C478CA",
+    "live-model/01_KIRA.md": "82811CEF02C659FB88438F4DEF4683966C805DBC3C65B41136CE9B28D84C3E81",
+    "summons/SUMMONED_ENTITIES.jsonl": "3825EC1B819EF6249D195F93A0167399F2B4901F914260C080CC7ECC616F2F88",
+    "bindings/AUDIT.json": "43484FF598B21892DFA1D1B8CACCB185ADD6D379F72A89B677927D9A0E5DC10A",
+    "summons/README.md": "9C1DD177A53B4B145AAD767F1219EB930D5B9059C8EDF8CF6469A84B4670DCEF",
+    "builder/paths/PATH_CATALOG.md": "3B1F7FA0FD9189C8495ED67420297C60F8130A378017C49909ADB395A7254026",
+    "summons/PRIME_ELEMENTAL_RECIPES.md": "3CD1876CB9F0D95A07311803F4104BD796496C0BC0F9C2123852F38AF994E170",
+    "builder/paths/PATHS.jsonl": "270A2273A72C18F4FFE1BAD2D6CFAE54471A97180CA5EB68A0490C546A47FE57",
+    "summons/PRIME_ELEMENTAL_RECIPES.json": "71B4B9DA5C66D832E6920E8BA30650044E287ADAEC79AD301186F7188D2D8A32",
+    "summons/ENTITY_SCHEMA.md": "6341A586EBCBFFAEA7B5AB9B591F0CEE03CBCC6C0FC17D78FFDEEE5514C8805A",
+    "bindings/COMPENDIUM.md": "B56EB4958E7E522C774DE87ADEA9E2841B2368D6E0A383BDBF5A71363EB5F2A2",
+    "bindings/BINDINGS.json": "2FD525828E48575A70B55F56682E24CF679370499CD0C8B549085A3AEC4D8520",
+    "summons/CATALOG.md": "876ABBAE63A7A4885D841FE871ED68C79A66AE0BE2029C5FEDCED6F57844A135",
+    "builder/paths/PATHS.json": "02AA803BF369BFAF032AA2C5B3B4C38D316E26418565487576BB497B42C9B0B3",
+    "summons/SUMMONED_ENTITIES.csv": "C5D3DFD15818D14A0454350982365A2065665E8C6AA2029407FAF2ABBC07567A",
+    "bindings/CANON_LOCKS.md": "EFD23B5BBCED5FF5990E34E7E389DBE3FA38B8AE80F5294AC131A26066B13879",
+    "builder/paths/README.md": "A85003423FB69043F9556D62C56B2935E7EA4BF703CD2B2090C39712010A396E",
+    "live-model/STORY_CLOCK_STATE.md": "CF0A17B62F768073C5242B90CF8B8CE7EBEB1FF378CDAD4FF5D1CF15F9E1D7DE"
+  },
+  "package_hashes": [
+    {
+      "sha256": "57552f9869285972d89f99a446ec9bd839f0137d250a4638ea89523c20f584e9",
+      "path": "AUTHOR_DECISIONS.md"
+    },
+    {
+      "sha256": "9b6da4fa49a04f049e57b2694e0282052e60cfc262a9e659d6057d151ea452e5",
+      "path": "EXECUTABLE.md"
+    },
+    {
+      "sha256": "33329586dc5c81b22ec80f87f2dc302604065c4dd20c9c2e66efc9b7b3925fbe",
+      "path": "MANIFEST.json"
+    },
+    {
+      "sha256": "1dc1aa5c2e972eba866a4d3186f7244ba579564fa54a04262ae657693937d3d4",
+      "path": "PRICING_POLICY.md"
+    },
+    {
+      "sha256": "c8ccf40c59e6d00502353274448dbeba1576092597902a0cb32c194ee2e2f6dc",
+      "path": "SEMANTIC_PRICING.ps1"
+    },
+    {
+      "sha256": "32ec2f1b21c2fa8e3ff33366b402df497e1a4e180b14fe5c7054928055cb9e24",
+      "path": "VALIDATE_PRICING.ps1"
+    }
+  ],
+  "bindings": {
+    "checkpoint": "12",
+    "result": "PASS",
+    "records": 1016,
+    "priced": 1016,
+    "counts_by_pricing_class": {
+      "ADVANCED": 309,
+      "COMMON_SPECIALIZATION": 487,
+      "EXCEPTIONAL": 1,
+      "FOUNDATIONAL": 110,
+      "POWERFUL": 109
+    },
+    "red_base_statistics": {
+      "min": 600,
+      "median": 2150,
+      "max": 10000
+    },
+    "counts_by_domain": {
+      "Chirality": 60,
+      "Dimensional Geometry": 31,
+      "Genesis Expression": 599,
+      "Genesis Field Topology": 90,
+      "Persistent Topology / Coherence–Decoherence": 6,
+      "Resonance": 230
+    },
+    "anchor_checks": [
+      {
+        "id": "PT-0002",
+        "red_base_cost": 600,
+        "pass": true
+      },
+      {
+        "id": "PT-0001",
+        "red_base_cost": 1800,
+        "pass": true
+      },
+      {
+        "id": "GE-0043",
+        "red_base_cost": 5000,
+        "pass": true
+      },
+      {
+        "id": "GE-0537",
+        "red_base_cost": 3000,
+        "pass": true
+      },
+      {
+        "id": "PT-0003",
+        "red_base_cost": 700,
+        "pass": true
+      }
+    ],
+    "null_price_count": 0,
+    "arithmetic_checks": "PASS — decimal sequential ROUND_HALF_UP",
+    "mirror_equality": "PASS — JSON/JSONL all fields; CSV existing fields and full price fields",
+    "preserved_checks": "PASS — IDs, six domains, basin fields/OPENs, mechanisms, White expressions, statuses, lineage, recipes/gates",
+    "suspicious_distributions_for_review": [
+      "Generated families often share templates; same semantic geometry/control factors intentionally share prices across elemental names. Review repeated-price clusters when mechanisms gain substantive detail.",
+      "Gas record historical status strings still say costs OPEN; pricing_status supersedes costs only, preserving rank-expression/basin OPENs.",
+      "Exceptional ordinary Sever Field price reflects area architecture dismantling; review alongside evolving topology canon."
+    ]
+  },
+  "summons": {
+    "checkpoint": "12",
+    "result": "PASS",
+    "records": 229,
+    "priced": 229,
+    "ordinary": 220,
+    "primes": 9,
+    "counts_by_pricing_class": {
+      "ADVANCED": 74,
+      "COMMON_SPECIALIZATION": 69,
+      "EXCEPTIONAL": 9,
+      "FOUNDATIONAL": 18,
+      "POWERFUL": 59
+    },
+    "red_base_statistics": {
+      "min": 600,
+      "median": 2900,
+      "max": 10000
+    },
+    "ordinary_red_statistics": {
+      "min": 600,
+      "median": 2900,
+      "max": 8700
+    },
+    "counts_by_entity_type": {
+      "Creature-pattern manifestation": 40,
+      "Elemental manifestation": 180,
+      "Prime Elemental": 9
+    },
+    "prime_checks": {
+      "ladder": [
+        10000,
+        16000,
+        28800,
+        60480,
+        151200,
+        453600,
+        1814400
+      ],
+      "all_pass": true,
+      "red": 10000,
+      "count": 9,
+      "cumulative": 2534480
+    },
+    "null_price_count": 0,
+    "ordinary_at_or_above_10000": 0,
+    "arithmetic_checks": "PASS",
+    "mirror_equality": "PASS",
+    "preserved_checks": "Entity atlas and every original summon file except README byte unchanged; recipes and illi gates byte unchanged",
+    "suspicious_distributions_for_review": [
+      "Elemental variants and numbered Pattern variants with identical scale/control/role metadata have equal Red prices; no element-name premium or pattern-number premium.",
+      "Some ordinary entity records have no exact Binding-name counterpart; entity atlas remains independently keyed and no registry records were invented."
+    ]
+  },
+  "row_decisions": 1245,
+  "no_id_sequence_or_basin_pricing": true,
+  "kira_gates_unchanged": true,
+  "checkpoint_11_calendar_unchanged": true,
+  "existing_legacy_registry_unchanged": true,
+  "warnings": [
+    "Generated families often share templates; same semantic geometry/control factors intentionally share prices across elemental names. Review repeated-price clusters when mechanisms gain substantive detail.",
+    "Gas record historical status strings still say costs OPEN; pricing_status supersedes costs only, preserving rank-expression/basin OPENs.",
+    "Exceptional ordinary Sever Field price reflects area architecture dismantling; review alongside evolving topology canon.",
+    "Elemental variants and numbered Pattern variants with identical scale/control/role metadata have equal Red prices; no element-name premium or pattern-number premium.",
+    "Some ordinary entity records have no exact Binding-name counterpart; entity atlas remains independently keyed and no registry records were invented."
+  ],
+  "open_items_retained": [
+    "Purchase dates",
+    "Credit reward/income tables",
+    "Discretionary prices",
+    "Topology-derived basin assignments",
+    "ALPHA/WORKING recipe choices",
+    "White-expression development where already OPEN",
+    "Planetary month reconciliation"
+  ]
+}

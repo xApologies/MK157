@@ -1,6 +1,6 @@
 # Authority and supersessions
 
-Checkpoint 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -67,7 +67,7 @@ Older Checkpoint 03 Signature first Binding absorption wording is superseded by 
 
 ## Checkpoint 09 governing continuation
 
-Checkpoint 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+Checkpoint 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 Lowercase `eldris` supersedes Checkpoint 08 uppercase typography. `raeon`, `domai`, `vaen`, `maege`, `maegi` are lowercase; spelling-by-letter capitals are transcription artifacts.
 The current carriage supersedes historical Open Blank transport. Schedule PDFs supply methodology only. MK157 explicit canon governs approved upstream inheritance. Outside persistent Dungeons are distinct from Valnak procedural training; outside `domai` unravel progressively after core break, while Valnak incursions terminate as completed encounters.
 Checkpoint 08 Green Solo graduation and Black/White progression remain. No new registry records are requested. The exact Checkpoint 09 master retains its original pending-integration header and quoted uppercase transcription example; current status is integrated and its authority is active.
@@ -75,7 +75,7 @@ See [full master](16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md), [source boundar
 
 ## Checkpoint 10 Trial/calendar delta
 
-Checkpoint 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
+Checkpoint 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
 
 Wave totals describe delivered population, not simultaneous population. Solo/Duo/Trio share fixed 3×3-mile geography; Dungeon realization remains procedural. W35 pressure saturation is WORKING; post-W35 total population, numeric caps and exact spawn laws remain OPEN. W96 is noncanonical.
 
@@ -83,8 +83,14 @@ Calendar conflict: supplied months sum to 353 rather than 360; 360 days/60 weeks
 
 ## Checkpoint 11 governing delta
 
-11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations cost 61,000 credits each, total 244,000. These acquisition gates supersede any differing earlier price estimates, not ordinary rank pricing. Armor remains the ~1,000-credit anomalous starter.
+12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations cost 61,000 credits each, total 244,000. These acquisition gates supersede any differing earlier price estimates, not ordinary rank pricing. Armor remains the ~1,000-credit anomalous starter.
 illi's Persistent Coherence BLUE is required for White Legacy entry. This supersedes immediate-entry access and arbitrary Absorption acquisition dates; individual Prime GREEN-to-RED gates remain unchanged. The 26,648 cumulative example is illustrative B=1,000, not a new registry price assignment.
 Valnak weeks have seven days (343 days/deployment). Planetary month-total conflict remains OPEN. Daily highlights at 25:00, raeon W7 D5 final, W7 D5–D7 Auctions and White-season Prism playoff placement supersede older timing OPENs. Fine match schedules remain OPEN.
 Genesis Cards are active inherited collectibles, not Binding grants/casts. Their colors express actual manifold basins; raeon colors express game classification/rarity. Both share transparent durable maege glass. No universal color/element mapping follows from illustrative card examples.
 Exact Checkpoint 11 master retains its original PENDING header as source fidelity; integration is complete. Next-thread simulation target is a handoff, not authorization to invent dates or run an unsourced reward simulation now.
+
+## Checkpoint 12 complete pricing
+
+Checkpoint 12 replaces pre-convention numeric scaffolding and gas base-cost OPENs with semantic Red acquisition prices for all 1016 Bindings and 229 summons. Five author anchors and uniform Prime 10000 override classifier output. Deterministic ROUND_HALF_UP at every transition supersedes older rounding scaffolding. All non-price fields, recipes, basin OPENs, White expressions, statuses and source lineage remain.
+illi's B=1000 example is historical illustration; actual Persistent Coherence B=700 cumulative through Blue is 18655. Blue entry qualification and individual Prime gates remain. White Legacy access does not waive Prime acquisition. Kira's Black 61000 gates and Checkpoint 11 calendar/card rules remain separate and unchanged.
+See [Checkpoint 12](19_CHECKPOINT_12_COMPLETE_PRICING.md) and [pricing policy](../bindings/PRICING_MODEL.md). Unrelated OPEN items stay OPEN.
