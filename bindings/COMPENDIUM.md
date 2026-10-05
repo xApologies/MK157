@@ -1,6 +1,6 @@
 # MK157 Compendium v0.2 — Domain-First
 
-Total candidate Bindings after audit/fix: **1014**.
+Total candidate Bindings after audit/fix: **1016**.
 
 This is a corrected pruning corpus. Domain taxonomy is canonical; individual ALPHA candidates remain subject to pruning.
 
@@ -1411,7 +1411,7 @@ Primary-domain count: **90**
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 # Genesis Expression
-Primary-domain count: **597**
+Primary-domain count: **599**
 
 ## GE-0001 — Forking Acoustic Arc
 **Family:** Acoustic Arc  
@@ -11175,3 +11175,21 @@ Primary-domain count: **60**
 **Prices:** Red 3,240, Orange 5,184, Yellow 9,331, Green 19,595, Blue 48,988, Violet 146,964, White 587,856  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
+
+# Checkpoint 08 approved gas concepts
+
+## GE-0598 — Hydrogen Orb
+
+Domain: Genesis Expression. Geometry: Orb. Status: APPROVED CONCEPT — costs/rank expressions/basins OPEN.
+
+Bounded/compressed hydrogen-gas shaping. Pressure/expansion is intrinsic; combustion requires appropriate oxidizer/mixing and ignition. Pressure alone does not imply self-ignition.
+
+Red base cost and all rank costs: OPEN (no deterministic base-cost convention). Rank development, White expression and basin topology: OPEN.
+
+## GE-0599 — Premixed Combustible Gas Orb
+
+Domain: Genesis Expression. Geometry: Orb. Status: APPROVED CONCEPT — costs/rank expressions/basins OPEN.
+
+Bounded prepared combustible gas mixture intended for controlled release/ignition. General prepared-gas architecture; do not proliferate Shock/Cold/Pressure/Air variants.
+
+Red base cost and all rank costs: OPEN (no deterministic base-cost convention). Rank development, White expression and basin topology: OPEN.

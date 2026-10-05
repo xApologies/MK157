@@ -1,4 +1,4 @@
-> Source checkpoint 02. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 02. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Checkpoint 02 Addendum — Valnak Society, illi, Highlights, Legacies
 
@@ -21,7 +21,7 @@ Core thesis: **Help civilization survive, and civilization's sanctuary eventuall
 
 Permanent and Seasonal domains are residentially/administratively separate but socially porous during seasons. Permanent residents may visit, teach, work, shop, mentor, socialize, spectate and compete in Seasonal Valnak.
 
-Fresh **First-Cycle Initiates** cannot group with veterans/Permanent residents. After First Cycle, Seasonal veterans and Permanent residents may freely form mixed Prism/dungeon/training/crafting teams. Residency status is not a separate open-competition class.
+Fresh **First-Cycle Initiates** cannot be carried by mature veterans in progression-bearing content before qualification; social contact is unrestricted. Checkpoint 08 allows early graduation on reaching GREEN Solo. After graduation or First Cycle, Seasonal veterans and Permanent residents may freely form mixed Prism/dungeon/training/crafting teams. Residency status is not a separate open-competition class.
 
 Retirement means dangerous service is no longer owed, not that contribution must stop. Permanent residents may voluntarily teach at Blackstone, mentor, craft, research, coach Prism, operate businesses, etc., and Valnak can reward this with credits. Exact sanctuary qualification and post-death persistence/reconstruction remain OPEN.
 
@@ -122,7 +122,7 @@ This is recurring comedy. In genuine danger Elara becomes instantly competent (B
 Use **Binding**, not spell, for acquired persistent capability architecture. Shaping is what a Binding enables/expresses.
 
 ## Discounts vs LEGACIES
-Canonical in-world term replacing “Path” is **LEGACY**.
+Canonical in-world term replacing “Legacy” is **LEGACY**.
 
 A one-off **Offer/Discount** is a subsidized Binding/package with no long-term contract.
 

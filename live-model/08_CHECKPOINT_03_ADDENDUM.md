@@ -1,4 +1,4 @@
-> Source checkpoint 03. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 03. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Checkpoint 03 — Kira Battle Architecture and Biological Realization
 
@@ -32,7 +32,7 @@ The Node is Valnak's cognitive/spatial operating environment. It supports profil
 
 Builder allows hypothetical Binding configurations to be created, simulated, saved, shared, published and modified. Trending/most-viewed/highest-rated/Valnak-recommended builds exist. User-created builds are NOT called Legacies.
 
-## illi White Legacy
+## illi White Legacy — historical toolkit detail, current six governed by Checkpoint 08
 After Kira and illi's first Duo success, illi is offered a historically extraordinary White Legacy. Elara has mischievously influenced the optimization environment, but illi legitimately qualifies.
 
 Working White Legacy economy: ~70% of progression credits automatically service the Legacy; ~30% remain discretionary.

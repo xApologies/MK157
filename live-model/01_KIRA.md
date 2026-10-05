@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Kira --- Affliction, evolution, transformation, design
 
@@ -173,3 +173,15 @@ Elara's comedy engine:
 2. Valnak correctly rewards those unprecedented valid results.
 
 Examples: starter pricing anomaly; Orb cannonballs; Orb blender; Trial-credit explosions; Halo reducing energetic constraints; Eternal Standings preserving the absurd outputs.
+
+## Checkpoint 08 Orb interpretation and competency
+
+## 10. Kira progression / Orbs
+Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (late Yellow) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation.
+Black growth is competency/discovery/integration, not ordinary rank grinding.
+
+Genesis Orbs are INTENTIONALLY ANOMALOUS; do not classify them as literal singularities/black holes/etc. They are persistent externalized extensions of Kira and her Genesis interface, respond to her consciousness, interact physically/Transductively, become remote Transductive interfaces, and after Domain can project/exert Kira's Domain. Distributed Domain use matters to the end-book Genesis Collapse solution. Elara later discovers capabilities, not a mandatory ontology.
+
+Orb competency: late Yellow one Orb/crude cannonball → one-orb orbit → around mid-Green two-Orb competency and mature patterned blender → late Violet three-Orb competency. Current mature ceiling THREE.
+Orbital weapons are not invented by Kira; ordinary multi-object shaping is cognitively/fatigue expensive. Summons offload local behavior into autonomy. Kira is a brute-force brawler/improviser, not a finesse swordfighter.
+After Valnak, one continuously sustained Orb can host/project Elara's external presence; exact identity/instancing semantics remain OPEN.

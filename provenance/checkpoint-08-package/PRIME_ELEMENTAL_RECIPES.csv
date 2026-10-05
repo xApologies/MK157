@@ -1,0 +1,24 @@
+prime_id,prime_name,ordinary_requirement,prerequisite_binding_id,prerequisite_name,illi_override
+PE-001,Genesis Prime Elemental,White,GE-0043,Genesis Beam,Green exposed prerequisite
+PE-001,Genesis Prime Elemental,White,GE-0444,Genesis Orb,
+PE-001,Genesis Prime Elemental,White,GE-0528,Genesis Shard,
+PE-001,Genesis Prime Elemental,White,GE-0042,Barrier Plane,
+PE-001,Genesis Prime Elemental,White,GF-0038,Focused Threat Resolve,
+PE-001,Genesis Prime Elemental,White,GF-0044,Conditional Command,
+PE-001,Genesis Prime Elemental,White,GF-0045,Deep Manifest,
+PE-002,Coherence Prime Elemental,White,PT-0002,Directed Coherence,
+PE-002,Coherence Prime Elemental,White,PT-0003,Persistent Coherence,Green exposed prerequisite
+PE-002,Coherence Prime Elemental,White,PT-0001,Coherence Field,
+PE-002,Coherence Prime Elemental,White,GF-0005,Expanded Coherence Diagnostic,
+PE-002,Coherence Prime Elemental,White,GF-0044,Conditional Command,
+PE-002,Coherence Prime Elemental,White,GF-0048,Escort Command,
+PE-002,Coherence Prime Elemental,White,GF-0045,Deep Manifest,
+PE-003,Resonance Prime Elemental,White,RS-0027,Adaptive Muscular Strength Augmentation,
+PE-003,Resonance Prime Elemental,White,RS-0006,Adaptive Bone Reinforcement Augmentation,
+PE-003,Resonance Prime Elemental,White,RS-0019,Adaptive Joint Reinforcement Augmentation,
+PE-003,Resonance Prime Elemental,White,RS-0042,Adaptive Tendon Reinforcement Augmentation,
+PE-003,Resonance Prime Elemental,White,RS-0012,Adaptive Core Stability Augmentation,
+PE-003,Resonance Prime Elemental,White,RS-0018,Adaptive Impact Frame Augmentation,
+PE-003,Resonance Prime Elemental,White,GF-0082,Summon Barrier,
+PE-003,Resonance Prime Elemental,White,GF-0045,Deep Manifest,
+PE-003,Resonance Prime Elemental,Green,GE-0537,Absorption Shield,Green exposed prerequisite; ordinary recipe does not require this

@@ -1,1 +1,4 @@
 * -text
+# Preserve original package Markdown hard breaks and CSV Windows line endings.
+provenance/checkpoint-08-package/*.md whitespace=-blank-at-eol
+provenance/checkpoint-08-package/*.csv whitespace=cr-at-eol

@@ -6,7 +6,7 @@ This constitution governs cross-thread MK157 development. Its purpose is continu
 ## Authority
 1. Git is the persistent cross-thread source of truth.
 2. At a new thread start, crawl the MK157 repository before reconstructing established systems from memory.
-3. Current authority is Checkpoint 07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+3. Current authority is Checkpoint 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 4. Provenance/historical files are not current canon merely because they remain in Git.
 5. Never silently revive superseded material.
 6. OPEN means OPEN. Distinguish LOCKED / WORKING / ALPHA / OPEN / SUPERSEDED.
@@ -69,10 +69,10 @@ Low-output summons may persist for hours; extreme manifestations may exhaust req
 ## Architect
 Architects are field mathematicians/engineers working directly with Genesis-field topology, manifolds, knots, boundaries, constraints, anchors/velis, stability and construction. Do not pad Architect with a conventional combat-spell catalog.
 
-## Builder / Paths
+## Builder / Legacies
 Builder is Valnak's build-planning environment.
-A Path is a curated developmental trajectory, not a rigid class.
-Generated Paths do not automatically define Kira or illi.
+A Legacy is a curated developmental trajectory, not a rigid class.
+Generated Legacies do not automatically define Kira or illi.
 
 ## Valnak
 Canonical spelling: Valnak.
@@ -122,3 +122,39 @@ At the beginning of every new MK157 development thread:
 4. consult domain files relevant to the immediate task;
 5. treat generated registries as infrastructure rather than automatic character canon;
 6. do not rebuild established systems from generic model memory.
+
+# MK157 — LEXICAL CONSTITUTION PATCH
+
+Purpose: prevent voice-to-text drift from mutating canon.
+
+| Canonical | Normalize contextual variants |
+|---|---|
+| Valnak | Valnek, Valnac, Valmac, Valmek |
+| Elara | Alara, Ilara |
+| illi | Ellie, Illy, Ily |
+| `vaen` | vein, vain, vane |
+| `maege` | mage |
+| `maegi` | mages, magi, magei |
+| `velis` | phonetic variants |
+| `ru’ne` | rune, ru'ne |
+| `aera` | phonetic variants |
+| `domai` | phonetic variants |
+| ELDRIS | Eldris/Elders when unambiguous |
+| Legacy / Legacies | old Pass/Passes and Path/Paths when referring to Valnak curated development |
+
+Rules:
+1. Normalize obvious transcription variants silently before adding them to the live model.
+2. A transcription artifact never creates a new character/mechanic/place.
+3. If mapping is ambiguous, mark unresolved rather than inventing canon.
+4. `Aelis` is explicitly NOT retained; Trio third participant remains OPEN.
+5. BLACKOUT and Direct/Directed Coherence do not need standing voice-normalization entries.
+
+## 1. Engine / development method
+Author stack: L0 MKUltra/_bricked reality mathematics and physics → L1 Genesis/Transduction fantasy engine → L2 Geography ↔ Civilization world engine (including Valnak) → L3 Characters → L4 Story Engine. Books are designed in ARCS, not fixed chapter counts. Calendar is simulation time; arcs are narrative state transitions.
+
+MK157 inherits compatible MK-147 world mechanics/worldbuilding where not superseded. Binding Circles are excluded and replaced by Valnak's Binding-development architecture. `vaen` belongs principally to Alchemy/material science.
+
+
+## Checkpoint 08 continuity locks
+
+Green Solo graduates first-cycle progression grouping early; social life is not quarantined. Repeat legitimate Trials award credits without a personal-best requirement. Orbs are intentionally anomalous; no ontology is assigned. illi's six first-cycle capabilities are governed by [Checkpoint 08](live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md), not older 07B direct/area-healing plans.

@@ -110,14 +110,14 @@ A summon Binding evolves R→White as one manifestation architecture; do not cre
 The root `summons/` registry supplies candidate manifested-entity profiles.
 
 ## Builder
-Valnak's node includes **Builder**, a build-planning environment. Builder lets participants inspect Bindings, select target ranks, estimate credit investment, assemble packages, inspect compatibility/conflicts, evaluate sustain/burst load, evaluate basin contention/lockout consequences, inspect Summoned Entity profiles, and browse curated Paths.
+Valnak's node includes **Builder**, a build-planning environment. Builder lets participants inspect Bindings, select target ranks, estimate credit investment, assemble packages, inspect compatibility/conflicts, evaluate sustain/burst load, evaluate basin contention/lockout consequences, inspect Summoned Entity profiles, and browse curated Legacies.
 
 Valnak can surface Trending, popular/high-rated, compatible-with-current-build, Valnak Recommended, and civilization-priority trajectories. Recommendations are incentives, not removal of free will.
 
-## Paths
-A Path is a curated/validated developmental trajectory, not a rigid class. The root `builder/paths/` registry contains candidate Combat Medic, Augmenter, `maege`, and Summoner Paths built from actual Binding and Summoned Entity IDs.
+## Legacies
+A Legacy is a curated/validated developmental trajectory, not a rigid class. The root `builder/paths/` registry contains candidate Combat Medic, Augmenter, `maege`, and Summoner Legacies built from actual Binding and Summoned Entity IDs.
 
-Path rank Red→White describes maturity/depth of the package. Individual Bindings retain independent ranks and White expressions. Architect remains outside ordinary Path generation.
+Legacy rank Red→White describes maturity/depth of the package. Individual Bindings retain independent ranks and White expressions. Architect remains outside ordinary Legacy generation.
 
 ## Ordinary progression / finite content
 Valnak is not an infinite credit-farm sprint. Dungeons may consume days and are psychologically/physically demanding. Participants take downtime, train, socialize, explore, and recover.
@@ -136,14 +136,14 @@ Current working acquisition scaffold:
 Purchase is not mastery. Genesis Orb mastery continues after acquisition from one controlled Orb toward two and ultimately all three. After Elara repairs the anomalous starter-pricing environment, later Black Bindings require meaningful credits plus competency/admissibility.
 
 ## illi development status
-Do not silently replace illi's story build with generated Path candidates.
+Do not silently replace illi's story build with generated Legacy candidates.
 
 Established direction:
 - healing/support orientation;
 - Persistent Coherence as an early/core healing behavior;
-- Genesis Absorption as an important support capability associated with her unusual/White Path trajectory and synergy with Kira;
+- Genesis Absorption as an important support capability associated with her unusual/White Legacy trajectory and synergy with Kira;
 - offensive capability and Elementalist/Summoner developmental direction;
-- Kira/illi synergy and Elara/Valnak observation influence the extraordinary Path opportunity.
+- Kira/illi synergy and Elara/Valnak observation influence the extraordinary Legacy opportunity.
 
 Exact final build remains story-development territory.
 
@@ -151,9 +151,9 @@ Exact final build remains story-development territory.
 Repository root gains:
 - `bindings/` — domain-first Binding Compendium, **1,014** candidate Binding IDs.
 - `summons/` — Summoned Entity Compendium, **220** candidate entity profiles.
-- `builder/paths/` — Valnak Path Compendium, **200** candidate Path profiles.
+- `builder/paths/` — Valnak Legacy Compendium, **200** candidate Legacy profiles.
 
 These registries are infrastructure and may be pruned/renamed later without changing the governing ontology.
 
 ## Writing-state conclusion
-The map, seven seasons, Trials, Dungeons, Raids, domai, Binding registry, Summoned Entity registry, and Builder Paths provide enough infrastructure to return to prose/story development. Do not halt story writing merely because every possible Binding, basin assignment, Path, or summon has not been mathematically exhausted.
+The map, seven seasons, Trials, Dungeons, Raids, domai, Binding registry, Summoned Entity registry, and Builder Legacies provide enough infrastructure to return to prose/story development. Do not halt story writing merely because every possible Binding, basin assignment, Legacy, or summon has not been mathematically exhausted.

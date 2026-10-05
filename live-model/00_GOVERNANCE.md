@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Governance and terminology
 
@@ -15,7 +15,7 @@ Author analogies---MMORPG, developer environment, VM, power supply,
 Groupon, Narnia, Marines---are explanatory unless promoted.
 
 Red → Orange → Yellow → Green → Blue → Violet → White is ubiquitous but
-independently used for Combat rank, shaping rank, Path rank, Vaelle
+independently used for Combat rank, shaping rank, Legacy rank, Vaelle
 rank, casual quality, and Genesis/neon basin language. Do not conflate
 them. **Black is not an ordinary eighth rank.**
 
@@ -42,3 +42,21 @@ current story-author canon, not falsely attributed to R62.
 Do not invent equations to make fantasy physics complete. Preserve:
 access ≠ throughput ≠ density/storage ≠ control ≠ knowledge ≠ skill ≠
 output.
+
+## 1. Engine / development method
+Author stack: L0 MKUltra/_bricked reality mathematics and physics → L1 Genesis/Transduction fantasy engine → L2 Geography ↔ Civilization world engine (including Valnak) → L3 Characters → L4 Story Engine. Books are designed in ARCS, not fixed chapter counts. Calendar is simulation time; arcs are narrative state transitions.
+
+MK157 inherits compatible MK-147 world mechanics/worldbuilding where not superseded. Binding Circles are excluded and replaced by Valnak's Binding-development architecture. `vaen` belongs principally to Alchemy/material science.
+
+
+## 2. Lexical firewall
+Normalize obvious voice-to-text variants without creating new canon:
+- Valnak <- Valnek/Valnac/Valmac/Valmek.
+- Elara <- Alara/Ilara where context is clear.
+- illi <- Ellie/Illy/Ily.
+- `vaen` lowercase V-A-E-N; normalize vein/vain/vane when context is clear.
+- `maege` lowercase singular; `maegi` lowercase plural.
+- `velis` lowercase V-E-L-I-S.
+- `ru’ne`, `aera`, `domai` lowercase; ELDRIS uppercase.
+- Legacy/Legacies supersedes old in-world Pass/Passes and Path/Paths nomenclature for Valnak's curated developmental architecture.
+If a token cannot confidently map to canon, leave it unresolved. `Aelis` was an accidental transcription and is NOT a character; Trio third participant remains OPEN.

@@ -1,0 +1,35 @@
+[
+  {
+    "prime_id": "PE-001",
+    "gate": {
+      "omitted_recipe_sandboxed": true,
+      "omitted_prerequisites_granted": false,
+      "required_rank": "Green",
+      "binding_id": "GE-0043",
+      "name": "Genesis Beam",
+      "unlocks_prime_rank": "Red"
+    }
+  },
+  {
+    "prime_id": "PE-002",
+    "gate": {
+      "omitted_recipe_sandboxed": true,
+      "omitted_prerequisites_granted": false,
+      "required_rank": "Green",
+      "binding_id": "PT-0003",
+      "name": "Persistent Coherence",
+      "unlocks_prime_rank": "Red"
+    }
+  },
+  {
+    "prime_id": "PE-003",
+    "gate": {
+      "omitted_recipe_sandboxed": true,
+      "omitted_prerequisites_granted": false,
+      "required_rank": "Green",
+      "binding_id": "GE-0537",
+      "name": "Absorption Shield",
+      "unlocks_prime_rank": "Red"
+    }
+  }
+]

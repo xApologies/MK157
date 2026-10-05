@@ -1,6 +1,6 @@
 # CHECKPOINT 07 — DEFINITIVE FINAL THREAD HANDOFF
 
-Authority after integration: **07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative.
+Authority after integration: **08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative.
 
 ## Trial architecture
 Valnak supports Solo, Duo, and Trio open wave Trials. Retain rank thresholds:
@@ -92,7 +92,7 @@ With ordinary Halo support, one Orb can eventually be maintained continuously/fu
 Orbs can eventually become remote Transductive/Domain anchors.
 
 ## Elara through an Orb
-Elara can host/project her presence through a persistently sustained Kira Orb and accompany Kira outside Valnak. Exact identity/instancing semantics remain OPEN. Practical canon: external presence works; Elara remains connected to Custodian function; outside Valnak she teaches Kira Shaping/AERA; Elara remains Kira's BFF.
+Elara can host/project her presence through a persistently sustained Kira Orb and accompany Kira outside Valnak. Exact identity/instancing semantics remain OPEN. Practical canon: external presence works; Elara remains connected to Custodian function; outside Valnak she teaches Kira Shaping/aera; Elara remains Kira's BFF.
 
 Relationships:
 - Kira + Elara = BFFs.
@@ -131,7 +131,7 @@ Dungeons may take multiple days. Raids are substantial finite events. `domai` ar
 Retain:
 - 1,014 Binding candidates under `bindings/`
 - 220 Summoned Entity candidates under `summons/`
-- 200 Builder Path candidates under `builder/paths/`
+- 200 Builder Legacy candidates under `builder/paths/`
 
 Six Transduction domains remain primary Binding taxonomy. Basin colors are structural energy identities only, never domains/elements/power.
 
@@ -161,7 +161,7 @@ Halo working stages:
 Stage I ~2 ft diameter; Stage II ~4 ft; Stage III ~6 ft / ~3 ft radius.
 Final Halo coloration remains OPEN and must follow Genesis/Black grammar; do not revive canonical gold.
 
-Preserve the working model that Valnak is Earth-localized through Planck-Horizon/Genesis architecture rather than an unrelated fantasy afterlife plane. Do not overformalize until dedicated cosmology work.
+Preserve the working model that Valnak is planet-localized through Planck-Horizon/Genesis architecture rather than an unrelated fantasy afterlife plane. Do not overformalize until dedicated cosmology work.
 
 Valnak city instances are operationally/politically managed environments, not arbitrary videogame shards; future development should respect governance, population management, social continuity, and political consequences.
 

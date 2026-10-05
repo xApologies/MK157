@@ -1,6 +1,6 @@
 # Checkpoint 06 — Kira Biological Realization Canon
 
-Authority: **07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts.
+Authority: **08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts.
 
 Kira genuinely enters Valnak Afflicted. The Black interaction restructures the pathological Afflicted state into a stable Genesis-integrated human realization. She evolves beyond Afflicted; she was not secretly healthy before the event.
 

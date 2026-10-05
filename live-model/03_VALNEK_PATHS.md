@@ -1,13 +1,13 @@
-> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
-# Valnak, Elara, Paths, automation, residences, cities
+# Valnak, Elara, Legacies, automation, residences, cities
 
 ## Valnak / Elara
 
 Valnak is a **conscious domain of existence**, not merely a city
 containing an AI. It can evaluate provenance, grant credits, restructure
 people, instantiate trials, restore participants, maintain
-residences/cities, generate Paths, and learn.
+residences/cities, generate Legacies, and learn.
 
 **Elara** is Valnak's personified social manifestation and **Custodian
 of Valnak**. She is not a separate goddess/daughter/ruler. Most people
@@ -19,7 +19,7 @@ interaction is rare/intimate and socially prestigious.
 Elara is like a developer working inside her own environment.
 
 Between 23-year cycles she reviews results and develops/configures
-Valnak: Paths, incentives, interfaces, training, services, validated
+Valnak: Legacies, incentives, interfaces, training, services, validated
 discoveries.
 
 During an active cycle most operation is automated runtime. Elara does
@@ -28,15 +28,15 @@ access. Automation can produce results she dislikes while still obeying
 rules she authored.
 
 Loop: observe civilization → model people/needs → configure Valnak →
-cycle launches → automated Paths/trials/economy → human experimentation
+cycle launches → automated Legacies/trials/economy → human experimentation
 → provenance/results → cycle closes → Elara reviews/develops → next
 release.
 
 Thus Valnak can "surprise" Elara without being a separate mind.
 
-## Paths
+## Legacies
 
-A Path is a **Valnak-validated developmental trajectory**, not merely a
+A Legacy is a **Valnak-validated developmental trajectory**, not merely a
 discount bundle.
 
 Generation weights: - demonstrated aptitude, - biology/current state, -
@@ -47,19 +47,19 @@ Free will remains. A person may refuse/diverge, but Valnak makes useful
 trajectories economically attractive.
 
 The discount is incentive; the deeper product is a validated route of
-continued development that reduces build stagnation. Paths have
+continued development that reduces build stagnation. Legacies have
 checkpoints and can branch/combine after completion.
 
-Valnak continually updates Paths to train civilization against ELDRIS
+Valnak continually updates Legacies to train civilization against ELDRIS
 and occupy individual competency. Human discoveries can be validated and
-incorporated into future catalogs/Paths; humanity teaches Valnak while
+incorporated into future catalogs/Legacies; humanity teaches Valnak while
 Valnak teaches humanity.
 
-## Path tiers / packages
+## Legacy tiers / packages
 
-Normal historical Paths: Red → Orange → Yellow → Green → Blue → Violet.
+Normal historical Legacies: Red → Orange → Yellow → Green → Blue → Violet.
 White is legendary/mythic, perhaps appearing only on century-scale
-rarity; society knows White Paths from legends.
+rarity; society knows White Legacies from legends.
 
 Working package concept, exact percentages OPEN: - Red/Orange: strong
 discount on \~one ability. - Yellow/Green: package/discount around
@@ -69,10 +69,10 @@ extraordinary curated trajectory with massive subsidy/importance.
 Earlier brainstorm examples included low-tier 20--25% style discounts
 and higher package subsidies up to 60--80%; do not lock percentages yet.
 
-## Black Path
+## Black Legacy
 
 Kira produces an unprecedented classification. **Black is not Rank 8.**
-The historical human Path vocabulary ends at White. Valnak's generator
+The historical human Legacy vocabulary ends at White. Valnak's generator
 encounters Kira and creates/expresses a category it has never needed.
 
 Kira sees **six Black plaques/options**. She initially has no cultural
@@ -144,10 +144,7 @@ form a group and be routed into a shared instance. Valnak may spin up a
 new instance for occupancy/grouping. Exact graph/VM math is author-side
 and not reader-essential.
 
-First-cycle participants are cohort-gated: they interact/group primarily
-with other first-cycle participants so ancient Violet/White veterans
-cannot power-level them through content. Later-cycle population has
-broader access.
+First-cycle sandboxing restricts progression-bearing grouping before qualification, not social or geographic access. Eligible first-cycle peers may group. Reaching GREEN Solo grants early graduation in the same cycle; Kira has no automatic exemption.
 
 ## City visual constitution
 
@@ -166,86 +163,65 @@ Halo working stages:
 Stage I ~2 ft diameter; Stage II ~4 ft; Stage III ~6 ft / ~3 ft radius.
 Final Halo coloration remains OPEN and must follow Genesis/Black grammar; do not revive canonical gold.
 
-Preserve the working model that Valnak is Earth-localized through Planck-Horizon/Genesis architecture rather than an unrelated fantasy afterlife plane. Do not overformalize until dedicated cosmology work.
+Preserve the working model that Valnak is planet-localized through Planck-Horizon/Genesis architecture rather than an unrelated fantasy afterlife plane. Do not overformalize until dedicated cosmology work.
 
 Valnak city instances are operationally/politically managed environments, not arbitrary videogame shards; future development should respect governance, population management, social continuity, and political consequences.
 
-## 07B current illi progression — same-checkpoint normalization
 
-Persistent Coherence first → Absorption Shield second / White-Path access → Genesis Beam chosen before Directed Coherence → later compact Coherence Field and Elementalist/Summoner development. Exact seasonal dates and final ranks remain OPEN. Generated Paths do not automatically define illi.
+## Checkpoint 08 governing Valnak development
 
-## illi — current Valnak development
+## 3. White Legacy
+White Legacy = validated developmental compression, not automatic White-ranked power.
+Advantages: recipe compression; prerequisite-rank compression; economic subsidy; curated/validated route.
+Tradeoff: highly specific role trajectory; omitted prerequisites do not become independently usable Bindings.
+New prescribed Bindings still rank R→O→Y→G→B→V→W unless explicitly excepted.
 
-illi enters Valnak with a support/healing orientation.
 
-### First Binding — Persistent Coherence
-Her starting practical healing behavior is **Persistent Coherence**:
-- restorative energy/instruction is anchored to a person's Genesis Field;
-- it functions as the core heal-over-time behavior;
-- this gives illi a way to manage/sustain Valnak-generated combatants in her support-oriented Trial environment.
+## 5. First-Cycle sandbox / Green graduation
+The First-Cycle sandbox is a progression-grouping restriction, NOT social/geographic quarantine. Initiates can travel, socialize, shop, learn from veterans and use ordinary Valnak society.
+Before qualification they cannot use mature veterans to carry progression-bearing Duo/Trio/dungeon/raid content for disproportionate credits/progression. Eligible first-cycle peers may group normally.
+Achieving GREEN in Solo is sufficient to graduate early during the same cycle. Reaching Green is the threshold; clearing the entire Green band is NOT required. Kira's Black status does not waive this.
 
-This is her starting point.
+Kira–Elara anti-boost agreement: after the Orb blender proves capable of extreme carries, Elara personally asks Kira not to become a systematic first-cycle boosting service. Kira voluntarily agrees. This is friendship/respect, not a new Valnak rule. Legitimate established-friend grouping remains allowed.
 
-### Second major acquisition — Absorption Shield
-illi's next major capability is **Absorption Shield**.
 
-This is the event associated with her access to the extraordinary White developmental trajectory.
+## 8. Node credential / persistent dossier
+Valnak keeps a persistent participant dossier across openings: identity, credit ledger, residence/property state, Bindings/ranks, Legacy state, validated standings/qualifications and established accomplishments.
+Credits are ledger entries, not hard currency, and persist unless superseded. Residences persist under the current model.
 
-Absorption is prevention, not healing:
-- stop/absorb trauma before biological damage resolves;
-- dramatically improve party endurance;
-- complement Persistent Coherence rather than duplicate it.
+Valnak stamps participants with a passive anchored credential/ID Binding. It is infrastructure, not purchased/ranked build capability. Outside Valnak a trivial shaping projects a compact read-only authenticated ID/credential — a static file/card showing identity and applicable validated achievements (e.g. Solo/Duo/Trio, profession/craft competency).
+Valnak supplies facts; civilization assigns policy. Guilds, militaries, caravans, employers etc. can require thresholds. The credential does not replace reputation/judgment.
+Most people eventually enter Valnak at least once; people under the first ~23-year opportunity are culturally very young in a centuries-long-lived society. Legal adulthood remains OPEN.
+Valnak is multipurpose: progression, craft, education, shopping, tourism/vacation, social life and visiting permanent residents. A returning participant can visit for weeks, spend carried-forward credits and leave.
 
-Valnak/Elara's observation of Kira + illi as an unusually effective pair is part of the context for this extraordinary opportunity. Valnak is conscious/advanced enough to recognize relationships and group utility; the White opportunity is not a random loot roll.
 
-### White Path behavior
-White is a mechanic-bending/exceptional curated developmental Path that can become available based on:
-- demonstrated competency;
-- participant state/build;
-- Valnak's accumulated knowledge of the person;
-- civilization/group needs;
-- exceptional contextual relationships.
+## 9. Permanent vs Seasonal Valnak energy
+Permanent Valnak is continuously sustained by ordinary available starscape/Genesis-field throughput.
+The ~23-year interval accumulates additional reserve for the much larger Seasonal Valnak deployment:
+continuous throughput → Permanent Valnak
+surplus accumulation ~23 years → seasonal reserve
+reserve threshold → Seasonal Valnak
+R→O→Y→G→B→V→W, 7 weeks each = 49 Valnak weeks
+seasonal closes → Permanent continues → accumulation resumes.
+Do NOT map seasons to basin consumption.
+Valnak is PLANET-localized through local Genesis-field/starscape architecture; supersede older “Earth-localized” working wording. Planet proper name remains OPEN unless recovered. Existing Orange↔Yellow aggregate Genesis-Log tendency remains; it is not a power tier.
 
-It does not simply hand illi a collection of White-ranked Bindings.
 
-Instead, it constrains/curates what becomes available while still allowing progression and ordering choices.
+## 11. illi first-cycle build
+This supersedes 07B's assumption that later Directed Coherence/Coherence Field are part of her current locked first-cycle build. They remain valid global helkir Bindings but are not currently in illi's six unless deliberately added later.
 
-For illi, after the support foundation, a meaningful choice is presented between further directed healing development and offensive capability. She chooses the offensive option first:
+Sequence:
+1. Entry/Red — Persistent Coherence.
+2. Early Orange — Absorption Shield.
+3. Early Yellow — Genesis Beam.
+4. Late Yellow — Genesis Prime Elemental.
+5. Early Blue — Coherence Prime Elemental.
+6. White — Resonance Prime Elemental / Juggernaut.
 
-### Genesis Beam
-illi takes **Genesis Beam** before the later Directed Coherence acquisition.
+Causal order: healer plan → White Legacy redirects through prevention → Duo needs offense → Beam → Genesis Prime → dungeon/group healing need → Coherence Prime → Kira already fronts, so Juggernaut delayed until raid/White-scale need.
 
-The Beam is intentionally simple: a direct offensive Genesis-energy expression so illi remains useful when nobody needs immediate healing.
-
-At White rank, the Beam can support a sustained/chanelled high-output expression rather than only a discrete charged shot.
-
-### Directed Coherence
-A powerful projected/direct restoration remains part of illi's compact mature toolkit, but it follows the earlier Persistent Coherence + Absorption + offensive development in the current working sequence.
-
-### Coherence Field
-The third foundational healing geometry remains available as the bounded area-healing form:
-- Directed Coherence;
-- Persistent Coherence;
-- Coherence Field.
-
-Do not invent additional healing primitives.
-
-### Elementalist / Summoner direction
-illi also has an Elementalist/Summoner developmental direction inherited from the working character model.
-
-Elementals are Transductive manifestations, not conventional fantasy spirits. Their common architecture is:
-**Genesis Expression + Resonance + Chirality**.
-
-This gives illi a support-heavy identity that can still participate actively in combat through Genesis expression and manifested elementals.
-
-### Compact specialization
-Kira's Black progression is comparatively linear across a small number of enormous integrated systems.
-
-illi's progression is more granular:
-- acquire a new capability;
-- deepen/rank existing capabilities;
-- satisfy Path checkpoints;
-- choose ordering among curated available capabilities;
-- continue specializing rather than collecting every low-value healing variant.
-
-Her mature identity remains a compact, highly specialized support/combat package rather than an enormous spell list.
+White-Legacy gates:
+Genesis Beam GREEN → Genesis Prime RED available.
+Persistent Coherence GREEN → Coherence Prime RED available.
+Absorption Shield GREEN → Resonance Prime RED available.
+Prime begins Red and ranks normally. Omitted ordinary recipe is sandboxed; illi does not inherit it.

@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # OPEN questions, supersessions, provenance
 
@@ -16,7 +16,7 @@
     ratio.
 -   Exact city mileage, hubs, occupancy caps and public-city map.
 -   Exact node/HUD functions beyond established behavior.
--   Exact Path discounts/packages by color.
+-   Exact Legacy discounts/packages by color.
 -   Exact mature Black maege/summoner/augmenter/architect/healer
     abilities.
 -   Exact mature Armor of the Abyss upgrades.
@@ -48,7 +48,7 @@
     behave as hair.
 -   Bulky post-transformation physique --- rejected. Thin/lithe/dense
     fighter.
--   Ornate gem-heavy Path plaque borders --- rejected. Simple
+-   Ornate gem-heavy Legacy plaque borders --- rejected. Simple
     living-light borders.
 -   Inn-servant opening --- superseded by smithy/mail-armorsmith Kira.
 -   Veyra/Mira for Custodian --- rejected; Elara.
@@ -61,13 +61,13 @@
 
 Accepted concepts from older source material: - Elara develops/programs
 Valnak between cycles. - Active cycles largely run through automation. -
-Paths are validated developmental trajectories, not just discounts. -
+Legacies are validated developmental trajectories, not just discounts. -
 Valnak can incentivize civilization without coercion. - Human
-discoveries can feed future Valnak libraries/Paths. - Valnak itself can
+discoveries can feed future Valnak libraries/Legacies. - Valnak itself can
 update interfaces/services/path families between cycles. - Automation
 can produce expensive/annoying outcomes Elara must manage. - Kira
-repeatedly qualifying for increasingly absurd Paths is intended
-recurring comedy, but exact later Paths remain OPEN.
+repeatedly qualifying for increasingly absurd Legacies is intended
+recurring comedy, but exact later Legacies remain OPEN.
 
 ## Current story spine
 

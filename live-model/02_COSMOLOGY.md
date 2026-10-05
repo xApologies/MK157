@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Starscapes, Genesis Log, neon, White/Black Möbius, energy
 
@@ -102,4 +102,25 @@ point**, not that the text must claim literal mathematical infinity.
 
 ## Checkpoint 07 localization anchor
 
-Preserve the working model that Valnak is Earth-localized through Planck-Horizon/Genesis architecture rather than an unrelated fantasy afterlife plane. Do not overformalize until dedicated cosmology work.
+Preserve the working model that Valnak is planet-localized through Planck-Horizon/Genesis architecture rather than an unrelated fantasy afterlife plane. Do not overformalize until dedicated cosmology work.
+
+## 4. Color culture / basin firewall
+R/O/Y/G/B/V ENERGY BASINS are structural energy identities, not power levels, elements, domains, spell strengths, or selectable intensities.
+Binding rank independently uses R→O→Y→G→B→V→W as development.
+Trial standings, military/nobility/professional ratings and everyday classification may reuse the same color grammar. Context determines meaning.
+The rainbow is a foundational cultural/educational image for R→V ordering; exact Layer-0 correspondence remains unresolved.
+
+PSSP author model: Binding = stored architecture. Phase-state shadow projection expands/projects it into an operative field/manifold. Required basin energy is transduced into the geometry/topology; its corridors/paths/relations guide the shaping.
+Veteran efficiency = clean projection, low waste, basin discipline, sequencing, release discipline and judgment, NOT “using a lower-color response.”
+
+
+## 9. Permanent vs Seasonal Valnak energy
+Permanent Valnak is continuously sustained by ordinary available starscape/Genesis-field throughput.
+The ~23-year interval accumulates additional reserve for the much larger Seasonal Valnak deployment:
+continuous throughput → Permanent Valnak
+surplus accumulation ~23 years → seasonal reserve
+reserve threshold → Seasonal Valnak
+R→O→Y→G→B→V→W, 7 weeks each = 49 Valnak weeks
+seasonal closes → Permanent continues → accumulation resumes.
+Do NOT map seasons to basin consumption.
+Valnak is PLANET-localized through local Genesis-field/starscape architecture; supersede older “Earth-localized” working wording. Planet proper name remains OPEN unless recovered. Existing Orange↔Yellow aggregate Genesis-Log tendency remains; it is not a power tier.

@@ -1,0 +1,42 @@
+{
+  "package": "MK157_CHECKPOINT_08_LIVE_MODEL_DELTA",
+  "base": "Git main through Checkpoint 07B",
+  "purpose": "Cumulative live-model delta for Codex integration",
+  "files": [
+    {
+      "name": "15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+      "bytes": 15694,
+      "sha256": "ad738ba078b5acb3f51a2e32a398ed368a4eb842dc4ae51ea89be4b61fbe99be"
+    },
+    {
+      "name": "BINDING_REGISTRY_DELTA.md",
+      "bytes": 1246,
+      "sha256": "b90e5e6661d055f142e8b2ef7d708f2357e94a2e3c353d0db06c9d53836a157c"
+    },
+    {
+      "name": "EXECUTABLE.md",
+      "bytes": 4333,
+      "sha256": "1c14ff0404f27bc06f2f106c87e0448be80fac19bc0eabd417a6bc50bf4b9c86"
+    },
+    {
+      "name": "LEXICAL_CONSTITUTION_PATCH.md",
+      "bytes": 1015,
+      "sha256": "707638569edb9f4cfaef4fdf2167131957ac8198177478fe1d0317d817905a90"
+    },
+    {
+      "name": "PACKAGE_AUDIT.md",
+      "bytes": 1555,
+      "sha256": "c179b50ca56b3502538423784c5b98a89c4c3c57143df237e8ef0ca6c84616a9"
+    },
+    {
+      "name": "PRIME_ELEMENTAL_RECIPES.csv",
+      "bytes": 1834,
+      "sha256": "f91805f1b4b38c979ec9aaf3b8f1ffd44f9bd1f1c63f19b80bdcbba0639f2bce"
+    },
+    {
+      "name": "PRIME_ELEMENTAL_TAXONOMY.csv",
+      "bytes": 742,
+      "sha256": "07a74e1ddf7ec5d7d95887a74010f7c72713d59c9437cac72ec48ba9d9f3f4b0"
+    }
+  ]
+}

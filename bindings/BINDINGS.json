@@ -57342,5 +57342,111 @@
     "primary_domain": "Chirality",
     "basin_requirement_status": "OPEN \u2014 derive from actual shaping topology only; never infer from domain or visible color.",
     "id": "CH-0060"
-  }
+  },
+{
+  "name": "Hydrogen Orb",
+  "family": "Gas",
+  "transduction_domains": [
+    "Genesis Expression"
+  ],
+  "geometry": "Orb",
+  "physical_mechanism": "Bounded/compressed hydrogen-gas shaping. Pressure/expansion is intrinsic; combustion requires appropriate oxidizer/mixing and ignition. Pressure alone does not imply self-ignition.",
+  "required_basins": [],
+  "activation_profile": "resolve bounded gas Orb",
+  "sustain_profile": "OPEN — mechanism-specific control and fatigue",
+  "fatigue_profile": "OPEN — sustainable cost and basin requirements require topology audit.",
+  "red_base_cost": null,
+  "primary_expression": "Bounded/compressed hydrogen-gas shaping. Pressure/expansion is intrinsic; combustion requires appropriate oxidizer/mixing and ignition. Pressure alone does not imply self-ignition.",
+  "white_secondary_expression": "OPEN — same-mechanism secondary expression requires development.",
+  "compatibilities": [
+    "Builder validates actual topology and basin availability."
+  ],
+  "conflicts": [
+    "No basin-to-domain/element/power mapping. No pressure-alone hydrogen self-ignition."
+  ],
+  "build_tags": [
+    "Genesis Expression",
+    "Gas",
+    "Orb"
+  ],
+  "source_lineage": "Checkpoint 08 approved concept; safe ID allocated at integration",
+  "status": "APPROVED CONCEPT — costs/rank expressions/basins OPEN",
+  "rank_costs": {
+    "Red": null,
+    "Orange": null,
+    "Yellow": null,
+    "Green": null,
+    "Blue": null,
+    "Violet": null,
+    "White": null
+  },
+  "rank_progression": {
+    "Red": "OPEN — mechanism-specific rank development not assigned.",
+    "Orange": "OPEN — mechanism-specific rank development not assigned.",
+    "Yellow": "OPEN — mechanism-specific rank development not assigned.",
+    "Green": "OPEN — mechanism-specific rank development not assigned.",
+    "Blue": "OPEN — mechanism-specific rank development not assigned.",
+    "Violet": "OPEN — mechanism-specific rank development not assigned.",
+    "White": "OPEN — mechanism-specific rank development not assigned."
+  },
+  "legacy_id": "M-0165",
+  "class_affinity": "maege",
+  "primary_domain": "Genesis Expression",
+  "basin_requirement_status": "OPEN — topology-derived only; never inferred from gas identity, visible color or power.",
+  "id": "GE-0598",
+  "pricing_status": "OPEN — no deterministic base-cost convention; recursive multipliers apply only after base cost is established."
+},
+{
+  "name": "Premixed Combustible Gas Orb",
+  "family": "Gas",
+  "transduction_domains": [
+    "Genesis Expression"
+  ],
+  "geometry": "Orb",
+  "physical_mechanism": "Bounded prepared combustible gas mixture intended for controlled release/ignition. General prepared-gas architecture; do not proliferate Shock/Cold/Pressure/Air variants.",
+  "required_basins": [],
+  "activation_profile": "resolve bounded gas Orb",
+  "sustain_profile": "OPEN — mechanism-specific control and fatigue",
+  "fatigue_profile": "OPEN — sustainable cost and basin requirements require topology audit.",
+  "red_base_cost": null,
+  "primary_expression": "Bounded prepared combustible gas mixture intended for controlled release/ignition. General prepared-gas architecture; do not proliferate Shock/Cold/Pressure/Air variants.",
+  "white_secondary_expression": "OPEN — same-mechanism secondary expression requires development.",
+  "compatibilities": [
+    "Builder validates actual topology and basin availability."
+  ],
+  "conflicts": [
+    "No basin-to-domain/element/power mapping. No pressure-alone hydrogen self-ignition."
+  ],
+  "build_tags": [
+    "Genesis Expression",
+    "Gas",
+    "Orb"
+  ],
+  "source_lineage": "Checkpoint 08 approved concept; safe ID allocated at integration",
+  "status": "APPROVED CONCEPT — costs/rank expressions/basins OPEN",
+  "rank_costs": {
+    "Red": null,
+    "Orange": null,
+    "Yellow": null,
+    "Green": null,
+    "Blue": null,
+    "Violet": null,
+    "White": null
+  },
+  "rank_progression": {
+    "Red": "OPEN — mechanism-specific rank development not assigned.",
+    "Orange": "OPEN — mechanism-specific rank development not assigned.",
+    "Yellow": "OPEN — mechanism-specific rank development not assigned.",
+    "Green": "OPEN — mechanism-specific rank development not assigned.",
+    "Blue": "OPEN — mechanism-specific rank development not assigned.",
+    "Violet": "OPEN — mechanism-specific rank development not assigned.",
+    "White": "OPEN — mechanism-specific rank development not assigned."
+  },
+  "legacy_id": "M-0165",
+  "class_affinity": "maege",
+  "primary_domain": "Genesis Expression",
+  "basin_requirement_status": "OPEN — topology-derived only; never inferred from gas identity, visible color or power.",
+  "id": "GE-0599",
+  "pricing_status": "OPEN — no deterministic base-cost convention; recursive multipliers apply only after base cost is established."
+}
 ]

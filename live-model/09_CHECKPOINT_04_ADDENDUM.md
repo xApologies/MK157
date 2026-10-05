@@ -1,4 +1,4 @@
-> Source checkpoint 04. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 04. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Checkpoint 04 Addendum — Black Legacy Pipeline, Eternal Standings, and Post-Valnak Continuity
 
@@ -39,7 +39,7 @@ Elara discovers she can host/project her consciousness through Kira's persistent
 
 Exact identity/instancing semantics remain OPEN; do not silently decide whether this is projection, extension, copy, etc. Practical canon: Elara can be present with Kira outside while remaining connected to her Custodian role.
 
-Outside Valnak Elara becomes Kira's mentor in Shaping and **AERA**, while remaining her best friend rather than becoming a formal master figure.
+Outside Valnak Elara becomes Kira's mentor in Shaping and **aera**, while remaining her best friend rather than becoming a formal master figure.
 
 ## Relationship geometry
 - **Kira + Elara = best friends / BFFs.**
@@ -98,7 +98,7 @@ Kira exits Valnak with:
 - Domain and selected interface/support operations;
 - extraordinary Eternal Standing fame;
 - illi as sister-level royal relationship;
-- Elara as BFF, traveling Orb presence, and Shaping/AERA teacher.
+- Elara as BFF, traveling Orb presence, and Shaping/aera teacher.
 
 Valnak is the launch point. Outside Valnak, Elara teaches established Genesis knowledge; Kira practices and eventually reaches Genesis behavior beyond Elara's existing knowledge.
 

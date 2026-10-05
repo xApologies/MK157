@@ -1,6 +1,6 @@
 # Summoned Entity Catalog
 
-Profiles: **220**
+Profiles: **229**
 
 # Elemental manifestation
 
@@ -2645,3 +2645,150 @@ Profiles: **220**
 **Defense:** coherent manifestation body; role/scale-dependent structural persistence  
 **White:** Role Autonomy — execute the complete validated role package for a short interval with minimal active steering.  
 **Binding:** Creature Manifestation — Breaker
+
+# Prime Elementals — Checkpoint 08
+
+## PE-001 — Genesis Prime Elemental
+
+Status: LOCKED. Role: offensive Genesis Expression specialist. Non-sentient; highly autonomous within validated specialist behavior/command architecture.
+
+Humanoid specialist, many hours at sustainable load, high output raises fatigue. Genesis Expression + Resonance + Chirality; required basins OPEN and topology-derived only.
+
+Ordinary recipe (LOCKED), all prerequisites White, unlocks Prime at Red:
+
+- GE-0043 — Genesis Beam
+- GE-0444 — Genesis Orb
+- GE-0528 — Genesis Shard
+- GE-0042 — Barrier Plane
+- GF-0038 — Focused Threat Resolve
+- GF-0044 — Conditional Command
+- GF-0045 — Deep Manifest
+
+illi-only White-Legacy gate: GE-0043 Green → PE-001 Red. Omitted prerequisites are sandboxed, not granted.
+
+## PE-002 — Coherence Prime Elemental
+
+Status: LOCKED. Role: helkir-equivalent restorative specialist. Non-sentient; highly autonomous within validated specialist behavior/command architecture.
+
+Humanoid specialist, many hours at sustainable load, high output raises fatigue. Genesis Expression + Resonance + Chirality; required basins OPEN and topology-derived only.
+
+Ordinary recipe (LOCKED), all prerequisites White, unlocks Prime at Red:
+
+- PT-0002 — Directed Coherence
+- PT-0003 — Persistent Coherence
+- PT-0001 — Coherence Field
+- GF-0005 — Expanded Coherence Diagnostic
+- GF-0044 — Conditional Command
+- GF-0048 — Escort Command
+- GF-0045 — Deep Manifest
+
+illi-only White-Legacy gate: PT-0003 Green → PE-002 Red. Omitted prerequisites are sandboxed, not granted.
+
+## PE-003 — Resonance Prime Elemental
+
+Status: LOCKED. Role: Juggernaut/frontline persistence specialist. Non-sentient; highly autonomous within validated specialist behavior/command architecture.
+
+Humanoid specialist, many hours at sustainable load, high output raises fatigue. Genesis Expression + Resonance + Chirality; required basins OPEN and topology-derived only.
+
+Ordinary recipe (LOCKED), all prerequisites White, unlocks Prime at Red:
+
+- RS-0027 — Adaptive Muscular Strength Augmentation
+- RS-0006 — Adaptive Bone Reinforcement Augmentation
+- RS-0019 — Adaptive Joint Reinforcement Augmentation
+- RS-0042 — Adaptive Tendon Reinforcement Augmentation
+- RS-0012 — Adaptive Core Stability Augmentation
+- RS-0018 — Adaptive Impact Frame Augmentation
+- GF-0082 — Summon Barrier
+- GF-0045 — Deep Manifest
+
+illi-only White-Legacy gate: GE-0537 Green → PE-003 Red. Omitted prerequisites are sandboxed, not granted.
+
+## PE-004 — Dimensional Prime Elemental
+
+Status: WORKING. Role: spatial corridor/vector/redirection specialist. Non-sentient; highly autonomous within validated specialist behavior/command architecture.
+
+Humanoid specialist, many hours at sustainable load, high output raises fatigue. Genesis Expression + Resonance + Chirality; required basins OPEN and topology-derived only.
+
+Ordinary recipe (ALPHA/WORKING — grounded candidate selection, not locked canon), all prerequisites White, unlocks Prime at Red:
+
+- DG-0031 — Continuous Spatial Resolution (CSR)
+- DG-0010 — Expanded Spatial Anchor
+- DG-0011 — Expanded Spatial Exclusion
+- DG-0028 — Focused Spatial Step
+- GF-0044 — Conditional Command
+- GF-0045 — Deep Manifest
+
+## PE-005 — Chirality Prime Elemental
+
+Status: WORKING. Role: chiral organization/admissibility specialist. Non-sentient; highly autonomous within validated specialist behavior/command architecture.
+
+Humanoid specialist, many hours at sustainable load, high output raises fatigue. Genesis Expression + Resonance + Chirality; required basins OPEN and topology-derived only.
+
+Ordinary recipe (ALPHA/WORKING — grounded candidate selection, not locked canon), all prerequisites White, unlocks Prime at Red:
+
+- CH-0003 — Counter-Resolve Field
+- CH-0015 — Deflect Field
+- CH-0027 — Interrupt Field
+- CH-0045 — Sever Field
+- GF-0044 — Conditional Command
+- GF-0045 — Deep Manifest
+
+## PE-006 — Combustion Prime Elemental
+
+Status: WORKING. Role: combustion/thermal specialist. Non-sentient; highly autonomous within validated specialist behavior/command architecture.
+
+Humanoid specialist, many hours at sustainable load, high output raises fatigue. Genesis Expression + Resonance + Chirality; required basins OPEN and topology-derived only.
+
+Ordinary recipe (ALPHA/WORKING — grounded candidate selection, not locked canon), all prerequisites White, unlocks Prime at Red:
+
+- GE-0056 — Controlled Combustion Orb
+- GE-0050 — Mobile Combustion Field
+- GE-0047 — Channeled Combustion Beam
+- GE-0196 — Combustion Sentinel Elemental
+- GF-0044 — Conditional Command
+- GF-0045 — Deep Manifest
+
+## PE-007 — Lightning Prime Elemental
+
+Status: WORKING. Role: electrical discharge/plasma specialist. Non-sentient; highly autonomous within validated specialist behavior/command architecture.
+
+Humanoid specialist, many hours at sustainable load, high output raises fatigue. Genesis Expression + Resonance + Chirality; required basins OPEN and topology-derived only.
+
+Ordinary recipe (ALPHA/WORKING — grounded candidate selection, not locked canon), all prerequisites White, unlocks Prime at Red:
+
+- GE-0176 — Controlled Electrical Orb
+- GE-0167 — Channeled Electrical Beam
+- GE-0477 — Controlled Plasma Orb
+- GE-0236 — Lightning Sentinel Elemental
+- GF-0044 — Conditional Command
+- GF-0045 — Deep Manifest
+
+## PE-008 — Mineral Prime Elemental
+
+Status: WORKING. Role: mineral/metal/material specialist. Non-sentient; highly autonomous within validated specialist behavior/command architecture.
+
+Humanoid specialist, many hours at sustainable load, high output raises fatigue. Genesis Expression + Resonance + Chirality; required basins OPEN and topology-derived only.
+
+Ordinary recipe (ALPHA/WORKING — grounded candidate selection, not locked canon), all prerequisites White, unlocks Prime at Red:
+
+- GE-0396 — Controlled Mineral Orb
+- GE-0390 — Mobile Mineral Field
+- GE-0392 — Focused Mineral Jet
+- GE-0532 — Mineral Shard
+- GF-0044 — Conditional Command
+- GF-0045 — Deep Manifest
+
+## PE-009 — Atmospheric Prime Elemental
+
+Status: WORKING. Role: gas/pressure/flow specialist. Non-sentient; highly autonomous within validated specialist behavior/command architecture.
+
+Humanoid specialist, many hours at sustainable load, high output raises fatigue. Genesis Expression + Resonance + Chirality; required basins OPEN and topology-derived only.
+
+Ordinary recipe (ALPHA/WORKING — grounded candidate selection, not locked canon), all prerequisites White, unlocks Prime at Red:
+
+- GE-0033 — Controlled Atmospheric Orb
+- GE-0027 — Mobile Atmospheric Field
+- GE-0029 — Focused Atmospheric Jet
+- GE-0491 — Mobile Pressure Field
+- GF-0044 — Conditional Command
+- GF-0045 — Deep Manifest

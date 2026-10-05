@@ -1,0 +1,62 @@
+# Prime Elemental recipes — Checkpoint 08
+
+PE-001/002/003 ordinary roles and graphs are LOCKED. PE-004–009 roles remain WORKING; their generated recipes are ALPHA/WORKING proposals selected from the existing atlas. All selected ordinary prerequisites are White and unlock Prime purchase at Red; Prime ranks normally. This does not lock candidate selections or invent prices. illi's three override gates are separate and sandbox omitted prerequisites.
+
+- PE-001: GE-0043 Genesis Beam — White (LOCKED).
+- PE-001: GE-0444 Genesis Orb — White (LOCKED).
+- PE-001: GE-0528 Genesis Shard — White (LOCKED).
+- PE-001: GE-0042 Barrier Plane — White (LOCKED).
+- PE-001: GF-0038 Focused Threat Resolve — White (LOCKED).
+- PE-001: GF-0044 Conditional Command — White (LOCKED).
+- PE-001: GF-0045 Deep Manifest — White (LOCKED).
+- PE-002: PT-0002 Directed Coherence — White (LOCKED).
+- PE-002: PT-0003 Persistent Coherence — White (LOCKED).
+- PE-002: PT-0001 Coherence Field — White (LOCKED).
+- PE-002: GF-0005 Expanded Coherence Diagnostic — White (LOCKED).
+- PE-002: GF-0044 Conditional Command — White (LOCKED).
+- PE-002: GF-0048 Escort Command — White (LOCKED).
+- PE-002: GF-0045 Deep Manifest — White (LOCKED).
+- PE-003: RS-0027 Adaptive Muscular Strength Augmentation — White (LOCKED).
+- PE-003: RS-0006 Adaptive Bone Reinforcement Augmentation — White (LOCKED).
+- PE-003: RS-0019 Adaptive Joint Reinforcement Augmentation — White (LOCKED).
+- PE-003: RS-0042 Adaptive Tendon Reinforcement Augmentation — White (LOCKED).
+- PE-003: RS-0012 Adaptive Core Stability Augmentation — White (LOCKED).
+- PE-003: RS-0018 Adaptive Impact Frame Augmentation — White (LOCKED).
+- PE-003: GF-0082 Summon Barrier — White (LOCKED).
+- PE-003: GF-0045 Deep Manifest — White (LOCKED).
+- PE-004: DG-0031 Continuous Spatial Resolution (CSR) — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-004: DG-0010 Expanded Spatial Anchor — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-004: DG-0011 Expanded Spatial Exclusion — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-004: DG-0028 Focused Spatial Step — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-004: GF-0044 Conditional Command — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-004: GF-0045 Deep Manifest — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-005: CH-0003 Counter-Resolve Field — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-005: CH-0015 Deflect Field — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-005: CH-0027 Interrupt Field — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-005: CH-0045 Sever Field — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-005: GF-0044 Conditional Command — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-005: GF-0045 Deep Manifest — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-006: GE-0056 Controlled Combustion Orb — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-006: GE-0050 Mobile Combustion Field — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-006: GE-0047 Channeled Combustion Beam — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-006: GE-0196 Combustion Sentinel Elemental — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-006: GF-0044 Conditional Command — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-006: GF-0045 Deep Manifest — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-007: GE-0176 Controlled Electrical Orb — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-007: GE-0167 Channeled Electrical Beam — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-007: GE-0477 Controlled Plasma Orb — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-007: GE-0236 Lightning Sentinel Elemental — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-007: GF-0044 Conditional Command — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-007: GF-0045 Deep Manifest — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-008: GE-0396 Controlled Mineral Orb — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-008: GE-0390 Mobile Mineral Field — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-008: GE-0392 Focused Mineral Jet — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-008: GE-0532 Mineral Shard — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-008: GF-0044 Conditional Command — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-008: GF-0045 Deep Manifest — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-009: GE-0033 Controlled Atmospheric Orb — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-009: GE-0027 Mobile Atmospheric Field — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-009: GE-0029 Focused Atmospheric Jet — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-009: GE-0491 Mobile Pressure Field — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-009: GF-0044 Conditional Command — White (ALPHA/WORKING — grounded candidate selection, not locked canon).
+- PE-009: GF-0045 Deep Manifest — White (ALPHA/WORKING — grounded candidate selection, not locked canon).

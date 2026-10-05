@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Combat Trial, rankings, longevity, nobility, world culture
 
@@ -193,3 +193,30 @@ Progression by theater:
 - Dungeons: precision / constrained geometry.
 - Raids: coordinated group execution.
 - `domai`: battlefield/operation scale.
+
+## Checkpoint 08 Trial economy and runtime
+
+## 6. Trials / standings / credits
+Valnak has current/seasonal standings and persistent Eternal Standings. Eternal Standings are a family of historical boards including first-ever/first-cycle comparison and unrestricted Solo/Duo/Trio records.
+Kira's first Solo remains: Wave 8 clear, enters Wave 9, Yellow; existing Git's #1 current First-Cycle standing remains.
+
+Trials are REPEATABLE credit workhorses. Each legitimate run awards credits according to achieved performance; beating a personal best is NOT required. Highest result controls standing; repeated runs generate credits. Participants can optimize credits/time/fatigue and farm a lower repeatable stopping point.
+
+First-cycle ecology: early Trials dominate; Binding acquisition/ranking stabilizes groups; five-person dungeons come online later; raids are later/harder. Raids can be Elara/Valnak-designed high-complexity encounters and creatures not normally encountered outside Valnak and may change between 23-year releases.
+
+
+## 7. Veteran depth
+Long-lived Transductionists accumulate architecture, rank, competency, efficiency, experience, equipment and tactical judgment. 150–300+ year veterans are practiced operators. They manage basins, shaping economy, positioning, sequencing, failure modes and party integration.
+High Eternal Standing veterans represent optimized human performance. Kira's later open-Trial dominance is NOT universal combat superiority; the Orb architecture specifically breaks open-wave scaling.
+
+
+## 14. Arc / calendar runtime — current story state
+Arc One is the initialization arc:
+Day 1 — Kira enters Valnak; Black restructuring/BLACKOUT; Armor of the Abyss; first Solo (Wave 8 clear, Yellow, reaches Wave 9); residence; meets/joins Elara + illi socially; dinner/highlight reels; friendship/sisterhood begins; Black Legacy rumor/fame begins.
+
+Day 2 — first Kira+illi Duo Trial. Pre-Orbs: Kira has Armor; illi has Persistent Coherence. They experience Trial death/termination and residence re-instancing, process the trauma, try again, then stop for the day and go into town for food/exploration/social life.
+
+Early-cycle rhythm is intentionally slice-of-life progression with heavy combat:
+repeat Duo farming together; Kira runs Solo on her own; Trial credits fund development; Trio is not initially a focus; first-cycle five-person dungeons emerge only as the cohort's builds mature; raids come later. Quiet city/restaurant/Builder/social days are part of Valnak life, not filler.
+
+Do NOT force a chapter-per-day mapping. Important days can span multiple chapters; routine days can collapse into narrative time.

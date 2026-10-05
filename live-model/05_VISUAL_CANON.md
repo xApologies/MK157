@@ -1,8 +1,8 @@
-> Source checkpoint 01. Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Visual canon
 
-## Ability/Path plaques
+## Ability/Legacy plaques
 
 Selected plaque reference: `visual-references/VALNEK_PATH_PLAQUES.jpeg`.
 
@@ -10,14 +10,14 @@ Production intent differs slightly from the concept render: - simple
 rectangular profile; - border is luminous living light; - central energy
 wave from the concept image should be reduced/removed; - interior energy
 texture only \~10% opacity; - enough negative space for ability name,
-description, cost, requirements and Path data; - no ornate gem/diamond
+description, cost, requirements and Legacy data; - no ornate gem/diamond
 frame furniture.
 
 Black plaque: - abyssal black; - liquid neon rainbow trapped deep
 inside; - neon geometry feels submerged and alive; - Black dominates
 visually.
 
-Kira sees six Black plaques at first Black Path presentation.
+Kira sees six Black plaques at first Black Legacy presentation.
 
 ## Kira eye reference — SUPERSEDED
 

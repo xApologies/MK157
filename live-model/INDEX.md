@@ -1,11 +1,11 @@
 # MK157 Live-Model Index
 
-Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
+Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
 - [02_COSMOLOGY.md](02_COSMOLOGY.md) — Starscapes, Genesis Log, neon, White/Black Möbius, energy.
-- [03_VALNEK_PATHS.md](03_VALNEK_PATHS.md) — Valnak, Elara, Paths, automation, residences, cities.
+- [03_VALNEK_PATHS.md](03_VALNEK_PATHS.md) — Valnak, Elara, Legacies, automation, residences, cities.
 - [04_COMBAT_WORLD.md](04_COMBAT_WORLD.md) — Combat Trial, rankings, longevity, nobility, world culture.
 - [05_VISUAL_CANON.md](05_VISUAL_CANON.md) — Visual canon.
 - [06_OPEN_PROVENANCE.md](06_OPEN_PROVENANCE.md) — OPEN questions, supersessions, provenance.
@@ -22,7 +22,7 @@ Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cum
 - [Checkpoint 05](10_CHECKPOINT_05_ADDENDUM.md) — Seasons, economy, six-domain taxonomy, fatigue, summons, Builder, Kira/illi progression.
 - [Binding registry](../bindings/README.md) — 1,014 domain-first candidate Bindings and recursive rank pricing.
 - [Summoned Entity registry](../summons/README.md) — 220 non-sentient autonomous manifestation candidates.
-- [Builder Paths](../builder/paths/README.md) — 200 candidate trajectories; generated candidates do not define Kira or illi.
+- [Builder Legacies](../builder/paths/README.md) — 200 candidate trajectories; generated candidates do not define Kira or illi.
 - [Checkpoint 05 package](../provenance/checkpoint-05-package/MANIFEST.json) — Original update manifest and handoff.
 - [Checkpoint 05 validation](../provenance/CHECKPOINT_05_AUDIT.json) — Import hashes and independently verified registry counts/references.
 
@@ -33,5 +33,9 @@ Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cum
 - [Checkpoint 07 validation](../provenance/CHECKPOINT_07_AUDIT.json) — Reconciliation, preservation, registry and discoverability checks.
 
 - [Thread development constitution](../THREAD_DEVELOPMENT_CONSTITUTION.md) — Cross-thread continuity and development rules.
-- [07B final gap patch](14_CHECKPOINT_07B_FINAL_GAP_PATCH.md) — Same-checkpoint normalization of illi's starting sequence and White-Path choices.
+- [07B final gap patch](14_CHECKPOINT_07B_FINAL_GAP_PATCH.md) — Same-checkpoint normalization of illi's starting sequence and White-Legacy choices.
 - [07B validation](../provenance/CHECKPOINT_07B_AUDIT.json) — Registry preservation, progression order and canon-lock checks.
+
+- [Checkpoint 08 delta](15_CHECKPOINT_08_LIVE_MODEL_DELTA.md) — Full governing reconciliation and Day 1–2 runtime.
+- [Prime Elementals](PRIME_ELEMENTALS.md) — Locked roles/graphs, working taxonomy, candidate recipes and illi overrides.
+- [Checkpoint 08 audit](../provenance/CHECKPOINT_08_AUDIT.json) — Counts, mirrors, preservation, recipes, OPENs and conflict report.

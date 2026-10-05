@@ -1,6 +1,8 @@
+> HISTORICAL 07B working sequence: illi's planned Directed Coherence/Coherence Field acquisitions below are superseded by Checkpoint 08's locked six; consult [current illi summary](03_VALNEK_PATHS.md).
+
 # Checkpoint 07B — Final Gap Patch
 
-Authority remains **Checkpoint 07 > 06 > 05 > 04 > 03 > 02 > 01**. This is a same-checkpoint normalization patch, not a new conceptual checkpoint.
+Authority remains **Checkpoint 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01**. This is a same-checkpoint normalization patch, not a new conceptual checkpoint.
 
 ## Audit finding
 
@@ -11,12 +13,12 @@ The post-Checkpoint-07 repository now correctly exposes:
 - Trial timing;
 - current Kira biology;
 - seven seasons;
-- Binding/Summon/Path registries.
+- Binding/Summon/Legacy registries.
 
 Two material continuity gaps remain from the current thread:
 
 1. the running MK157 development constitution is not stored in the repository;
-2. illi's current developmental sequence is not normalized. Older Checkpoint-03 language makes the absorption shield appear to be her first Binding, while the current thread establishes Persistent Coherence first, absorption second, then the White-Path choice architecture.
+2. illi's current developmental sequence is not normalized. Older Checkpoint-03 language makes the absorption shield appear to be her first Binding, while the current thread establishes Persistent Coherence first, absorption second, then the White-Legacy choice architecture.
 
 ## illi — current Valnak development
 
@@ -42,8 +44,8 @@ Absorption is prevention, not healing:
 
 Valnak/Elara's observation of Kira + illi as an unusually effective pair is part of the context for this extraordinary opportunity. Valnak is conscious/advanced enough to recognize relationships and group utility; the White opportunity is not a random loot roll.
 
-### White Path behavior
-White is a mechanic-bending/exceptional curated developmental Path that can become available based on:
+### White Legacy behavior
+White is a mechanic-bending/exceptional curated developmental Legacy that can become available based on:
 - demonstrated competency;
 - participant state/build;
 - Valnak's accumulated knowledge of the person;
@@ -88,7 +90,7 @@ Kira's Black progression is comparatively linear across a small number of enormo
 illi's progression is more granular:
 - acquire a new capability;
 - deepen/rank existing capabilities;
-- satisfy Path checkpoints;
+- satisfy Legacy checkpoints;
 - choose ordering among curated available capabilities;
 - continue specializing rather than collecting every low-value healing variant.
 
@@ -98,7 +100,7 @@ Her mature identity remains a compact, highly specialized support/combat package
 Where Checkpoint 03 says the White absorption shield is illi's “Signature first Binding,” interpret that as an older working ordering and supersede it with:
 
 1. Persistent Coherence — starting healing behavior;
-2. Absorption Shield — second major acquisition / White-Path access event;
+2. Absorption Shield — second major acquisition / White-Legacy access event;
 3. Genesis Beam — chosen offensive development before direct-heal expansion;
 4. Directed Coherence — later powerful direct restoration;
 5. Coherence Field and elemental/summoner development as later compact-path growth where story progression calls for them.

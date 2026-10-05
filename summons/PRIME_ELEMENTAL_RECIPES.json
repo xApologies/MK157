@@ -1,0 +1,524 @@
+[
+  {
+    "prime_id": "PE-001",
+    "prime_name": "Genesis Prime Elemental",
+    "binding_id": "GE-0043",
+    "binding_name": "Genesis Beam",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-001",
+    "prime_name": "Genesis Prime Elemental",
+    "binding_id": "GE-0444",
+    "binding_name": "Genesis Orb",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-001",
+    "prime_name": "Genesis Prime Elemental",
+    "binding_id": "GE-0528",
+    "binding_name": "Genesis Shard",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-001",
+    "prime_name": "Genesis Prime Elemental",
+    "binding_id": "GE-0042",
+    "binding_name": "Barrier Plane",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-001",
+    "prime_name": "Genesis Prime Elemental",
+    "binding_id": "GF-0038",
+    "binding_name": "Focused Threat Resolve",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-001",
+    "prime_name": "Genesis Prime Elemental",
+    "binding_id": "GF-0044",
+    "binding_name": "Conditional Command",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-001",
+    "prime_name": "Genesis Prime Elemental",
+    "binding_id": "GF-0045",
+    "binding_name": "Deep Manifest",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-002",
+    "prime_name": "Coherence Prime Elemental",
+    "binding_id": "PT-0002",
+    "binding_name": "Directed Coherence",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-002",
+    "prime_name": "Coherence Prime Elemental",
+    "binding_id": "PT-0003",
+    "binding_name": "Persistent Coherence",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-002",
+    "prime_name": "Coherence Prime Elemental",
+    "binding_id": "PT-0001",
+    "binding_name": "Coherence Field",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-002",
+    "prime_name": "Coherence Prime Elemental",
+    "binding_id": "GF-0005",
+    "binding_name": "Expanded Coherence Diagnostic",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-002",
+    "prime_name": "Coherence Prime Elemental",
+    "binding_id": "GF-0044",
+    "binding_name": "Conditional Command",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-002",
+    "prime_name": "Coherence Prime Elemental",
+    "binding_id": "GF-0048",
+    "binding_name": "Escort Command",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-002",
+    "prime_name": "Coherence Prime Elemental",
+    "binding_id": "GF-0045",
+    "binding_name": "Deep Manifest",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-003",
+    "prime_name": "Resonance Prime Elemental",
+    "binding_id": "RS-0027",
+    "binding_name": "Adaptive Muscular Strength Augmentation",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-003",
+    "prime_name": "Resonance Prime Elemental",
+    "binding_id": "RS-0006",
+    "binding_name": "Adaptive Bone Reinforcement Augmentation",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-003",
+    "prime_name": "Resonance Prime Elemental",
+    "binding_id": "RS-0019",
+    "binding_name": "Adaptive Joint Reinforcement Augmentation",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-003",
+    "prime_name": "Resonance Prime Elemental",
+    "binding_id": "RS-0042",
+    "binding_name": "Adaptive Tendon Reinforcement Augmentation",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-003",
+    "prime_name": "Resonance Prime Elemental",
+    "binding_id": "RS-0012",
+    "binding_name": "Adaptive Core Stability Augmentation",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-003",
+    "prime_name": "Resonance Prime Elemental",
+    "binding_id": "RS-0018",
+    "binding_name": "Adaptive Impact Frame Augmentation",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-003",
+    "prime_name": "Resonance Prime Elemental",
+    "binding_id": "GF-0082",
+    "binding_name": "Summon Barrier",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-003",
+    "prime_name": "Resonance Prime Elemental",
+    "binding_id": "GF-0045",
+    "binding_name": "Deep Manifest",
+    "required_rank": "White",
+    "recipe_status": "LOCKED",
+    "selection_basis": "Supplied checkpoint recipe"
+  },
+  {
+    "prime_id": "PE-004",
+    "prime_name": "Dimensional Prime Elemental",
+    "binding_id": "DG-0031",
+    "binding_name": "Continuous Spatial Resolution (CSR)",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-004",
+    "prime_name": "Dimensional Prime Elemental",
+    "binding_id": "DG-0010",
+    "binding_name": "Expanded Spatial Anchor",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-004",
+    "prime_name": "Dimensional Prime Elemental",
+    "binding_id": "DG-0011",
+    "binding_name": "Expanded Spatial Exclusion",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-004",
+    "prime_name": "Dimensional Prime Elemental",
+    "binding_id": "DG-0028",
+    "binding_name": "Focused Spatial Step",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-004",
+    "prime_name": "Dimensional Prime Elemental",
+    "binding_id": "GF-0044",
+    "binding_name": "Conditional Command",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-004",
+    "prime_name": "Dimensional Prime Elemental",
+    "binding_id": "GF-0045",
+    "binding_name": "Deep Manifest",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-005",
+    "prime_name": "Chirality Prime Elemental",
+    "binding_id": "CH-0003",
+    "binding_name": "Counter-Resolve Field",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-005",
+    "prime_name": "Chirality Prime Elemental",
+    "binding_id": "CH-0015",
+    "binding_name": "Deflect Field",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-005",
+    "prime_name": "Chirality Prime Elemental",
+    "binding_id": "CH-0027",
+    "binding_name": "Interrupt Field",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-005",
+    "prime_name": "Chirality Prime Elemental",
+    "binding_id": "CH-0045",
+    "binding_name": "Sever Field",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-005",
+    "prime_name": "Chirality Prime Elemental",
+    "binding_id": "GF-0044",
+    "binding_name": "Conditional Command",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-005",
+    "prime_name": "Chirality Prime Elemental",
+    "binding_id": "GF-0045",
+    "binding_name": "Deep Manifest",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-006",
+    "prime_name": "Combustion Prime Elemental",
+    "binding_id": "GE-0056",
+    "binding_name": "Controlled Combustion Orb",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-006",
+    "prime_name": "Combustion Prime Elemental",
+    "binding_id": "GE-0050",
+    "binding_name": "Mobile Combustion Field",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-006",
+    "prime_name": "Combustion Prime Elemental",
+    "binding_id": "GE-0047",
+    "binding_name": "Channeled Combustion Beam",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-006",
+    "prime_name": "Combustion Prime Elemental",
+    "binding_id": "GE-0196",
+    "binding_name": "Combustion Sentinel Elemental",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-006",
+    "prime_name": "Combustion Prime Elemental",
+    "binding_id": "GF-0044",
+    "binding_name": "Conditional Command",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-006",
+    "prime_name": "Combustion Prime Elemental",
+    "binding_id": "GF-0045",
+    "binding_name": "Deep Manifest",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-007",
+    "prime_name": "Lightning Prime Elemental",
+    "binding_id": "GE-0176",
+    "binding_name": "Controlled Electrical Orb",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-007",
+    "prime_name": "Lightning Prime Elemental",
+    "binding_id": "GE-0167",
+    "binding_name": "Channeled Electrical Beam",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-007",
+    "prime_name": "Lightning Prime Elemental",
+    "binding_id": "GE-0477",
+    "binding_name": "Controlled Plasma Orb",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-007",
+    "prime_name": "Lightning Prime Elemental",
+    "binding_id": "GE-0236",
+    "binding_name": "Lightning Sentinel Elemental",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-007",
+    "prime_name": "Lightning Prime Elemental",
+    "binding_id": "GF-0044",
+    "binding_name": "Conditional Command",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-007",
+    "prime_name": "Lightning Prime Elemental",
+    "binding_id": "GF-0045",
+    "binding_name": "Deep Manifest",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-008",
+    "prime_name": "Mineral Prime Elemental",
+    "binding_id": "GE-0396",
+    "binding_name": "Controlled Mineral Orb",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-008",
+    "prime_name": "Mineral Prime Elemental",
+    "binding_id": "GE-0390",
+    "binding_name": "Mobile Mineral Field",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-008",
+    "prime_name": "Mineral Prime Elemental",
+    "binding_id": "GE-0392",
+    "binding_name": "Focused Mineral Jet",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-008",
+    "prime_name": "Mineral Prime Elemental",
+    "binding_id": "GE-0532",
+    "binding_name": "Mineral Shard",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-008",
+    "prime_name": "Mineral Prime Elemental",
+    "binding_id": "GF-0044",
+    "binding_name": "Conditional Command",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-008",
+    "prime_name": "Mineral Prime Elemental",
+    "binding_id": "GF-0045",
+    "binding_name": "Deep Manifest",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-009",
+    "prime_name": "Atmospheric Prime Elemental",
+    "binding_id": "GE-0033",
+    "binding_name": "Controlled Atmospheric Orb",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-009",
+    "prime_name": "Atmospheric Prime Elemental",
+    "binding_id": "GE-0027",
+    "binding_name": "Mobile Atmospheric Field",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-009",
+    "prime_name": "Atmospheric Prime Elemental",
+    "binding_id": "GE-0029",
+    "binding_name": "Focused Atmospheric Jet",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-009",
+    "prime_name": "Atmospheric Prime Elemental",
+    "binding_id": "GE-0491",
+    "binding_name": "Mobile Pressure Field",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-009",
+    "prime_name": "Atmospheric Prime Elemental",
+    "binding_id": "GF-0044",
+    "binding_name": "Conditional Command",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  },
+  {
+    "prime_id": "PE-009",
+    "prime_name": "Atmospheric Prime Elemental",
+    "binding_id": "GF-0045",
+    "binding_name": "Deep Manifest",
+    "required_rank": "White",
+    "recipe_status": "ALPHA/WORKING — grounded candidate selection, not locked canon",
+    "selection_basis": "Existing specialist-domain architecture plus Conditional Command/Deep Manifest; candidate only"
+  }
+]

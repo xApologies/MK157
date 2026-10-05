@@ -1,26 +1,8 @@
 {
-  "binding_count": 1014,
-  "unique_ids": 1014,
-  "unique_names": 1014,
-  "primary_domain_counts": {
-    "Persistent Topology / Coherence\u2013Decoherence": 6,
-    "Dimensional Geometry": 31,
-    "Genesis Field Topology": 90,
-    "Genesis Expression": 597,
-    "Resonance": 230,
-    "Chirality": 60
-  },
-  "forbidden_healer_entries_present": [],
-  "six_locked_coherence_decoherence_present": true,
-  "all_basin_requirements_cleared_for_topology_audit": true,
-  "restored": [
-    "Continuous Spatial Resolution (CSR)",
-    "Genesis Beam",
-    "Genesis Orb",
-    "Absorption Shield",
-    "Barrier Plane",
-    "Barrier Dome",
-    "Shard family"
-  ],
-  "status": "PASS"
+  "red_base_costs_for_new_records": "OPEN",
+  "coherence_kernel_entries": 6,
+  "count": 1016,
+  "checkpoint": "08",
+  "approved_concepts_added": 2,
+  "preexisting_records": 1014
 }
