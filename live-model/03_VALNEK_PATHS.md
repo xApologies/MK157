@@ -169,3 +169,83 @@ Final Halo coloration remains OPEN and must follow Genesis/Black grammar; do not
 Preserve the working model that Valnak is Earth-localized through Planck-Horizon/Genesis architecture rather than an unrelated fantasy afterlife plane. Do not overformalize until dedicated cosmology work.
 
 Valnak city instances are operationally/politically managed environments, not arbitrary videogame shards; future development should respect governance, population management, social continuity, and political consequences.
+
+## 07B current illi progression — same-checkpoint normalization
+
+Persistent Coherence first → Absorption Shield second / White-Path access → Genesis Beam chosen before Directed Coherence → later compact Coherence Field and Elementalist/Summoner development. Exact seasonal dates and final ranks remain OPEN. Generated Paths do not automatically define illi.
+
+## illi — current Valnak development
+
+illi enters Valnak with a support/healing orientation.
+
+### First Binding — Persistent Coherence
+Her starting practical healing behavior is **Persistent Coherence**:
+- restorative energy/instruction is anchored to a person's Genesis Field;
+- it functions as the core heal-over-time behavior;
+- this gives illi a way to manage/sustain Valnak-generated combatants in her support-oriented Trial environment.
+
+This is her starting point.
+
+### Second major acquisition — Absorption Shield
+illi's next major capability is **Absorption Shield**.
+
+This is the event associated with her access to the extraordinary White developmental trajectory.
+
+Absorption is prevention, not healing:
+- stop/absorb trauma before biological damage resolves;
+- dramatically improve party endurance;
+- complement Persistent Coherence rather than duplicate it.
+
+Valnak/Elara's observation of Kira + illi as an unusually effective pair is part of the context for this extraordinary opportunity. Valnak is conscious/advanced enough to recognize relationships and group utility; the White opportunity is not a random loot roll.
+
+### White Path behavior
+White is a mechanic-bending/exceptional curated developmental Path that can become available based on:
+- demonstrated competency;
+- participant state/build;
+- Valnak's accumulated knowledge of the person;
+- civilization/group needs;
+- exceptional contextual relationships.
+
+It does not simply hand illi a collection of White-ranked Bindings.
+
+Instead, it constrains/curates what becomes available while still allowing progression and ordering choices.
+
+For illi, after the support foundation, a meaningful choice is presented between further directed healing development and offensive capability. She chooses the offensive option first:
+
+### Genesis Beam
+illi takes **Genesis Beam** before the later Directed Coherence acquisition.
+
+The Beam is intentionally simple: a direct offensive Genesis-energy expression so illi remains useful when nobody needs immediate healing.
+
+At White rank, the Beam can support a sustained/chanelled high-output expression rather than only a discrete charged shot.
+
+### Directed Coherence
+A powerful projected/direct restoration remains part of illi's compact mature toolkit, but it follows the earlier Persistent Coherence + Absorption + offensive development in the current working sequence.
+
+### Coherence Field
+The third foundational healing geometry remains available as the bounded area-healing form:
+- Directed Coherence;
+- Persistent Coherence;
+- Coherence Field.
+
+Do not invent additional healing primitives.
+
+### Elementalist / Summoner direction
+illi also has an Elementalist/Summoner developmental direction inherited from the working character model.
+
+Elementals are Transductive manifestations, not conventional fantasy spirits. Their common architecture is:
+**Genesis Expression + Resonance + Chirality**.
+
+This gives illi a support-heavy identity that can still participate actively in combat through Genesis expression and manifested elementals.
+
+### Compact specialization
+Kira's Black progression is comparatively linear across a small number of enormous integrated systems.
+
+illi's progression is more granular:
+- acquire a new capability;
+- deepen/rank existing capabilities;
+- satisfy Path checkpoints;
+- choose ordering among curated available capabilities;
+- continue specializing rather than collecting every low-value healing variant.
+
+Her mature identity remains a compact, highly specialized support/combat package rather than an enormous spell list.

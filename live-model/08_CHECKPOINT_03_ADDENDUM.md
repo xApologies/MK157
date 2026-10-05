@@ -39,7 +39,7 @@ Working White Legacy economy: ~70% of progression credits automatically service 
 
 illi develops as a precision-sustainment/combat Helkir rather than a mass battlefield healer.
 
-Signature first Binding: White Genesis absorption shield. It begins in White superposition and degrades:
+Signature White absorption capability: Absorption Shield, the second major acquisition after Persistent Coherence. The older first Binding ordering is superseded by the same-checkpoint 07B patch. It begins in White superposition and degrades:
 White → Violet → Blue → Green → Yellow → Orange → Red → break.
 
 This prevents injury rather than healing injury. In Support Solo, illi can repeatedly shield Valnak-generated combatants so they take essentially no biological damage until she fatigues. Her First-Cycle Support ranking therefore skyrockets; the mechanic is valid rather than patched.

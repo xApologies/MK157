@@ -14,3 +14,5 @@ Start with [live-model/INDEX.md](live-model/INDEX.md). Current Kira and visual s
 `provenance/` and `prior-checkpoint-source/` preserve historical evidence and may contain superseded text. Historical root executables/manifests now live in `provenance/historical-root-handoffs/`. Git history is preserved.
 
 [Checkpoint 07 definitive reconciliation](live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md) promotes the Orb blender and Solo/Duo/Trio interactions into [Kira](live-model/01_KIRA.md) and [combat](live-model/04_COMBAT_WORLD.md), with the complete [Trial timing model](live-model/COMBAT_THRESHOLDS.md). The [original handoff](provenance/checkpoint-07-package/EXECUTABLE.md) is preserved in provenance.
+
+[Thread development constitution](THREAD_DEVELOPMENT_CONSTITUTION.md) governs continuity and new-thread repository review. The [07B final gap patch](live-model/14_CHECKPOINT_07B_FINAL_GAP_PATCH.md) adds it and normalizes [illi progression](live-model/03_VALNEK_PATHS.md); authority remains Checkpoint 07.

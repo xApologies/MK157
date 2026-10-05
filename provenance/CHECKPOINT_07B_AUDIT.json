@@ -1,0 +1,21 @@
+{
+  "patch": "07B",
+  "status": "PASS",
+  "authority": "07 > 06 > 05 > 04 > 03 > 02 > 01",
+  "same_checkpoint_normalization": true,
+  "bindings": 1014,
+  "summons": 220,
+  "paths": 200,
+  "unique_ids_and_names": true,
+  "binding_refs": 1598,
+  "summon_refs": 180,
+  "registries_byte_identical": true,
+  "coherence_decoherence_kernel_entries": 6,
+  "kira_biology_and_trial_orb_files_byte_identical": true,
+  "illi_order_unambiguous": true,
+  "old_first_binding_claim_superseded": true,
+  "constitution_and_patch_verbatim": true,
+  "seasonal_dates_and_final_ranks_open": true,
+  "navigation_valid": true,
+  "git_diff_check": "PASS"
+}

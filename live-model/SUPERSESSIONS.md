@@ -45,3 +45,9 @@ Checkpoint 05's per-wave timing-unresolved statement is superseded by the ranges
 **BLACKOUT** is current terminology for Kira's major Valnak power-loss event. Older brownout wording is historical analogy/provenance. Orb blender, Duo recursion, Trio consequence and Eternal Standings are promoted into active Kira/combat summaries. Checkpoint 06 biology remains unchanged in substance; registries remain infrastructure rather than character canon.
 
 Exact final record waves, Elara-through-Orb identity semantics, indefinite two/three-Orb sustainment, final Halo coloration and the eventual Trio third friend remain OPEN.
+
+## 07B final gap patch — authority remains Checkpoint 07
+
+Older Checkpoint 03 Signature first Binding absorption wording is superseded by Persistent Coherence first, Absorption Shield second / White-Path access, Genesis Beam before Directed Coherence, then later compact Coherence Field / Elementalist-Summoner development. White Path is curated opportunity with ordering choices, not an automatic collection of White-ranked Bindings. Exact seasonal dates and final ranks remain OPEN. The three-form Coherence lock remains unchanged.
+
+[Thread development constitution](../THREAD_DEVELOPMENT_CONSTITUTION.md) records continuity, source authority, canon locks and new-thread repository-crawl rules. This is a same-checkpoint 07B normalization patch, not a new conceptual checkpoint.

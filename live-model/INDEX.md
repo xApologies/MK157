@@ -31,3 +31,7 @@ Authority: 07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cum
 
 - [Checkpoint 07 definitive handoff](13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md) — Complete thread reconciliation and late-thread anchors.
 - [Checkpoint 07 validation](../provenance/CHECKPOINT_07_AUDIT.json) — Reconciliation, preservation, registry and discoverability checks.
+
+- [Thread development constitution](../THREAD_DEVELOPMENT_CONSTITUTION.md) — Cross-thread continuity and development rules.
+- [07B final gap patch](14_CHECKPOINT_07B_FINAL_GAP_PATCH.md) — Same-checkpoint normalization of illi's starting sequence and White-Path choices.
+- [07B validation](../provenance/CHECKPOINT_07B_AUDIT.json) — Registry preservation, progression order and canon-lock checks.
