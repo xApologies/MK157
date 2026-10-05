@@ -1,0 +1,259 @@
+{
+  "checkpoint": "13",
+  "result": "PASS",
+  "baseline_commit": "b119d106fcf449311193672cd51333a49ee4f113",
+  "final_commit_note": "Hash reported after commit and verified against remote.",
+  "authority": "13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01",
+  "changed_files": [
+    ".gitattributes",
+    "bindings/BINDINGS.csv",
+    "bindings/BINDINGS.json",
+    "bindings/BINDINGS.jsonl",
+    "bindings/COMPENDIUM.md",
+    "bindings/PRICING_AUDIT.json",
+    "bindings/PRICING_MODEL.md",
+    "builder/paths/PATH_CATALOG.md",
+    "builder/paths/PATHS.csv",
+    "builder/paths/PATHS.json",
+    "builder/paths/PATHS.jsonl",
+    "live-model/01_KIRA.md",
+    "live-model/03_VALNEK_PATHS.md",
+    "live-model/04_COMBAT_WORLD.md",
+    "live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+    "live-model/19_CHECKPOINT_12_COMPLETE_PRICING.md",
+    "live-model/20_CHECKPOINT_13_THREAD_DELTA.md",
+    "live-model/COMBAT_THRESHOLDS.md",
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+    "live-model/INDEX.md",
+    "live-model/OPEN.md",
+    "live-model/PRIME_ELEMENTALS.md",
+    "live-model/STORY_CLOCK_STATE.md",
+    "live-model/SUPERSESSIONS.md",
+    "live-model/WORLD_CLOCK.md",
+    "provenance/CHECKPOINT_13_AUDIT.json",
+    "provenance/CHECKPOINT_13_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_13_REWARD_TABLE_QUARANTINE.md",
+    "provenance/CHECKPOINT_13_TERM_CHANGES.csv",
+    "provenance/checkpoint-13-package/EXECUTABLE.md",
+    "provenance/checkpoint-13-package/MANIFEST.json",
+    "provenance/checkpoint-13-package/THREAD_DELTA.md",
+    "README.md",
+    "summons/CATALOG.md",
+    "summons/PRIME_ELEMENTAL_RECIPES.csv",
+    "summons/PRIME_ELEMENTAL_RECIPES.json",
+    "summons/PRIME_ELEMENTAL_RECIPES.md",
+    "summons/SUMMONED_ENTITIES.csv",
+    "summons/SUMMONED_ENTITIES.json",
+    "summons/SUMMONED_ENTITIES.jsonl",
+    "THREAD_DEVELOPMENT_CONSTITUTION.md",
+    "world-clock/WORLD_CLOCK.md"
+  ],
+  "package_hashes": [
+    {
+      "matches_original": true,
+      "sha256": "67d8d0084f861b4cd19255c64fd280ec6d977fe3ea45f44b235fee9ed9408b47",
+      "file": "EXECUTABLE.md"
+    },
+    {
+      "matches_original": true,
+      "sha256": "e10c51631cfd357b198b2709fb58b1f1b541464baa64fa34591407ac5b00fd7a",
+      "file": "MANIFEST.json"
+    },
+    {
+      "matches_original": true,
+      "sha256": "7d2eafcc8af80000054a5605f6a131e61426a985f978828e6f0daa72d65be874",
+      "file": "THREAD_DELTA.md"
+    }
+  ],
+  "before_registry_hashes": {
+    "summons/PRIME_ELEMENTAL_RECIPES.csv": "B9C49EC0B277354404F341307B5A0BC57CEE266BA850D5EF77B2845DAF4ACD59",
+    "bindings/README.md": "A4C3D68739DDFC96C7BD8B57ABFC05A9F0704787E8F64A0FA5E6A41C7F5F3FB6",
+    "builder/paths/README.md": "A85003423FB69043F9556D62C56B2935E7EA4BF703CD2B2090C39712010A396E",
+    "summons/PRIME_ELEMENTAL_RECIPES.md": "3CD1876CB9F0D95A07311803F4104BD796496C0BC0F9C2123852F38AF994E170",
+    "world-clock/WORLD_CLOCK_TEMPLATE.csv": "7579C5F1FAF0F411C553926AF32A03349D0CAEDD4318FF6B4EB3AD822C020E2D",
+    "builder/paths/CANON_GUARDRAILS.md": "D90728A549423AEF4B6F3F13E9E6AFCD91803BF1FCAC8E004F1DC1CEB31EBC34",
+    "summons/PRIME_ELEMENTAL_PRICING.csv": "0DE263F2E75DF49CBDD9D4C547496888B31905E5E85065BD92545617322AC4D8",
+    "bindings/COMPENDIUM.md": "8065B7D02EC369E662595222C21F47F8B34BA02EBA819B117B16AC39EC0EA3E5",
+    "builder/paths/PATHS.csv": "44EBE159F33F461FD91F61104CB4FCAD7241B694DA1509A0655D0B7912BCB8A8",
+    "world-clock/PRISM_TEAM_TRACKER.csv": "35E974BFCDB9C555ADED14B99615A250924364FBF10CC4412E378B92AF17EFF3",
+    "bindings/PRICING_AUDIT.json": "288FBDB56B31A17F26AC6E840C869EC1368051C06701F68537D12BE7140561F9",
+    "builder/paths/PATHS.jsonl": "270A2273A72C18F4FFE1BAD2D6CFAE54471A97180CA5EB68A0490C546A47FE57",
+    "bindings/AUDIT.json": "43484FF598B21892DFA1D1B8CACCB185ADD6D379F72A89B677927D9A0E5DC10A",
+    "bindings/BINDINGS.csv": "1793F903F6DDECCFC4141BA23BAC1F4BF32422030A7F3DA52E4CFAA8435B9B80",
+    "summons/CATALOG.md": "876ABBAE63A7A4885D841FE871ED68C79A66AE0BE2029C5FEDCED6F57844A135",
+    "builder/paths/AUDIT.json": "CF7CA507AA66B2507F56D2254971B8BEC07D156C407E8D028A0212E4ED544978",
+    "summons/PRIME_ELEMENTAL_RECIPES.json": "71B4B9DA5C66D832E6920E8BA30650044E287ADAEC79AD301186F7188D2D8A32",
+    "summons/SUMMONED_ENTITIES.csv": "C5D3DFD15818D14A0454350982365A2065665E8C6AA2029407FAF2ABBC07567A",
+    "summons/PRIME_ELEMENTAL_PRICING.json": "4CFDCE30D4E90A022B8CAE29B619BE3454C85064DF652ECD476534789230ECCB",
+    "summons/SUMMON_PRICING.csv": "E857AB1839EBF089C2E26008A8613C6FB9B6041151F4D731A61D06F76B366B8A",
+    "summons/PRIME_ELEMENTAL_TAXONOMY.csv": "07A74E1DDF7EC5D7D95887A74010F7C72713D59C9437CAC72EC48BA9D9F3F4B0",
+    "summons/ENTITY_SCHEMA.md": "6341A586EBCBFFAEA7B5AB9B591F0CEE03CBCC6C0FC17D78FFDEEE5514C8805A",
+    "summons/AUDIT.json": "57F26B13AEF8C9D4F6A318588FFAA7EC7B2FD9C34807C5BC3D46CA4F8BB18681",
+    "summons/SUMMONED_ENTITIES.json": "41F8D57CC037D5CB0A93E220A66FD6EA4D7BA1B57B2FF15FA51932216DBDC33B",
+    "builder/paths/PATH_CATALOG.md": "3B1F7FA0FD9189C8495ED67420297C60F8130A378017C49909ADB395A7254026",
+    "world-clock/WORLD_CLOCK.md": "7C28147858D58284C11D0C13F5FD73FBA0B2D1AD90F0CA5CFCA7F26669F54FE9",
+    "bindings/PRICING_MODEL.md": "E2B07866039EE2CC3214FCE5CD251CE9607C70B75D57AEBC6B3E42E6C48DEAC9",
+    "bindings/BINDINGS.jsonl": "BA5DFFA530B0FE59FA8E5487146FB268338F252E61A91B15976962AE75D94671",
+    "bindings/CANON_LOCKS.md": "EFD23B5BBCED5FF5990E34E7E389DBE3FA38B8AE80F5294AC131A26066B13879",
+    "summons/SUMMON_PRICING.jsonl": "9EEA36C3A342A11BDCD76D4CC529452578AFB4B5FAD24E31F11C73DC25FEC8D9",
+    "builder/paths/PATHS.json": "02AA803BF369BFAF032AA2C5B3B4C38D316E26418565487576BB497B42C9B0B3",
+    "builder/paths/PATH_SCHEMA.md": "A1CD5AE011606B888448EFCC5A9D6A3B2A9A5BC90D8B2C97FA7B62F23794C559",
+    "summons/SUMMONED_ENTITIES.jsonl": "3825EC1B819EF6249D195F93A0167399F2B4901F914260C080CC7ECC616F2F88",
+    "summons/SUMMON_PRICING.json": "95CFD52315E6014CDF86D8D0512F39A185CB617DB0B410A48FDBB402E8D30676",
+    "summons/ILLI_WHITE_LEGACY_GATES.json": "FF86F06D6564B436BD7119705126FE844CBE262D4A7AEDA181D320E10BFBE57E",
+    "summons/README.md": "AFECC65DB18273F9A43977CA15531ECB5BD9DC312E642F9A42A70B752664F509",
+    "bindings/BINDINGS.json": "47EEAB837FB7E0228E0638E3DD3B135A63C8EA6BCA9C08D2F46DCD0B042638B3",
+    "summons/PRICING_AUDIT.json": "67368FF8DA73863DE78BBD0D4BFF6FA08C55CD3A411FB33FA5E99EDEA5665409"
+  },
+  "counts": {
+    "primes": 9,
+    "summons": 229,
+    "bindings": 1016
+  },
+  "absorption": {
+    "class": "EXCEPTIONAL",
+    "ladder": [
+      10000,
+      16000,
+      28800,
+      60480,
+      151200,
+      453600,
+      1814400
+    ],
+    "cumulative": 2534480,
+    "red": 10000,
+    "illi_red": 5500
+  },
+  "white_legacy": {
+    "rounding": "HALF_UP per ordinary list purchase/upgrade",
+    "prequalification_coherence": "Full price R-through-Blue 18655; O-through-Blue after Red 17955",
+    "deduction_percent": 45,
+    "pay_percent": 55,
+    "scope": "Accepted package only; no inferred shopping discounts"
+  },
+  "unchanged_checks": [
+    "All unrelated Binding prices",
+    "PT-0003=700",
+    "Genesis Beam=5000",
+    "All Prime list prices=10000",
+    "Kira four Black gates=61000",
+    "Ordinary recipes/gates and six domains",
+    "World Clock CSVs and team placeholders"
+  ],
+  "renames": {
+    "GF-0018": "Expanded Intercept Resolve",
+    "GF-0088": "Shared Intercept Resolve",
+    "GF-0038": "Focused Intercept Resolve"
+  },
+  "arithmetic_and_mirrors": "PASS",
+  "sanitation_changes": 40,
+  "remaining_term_review": [
+    {
+      "terms": [
+        "mana"
+      ],
+      "classification": "Explicit prohibition/analogy or exact checkpoint/source policy; reviewed, not a runtime mechanic",
+      "file": "live-model/00_GOVERNANCE.md"
+    },
+    {
+      "terms": [
+        "aggro"
+      ],
+      "classification": "Explicit prohibition/analogy or exact checkpoint/source policy; reviewed, not a runtime mechanic",
+      "file": "live-model/01_KIRA.md"
+    },
+    {
+      "terms": [
+        "aggro"
+      ],
+      "classification": "Explicit prohibition/analogy or exact checkpoint/source policy; reviewed, not a runtime mechanic",
+      "file": "live-model/03_VALNEK_PATHS.md"
+    },
+    {
+      "terms": [
+        "aggro",
+        "cooldown",
+        "hate table",
+        "taunt",
+        "threat table",
+        "threat-generation"
+      ],
+      "classification": "Explicit prohibition/analogy or exact checkpoint/source policy; reviewed, not a runtime mechanic",
+      "file": "live-model/04_COMBAT_WORLD.md"
+    },
+    {
+      "terms": [
+        "mana"
+      ],
+      "classification": "Explicit prohibition/analogy or exact checkpoint/source policy; reviewed, not a runtime mechanic",
+      "file": "live-model/06_OPEN_PROVENANCE.md"
+    },
+    {
+      "terms": [
+        "aggro",
+        "taunt",
+        "threat table"
+      ],
+      "classification": "Explicit prohibition/analogy or exact checkpoint/source policy; reviewed, not a runtime mechanic",
+      "file": "live-model/16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md"
+    },
+    {
+      "terms": [
+        "aggro",
+        "cooldown",
+        "hate table",
+        "taunt",
+        "threat-generation"
+      ],
+      "classification": "Explicit prohibition/analogy or exact checkpoint/source policy; reviewed, not a runtime mechanic",
+      "file": "live-model/20_CHECKPOINT_13_THREAD_DELTA.md"
+    },
+    {
+      "terms": [
+        "aggro",
+        "taunt",
+        "threat table"
+      ],
+      "classification": "Explicit prohibition/analogy or exact checkpoint/source policy; reviewed, not a runtime mechanic",
+      "file": "live-model/COMBAT_ECOLOGY.md"
+    },
+    {
+      "terms": [
+        "aggro"
+      ],
+      "classification": "Explicit prohibition/analogy or exact checkpoint/source policy; reviewed, not a runtime mechanic",
+      "file": "live-model/STORY_CLOCK_STATE.md"
+    },
+    {
+      "terms": [
+        "cooldown"
+      ],
+      "classification": "Explicit prohibition/analogy or exact checkpoint/source policy; reviewed, not a runtime mechanic",
+      "file": "live-model/SUPERSESSIONS.md"
+    }
+  ],
+  "trial_macro": {
+    "exact_rewards": "OPEN",
+    "W96": "NONCANON",
+    "runs": 49,
+    "total": 2695000,
+    "row_table_created": false,
+    "low_40s_records": "WORKING magnitude example only",
+    "W35plus_payout": "OPEN",
+    "target_approx": 55000
+  },
+  "carry_model": "Armor -> illi prevention -> mature two-Orb economic inversion around mid-Green; Orbs acquired late Yellow",
+  "civilization_engine": "Permanent/Seasonal ~23-year reserve cycle preserved",
+  "coverage": {
+    "pending": 0,
+    "rows": 8
+  },
+  "open_items": [
+    "Exact acquisition dates",
+    "Exact reward rows and W35+ payout",
+    "Final record waves",
+    "Additional accepted-package membership",
+    "Unrelated earlier OPENs"
+  ]
+}

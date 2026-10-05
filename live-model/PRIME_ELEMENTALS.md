@@ -23,7 +23,7 @@ Ordinary Prime access is a deep capstone: multiple prerequisites may need WHITE 
 
 ### Locked ordinary recipes for illi's three Primes — all listed prerequisites WHITE
 PE-001 Genesis:
-GE-0043 Genesis Beam; GE-0444 Genesis Orb; GE-0528 Genesis Shard; GE-0042 Barrier Plane; GF-0038 Focused Threat Resolve; GF-0044 Conditional Command; GF-0045 Deep Manifest.
+GE-0043 Genesis Beam; GE-0444 Genesis Orb; GE-0528 Genesis Shard; GE-0042 Barrier Plane; GF-0038 Focused Intercept Resolve; GF-0044 Conditional Command; GF-0045 Deep Manifest.
 illi override: GE-0043 Green → PE-001 Red.
 
 PE-002 Coherence:

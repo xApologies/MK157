@@ -3475,7 +3475,7 @@
     "pricing_status": "LOCKED — Checkpoint 12"
   },
   {
-    "name": "Expanded Threat Resolve",
+    "name": "Expanded Intercept Resolve",
     "family": "Dimensional / Perception",
     "transduction_domains": [
       "Genesis Field Topology"
@@ -3486,7 +3486,7 @@
     "activation_profile": "deploy",
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Blue, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
-    "primary_expression": "expanded threat resolve",
+    "primary_expression": "Expanded Intercept Resolve",
     "white_secondary_expression": "Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.",
     "compatibilities": [
       "Builder targeting packages",
@@ -3501,17 +3501,17 @@
       "Mage",
       "perception",
       "Expanded",
-      "Threat Resolve"
+      "Intercept Resolve"
     ],
     "source_lineage": "MK157 six-domain expansion",
     "status": "ALPHA candidate — domain-normalized v0.2",
     "rank_progression": {
-      "Red": "Baseline expanded threat resolve; comparatively inefficient and fatiguing.",
-      "Orange": "Improved efficiency and control of expanded threat resolve.",
-      "Yellow": "Improved throughput/range/capacity for expanded threat resolve.",
-      "Green": "Reliable combat-grade expanded threat resolve; lower waste and better precision.",
-      "Blue": "High-efficiency specialist-grade expanded threat resolve; substantially greater sustainable use.",
-      "Violet": "Elite expanded threat resolve; extreme control, efficiency, and throughput within the Binding's mechanism.",
+      "Red": "Baseline Expanded Intercept Resolve; comparatively inefficient and fatiguing.",
+      "Orange": "Improved efficiency and control of Expanded Intercept Resolve.",
+      "Yellow": "Improved throughput/range/capacity for Expanded Intercept Resolve.",
+      "Green": "Reliable combat-grade Expanded Intercept Resolve; lower waste and better precision.",
+      "Blue": "High-efficiency specialist-grade Expanded Intercept Resolve; substantially greater sustainable use.",
+      "Violet": "Elite Expanded Intercept Resolve; extreme control, efficiency, and throughput within the Binding's mechanism.",
       "White": "Primary expression reaches mature form and gains the listed White secondary expression."
     },
     "legacy_id": "M-0500",
@@ -4775,7 +4775,7 @@
     "pricing_status": "LOCKED — Checkpoint 12"
   },
   {
-    "name": "Focused Threat Resolve",
+    "name": "Focused Intercept Resolve",
     "family": "Dimensional / Perception",
     "transduction_domains": [
       "Genesis Field Topology"
@@ -4786,7 +4786,7 @@
     "activation_profile": "focus",
     "sustain_profile": "mixed",
     "fatigue_profile": "moderate mixed burst/sustain load across Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
-    "primary_expression": "focused threat resolve",
+    "primary_expression": "Focused Intercept Resolve",
     "white_secondary_expression": "Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.",
     "compatibilities": [
       "Builder targeting packages",
@@ -4801,17 +4801,17 @@
       "Mage",
       "perception",
       "Focused",
-      "Threat Resolve"
+      "Intercept Resolve"
     ],
     "source_lineage": "MK157 six-domain expansion",
     "status": "ALPHA candidate — domain-normalized v0.2",
     "rank_progression": {
-      "Red": "Baseline focused threat resolve; comparatively inefficient and fatiguing.",
-      "Orange": "Improved efficiency and control of focused threat resolve.",
-      "Yellow": "Improved throughput/range/capacity for focused threat resolve.",
-      "Green": "Reliable combat-grade focused threat resolve; lower waste and better precision.",
-      "Blue": "High-efficiency specialist-grade focused threat resolve; substantially greater sustainable use.",
-      "Violet": "Elite focused threat resolve; extreme control, efficiency, and throughput within the Binding's mechanism.",
+      "Red": "Baseline Focused Intercept Resolve; comparatively inefficient and fatiguing.",
+      "Orange": "Improved efficiency and control of Focused Intercept Resolve.",
+      "Yellow": "Improved throughput/range/capacity for Focused Intercept Resolve.",
+      "Green": "Reliable combat-grade Focused Intercept Resolve; lower waste and better precision.",
+      "Blue": "High-efficiency specialist-grade Focused Intercept Resolve; substantially greater sustainable use.",
+      "Violet": "Elite Focused Intercept Resolve; extreme control, efficiency, and throughput within the Binding's mechanism.",
       "White": "Primary expression reaches mature form and gains the listed White secondary expression."
     },
     "legacy_id": "M-0499",
@@ -4987,7 +4987,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5052,7 +5052,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5117,7 +5117,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5182,7 +5182,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5247,7 +5247,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5312,7 +5312,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5377,7 +5377,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5442,7 +5442,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5507,7 +5507,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5572,7 +5572,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5637,7 +5637,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5702,7 +5702,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5767,7 +5767,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5832,7 +5832,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5897,7 +5897,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -5962,7 +5962,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6027,7 +6027,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6092,7 +6092,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6157,7 +6157,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6222,7 +6222,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6287,7 +6287,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6352,7 +6352,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6417,7 +6417,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6482,7 +6482,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6547,7 +6547,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6612,7 +6612,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6677,7 +6677,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6742,7 +6742,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6807,7 +6807,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6872,7 +6872,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -6937,7 +6937,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7002,7 +7002,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7067,7 +7067,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7132,7 +7132,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7197,7 +7197,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7262,7 +7262,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7327,7 +7327,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7392,7 +7392,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7457,7 +7457,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7522,7 +7522,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7587,7 +7587,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7652,7 +7652,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7717,7 +7717,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7782,7 +7782,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7847,7 +7847,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7912,7 +7912,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -7977,7 +7977,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -8025,24 +8025,24 @@
     "pricing_status": "LOCKED — Checkpoint 12"
   },
   {
-    "name": "Threat Share",
+    "name": "Shared Intercept Resolve",
     "family": "Summon Control / Support",
     "transduction_domains": [
       "Genesis Field Topology",
       "Resonance"
     ],
     "geometry": "Control relation",
-    "physical_mechanism": "share a simple threat-priority map with compatible summons.",
+    "physical_mechanism": "share a simple intercept-priority map with compatible summons.",
     "required_basins": [],
     "activation_profile": "command",
     "sustain_profile": "mixed",
     "fatigue_profile": "moderate mixed burst/sustain load across Green, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
-    "primary_expression": "share a simple threat-priority map with compatible summons",
+    "primary_expression": "share a simple intercept-priority map with compatible summons",
     "white_secondary_expression": "Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.",
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -8051,17 +8051,17 @@
     "build_tags": [
       "Summoner",
       "control",
-      "Threat Share"
+      "Shared Intercept Resolve"
     ],
     "source_lineage": "MK157 Summoner control expansion",
     "status": "ALPHA candidate — domain-normalized v0.2",
     "rank_progression": {
-      "Red": "Baseline share a simple threat-priority map with compatible summons; comparatively inefficient and fatiguing.",
-      "Orange": "Improved efficiency and control of share a simple threat-priority map with compatible summons.",
-      "Yellow": "Improved throughput/range/capacity for share a simple threat-priority map with compatible summons.",
-      "Green": "Reliable combat-grade share a simple threat-priority map with compatible summons; lower waste and better precision.",
-      "Blue": "High-efficiency specialist-grade share a simple threat-priority map with compatible summons; substantially greater sustainable use.",
-      "Violet": "Elite share a simple threat-priority map with compatible summons; extreme control, efficiency, and throughput within the Binding's mechanism.",
+      "Red": "Baseline share a simple intercept-priority map with compatible summons; comparatively inefficient and fatiguing.",
+      "Orange": "Improved efficiency and control of share a simple intercept-priority map with compatible summons.",
+      "Yellow": "Improved throughput/range/capacity for share a simple intercept-priority map with compatible summons.",
+      "Green": "Reliable combat-grade share a simple intercept-priority map with compatible summons; lower waste and better precision.",
+      "Blue": "High-efficiency specialist-grade share a simple intercept-priority map with compatible summons; substantially greater sustainable use.",
+      "Violet": "Elite share a simple intercept-priority map with compatible summons; extreme control, efficiency, and throughput within the Binding's mechanism.",
       "White": "Primary expression reaches mature form and gains the listed White secondary expression."
     },
     "legacy_id": "S-0208",
@@ -8107,7 +8107,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -8172,7 +8172,7 @@
     "compatibilities": [
       "Elemental Manifestations",
       "Creature Manifestations",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link"
     ],
     "conflicts": [
@@ -8236,7 +8236,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8302,7 +8302,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8368,7 +8368,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8434,7 +8434,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8500,7 +8500,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8566,7 +8566,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8632,7 +8632,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8698,7 +8698,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8764,7 +8764,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8830,7 +8830,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8896,7 +8896,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -8962,7 +8962,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9028,7 +9028,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9094,7 +9094,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9160,7 +9160,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9226,7 +9226,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9292,7 +9292,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9358,7 +9358,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9424,7 +9424,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9490,7 +9490,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9556,7 +9556,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9622,7 +9622,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9688,7 +9688,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9754,7 +9754,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9820,7 +9820,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9886,7 +9886,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -9952,7 +9952,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10018,7 +10018,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10084,7 +10084,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10150,7 +10150,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10216,7 +10216,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10282,7 +10282,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10348,7 +10348,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10414,7 +10414,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10480,7 +10480,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10546,7 +10546,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10612,7 +10612,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10678,7 +10678,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10744,7 +10744,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -10810,7 +10810,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11056,7 +11056,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11122,7 +11122,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11188,7 +11188,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11254,7 +11254,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11320,7 +11320,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11386,7 +11386,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11452,7 +11452,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11518,7 +11518,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11584,7 +11584,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11650,7 +11650,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11716,7 +11716,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11782,7 +11782,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11848,7 +11848,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11914,7 +11914,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -11980,7 +11980,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12046,7 +12046,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12112,7 +12112,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12178,7 +12178,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12244,7 +12244,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12310,7 +12310,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12376,7 +12376,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12442,7 +12442,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12508,7 +12508,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12574,7 +12574,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12640,7 +12640,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12706,7 +12706,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12772,7 +12772,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12838,7 +12838,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12904,7 +12904,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -12970,7 +12970,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13036,7 +13036,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13102,7 +13102,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13168,7 +13168,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13234,7 +13234,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13300,7 +13300,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13366,7 +13366,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13432,7 +13432,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13498,7 +13498,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13564,7 +13564,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13630,7 +13630,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -13696,7 +13696,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -13762,7 +13762,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -13828,7 +13828,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -13894,7 +13894,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -13960,7 +13960,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14026,7 +14026,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14092,7 +14092,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14158,7 +14158,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14224,7 +14224,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14290,7 +14290,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14356,7 +14356,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14422,7 +14422,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14488,7 +14488,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14554,7 +14554,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14620,7 +14620,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14686,7 +14686,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14752,7 +14752,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14818,7 +14818,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14884,7 +14884,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -14950,7 +14950,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15016,7 +15016,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15082,7 +15082,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15148,7 +15148,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15214,7 +15214,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15280,7 +15280,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15346,7 +15346,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15412,7 +15412,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15478,7 +15478,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15544,7 +15544,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15610,7 +15610,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15676,7 +15676,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15742,7 +15742,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15808,7 +15808,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15874,7 +15874,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -15940,7 +15940,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16006,7 +16006,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16072,7 +16072,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16138,7 +16138,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16204,7 +16204,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16270,7 +16270,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16336,7 +16336,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16402,7 +16402,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16468,7 +16468,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16534,7 +16534,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16600,7 +16600,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16666,7 +16666,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16732,7 +16732,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16798,7 +16798,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16864,7 +16864,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16930,7 +16930,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -16996,7 +16996,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -17062,7 +17062,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -17128,7 +17128,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -17194,7 +17194,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -17260,7 +17260,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -17326,7 +17326,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -17392,7 +17392,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -17458,7 +17458,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -17524,7 +17524,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -17590,7 +17590,7 @@
     "white_secondary_expression": "Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.",
     "compatibilities": [
       "Summon Command bindings",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Synchronization Link",
       "Resonant Reinforcement"
     ],
@@ -17656,7 +17656,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -17722,7 +17722,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -17788,7 +17788,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -17854,7 +17854,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -17920,7 +17920,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -17986,7 +17986,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18052,7 +18052,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18118,7 +18118,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18184,7 +18184,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18250,7 +18250,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18316,7 +18316,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18382,7 +18382,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18448,7 +18448,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18514,7 +18514,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18580,7 +18580,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18646,7 +18646,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18712,7 +18712,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18778,7 +18778,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18844,7 +18844,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18910,7 +18910,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -18976,7 +18976,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19042,7 +19042,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19108,7 +19108,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19174,7 +19174,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19240,7 +19240,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19306,7 +19306,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19372,7 +19372,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19438,7 +19438,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19504,7 +19504,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19570,7 +19570,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19636,7 +19636,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19702,7 +19702,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19768,7 +19768,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19834,7 +19834,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19900,7 +19900,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -19966,7 +19966,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -20032,7 +20032,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -20098,7 +20098,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -20164,7 +20164,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -20230,7 +20230,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -20297,7 +20297,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -20364,7 +20364,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -20431,7 +20431,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -20498,7 +20498,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -20565,7 +20565,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -20632,7 +20632,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -20699,7 +20699,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -20766,7 +20766,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -20833,7 +20833,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -20900,7 +20900,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -20967,7 +20967,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21034,7 +21034,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21101,7 +21101,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21168,7 +21168,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21235,7 +21235,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21302,7 +21302,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21369,7 +21369,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21436,7 +21436,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21503,7 +21503,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21570,7 +21570,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21637,7 +21637,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21704,7 +21704,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21771,7 +21771,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21838,7 +21838,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21905,7 +21905,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -21972,7 +21972,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22039,7 +22039,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22106,7 +22106,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22173,7 +22173,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22240,7 +22240,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22307,7 +22307,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22374,7 +22374,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22441,7 +22441,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22508,7 +22508,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22575,7 +22575,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22642,7 +22642,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22709,7 +22709,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22776,7 +22776,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22843,7 +22843,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22910,7 +22910,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -22977,7 +22977,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23044,7 +23044,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23111,7 +23111,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23178,7 +23178,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23245,7 +23245,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23312,7 +23312,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23379,7 +23379,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23446,7 +23446,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23513,7 +23513,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23580,7 +23580,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23647,7 +23647,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23714,7 +23714,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23781,7 +23781,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23848,7 +23848,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23915,7 +23915,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -23982,7 +23982,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24049,7 +24049,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24116,7 +24116,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24183,7 +24183,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24250,7 +24250,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24317,7 +24317,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24384,7 +24384,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24451,7 +24451,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24518,7 +24518,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24585,7 +24585,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24652,7 +24652,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24719,7 +24719,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24786,7 +24786,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24853,7 +24853,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24920,7 +24920,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -24987,7 +24987,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25054,7 +25054,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25121,7 +25121,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25188,7 +25188,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25255,7 +25255,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25322,7 +25322,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25389,7 +25389,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25456,7 +25456,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25523,7 +25523,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25590,7 +25590,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25657,7 +25657,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25724,7 +25724,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25791,7 +25791,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25858,7 +25858,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25925,7 +25925,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -25992,7 +25992,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26059,7 +26059,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26126,7 +26126,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26193,7 +26193,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26260,7 +26260,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26327,7 +26327,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26394,7 +26394,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26461,7 +26461,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26528,7 +26528,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26595,7 +26595,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26662,7 +26662,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26729,7 +26729,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26796,7 +26796,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26863,7 +26863,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26930,7 +26930,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -26997,7 +26997,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27064,7 +27064,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27131,7 +27131,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27198,7 +27198,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27265,7 +27265,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27332,7 +27332,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27399,7 +27399,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27466,7 +27466,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27533,7 +27533,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27600,7 +27600,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27667,7 +27667,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27734,7 +27734,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27801,7 +27801,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27868,7 +27868,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -27935,7 +27935,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -28002,7 +28002,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -28069,7 +28069,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -28136,7 +28136,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -28203,7 +28203,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -28270,7 +28270,7 @@
     "compatibilities": [
       "Summon Command bindings",
       "Resonant Reinforcement",
-      "Threat Resolve",
+      "Intercept Resolve",
       "element-specific Mage Bindings"
     ],
     "conflicts": [
@@ -28336,7 +28336,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -28402,7 +28402,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -28468,7 +28468,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -28534,7 +28534,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -28600,7 +28600,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -28666,7 +28666,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -28732,7 +28732,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -28798,7 +28798,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -28864,7 +28864,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -28930,7 +28930,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -28996,7 +28996,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29062,7 +29062,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29128,7 +29128,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29194,7 +29194,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29260,7 +29260,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29326,7 +29326,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29392,7 +29392,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29458,7 +29458,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29524,7 +29524,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29590,7 +29590,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29656,7 +29656,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29722,7 +29722,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29788,7 +29788,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29854,7 +29854,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29920,7 +29920,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -29986,7 +29986,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30052,7 +30052,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30118,7 +30118,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30184,7 +30184,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30250,7 +30250,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30316,7 +30316,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30382,7 +30382,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30448,7 +30448,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30514,7 +30514,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30580,7 +30580,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30646,7 +30646,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30712,7 +30712,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30778,7 +30778,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30844,7 +30844,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30910,7 +30910,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -30976,7 +30976,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31042,7 +31042,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31108,7 +31108,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31174,7 +31174,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31240,7 +31240,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31306,7 +31306,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31372,7 +31372,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31438,7 +31438,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31504,7 +31504,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31570,7 +31570,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31636,7 +31636,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31702,7 +31702,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31768,7 +31768,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31834,7 +31834,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31900,7 +31900,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -31966,7 +31966,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32032,7 +32032,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32098,7 +32098,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32164,7 +32164,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32230,7 +32230,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32296,7 +32296,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32362,7 +32362,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32428,7 +32428,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32494,7 +32494,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32560,7 +32560,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32626,7 +32626,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32692,7 +32692,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32758,7 +32758,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32824,7 +32824,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32890,7 +32890,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -32956,7 +32956,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33022,7 +33022,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33088,7 +33088,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33154,7 +33154,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33220,7 +33220,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33286,7 +33286,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33352,7 +33352,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33418,7 +33418,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33484,7 +33484,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33550,7 +33550,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33616,7 +33616,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33682,7 +33682,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33748,7 +33748,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33814,7 +33814,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33880,7 +33880,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -33946,7 +33946,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34012,7 +34012,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34078,7 +34078,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34144,7 +34144,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34210,7 +34210,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34276,7 +34276,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34342,7 +34342,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34408,7 +34408,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34474,7 +34474,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34540,7 +34540,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34606,7 +34606,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34672,7 +34672,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34738,7 +34738,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34804,7 +34804,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -34870,7 +34870,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -37716,7 +37716,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -37782,7 +37782,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -37848,7 +37848,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -37914,7 +37914,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -37980,7 +37980,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38046,7 +38046,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38112,7 +38112,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38178,7 +38178,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38244,7 +38244,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38310,7 +38310,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38376,7 +38376,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38442,7 +38442,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38508,7 +38508,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38574,7 +38574,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38640,7 +38640,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38706,7 +38706,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38772,7 +38772,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38838,7 +38838,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38904,7 +38904,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -38970,7 +38970,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39036,7 +39036,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39102,7 +39102,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39168,7 +39168,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39234,7 +39234,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39300,7 +39300,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39366,7 +39366,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39432,7 +39432,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39498,7 +39498,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39564,7 +39564,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39630,7 +39630,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39696,7 +39696,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39762,7 +39762,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39828,7 +39828,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39894,7 +39894,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -39960,7 +39960,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40026,7 +40026,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40092,7 +40092,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40158,7 +40158,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40224,7 +40224,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40290,7 +40290,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40356,7 +40356,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40422,7 +40422,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40488,7 +40488,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40554,7 +40554,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40620,7 +40620,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40686,7 +40686,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40752,7 +40752,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40818,7 +40818,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40884,7 +40884,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -40950,7 +40950,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41016,7 +41016,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41082,7 +41082,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41148,7 +41148,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41214,7 +41214,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41280,7 +41280,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41346,7 +41346,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41412,7 +41412,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41478,7 +41478,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41544,7 +41544,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41610,7 +41610,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41676,7 +41676,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41742,7 +41742,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41808,7 +41808,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41874,7 +41874,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -41940,7 +41940,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42006,7 +42006,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42072,7 +42072,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42138,7 +42138,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42204,7 +42204,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42270,7 +42270,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42336,7 +42336,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42402,7 +42402,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42468,7 +42468,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42534,7 +42534,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42600,7 +42600,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42666,7 +42666,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42732,7 +42732,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42798,7 +42798,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42864,7 +42864,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -42930,7 +42930,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -43739,25 +43739,25 @@
     "source_lineage": "MK157 current thread / source-corpus pruning",
     "status": "LOCKED",
     "id": "GE-0537",
-    "pricing_class": "ADVANCED",
-    "red_base_cost": 3000,
+    "pricing_class": "EXCEPTIONAL",
+    "red_base_cost": 10000,
     "rank_costs": {
-      "Red": 3000,
-      "Orange": 4800,
-      "Yellow": 8640,
-      "Green": 18144,
-      "Blue": 45360,
-      "Violet": 136080,
-      "White": 544320
+      "Red": 10000,
+      "Orange": 16000,
+      "Yellow": 28800,
+      "Green": 60480,
+      "Blue": 151200,
+      "Violet": 453600,
+      "White": 1814400
     },
-    "Red": 3000,
-    "Orange": 4800,
-    "Yellow": 8640,
-    "Green": 18144,
-    "Blue": 45360,
-    "Violet": 136080,
-    "White": 544320,
-    "pricing_status": "LOCKED — Checkpoint 12"
+    "Red": 10000,
+    "Orange": 16000,
+    "Yellow": 28800,
+    "Green": 60480,
+    "Blue": 151200,
+    "Violet": 453600,
+    "White": 1814400,
+    "pricing_status": "LOCKED — Checkpoint 13"
   },
   {
     "name": "Forking Steam Arc",
@@ -43776,7 +43776,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -43842,7 +43842,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -43908,7 +43908,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -43974,7 +43974,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44040,7 +44040,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44106,7 +44106,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44172,7 +44172,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44238,7 +44238,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44304,7 +44304,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44370,7 +44370,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44436,7 +44436,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44502,7 +44502,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44568,7 +44568,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44634,7 +44634,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44700,7 +44700,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44766,7 +44766,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44832,7 +44832,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44898,7 +44898,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -44964,7 +44964,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45030,7 +45030,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45096,7 +45096,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45162,7 +45162,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45228,7 +45228,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45294,7 +45294,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45360,7 +45360,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45426,7 +45426,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45492,7 +45492,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45558,7 +45558,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45624,7 +45624,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45690,7 +45690,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45756,7 +45756,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45822,7 +45822,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45888,7 +45888,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -45954,7 +45954,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46020,7 +46020,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46086,7 +46086,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46152,7 +46152,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46218,7 +46218,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46284,7 +46284,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46350,7 +46350,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46416,7 +46416,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46482,7 +46482,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46548,7 +46548,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46614,7 +46614,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46680,7 +46680,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46746,7 +46746,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46812,7 +46812,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46878,7 +46878,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -46944,7 +46944,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47010,7 +47010,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47076,7 +47076,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47142,7 +47142,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47208,7 +47208,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47274,7 +47274,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47340,7 +47340,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47406,7 +47406,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47472,7 +47472,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47538,7 +47538,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47604,7 +47604,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -47670,7 +47670,7 @@
     "compatibilities": [
       "multicast pattern Bindings",
       "Genesis Sight",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Amplification"
     ],
     "conflicts": [
@@ -56570,7 +56570,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Yellow. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of acceleration",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -56634,7 +56634,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Yellow, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of agility",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -56698,7 +56698,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Yellow. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of anaerobic tolerance",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -56762,7 +56762,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Blue, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of auditory filtering",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -56826,7 +56826,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Blue, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of balance",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -56890,7 +56890,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of bone reinforcement",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -56954,7 +56954,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Yellow. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of burst dash",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57018,7 +57018,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of cardiac output",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57082,7 +57082,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of circulatory efficiency",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57146,7 +57146,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of climbing output",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57210,7 +57210,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Blue, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of cold tolerance",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57274,7 +57274,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of core stability",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57338,7 +57338,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of dermal reinforcement",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57402,7 +57402,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Yellow. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of explosive power",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57466,7 +57466,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Green, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of fatigue resistance",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57530,7 +57530,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of grip strength",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57594,7 +57594,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Green, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of heat shedding",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57658,7 +57658,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of impact frame",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57722,7 +57722,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of joint reinforcement",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57786,7 +57786,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Yellow. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of jump power",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57850,7 +57850,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of landing tolerance",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57914,7 +57914,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of ligament reinforcement",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -57979,7 +57979,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Green, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of localized recovery",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58043,7 +58043,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of lower-body power",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58107,7 +58107,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Green, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of metabolic efficiency",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58171,7 +58171,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Yellow, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of motor precision",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58235,7 +58235,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of muscular strength",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58299,7 +58299,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Yellow, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of neural conduction",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58363,7 +58363,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of organ bracing",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58427,7 +58427,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Yellow, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of pain gating",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58491,7 +58491,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of pressure tolerance",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58555,7 +58555,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Blue, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of proprioception",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58619,7 +58619,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Yellow, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of reaction speed",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58683,7 +58683,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Green, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of recovery rate",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58747,7 +58747,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Green, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of respiratory throughput",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58811,7 +58811,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Yellow. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of shock tolerance",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58875,7 +58875,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of spinal reinforcement",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -58939,7 +58939,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Yellow. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of sprint speed",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -59004,7 +59004,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Green, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of structural resonance",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -59068,7 +59068,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Green, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of sustained run",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -59132,7 +59132,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Green, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of swimming output",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -59196,7 +59196,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Orange, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of tendon reinforcement",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -59260,7 +59260,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Yellow, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of turning authority",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -59324,7 +59324,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Red, Green. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of upper-body power",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -59388,7 +59388,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Blue, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of vestibular control",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -59452,7 +59452,7 @@
     "sustain_profile": "mixed",
     "fatigue_profile": "high mixed burst/sustain load across Blue, Violet. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.",
     "primary_expression": "overdrive reinforcement of visual tracking",
-    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced cooldown.",
+    "white_secondary_expression": "Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.",
     "compatibilities": [
       "other non-conflicting Augmentations",
       "Directed/Persistent Coherence",
@@ -62467,7 +62467,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -62534,7 +62534,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -62601,7 +62601,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -62668,7 +62668,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -62735,7 +62735,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -62802,7 +62802,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -62869,7 +62869,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -62936,7 +62936,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63003,7 +63003,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63070,7 +63070,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63137,7 +63137,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63204,7 +63204,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63271,7 +63271,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63338,7 +63338,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63405,7 +63405,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63472,7 +63472,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63539,7 +63539,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63606,7 +63606,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63673,7 +63673,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63740,7 +63740,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63807,7 +63807,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63874,7 +63874,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -63941,7 +63941,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64008,7 +64008,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64075,7 +64075,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64142,7 +64142,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64209,7 +64209,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64276,7 +64276,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64343,7 +64343,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64410,7 +64410,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64477,7 +64477,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64544,7 +64544,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64611,7 +64611,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64678,7 +64678,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64745,7 +64745,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64812,7 +64812,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64879,7 +64879,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -64946,7 +64946,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65013,7 +65013,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65080,7 +65080,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65147,7 +65147,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65214,7 +65214,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65281,7 +65281,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65348,7 +65348,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65415,7 +65415,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65482,7 +65482,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65549,7 +65549,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65616,7 +65616,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65683,7 +65683,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65750,7 +65750,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65817,7 +65817,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65884,7 +65884,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -65951,7 +65951,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -66018,7 +66018,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -66085,7 +66085,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -66152,7 +66152,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -66219,7 +66219,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -66286,7 +66286,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -66353,7 +66353,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [
@@ -66420,7 +66420,7 @@
     "compatibilities": [
       "Genesis Sight",
       "Binding Read",
-      "Threat Resolve",
+      "Intercept Resolve",
       "Resonant Dampening"
     ],
     "conflicts": [

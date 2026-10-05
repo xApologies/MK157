@@ -1103,7 +1103,7 @@ Count: **65**
 **Theme:** Chirality / counter-Transduction  
 **Domains:** Chirality, Genesis Field Topology  
 **Core:** Desynchronize Beam, Desynchronize Bolt, Desynchronize Field, Dampen Ring  
-**Optional:** Focused Structural Weakness Read, Focused Threat Resolve, Focused Transduction Trace, Focused Velis Survey  
+**Optional:** Focused Structural Weakness Read, Focused Intercept Resolve, Focused Transduction Trace, Focused Velis Survey  
 **Summons:** None  
 **Style:** Manipulate organizational admissibility and interfere with hostile resolved structures.
 
@@ -1257,7 +1257,7 @@ Count: **60**
 ## SU-P016 — Elementalist Manifestation Path 16
 **Theme:** Elemental summoning  
 **Domains:** Genesis Expression, Resonance, Chirality  
-**Core:** Summon Mark, Target Share, Threat Share, Burst Pain Gating Augmentation  
+**Core:** Summon Mark, Target Share, Shared Intercept Resolve, Burst Pain Gating Augmentation  
 **Optional:** Burst Combustion Beam, Channeled Combustion Beam, Implosive Combustion Burst, Outward Combustion Burst  
 **Summons:** Atmospheric Wisp, Atmospheric Hound, Atmospheric Raptor  
 **Style:** Maintain non-sentient autonomous elemental manifestations; output/count compete against continuous fatigue and basin availability.
@@ -1393,7 +1393,7 @@ Count: **60**
 ## SU-P033 — Elementalist Manifestation Path 33
 **Theme:** Elemental summoning  
 **Domains:** Genesis Expression, Resonance, Chirality  
-**Core:** Target Share, Threat Share, Track Command, Overdrive Localized Recovery Augmentation  
+**Core:** Target Share, Shared Intercept Resolve, Track Command, Overdrive Localized Recovery Augmentation  
 **Optional:** Single Electrical Arc, Burst Electrical Beam, Channeled Electrical Beam, Implosive Electrical Burst  
 **Summons:** Copper Colossus, Copper Drake, Magnetic Wisp  
 **Style:** Maintain non-sentient autonomous elemental manifestations; output/count compete against continuous fatigue and basin availability.

@@ -1,0 +1,22 @@
+{
+  "name": "MK157_CHECKPOINT13_THREAD_DELTA",
+  "baseline": "integrated Checkpoint 12",
+  "locks": {
+    "GE-0537_red_base": 10000,
+    "white_legacy_discount_percent": 45,
+    "white_legacy_pay_percent": 55,
+    "absorption_red_illi": 5500,
+    "trial_W1_W35_macro_target_approx": 55000,
+    "49_run_macro_total": 2695000
+  },
+  "open": [
+    "exact W1-W35 reward rows",
+    "W35+ payout",
+    "final Eternal Standing wave numbers"
+  ],
+  "renames": {
+    "GF-0018": "Expanded Intercept Resolve",
+    "GF-0038": "Focused Intercept Resolve",
+    "GF-0088": "Shared Intercept Resolve"
+  }
+}

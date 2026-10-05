@@ -1,0 +1,2 @@
+# Checkpoint 13 reward-table boundary
+Rejected prior unintegrated high-output Trial-credit tables have no authority and are not imported. Only the approximate 55000 W1–35 macro target and 2695000/49-run calibration are accepted. No specific rejected table was included in this package; no fabricated historical table is archived. Exact W1–35 rows and W35+ payout remain OPEN.

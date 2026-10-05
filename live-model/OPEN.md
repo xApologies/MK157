@@ -1,6 +1,6 @@
 # OPEN ledger
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -90,3 +90,5 @@ Resolved by Checkpoint 11: Black acquisition gates, Blue Persistent Coherence en
 ## Checkpoint 12 limited pricing resolution
 
 Red base costs, ordinary semantic acquisition bands, deterministic HALF_UP ladders, five exact anchors and all nine Prime 10000 prices are resolved. This supersedes earlier base-pricing-convention/gas-cost OPENs. It does not resolve topology-derived basin requirements, mechanism/White development, ALPHA/WORKING recipe selection, purchase dates, credit-income/reward tables, discretionary item/card prices or planetary month arithmetic. Preserved source status strings may retain historical cost-OPEN text; pricing_status governs only prices.
+
+Checkpoint 13 locks Absorption B=10000 and the 45% deduction/pay-55% White-Legacy package subsidy. Exact W1–35 reward rows, W35+ payout/cap, final records (including low-40s historical examples and W96), and acquisition dates remain OPEN. The ~55000 run target is a macro constraint only; rejected unintegrated high-output credit tables are quarantined, not imported. No 35-row table is created.

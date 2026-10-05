@@ -44,7 +44,7 @@ No ordinary summoned entity may exceed 9,900 Red. Prime Elementals alone are exp
 - PT-0002 Directed Coherence = 600
 - PT-0003 Persistent Coherence = 700
 - PT-0001 Coherence Field = 1,800
-- GE-0537 Absorption Shield = 3,000
+- GE-0537 Absorption Shield = 10,000 (Checkpoint 13 supersession)
 - GE-0043 Genesis Beam = 5,000
 
 These values override classifier output.
@@ -157,3 +157,4 @@ Summon scale starts at Tiny 500, Small 1100, Medium 1700, Large 2400, Huge 4000,
 Matched summon-Binding names share price decisions; unmatched manifestations use their explicit role and distributed coordination. Ordinary CSR has its own operational registry price and does not overwrite Kira's Black acquisition gate.
 
 ROUND_HALF_UP applies sequentially at every positive-credit transition using decimal arithmetic; the next rank uses the rounded preceding rank. Pricing LOCKED status does not promote an ALPHA mechanism, recipe or topology to canon. Existing status/source strings are preserved even if historical wording mentions OPEN costs; pricing_status and this policy supersede only that price claim.
+Checkpoint 13 supersedes only GE-0537 to B=10000, Exceptional, cumulative R–W 2534480. The 45% accepted White-Legacy package deduction is character-specific (pay 55%, HALF_UP independently per list item/rank); ordinary registry prices remain list prices. Prequalification Persistent Coherence is full-price. Kira Black gates remain 61000 each.

@@ -20,3 +20,6 @@ live-model/18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md whitespace=-blank-at-eol
 
 provenance/checkpoint-12-package/*.md whitespace=-blank-at-eol
 bindings/COMPENDIUM.md whitespace=-blank-at-eol
+
+builder/paths/PATH_CATALOG.md whitespace=-blank-at-eol
+provenance/checkpoint-13-package/*.md whitespace=-blank-at-eol

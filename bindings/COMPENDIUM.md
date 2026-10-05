@@ -607,7 +607,7 @@ Primary-domain count: **90**
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
-## GF-0018 — Expanded Threat Resolve
+## GF-0018 — Expanded Intercept Resolve
 **Family:** Dimensional / Perception  
 **Domains:** Genesis Field Topology  
 **Build affinity:** Mage  
@@ -827,7 +827,7 @@ Primary-domain count: **90**
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
-## GF-0038 — Focused Threat Resolve
+## GF-0038 — Focused Intercept Resolve
 **Family:** Dimensional / Perception  
 **Domains:** Genesis Field Topology  
 **Build affinity:** Mage  
@@ -1377,12 +1377,12 @@ Primary-domain count: **90**
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
-## GF-0088 — Threat Share
+## GF-0088 — Shared Intercept Resolve
 **Family:** Summon Control / Support  
 **Domains:** Genesis Field Topology, Resonance  
 **Build affinity:** Summoner  
 **Geometry:** Control relation  
-**Mechanism:** share a simple threat-priority map with compatible summons.  
+**Mechanism:** share a simple intercept-priority map with compatible summons.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
@@ -7316,7 +7316,7 @@ Primary-domain count: **599**
 **Geometry:** Shield  
 **Mechanism:** Target-attached Genesis structure that intercepts incoming energy/force before biological trauma resolves.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 10,000, Orange 16,000, Yellow 28,800, Green 60,480, Blue 151,200, Violet 453,600, White 1,814,400  
 **White:** Reserve Recast — concentrate remaining capacity into a brief emergency absorption layer.  
 **Status:** LOCKED
 
@@ -9509,7 +9509,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of rate of speed increase.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0140 — Overdrive Agility Augmentation
@@ -9520,7 +9520,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of rapid body-direction change.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0141 — Overdrive Anaerobic Tolerance Augmentation
@@ -9531,7 +9531,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of short-duration high-output metabolic tolerance.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,400, Orange 8,640, Yellow 15,552, Green 32,659, Blue 81,648, Violet 244,944, White 979,776  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0142 — Overdrive Auditory Filtering Augmentation
@@ -9542,7 +9542,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of combat-relevant acoustic discrimination.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,400, Orange 8,640, Yellow 15,552, Green 32,659, Blue 81,648, Violet 244,944, White 979,776  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0143 — Overdrive Balance Augmentation
@@ -9553,7 +9553,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of postural control.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0144 — Overdrive Bone Reinforcement Augmentation
@@ -9564,7 +9564,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of skeletal load tolerance.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0145 — Overdrive Burst Dash Augmentation
@@ -9575,7 +9575,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of very short explosive movement output.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0146 — Overdrive Cardiac Output Augmentation
@@ -9586,7 +9586,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of circulatory throughput.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,400, Orange 8,640, Yellow 15,552, Green 32,659, Blue 81,648, Violet 244,944, White 979,776  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0147 — Overdrive Circulatory Efficiency Augmentation
@@ -9597,7 +9597,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of blood-flow efficiency under stress.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0148 — Overdrive Climbing Output Augmentation
@@ -9608,7 +9608,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of vertical locomotion strength/endurance.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0149 — Overdrive Cold Tolerance Augmentation
@@ -9619,7 +9619,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of thermal function in cold conditions.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0150 — Overdrive Core Stability Augmentation
@@ -9630,7 +9630,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of trunk stabilization and force transfer.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0151 — Overdrive Dermal Reinforcement Augmentation
@@ -9641,7 +9641,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of skin/superficial tissue resistance to abrasion/cutting.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0152 — Overdrive Explosive Power Augmentation
@@ -9652,7 +9652,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of rapid whole-body force production.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0153 — Overdrive Fatigue Resistance Augmentation
@@ -9663,7 +9663,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of maintain performance deeper into exertion.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0154 — Overdrive Grip Strength Augmentation
@@ -9674,7 +9674,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of hand/forearm force production.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0155 — Overdrive Heat Shedding Augmentation
@@ -9685,7 +9685,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of thermal regulation under exertion.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0156 — Overdrive Impact Frame Augmentation
@@ -9696,7 +9696,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of whole-body impact distribution.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0157 — Overdrive Joint Reinforcement Augmentation
@@ -9707,7 +9707,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of joint stability under load.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0158 — Overdrive Jump Power Augmentation
@@ -9718,7 +9718,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of vertical/horizontal jump output.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0159 — Overdrive Landing Tolerance Augmentation
@@ -9729,7 +9729,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of absorb/distribute landing impact.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0160 — Overdrive Ligament Reinforcement Augmentation
@@ -9740,7 +9740,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of ligament/joint restraint.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0161 — Overdrive Localized Recovery Augmentation
@@ -9751,7 +9751,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of minor localized restorative stabilization during reinforcement.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0162 — Overdrive Lower-Body Power Augmentation
@@ -9762,7 +9762,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of lower-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0163 — Overdrive Metabolic Efficiency Augmentation
@@ -9773,7 +9773,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of energy-use efficiency under sustained exertion.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0164 — Overdrive Motor Precision Augmentation
@@ -9784,7 +9784,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of fine motor control under stress.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0165 — Overdrive Muscular Strength Augmentation
@@ -9795,7 +9795,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of muscular force production.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0166 — Overdrive Neural Conduction Augmentation
@@ -9806,7 +9806,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of signal propagation efficiency.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0167 — Overdrive Organ Bracing Augmentation
@@ -9817,7 +9817,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of reduce mechanical trauma to internal organs.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0168 — Overdrive Pain Gating Augmentation
@@ -9828,7 +9828,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of reduce performance loss from pain without repairing injury.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0169 — Overdrive Pressure Tolerance Augmentation
@@ -9839,7 +9839,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of maintain body integrity under pressure differential.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0170 — Overdrive Proprioception Augmentation
@@ -9850,7 +9850,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of body-position awareness.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0171 — Overdrive Reaction Speed Augmentation
@@ -9861,7 +9861,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of neural response latency.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,400, Orange 8,640, Yellow 15,552, Green 32,659, Blue 81,648, Violet 244,944, White 979,776  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0172 — Overdrive Recovery Rate Augmentation
@@ -9872,7 +9872,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of between-effort recovery speed.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0173 — Overdrive Respiratory Throughput Augmentation
@@ -9883,7 +9883,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of ventilation/oxygen exchange performance.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0174 — Overdrive Shock Tolerance Augmentation
@@ -9894,7 +9894,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of maintain function through concussive/mechanical shock.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0175 — Overdrive Spinal Reinforcement Augmentation
@@ -9905,7 +9905,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of spinal structural load tolerance.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0176 — Overdrive Sprint Speed Augmentation
@@ -9916,7 +9916,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of top ground speed.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0177 — Overdrive Structural Resonance Augmentation
@@ -9927,7 +9927,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of whole-body reinforcement through coherent resonance.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0178 — Overdrive Sustained Run Augmentation
@@ -9938,7 +9938,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of long-duration locomotion efficiency.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0179 — Overdrive Swimming Output Augmentation
@@ -9949,7 +9949,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of water locomotion performance.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0180 — Overdrive Tendon Reinforcement Augmentation
@@ -9960,7 +9960,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of tendon load transfer/tolerance.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0181 — Overdrive Turning Authority Augmentation
@@ -9971,7 +9971,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of maintain traction/control through high-rate turning.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0182 — Overdrive Upper-Body Power Augmentation
@@ -9982,7 +9982,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of upper-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0183 — Overdrive Vestibular Control Augmentation
@@ -9993,7 +9993,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of orientation/acceleration tolerance.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0184 — Overdrive Visual Tracking Augmentation
@@ -10004,7 +10004,7 @@ Primary-domain count: **230**
 **Mechanism:** extreme output at severe basin/fatigue cost of moving-target visual processing.  
 **Required basins:** OPEN — topology-derived only  
 **Prices:** Red 5,400, Orange 8,640, Yellow 15,552, Green 32,659, Blue 81,648, Violet 244,944, White 979,776  
-**White:** Redline Window — briefly exceed normal sustainable output before forced cooldown.  
+**White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
 ## RS-0185 — Persistent Acceleration Augmentation

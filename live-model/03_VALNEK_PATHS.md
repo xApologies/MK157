@@ -504,3 +504,71 @@ Bindings, ranks, competency, equipment, experience and carried-forward credits a
 Kira later bends the credit curve because the Orb blender lawfully breaks ordinary Trial scaling, but large Black prices and discretionary spending prevent her ledger from functioning like a simple XP bar.
 
 This qualification supersedes any earlier suggestion that illi enters with her White Legacy already accessible. Persistent Coherence starts Red; Blue unlocks trajectory access. Earlier Early Orange Absorption labels are provisional scaffold, not locked acquisition dates. Existing individual Prime gates remain unchanged. Full [economy](ECONOMY_PURCHASE_SCHEDULE.md) and [Genesis Cards](GENESIS_CARDS.md) are discoverable current domains.
+
+## Checkpoint 13 coupled progression
+
+## 2. illi White Legacy economic subsidy — LOCK
+White Legacy provides BOTH:
+1. prerequisite/recipe compression already established; and
+2. 45% price deduction on purchases and rank upgrades that belong to the accepted White-Legacy package.
+
+Participant pays 55% of ordinary list price:
+P_legacy = 0.55 * P_list.
+
+Use deterministic whole-credit HALF_UP if a discounted price is fractional.
+
+Persistent Coherence R→Blue is paid at FULL PRICE because illi has not yet qualified/accepted the White Legacy.
+PT-0003 canonical ladder remains:
+700 / 1120 / 2016 / 4234 / 10585; cumulative 18,655.
+After Red is already paid, remaining O→Blue = 17,955.
+
+Blue Persistent Coherence unlocks White Legacy access.
+After acceptance:
+Absorption Shield Red list 10,000 → illi price 5,500.
+
+The 45% deduction applies to the accepted Legacy package, including later ranks and Prime purchases. It does not grant omitted prerequisite Bindings as usable abilities.
+
+## 3. illi White-Legacy package / causal progression — preserve
+Visible developmental package after qualification:
+- Absorption Shield
+- Genesis Beam
+- Genesis Prime Elemental
+- Coherence Prime Elemental
+- Resonance Prime Elemental / Juggernaut
+
+Individual compressed Prime gates remain:
+Genesis Beam GREEN → Genesis Prime RED
+Persistent Coherence GREEN → Coherence Prime RED
+Absorption Shield GREEN → Resonance Prime RED
+
+Prime ordinary Red base remains 10,000. White-Legacy price at Red = 5,500.
+
+## 4. Kira + illi three carry regimes — LOCK narrative/economic model
+Phase I — Armor carries:
+Early partnership is enabled by Armor of the Abyss's exceptional persistence.
+
+Phase II — illi prevention carries/extents the Duo:
+After White-Legacy access, Absorption Shield materially extends Kira's operating window.
+Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit generation.
+This creates a rational incentive for illi to deepen Absorption before racing immediately to every later package node.
+
+Phase III — Kira CARRIES after Orb blender maturation:
+Genesis Orbs arrive late Yellow; acquisition is not mastery.
+One-Orb crude/orbit use develops toward two-Orb patterned control.
+Around mid-Green, mature two-Orb blender is the major economic inversion.
+Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
+Kira's Trial-breaking throughput then accelerates illi's White-Legacy credit generation dramatically.
+
+Canonical mature defensive stack remains:
+Orb exclusion → illi Absorption/prevention → Armor of the Abyss → Kira.
+
+This is a coupled positive feedback system, not generic veteran boosting.
+
+## 5. Trial / Eternal Standing narrative direction
+Historical/Kira final numeric records remain OPEN.
+Wave 96 remains illustrative/noncanonical unless deliberately locked later.
+A historical record around low-40s versus a vastly higher Kira record is a working magnitude concept only, not a numeric canon lock.
+
+Mature blender scenes may include Kira and illi remaining near the Central Basin, conversing/bored while the Orb geometry processes incoming eldris. This is lawful Trial behavior, not cheating or an aggro exploit. Elara's frustration is engineering/comedic frustration at Kira breaking intended scaling while obeying actual rules.
+
+[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and the macro calibration. No exact acquisition date is assigned.

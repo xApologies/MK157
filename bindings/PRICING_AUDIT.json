@@ -1,12 +1,12 @@
 {
-  "checkpoint": "12",
+  "checkpoint": "13",
   "result": "PASS",
   "records": 1016,
   "priced": 1016,
   "counts_by_pricing_class": {
-    "ADVANCED": 309,
+    "ADVANCED": 308,
     "COMMON_SPECIALIZATION": 487,
-    "EXCEPTIONAL": 1,
+    "EXCEPTIONAL": 2,
     "FOUNDATIONAL": 110,
     "POWERFUL": 109
   },
@@ -41,7 +41,7 @@
     },
     {
       "id": "GE-0537",
-      "red_base_cost": 3000,
+      "red_base_cost": 10000,
       "pass": true
     },
     {
@@ -53,7 +53,7 @@
   "null_price_count": 0,
   "arithmetic_checks": "PASS — decimal sequential ROUND_HALF_UP",
   "mirror_equality": "PASS — JSON/JSONL all fields; CSV existing fields and full price fields",
-  "preserved_checks": "PASS — IDs, six domains, basin fields/OPENs, mechanisms, White expressions, statuses, lineage, recipes/gates",
+  "preserved_checks": "PASS — unchanged prices except GE-0537; exact authorized terminology translations only; IDs/mechanisms/basins/lineage/recipes preserved.",
   "suspicious_distributions_for_review": [
     "Generated families often share templates; same semantic geometry/control factors intentionally share prices across elemental names. Review repeated-price clusters when mechanisms gain substantive detail.",
     "Gas record historical status strings still say costs OPEN; pricing_status supersedes costs only, preserving rank-expression/basin OPENs.",

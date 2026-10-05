@@ -6,7 +6,7 @@ PE-001/002/003 ordinary roles and graphs are LOCKED. PE-004–009 roles remain W
 - PE-001: GE-0444 Genesis Orb — White (LOCKED).
 - PE-001: GE-0528 Genesis Shard — White (LOCKED).
 - PE-001: GE-0042 Barrier Plane — White (LOCKED).
-- PE-001: GF-0038 Focused Threat Resolve — White (LOCKED).
+- PE-001: GF-0038 Focused Intercept Resolve — White (LOCKED).
 - PE-001: GF-0044 Conditional Command — White (LOCKED).
 - PE-001: GF-0045 Deep Manifest — White (LOCKED).
 - PE-002: PT-0002 Directed Coherence — White (LOCKED).

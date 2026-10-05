@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
+Authority: 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -75,3 +75,5 @@ Authority: 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on expl
 - [Checkpoint 12 complete pricing](19_CHECKPOINT_12_COMPLETE_PRICING.md) — ordinary acquisition bands, anchors and protected character economics.
 - [Binding prices](../bindings/BINDINGS.json), [summon prices](../summons/SUMMON_PRICING.json), [Prime prices](../summons/PRIME_ELEMENTAL_PRICING.json).
 - [Checkpoint 12 decisions](../provenance/CHECKPOINT_12_PRICING_DECISIONS.csv), [coverage](../provenance/CHECKPOINT_12_COVERAGE_MANIFEST.csv), and [audit](../provenance/CHECKPOINT_12_AUDIT.json).
+
+- [Checkpoint 13](20_CHECKPOINT_13_THREAD_DELTA.md) — pricing/subsidy/carry regimes/Trial macro calibration; [audit](../provenance/CHECKPOINT_13_AUDIT.json), [coverage](../provenance/CHECKPOINT_13_COVERAGE_MANIFEST.csv), [term changes](../provenance/CHECKPOINT_13_TERM_CHANGES.csv).

@@ -2660,7 +2660,7 @@ Ordinary recipe (LOCKED), all prerequisites White, unlocks Prime at Red:
 - GE-0444 — Genesis Orb
 - GE-0528 — Genesis Shard
 - GE-0042 — Barrier Plane
-- GF-0038 — Focused Threat Resolve
+- GF-0038 — Focused Intercept Resolve
 - GF-0044 — Conditional Command
 - GF-0045 — Deep Manifest
 

@@ -172,6 +172,110 @@ Do not silently decide:
 - exact standard card dimensions beyond the working trading-card form factor.
 ## Checkpoint 12 canonical inputs
 
-Current ordinary prices are in the [Binding registry](../bindings/BINDINGS.json), [summon price atlas](../summons/SUMMON_PRICING.json) and [Prime price atlas](../summons/PRIME_ELEMENTAL_PRICING.json). Persistent Coherence B=700 gives R 700, O 1120, Y 2016, G 4234, Blue 10585 under sequential HALF_UP; cumulative R-through-Blue is **18,655**, or **17,955** after Red has been paid. The above Checkpoint 11 B=1000 calculation remains illustrative only. Absorption Shield B=3000 and Genesis Beam B=5000 are resolved. All Primes B=10000; White Legacy access compression does not waive acquisition cost.
+Current ordinary prices are in the [Binding registry](../bindings/BINDINGS.json), [summon price atlas](../summons/SUMMON_PRICING.json) and [Prime price atlas](../summons/PRIME_ELEMENTAL_PRICING.json). Persistent Coherence B=700 gives R 700, O 1120, Y 2016, G 4234, Blue 10585 under sequential HALF_UP; cumulative R-through-Blue is **18,655**, or **17,955** after Red has been paid. The above Checkpoint 11 B=1000 calculation remains illustrative only. Absorption Shield B=10000 and Genesis Beam B=5000 are resolved. All Primes B=10000; White Legacy access compression is separate from the Checkpoint 13 45% package deduction; illi pays 55% after acceptance.
 
 Kira's four post-Armor Black acquisitions remain **61,000 each**. Ordinary registry prices do not substitute for them. Purchase dates, reward/income tables and discretionary prices remain OPEN; this pass does not run the future calendar/ledger simulation. See [Checkpoint 12](19_CHECKPOINT_12_COMPLETE_PRICING.md).
+
+## Checkpoint 13 list prices, Legacy subsidy and Trial target
+
+## 1. Absorption Shield repricing — LOCK
+GE-0537 Absorption Shield:
+Red base B = 10,000 credits.
+Pricing class = Exceptional.
+
+This supersedes Checkpoint 12's B=3,000 anchor for GE-0537 only.
+Recompute its ordinary R→W ladder using sequential ROUND_HALF_UP:
+R 10,000
+O 16,000
+Y 28,800
+G 60,480
+B 151,200
+V 453,600
+W 1,814,400
+cumulative 2,534,480.
+
+Rationale: high-rank Absorption is defining combat-helkir prevention architecture. Preventing catastrophic injury can dominate repairing it after the fact.
+
+## 2. illi White Legacy economic subsidy — LOCK
+White Legacy provides BOTH:
+1. prerequisite/recipe compression already established; and
+2. 45% price deduction on purchases and rank upgrades that belong to the accepted White-Legacy package.
+
+Participant pays 55% of ordinary list price:
+P_legacy = 0.55 * P_list.
+
+Use deterministic whole-credit HALF_UP if a discounted price is fractional.
+
+Persistent Coherence R→Blue is paid at FULL PRICE because illi has not yet qualified/accepted the White Legacy.
+PT-0003 canonical ladder remains:
+700 / 1120 / 2016 / 4234 / 10585; cumulative 18,655.
+After Red is already paid, remaining O→Blue = 17,955.
+
+Blue Persistent Coherence unlocks White Legacy access.
+After acceptance:
+Absorption Shield Red list 10,000 → illi price 5,500.
+
+The 45% deduction applies to the accepted Legacy package, including later ranks and Prime purchases. It does not grant omitted prerequisite Bindings as usable abilities.
+
+## 3. illi White-Legacy package / causal progression — preserve
+Visible developmental package after qualification:
+- Absorption Shield
+- Genesis Beam
+- Genesis Prime Elemental
+- Coherence Prime Elemental
+- Resonance Prime Elemental / Juggernaut
+
+Individual compressed Prime gates remain:
+Genesis Beam GREEN → Genesis Prime RED
+Persistent Coherence GREEN → Coherence Prime RED
+Absorption Shield GREEN → Resonance Prime RED
+
+Prime ordinary Red base remains 10,000. White-Legacy price at Red = 5,500.
+
+## 4. Kira + illi three carry regimes — LOCK narrative/economic model
+Phase I — Armor carries:
+Early partnership is enabled by Armor of the Abyss's exceptional persistence.
+
+Phase II — illi prevention carries/extents the Duo:
+After White-Legacy access, Absorption Shield materially extends Kira's operating window.
+Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit generation.
+This creates a rational incentive for illi to deepen Absorption before racing immediately to every later package node.
+
+Phase III — Kira CARRIES after Orb blender maturation:
+Genesis Orbs arrive late Yellow; acquisition is not mastery.
+One-Orb crude/orbit use develops toward two-Orb patterned control.
+Around mid-Green, mature two-Orb blender is the major economic inversion.
+Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
+Kira's Trial-breaking throughput then accelerates illi's White-Legacy credit generation dramatically.
+
+Canonical mature defensive stack remains:
+Orb exclusion → illi Absorption/prevention → Armor of the Abyss → Kira.
+
+This is a coupled positive feedback system, not generic veteran boosting.
+
+## 6. Trial credit macro-calibration — LOCK TARGET, ROW TABLE STILL OPEN
+Do NOT integrate the rejected earlier high-output Trial-credit table.
+
+Economic target:
+An ordinary W1→W35 clear is approximately 156 hours = 5 planetary days + 1 hour.
+For author-economic calibration, target a complete W1→W35 run at approximately 55,000 credits total.
+
+If a veteran unrealistically dedicates one such deep run per Valnak week for all 49 weeks:
+55,000 × 49 = 2,695,000 credits.
+
+A top-tier B=10,000 Binding's White rank alone costs 1,814,400.
+Thus obsessive Trial-only farming across an entire deployment funds ~1.49 such White-rank purchases, before other spending.
+
+Design intent:
+- early waves should pay useful but modest credits;
+- escalation must be shallow relative to Binding rank-cost escalation;
+- White mastery remains a career/multi-cycle capital project;
+- a veteran may have broad lower/mid-rank architecture yet only a few White Bindings after many cycles;
+- Legacies matter because discounts/prerequisite compression materially alter lifetime economics;
+- credits remain finite and compete with Auctions/equipment/materials/cards/leisure/etc.
+
+Exact per-wave W1–35 values remain OPEN for the next explicit table-design pass.
+Do NOT invent them during this integration.
+W35+ credit cap/value also remains OPEN until that table is approved.
+
+Discount each ordinary list purchase/upgrade independently using whole-credit HALF_UP; do not recursively discount already discounted prior ranks. Prequalification Persistent Coherence through Blue remains full price. Membership of any additional Legacy package architecture remains OPEN; no discretionary shopping discount is inferred.

@@ -6,7 +6,7 @@ This constitution governs cross-thread MK157 development. Its purpose is continu
 ## Authority
 1. Git is the persistent cross-thread source of truth.
 2. At a new thread start, crawl the MK157 repository before reconstructing established systems from memory.
-3. Current authority is Checkpoint 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+3. Current authority is Checkpoint 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 4. Provenance/historical files are not current canon merely because they remain in Git.
 5. Never silently revive superseded material.
 6. OPEN means OPEN. Distinguish LOCKED / WORKING / ALPHA / OPEN / SUPERSEDED.
@@ -202,3 +202,5 @@ Checkpoint 11 governs acquisition economy, Blue Persistent Coherence White Legac
 ## Checkpoint 12 pricing grammar
 
 Ordinary acquisition price is semantic friction, never basin color, domain rank, elemental identity or an ID-sequence formula. Five bands and author anchors follow [pricing policy](bindings/PRICING_MODEL.md). Rank transitions use positive-credit decimal ROUND_HALF_UP sequentially. Ordinary summons are below 10000; all nine Primes have B=10000. Pricing LOCKED does not promote ALPHA mechanisms/recipes or resolve basin topology. Kira's Black 61000 acquisition gates remain separate; White Legacy access compression does not implicitly grant a price subsidy.
+
+Checkpoint 13 requires physical/biological/informational/Genesis mechanisms for all Binding behavior; no aggro/threat statistic, taunt or invisible hate table. The accepted White Legacy package receives 45% deduction/pay55%, independently HALF_UP per ordinary list price, separate from prerequisite compression. Prequalification Persistent Coherence is full-price. Trial macro calibration is not a row-level reward law.
