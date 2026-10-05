@@ -629,30 +629,9 @@ A historical record around low-40s versus a vastly higher Kira record is a worki
 
 Mature blender scenes may include Kira and illi remaining near the Central Basin, conversing/bored while the Orb geometry processes incoming eldris. This is lawful Trial behavior, not cheating or an aggro exploit. Elara's frustration is engineering/comedic frustration at Kira breaking intended scaling while obeying actual rules.
 
-## 6. Trial credit macro-calibration — LOCK TARGET, ROW TABLE STILL OPEN
-Do NOT integrate the rejected earlier high-output Trial-credit table.
+## Exact Trial reward schedule
 
-Economic target:
-An ordinary W1→W35 clear is approximately 156 hours = 5 planetary days + 1 hour.
-For author-economic calibration, target a complete W1→W35 run at approximately 55,000 credits total.
-
-If a veteran unrealistically dedicates one such deep run per Valnak week for all 49 weeks:
-55,000 × 49 = 2,695,000 credits.
-
-A top-tier B=10,000 Binding's White rank alone costs 1,814,400.
-Thus obsessive Trial-only farming across an entire deployment funds ~1.49 such White-rank purchases, before other spending.
-
-Design intent:
-- early waves should pay useful but modest credits;
-- escalation must be shallow relative to Binding rank-cost escalation;
-- White mastery remains a career/multi-cycle capital project;
-- a veteran may have broad lower/mid-rank architecture yet only a few White Bindings after many cycles;
-- Legacies matter because discounts/prerequisite compression materially alter lifetime economics;
-- credits remain finite and compete with Auctions/equipment/materials/cards/leisure/etc.
-
-Exact per-wave W1–35 values remain OPEN for the next explicit table-design pass.
-Do NOT invent them during this integration.
-W35+ credit cap/value also remains OPEN until that table is approved.
+Checkpoint 14 now locks the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 53,910 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 is a rounded target; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
 
 ## 7. Mechanics-language sanitation — LOCK
 MK157 must not contain game-only mechanics that lack an in-world mechanism.

@@ -1,41 +1,12 @@
 # MK157 — Economy and purchase-schedule handoff
 
-Current authority: Checkpoint 11. Exact purchase dates remain OPEN; this document defines inputs for future simulation.
+Current authority: Checkpoint 14, cumulative with earlier non-conflicting rules. The supplied 17 illi milestones and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
-## 3. Kira Black acquisition economy
+## Kira Black acquisition economics — current
 
-Kira's foundational Black sequence remains:
-Armor of the Abyss -> CSR -> Genesis Orbs -> Halo -> Domain.
+Armor of the Abyss remains the approximately 1,000-credit anomalous starter. CSR → Genesis Orbs → Halo → Domain follow in that order, with all four final acquisition prices OPEN for recalibration. Checkpoint 14 supersedes the former flat-price lock and derived totals; no replacement numbers are assigned.
 
-Armor remains the anomalous starter-pricing event at approximately **1,000 credits** because Valnak/Elara did not yet know how to price Black.
-
-After Armor, Elara corrects the pricing environment.
-
-LOCK:
-Each of Kira's four remaining foundational Black acquisitions costs:
-
-**61,000 credits**
-
-- CSR — 61,000
-- Genesis Orbs — 61,000
-- Halo — 61,000
-- Domain — 61,000
-
-Total post-Armor foundational Black cost:
-**244,000 credits**
-
-Approximate total including the anomalous Armor:
-**245,000 credits**
-
-61 is intentionally prime-derived.
-
-These are acquisition prices/gates for Kira's Black foundations, NOT ordinary R->W rank prices. Kira's Black architecture develops primarily through acquisition + competency/discovery/integration.
-
-The high price is intentional:
-- Kira can farm Solo independently of illi;
-- later Black architecture makes her an exceptional credit generator;
-- Elara is not giving later Black foundations away;
-- purchases create meaningful multi-week objectives.
+Availability/admissibility, affordability, and competency/discovery/integration after acquisition are separate. Black foundations do not use ordinary paid rank ladders. Ordinary registry prices cannot supply replacement character-specific prices. See [Checkpoint 14](21_CHECKPOINT_14_FULL_RECONCILIATION.md).
 
 ## 4. illi Red-season economic objective / White Legacy gate
 
@@ -68,13 +39,13 @@ Author shorthand: roughly 27k / just under 30k.
 NEW LOCK:
 **Persistent Coherence must reach BLUE for illi to qualify for/access her White Legacy trajectory.**
 
-This gives Red season a concrete illi objective:
+This gives Red season a concrete illi objective, completed in early Orange:
 rank Persistent Coherence R -> O -> Y -> G -> B.
 
 Once Blue Persistent Coherence is achieved, the White Legacy becomes available and can prescribe/enable the next major acquisition:
 **Absorption Shield**.
 
-The exact calendar day on which Blue is purchased and Absorption is acquired will be solved in the next thread from actual credit accumulation. Do not silently retain an older arbitrary Orange W1 D4 acquisition date if the economic simulation moves it.
+Checkpoint 14 locks Blue Persistent Coherence and White Legacy acceptance at Orange W1 D4, then Absorption Shield Red at Orange W2 D3. These supplied milestones constrain the future ledger; the older arbitrary Orange W1 D4 Absorption date remains superseded.
 
 Existing later White-Legacy gates remain:
 - Genesis Beam GREEN -> Genesis Prime RED available
@@ -127,7 +98,7 @@ Valnak can reproduce certain rare real-world materials/items for deliberately li
 
 ## 12. Next-thread development target
 
-The next MK157 thread should crawl Git after Checkpoint 11 and continue with the **Valnak Calendar / purchase schedule simulation**.
+Further development should crawl current Git and continue the **Valnak Calendar / purchase schedule simulation**, treating the supplied Checkpoint 14 milestones as author constraints.
 
 Primary task:
 map Kira + illi across:
@@ -152,9 +123,9 @@ Track:
 - story/arc purpose.
 
 Immediate economic goals:
-- Kira accumulates toward each 61,000-credit Black acquisition.
-- illi accumulates/ranks Persistent Coherence to Blue to unlock White Legacy access.
-- solve actual acquisition dates from credit income rather than arbitrary calendar placement.
+- Recalibrate Kira's four post-Armor Black prices; ordinary registry prices do not substitute for them.
+- Model illi's supplied milestone dates, including Blue Persistent Coherence qualification and White Legacy acceptance.
+- Solve the remaining income, spending and purchase schedule without inventing post-Violet-W2 rank dates.
 
 ## 13. Protected OPEN items
 
@@ -164,17 +135,15 @@ Do not silently decide:
 - exact Auction item prices;
 - exact Kira discretionary purchases;
 - exact illi discretionary purchases;
-- exact Red-season credit income until Trial/Dungeon reward tables are solved;
-- exact day illi reaches Blue Persistent Coherence;
-- exact day Absorption Shield is acquired;
+- exact Red-season credit income until actual runs and other income are modeled;
+- illi rank dates after the supplied Violet W2 D2 milestone;
 - exact day Kira buys CSR;
-- exact credit cost of Absorption Shield unless already grounded elsewhere;
 - exact standard card dimensions beyond the working trading-card form factor.
 ## Checkpoint 12 canonical inputs
 
 Current ordinary prices are in the [Binding registry](../bindings/BINDINGS.json), [summon price atlas](../summons/SUMMON_PRICING.json) and [Prime price atlas](../summons/PRIME_ELEMENTAL_PRICING.json). Persistent Coherence B=700 gives R 700, O 1120, Y 2016, G 4234, Blue 10585 under sequential HALF_UP; cumulative R-through-Blue is **18,655**, or **17,955** after Red has been paid. The above Checkpoint 11 B=1000 calculation remains illustrative only. Absorption Shield B=10000 and Genesis Beam B=5000 are resolved. All Primes B=10000; White Legacy access compression is separate from the Checkpoint 13 45% package deduction; illi pays 55% after acceptance.
 
-Kira's four post-Armor Black acquisitions remain **61,000 each**. Ordinary registry prices do not substitute for them. Purchase dates, reward/income tables and discretionary prices remain OPEN; this pass does not run the future calendar/ledger simulation. See [Checkpoint 12](19_CHECKPOINT_12_COMPLETE_PRICING.md).
+Kira's CSR/Genesis Orbs/Halo/Domain final prices are OPEN for recalibration under Checkpoint 14. The old flat-price claim is SUPERSEDED; Armor remains approximately 1,000. Ordinary list prices and all unrelated canon remain governed by their existing rules.
 
 ## Checkpoint 13 list prices, Legacy subsidy and Trial target
 
@@ -217,6 +186,8 @@ Absorption Shield Red list 10,000 → illi price 5,500.
 
 The 45% deduction applies to the accepted Legacy package, including later ranks and Prime purchases. It does not grant omitted prerequisite Bindings as usable abilities.
 
+Discount each ordinary list purchase/upgrade independently using whole-credit HALF_UP; do not recursively discount already discounted prior ranks. Prequalification Persistent Coherence through Blue remains full price. Membership of any additional Legacy package architecture remains OPEN; no discretionary shopping discount is inferred.
+
 ## 3. illi White-Legacy package / causal progression — preserve
 Visible developmental package after qualification:
 - Absorption Shield
@@ -239,7 +210,7 @@ Early partnership is enabled by Armor of the Abyss's exceptional persistence.
 Phase II — illi prevention carries/extents the Duo:
 After White-Legacy access, Absorption Shield materially extends Kira's operating window.
 Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit generation.
-This creates a rational incentive for illi to deepen Absorption before racing immediately to every later package node.
+Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
 Genesis Orbs arrive late Yellow; acquisition is not mastery.
@@ -253,29 +224,17 @@ Orb exclusion → illi Absorption/prevention → Armor of the Abyss → Kira.
 
 This is a coupled positive feedback system, not generic veteran boosting.
 
-## 6. Trial credit macro-calibration — LOCK TARGET, ROW TABLE STILL OPEN
-Do NOT integrate the rejected earlier high-output Trial-credit table.
+## Exact Trial reward schedule
 
-Economic target:
-An ordinary W1→W35 clear is approximately 156 hours = 5 planetary days + 1 hour.
-For author-economic calibration, target a complete W1→W35 run at approximately 55,000 credits total.
+Checkpoint 14 now locks the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 53,910 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 is a rounded target; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
 
-If a veteran unrealistically dedicates one such deep run per Valnak week for all 49 weeks:
-55,000 × 49 = 2,695,000 credits.
 
-A top-tier B=10,000 Binding's White rank alone costs 1,814,400.
-Thus obsessive Trial-only farming across an entire deployment funds ~1.49 such White-rank purchases, before other spending.
+## Commodity economy — LOCK doctrine; prices mostly OPEN
+Credits are not XP. Non-Binding sinks intentionally compete with progression.
+Veterans with mature builds may value collectibles/equipment/leisure over marginal power.
+Genesis Cards range from accessible thousands to rare/cycle-exclusive million-credit commodities based on scarcity/provenance/demand/edition/manifold/artistry; no universal color-price formula.
+raeon specialty/cycle cards can also become expensive.
+Auction is a top-end sink for rare equipment, Creator originals, materials, cards, Dimensional Rings and one-offs.
+Illustrative White Fireball 1.3M/3M, Dimensional Ring 2M, and Valnak-made princess tiara are examples only unless later locked.
 
-Design intent:
-- early waves should pay useful but modest credits;
-- escalation must be shallow relative to Binding rank-cost escalation;
-- White mastery remains a career/multi-cycle capital project;
-- a veteran may have broad lower/mid-rank architecture yet only a few White Bindings after many cycles;
-- Legacies matter because discounts/prerequisite compression materially alter lifetime economics;
-- credits remain finite and compete with Auctions/equipment/materials/cards/leisure/etc.
-
-Exact per-wave W1–35 values remain OPEN for the next explicit table-design pass.
-Do NOT invent them during this integration.
-W35+ credit cap/value also remains OPEN until that table is approved.
-
-Discount each ordinary list purchase/upgrade independently using whole-credit HALF_UP; do not recursively discount already discounted prior ranks. Prequalification Persistent Coherence through Blue remains full price. Membership of any additional Legacy package architecture remains OPEN; no discretionary shopping discount is inferred.
+[illi progression](ILLI_PROGRESSION.md) provides 17 dated author milestones; post-Violet-W2 rank dates remain OPEN. [Partnership/economy](PARTNERSHIP_AND_CARRY.md) preserves independent schedules, discretionary spending and Project Princess Carry. These are story constraints, not a fabricated income simulation.

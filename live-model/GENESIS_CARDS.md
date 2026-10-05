@@ -1,6 +1,6 @@
 # MK157 — Genesis Cards and physical card cultures
 
-Current authority: Checkpoint 11. No new Binding records or universal basin mappings are assigned.
+Current authority: Checkpoint 14 commodity doctrine, retaining Checkpoint 11 card semantics. No new Binding records or universal basin mappings are assigned.
 
 ## 7. Two distinct card ecosystems
 
@@ -99,3 +99,11 @@ FIREWALL:
 **`raeon` card color = game classification/rarity.**
 
 Do not merge these semantics.
+
+## Commodity economy — LOCK doctrine; prices mostly OPEN
+Credits are not XP. Non-Binding sinks intentionally compete with progression.
+Veterans with mature builds may value collectibles/equipment/leisure over marginal power.
+Genesis Cards range from accessible thousands to rare/cycle-exclusive million-credit commodities based on scarcity/provenance/demand/edition/manifold/artistry; no universal color-price formula.
+raeon specialty/cycle cards can also become expensive.
+Auction is a top-end sink for rare equipment, Creator originals, materials, cards, Dimensional Rings and one-offs.
+Illustrative White Fireball 1.3M/3M, Dimensional Ring 2M, and Valnak-made princess tiara are examples only unless later locked.

@@ -1,0 +1,16 @@
+{
+  "name": "MK157_FULL_LIVE_MODEL_RECONCILIATION",
+  "trial_rows": 35,
+  "trial_total": 53910,
+  "illi_skeleton_events": 17,
+  "checklist_items": 20,
+  "purpose": "Make current Git equivalent to live author decisions with explicit status accounting",
+  "protected_open": [
+    "W36+ payout",
+    "final standings",
+    "post-Violet illi rank dates",
+    "replacement Kira Black prices",
+    "exact commodity prices",
+    "literal Orb velocity"
+  ]
+}

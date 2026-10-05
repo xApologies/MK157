@@ -1,6 +1,6 @@
 # OPEN ledger
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -68,7 +68,7 @@ The supplied month sequence 33/32/31/33/31/32/33/32/31/33/32 totals **353**, not
 
 W96 remains NONCANON. W35 maximum-pressure saturation and Kira's ~4-day W1–35 estimate remain WORKING.
 
-## Checkpoint 11 current unresolved decisions
+## Current unresolved decisions, carried forward from Checkpoint 11
 
 ## 13. Protected OPEN items
 
@@ -78,17 +78,20 @@ Do not silently decide:
 - exact Auction item prices;
 - exact Kira discretionary purchases;
 - exact illi discretionary purchases;
-- exact Red-season credit income until Trial/Dungeon reward tables are solved;
-- exact day illi reaches Blue Persistent Coherence;
-- exact day Absorption Shield is acquired;
+- exact Red-season credit income until actual runs and other income are modeled;
+- illi rank dates after the supplied Violet W2 D2 milestone;
 - exact day Kira buys CSR;
-- exact credit cost of Absorption Shield unless already grounded elsewhere;
 - exact standard card dimensions beyond the working trading-card form factor.
 
-Resolved by Checkpoint 11: Black acquisition gates, Blue Persistent Coherence entry qualification, Valnak seven-day weeks, 25:00 highlights and standing championship/Auction/postseason placement. Older OPEN entries for these are superseded. Planetary month reconciliation remains OPEN; team names, detailed match schedule, credit income and purchase dates remain OPEN.
+Resolved by Checkpoint 11: Blue Persistent Coherence entry qualification, Valnak seven-day weeks, 25:00 highlights and standing championship/Auction/postseason placement. Older OPEN entries for these are superseded. Checkpoint 14 reopens the four post-Armor Black prices. Planetary month reconciliation, team names, detailed match schedules, actual credit income and purchase dates outside the supplied illi milestones remain OPEN.
 
 ## Checkpoint 12 limited pricing resolution
 
 Red base costs, ordinary semantic acquisition bands, deterministic HALF_UP ladders, five exact anchors and all nine Prime 10000 prices are resolved. This supersedes earlier base-pricing-convention/gas-cost OPENs. It does not resolve topology-derived basin requirements, mechanism/White development, ALPHA/WORKING recipe selection, purchase dates, credit-income/reward tables, discretionary item/card prices or planetary month arithmetic. Preserved source status strings may retain historical cost-OPEN text; pricing_status governs only prices.
 
-Checkpoint 13 locks Absorption B=10000 and the 45% deduction/pay-55% White-Legacy package subsidy. Exact W1–35 reward rows, W35+ payout/cap, final records (including low-40s historical examples and W96), and acquisition dates remain OPEN. The ~55000 run target is a macro constraint only; rejected unintegrated high-output credit tables are quarantined, not imported. No 35-row table is created.
+Checkpoint 13 locks Absorption B=10000 and the 45% deduction/pay-55% White-Legacy package subsidy. Its ~55000 run target was only a macro constraint; Checkpoint 14 now resolves the exact W1–35 rows and supplied illi milestone dates. Rejected high-output credit tables remain quarantined. W36+ payouts, final records and all unsupplied acquisition dates remain OPEN; W96 remains NONCANON.
+
+## Checkpoint 14 current resolution and reopenings
+
+Exact W1–35 rows are LOCKED at cumulative 53910; W36+ remains OPEN. Seventeen illi milestones through Violet W2 D2 are LOCKED; later rank dates remain OPEN. Coherence Prime late Green and Resonance Prime early Violet supersede Early Blue/White windows. CSR/Orbs/Halo/Domain final acquisition prices are reopened with no replacements. Armor ~1000 remains.
+Final standings, W96/low-40s examples, illi final Solo wave/rank, literal Orb velocity/energy and exact commodity prices remain OPEN or illustrative. Earlier OPEN entries for the supplied reward rows/milestones are superseded only to this extent. Planetary month reconciliation and other unrelated OPENs remain.

@@ -1,6 +1,6 @@
-# Prime Elementals — Checkpoint 08
+# Prime Elementals
 
-Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Ordinary manifestations are preserved; these are additions.
+Current authority follows [INDEX](INDEX.md). The Checkpoint 08 taxonomy and gates remain; later checkpoints govern pricing and illi's chosen purchase dates. Ordinary manifestations are preserved.
 
 ## 12. Prime Elementals
 Prime Elementals are a genuine pinnacle Summoner taxonomy, not protagonist-only summons. Existing 180 ordinary elemental manifestations remain intact.
@@ -39,4 +39,6 @@ Recipes PE-004..PE-009 remain TO BE GENERATED from the actual existing Binding a
 
 ## Integrated graphs
 
-[Recipe graph](../summons/PRIME_ELEMENTAL_RECIPES.md) grounds PE-004–009 candidates in existing atlas IDs. These are ALPHA/WORKING, not newly locked recipes. [illi gates](../summons/ILLI_WHITE_LEGACY_GATES.json) sandbox omitted prerequisites. New gas concepts GE-0598 and GE-0599 have OPEN costs, rank expressions and basins; no deterministic cost convention was found.
+[Recipe graph](../summons/PRIME_ELEMENTAL_RECIPES.md) grounds PE-004–009 candidates in existing atlas IDs. These are ALPHA/WORKING, not newly locked recipes. [illi gates](../summons/ILLI_WHITE_LEGACY_GATES.json) sandbox omitted prerequisites. Gas concepts GE-0598 and GE-0599 retain OPEN rank expressions and basins; their former cost OPEN is superseded by the ordinary [pricing policy](../bindings/PRICING_MODEL.md).
+
+All nine Prime list bases remain B=10,000. Accepted White-Legacy package purchases/ranks pay 55% of each ordinary list price under HALF_UP; prerequisite compression is separate. The current [illi schedule](ILLI_PROGRESSION.md) places Genesis Prime at Yellow W6 D3, Coherence Prime at Green W6 D2 and Resonance Prime at Violet W2 D2 after their required Green prerequisites. Later Prime deepening is the direction; post-Violet-W2 dates remain OPEN.

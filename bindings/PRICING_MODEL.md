@@ -112,10 +112,8 @@ Prefer prices in 50- or 100-credit increments. Avoid fake precision.
 - Preserve all IDs, recipes, White expressions, statuses, and gates.
 - Kira's Black economics remain separate:
   Armor ~1,000 anomalous starter;
-  CSR 61,000;
-  Genesis Orbs 61,000;
-  Halo 61,000;
-  Domain 61,000.
+  CSR, Genesis Orbs, Halo and Domain prices OPEN (recalibration).
+  Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
   Ordinary registry prices must NOT overwrite these character-specific Black acquisition gates.
 
 ## Required registry fields
@@ -157,4 +155,4 @@ Summon scale starts at Tiny 500, Small 1100, Medium 1700, Large 2400, Huge 4000,
 Matched summon-Binding names share price decisions; unmatched manifestations use their explicit role and distributed coordination. Ordinary CSR has its own operational registry price and does not overwrite Kira's Black acquisition gate.
 
 ROUND_HALF_UP applies sequentially at every positive-credit transition using decimal arithmetic; the next rank uses the rounded preceding rank. Pricing LOCKED status does not promote an ALPHA mechanism, recipe or topology to canon. Existing status/source strings are preserved even if historical wording mentions OPEN costs; pricing_status and this policy supersede only that price claim.
-Checkpoint 13 supersedes only GE-0537 to B=10000, Exceptional, cumulative R–W 2534480. The 45% accepted White-Legacy package deduction is character-specific (pay 55%, HALF_UP independently per list item/rank); ordinary registry prices remain list prices. Prequalification Persistent Coherence is full-price. Kira Black gates remain 61000 each.
+Checkpoint 13 supersedes only GE-0537 to B=10000, Exceptional, cumulative R–W 2534480. The 45% accepted White-Legacy package deduction is character-specific (pay 55%, HALF_UP independently per list item/rank); ordinary registry prices remain list prices. Prequalification Persistent Coherence is full-price. Kira Black gates are OPEN for recalibration. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.

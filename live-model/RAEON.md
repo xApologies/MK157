@@ -210,3 +210,5 @@ FIREWALL:
 Do not merge these semantics.
 
 [Genesis Cards](GENESIS_CARDS.md) are a separate collectible culture. Seasonal raeon championship is W7 D5; late bracket/semifinals occupy W7 D1–D4. Bracket size and individual card prices remain OPEN.
+
+Checkpoint 14: veteran discretionary economics include expensive specialty/cycle cards alongside Genesis Cards, equipment and leisure. Exact individual prices remain OPEN. Collecting and games are legitimate relationship/personality activity even when they delay an affordable progression purchase. See [partnership/economy](PARTNERSHIP_AND_CARRY.md).

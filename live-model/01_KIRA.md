@@ -397,42 +397,13 @@ Other participants use the fixed geography strategically.
 
 ## Checkpoint 11 acquisition economy
 
-## 3. Kira Black acquisition economy
+## Kira Black acquisition economics — current
 
-Kira's foundational Black sequence remains:
-Armor of the Abyss -> CSR -> Genesis Orbs -> Halo -> Domain.
+Armor of the Abyss remains the approximately 1,000-credit anomalous starter. CSR → Genesis Orbs → Halo → Domain remain the other four foundations. Their final acquisition prices are **OPEN / recalibration**. The former flat 61,000 each and derived 244,000/245,000 totals are historical, superseded final-price claims. No replacement values are assigned.
 
-Armor remains the anomalous starter-pricing event at approximately **1,000 credits** because Valnak/Elara did not yet know how to price Black.
+Armor's anomaly arose because Valnak/Elara did not yet know how to price Black. Later acquisitions remain meaningful economic objectives: Kira can farm Solo independently, and her later architecture makes her an exceptional credit generator; Elara is not giving the other foundations away.
 
-After Armor, Elara corrects the pricing environment.
-
-LOCK:
-Each of Kira's four remaining foundational Black acquisitions costs:
-
-**61,000 credits**
-
-- CSR — 61,000
-- Genesis Orbs — 61,000
-- Halo — 61,000
-- Domain — 61,000
-
-Total post-Armor foundational Black cost:
-**244,000 credits**
-
-Approximate total including the anomalous Armor:
-**245,000 credits**
-
-61 is intentionally prime-derived.
-
-These are acquisition prices/gates for Kira's Black foundations, NOT ordinary R->W rank prices. Kira's Black architecture develops primarily through acquisition + competency/discovery/integration.
-
-The high price is intentional:
-- Kira can farm Solo independently of illi;
-- later Black architecture makes her an exceptional credit generator;
-- Elara is not giving later Black foundations away;
-- purchases create meaningful multi-week objectives.
-
-Earlier seasonal scaffold describes developmental order, not exact purchase dates. Solve dates from [credit ledgers and calendar simulation](ECONOMY_PURCHASE_SCHEDULE.md).
+Availability/admissibility, affordability, and competency/discovery/integration after acquisition are separate. Black foundations do not use ordinary paid rank ladders. Ordinary registry prices cannot supply replacement character-specific prices. See [Checkpoint 14](21_CHECKPOINT_14_FULL_RECONCILIATION.md).
 
 ## Checkpoint 13 coupled progression
 
@@ -479,7 +450,7 @@ Early partnership is enabled by Armor of the Abyss's exceptional persistence.
 Phase II — illi prevention carries/extents the Duo:
 After White-Legacy access, Absorption Shield materially extends Kira's operating window.
 Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit generation.
-This creates a rational incentive for illi to deepen Absorption before racing immediately to every later package node.
+Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
 Genesis Orbs arrive late Yellow; acquisition is not mastery.
@@ -500,4 +471,6 @@ A historical record around low-40s versus a vastly higher Kira record is a worki
 
 Mature blender scenes may include Kira and illi remaining near the Central Basin, conversing/bored while the Orb geometry processes incoming eldris. This is lawful Trial behavior, not cheating or an aggro exploit. Elara's frustration is engineering/comedic frustration at Kira breaking intended scaling while obeying actual rules.
 
-[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and the macro calibration. No exact acquisition date is assigned.
+[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN.
+
+Current Checkpoint 14 behavior: meaningful free time without overriding recovery, training or social plans commonly becomes Solo Trials. Kira stays primarily with illi/friends after early Green graduation. Project Princess Carry becomes late-cycle Trial-heavy while illi retains independent choices. The public understands Armor/CSR much better than post-Orb architecture; highlights may show the pair apparently idle at the center. Literal Orb velocity/energy stays OPEN. Full current [partnership](PARTNERSHIP_AND_CARRY.md) and [illi schedule](ILLI_PROGRESSION.md).

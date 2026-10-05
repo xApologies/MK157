@@ -1,6 +1,6 @@
 # Authority and supersessions
 
-Checkpoint 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ Exact final record waves, Elara-through-Orb identity semantics, indefinite two/t
 
 ## 07B final gap patch — authority remains Checkpoint 07
 
-Older Checkpoint 03 Signature first Binding absorption wording is superseded by Persistent Coherence first, Absorption Shield second / White-Legacy access, Genesis Beam before Directed Coherence, then later compact Coherence Field / Elementalist-Summoner development. White Legacy is curated opportunity with ordering choices, not an automatic collection of White-ranked Bindings. Exact seasonal dates and final ranks remain OPEN. The three-form Coherence lock remains unchanged.
+Older Checkpoint 03 Signature first Binding absorption wording is superseded by Persistent Coherence first, Absorption Shield second / White-Legacy access, Genesis Beam before Directed Coherence, then later compact Coherence Field / Elementalist-Summoner development. White Legacy is curated opportunity with ordering choices, not an automatic collection of White-ranked Bindings. Checkpoint 14 now supplies 17 illi milestones; later rank dates remain OPEN. The three-form Coherence lock remains unchanged.
 
 [Thread development constitution](../THREAD_DEVELOPMENT_CONSTITUTION.md) records continuity, source authority, canon locks and new-thread repository-crawl rules. This is a same-checkpoint 07B normalization patch, not a new conceptual checkpoint.
 
@@ -67,7 +67,7 @@ Older Checkpoint 03 Signature first Binding absorption wording is superseded by 
 
 ## Checkpoint 09 governing continuation
 
-Checkpoint 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+Checkpoint 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 Lowercase `eldris` supersedes Checkpoint 08 uppercase typography. `raeon`, `domai`, `vaen`, `maege`, `maegi` are lowercase; spelling-by-letter capitals are transcription artifacts.
 The current carriage supersedes historical Open Blank transport. Schedule PDFs supply methodology only. MK157 explicit canon governs approved upstream inheritance. Outside persistent Dungeons are distinct from Valnak procedural training; outside `domai` unravel progressively after core break, while Valnak incursions terminate as completed encounters.
 Checkpoint 08 Green Solo graduation and Black/White progression remain. No new registry records are requested. The exact Checkpoint 09 master retains its original pending-integration header and quoted uppercase transcription example; current status is integrated and its authority is active.
@@ -75,7 +75,7 @@ See [full master](16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md), [source boundar
 
 ## Checkpoint 10 Trial/calendar delta
 
-Checkpoint 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
+Checkpoint 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
 
 Wave totals describe delivered population, not simultaneous population. Solo/Duo/Trio share fixed 3×3-mile geography; Dungeon realization remains procedural. W35 pressure saturation is WORKING; post-W35 total population, numeric caps and exact spawn laws remain OPEN. W96 is noncanonical.
 
@@ -83,7 +83,7 @@ Calendar conflict: supplied months sum to 353 rather than 360; 360 days/60 weeks
 
 ## Checkpoint 11 governing delta
 
-13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations cost 61,000 credits each, total 244,000. These acquisition gates supersede any differing earlier price estimates, not ordinary rank pricing. Armor remains the ~1,000-credit anomalous starter.
+14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations have OPEN final prices and total. Their former flat prices are historical; ordinary registry rank pricing remains separate. Armor remains the ~1,000-credit anomalous starter. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
 illi's Persistent Coherence BLUE is required for White Legacy entry. This supersedes immediate-entry access and arbitrary Absorption acquisition dates; individual Prime GREEN-to-RED gates remain unchanged. The 26,648 cumulative example is illustrative B=1,000, not a new registry price assignment.
 Valnak weeks have seven days (343 days/deployment). Planetary month-total conflict remains OPEN. Daily highlights at 25:00, raeon W7 D5 final, W7 D5–D7 Auctions and White-season Prism playoff placement supersede older timing OPENs. Fine match schedules remain OPEN.
 Genesis Cards are active inherited collectibles, not Binding grants/casts. Their colors express actual manifold basins; raeon colors express game classification/rarity. Both share transparent durable maege glass. No universal color/element mapping follows from illustrative card examples.
@@ -92,7 +92,9 @@ Exact Checkpoint 11 master retains its original PENDING header as source fidelit
 ## Checkpoint 12 complete pricing
 
 Checkpoint 12 replaces pre-convention numeric scaffolding and gas base-cost OPENs with semantic Red acquisition prices for all 1016 Bindings and 229 summons. Five author anchors and uniform Prime 10000 override classifier output. Deterministic ROUND_HALF_UP at every transition supersedes older rounding scaffolding. All non-price fields, recipes, basin OPENs, White expressions, statuses and source lineage remain.
-illi's B=1000 example is historical illustration; actual Persistent Coherence B=700 cumulative through Blue is 18655. Blue entry qualification and individual Prime gates remain. White Legacy access does not waive Prime acquisition. Kira's Black 61000 gates and Checkpoint 11 calendar/card rules remain separate and unchanged.
+illi's B=1000 example is historical illustration; actual Persistent Coherence B=700 cumulative through Blue is 18655. Blue entry qualification and individual Prime gates remain. White Legacy access does not waive Prime acquisition. Kira's character-specific Black acquisition gates and Checkpoint 11 calendar/card rules remain separate; the four post-Armor prices are OPEN for recalibration. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
 See [Checkpoint 12](19_CHECKPOINT_12_COMPLETE_PRICING.md) and [pricing policy](../bindings/PRICING_MODEL.md). Unrelated OPEN items stay OPEN.
 
 Checkpoint 13: Absorption Shield GE-0537 B=3000 is superseded by 10000/Exceptional; other prices remain. White Legacy has both prerequisite compression and 45% package deduction (pay55%); full-price prequalification Persistent Coherence remains. GF-0018/GF-0038/GF-0088 use Expanded Intercept Resolve/Focused Intercept Resolve/Shared Intercept Resolve with stable IDs/mechanisms. Forced cooldown is expressed as fatigue/recovery/sustainable capacity. Orbs late Yellow, mature two-Orb blender around mid-Green; carry regimes govern without purchase dates. ~55000 W1–35 macro target does not approve wave reward rows; rejected high-output tables remain quarantined.
+
+Checkpoint 14 full reconciliation governs: exact rewards 53910 supersede rounded ~55000 and erroneous 55030; W36+ stays OPEN. The supplied 17-event illi skeleton supersedes Early Blue Coherence/White Resonance windows and arbitrary failed calendars. Early deepening of Absorption is deferred in the locked skeleton until after late-Green Coherence Prime. Black flat 61000 finality is SUPERSEDED/OPEN for recalibration. Project Princess Carry, independent schedules, information gap and discretionary/commodity doctrine are active. Earlier checkpoint masters remain source history subject to these explicit corrections.

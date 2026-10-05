@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
+Authority: 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override Checkpoint 14.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -77,3 +77,9 @@ Authority: 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on
 - [Checkpoint 12 decisions](../provenance/CHECKPOINT_12_PRICING_DECISIONS.csv), [coverage](../provenance/CHECKPOINT_12_COVERAGE_MANIFEST.csv), and [audit](../provenance/CHECKPOINT_12_AUDIT.json).
 
 - [Checkpoint 13](20_CHECKPOINT_13_THREAD_DELTA.md) — pricing/subsidy/carry regimes/Trial macro calibration; [audit](../provenance/CHECKPOINT_13_AUDIT.json), [coverage](../provenance/CHECKPOINT_13_COVERAGE_MANIFEST.csv), [term changes](../provenance/CHECKPOINT_13_TERM_CHANGES.csv).
+
+- [Checkpoint 14 full reconciliation](21_CHECKPOINT_14_FULL_RECONCILIATION.md) — complete supplied author decisions.
+- [Trial rewards](../trial-rewards/README.md) — exact W1–35 rows; W36+ OPEN.
+- [illi progression](ILLI_PROGRESSION.md) — 17 exact supplied milestones and later direction.
+- [Partnership and Project Princess Carry](PARTNERSHIP_AND_CARRY.md) — independent schedules, public information gap, sandbox consequences, personality economy and broad-content rhythm.
+- [Before review](../provenance/CHECKPOINT_14_BEFORE_REVIEW.json), [reverse diff](../provenance/CHECKPOINT_14_REVERSE_DIFF.csv), [audit](../provenance/CHECKPOINT_14_AUDIT.json).

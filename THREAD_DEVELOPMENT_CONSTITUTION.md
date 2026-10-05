@@ -6,7 +6,7 @@ This constitution governs cross-thread MK157 development. Its purpose is continu
 ## Authority
 1. Git is the persistent cross-thread source of truth.
 2. At a new thread start, crawl the MK157 repository before reconstructing established systems from memory.
-3. Current authority is Checkpoint 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+3. Current authority is Checkpoint 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 4. Provenance/historical files are not current canon merely because they remain in Git.
 5. Never silently revive superseded material.
 6. OPEN means OPEN. Distinguish LOCKED / WORKING / ALPHA / OPEN / SUPERSEDED.
@@ -157,7 +157,7 @@ MK157 inherits compatible MK-147 world mechanics/worldbuilding where not superse
 
 ## Checkpoint 08 continuity locks
 
-Green Solo graduates first-cycle progression grouping early; social life is not quarantined. Repeat legitimate Trials award credits without a personal-best requirement. Orbs are intentionally anomalous; no ontology is assigned. illi's six first-cycle capabilities are governed by [Checkpoint 08](live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md), not older 07B direct/area-healing plans.
+Green Solo graduates first-cycle progression grouping early; social life is not quarantined. Repeat legitimate Trials award credits without a personal-best requirement. Orbs are intentionally anomalous; no ontology is assigned. illi's six first-cycle capabilities follow [Checkpoint 08](live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md), with dates corrected by the current [illi progression](live-model/ILLI_PROGRESSION.md); older 07B direct/area-healing plans remain superseded.
 
 ## Checkpoint 09 — lexical and external-source authority
 
@@ -197,10 +197,12 @@ Do not import unrelated MK-147 Kira/Enix identity, Binding-circle causality, old
 
 31-hour planetary days are LOCKED. The ordinary four-season planetary year is distinct from Valnak's seven-color seasons. Calendar month-sum/week-length conflicts are explicitly OPEN; consult [calendar reconciliation](live-model/PLANETARY_CALENDAR.md). Fixed Trial geography and wave delivery follow [Trial arena](live-model/TRIAL_ARENA.md). Deep pushes require multi-day scheduling; W35 saturation and Kira's four-day estimate remain WORKING. Do not import unpromoted upstream plot or biology mechanisms.
 
-Checkpoint 11 governs acquisition economy, Blue Persistent Coherence White Legacy entry, standing calendar and card-color semantics. Consult [economy handoff](live-model/ECONOMY_PURCHASE_SCHEDULE.md), [Genesis Cards](live-model/GENESIS_CARDS.md), and [World Clock](live-model/WORLD_CLOCK.md). Exact purchase dates and discretionary prices remain OPEN.
+Checkpoint 11 governs Blue Persistent Coherence White Legacy entry, standing calendar and card-color semantics, subject to later economic and schedule corrections. Consult [economy handoff](live-model/ECONOMY_PURCHASE_SCHEDULE.md), [Genesis Cards](live-model/GENESIS_CARDS.md), and [World Clock](live-model/WORLD_CLOCK.md). Checkpoint 14 locks the supplied illi milestones; other purchase dates and discretionary prices remain OPEN.
 
 ## Checkpoint 12 pricing grammar
 
-Ordinary acquisition price is semantic friction, never basin color, domain rank, elemental identity or an ID-sequence formula. Five bands and author anchors follow [pricing policy](bindings/PRICING_MODEL.md). Rank transitions use positive-credit decimal ROUND_HALF_UP sequentially. Ordinary summons are below 10000; all nine Primes have B=10000. Pricing LOCKED does not promote ALPHA mechanisms/recipes or resolve basin topology. Kira's Black 61000 acquisition gates remain separate; White Legacy access compression does not implicitly grant a price subsidy.
+Ordinary acquisition price is semantic friction, never basin color, domain rank, elemental identity or an ID-sequence formula. Five bands and author anchors follow [pricing policy](bindings/PRICING_MODEL.md). Rank transitions use positive-credit decimal ROUND_HALF_UP sequentially. Ordinary summons are below 10000; all nine Primes have B=10000. Pricing LOCKED does not promote ALPHA mechanisms/recipes or resolve basin topology. Kira's character-specific Black acquisition gates remain separate; the four post-Armor prices are OPEN for recalibration. White Legacy access compression does not implicitly grant a price subsidy. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
 
 Checkpoint 13 requires physical/biological/informational/Genesis mechanisms for all Binding behavior; no aggro/threat statistic, taunt or invisible hate table. The accepted White Legacy package receives 45% deduction/pay55%, independently HALF_UP per ordinary list price, separate from prerequisite compression. Prequalification Persistent Coherence is full-price. Trial macro calibration is not a row-level reward law.
+
+Checkpoint 14 equivalence rule: every future Git/live-model audit must reverse-account every author decision since the latest persisted checkpoint, reporting PRESENT, MISSING, WORKING-ILLUSTRATIVE, OPEN and SUPERSEDED distinctly. Current reward registry and illi skeleton govern their exact supplied rows; replacement Black prices, post-Violet-W2 dates and W36+ payouts remain OPEN. Preserve existing sandbox, concept/competency and ~23-year civilization-engine rules.

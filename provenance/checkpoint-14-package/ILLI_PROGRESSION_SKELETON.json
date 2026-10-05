@@ -1,0 +1,155 @@
+[
+  {
+    "season": "Red",
+    "week": 1,
+    "day": 1,
+    "binding": "Persistent Coherence",
+    "event": "Acquire",
+    "result": "Red",
+    "note": "Starter Binding."
+  },
+  {
+    "season": "Red",
+    "week": 2,
+    "day": 3,
+    "binding": "Persistent Coherence",
+    "event": "Rank",
+    "result": "Orange",
+    "note": "Pre-Legacy."
+  },
+  {
+    "season": "Red",
+    "week": 4,
+    "day": 2,
+    "binding": "Persistent Coherence",
+    "event": "Rank",
+    "result": "Yellow",
+    "note": "Pre-Legacy."
+  },
+  {
+    "season": "Red",
+    "week": 6,
+    "day": 4,
+    "binding": "Persistent Coherence",
+    "event": "Rank",
+    "result": "Green",
+    "note": "Coherence Prime gate satisfied."
+  },
+  {
+    "season": "Orange",
+    "week": 1,
+    "day": 4,
+    "binding": "Persistent Coherence",
+    "event": "Rank",
+    "result": "Blue",
+    "note": "White Legacy entry qualification."
+  },
+  {
+    "season": "Orange",
+    "week": 1,
+    "day": 4,
+    "binding": "White Legacy",
+    "event": "Accept",
+    "result": "Accepted",
+    "note": "45% package deduction activates."
+  },
+  {
+    "season": "Orange",
+    "week": 2,
+    "day": 3,
+    "binding": "Absorption Shield",
+    "event": "Acquire",
+    "result": "Red",
+    "note": "Intentionally deferred after acquisition."
+  },
+  {
+    "season": "Yellow",
+    "week": 1,
+    "day": 2,
+    "binding": "Genesis Beam",
+    "event": "Acquire",
+    "result": "Red",
+    "note": "Established early-Yellow acquisition."
+  },
+  {
+    "season": "Yellow",
+    "week": 2,
+    "day": 4,
+    "binding": "Genesis Beam",
+    "event": "Rank",
+    "result": "Orange",
+    "note": "Race to Green."
+  },
+  {
+    "season": "Yellow",
+    "week": 3,
+    "day": 5,
+    "binding": "Genesis Beam",
+    "event": "Rank",
+    "result": "Yellow",
+    "note": "Race to Green."
+  },
+  {
+    "season": "Yellow",
+    "week": 5,
+    "day": 2,
+    "binding": "Genesis Beam",
+    "event": "Rank",
+    "result": "Green",
+    "note": "Genesis Prime gate satisfied."
+  },
+  {
+    "season": "Yellow",
+    "week": 6,
+    "day": 3,
+    "binding": "Genesis Prime Elemental",
+    "event": "Acquire",
+    "result": "Red",
+    "note": "Late-Yellow acquisition."
+  },
+  {
+    "season": "Green",
+    "week": 6,
+    "day": 2,
+    "binding": "Coherence Prime Elemental",
+    "event": "Acquire",
+    "result": "Red",
+    "note": "Revised late-Green acquisition."
+  },
+  {
+    "season": "Green",
+    "week": 6,
+    "day": 4,
+    "binding": "Absorption Shield",
+    "event": "Rank",
+    "result": "Orange",
+    "note": "Return to Resonance prerequisite."
+  },
+  {
+    "season": "Green",
+    "week": 7,
+    "day": 2,
+    "binding": "Absorption Shield",
+    "event": "Rank",
+    "result": "Yellow",
+    "note": "Continue Resonance prerequisite."
+  },
+  {
+    "season": "Violet",
+    "week": 1,
+    "day": 3,
+    "binding": "Absorption Shield",
+    "event": "Rank",
+    "result": "Green",
+    "note": "Resonance Prime gate satisfied."
+  },
+  {
+    "season": "Violet",
+    "week": 2,
+    "day": 2,
+    "binding": "Resonance Prime Elemental / Juggernaut",
+    "event": "Acquire",
+    "result": "Red",
+    "note": "Revised early-Violet acquisition."
+  }
+]

@@ -88,31 +88,6 @@ Kira's advantage does not mean Trial runtime becomes trivial. Deep Solo/Duo/Trio
 
 **Calendar qualification:** the source seven-day-week wording is unresolved against 360 days / 60 weeks. Use the validated hour-to-day conversion; do not derive Valnak-week lengths. [Calendar conflicts](PLANETARY_CALENDAR.md). [Wave delivery](TRIAL_ARENA.md) clarifies total population versus simultaneous pressure; W35 saturation is WORKING, not an exact cap.
 
-## Checkpoint 13 economic calibration
+## Exact Trial reward schedule — Checkpoint 14
 
-## 6. Trial credit macro-calibration — LOCK TARGET, ROW TABLE STILL OPEN
-Do NOT integrate the rejected earlier high-output Trial-credit table.
-
-Economic target:
-An ordinary W1→W35 clear is approximately 156 hours = 5 planetary days + 1 hour.
-For author-economic calibration, target a complete W1→W35 run at approximately 55,000 credits total.
-
-If a veteran unrealistically dedicates one such deep run per Valnak week for all 49 weeks:
-55,000 × 49 = 2,695,000 credits.
-
-A top-tier B=10,000 Binding's White rank alone costs 1,814,400.
-Thus obsessive Trial-only farming across an entire deployment funds ~1.49 such White-rank purchases, before other spending.
-
-Design intent:
-- early waves should pay useful but modest credits;
-- escalation must be shallow relative to Binding rank-cost escalation;
-- White mastery remains a career/multi-cycle capital project;
-- a veteran may have broad lower/mid-rank architecture yet only a few White Bindings after many cycles;
-- Legacies matter because discounts/prerequisite compression materially alter lifetime economics;
-- credits remain finite and compete with Auctions/equipment/materials/cards/leisure/etc.
-
-Exact per-wave W1–35 values remain OPEN for the next explicit table-design pass.
-Do NOT invent them during this integration.
-W35+ credit cap/value also remains OPEN until that table is approved.
-
-The target is an approximate author-economic constraint, not an approved row table. Trial timing ranges, W35 WORKING pressure saturation and W96 NONCANON status remain.
+Checkpoint 14 now locks the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 53,910 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 is a rounded target; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.

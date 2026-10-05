@@ -1,0 +1,222 @@
+[
+  {
+    "id": "R14-01",
+    "topic": "First-cycle sandbox anti-veteran-carry",
+    "supplied_git_status": "PRESENT",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/03_VALNEK_PATHS.md",
+    "search": "First-cycle sandboxing restricts",
+    "evidence": "live-model\\03_VALNEK_PATHS.md:147: First-cycle sandboxing restricts progression-bearing grouping before qualification, not social or geographic access. Eligible first-cycle peers may group. Reaching GREEN Solo grants early graduation in the same cycle; Kira has no automatic exemption.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-02",
+    "topic": "Green Solo graduation",
+    "supplied_git_status": "PRESENT",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/03_VALNEK_PATHS.md",
+    "search": "Achieving GREEN",
+    "evidence": "live-model\\03_VALNEK_PATHS.md:183: Achieving GREEN in Solo is sufficient to graduate early during the same cycle. Reaching Green is the threshold; clearing the entire Green band is NOT required. Kira's Black status does not waive this.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-03",
+    "topic": "Red/Orange first-cycle ecology; Yellow strong; Green aspirational",
+    "supplied_git_status": "PRESENT",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/COMBAT_ECOLOGY.md",
+    "search": "First-Cycle starts heavily",
+    "evidence": "live-model\\COMBAT_ECOLOGY.md:73: First-Cycle starts heavily Red/Orange with some Yellow; distribution migrates with population competency while preserving lower tails.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-04",
+    "topic": "illi royal cohort",
+    "supplied_git_status": "PRESENT",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/03_VALNEK_PATHS.md",
+    "search": "The cohort is not automatically antagonistic",
+    "evidence": "live-model\\03_VALNEK_PATHS.md:337: The cohort is not automatically antagonistic. illi may interact/run with them occasionally, but she owes them no permanent party slot.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-05",
+    "topic": "Exact W1-W35 shallow reward rows",
+    "supplied_git_status": "MISSING",
+    "verified_before_status": "MISSING",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/COMBAT_THRESHOLDS.md",
+    "search": "Exact per-wave W1–35 values remain OPEN",
+    "evidence": "live-model\\COMBAT_THRESHOLDS.md:114: Exact per-wave W1–35 values remain OPEN for the next explicit table-design pass.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-06",
+    "topic": "W36+ payout",
+    "supplied_git_status": "OPEN",
+    "verified_before_status": "OPEN",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/COMBAT_THRESHOLDS.md",
+    "search": "W35+ credit cap/value also remains OPEN",
+    "evidence": "live-model\\COMBAT_THRESHOLDS.md:116: W35+ credit cap/value also remains OPEN until that table is approved.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-07",
+    "topic": "Kira relentless Solo during separations",
+    "supplied_git_status": "MISSING/PARTIAL",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+    "search": "Kira can farm Solo independently",
+    "evidence": "live-model\\ECONOMY_PURCHASE_SCHEDULE.md:35: - Kira can farm Solo independently of illi;",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-08",
+    "topic": "Post-Orb multi-day Duo grind",
+    "supplied_git_status": "PARTIAL",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/STORY_CLOCK_STATE.md",
+    "search": "Deep Trials are multi-day",
+    "evidence": "live-model\\STORY_CLOCK_STATE.md:152: Deep Trials are multi-day calendar blocks.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-09",
+    "topic": "Project Princess Carry",
+    "supplied_git_status": "MISSING",
+    "verified_before_status": "MISSING",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model",
+    "search": "Project Princess Carry",
+    "evidence": "",
+    "note": "No matching text in scoped active summaries; new specificity absent."
+  },
+  {
+    "id": "R14-10",
+    "topic": "Late-Green Coherence Prime window",
+    "supplied_git_status": "MISSING",
+    "verified_before_status": "SUPERSEDED",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/03_VALNEK_PATHS.md",
+    "search": "5. Early Blue",
+    "evidence": "live-model\\03_VALNEK_PATHS.md:218: 5. Early Blue — Coherence Prime Elemental.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-11",
+    "topic": "Early-Violet Resonance Prime window",
+    "supplied_git_status": "MISSING",
+    "verified_before_status": "SUPERSEDED",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/03_VALNEK_PATHS.md",
+    "search": "6. White",
+    "evidence": "live-model\\03_VALNEK_PATHS.md:219: 6. White — Resonance Prime Elemental / Juggernaut.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-12",
+    "topic": "Corrected prerequisite-first illi skeleton",
+    "supplied_git_status": "MISSING",
+    "verified_before_status": "MISSING",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/STORY_CLOCK_STATE.md",
+    "search": "no purchase date is assigned",
+    "evidence": "live-model\\STORY_CLOCK_STATE.md:243: White Legacy access requires Blue Persistent Coherence. Previous seasonal acquisition labels remain planning scaffold only; no purchase date is assigned by this integration. Standing schedule: highlights 25:00 daily; raeon championship W7 D5; Auction W7 D5–D7; Prism White postseason follows [World Clock](WORLD_CLOCK.md).",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-13",
+    "topic": "Post-Violet illi max-Primes direction",
+    "supplied_git_status": "MISSING",
+    "verified_before_status": "MISSING",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/STORY_CLOCK_STATE.md",
+    "search": "White — Resonance Prime",
+    "evidence": "live-model\\STORY_CLOCK_STATE.md:18: White — Resonance Prime Elemental / Juggernaut",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-14",
+    "topic": "Kira/illi discretionary/personality economy",
+    "supplied_git_status": "PARTIAL",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+    "search": "Credits compete among",
+    "evidence": "live-model\\ECONOMY_PURCHASE_SCHEDULE.md:90: Credits compete among:",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-15",
+    "topic": "Veteran collectible-vs-Binding choice",
+    "supplied_git_status": "PARTIAL",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/GENESIS_CARDS.md",
+    "search": "casual collector",
+    "evidence": "live-model\\GENESIS_CARDS.md:67: A knowledgeable Transductionist/Architect may appreciate the topology itself; a casual collector may simply value the beauty/rarity/history.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-16",
+    "topic": "61k flat Black gates finality",
+    "supplied_git_status": "CONFLICT/STALE",
+    "verified_before_status": "SUPERSEDED",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/01_KIRA.md",
+    "search": "**61,000 credits**",
+    "evidence": "live-model\\01_KIRA.md:412: **61,000 credits**",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-17",
+    "topic": "Black competency/concept mechanics",
+    "supplied_git_status": "PRESENT",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/01_KIRA.md",
+    "search": "Black growth is competency/discovery/integration",
+    "evidence": "live-model\\01_KIRA.md:181: Black growth is competency/discovery/integration, not ordinary rank grinding.",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-18",
+    "topic": "Public post-Orb information gap/highlight comedy",
+    "supplied_git_status": "MISSING",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/01_KIRA.md",
+    "search": "highlight footage",
+    "evidence": "",
+    "note": "No matching text in scoped active summaries; new specificity absent."
+  },
+  {
+    "id": "R14-19",
+    "topic": "Broad Red-Violet content rhythm",
+    "supplied_git_status": "PARTIAL",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/STORY_CLOCK_STATE.md",
+    "search": "Dungeons",
+    "evidence": "live-model\\STORY_CLOCK_STATE.md:39: Kira/illi primarily use Solo/Duo and later Dungeons. | live-model\\STORY_CLOCK_STATE.md:72: - people approaching them about crews/dungeons; | live-model\\STORY_CLOCK_STATE.md:228: - Dungeons;",
+    "note": "Repository evidence independently inspected."
+  },
+  {
+    "id": "R14-20",
+    "topic": "W96 final record",
+    "supplied_git_status": "NONCANON",
+    "verified_before_status": "WORKING-ILLUSTRATIVE",
+    "baseline_commit": "678dbf75f3386df4131a2afbb5bc3763b52bc359",
+    "scope": "live-model/COMBAT_THRESHOLDS.md",
+    "search": "W96 NONCANON",
+    "evidence": "live-model\\COMBAT_THRESHOLDS.md:118: The target is an approximate author-economic constraint, not an approved row table. Trial timing ranges, W35 WORKING pressure saturation and W96 NONCANON status remain.",
+    "note": "Repository evidence independently inspected."
+  }
+]

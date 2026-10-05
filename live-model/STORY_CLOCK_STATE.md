@@ -14,8 +14,8 @@ Entry/Red — Persistent Coherence
 Early Orange — Absorption Shield
 Early Yellow — Genesis Beam
 Late Yellow — Genesis Prime Elemental
-Early Blue — Coherence Prime Elemental
-White — Resonance Prime Elemental / Juggernaut
+Late Green — Coherence Prime Elemental
+Early Violet — Resonance Prime Elemental / Juggernaut
 
 ## Kira title / standing
 Kira becomes #1 First-Cycle Solo on Day One and never loses it.
@@ -194,13 +194,13 @@ Author shorthand: roughly 27k / just under 30k.
 NEW LOCK:
 **Persistent Coherence must reach BLUE for illi to qualify for/access her White Legacy trajectory.**
 
-This gives Red season a concrete illi objective:
+This gives Red season a concrete illi objective, completed in early Orange:
 rank Persistent Coherence R -> O -> Y -> G -> B.
 
 Once Blue Persistent Coherence is achieved, the White Legacy becomes available and can prescribe/enable the next major acquisition:
 **Absorption Shield**.
 
-The exact calendar day on which Blue is purchased and Absorption is acquired will be solved in the next thread from actual credit accumulation. Do not silently retain an older arbitrary Orange W1 D4 acquisition date if the economic simulation moves it.
+Checkpoint 14 locks Blue Persistent Coherence and White Legacy acceptance at Orange W1 D4, then Absorption Shield Red at Orange W2 D3. These supplied milestones constrain the future ledger; the older arbitrary Orange W1 D4 Absorption date remains superseded.
 
 Existing later White-Legacy gates remain:
 - Genesis Beam GREEN -> Genesis Prime RED available
@@ -211,7 +211,7 @@ The new Blue Persistent Coherence rule is specifically the ENTRY QUALIFICATION f
 
 ## 12. Next-thread development target
 
-The next MK157 thread should crawl Git after Checkpoint 11 and continue with the **Valnak Calendar / purchase schedule simulation**.
+Further development should crawl current Git and continue the **Valnak Calendar / purchase schedule simulation**, treating the supplied Checkpoint 14 milestones as author constraints.
 
 Primary task:
 map Kira + illi across:
@@ -236,11 +236,11 @@ Track:
 - story/arc purpose.
 
 Immediate economic goals:
-- Kira accumulates toward each 61,000-credit Black acquisition.
+- Kira accumulates toward each OPEN (recalibration) Black acquisition. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
 - illi accumulates/ranks Persistent Coherence to Blue to unlock White Legacy access.
-- solve actual acquisition dates from credit income rather than arbitrary calendar placement.
+- model the supplied illi milestone dates and solve the remaining ledger; do not invent post-Violet-W2 rank dates.
 
-White Legacy access requires Blue Persistent Coherence. Previous seasonal acquisition labels remain planning scaffold only; no purchase date is assigned by this integration. Standing schedule: highlights 25:00 daily; raeon championship W7 D5; Auction W7 D5–D7; Prism White postseason follows [World Clock](WORLD_CLOCK.md).
+White Legacy access requires Blue Persistent Coherence. Checkpoint 14 locks the supplied illi milestones; Kira seasonal acquisition labels remain a scaffold and do not assign exact purchase dates. Standing schedule: highlights 25:00 daily; raeon championship W7 D5; Auction W7 D5–D7; Prism White postseason follows [World Clock](WORLD_CLOCK.md).
 
 ## Checkpoint 13 coupled progression
 
@@ -287,7 +287,7 @@ Early partnership is enabled by Armor of the Abyss's exceptional persistence.
 Phase II — illi prevention carries/extents the Duo:
 After White-Legacy access, Absorption Shield materially extends Kira's operating window.
 Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit generation.
-This creates a rational incentive for illi to deepen Absorption before racing immediately to every later package node.
+Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
 Genesis Orbs arrive late Yellow; acquisition is not mastery.
@@ -308,4 +308,6 @@ A historical record around low-40s versus a vastly higher Kira record is a worki
 
 Mature blender scenes may include Kira and illi remaining near the Central Basin, conversing/bored while the Orb geometry processes incoming eldris. This is lawful Trial behavior, not cheating or an aggro exploit. Elara's frustration is engineering/comedic frustration at Kira breaking intended scaling while obeying actual rules.
 
-[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and the macro calibration. No exact acquisition date is assigned.
+[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN.
+
+Checkpoint 14 current state: [illi milestones](ILLI_PROGRESSION.md) lock the supplied dates through Violet W2 D2; Coherence Prime is late Green and Resonance Prime early Violet. Later rank dates remain OPEN, with PC/Absorption/three Primes targeted toward White and Beam potentially remaining Green. [Project Princess Carry and independent schedules](PARTNERSHIP_AND_CARRY.md) govern broad Red–Violet content and intentionally Trial-heavy White. Kira Black final prices are OPEN; W96 and low-40s records remain illustrative/noncanonical.

@@ -1,0 +1,4 @@
+# Rejected calendar variants
+
+SUPERSEDED / NON-AUTHORITATIVE: assistant variants placing Genesis Prime at Orange W7, Coherence Prime at Yellow W1, Resonance Prime at Yellow W5, or maximized ranks extrapolated from those anchors. They must not enter active schedules. The baseline repository search found no such dated calendar artifact to archive or mutate; this package names the rejected variants, and its exact evidence is preserved.
+Current authority is the exact 17-event skeleton. Post-Violet-W2 rank dates remain OPEN. Rejected high-output Trial reward tables remain rejected; the new 35-row shallow schedule is independently authorized. Historical provenance originals are untouched.

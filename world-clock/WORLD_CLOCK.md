@@ -240,4 +240,6 @@ Top 16 qualify; 16 -> 8 -> 4 -> 2 -> Champion.
 
 This schedule supersedes earlier OPEN highlight time and playoff-week placement. It does not populate team names or purchase dates. [Economy and simulation handoff](../live-model/ECONOMY_PURCHASE_SCHEDULE.md). Multi-day Trial blocks from Checkpoint 10 remain governing.
 
-Checkpoint 13 calibrates an ordinary W1–35 run at approximately 55,000 credits over ~156 hours; 49 hypothetical weekly runs total 2,695,000. This is a macro target, not an approved per-wave reward schedule. Multi-day planning and actual purchase dates remain governed by the future ledger; standing calendar/CSV events are unchanged.
+Checkpoint 14 locks W1–35 total at 53,910; W36+ payout remains OPEN. The 17-event illi skeleton supplies dated milestones through Violet W2 D2; later ranks remain undated. Standing social/sport events remain unchanged.
+
+Current [illi schedule](../live-model/ILLI_PROGRESSION.md) follows prerequisite-first development. Independent Solo/cohort activity and Project Princess Carry shape the character clocks without adding fabricated daily events.

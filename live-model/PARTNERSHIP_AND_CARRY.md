@@ -1,0 +1,47 @@
+# Partnership and Project Princess Carry — Checkpoint 14
+
+## Sandbox consequences — LOCK
+The sandbox is an anti-carry economic firewall.
+Typical entrant has ~1,000 starter credits and one, perhaps two, Red foundations.
+Most first-cycle content remains Red/Orange; Yellow performance is notably strong; Green is exceptional/aspirational.
+After Green Solo graduation, veteran grouping becomes legal.
+Kira graduates much earlier than illi but chooses to remain primarily with illi/friends rather than exploit veteran carry groups.
+illi later graduates through her own Solo competency as her toolkit/Primes mature. Her eventual first-cycle Solo standing is historically exceptional absent Kira; exact wave/rank remains OPEN.
+
+## Independent schedules / income topology — LOCK
+Kira and illi are not attached at the hip.
+illi retains family, friends, original cohort, occasional royal/social obligations, raeon, shopping and independent progression. Do not turn Valnak into constant princess bureaucracy.
+illi may occasionally run legitimate first-cycle Dungeons with her original cohort as helkir.
+Kira commonly uses these separations for Solo Trial pushes.
+Kira behavioral default: meaningful free time without overriding recovery/training/social event → Solo Trial.
+She is motivated by next-wave/Eternal-Standing progression as well as credits.
+Once Orbs mature, Kira+illi also commit hard to multi-day Duo pushes. Red→Violet remains broad content: Trials, Dungeons, Hard Dungeons, Raids, Valnak domai incursions, city/social/cultural life.
+
+## Public Kira / highlights — LOCK DIRECTION
+Armor and CSR are publicly legible categories. After Genesis Orbs, public understanding drops sharply.
+Orb blender can operate at large radius while highlight footage shows Kira/illi near the center apparently doing little.
+illi and Elara know much more of Kira's actual architecture than the public.
+Do not lock literal light-speed Orbs; exact velocity/energy remains OPEN.
+Mature-blender comedy may include conversation, eating/resting, or raeon while distant eldris are processed.
+
+## Project Princess Carry — LOCK
+Canonical running joke/name: **Project Princess Carry**.
+Begins playfully and escalates as Kira becomes relentlessly committed to maximizing illi's White-Legacy build.
+illi is initially amused, later increasingly exasperated.
+Late cycle, especially White, becomes deliberately Trial-heavy: push → recover/surface → purchase → push.
+They may disappear for long blocks, briefly reappear for dinner/social/world events, then return.
+Kira is relentless, not controlling; illi retains independent choices/relationships. If illi is unavailable, Kira commonly goes Solo.
+Emotional reciprocity: early illi/prevention helps Kira; later Kira's broken Trial throughput helps turn illi into an extraordinary White-Legacy Transductionist.
+
+## Kira economy/personality — LOCK
+Do not force equal Binding expenditure.
+illi spends heavily on specialization/ranks.
+Kira's five Black foundations are acquisition + competency/discovery/integration, not paid ordinary ranks.
+Kira uses surplus on Genesis Cards, raeon, Auctions, Creator work, equipment/materials, gifts, leisure and rare crafted objects.
+Scarcity/manual-smithy background makes discretionary wealth/collecting part of Kira gaining a human life/identity.
+illi grew up around royal wealth but still shops/collects and can make discretionary purchases.
+Valnak is a marathon/lived civilization, not a pure optimizer. Rest, hobbies, social life and discretionary spending can delay an otherwise affordable progression purchase.
+
+## Broad content rhythm — LOCK
+Red→Violet uses broad Valnak content: Trials + Dungeons + Hard Dungeons + Raids + Valnak domai + city/social/culture.
+White may become intentionally Trial-centric under Project Princess Carry.

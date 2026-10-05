@@ -1,0 +1,177 @@
+[
+  {
+    "wave": 1,
+    "credits": 100,
+    "cumulative": 100
+  },
+  {
+    "wave": 2,
+    "credits": 180,
+    "cumulative": 280
+  },
+  {
+    "wave": 3,
+    "credits": 230,
+    "cumulative": 510
+  },
+  {
+    "wave": 4,
+    "credits": 280,
+    "cumulative": 790
+  },
+  {
+    "wave": 5,
+    "credits": 340,
+    "cumulative": 1130
+  },
+  {
+    "wave": 6,
+    "credits": 400,
+    "cumulative": 1530
+  },
+  {
+    "wave": 7,
+    "credits": 470,
+    "cumulative": 2000
+  },
+  {
+    "wave": 8,
+    "credits": 550,
+    "cumulative": 2550
+  },
+  {
+    "wave": 9,
+    "credits": 630,
+    "cumulative": 3180
+  },
+  {
+    "wave": 10,
+    "credits": 720,
+    "cumulative": 3900
+  },
+  {
+    "wave": 11,
+    "credits": 810,
+    "cumulative": 4710
+  },
+  {
+    "wave": 12,
+    "credits": 900,
+    "cumulative": 5610
+  },
+  {
+    "wave": 13,
+    "credits": 1000,
+    "cumulative": 6610
+  },
+  {
+    "wave": 14,
+    "credits": 1100,
+    "cumulative": 7710
+  },
+  {
+    "wave": 15,
+    "credits": 1200,
+    "cumulative": 8910
+  },
+  {
+    "wave": 16,
+    "credits": 1300,
+    "cumulative": 10210
+  },
+  {
+    "wave": 17,
+    "credits": 1400,
+    "cumulative": 11610
+  },
+  {
+    "wave": 18,
+    "credits": 1500,
+    "cumulative": 13110
+  },
+  {
+    "wave": 19,
+    "credits": 1600,
+    "cumulative": 14710
+  },
+  {
+    "wave": 20,
+    "credits": 1700,
+    "cumulative": 16410
+  },
+  {
+    "wave": 21,
+    "credits": 1800,
+    "cumulative": 18210
+  },
+  {
+    "wave": 22,
+    "credits": 1900,
+    "cumulative": 20110
+  },
+  {
+    "wave": 23,
+    "credits": 2000,
+    "cumulative": 22110
+  },
+  {
+    "wave": 24,
+    "credits": 2100,
+    "cumulative": 24210
+  },
+  {
+    "wave": 25,
+    "credits": 2200,
+    "cumulative": 26410
+  },
+  {
+    "wave": 26,
+    "credits": 2300,
+    "cumulative": 28710
+  },
+  {
+    "wave": 27,
+    "credits": 2400,
+    "cumulative": 31110
+  },
+  {
+    "wave": 28,
+    "credits": 2500,
+    "cumulative": 33610
+  },
+  {
+    "wave": 29,
+    "credits": 2600,
+    "cumulative": 36210
+  },
+  {
+    "wave": 30,
+    "credits": 2700,
+    "cumulative": 38910
+  },
+  {
+    "wave": 31,
+    "credits": 2800,
+    "cumulative": 41710
+  },
+  {
+    "wave": 32,
+    "credits": 2900,
+    "cumulative": 44610
+  },
+  {
+    "wave": 33,
+    "credits": 3000,
+    "cumulative": 47610
+  },
+  {
+    "wave": 34,
+    "credits": 3100,
+    "cumulative": 50710
+  },
+  {
+    "wave": 35,
+    "credits": 3200,
+    "cumulative": 53910
+  }
+]

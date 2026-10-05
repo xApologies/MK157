@@ -215,10 +215,10 @@ Sequence:
 2. Early Orange — Absorption Shield.
 3. Early Yellow — Genesis Beam.
 4. Late Yellow — Genesis Prime Elemental.
-5. Early Blue — Coherence Prime Elemental.
-6. White — Resonance Prime Elemental / Juggernaut.
+5. Late Green — Coherence Prime Elemental.
+6. Early Violet — Resonance Prime Elemental / Juggernaut.
 
-Causal order: healer plan → White Legacy redirects through prevention → Duo needs offense → Beam → Genesis Prime → dungeon/group healing need → Coherence Prime → Kira already fronts, so Juggernaut delayed until raid/White-scale need.
+Causal order: healer plan → White Legacy redirects through prevention → Duo needs offense → Beam → Genesis Prime → dungeon/group healing need → Coherence Prime → Kira already fronts, so Juggernaut purchased early Violet after Absorption Green.
 
 White-Legacy gates:
 Genesis Beam GREEN → Genesis Prime RED available.
@@ -465,13 +465,13 @@ Author shorthand: roughly 27k / just under 30k.
 NEW LOCK:
 **Persistent Coherence must reach BLUE for illi to qualify for/access her White Legacy trajectory.**
 
-This gives Red season a concrete illi objective:
+This gives Red season a concrete illi objective, completed in early Orange:
 rank Persistent Coherence R -> O -> Y -> G -> B.
 
 Once Blue Persistent Coherence is achieved, the White Legacy becomes available and can prescribe/enable the next major acquisition:
 **Absorption Shield**.
 
-The exact calendar day on which Blue is purchased and Absorption is acquired will be solved in the next thread from actual credit accumulation. Do not silently retain an older arbitrary Orange W1 D4 acquisition date if the economic simulation moves it.
+Checkpoint 14 locks Blue Persistent Coherence and White Legacy acceptance at Orange W1 D4, then Absorption Shield Red at Orange W2 D3. These supplied milestones constrain the future ledger; the older arbitrary Orange W1 D4 Absorption date remains superseded.
 
 Existing later White-Legacy gates remain:
 - Genesis Beam GREEN -> Genesis Prime RED available
@@ -550,7 +550,7 @@ Early partnership is enabled by Armor of the Abyss's exceptional persistence.
 Phase II — illi prevention carries/extents the Duo:
 After White-Legacy access, Absorption Shield materially extends Kira's operating window.
 Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit generation.
-This creates a rational incentive for illi to deepen Absorption before racing immediately to every later package node.
+Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
 Genesis Orbs arrive late Yellow; acquisition is not mastery.
@@ -571,4 +571,6 @@ A historical record around low-40s versus a vastly higher Kira record is a worki
 
 Mature blender scenes may include Kira and illi remaining near the Central Basin, conversing/bored while the Orb geometry processes incoming eldris. This is lawful Trial behavior, not cheating or an aggro exploit. Elara's frustration is engineering/comedic frustration at Kira breaking intended scaling while obeying actual rules.
 
-[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and the macro calibration. No exact acquisition date is assigned.
+[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN.
+
+Checkpoint 14 preserves the sandbox paragraphs above exactly: anti-carry progression grouping, Green Solo graduation and Elara agreement remain. Typical entrants have ~1,000 starter credits and one/perhaps two Red foundations. illi may run legitimate first-cycle Dungeons with her original cohort as helkir; later she graduates by her own Solo competency. Her final Solo wave/rank remains OPEN. Current [17-event illi schedule](ILLI_PROGRESSION.md) supersedes older Coherence/Resonance seasonal windows; [partnership](PARTNERSHIP_AND_CARRY.md) carries the social/economic consequences.
