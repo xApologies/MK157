@@ -1,6 +1,6 @@
 # CHECKPOINT 07 — DEFINITIVE FINAL THREAD HANDOFF
 
-Authority after integration: **08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative.
+Authority after integration: **09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative.
 
 ## Trial architecture
 Valnak supports Solo, Duo, and Trio open wave Trials. Retain rank thresholds:
@@ -27,17 +27,17 @@ Kira's signature Trial use is the **Orb blender**:
 - one or more Orbs resolve into extremely rapid orbital trajectories around Kira / defended local space;
 - this creates a moving physical/Genesis-interactive exclusion/disruption geometry;
 - it is **NOT a force field**;
-- ELDRIS entering the orbital path physically collide with dense, high-speed Black Genesis Orbs and suffer catastrophic blunt/Genesis trauma;
+- eldris entering the orbital path physically collide with dense, high-speed Black Genesis Orbs and suffer catastrophic blunt/Genesis trauma;
 - open Trial arenas provide unusually favorable unconstrained geometry;
 - multi-Orb patterned control progressively makes ordinary melee-wave pressure pathological for Valnak's assumptions.
 
 Kira therefore breaks the Trial while obeying its rules.
 
 Ordinary wave pressure:
-`more ELDRIS → more simultaneous threats → eventual saturation`
+`more eldris → more simultaneous threats → eventual saturation`
 
 Mature Kira in an open Trial:
-`more ELDRIS → more bodies attempting to cross the Orb exclusion geometry`
+`more eldris → more bodies attempting to cross the Orb exclusion geometry`
 
 As long as control/sustain/geometry remain favorable, wave quantity no longer scales against her normally. Later progression can become limited more by time, cognitive load, fatigue, boredom, or willingness to continue than immediate defeat.
 

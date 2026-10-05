@@ -1,0 +1,119 @@
+{
+  "package": "MK157_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION",
+  "checkpoint": "09",
+  "baseline_git_head": "1f7585eae09df24fb9d7c17d74955c8dbbdeaa3c",
+  "authority_after_integration": "09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01",
+  "generated_utc": "2026-10-05T16:51:42.153061Z",
+  "files": [
+    {
+      "path": "01_CREATOR_CRAFTSMAN_CONTINUITY.md",
+      "bytes": 16209,
+      "sha256": "e0c1d4cd4112899a77c8f6e7d036e998740d64a3bce38655597ad73c17e2775b"
+    },
+    {
+      "path": "02_VALNAK_CITY_CULTURE_TRANSPORT.md",
+      "bytes": 2374,
+      "sha256": "2ea8c842e815291d4a48519e2c77a9ee1120bc438e9b30c67219a475f8b8813c"
+    },
+    {
+      "path": "03_RAEON_FLAGSHIP_AND_TOURNAMENT.md",
+      "bytes": 2033,
+      "sha256": "800905e45466edb7360684d6962a57bb217374da8f3d1b22ef50298bbf4b3e2a"
+    },
+    {
+      "path": "04_COMBAT_ECOLOGY.md",
+      "bytes": 3802,
+      "sha256": "64e471ef7f65b13837099a216c6231865150c8c10b1c3a89996673de2357a0fc"
+    },
+    {
+      "path": "05_WORLD_CLOCK.md",
+      "bytes": 1807,
+      "sha256": "d399a925dbd38ca9c931d684d43c6ff2d91be96d65678dfa4f915829f5a092c7"
+    },
+    {
+      "path": "06_PRISM_TRACKING_MODEL.md",
+      "bytes": 1408,
+      "sha256": "489b90d91984b4302d404207042a27f5b63bb03ac7c258666af55af4f9b5b0d5"
+    },
+    {
+      "path": "07_STORY_CLOCK_STATE.md",
+      "bytes": 1576,
+      "sha256": "4cbea0770a22d00ac4c95aca6a2f21a802ef8ad6f48897def62f55c1cad5c1b5"
+    },
+    {
+      "path": "08_SOURCE_BOUNDARIES.md",
+      "bytes": 1482,
+      "sha256": "2bde000a965ec368c1a76d090785f1765f4bc7e4319fd90dcbdd5c3ea5aebb67"
+    },
+    {
+      "path": "16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md",
+      "bytes": 37646,
+      "sha256": "71673fdc20aa9c76680fa5d3e11e83ed1c5dea96a9059915e4ab81fc0d0ce65a"
+    },
+    {
+      "path": "CITY_LOCATION_REGISTRY.csv",
+      "bytes": 653,
+      "sha256": "06b3ada19da2a40ecf011db33488d4cf48aaf8d1426895af67403b4b74cd20dc"
+    },
+    {
+      "path": "COVERAGE_MANIFEST.csv",
+      "bytes": 6772,
+      "sha256": "8f223f98d5538999f4e4a1920a8ded1c2937bfe94855cfa74e454daa2df159dc"
+    },
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 7476,
+      "sha256": "17333bd87b07cb2a457cf9b5f893fa845743a2dd61cf7a2e5d500980efbac37e"
+    },
+    {
+      "path": "GIT_GAP_AUDIT.md",
+      "bytes": 2953,
+      "sha256": "b62493d871005ed9594d2f89acf6d1a77f6b792dde3d0741e05fcb09ef8e9fdb"
+    },
+    {
+      "path": "PACKAGE_AUDIT.md",
+      "bytes": 1620,
+      "sha256": "4bacb5916e5f4b69083b196c58bf84f2d7a010c28762a8291643054b805998e1"
+    },
+    {
+      "path": "PRISM_TEAM_TRACKER.csv",
+      "bytes": 1452,
+      "sha256": "35e974bfcdb9c555aded14b99615a250924364fbf10cc4412e378b92af17eff3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1470,
+      "sha256": "48bcc4bf262f84882b49449e3587cda6152e75108b44f351b416e0f63ea82efb"
+    },
+    {
+      "path": "WORLD_CLOCK_TEMPLATE.csv",
+      "bytes": 6625,
+      "sha256": "18d639457b20c90072a65afee5264c39a0d847073191e7fad9eed4aeec179a1b"
+    },
+    {
+      "path": "upstream-snapshots/MK147_ELDRIS_DUNGEONS_DOMAI.md",
+      "bytes": 1363,
+      "sha256": "e1cd249e34d43c3dfe3ce6f61426d15ff8ae9612453dc78e5ff72b05cfbb75f2"
+    },
+    {
+      "path": "upstream-snapshots/MK147_RAEON_EXCERPT.md",
+      "bytes": 568,
+      "sha256": "ee5493d9230b9538689750d6683d5d2f376269284a5c7c0dfa730d9eb7541716"
+    },
+    {
+      "path": "upstream-snapshots/MK147_STORMS_DOMAI.md",
+      "bytes": 1689,
+      "sha256": "43316c1990efd91a42e09ad96750985f7b46410d32e0a57bd7bc5d86f1de0c54"
+    },
+    {
+      "path": "visual-references/VALNAK_CITY_MAP_001_RAEON_FLAGSHIP.png",
+      "bytes": 3495387,
+      "sha256": "e6e6992bed00722bf2c875d1d4bf6c99cb7d5137d20cf73d2d8b4c089e0a3a92"
+    },
+    {
+      "path": "visual-references/VALNAK_DUNGEON_DOMAI_BASE_MAP.jpeg",
+      "bytes": 820290,
+      "sha256": "ca49e407f3d04f9983550bf5bf5ecd4cc18903cbff041f9924172ea0318d2cd8"
+    }
+  ]
+}

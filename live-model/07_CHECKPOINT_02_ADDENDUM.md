@@ -1,4 +1,4 @@
-> Source checkpoint 02. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 02. Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Checkpoint 02 Addendum — Valnak Society, illi, Highlights, Legacies
 
@@ -10,7 +10,7 @@ Current canonical spelling is **VALNAK**. Normalize Valnak/Valnec/Valmec/Valmac 
 ## Arc One
 Arc One: Kira enters Afflicted → evaluation → six Black offerings → Armor of the Abyss → Valnak BLACKOUT / Elara emergency cutoff → Kira remade → solo Trial → Wave 8 clear → Yellow → Wave 9 overwhelm/death → restoration.
 
-Kira and the noble prodigy both clear Wave 8 and are Yellow. Kira kills several more ELDRIS during Wave 9, making her **#1 First-Cycle standing**; the noble is #2.
+Kira and the noble prodigy both clear Wave 8 and are Yellow. Kira kills several more eldris during Wave 9, making her **#1 First-Cycle standing**; the noble is #2.
 
 ## Valnak population topology
 Valnak is a civilization and sanctuary, not merely an event.
@@ -26,11 +26,11 @@ Fresh **First-Cycle Initiates** cannot be carried by mature veterans in progress
 Retirement means dangerous service is no longer owed, not that contribution must stop. Permanent residents may voluntarily teach at Blackstone, mentor, craft, research, coach Prism, operate businesses, etc., and Valnak can reward this with credits. Exact sanctuary qualification and post-death persistence/reconstruction remain OPEN.
 
 ## Blackstone
-Blackstone is Valnak's institution of knowledge, warfare education, tactics, strategy, research and training. It bridges individual capability and organized warfare. It teaches ELDRIS behavior, battlefield awareness, formations, dungeon warfare, sustainment, command/communication, withdrawal, casualty management and integration with military/guards/adventurers.
+Blackstone is Valnak's institution of knowledge, warfare education, tactics, strategy, research and training. It bridges individual capability and organized warfare. It teaches eldris behavior, battlefield awareness, formations, dungeon warfare, sustainment, command/communication, withdrawal, casualty management and integration with military/guards/adventurers.
 
 Faculty can include century-retired veterans. Blackstone is architecturally a beautiful university campus integrated with gardens/water, not a fortress/citadel/Pentagon.
 
-Military organizations rotate personnel through Valnak while retaining outside continuity forces because ELDRIS do not pause during openings. Entire formations can enter to retrain. Valnak performance is visible to recruiters.
+Military organizations rotate personnel through Valnak while retaining outside continuity forces because eldris do not pause during openings. Entire formations can enter to retrain. Valnak performance is visible to recruiters.
 
 ## Children's Valnak
 Under 17s can enter a protected developmental domain. Children experience tactical fear/consequences without adult visceral mutilation/pain: a struck arm can go numb/unusable; a struck leg can go dead; severe hits remove them from a Trial.

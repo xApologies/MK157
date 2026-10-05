@@ -1,6 +1,6 @@
 # Authority and supersessions
 
-Checkpoint 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -64,3 +64,11 @@ Older Checkpoint 03 Signature first Binding absorption wording is superseded by 
 - Prime roles/ordinary graphs PE-001–003 are locked; PE-004–009 recipe selections generated from existing IDs remain ALPHA/WORKING. Gas base costs have no deterministic convention and remain OPEN.
 
 [Full delta](15_CHECKPOINT_08_LIVE_MODEL_DELTA.md) retains all non-conflicting detail. Original 07B ordering is preserved in provenance/Git history.
+
+## Checkpoint 09 governing continuation
+
+Checkpoint 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+Lowercase `eldris` supersedes Checkpoint 08 uppercase typography. `raeon`, `domai`, `vaen`, `maege`, `maegi` are lowercase; spelling-by-letter capitals are transcription artifacts.
+The current carriage supersedes historical Open Blank transport. Schedule PDFs supply methodology only. MK157 explicit canon governs approved upstream inheritance. Outside persistent Dungeons are distinct from Valnak procedural training; outside `domai` unravel progressively after core break, while Valnak incursions terminate as completed encounters.
+Checkpoint 08 Green Solo graduation and Black/White progression remain. No new registry records are requested. The exact Checkpoint 09 master retains its original pending-integration header and quoted uppercase transcription example; current status is integrated and its authority is active.
+See [full master](16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md), [source boundaries](SOURCE_BOUNDARIES.md), and [reverse coverage audit](../provenance/CHECKPOINT_09_COVERAGE_MANIFEST.csv).

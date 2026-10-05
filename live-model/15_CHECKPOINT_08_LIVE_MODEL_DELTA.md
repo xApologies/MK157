@@ -2,7 +2,7 @@
 
 Status: AUTHORITATIVE — integrated; original package preserved in provenance.
 Base: Git main through Checkpoint 07B.
-After integration: 08 > 07B/08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+After integration: 08 > 07B/09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 
 ## 1. Engine / development method
 Author stack: L0 MKUltra/_bricked reality mathematics and physics → L1 Genesis/Transduction fantasy engine → L2 Geography ↔ Civilization world engine (including Valnak) → L3 Characters → L4 Story Engine. Books are designed in ARCS, not fixed chapter counts. Calendar is simulation time; arcs are narrative state transitions.
@@ -17,7 +17,7 @@ Normalize obvious voice-to-text variants without creating new canon:
 - `vaen` lowercase V-A-E-N; normalize vein/vain/vane when context is clear.
 - `maege` lowercase singular; `maegi` lowercase plural.
 - `velis` lowercase V-E-L-I-S.
-- `ru’ne`, `aera`, `domai` lowercase; ELDRIS uppercase.
+- `ru’ne`, `aera`, `domai` lowercase; `eldris` lowercase.
 - Legacy/Legacies supersedes old in-world Pass/Passes and Path/Paths nomenclature for Valnak's curated developmental architecture.
 If a token cannot confidently map to canon, leave it unresolved. `Aelis` was an accidental transcription and is NOT a character; Trio third participant remains OPEN.
 

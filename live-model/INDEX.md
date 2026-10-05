@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
+Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -20,8 +20,8 @@ Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; othe
 - [Prior baseline](../prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md) — Complete inherited mechanics and story, subject to supersessions.
 
 - [Checkpoint 05](10_CHECKPOINT_05_ADDENDUM.md) — Seasons, economy, six-domain taxonomy, fatigue, summons, Builder, Kira/illi progression.
-- [Binding registry](../bindings/README.md) — 1,014 domain-first candidate Bindings and recursive rank pricing.
-- [Summoned Entity registry](../summons/README.md) — 220 non-sentient autonomous manifestation candidates.
+- [Binding registry](../bindings/README.md) — 1,016 domain-first candidate Bindings and recursive rank pricing.
+- [Summoned Entity registry](../summons/README.md) — 229 non-sentient autonomous manifestation candidates.
 - [Builder Legacies](../builder/paths/README.md) — 200 candidate trajectories; generated candidates do not define Kira or illi.
 - [Checkpoint 05 package](../provenance/checkpoint-05-package/MANIFEST.json) — Original update manifest and handoff.
 - [Checkpoint 05 validation](../provenance/CHECKPOINT_05_AUDIT.json) — Import hashes and independently verified registry counts/references.
@@ -39,3 +39,25 @@ Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; othe
 - [Checkpoint 08 delta](15_CHECKPOINT_08_LIVE_MODEL_DELTA.md) — Full governing reconciliation and Day 1–2 runtime.
 - [Prime Elementals](PRIME_ELEMENTALS.md) — Locked roles/graphs, working taxonomy, candidate recipes and illi overrides.
 - [Checkpoint 08 audit](../provenance/CHECKPOINT_08_AUDIT.json) — Counts, mirrors, preservation, recipes, OPENs and conflict report.
+
+- [COMBAT_ECOLOGY.md](COMBAT_ECOLOGY.md) — Checkpoint 09 current domain, preserving full source detail.
+
+- [CREATOR_CRAFTSMAN.md](CREATOR_CRAFTSMAN.md) — Checkpoint 09 current domain, preserving full source detail.
+
+- [PRISM.md](PRISM.md) — Checkpoint 09 current domain, preserving full source detail.
+
+- [RAEON.md](RAEON.md) — Checkpoint 09 current domain, preserving full source detail.
+
+- [SOURCE_BOUNDARIES.md](SOURCE_BOUNDARIES.md) — Checkpoint 09 current domain, preserving full source detail.
+
+- [STORY_CLOCK_STATE.md](STORY_CLOCK_STATE.md) — Checkpoint 09 current domain, preserving full source detail.
+
+- [VALNAK_CITY_CULTURE_TRANSPORT.md](VALNAK_CITY_CULTURE_TRANSPORT.md) — Checkpoint 09 current domain, preserving full source detail.
+
+- [WORLD_CLOCK.md](WORLD_CLOCK.md) — Checkpoint 09 current domain, preserving full source detail.
+
+- [Checkpoint 09 exact master](16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md) — exhaustive governing continuation; original package header preserved.
+- [World Clock data](../world-clock/WORLD_CLOCK_TEMPLATE.csv) — 49 weeks, sparse authoring coordinates.
+- [Prism tracker](../world-clock/PRISM_TEAM_TRACKER.csv) — 37 exact unnamed placeholders.
+- [Locations](../visual-references/CITY_LOCATION_REGISTRY.csv) — 001 flagship, 001-A restaurant, 001-B Champion Tables.
+- [Checkpoint 09 coverage](../provenance/CHECKPOINT_09_COVERAGE_MANIFEST.csv) and [audit](../provenance/CHECKPOINT_09_AUDIT.json).

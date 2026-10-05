@@ -1,6 +1,6 @@
 # Retained Combat Trial thresholds
 
-Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Baseline thresholds and prime-count escalation are retained. Exact final Eternal Standing wave numbers remain OPEN.
+Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Baseline thresholds and prime-count escalation are retained. Exact final Eternal Standing wave numbers remain OPEN.
 
 ## Endless Combat Trial and rank
 

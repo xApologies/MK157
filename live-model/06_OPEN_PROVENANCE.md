@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # OPEN questions, supersessions, provenance
 
@@ -95,7 +95,7 @@ recurring comedy, but exact later Legacies remain OPEN.
 17. Valnak/Elara continue discovering that Kira's developmental ceiling
     breaks historical assumptions.
 18. Long arc: Yellow starscape disequilibrium is the root
-    Genesis-collapse/ELDRIS problem; Kira ultimately stabilizes it.
+    Genesis-collapse/eldris problem; Kira ultimately stabilizes it.
 
 ## Repository update note
 

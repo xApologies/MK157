@@ -2,7 +2,7 @@
 
 # Checkpoint 07B — Final Gap Patch
 
-Authority remains **Checkpoint 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01**. This is a same-checkpoint normalization patch, not a new conceptual checkpoint.
+Authority remains **Checkpoint 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01**. This is a same-checkpoint normalization patch, not a new conceptual checkpoint.
 
 ## Audit finding
 

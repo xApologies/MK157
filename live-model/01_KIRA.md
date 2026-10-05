@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Kira --- Affliction, evolution, transformation, design
 
@@ -125,17 +125,17 @@ Kira's signature Trial use is the **Orb blender**:
 - one or more Orbs resolve into extremely rapid orbital trajectories around Kira / defended local space;
 - this creates a moving physical/Genesis-interactive exclusion/disruption geometry;
 - it is **NOT a force field**;
-- ELDRIS entering the orbital path physically collide with dense, high-speed Black Genesis Orbs and suffer catastrophic blunt/Genesis trauma;
+- eldris entering the orbital path physically collide with dense, high-speed Black Genesis Orbs and suffer catastrophic blunt/Genesis trauma;
 - open Trial arenas provide unusually favorable unconstrained geometry;
 - multi-Orb patterned control progressively makes ordinary melee-wave pressure pathological for Valnak's assumptions.
 
 Kira therefore breaks the Trial while obeying its rules.
 
 Ordinary wave pressure:
-`more ELDRIS → more simultaneous threats → eventual saturation`
+`more eldris → more simultaneous threats → eventual saturation`
 
 Mature Kira in an open Trial:
-`more ELDRIS → more bodies attempting to cross the Orb exclusion geometry`
+`more eldris → more bodies attempting to cross the Orb exclusion geometry`
 
 As long as control/sustain/geometry remain favorable, wave quantity no longer scales against her normally. Later progression can become limited more by time, cognitive load, fatigue, boredom, or willingness to continue than immediate defeat.
 
@@ -185,3 +185,161 @@ Genesis Orbs are INTENTIONALLY ANOMALOUS; do not classify them as literal singul
 Orb competency: late Yellow one Orb/crude cannonball → one-orb orbit → around mid-Green two-Orb competency and mature patterned blender → late Violet three-Orb competency. Current mature ceiling THREE.
 Orbital weapons are not invented by Kira; ordinary multi-object shaping is cognitively/fatigue expensive. Summons offload local behavior into autonomy. Kira is a brute-force brawler/improviser, not a finesse swordfighter.
 After Valnak, one continuously sustained Orb can host/project Elara's external presence; exact identity/instancing semantics remain OPEN.
+
+## Checkpoint 09 — Creator identity and Eternal Champion
+
+# 9. Rooftop restaurant / Champion Tables
+
+The restaurant from Arc One sits high atop the `raeon` flagship.
+
+Physical author model:
+- three descending/stepped terrace levels;
+- upper tier deeper into the roof;
+- middle tier extends farther outward;
+- lower tier extends to the roof edge;
+- the ten Champion Tables occupy the prime centered edge positions with exceptional views over the city and the public sky display.
+
+Ordinary restaurant seating uses reservations and fills quickly around the nightly highlights. Food costs a small/trivial amount of credits; the experience is primarily social rather than a major credit sink.
+
+## Champion Tables
+
+The ten Champion Tables correspond to the current **Top 10 First-Cycle Solo standings**.
+
+Working ranking/tie rule:
+1. highest validated Solo wave/result;
+2. deeper validated progress within the next failed wave where required;
+3. earliest achievement retains the higher position when otherwise tied.
+
+The ranked participant controls the table access while they hold that position and can bring guests.
+
+Kira takes #1 on Day One and **never relinquishes #1 during the entire seven-season cycle**.
+
+The center/prime #1 table therefore becomes socially known as **Kira's table**.
+
+This uninterrupted reign produces Kira's cultural epithet:
+
+**THE ETERNAL CHAMPION**
+
+This is an emergent title, not a Binding, Legacy or formal rank.
+
+# 11. Kira / illi / Elara public visibility
+
+By Day Two, Kira is unmistakably famous:
+- only Black Legacy;
+- Day-One Yellow first-cycle Solo result;
+- #1 Champion Table;
+- first-night highlight exposure;
+- extraordinary transformed biology;
+- white skin remains despite Valnak normally correcting ordinary Afflicted pathology.
+
+illi is already publicly known as the princess and becomes more interesting publicly because of her White Legacy and association with Kira.
+
+Elara is universally known **of** as the Custodian, but her visual appearance is much less universally recognized. Regulars/veterans may know her; others may only realize who she is after seeing her with Kira/illi.
+
+Kira and illi experience celebrity while exploring Valnak:
+- pointing/staring;
+- greetings/autographs or cultural equivalents;
+- people asking questions;
+- people approaching them about crews/dungeons;
+- gossip about their partnership.
+
+illi has lifelong experience handling public attention. Kira does not.
+
+# 13. Day One / Day Two story runtime
+
+## Day One
+Current governing spine remains Checkpoint 08:
+- Kira enters Valnak;
+- Black restructuring / BLACKOUT;
+- Armor of the Abyss;
+- first Solo;
+- clears Wave 8 / enters Wave 9 / Yellow;
+- #1 First-Cycle Solo;
+- residence;
+- Kira/illi/Elara social formation;
+- Champion Table dinner;
+- first highlight reels;
+- Kira becomes a public phenomenon.
+
+## Day Two
+Arc Two opens with the Duo Trial.
+
+Kira + illi:
+- first Duo attempt;
+- die / Trial terminates / residence re-instancing;
+- process the psychological shock;
+- try a second Duo;
+- eventually decide they have done enough combat for the day.
+
+Then:
+- enter Valnak proper;
+- use Node/domain-scale transport and local carriage infrastructure;
+- lunch at Kira's center #1 Champion Table;
+- explore the `raeon` flagship;
+- browse/build/shop rather than pursue another mandatory objective;
+- explore the central city;
+- encounter celebrity attention and early crew recruitment;
+- potentially see Prism / ordinary city life;
+- return to highlights that evening when narratively useful.
+
+Arc Two deliberately introduces Valnak through slice-of-life exploration instead of exposition.
+
+# 34. Kira's Creator identity
+
+Kira was raised in an armorsmith household.
+
+She enters Valnak originally intending to pursue Creation/Craftsman development.
+
+Her specialty is:
+
+**MAIL**
+
+Combat development does not erase this identity.
+
+# 35. Kira's mail background
+
+From childhood Kira learned:
+- wire preparation;
+- mandrel/coiling;
+- clipping rings;
+- closures;
+- weaving;
+- repair;
+- garment construction;
+- fit;
+- articulation.
+
+At 22 she is already an exceptional conventional mail armorsmith:
+fast, precise, low-waste, dexterous, excellent at repair and fitting.
+
+# 36. Why Kira loves mail
+
+Concept:
+**MANY SMALL LINKS -> ONE PROTECTIVE SURFACE**
+
+There is geometric/topological beauty in the craft.
+
+This is part of why Armor of the Abyss resonates with her identity.
+
+# 37. Kira's physical conditioning
+
+Smithy work gives Kira:
+- forearm strength;
+- back strength;
+- leg strength;
+- endurance;
+- dexterity;
+- material-handling experience.
+
+This supports initial physical competence without making her a trained warrior.
+
+# 38. Kira's original Valnak dream
+
+Kira wants to become a real Transductive blacksmith:
+manual metalwork -> conducting matter -> direct shaping -> Genesis/material interaction -> structures impossible through ordinary fabrication.
+
+She remains a blacksmith even while the Black Legacy forces combat development.
+
+
+
+Full Creation continuity: [Creator/Craftsman](CREATOR_CRAFTSMAN.md). Current story runtime: [story clocks](STORY_CLOCK_STATE.md).

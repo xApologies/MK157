@@ -6,7 +6,7 @@ This constitution governs cross-thread MK157 development. Its purpose is continu
 ## Authority
 1. Git is the persistent cross-thread source of truth.
 2. At a new thread start, crawl the MK157 repository before reconstructing established systems from memory.
-3. Current authority is Checkpoint 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+3. Current authority is Checkpoint 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 4. Provenance/historical files are not current canon merely because they remain in Git.
 5. Never silently revive superseded material.
 6. OPEN means OPEN. Distinguish LOCKED / WORKING / ALPHA / OPEN / SUPERSEDED.
@@ -139,7 +139,7 @@ Purpose: prevent voice-to-text drift from mutating canon.
 | `ru’ne` | rune, ru'ne |
 | `aera` | phonetic variants |
 | `domai` | phonetic variants |
-| ELDRIS | Eldris/Elders when unambiguous |
+| eldris | Eldris/Elders when unambiguous |
 | Legacy / Legacies | old Pass/Passes and Path/Paths when referring to Valnak curated development |
 
 Rules:
@@ -158,3 +158,37 @@ MK157 inherits compatible MK-147 world mechanics/worldbuilding where not superse
 ## Checkpoint 08 continuity locks
 
 Green Solo graduates first-cycle progression grouping early; social life is not quarantined. Repeat legitimate Trials award credits without a personal-best requirement. Orbs are intentionally anomalous; no ontology is assigned. illi's six first-cycle capabilities are governed by [Checkpoint 08](live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md), not older 07B direct/area-healing plans.
+
+## Checkpoint 09 — lexical and external-source authority
+
+# 1. Lexical and voice-to-text corrections
+
+Canonical normalizations:
+- **Valnak** — normalize Valnek / Valnac / Valnec / Valneck / Valmek / Valmax / Valknet / Balnak and obvious contextual variants.
+- **Elara** — normalize Alara / Ilara where context is clear.
+- **illi** — normalize Ily / Illy / Ellie where context is clear.
+- **`eldris`** — lowercase normal word, not an acronym. Voice-to-text spelling-by-letter may produce eldris; normalize to `eldris` in active canon.
+- **`domai`** — lowercase normal word, D-O-M-A-I.
+- **`raeon`** — lowercase normal word, R-A-E-O-N; normalize Rayon / Raon / Raeon when the game is intended.
+- **`vaen`** — lowercase V-A-E-N; contextual vein/vain/vane is transcription drift.
+- **`maege` / `maegi`** remain canonical.
+- `velis`, `ru’ne`, `aera` retain existing canonical spelling/case.
+
+General spelling-by-letter rule:
+When the user spells a word aloud for voice-to-text clarity, resulting all-caps transcription is NOT evidence that canon is uppercase. Established lexical spelling wins.
+
+# 2. External source authority
+
+MK157 remains authoritative for MK157.
+
+Approved upstream/reference repositories:
+- `xApologies/_bricked` — Layer-0 mathematics/physics: Genesis Field, Chirality Fabric, QMO/propagation architecture and related foundational structures.
+- `xApologies/_raeon` — primary mechanical authority for the `raeon` card game.
+- `xApologies/Mk-147` — inherited fantasy-world/cultural implementation where MK157 has not deliberately superseded it.
+
+Inheritance order for conflicts:
+MK157 explicit canon > applicable MK-147 story/world implementation > `_raeon` game mechanics > `_bricked` foundational math for the relevant layer.
+
+Do not import unrelated MK-147 Kira/Enix identity, Binding-circle causality, old progression ladders, or other setting-specific material merely because a source file exists.
+
+[Source quarantine](live-model/SOURCE_BOUNDARIES.md) governs inherited documents. The exact Checkpoint 09 master is retained verbatim as source evidence; its PENDING header describes package creation, not current integration state.

@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Valnak, Elara, Legacies, automation, residences, cities
 
@@ -50,7 +50,7 @@ The discount is incentive; the deeper product is a validated route of
 continued development that reduces build stagnation. Legacies have
 checkpoints and can branch/combine after completion.
 
-Valnak continually updates Legacies to train civilization against ELDRIS
+Valnak continually updates Legacies to train civilization against eldris
 and occupy individual competency. Human discoveries can be validated and
 incorporated into future catalogs/Legacies; humanity teaches Valnak while
 Valnak teaches humanity.
@@ -225,3 +225,209 @@ Genesis Beam GREEN → Genesis Prime RED available.
 Persistent Coherence GREEN → Coherence Prime RED available.
 Absorption Shield GREEN → Resonance Prime RED available.
 Prime begins Red and ranks normally. Omitted ordinary recipe is sandboxed; illi does not inherit it.
+
+## Checkpoint 09 — civilization, city and progression ecology
+
+# 4. Valnak as civilization engine
+
+Valnak does not exist solely to train combatants.
+
+Central doctrine:
+**Valnak develops civilization so civilization can survive the `eldris` threat.**
+
+Elara observes civilization, configures the next Seasonal Valnak deployment, launches it, watches what humans do, validates useful discoveries, and incorporates what worked into later cycles.
+
+Permanent Valnak persists. Seasonal Valnak is the expensive ~23-year recurring deployment already defined in Checkpoint 08.
+
+Valnak's civilization-development responsibilities include:
+- combat capability;
+- Creator/craft capability;
+- infrastructure;
+- knowledge/concept;
+- social coordination;
+- recreation/culture;
+- sport;
+- professional validation;
+- experimentation and discovery.
+
+Combat protects civilization. Creation develops civilization.
+
+# 5. Valnak population / participation ecology
+
+Valnak contains overlapping populations rather than one giant adventurer lobby.
+
+Examples:
+- leisure visitors / vacationers using carried-forward credits;
+- people primarily interested in the current `raeon` Cycle;
+- Creators pursuing craft development;
+- students/knowledge seekers using Blackstone;
+- Prism athletes and spectators;
+- combat participants;
+- veterans returning for progression;
+- permanent Valnak residents and their visitors.
+
+Combat participation itself varies:
+- relentless grinders;
+- people who fight, recover, socialize, then return;
+- preorganized crews;
+- solo entrants who recruit in Valnak;
+- people optimizing Trials;
+- people optimizing Dungeons;
+- participants who only dabble in combat for credits.
+
+Most serious participants arrive with plans because Valnak has operated for centuries and each outside interval provides decades for preparation.
+
+# 6. Blackstone
+
+Blackstone is inherited from MK-147 rather than rebuilt.
+
+Blackstone is an ancient prestigious **Institution of Knowledge** that originated in Valnak and later propagated throughout civilization. Kingdoms now contain Blackstone campuses/satellite institutions alongside other Institutions of Knowledge.
+
+Blackstone teaches **concept**:
+mathematics, biology, chemistry, Genesis-field theory, Transduction, and other disciplines needed for deeper understanding.
+
+Better concept improves shaping realization, stability, precision, control and efficiency, reducing waste toward the irreducible physical/Transductive requirement of the shaping.
+
+Blackstone does NOT grant Bindings. Valnak remains the source of Binding acquisition, ranking, Legacy architecture and credit-mediated progression.
+
+Participants may attend Blackstone for a few classes, multiple seasons, or concentrated programs; education continues outside Valnak between cycles.
+
+For MK157, Blackstone mostly remains background infrastructure unless a scene naturally requires it.
+
+# 7. Valnak city cartography
+
+The selected Valnak city master map remains the geographic substrate.
+
+Working scale: approximately **20 miles x 20 miles**.
+
+Population is managed by multiple city instances/copies so billions of participants are not physically crammed into one city. Instances can share the same canonical major geography and services.
+
+Named major anchors currently include:
+- **PRISM** — northeast sporting domain.
+- **CRAFTSMAN'S ROW** — central Creator district.
+- **BLACKSTONE** — southeast institution/campus.
+- **001** — `raeon` flagship in the central commercial core.
+
+Broad residential regions visible on the author map:
+- west / left side;
+- north / upper-central area;
+- south-central / ~6 o'clock island area immediately west/left of Blackstone.
+
+These are broad author-facing residential zones, not an exhaustive urban zoning law. Persistent personal residences may also use Valnak's established instanced/addressable residence architecture.
+
+Cartographic rule:
+- keep the base geography stable;
+- add compact serialized markers for story-relevant locations;
+- store semantics in a repository location registry;
+- do not plaster long names over the map;
+- map serials describe **places**, not scenes.
+
+# 12. illi's independence arc
+
+Before Valnak, the royal family rationally optimized illi's first-cycle cohort.
+
+The king/queen selected compatible first-cycle peers around her expected helkir trajectory. illi knows them and is friendly with them, but they are essentially an assigned cohort, not a friendship obligation.
+
+Inside Valnak, illi realizes she has real autonomy.
+
+She chooses Kira because she likes Kira, not because Kira was part of the optimized royal plan.
+
+illi effectively ditches the planned cohort and begins constructing her own identity independent of the royal household. Elara finds this amusing.
+
+The cohort is not automatically antagonistic. illi may interact/run with them occasionally, but she owes them no permanent party slot.
+
+This personal independence develops alongside illi's White-Legacy operational independence.
+
+# 14. Valnak transportation
+
+There are two practical movement scales.
+
+## Macro / domain-scale movement
+Use the personal Node to select a major city region/domain. Valnak relocates the participant to a central transportation hub, author analogy: Grand Central Station.
+
+## Local movement
+Walk, use appropriate personal movement, or hail a Valnak carriage.
+
+### Valnak carriage
+Valnak-specific utopian municipal transport; do not export automatically to outside kingdoms.
+
+Physical model:
+- autonomous;
+- large enclosed rectangular-prism cabin / "big box";
+- somewhat larger than a modern 15-passenger van;
+- approximately 12 passengers;
+- swiveling captain's chairs so groups can face one another;
+- no conventional windows;
+- fully interactive interior wall/HUD surfaces;
+- walls may be opaque/private or one-way translucent so passengers see out while outsiders cannot see in;
+- walls can display environmental projections;
+- passenger selects destination on the wall/map;
+- carriage physically travels through the city;
+- no human driver;
+- ordinary use is part of Valnak public infrastructure rather than a private-car ownership economy.
+
+Character-facing abstraction:
+hail carriage -> board -> select destination -> ride -> exit.
+
+Do not over-engineer the underlying propulsion unless story requires it.
+
+# 23. First-Cycle social/group ecology
+
+Many participants arrive with preplanned groups, friends, family or institutional cohorts.
+
+First-cycle cohort restriction prevents mature-veteran boosting; it does NOT forbid first-cycle participants from intelligently optimizing with one another.
+
+illi's royal cohort is a prime example of legal preplanning.
+
+By Day Two, participants are already:
+- comparing standings;
+- estimating credits/hour;
+- identifying build weaknesses;
+- recruiting crews;
+- planning five-person dungeon compositions.
+
+Kira + illi become particularly attractive because the public increasingly perceives them as a Guardian/helkir core with rare Black/White Legacies.
+
+# 37. First-Cycle build economics
+
+First-cycle development often favors **breadth before deep specialization** because flexible toolkits solve more varied problems.
+
+Participants choose among:
+- buying another low-rank Binding;
+- ranking an existing Binding;
+- saving toward a prerequisite;
+- purchasing utility/defense/offense to improve current credits/hour.
+
+Example author logic:
+a single Yellow Fireball may be less useful early than several Red/Orange tools if the participant has no answers to varied procedural encounters.
+
+Kira is unusual because the Black Legacy gives her very few extremely deep/integrated systems rather than normal early breadth.
+
+# 38. Prerequisite / recipe progression
+
+Deeper Bindings can require configurations such as:
+- Binding A at Yellow;
+- Binding B at Green;
+- Binding C at Green;
+- sufficient credits;
+then advanced Binding becomes purchasable at Red.
+
+Thus Valnak progression is an interconnected **build graph**, not a flat store.
+
+Veterans:
+- already possess breadth;
+- rank selected foundations over multiple cycles;
+- unlock deeper specialist Bindings;
+- use those as prerequisites for still deeper/capstone architectures.
+
+Credits persist across cycles, so decades-long development plans are rational.
+
+Participants optimize simultaneously for:
+- immediate capability;
+- current credits/hour;
+- prerequisite progression;
+- long-term multi-cycle goals.
+
+White Legacies are exceptional partly because they can compress these graphs.
+
+Creation is a primary Valnak route: [full Creator/Craftsman continuity](CREATOR_CRAFTSMAN.md). [City/culture/transport](VALNAK_CITY_CULTURE_TRANSPORT.md), [raeon](RAEON.md), [Prism](PRISM.md), and [World Clock](WORLD_CLOCK.md) preserve the full current domain detail. Checkpoint 08 Green Solo graduation and Black/White progression remain governing.

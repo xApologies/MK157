@@ -1,0 +1,505 @@
+# MK157 — DUNGEON / RAID / DOMAI COMBAT ECOLOGY
+
+## Core progression theaters
+Trials -> Dungeons / Hard Dungeons -> Raids -> large-scale `domai` incursions.
+These are different combat problems, not simple linear reskins.
+
+## Trials
+Reliable repeatable credit workhorse.
+Standings track highest result; repeated legitimate performance still pays.
+
+## Dungeon economy
+Five-person groups.
+Partial progress pays something.
+Large completion bonus creates the major credit advantage.
+Failed runs can be worse credits/hour than Trial farming.
+Reliable clears can dramatically outperform low-wave Trial farming.
+
+## Guardian / helkir
+No taunt, aggro or threat table.
+Guardian controls access/space by persistence, positioning, terrain, interception and disruption.
+If an `eldris` gets through, the rest of the group must solve it.
+`helkir` are especially valuable because sustain can turn a failure-prone crew into reliable completion.
+
+Common culture: Guardian + helkir + 3 flexible.
+Not enforced.
+2 Guardian comps, summon-heavy, control-heavy, offense-heavy etc. are legal.
+
+## Dungeon ranks
+Red / Orange / Yellow / Green / Blue / Violet.
+No White Dungeon.
+
+Dungeon rank is maximum `eldris` basin:
+R
+R+O
+R+O+Y
+R+O+Y+G
+R..B
+R..V
+
+## Inherited `eldris`
+Red physical.
+Orange intrusion.
+Yellow ranged force.
+Green juggernaut/persistence threshold.
+Blue expressed projection.
+Violet high Genesis expression.
+
+## Normal vs Hard Dungeon
+Normal ~5 sq mi working author scale.
+Hard ~7.5–8 sq mi working author scale.
+Hard = larger, denser, longer, more difficult legal mixtures, more sustain/navigation pressure.
+Not illegal higher-rank monsters and not generic stat inflation.
+
+## Procedural realization
+Same domain/rank is re-generated each run.
+Crew can learn the encounter language but cannot memorize route geometry.
+
+## Nine domains
+Deep Caverns
+Dune Wastes
+Oldgrowth
+The Overgrown City
+Highlands
+Marshlands
+Frozen Expanse
+Broken Coast
+Ruined Citadel
+
+## Adaptive Dungeon Node map
+Node interface displays active rank-colored nodes over the domain map.
+Group leader selects node and queues group.
+Nodes rotate.
+First-Cycle starts heavily Red/Orange with some Yellow; distribution migrates with population competency while preserving lower tails.
+Mature Valnak can span Red->Violet and still follows population demand.
+
+## Raids
+Participant max 10; smaller groups legal.
+
+Standalone Raid: 6 independent bosses/season.
+Mature: R/O/Y/G/B/V.
+First-Cycle: R/R/O/O/Y/G.
+Bosses are Elara/Valnak fantasy challenges, not ordinary outside `eldris` ecology.
+
+Expedition/Hard Raid: one continuous six-wing operation:
+1 R -> boss
+2 R+O -> boss
+3 R+O+Y -> boss
+4 R..G -> boss
+5 R..B -> boss
+6 R..V -> boss
+
+Sustained fighting creates fatigue before each boss.
+First cycles simply see how far they can get; Expedition Raid is not scaled down for them.
+
+Major boss reward once/participant/boss/season.
+Repeat assist kills are legal without duplicate major reward.
+12 major boss reward opportunities/season total.
+
+## Outside `domai`
+Inherited from MK-147.
+Temporary bounded Genesis-collapse landscape, R->V, no White.
+Internal geometry anomalous/non-isometric; interior can be much larger than exterior bubble footprint.
+Non-conscious superposed White Genesis Crystal core.
+Outside-world core break starts progressive unraveling/harvest/evacuation.
+Can contain `eldris`, crystals, dust/White dust, `vaen`, rare resources.
+
+## Valnak `domai` incursions
+Large-scale training/assault events modeled on real-world threat.
+R->V with cumulative `eldris` palette.
+Military/guild/noble-house/cross-org collaboration.
+Localized participation ledger.
+Credits for validated contribution/kills/support/core assault; core-break bonus.
+High credit potential.
+Valnak version ends as completed encounter when the main White Crystal breaks.
+
+
+## Exhaustive governing Checkpoint 09 detail
+
+# 23. First-Cycle social/group ecology
+
+Many participants arrive with preplanned groups, friends, family or institutional cohorts.
+
+First-cycle cohort restriction prevents mature-veteran boosting; it does NOT forbid first-cycle participants from intelligently optimizing with one another.
+
+illi's royal cohort is a prime example of legal preplanning.
+
+By Day Two, participants are already:
+- comparing standings;
+- estimating credits/hour;
+- identifying build weaknesses;
+- recruiting crews;
+- planning five-person dungeon compositions.
+
+Kira + illi become particularly attractive because the public increasingly perceives them as a Guardian/helkir core with rare Black/White Legacies.
+
+# 24. Trials vs Dungeons economics
+
+Trials remain repeatable, reliable, low-friction credit generation.
+
+A participant can repeatedly farm a stable wave range without needing a personal best.
+
+Dungeons are **completion-weighted**.
+
+A failed Dungeon still gives some contribution/progress credit, but the major economic value comes from completion.
+
+Illustrative principle only:
+a failed run may produce only a few hundred credits while a successful run's completion bonus can be far larger. Exact numbers remain OPEN.
+
+Therefore:
+- low-rank Trial farming can outperform unreliable Dungeon attempts;
+- once a five-person crew can clear reliably, Dungeon credits/hour may dramatically exceed low-wave Trial farming.
+
+Participants optimize expected credits/hour against:
+- completion probability;
+- run time;
+- fatigue;
+- current build;
+- party composition;
+- developmental goals.
+
+# 25. Crew / Guardian / helkir doctrine
+
+Valnak combat has:
+**NO taunt**
+**NO aggro statistic**
+**NO threat table**
+
+An `eldris` behaves according to its own capabilities/opportunities.
+
+Working/canonical front-line term: **Guardian**.
+
+A Guardian protects the group through:
+- persistence;
+- positioning;
+- interception;
+- obstruction;
+- terrain/control;
+- disruption;
+- direct combat;
+- consuming enemy operational bandwidth.
+
+If an `eldris` gets past the Guardian, it remains a threat to the back line. It does not magically return.
+
+Summons are valuable because autonomous bodies add additional control surfaces / walls / threats.
+
+Common successful five-person culture:
+**1 Guardian + 1 helkir + 3 flexible combat positions**
+
+BUT this is a meta, not a Valnak requirement.
+
+Legal examples include:
+- 2 Guardians + helkir + 2 flex;
+- Guardian + helkir + 2 Summoners + offensive specialist;
+- control-heavy;
+- offense-heavy;
+- even five offensive `maegi` if they can actually solve the encounter.
+
+The remaining flexible positions may emphasize offense, Summoning, support/control, or hybrids.
+
+Support/control manages the encounter state/landscape rather than merely maximizing damage.
+
+`helkir` are especially valuable because group healing dramatically increases Dungeon completion probability even when the same healer performs poorly in Solo Trials.
+
+# 26. Dungeon rank / `eldris` composition law
+
+Valnak Dungeon ranks are:
+**Red -> Orange -> Yellow -> Green -> Blue -> Violet**
+
+There are **no White-ranked Dungeons** because White adds no new `eldris` basin category.
+
+Dungeon rank sets the maximum `eldris` basin legally present.
+
+Cumulative palette:
+- Red Dungeon: Red only.
+- Orange: Red + Orange.
+- Yellow: Red + Orange + Yellow.
+- Green: Red + Orange + Yellow + Green.
+- Blue: Red through Blue.
+- Violet: Red through Violet.
+
+No `eldris` above the Dungeon rank may appear.
+
+# 27. Inherited `eldris` taxonomy
+
+Directly inherit from MK-147:
+
+- **Red** — physical.
+- **Orange** — intrusion.
+- **Yellow** — ranged force.
+- **Green** — juggernaut / persistence threshold.
+- **Blue** — expressed projection.
+- **Violet** — high Genesis expression.
+
+Threat bands inherited:
+- A = R/O/Y
+- B = G/B
+- C = V
+
+`eldris` resolve from stabilized recursive Genesis collapse; bodies are black recursive-collapse structures while basin identity leaks through traces/eyes/behavior.
+
+Use lowercase `eldris` in active MK157 prose.
+
+# 28. Normal Dungeon vs Hard Dungeon
+
+Both use the same Red->Violet rank ceiling and rank-legal `eldris` palette.
+
+Working author scales:
+- **Normal Dungeon:** ~5 square miles.
+- **Hard Dungeon:** ~7.5–8 square miles.
+
+These are approximate author scales, not exact geometric guarantees.
+
+Hard Dungeon difficulty comes primarily from:
+- larger generated domain;
+- denser encounter population;
+- longer sustainment requirement;
+- more difficult mixed rank-legal `eldris` configurations;
+- greater fatigue/navigation pressure.
+
+Hard does NOT mean illegally introducing higher-rank `eldris` or merely multiplying health bars.
+
+# 29. Dungeon procedural realization
+
+Dungeon **domain** is the environmental archetype.
+Dungeon **rank** is the difficulty/maximum `eldris` palette.
+Dungeon **realization** is the procedurally generated tactical instance.
+
+Same domain + same rank can be rerun with:
+- different routes;
+- terrain geometry;
+- chokepoints;
+- elevation;
+- encounter placement;
+- `eldris` distribution;
+- local obstacles.
+
+Failure teaches transferable crew lessons but does not create a memorized script.
+
+Valnak trains adaptation, not rote route memorization.
+
+# 30. Nine Dungeon domains
+
+Established environmental archetypes:
+1. **Deep Caverns** — subterranean chambers/passages/shafts/waterways.
+2. **Dune Wastes** — dunes/cliffs/canyons/mesas/open desert.
+3. **Oldgrowth** — dense mature forest/ravines/streams/huge trees.
+4. **The Overgrown City** — nature-reclaimed streets/buildings/rooftops/plazas/infrastructure.
+5. **Highlands** — mountains/ridges/valleys/cliffs/plateaus/passes.
+6. **Marshlands** — wetlands/channels/islands/reeds/mud/submerged ground.
+7. **Frozen Expanse** — snow/glaciers/frozen lakes/crevasses/ice caves.
+8. **Broken Coast** — beaches/cliffs/islands/sea caves/tidal channels.
+9. **Ruined Citadel** — walls/towers/courtyards/gates/halls/bridges/subterranean fortifications.
+
+Domain does NOT imply rank.
+
+# 31. Dungeon Node map and adaptive allocation
+
+The Node's Dungeon interface presents the shared domain/world map.
+
+Active Dungeon nodes appear over the domains with their rank/color.
+
+Group leader selects an active node and queues the five-person group.
+
+Node availability rotates over time. A particular Orange Dungeon can disappear after days and be replaced by another node/domain/rank.
+
+First-Cycle sandbox allocation:
+- early: many Red, many Orange, some Yellow;
+- as the cohort's demonstrated performance migrates upward, Valnak reallocates toward more Orange/Yellow and eventually Green;
+- lower-rank opportunities remain available for slower participants / specialists / late development.
+
+Mature Valnak:
+- can expose full Red->Violet range;
+- distribution still follows the population's current competency bell curve rather than being uniformly even;
+- tails remain available.
+
+The bell curve allocates training content; it does NOT change participant rank.
+
+# 32. Dungeon domain map visual
+
+The clean Valnak Dungeon Domains map supplied in this checkpoint is the immutable/base operational geography for Dungeons and Valnak `domai` incursions.
+
+Future overlays can add:
+- Dungeon nodes;
+- `domai` nodes;
+- rank/color;
+- story-state snapshot identifiers.
+
+Working symbol idea:
+- triangle = Dungeon;
+- circle = `domai`.
+
+Symbol convention is WORKING until an actual overlay is approved.
+
+Do not treat the previously generated node-filled concept image as canonical.
+
+# 33. Raid architecture — participant cap
+
+Raid participant maximum:
+**10 people**
+
+This is a maximum, not a required size.
+
+Smaller groups are legal. A sufficiently powerful group may attempt a raid short-handed.
+
+Summons/Prime Elementals do not automatically count as additional human participants unless future rules say otherwise.
+
+# 34. Normal seasonal Raid
+
+Each season contains **six independent standalone raid bosses**.
+
+These are Elara/Valnak-created fantasy challenge monsters/encounters and need not correspond to ordinary outside-world `eldris` ecology.
+
+Mature roster progression:
+**Red / Orange / Yellow / Green / Blue / Violet**
+
+Each boss can be attempted independently; clearing one is not necessarily prerequisite to entering another standalone boss encounter.
+
+First-Cycle sandbox standalone roster:
+**Red / Red / Orange / Orange / Yellow / Green**
+
+Green is the aspirational first-cycle ceiling; most first-cycle groups may only clear Red/Orange and perhaps Yellow.
+
+# 35. Expedition / Hard Raid
+
+Separate from standalone bosses.
+
+One continuous large raid environment with six successive wings and six major bosses.
+
+Between bosses, the group must fight through cumulative `eldris` populations.
+
+Progression:
+- Wing 1: Red -> Boss 1.
+- Wing 2: Red+Orange -> Boss 2.
+- Wing 3: Red+Orange+Yellow -> Boss 3.
+- Wing 4: Red through Green -> Boss 4.
+- Wing 5: Red through Blue -> Boss 5.
+- Wing 6: Red through Violet -> Boss 6.
+
+The challenge is sustained expeditionary efficiency:
+combat -> fatigue -> navigation -> healing -> resource management -> boss -> continue.
+
+It can take days. A week-plus / roughly ~10-day first-cycle serious attempt is a working narrative possibility, not a stopwatch guarantee.
+
+The Expedition Raid is NOT scaled down to first-cycle capability. First cycles simply see how far they can get.
+
+# 36. Raid rewards
+
+Across a season there are **12 major raid-boss reward opportunities**:
+- 6 standalone bosses;
+- 6 Expedition bosses.
+
+Major completion reward is earned **once per participant per boss per season**.
+
+Repeat kills are legal for assistance/practice/social play but do not repeat the major boss completion payout for that participant.
+
+At season transition, raid eligibility/reward state resets and Elara can provide a new encounter roster.
+
+Exact credit values remain OPEN.
+
+# 37. First-Cycle build economics
+
+First-cycle development often favors **breadth before deep specialization** because flexible toolkits solve more varied problems.
+
+Participants choose among:
+- buying another low-rank Binding;
+- ranking an existing Binding;
+- saving toward a prerequisite;
+- purchasing utility/defense/offense to improve current credits/hour.
+
+Example author logic:
+a single Yellow Fireball may be less useful early than several Red/Orange tools if the participant has no answers to varied procedural encounters.
+
+Kira is unusual because the Black Legacy gives her very few extremely deep/integrated systems rather than normal early breadth.
+
+# 38. Prerequisite / recipe progression
+
+Deeper Bindings can require configurations such as:
+- Binding A at Yellow;
+- Binding B at Green;
+- Binding C at Green;
+- sufficient credits;
+then advanced Binding becomes purchasable at Red.
+
+Thus Valnak progression is an interconnected **build graph**, not a flat store.
+
+Veterans:
+- already possess breadth;
+- rank selected foundations over multiple cycles;
+- unlock deeper specialist Bindings;
+- use those as prerequisites for still deeper/capstone architectures.
+
+Credits persist across cycles, so decades-long development plans are rational.
+
+Participants optimize simultaneously for:
+- immediate capability;
+- current credits/hour;
+- prerequisite progression;
+- long-term multi-cycle goals.
+
+White Legacies are exceptional partly because they can compress these graphs.
+
+# 40. `domai` — outside-world inheritance
+
+Directly inherit MK-147 `domai` canon.
+
+A `domai` is a temporary bounded Genesis-event landscape produced when a bounded environmental Genesis collapse resolves into a domain.
+
+A Genesis storm increases instability/collapse potential but does not automatically become a `domai`.
+
+Ranks:
+**Red / Orange / Yellow / Green / Blue / Violet**
+No White `domai`.
+
+`domai` possess anomalous/non-isometric internal geometry. Their effective interior can be much larger than the exterior footprint/bubble implies. Exact scaling mathematics remain inherited/OPEN rather than re-derived here.
+
+Nearby depth is usable; long-range ordinary depth can degrade into blurred/projected horizon-like geometry.
+
+Structural core:
+non-conscious **superposed White Genesis Crystal**.
+
+The core does not command `eldris` and the `domai` is not a conscious organism.
+
+Outside Valnak, breaking the core forces progressive unraveling rather than immediate disappearance, creating a dangerous harvest/evacuation window.
+
+Outside `domai` can contain:
+- `eldris`;
+- Genesis crystals;
+- Genesis Dust / White Genesis Dust;
+- `vaen`;
+- rare resources.
+
+# 41. Valnak `domai` incursions
+
+Valnak includes large-scale `domai` incursion training/operations modeled on the civilization's major real-world threat.
+
+Author-level purpose:
+large military-scale/collaborative assault content and very high credit opportunity.
+
+Rank:
+Red -> Violet.
+
+`eldris` population follows the same cumulative rank ceiling as Dungeons:
+a Red incursion only has Red; Yellow can use Red/Orange/Yellow; Violet can use all R->V.
+
+Participation can involve:
+- military units/commands;
+- guilds;
+- noble houses;
+- large collaborative assault groups;
+- cross-organization coordination.
+
+Each incursion maintains a local participation ledger.
+
+Contribution can include:
+- `eldris` kills;
+- support contribution;
+- operational contribution;
+- core assault;
+- other validated participation.
+
+Breaking the central White Crystal earns a special/core-break bonus.
+
+Unlike the outside-world natural `domai`, the Valnak training incursion terminates as a completed encounter when the main White Crystal is broken rather than requiring a prolonged natural unraveling/harvest window.
+
+Exact credit formula remains OPEN.

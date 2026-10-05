@@ -1,10 +1,10 @@
-> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Governance and terminology
 
 Normalize voice-to-text to **Valnak**
 (Valnac/Valnec/Valneck/Valmek/Valmec/Valnik/Valmnet/Valmac/Valnet),
-**Elara** (Alara), and **ELDRIS** (Eldress when referring to monsters).
+**Elara** (Alara), and **eldris** (Eldress when referring to monsters).
 
 Use **Transduction**, **Binding**, **shaping**, **Transduction System**.
 No mana ontology. Canonical class spelling: **maege** singular,
@@ -57,6 +57,40 @@ Normalize obvious voice-to-text variants without creating new canon:
 - `vaen` lowercase V-A-E-N; normalize vein/vain/vane when context is clear.
 - `maege` lowercase singular; `maegi` lowercase plural.
 - `velis` lowercase V-E-L-I-S.
-- `ru’ne`, `aera`, `domai` lowercase; ELDRIS uppercase.
+- `ru’ne`, `aera`, `domai` lowercase; `eldris` lowercase.
 - Legacy/Legacies supersedes old in-world Pass/Passes and Path/Paths nomenclature for Valnak's curated developmental architecture.
 If a token cannot confidently map to canon, leave it unresolved. `Aelis` was an accidental transcription and is NOT a character; Trio third participant remains OPEN.
+
+## Checkpoint 09 — lexical and external-source authority
+
+# 1. Lexical and voice-to-text corrections
+
+Canonical normalizations:
+- **Valnak** — normalize Valnek / Valnac / Valnec / Valneck / Valmek / Valmax / Valknet / Balnak and obvious contextual variants.
+- **Elara** — normalize Alara / Ilara where context is clear.
+- **illi** — normalize Ily / Illy / Ellie where context is clear.
+- **`eldris`** — lowercase normal word, not an acronym. Voice-to-text spelling-by-letter may produce eldris; normalize to `eldris` in active canon.
+- **`domai`** — lowercase normal word, D-O-M-A-I.
+- **`raeon`** — lowercase normal word, R-A-E-O-N; normalize Rayon / Raon / Raeon when the game is intended.
+- **`vaen`** — lowercase V-A-E-N; contextual vein/vain/vane is transcription drift.
+- **`maege` / `maegi`** remain canonical.
+- `velis`, `ru’ne`, `aera` retain existing canonical spelling/case.
+
+General spelling-by-letter rule:
+When the user spells a word aloud for voice-to-text clarity, resulting all-caps transcription is NOT evidence that canon is uppercase. Established lexical spelling wins.
+
+# 2. External source authority
+
+MK157 remains authoritative for MK157.
+
+Approved upstream/reference repositories:
+- `xApologies/_bricked` — Layer-0 mathematics/physics: Genesis Field, Chirality Fabric, QMO/propagation architecture and related foundational structures.
+- `xApologies/_raeon` — primary mechanical authority for the `raeon` card game.
+- `xApologies/Mk-147` — inherited fantasy-world/cultural implementation where MK157 has not deliberately superseded it.
+
+Inheritance order for conflicts:
+MK157 explicit canon > applicable MK-147 story/world implementation > `_raeon` game mechanics > `_bricked` foundational math for the relevant layer.
+
+Do not import unrelated MK-147 Kira/Enix identity, Binding-circle causality, old progression ladders, or other setting-specific material merely because a source file exists.
+
+[Source quarantine](SOURCE_BOUNDARIES.md) governs inherited documents. The exact Checkpoint 09 master is retained verbatim as source evidence; its PENDING header describes package creation, not current integration state.

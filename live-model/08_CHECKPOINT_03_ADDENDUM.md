@@ -1,4 +1,4 @@
-> Source checkpoint 03. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 03. Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Checkpoint 03 — Kira Battle Architecture and Biological Realization
 
@@ -25,7 +25,7 @@ Normalize spelling to lowercase `domai`. Ranked Red through Violet; no White dom
 
 Outside Valnak, a domai produces a basin-colored transient/aurora-like glow in the night sky. Inside Valnak, active domai are full-scale war-training environments.
 
-The Node has an Active Operations map showing active domai, age, rank, rough footprint, estimated interior, core status, broad friendly/ELDRIS disposition, routes/fronts and unraveling state. Easy domai tend to be cleared earlier; difficult ones accumulate and drive larger community/military assaults.
+The Node has an Active Operations map showing active domai, age, rank, rough footprint, estimated interior, core status, broad friendly/eldris disposition, routes/fronts and unraveling state. Easy domai tend to be cleared earlier; difficult ones accumulate and drive larger community/military assaults.
 
 ## Node
 The Node is Valnak's cognitive/spatial operating environment. It supports profile/ranks, friends, groups, messaging/voice, map/relocation, Combat queues, Shop/Auction House, Legacy progress, and Builder.
@@ -99,7 +99,7 @@ Up to three persistent external Black Genesis-energy bodies, roughly cannonball-
 
 They are mobile Transducers: Transductive events can originate through them. The Binding manifests/stabilizes/maintains them; Kira must learn what to do with them.
 
-Early Kira mostly uses them as controllable cannonballs. Her signature learned technique is rapidly orbiting an Orb around herself as a moving disruption/exclusion geometry. It is not a force field; it physically collides with approaching ELDRIS and creates severe blunt trauma.
+Early Kira mostly uses them as controllable cannonballs. Her signature learned technique is rapidly orbiting an Orb around herself as a moving disruption/exclusion geometry. It is not a force field; it physically collides with approaching eldris and creates severe blunt trauma.
 
 Control progression:
 one Orb → orbit/fight with one → two → patterned/symmetric control → three → independent trajectories/transductions.
@@ -145,7 +145,7 @@ Resolve → Link → Share → Mark → Query.
 
 Link is consensual in normal use and preserves agency.
 
-Linked participants contribute relevant observations to Domain. If one linked combatant sees an ELDRIS, its location can enter the shared tactical state and become available to other linked participants. Kira is not personally omniscient; the network performs distributed sensing.
+Linked participants contribute relevant observations to Domain. If one linked combatant sees an eldris, its location can enter the shared tactical state and become available to other linked participants. Kira is not personally omniscient; the network performs distributed sensing.
 
 Mature Domain creates a voluntary tactical hive/shared cognition without merging minds or removing free will. Kira acts like an orchestra conductor: shared targets, timing, corridors, defensive relationships, role synchronization and dynamic updates. Participants can accept, modify, decline and improvise.
 
@@ -154,10 +154,10 @@ Strategic command and Domain conduction remain distinct: a trained commander may
 ## Domain pinnacle
 At extreme mastery Kira can cohere/decohere Genesis structures, induce local chirality instability and directly shape the Genesis Field inside Domain if she possesses sufficient knowledge/control.
 
-Eventually battlefield ELDRIS cease to be the real problem: sufficiently mature Kira can eliminate them through Domain-scale Genesis interaction.
+Eventually battlefield eldris cease to be the real problem: sufficiently mature Kira can eliminate them through Domain-scale Genesis interaction.
 
 Her ultimate trajectory is to push Domain, supported by Stage III Halo, to the singularity-scale Genesis structure and stabilize the abnormal Yellow disequilibrium that drives Genesis collapses. The causal target is:
-singularity disequilibrium → Genesis instability → collapse → domai → ELDRIS.
+singularity disequilibrium → Genesis instability → collapse → domai → eldris.
 
 The endgame is therefore not "kill every monster" but correct the upstream Genesis condition so new collapses/monster threats stop.
 

@@ -1,0 +1,414 @@
+{
+  "checkpoint": "09",
+  "validation_status": "PASS",
+  "baseline_commit": "1f7585eae09df24fb9d7c17d74955c8dbbdeaa3c",
+  "final_commit": null,
+  "final_commit_note": "This audit is committed with the integration; a commit cannot embed its own hash. The final hash is reported after commit and verified against origin/main.",
+  "authority_chain": "09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01",
+  "changed_files": [
+    ".gitattributes",
+    "live-model/00_GOVERNANCE.md",
+    "live-model/01_KIRA.md",
+    "live-model/02_COSMOLOGY.md",
+    "live-model/03_VALNEK_PATHS.md",
+    "live-model/04_COMBAT_WORLD.md",
+    "live-model/05_VISUAL_CANON.md",
+    "live-model/06_OPEN_PROVENANCE.md",
+    "live-model/07_CHECKPOINT_02_ADDENDUM.md",
+    "live-model/08_CHECKPOINT_03_ADDENDUM.md",
+    "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+    "live-model/11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+    "live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+    "live-model/14_CHECKPOINT_07B_FINAL_GAP_PATCH.md",
+    "live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+    "live-model/16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md",
+    "live-model/COMBAT_ECOLOGY.md",
+    "live-model/COMBAT_THRESHOLDS.md",
+    "live-model/CREATOR_CRAFTSMAN.md",
+    "live-model/INDEX.md",
+    "live-model/OPEN.md",
+    "live-model/PRIME_ELEMENTALS.md",
+    "live-model/PRISM.md",
+    "live-model/RAEON.md",
+    "live-model/SOURCE_BOUNDARIES.md",
+    "live-model/STORY_CLOCK_STATE.md",
+    "live-model/SUPERSESSIONS.md",
+    "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+    "live-model/WORLD_CLOCK.md",
+    "provenance/CHECKPOINT_09_AUDIT.json",
+    "provenance/CHECKPOINT_09_COVERAGE_MANIFEST.csv",
+    "provenance/checkpoint-09-package/01_CREATOR_CRAFTSMAN_CONTINUITY.md",
+    "provenance/checkpoint-09-package/02_VALNAK_CITY_CULTURE_TRANSPORT.md",
+    "provenance/checkpoint-09-package/03_RAEON_FLAGSHIP_AND_TOURNAMENT.md",
+    "provenance/checkpoint-09-package/04_COMBAT_ECOLOGY.md",
+    "provenance/checkpoint-09-package/05_WORLD_CLOCK.md",
+    "provenance/checkpoint-09-package/06_PRISM_TRACKING_MODEL.md",
+    "provenance/checkpoint-09-package/07_STORY_CLOCK_STATE.md",
+    "provenance/checkpoint-09-package/08_SOURCE_BOUNDARIES.md",
+    "provenance/checkpoint-09-package/16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md",
+    "provenance/checkpoint-09-package/CITY_LOCATION_REGISTRY.csv",
+    "provenance/checkpoint-09-package/COVERAGE_MANIFEST.csv",
+    "provenance/checkpoint-09-package/EXECUTABLE.md",
+    "provenance/checkpoint-09-package/GIT_GAP_AUDIT.md",
+    "provenance/checkpoint-09-package/MANIFEST.json",
+    "provenance/checkpoint-09-package/PACKAGE_AUDIT.md",
+    "provenance/checkpoint-09-package/PRISM_TEAM_TRACKER.csv",
+    "provenance/checkpoint-09-package/README.md",
+    "provenance/checkpoint-09-package/upstream-snapshots/MK147_ELDRIS_DUNGEONS_DOMAI.md",
+    "provenance/checkpoint-09-package/upstream-snapshots/MK147_RAEON_EXCERPT.md",
+    "provenance/checkpoint-09-package/upstream-snapshots/MK147_STORMS_DOMAI.md",
+    "provenance/checkpoint-09-package/visual-references/VALNAK_CITY_MAP_001_RAEON_FLAGSHIP.png",
+    "provenance/checkpoint-09-package/visual-references/VALNAK_DUNGEON_DOMAI_BASE_MAP.jpeg",
+    "provenance/checkpoint-09-package/WORLD_CLOCK_TEMPLATE.csv",
+    "README.md",
+    "THREAD_DEVELOPMENT_CONSTITUTION.md",
+    "visual-references/CITY_LOCATION_REGISTRY.csv",
+    "visual-references/INDEX.md",
+    "visual-references/VALNAK_CITY_MAP_001_RAEON_FLAGSHIP.png",
+    "visual-references/VALNAK_DUNGEON_DOMAI_BASE_MAP.jpeg",
+    "world-clock/PRISM_TEAM_TRACKER.csv",
+    "world-clock/WORLD_CLOCK_TEMPLATE.csv",
+    "world-clock/WORLD_CLOCK.md"
+  ],
+  "package_files_hashed": 22,
+  "coverage": {
+    "integrated": 54,
+    "pending": 0,
+    "manifest": "provenance/CHECKPOINT_09_COVERAGE_MANIFEST.csv",
+    "total": 54,
+    "all_destination_paths_exist": true
+  },
+  "substantive_preservation": {
+    "master_verbatim": true,
+    "all_44_master_sections_discoverable": true,
+    "section_destinations": [
+      {
+        "section": 1,
+        "destinations": [
+          "live-model/SOURCE_BOUNDARIES.md"
+        ]
+      },
+      {
+        "section": 2,
+        "destinations": [
+          "live-model/SOURCE_BOUNDARIES.md"
+        ]
+      },
+      {
+        "section": 3,
+        "destinations": [
+          "live-model/WORLD_CLOCK.md"
+        ]
+      },
+      {
+        "section": 4,
+        "destinations": [
+          "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md"
+        ]
+      },
+      {
+        "section": 5,
+        "destinations": [
+          "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md"
+        ]
+      },
+      {
+        "section": 6,
+        "destinations": [
+          "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md"
+        ]
+      },
+      {
+        "section": 7,
+        "destinations": [
+          "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md"
+        ]
+      },
+      {
+        "section": 8,
+        "destinations": [
+          "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+          "live-model/RAEON.md"
+        ]
+      },
+      {
+        "section": 9,
+        "destinations": [
+          "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+          "live-model/RAEON.md"
+        ]
+      },
+      {
+        "section": 10,
+        "destinations": [
+          "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md"
+        ]
+      },
+      {
+        "section": 11,
+        "destinations": [
+          "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+          "live-model/STORY_CLOCK_STATE.md"
+        ]
+      },
+      {
+        "section": 12,
+        "destinations": [
+          "live-model/STORY_CLOCK_STATE.md"
+        ]
+      },
+      {
+        "section": 13,
+        "destinations": [
+          "live-model/STORY_CLOCK_STATE.md"
+        ]
+      },
+      {
+        "section": 14,
+        "destinations": [
+          "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md"
+        ]
+      },
+      {
+        "section": 15,
+        "destinations": [
+          "live-model/RAEON.md"
+        ]
+      },
+      {
+        "section": 16,
+        "destinations": [
+          "live-model/RAEON.md"
+        ]
+      },
+      {
+        "section": 17,
+        "destinations": [
+          "live-model/CREATOR_CRAFTSMAN.md",
+          "live-model/WORLD_CLOCK.md"
+        ]
+      },
+      {
+        "section": 18,
+        "destinations": [
+          "live-model/PRISM.md"
+        ]
+      },
+      {
+        "section": 19,
+        "destinations": [
+          "live-model/PRISM.md"
+        ]
+      },
+      {
+        "section": 20,
+        "destinations": [
+          "live-model/PRISM.md"
+        ]
+      },
+      {
+        "section": 21,
+        "destinations": [
+          "live-model/WORLD_CLOCK.md"
+        ]
+      },
+      {
+        "section": 22,
+        "destinations": [
+          "live-model/WORLD_CLOCK.md"
+        ]
+      },
+      {
+        "section": 23,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md",
+          "live-model/STORY_CLOCK_STATE.md"
+        ]
+      },
+      {
+        "section": 24,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 25,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 26,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 27,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 28,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 29,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 30,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 31,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 32,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 33,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 34,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 35,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 36,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 37,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 38,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 39,
+        "destinations": [
+          "live-model/CREATOR_CRAFTSMAN.md"
+        ]
+      },
+      {
+        "section": 40,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 41,
+        "destinations": [
+          "live-model/COMBAT_ECOLOGY.md"
+        ]
+      },
+      {
+        "section": 42,
+        "destinations": [
+          "live-model/WORLD_CLOCK.md"
+        ]
+      },
+      {
+        "section": 43,
+        "destinations": [
+          "live-model/PRISM.md"
+        ]
+      },
+      {
+        "section": 44,
+        "destinations": [
+          "live-model/OPEN.md"
+        ]
+      }
+    ],
+    "all_eight_domain_sources_preserved": true
+  },
+  "visual_assets": [
+    {
+      "path": "visual-references/VALNAK_CITY_MAP_001_RAEON_FLAGSHIP.png",
+      "visually_inspected": true,
+      "sha256": "e6e6992bed00722bf2c875d1d4bf6c99cb7d5137d20cf73d2d8b4c089e0a3a92"
+    },
+    {
+      "path": "visual-references/VALNAK_DUNGEON_DOMAI_BASE_MAP.jpeg",
+      "visually_inspected": true,
+      "sha256": "ca49e407f3d04f9983550bf5bf5ecd4cc18903cbff041f9924172ea0318d2cd8"
+    }
+  ],
+  "original_city_map_unchanged": true,
+  "prism": {
+    "names_rosters_uninvented": true,
+    "standings": "wins/losses",
+    "postseason": "Top 16 -> 8 -> 4 -> 2 -> Champion",
+    "exact_source_hash": true,
+    "rows": 37,
+    "bubble": "approximately 20"
+  },
+  "world_clock": {
+    "rows": 49,
+    "exact_source_hash": true,
+    "raeon_finals": 7,
+    "seasonal_auctions": 7,
+    "unique_coordinates": 49
+  },
+  "active_lowercase_eldris_check": "PASS; exact master retains one quoted uppercase voice transcription example, not canonical typography",
+  "preexisting_registries": {
+    "legacy_trajectories": 200,
+    "summons": 229,
+    "all_files_byte_unchanged": true,
+    "protected_files": 28,
+    "bindings": 1016
+  },
+  "source_quarantine_check": "PASS: no PDF plot/cosmology imports or node-filled concept image; package snapshots retained verbatim",
+  "upstream_verification": "Supplied upstream snapshots used; no live upstream crawl required or performed. Detailed _raeon mechanics remain delegated.",
+  "conflicts": [
+    {
+      "issue": "Checkpoint 08 uppercase monster typography",
+      "resolution": "Checkpoint 09 lowercase eldris applied to active prose; historical package copies remain exact"
+    }
+  ],
+  "integration_notes": [
+    "Exact master pending header retained for source fidelity; README and supersessions mark integration complete.",
+    "Domain map regional scale is not an individual Dungeon instance area.",
+    "No registry changes or new map serials beyond supplied 001/001-A/001-B."
+  ],
+  "open_items": [
+    "Prism names/rosters/team size/positions/sport rules/scoring/credits/match frequency/seeding/tiebreaks/playoff timing",
+    "raeon publisher name/legal structure/bracket/reward tables",
+    "Dungeon/raid/domai credit tables and domai scaling",
+    "Exact highlight time/carriage propulsion/special events/future map serials/approved overlay symbols",
+    "Creator universal metrics/task-to-color rules/shop inheritance-transfer-death/inter-instance semantics/agronomy",
+    "All preexisting non-superseded OPEN items remain OPEN"
+  ]
+}

@@ -1,4 +1,4 @@
-> Source checkpoint 04. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 04. Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Checkpoint 04 Addendum — Black Legacy Pipeline, Eternal Standings, and Post-Valnak Continuity
 
@@ -62,7 +62,7 @@ Expected narrative outcome:
 - Kira + illi + an as-yet-unidentified recurring third friend: top Trio Eternal Standing.
 
 ## Trial-breaking Orb interaction
-Open wave arenas are structurally vulnerable to Kira's mastered high-speed Orb orbit. ELDRIS entering melee range collide with dense Black Genesis Orbs. This is not a force field; it is a physical/Genesis-interactive moving exclusion/disruption geometry.
+Open wave arenas are structurally vulnerable to Kira's mastered high-speed Orb orbit. eldris entering melee range collide with dense Black Genesis Orbs. This is not a force field; it is a physical/Genesis-interactive moving exclusion/disruption geometry.
 
 Kira eventually reaches the point where Solo/Duo/Trio progression is limited more by time/boredom than defeat.
 

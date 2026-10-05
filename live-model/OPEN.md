@@ -1,6 +1,6 @@
 # OPEN ledger
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -19,3 +19,28 @@ Wave 96 is expressly not canonized. aera is retained as supplied without inventi
 ## Checkpoint 08 protected boundaries
 
 Planet proper name, gas costs/rank development/White expressions/basin topology, final Eternal record waves, recurring Trio third friend, Elara-through-Orb identity, Genesis Orb ontology, Layer-0 rainbow relationship, and outside credential synchronization remain OPEN. PE-004–009 generated recipes remain ALPHA/WORKING proposals, not silently locked canon. Exact illi sequence/season gates are supplied by Checkpoint 08; later direct/area healing is not part of her current locked six.
+
+## Checkpoint 09 protected OPEN decisions
+
+# 44. Protected OPEN items from this checkpoint
+
+Do not silently decide:
+- Prism team names.
+- Prism team size.
+- Prism positions (including any mobility-specialist taxonomy).
+- exact Prism scoring/credit formula.
+- exact Prism schedule/matches per week.
+- exact Prism playoff week placement.
+- exact `raeon` tournament bracket size.
+- exact raid credit rewards.
+- exact Dungeon completion reward table.
+- exact Dungeon square mileage beyond current approximate author scale.
+- exact `domai` interior/exterior scaling formula.
+- exact special-event calendar.
+- exact outside `raeon` publishing company name/legal structure.
+- exact Champion highlight clock time.
+- exact carriage propulsion.
+- exact future serialized city locations after 001.
+- exact dungeon/`domai` overlay symbol convention until approved.
+
+Creator universal metrics and task-to-color tables; shop inheritance/transfer/death/retirement; inter-instance property semantics; exact agronomy remain OPEN. Upstream mechanics remain delegated, not copied or invented.

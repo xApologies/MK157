@@ -1,6 +1,6 @@
 # Prime Elementals — Checkpoint 08
 
-Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Ordinary manifestations are preserved; these are additions.
+Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Ordinary manifestations are preserved; these are additions.
 
 ## 12. Prime Elementals
 Prime Elementals are a genuine pinnacle Summoner taxonomy, not protagonist-only summons. Existing 180 ordinary elemental manifestations remain intact.

@@ -1,6 +1,6 @@
-# MK157 — Current through Checkpoint 08
+# MK157 — Current through Checkpoint 09
 
-Authority: **Checkpoint 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative. All OPEN questions remain OPEN unless explicitly answered by a supplied checkpoint.
+Authority: **Checkpoint 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative. All OPEN questions remain OPEN unless explicitly answered by a supplied checkpoint.
 
 Start with [live-model/INDEX.md](live-model/INDEX.md). Current Kira and visual summaries reflect WHITE skin/hair, BLACK/R→V eyes, perfect symmetry, and Genesis/crystalline biology.
 
@@ -18,3 +18,5 @@ Start with [live-model/INDEX.md](live-model/INDEX.md). Current Kira and visual s
 [Thread development constitution](THREAD_DEVELOPMENT_CONSTITUTION.md) governs continuity and new-thread repository review. The [07B final gap patch](live-model/14_CHECKPOINT_07B_FINAL_GAP_PATCH.md) added it and normalized [illi progression](live-model/03_VALNEK_PATHS.md) under then-current Checkpoint 07; Checkpoint 08 now supersedes the earlier build sequence.
 
 [Checkpoint 08](live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md) governs Legacy nomenclature, Green Solo graduation, repeatable Trials, planet-localized Valnak, current illi build and [Prime Elementals](live-model/PRIME_ELEMENTALS.md). Existing ordinary registries remain; new recipe proposals and unresolved costs are explicitly labeled.
+
+Checkpoint 09 is integrated. [Full continuation](live-model/16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md) is preserved verbatim. Discover [Creator/Craftsman](live-model/CREATOR_CRAFTSMAN.md), [city/culture/transport](live-model/VALNAK_CITY_CULTURE_TRANSPORT.md), [raeon](live-model/RAEON.md), [combat ecology](live-model/COMBAT_ECOLOGY.md), [Prism](live-model/PRISM.md), [story state](live-model/STORY_CLOCK_STATE.md), and [World Clock](world-clock/WORLD_CLOCK.md). The clock preserves 49 weeks and 37 unnamed team placeholders. [Location registry](visual-references/CITY_LOCATION_REGISTRY.csv) defines 001 and its child spaces. [Source boundaries](live-model/SOURCE_BOUNDARIES.md) constrain upstream inheritance. [Coverage](provenance/CHECKPOINT_09_COVERAGE_MANIFEST.csv) and [validation](provenance/CHECKPOINT_09_AUDIT.json) account for every requirement.

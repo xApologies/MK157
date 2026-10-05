@@ -1,0 +1,4 @@
+serial,canonical_name,type,map_region,status,parent,story_use,notes
+001,raeon Flagship,commercial/cultural landmark,central commercial core / central island,LOCKED,,Arc One/Two recurring,Massive Red->White card flagship; rooftop restaurant and Champion Tables are child spaces.
+001-A,Flagship Rooftop Restaurant,restaurant / highlight venue,above 001,LOCKED,001,Arc One dinner; recurring highlight scenes,Three stepped terraces; ordinary reservations; trivial food credit cost.
+001-B,Champion Tables,ranked social seating,prime centered roof edge,LOCKED,001-A,Kira recurring table,Top 10 First-Cycle Solo; #1 center table belongs to Kira all cycle.

@@ -1,4 +1,4 @@
-> Source checkpoint 01. Authority: 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
+> Source checkpoint 01. Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
 # Starscapes, Genesis Log, neon, White/Black Möbius, energy
 
@@ -61,7 +61,7 @@ displaced neon state. The superposition exists but is imbalanced.
 
 Working causal spine: extreme Yellow displacement → imbalanced White
 starscape → abnormal Yellow-side Black availability / Genesis
-instability → recursive Genesis Collapse → Genesis storms / ELDRIS.
+instability → recursive Genesis Collapse → Genesis storms / eldris.
 
 The broad natural tendency is around Orange↔Yellow, but Yellow's extreme
 state distorts the effective condition upward. Exact numeric
