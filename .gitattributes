@@ -28,3 +28,6 @@ provenance/checkpoint-14-package/*.csv whitespace=cr-at-eol
 provenance/checkpoint-14-package/*.md whitespace=-blank-at-eol
 trial-rewards/*.csv whitespace=cr-at-eol
 world-clock/ILLI_PROGRESSION_SKELETON.csv whitespace=cr-at-eol
+
+provenance/checkpoint-15-package/*.csv whitespace=cr-at-eol
+builder/encounters/eldris/*.csv whitespace=cr-at-eol

@@ -1,6 +1,6 @@
-# MK157 — Current through Checkpoint 14
+# MK157 — Current through Checkpoint 15
 
-Authority: **Checkpoint 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative. All OPEN questions remain OPEN unless explicitly answered by a supplied checkpoint.
+Authority: **Checkpoint 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative. All OPEN questions remain OPEN unless explicitly answered by a supplied checkpoint.
 
 Start with [live-model/INDEX.md](live-model/INDEX.md). Current Kira and visual summaries reflect WHITE skin/hair, BLACK/R→V eyes, perfect symmetry, and Genesis/crystalline biology.
 
@@ -29,4 +29,6 @@ Checkpoint 09 is integrated. [Full continuation](live-model/16_CHECKPOINT_09_WOR
 
 [Checkpoint 13](live-model/20_CHECKPOINT_13_THREAD_DELTA.md) governs Absorption repricing, White-Legacy package subsidy, carry-regime economics and mechanism-language sanitation. [Audit](provenance/CHECKPOINT_13_AUDIT.json), [coverage](provenance/CHECKPOINT_13_COVERAGE_MANIFEST.csv) and [term changes](provenance/CHECKPOINT_13_TERM_CHANGES.csv) provide evidence.
 
-[Checkpoint 14 full reconciliation](live-model/21_CHECKPOINT_14_FULL_RECONCILIATION.md) is current. [Trial rewards](trial-rewards/README.md) total 53,910; [illi progression](live-model/ILLI_PROGRESSION.md) contains the corrected 17 milestones; [partnership](live-model/PARTNERSHIP_AND_CARRY.md) records Project Princess Carry. The four Kira post-Armor final prices are OPEN. [Item-level reverse diff](provenance/CHECKPOINT_14_REVERSE_DIFF.csv) and [audit](provenance/CHECKPOINT_14_AUDIT.json) document all 20 decisions.
+[Checkpoint 14 full reconciliation](live-model/21_CHECKPOINT_14_FULL_RECONCILIATION.md) governs its continuing story/economy locks. [Trial rewards](trial-rewards/README.md) total 53,910; [illi progression](live-model/ILLI_PROGRESSION.md) contains the corrected 17 milestones; [partnership](live-model/PARTNERSHIP_AND_CARRY.md) records Project Princess Carry. The four Kira post-Armor final prices are OPEN. [Item-level reverse diff](provenance/CHECKPOINT_14_REVERSE_DIFF.csv) and [audit](provenance/CHECKPOINT_14_AUDIT.json) document all 20 decisions.
+
+[Checkpoint 15](live-model/22_CHECKPOINT_15_ELDRIS_ATOMIC_GROUP_LIBRARY.md) integrates the author-facing [eldris atomic group library](builder/encounters/eldris/README.md): 209 groups, 1–4 bodies each, cumulative R→V legality. The Normal Dungeon area ladder supersedes earlier flat estimates; White reference data does not authorize White Dungeons. [Audit](provenance/CHECKPOINT_15_AUDIT.json), [coverage](provenance/CHECKPOINT_15_COVERAGE_MANIFEST.csv) and [conflicts](provenance/CHECKPOINT_15_CONFLICTS.md) record validation and scope.

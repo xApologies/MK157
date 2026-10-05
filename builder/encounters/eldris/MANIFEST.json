@@ -1,0 +1,35 @@
+{
+  "name": "MK157_ELDRIS_ATOMIC_GROUP_LIBRARY",
+  "version": "1.0",
+  "total_groups": 209,
+  "counts_by_highest_basin": {
+    "R": 4,
+    "O": 10,
+    "Y": 20,
+    "G": 35,
+    "B": 56,
+    "V": 84
+  },
+  "max_atomic_population": 4,
+  "white_eldris": false,
+  "areas_mi2": {
+    "R": 5,
+    "O": 13,
+    "Y": 25,
+    "G": 53,
+    "B": 113,
+    "V": 285,
+    "W": 450
+  },
+  "author_tooling_only": true,
+  "normal_dungeon_rank_codes": [
+    "R",
+    "O",
+    "Y",
+    "G",
+    "B",
+    "V"
+  ],
+  "white_area_application": "author_reference_only_no_white_dungeon",
+  "checkpoint": 15
+}

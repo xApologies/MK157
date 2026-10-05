@@ -34,7 +34,7 @@ Do not silently decide:
 - exact `raeon` tournament bracket size.
 - exact raid credit rewards.
 - exact Dungeon completion reward table.
-- exact Dungeon square mileage beyond current approximate author scale.
+- exact per-instance Dungeon geometry/traversal and tier-specific Hard Dungeon areas; Checkpoint 15 resolves enabled R→V Normal Dungeon averages.
 - exact `domai` interior/exterior scaling formula.
 - exact special-event calendar.
 - exact outside `raeon` publishing company name/legal structure.
@@ -95,3 +95,7 @@ Checkpoint 13 locks Absorption B=10000 and the 45% deduction/pay-55% White-Legac
 
 Exact W1–35 rows are LOCKED at cumulative 53910; W36+ remains OPEN. Seventeen illi milestones through Violet W2 D2 are LOCKED; later rank dates remain OPEN. Coherence Prime late Green and Resonance Prime early Violet supersede Early Blue/White windows. CSR/Orbs/Halo/Domain final acquisition prices are reopened with no replacements. Armor ~1000 remains.
 Final standings, W96/low-40s examples, illi final Solo wave/rank, literal Orb velocity/energy and exact commodity prices remain OPEN or illustrative. Earlier OPEN entries for the supplied reward rows/milestones are superseded only to this extent. Planetary month reconciliation and other unrelated OPENs remain.
+
+## Checkpoint 15 encounter-builder boundaries
+
+Normal Dungeon average areas R5/O13/Y25/G53/B113/V285 mi² are LOCKED. W450 is retained as an author reference only: existing canon still prohibits White-ranked Dungeons and White domai. No White eldris exist. Exact Hard areas/multipliers, per-instance geometry, group duplication counts, placements, encounter compositions, total populations and spawn schedules are not assigned by this library. Existing Trial geography, population/reward OPENs and Checkpoint 14 story/economy locks remain.

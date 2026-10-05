@@ -1,0 +1,21 @@
+id,topic,before_status,final_status,source,actual_git_destination,decision
+A15-01,Current authority/source crawl,PRESENT,PRESENT,EXECUTABLE 1,live-model/SOURCE_BOUNDARIES.md,Current Git and approved MK-147 snapshot reviewed; no newer remote commit.
+A15-02,Inherited six-basin mechanistic taxonomy,PRESENT,PRESENT,EXECUTABLE 2,live-model/COMBAT_ECOLOGY.md,Exact existing taxonomy preserved.
+A15-03,Author-tooling identity; not Valnak internal IDs,MISSING,PRESENT,EXECUTABLE 3,builder/encounters/eldris/BUILDER_CONTRACT.md,Explicit author-facing scope and hierarchy.
+A15-04,Atomic CSV/JSON registry and builder contract,MISSING,PRESENT,EXECUTABLE 4,builder/encounters/eldris/README.md,"209 source-exact groups; primary registry, mirror, availability and contract indexed."
+A15-05,Lowercase active eldris,PRESENT,PRESENT,EXECUTABLE 5,builder/encounters/eldris/BUILDER_CONTRACT.md,Mixed-case source prose normalized; original nine files preserved byte-for-byte.
+A15-06,Basin ontology versus architectural capability,PRESENT,PRESENT,EXECUTABLE 6,live-model/22_CHECKPOINT_15_ELDRIS_ATOMIC_GROUP_LIBRARY.md,Basin identity does not assign arbitrary difficulty or a Transduction domain.
+A15-07,Cumulative ceilings and no White eldris,PRESENT,PRESENT,EXECUTABLE 7,builder/encounters/eldris/TIER_AVAILABILITY.json,Cumulative counts 4/14/34/69/125/209/209; zero White groups.
+A15-08,Conditional White content permission,PRESENT,PRESENT,EXECUTABLE 8,builder/encounters/eldris/BASIN_REFERENCE.csv,Current no-White-Dungeon/domai rule preserved; W450 reference-only and rank disabled.
+A15-09,"No species, health bars, aggro/threat, taunts or MMO mechanics",PRESENT,PRESENT,EXECUTABLE 9,builder/encounters/eldris/validate_library.py,Exact composition schema and mechanistic profile vocabulary audited; existing prohibitions preserved.
+A15-10,Domain/map-independent combination and duplication,MISSING,PRESENT,EXECUTABLE 10,builder/encounters/eldris/BUILDER_CONTRACT.md,No domain/map/placement/spawn fields or completed encounters introduced.
+A15-11,Supplied author area ladder,WORKING-ILLUSTRATIVE,PRESENT,EXECUTABLE 11,live-model/COMBAT_ECOLOGY.md,R5/O13/Y25/G53/B113/V285 locked Normal averages; W450 reference retained with current scope.
+A15-12,Required mechanical audits,MISSING,PRESENT,EXECUTABLE 12,builder/encounters/eldris/AUDIT.json,"IDs, populations, basins, counts, mirrors and cumulative availability independently pass."
+A15-13,Checkpoint/index/provenance and commit scope,MISSING,PRESENT,EXECUTABLE 13,live-model/22_CHECKPOINT_15_ELDRIS_ATOMIC_GROUP_LIBRARY.md,"Checkpoint 15, navigation, coverage, audit and exact source archive; hash reported after commit."
+A15-14,Exact counts/files/conflicts reporting,MISSING,PRESENT,EXECUTABLE 14,provenance/CHECKPOINT_15_AUDIT.json,Machine-readable audit lists counts/files/conflicts; final response reports commit hash.
+A15-15,"Atomic size, ID ceiling and exhaustive unordered multisets",MISSING,PRESENT,BUILDER_CONTRACT 1-4; exhaustive-but-small,builder/encounters/eldris/ELDRIS_ATOMIC_GROUPS.csv,All 209 unique multisets of 1–4 bodies; highest represented basin equals ID tier.
+A15-16,Melee and Transductionist family partition,MISSING,PRESENT,BUILDER_CONTRACT 7,builder/encounters/eldris/BASIN_REFERENCE.csv,R/O/G melee; Y/B/V Transductionist; every per-row family count audited.
+A15-17,Large encounter example,MISSING,WORKING-ILLUSTRATIVE,BUILDER_CONTRACT Example,builder/encounters/eldris/BUILDER_CONTRACT.md,"Listed groups total 25, correcting approximate ~30; illustrative Blue-ceiling composition only."
+A15-18,Area meaning and atomic size independence,MISSING,PRESENT,BUILDER_CONTRACT Area context,builder/encounters/eldris/BUILDER_CONTRACT.md,"Area is realized environment, not required travel; larger areas permit more groups, never larger atoms."
+A15-19,Old universal Normal/Hard area estimates,WORKING-ILLUSTRATIVE,SUPERSEDED,EXECUTABLE 11 vs baseline COMBAT_ECOLOGY,provenance/CHECKPOINT_15_CONFLICTS.md,Universal flat area scales retired; original historical masters remain unchanged.
+A15-20,Exact per-tier Hard areas and future encounters,OPEN,OPEN,Current Git; BUILDER_CONTRACT scope,live-model/OPEN.md,"No multipliers, populations, placements, species or spawn laws inferred."

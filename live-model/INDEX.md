@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override Checkpoint 14.
+Authority: 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override Checkpoint 14.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -83,3 +83,7 @@ Authority: 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 
 - [illi progression](ILLI_PROGRESSION.md) — 17 exact supplied milestones and later direction.
 - [Partnership and Project Princess Carry](PARTNERSHIP_AND_CARRY.md) — independent schedules, public information gap, sandbox consequences, personality economy and broad-content rhythm.
 - [Before review](../provenance/CHECKPOINT_14_BEFORE_REVIEW.json), [reverse diff](../provenance/CHECKPOINT_14_REVERSE_DIFF.csv), [audit](../provenance/CHECKPOINT_14_AUDIT.json).
+
+- [Checkpoint 15 atomic eldris library](22_CHECKPOINT_15_ELDRIS_ATOMIC_GROUP_LIBRARY.md) — author tooling and current Dungeon area reconciliation.
+- [Atomic group builder](../builder/encounters/eldris/README.md) — 209 groups, cumulative availability, contract and reproducible audit.
+- [Checkpoint 15 coverage](../provenance/CHECKPOINT_15_COVERAGE_MANIFEST.csv), [audit](../provenance/CHECKPOINT_15_AUDIT.json), and [conflict decisions](../provenance/CHECKPOINT_15_CONFLICTS.md).

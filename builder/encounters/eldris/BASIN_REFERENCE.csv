@@ -1,0 +1,8 @@
+code,basin,canonical_expression,combat_family,battlefield_function,normal_dungeon_area_mi2,normal_dungeon_rank_enabled,area_scope
+R,Red,Physical,Melee,direct physical/contact pressure,5,true,locked_normal_dungeon_average
+O,Orange,Intrusion,Melee,intrusive melee pressure against defended space,13,true,locked_normal_dungeon_average
+Y,Yellow,Ranged force,Transductionist,ranged Transductive pressure,25,true,locked_normal_dungeon_average
+G,Green,Juggernaut / persistence threshold,Melee,persistent heavy frontline pressure,53,true,locked_normal_dungeon_average
+B,Blue,Expressed projection,Transductionist,projected Transductive pressure beyond immediate body,113,true,locked_normal_dungeon_average
+V,Violet,High Genesis expression,Transductionist,highest ordinary basin Genesis-expression pressure,285,true,locked_normal_dungeon_average
+W,White,No White eldris,N/A,Permitted White content uses R→V eldris only; current canon has no White-ranked Dungeons or domai,450,false,author_reference_only

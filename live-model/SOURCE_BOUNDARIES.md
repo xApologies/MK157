@@ -61,3 +61,7 @@ Do not import unrelated MK-147 Kira/Enix identity, Binding-circle causality, old
 ## Checkpoint 10 limited calendar promotion
 
 Checkpoint 10 explicitly promotes 31-hour days and applicable planetary calendar infrastructure, superseding the earlier prohibition on importing that day. This is a narrow promotion; schedule PDFs still supply methodology only except for expressly promoted facts, and no old plot/classes/cosmology is imported. [Calendar reconciliation](PLANETARY_CALENDAR.md) records the conflicting month sum and week wording. The exact Checkpoint 09 master and provenance remain unchanged historical evidence.
+
+## Checkpoint 15 atomic library scope
+
+The supplied atomic group IDs and family labels are author/builder tooling, not Valnak internal identifiers or new species/classes. The inherited MK-147 R→V mechanistic taxonomy is confirmed against current MK157. Group rows and availability lists do not authorize new content types: current no-White-Dungeon/domai rules prevail, while permitted White content may use R→V compositions. Original package prose is preserved in provenance; active terminology is lowercase `eldris`.

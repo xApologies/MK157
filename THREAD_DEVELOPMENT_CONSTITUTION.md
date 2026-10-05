@@ -6,7 +6,7 @@ This constitution governs cross-thread MK157 development. Its purpose is continu
 ## Authority
 1. Git is the persistent cross-thread source of truth.
 2. At a new thread start, crawl the MK157 repository before reconstructing established systems from memory.
-3. Current authority is Checkpoint 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+3. Current authority is Checkpoint 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 4. Provenance/historical files are not current canon merely because they remain in Git.
 5. Never silently revive superseded material.
 6. OPEN means OPEN. Distinguish LOCKED / WORKING / ALPHA / OPEN / SUPERSEDED.
@@ -206,3 +206,5 @@ Ordinary acquisition price is semantic friction, never basin color, domain rank,
 Checkpoint 13 requires physical/biological/informational/Genesis mechanisms for all Binding behavior; no aggro/threat statistic, taunt or invisible hate table. The accepted White Legacy package receives 45% deduction/pay55%, independently HALF_UP per ordinary list price, separate from prerequisite compression. Prequalification Persistent Coherence is full-price. Trial macro calibration is not a row-level reward law.
 
 Checkpoint 14 equivalence rule: every future Git/live-model audit must reverse-account every author decision since the latest persisted checkpoint, reporting PRESENT, MISSING, WORKING-ILLUSTRATIVE, OPEN and SUPERSEDED distinctly. Current reward registry and illi skeleton govern their exact supplied rows; replacement Black prices, post-Violet-W2 dates and W36+ payouts remain OPEN. Preserve existing sandbox, concept/competency and ~23-year civilization-engine rules.
+
+Checkpoint 15 adds author-facing atomic eldris composition tooling. IDs do not describe Valnak internals. Atomic populations are 1–4, cumulative R→V legality is enforced, and there are no White eldris. The supplied area ladder governs Normal Dungeon averages at enabled R→V ranks; W450 remains an author reference and does not authorize White Dungeons/domai. Basin identity, architecture-based capability and existing content rules remain separate. See [builder contract](builder/encounters/eldris/BUILDER_CONTRACT.md).

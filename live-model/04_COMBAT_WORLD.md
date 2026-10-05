@@ -334,11 +334,11 @@ Use lowercase `eldris` in active MK157 prose.
 
 Both use the same Red->Violet rank ceiling and rank-legal `eldris` palette.
 
-Working author scales:
-- **Normal Dungeon:** ~5 square miles.
-- **Hard Dungeon:** ~7.5–8 square miles.
+Locked Normal Dungeon average realized areas (mi²): **Red 5 / Orange 13 / Yellow 25 / Green 53 / Blue 113 / Violet 285**.
 
-These are approximate author scales, not exact geometric guarantees.
+The supplied **White 450 mi²** author reference is retained, but current canon still has no White-ranked Dungeons; it does not activate a White Dungeon rank or resize the 9-mi² Trial arena. The complete ladder and applicability flags are in the [atomic group basin reference](../builder/encounters/eldris/BASIN_REFERENCE.csv).
+
+These are average total realized environment areas, not guaranteed geometry or required traversal distances. The former flat Normal ~5 / Hard ~7.5–8 mi² working estimates are superseded as universal scales. Exact Hard Dungeon areas by tier remain OPEN; no fixed multiplier is inferred.
 
 Hard Dungeon difficulty comes primarily from:
 - larger generated domain;
@@ -650,3 +650,7 @@ Normalize Augmenter White-expression wording "forced cooldown" into physical/Gen
 General firewall:
 Every Binding mechanic must correspond to an actual physical, biological, informational, geometric, Genesis-field, Resonance, or Chirality mechanism.
 Do not introduce MMO/RPG abstractions solely because games traditionally contain them.
+
+## Checkpoint 15 atomic encounter authoring
+
+The [eldris atomic group library](../builder/encounters/eldris/README.md) supplies 209 exhaustive 1–4-body basin compositions. IDs are author tooling only. Higher permitted ceilings may combine and duplicate lower-tier groups; groups do not prescribe domains, maps, placements, full encounters or spawn schedules. R/O/G are melee-family and Y/B/V Transductionist-family composition labels. Basin color remains Genesis-field identity, with capability arising from architecture. No White eldris, named species, health-bar inflation, aggro/threat or taunt mechanics are introduced. Existing R→V Dungeon/domai ceilings remain.

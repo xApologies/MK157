@@ -1,0 +1,8 @@
+code,basin,canonical_expression,combat_family,battlefield_function,normal_dungeon_area_mi2
+R,Red,Physical,Melee,direct physical/contact pressure,5
+O,Orange,Intrusion,Melee,intrusive melee pressure against defended space,13
+Y,Yellow,Ranged force,Transductionist,ranged Transductive pressure,25
+G,Green,Juggernaut / persistence threshold,Melee,persistent heavy frontline pressure,53
+B,Blue,Expressed projection,Transductionist,projected Transductive pressure beyond immediate body,113
+V,Violet,High Genesis expression,Transductionist,highest ordinary basin Genesis-expression pressure,285
+W,White,NO WHITE ELDRIS,N/A,White content may compose only R→V eldRIS; difficulty is encounter architecture,450
