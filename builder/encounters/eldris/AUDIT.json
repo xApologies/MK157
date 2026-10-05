@@ -59,6 +59,25 @@
     "W": 450
   },
   "white_area_scope": "locked_valnak_normal_dungeon_average",
+  "hard_dungeon_rank_codes": [
+    "R",
+    "O",
+    "Y",
+    "G",
+    "B",
+    "V",
+    "W"
+  ],
+  "hard_dungeon_areas_mi2": {
+    "R": 5,
+    "O": 13,
+    "Y": 25,
+    "G": 53,
+    "B": 113,
+    "V": 285,
+    "W": 450
+  },
+  "hard_and_normal_areas_equal": true,
   "example_population": 25,
   "checks": [
     "ID uniqueness and sequence",
@@ -79,9 +98,9 @@
     "ELDRIS_ATOMIC_GROUPS.json": "e89d876a14de049ae33c7c8de77fd8425207c60a023053ddd45c9aa2df101c79",
     "TIER_AVAILABILITY.json": "17ac920b232e759082ae227f07408e11081d44c8f24e65c42bfefda7aff8762c",
     "BASIN_REFERENCE.csv": "a531c6acfa5a3669a464ea3ae5f31cfd7c4b22be490daaea5cf81d303f89d6fd",
-    "MANIFEST.json": "9c71d1fdcc151f0b979945b5a9dc40c2fc77ddeacc208a91b7a934be4ea3be96",
-    "BUILDER_CONTRACT.md": "eedcc08bbb5e41d6fc76ba9b756c4bed529bda139b33bceeedb957149c16c393",
-    "README.md": "64fe867d25b434b1b8e70236acd092c202592d4c06a59d9a3774bc821128676d",
-    "validate_library.py": "bb25b364578eb6c9f43f9cc76339bf2cab371e479cdb32e9884d8b1ebc8d6f98"
+    "MANIFEST.json": "75f7c3f114b7001ea16044e3c99f3b693bf4271df542519cf40bbb98a284186f",
+    "BUILDER_CONTRACT.md": "c33247dab647bf8e16c12d9579ce7b577ff852b3674b87937fb3440315c1531c",
+    "README.md": "484a3134055f9e55f7004f365f85ce779c7f0821be0bb085e81969bac56b3ee8",
+    "validate_library.py": "7f297cbe58a02fdd20ea48743a17f28428902071499ebb18f3e76777515f8284"
   }
 }

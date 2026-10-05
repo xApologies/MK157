@@ -34,3 +34,6 @@ builder/encounters/eldris/*.csv whitespace=cr-at-eol
 
 provenance/checkpoint-16-package/*.csv whitespace=cr-at-eol
 builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv whitespace=cr-at-eol
+
+provenance/checkpoint-17-package/*.csv whitespace=cr-at-eol
+combat-rewards/*.csv whitespace=cr-at-eol

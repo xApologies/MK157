@@ -32,7 +32,7 @@
     "W"
   ],
   "white_area_application": "locked_valnak_normal_dungeon_average",
-  "checkpoint": 16,
+  "checkpoint": 17,
   "domai_rank_codes": [
     "R",
     "O",
@@ -40,5 +40,23 @@
     "G",
     "B",
     "V"
-  ]
+  ],
+  "hard_dungeon_rank_codes": [
+    "R",
+    "O",
+    "Y",
+    "G",
+    "B",
+    "V",
+    "W"
+  ],
+  "hard_dungeon_areas_mi2": {
+    "R": 5,
+    "O": 13,
+    "Y": 25,
+    "G": 53,
+    "B": 113,
+    "V": 285,
+    "W": 450
+  }
 }

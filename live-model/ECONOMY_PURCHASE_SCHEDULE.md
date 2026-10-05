@@ -1,6 +1,6 @@
 # MK157 — Economy and purchase-schedule handoff
 
-Current authority: Checkpoint 16, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
+Current authority: Checkpoint 17, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
 ## Kira Black acquisition economics — current
 
@@ -243,6 +243,6 @@ Illustrative White Fireball 1.3M/3M, Dimensional Ring 2M, and Valnak-made prince
 
 The [illi author ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) preserves all 17 milestone dates and totals **130,261 credits** in progression expenditure by Violet W2 D2. Full-price prequalification Persistent Coherence and independent 55%-of-list package purchases match the established pricing rules. This is not literal bank balance or gross earnings; discretionary spending remains separate.
 
-White Valnak Normal Dungeon successful-completion base is **68,910 = 53,910 + 15,000 credits**. Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour, with failure/procedural/coordination risk preserving Trial value. Red→Violet Normal payouts, Hard/boss/contribution/first-clear formulas, Raid rewards and Valnak domai rewards remain OPEN. The [Normal Dungeon scale](../builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv) supplies authored runtime targets, not fixed stopwatch laws.
+White Valnak Normal Dungeon successful-completion base is **68,910 = 53,910 + 15,000 credits**. Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour, with failure/procedural/coordination risk preserving Trial value. Checkpoint 17 resolves the [complete Normal/Hard Dungeon completion and Raid major-boss payouts](../combat-rewards/README.md). Hard rewards are exactly 1.5× Normal; Hard Dungeon average areas match Normal and pressure increases through density/deployed groups. Raid rewards remain once per participant per boss per season; Expedition elimination persists for the attempt with no mid-run replacement. Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN. Valnak domai awards are contextual per incursion/per participant and OPEN BY DESIGN; no rank table or deterministic formula is assigned, and the core-break amount/formula remains OPEN. The [Normal Dungeon scale](../builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv) supplies authored runtime targets, not fixed stopwatch laws.
 
 The World Clock + character + economy calendar is ready for authored content placement. Purchases must be economically plausible against the ledger's progression-capital breakpoints, without micro-accounting every discretionary purchase. No new income schedule, encounter placement or post-Violet-W2 rank date is invented here.

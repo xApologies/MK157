@@ -1,8 +1,8 @@
-# Valnak Normal Dungeons — Checkpoint 16
+# Valnak Normal Dungeons — current through Checkpoint 17
 
 ## Rank, basin and environment
 
-Valnak Normal Dungeon content ranks are Red → Orange → Yellow → Green → Blue → Violet → White. White is a mastery/content rank and introduces **no White eldris**: its complete legal palette remains R→V. This supersedes the earlier no-White-Valnak-Dungeon rule only for Normal training content. Outside-world persistent Dungeons and outside/Valnak domai ontology are unchanged; no White domai or new White Hard Dungeon is authorized here.
+Valnak Normal Dungeon content ranks are Red → Orange → Yellow → Green → Blue → Violet → White. White is a mastery/content rank and introduces **no White eldris**: its complete legal palette remains R→V. Checkpoint 16 superseded the earlier no-White-Valnak-Dungeon restriction for Normal training content. Checkpoint 17 also supplies White Hard rewards and the same rank-legal palette and average area. Outside-world persistent Dungeons and outside/Valnak domai ontology are unchanged; no White domai are introduced.
 
 Basin color is literally an expression of an eldris's Genesis Field energy identity. Capability follows resolved architecture: Red physical; Orange intrusion; Yellow ranged force; Green juggernaut/persistence threshold; Blue expressed projection; Violet high Genesis expression. Author combat families remain R/O/G melee and Y/B/V Transductionist. No generic stat inflation, aggro/threat mechanics or illegal higher-basin eldris are introduced.
 
@@ -50,7 +50,9 @@ Exploratory Deep Caverns image-generation attempts, including failed Yellow+ ren
 
 White Normal Dungeon successful-completion base is **68,910 credits = 53,910 + 15,000**. The first term is the preserved W1–35 Trial total; the second is the completion premium. No extra party-split, individual distribution, bonus or first-clear rule is inferred from this base.
 
-Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour. Failure, procedural and coordination risk preserve the value of reliable repeatable Trials. Exact Red→Violet Normal payouts, Hard payouts, boss/contribution/first-clear formulas, Raid rewards and Valnak domai rewards remain OPEN. Hard remains larger/denser/sustainment-heavy legal architecture; exact Hard areas and multipliers remain OPEN.
+Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour. Failure, procedural and coordination risk preserve the value of reliable repeatable Trials. The complete [Normal/Hard completion and Raid reward tables](../combat-rewards/README.md) are locked by Checkpoint 17. Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN. Valnak domai awards remain contextual and OPEN BY DESIGN.
+
+Hard uses the same average areas **5/13/25/53/113/285/450 mi²**, the same rank-legal R→V palettes (including at White), and the same 209 atomic groups. Hard increases population density and the number of deployed groups, creating sustained combat, fatigue and coordination pressure. Its exact **1.5× completion payout** does not multiply area or establish a runtime multiplier. Exact Hard runtime targets, instance geometry, population counts and placement remain OPEN.
 
 ## Calendar handoff
 

@@ -26,10 +26,10 @@ Not enforced.
 2 Guardian comps, summon-heavy, control-heavy, offense-heavy etc. are legal.
 
 ## Dungeon ranks
-Normal ranks: Red / Orange / Yellow / Green / Blue / Violet / White.
+Normal and Hard ranks: Red / Orange / Yellow / Green / Blue / Violet / White.
 White is a mastery/content rank; no White eldris exist.
 
-Normal rank legal palettes are:
+Normal and Hard rank legal palettes are:
 R
 R+O
 R+O+Y
@@ -48,8 +48,8 @@ Violet high Genesis expression.
 
 ## Normal vs Hard Dungeon
 Normal average realized areas: R5/O13/Y25/G53/B113/V285/W450 mi². White Normal is enabled by Checkpoint 16, with no White eldris.
-Exact Hard areas by tier remain OPEN; the former flat area estimates are historical.
-Hard = larger, denser, longer, more difficult legal mixtures, more sustain/navigation pressure.
+Hard uses the same seven average areas and the same 209 atomic groups. The former flat area estimates and blanket larger-map description are superseded.
+Hard increases population density and deployed group counts, sustained combat, fatigue and coordination pressure. The 1.5× multiplier applies to completion payout; no area or runtime multiplier is inferred.
 Not illegal higher-rank monsters and not generic stat inflation.
 
 ## Procedural realization
@@ -96,6 +96,7 @@ First cycles simply see how far they can get; Expedition Raid is not scaled down
 Major boss reward once/participant/boss/season.
 Repeat assist kills are legal without duplicate major reward.
 12 major boss reward opportunities/season total.
+[Exact boss payouts](../combat-rewards/README.md#raid-major-boss-rewards): R→V totals 95,000 Normal / 142,500 Expedition; existing first-cycle roster unchanged. Elimination persists for the expedition attempt with no mid-run replacement; remaining participants may continue short-handed or abandon.
 
 ## Outside `domai`
 Inherited from MK-147.
@@ -110,7 +111,8 @@ Large-scale training/assault events modeled on real-world threat.
 R->V with cumulative `eldris` palette.
 Military/guild/noble-house/cross-org collaboration.
 Localized participation ledger.
-Credits for validated contribution/kills/support/core assault; core-break bonus.
+Contextual credits per incursion/per participant for validated contribution: eldris kills, healing/support, control, operational contribution, core assault and other validated participation; core-break bonus concept preserved.
+Reward formula OPEN BY DESIGN: no fixed rank table or deterministic formula; exact core-break amount/formula remains OPEN.
 High credit potential.
 Valnak version ends as completed encounter when the main White Crystal breaks.
 
@@ -145,7 +147,7 @@ Dungeons are **completion-weighted**.
 A failed Dungeon still gives some contribution/progress credit, but the major economic value comes from completion.
 
 Illustrative principle only:
-a failed run may produce only a few hundred credits while a successful run's completion bonus can be far larger. Exact numbers remain OPEN.
+a failed run may produce only a few hundred credits while a successful run's completion bonus can be far larger. Exact failed-run/partial-progress amounts remain OPEN; successful-completion values follow the [Checkpoint 17 reward table](../combat-rewards/README.md).
 
 Therefore:
 - low-rank Trial farming can outperform unreliable Dungeon attempts;
@@ -244,20 +246,20 @@ Use lowercase `eldris` in active MK157 prose.
 
 # 28. Normal Dungeon vs Hard Dungeon
 
-Normal Valnak ranks now extend through White; all eldris remain R→V. This update extends only Normal content permissions. Hard retains its existing rank-legal composition rules.
+Normal and Hard Valnak Dungeon ranks extend through White; all eldris remain R→V. Hard uses the same cumulative rank-legal palette and the unchanged 209 atomic groups as Normal.
 
 Locked Normal Dungeon average realized areas (mi²): **Red 5 / Orange 13 / Yellow 25 / Green 53 / Blue 113 / Violet 285 / White 450**.
 
 White 450 mi² is now an enabled Normal Dungeon average. The [author scale](../builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv) supplies runtime targets from Red 1–2 hours to White ~156 hours. These are environmental footprints and author targets for appropriately ranked competent parties, not required travel or stopwatch guarantees. The Trial arena remains 9 mi².
 
-These are average total realized environment areas, not guaranteed geometry or required traversal distances. The former flat Normal ~5 / Hard ~7.5–8 mi² working estimates are superseded as universal scales. Exact Hard Dungeon areas by tier remain OPEN; no fixed multiplier is inferred.
+These are average total realized environment areas, not guaranteed geometry or required traversal distances. The former flat Normal ~5 / Hard ~7.5–8 mi² working estimates are superseded as universal scales. Checkpoint 17 locks Hard to the same seven average areas as Normal. Its 1.5× reward multiplier does not apply to area or establish runtime targets.
 
 Hard Dungeon difficulty comes primarily from:
-- larger generated domain;
+- more deployed rank-legal atomic groups in the same average area;
 - denser encounter population;
 - longer sustainment requirement;
 - more difficult mixed rank-legal `eldris` configurations;
-- greater fatigue/navigation pressure.
+- greater sustained combat, fatigue, navigation and coordination pressure.
 
 Hard does NOT mean illegally introducing higher-rank `eldris` or merely multiplying health bars.
 
@@ -385,6 +387,8 @@ It can take days. A week-plus / roughly ~10-day first-cycle serious attempt is a
 
 The Expedition Raid is NOT scaled down to first-cycle capability. First cycles simply see how far they can get.
 
+Intervening eldris are the attrition path to each next boss reward. An eliminated participant remains out for that expedition attempt, with no mid-run replacement. Remaining participants may continue short-handed or abandon. No additional resurrection or re-entry rules are supplied.
+
 # 36. Raid rewards
 
 Across a season there are **12 major raid-boss reward opportunities**:
@@ -397,7 +401,7 @@ Repeat kills are legal for assistance/practice/social play but do not repeat the
 
 At season transition, raid eligibility/reward state resets and Elara can provide a new encounter roster.
 
-Exact credit values remain OPEN.
+The [Checkpoint 17 Raid rank table](../combat-rewards/README.md#raid-major-boss-rewards) locks Normal major-boss payouts and exact 1.5× Expedition/Hard payouts. One boss at each R→V rank totals **95,000 Normal / 142,500 Expedition**. These totals do not replace the existing R/R/O/O/Y/G First-Cycle standalone roster or promise every participant a full-roster payout. Eligibility remains per boss, not a shared same-rank allowance.
 
 # 37. First-Cycle build economics
 
@@ -495,7 +499,8 @@ Each incursion maintains a local participation ledger.
 
 Contribution can include:
 - `eldris` kills;
-- support contribution;
+- healing/support contribution;
+- control;
 - operational contribution;
 - core assault;
 - other validated participation.
@@ -504,11 +509,11 @@ Breaking the central White Crystal earns a special/core-break bonus.
 
 Unlike the outside-world natural `domai`, the Valnak training incursion terminates as a completed encounter when the main White Crystal is broken rather than requiring a prolonged natural unraveling/harvest window.
 
-Exact credit formula remains OPEN.
+**Valnak domai rewards are OPEN BY DESIGN:** no fixed rank reward table and no deterministic formula. Awards may be assigned contextually per incursion and per participant against validated contribution to support story/economic pacing. The core-break bonus concept remains; its exact amount/formula remains OPEN. This flexibility is deliberate rather than missing data.
 
 ## Checkpoint 15 atomic encounter authoring
 
-The [eldris atomic group library](../builder/encounters/eldris/README.md) supplies 209 exhaustive 1–4-body basin compositions. IDs are author tooling only. Higher permitted ceilings may combine and duplicate lower-tier groups; groups do not prescribe domains, maps, placements, full encounters or spawn schedules. R/O/G are melee-family and Y/B/V Transductionist-family composition labels. Basin color remains Genesis-field identity, with capability arising from architecture. No White eldris, named species, health-bar inflation, aggro/threat or taunt mechanics are introduced. Normal Valnak Dungeon ranks now extend R→W; their eldris and existing domai ceilings remain R→V.
+The [eldris atomic group library](../builder/encounters/eldris/README.md) supplies 209 exhaustive 1–4-body basin compositions. IDs are author tooling only. Higher permitted ceilings may combine and duplicate lower-tier groups; groups do not prescribe domains, maps, placements, full encounters or spawn schedules. R/O/G are melee-family and Y/B/V Transductionist-family composition labels. Basin color remains Genesis-field identity, with capability arising from architecture. No White eldris, named species, health-bar inflation, aggro/threat or taunt mechanics are introduced. Normal and Hard Valnak Dungeon ranks extend R→W; their eldris and existing domai ceilings remain R→V.
 
 ## Checkpoint 16 runtime, population and economy
 
@@ -516,4 +521,4 @@ The [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) and [author scale](../builder/
 
 Dungeon populations are pre-populated. Readable entry→progression→endpoint maps with limited/reconnecting branches are author guidance; avoid excessive dead-end backtracking that changes runtime. Exploratory Deep Caverns/failed Yellow+ renders remain NONCANON and are not imported.
 
-Reliable clears should generally outperform equivalent Trial farming, with failure/procedural/coordination risk preserving Trial value. White Normal successful-completion base is **68,910 = 53,910 + 15,000 credits**. Red→Violet Normal payouts and Hard/boss/contribution/first-clear/Raid/domai reward formulas remain OPEN. No additional distribution or bonus rules are inferred.
+Reliable clears should generally outperform equivalent Trial farming, with failure/procedural/coordination risk preserving Trial value. White Normal successful-completion base is **68,910 = 53,910 + 15,000 credits**. Checkpoint 17 locks the [Normal/Hard Dungeon completion and Raid major-boss tables](../combat-rewards/README.md). Unsupplied Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN; Valnak domai awards remain contextual and OPEN BY DESIGN. No additional distribution or bonus rules are inferred.

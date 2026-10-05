@@ -1,6 +1,6 @@
 # Authority and supersessions
 
-Checkpoint 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -67,7 +67,7 @@ Older Checkpoint 03 Signature first Binding absorption wording is superseded by 
 
 ## Checkpoint 09 governing continuation
 
-Checkpoint 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+Checkpoint 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 Lowercase `eldris` supersedes Checkpoint 08 uppercase typography. `raeon`, `domai`, `vaen`, `maege`, `maegi` are lowercase; spelling-by-letter capitals are transcription artifacts.
 The current carriage supersedes historical Open Blank transport. Schedule PDFs supply methodology only. MK157 explicit canon governs approved upstream inheritance. Outside persistent Dungeons are distinct from Valnak procedural training; outside `domai` unravel progressively after core break, while Valnak incursions terminate as completed encounters.
 Checkpoint 08 Green Solo graduation and Black/White progression remain. No new registry records are requested. The exact Checkpoint 09 master retains its original pending-integration header and quoted uppercase transcription example; current status is integrated and its authority is active.
@@ -75,7 +75,7 @@ See [full master](16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md), [source boundar
 
 ## Checkpoint 10 Trial/calendar delta
 
-Checkpoint 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
+Checkpoint 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
 
 Wave totals describe delivered population, not simultaneous population. Solo/Duo/Trio share fixed 3×3-mile geography; Dungeon realization remains procedural. W35 pressure saturation is WORKING; post-W35 total population, numeric caps and exact spawn laws remain OPEN. W96 is noncanonical.
 
@@ -83,7 +83,7 @@ Calendar conflict: supplied months sum to 353 rather than 360; 360 days/60 weeks
 
 ## Checkpoint 11 governing delta
 
-16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations have OPEN final prices and total. Their former flat prices are historical; ordinary registry rank pricing remains separate. Armor remains the ~1,000-credit anomalous starter. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
+17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations have OPEN final prices and total. Their former flat prices are historical; ordinary registry rank pricing remains separate. Armor remains the ~1,000-credit anomalous starter. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
 illi's Persistent Coherence BLUE is required for White Legacy entry. This supersedes immediate-entry access and arbitrary Absorption acquisition dates; individual Prime GREEN-to-RED gates remain unchanged. The 26,648 cumulative example is illustrative B=1,000, not a new registry price assignment.
 Valnak weeks have seven days (343 days/deployment). Planetary month-total conflict remains OPEN. Daily highlights at 25:00, raeon W7 D5 final, W7 D5–D7 Auctions and White-season Prism playoff placement supersede older timing OPENs. Fine match schedules remain OPEN.
 Genesis Cards are active inherited collectibles, not Binding grants/casts. Their colors express actual manifold basins; raeon colors express game classification/rarity. Both share transparent durable maege glass. No universal color/element mapping follows from illustrative card examples.
@@ -101,7 +101,7 @@ Checkpoint 14 full reconciliation governs: exact rewards 53910 supersede rounded
 
 ## Checkpoint 15 atomic eldris tooling
 
-The flat Normal ~5 / Hard ~7.5–8 mi² author estimates no longer serve as universal Dungeon scales. Enabled Normal Dungeon averages are R5/O13/Y25/G53/B113/V285 mi². At Checkpoint 15, W450 was reference-only under then-current no-White-Dungeon canon. Checkpoint 16 explicitly supersedes that restriction for Valnak Normal Dungeons; domai and outside ontology remain unchanged. Hard areas by tier remain OPEN. The Trial arena remains 9 mi².
+The flat Normal ~5 / Hard ~7.5–8 mi² author estimates no longer serve as universal Dungeon scales. Enabled Normal Dungeon averages are R5/O13/Y25/G53/B113/V285 mi². At Checkpoint 15, W450 was reference-only under then-current no-White-Dungeon canon. Checkpoint 16 explicitly supersedes that restriction for Valnak Normal Dungeons; domai and outside ontology remain unchanged. Hard areas were OPEN at that checkpoint; Checkpoint 17 now makes their averages equal to Normal. The Trial arena remains 9 mi².
 
 The author-facing library has 209 groups with 1–4 bodies, cumulative legality, and no White eldris. Its IDs are not in-world identifiers. Source mixed-case terminology is normalized only in active prose/reference text; exact originals remain in provenance. The supplied composition example totals 25 bodies, correcting its approximate ~30 wording. See [checkpoint](22_CHECKPOINT_15_ELDRIS_ATOMIC_GROUP_LIBRARY.md) and [conflict decisions](../provenance/CHECKPOINT_15_CONFLICTS.md).
 
@@ -109,4 +109,14 @@ The author-facing library has 209 groups with 1–4 bodies, cumulative legality,
 
 The source package is labeled Checkpoint 15, but the atomic-library integration already occupies that number; this master is persisted as Checkpoint 16. White Valnak Normal Dungeon now exists as mastery/content rank, superseding both the original no-White-Dungeon rule and Checkpoint 15's W450 reference-only metadata. No White eldris or new White domai exist; outside persistent Dungeons remain distinct and unchanged. Normal R→W areas and runtime targets are explicit author locks. Hard-specific figures are not inferred.
 
-The 17-event author ledger adds exact costs (130,261 total) without changing dates. White Normal successful-completion base is 68,910 = 53,910 + 15,000; only that reward OPEN is resolved. Pre-population, no rubber-banding, whole-build capability and environmental grammar are integrated in [Normal Dungeons](NORMAL_DUNGEONS.md). The existing 209 group rows and cumulative ID lists are preserved exactly. Exploratory/failed Deep Caverns renders remain NONCANON; no images are imported. All Checkpoint 14 story/economy locks remain.
+The 17-event author ledger adds exact costs (130,261 total) without changing dates. White Normal successful-completion base is 68,910 = 53,910 + 15,000; at Checkpoint 16 only that reward OPEN was resolved; Checkpoint 17 adds the remaining supplied Dungeon completion and Raid major-boss tables. Pre-population, no rubber-banding, whole-build capability and environmental grammar are integrated in [Normal Dungeons](NORMAL_DUNGEONS.md). The existing 209 group rows and cumulative ID lists are preserved exactly. Exploratory/failed Deep Caverns renders remain NONCANON; no images are imported. All Checkpoint 14 story/economy locks remain.
+
+## Checkpoint 17 combat reward economy
+
+- Red→Violet Normal completion OPENs are superseded by 790/2,040/4,610/9,100/15,600/27,500; White Normal 68,910 remains. Hard R→W is exactly 1.5× Normal, including White 103,365.
+- Hard average-area OPENs and the blanket larger-map description are superseded: Hard uses the same 5/13/25/53/113/285/450-mi² ladder, legal palettes and 209 atomic groups as Normal. Greater density/deployed group counts drive sustained combat/fatigue/coordination pressure. Earlier CP16 Normal-only scope does not block the now-explicit White Hard row. No White eldris or White domai are introduced. No Hard runtime multiplier follows.
+- Raid major-boss reward OPENs are superseded by the [R→V tables](../combat-rewards/README.md#raid-major-boss-rewards): 95,000 Normal and 142,500 Expedition/Hard when summing one boss per rank. The First-Cycle R/R/O/O/Y/G standalone roster, 12 seasonal opportunities and per-participant/per-boss/per-season eligibility remain unchanged. No repeat major payout follows from assistance/practice kills.
+- Expedition intervening eldris are the path to boss rewards. Elimination persists for that attempt; no mid-run replacement. Remaining participants may continue short-handed or abandon; no additional resurrection/re-entry rules are invented.
+- Valnak domai formula remains **OPEN BY DESIGN** with contextual validated-contribution awards per incursion/per participant. No fixed rank table or deterministic formula. Healing/support and control are explicit contribution dimensions alongside kills, operations, core assault and other validated participation. Core-break bonus concept remains; its exact amount/formula stays OPEN.
+
+Dungeon distribution/partial-progress/boss/contribution/first-clear bonus formulas are not supplied by these completion tables. Trial W1–35, illi dates/costs, atomic records, Normal runtimes, outside ontology and Project Princess Carry remain. Earlier checkpoint masters and source packages are immutable history subject to this correction. [Checkpoint](24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md) and [conflict decisions](../provenance/CHECKPOINT_17_CONFLICTS.md) record scope.

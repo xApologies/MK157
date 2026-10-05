@@ -5,3 +5,5 @@
 - [Normal Dungeon doctrine](../../live-model/NORMAL_DUNGEONS.md): White Normal content, pre-population, whole-build capability, environments and completion economy.
 
 These are author tools, not a claim about Valnak internal IDs. Encounter compositions and spatial placement remain to be authored. White Normal Dungeons use R→V groups only; no White eldris exist.
+
+[Combat reward economy](../../combat-rewards/README.md) supplies Normal/Hard completion payouts and Raid rewards. Hard uses Normal's same R→W average areas and atomic library with greater density/deployed group counts; payout ×1.5 does not multiply area.

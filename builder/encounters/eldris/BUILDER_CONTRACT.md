@@ -12,7 +12,7 @@ individual eldris -> atomic group -> encounter composition -> dungeon/domai/tria
    R###, O###, Y###, G###, B###, V###.
 3. A higher-rank encounter builder may use any atomic group at or below its legal ceiling.
 4. No group may contain an eldris above its ID ceiling.
-5. There is no White eldris. White Valnak Normal Dungeons now use the complete R→V atomic library under mastery-level encounter architecture. The W availability key introduces no White eldris or groups. Outside persistent Dungeon ontology and the prohibition on White domai are unchanged.
+5. There is no White eldris. White Valnak Normal and Hard Dungeons use the complete R→V atomic library under mastery-level encounter architecture. The W availability key introduces no White eldris or groups. Outside persistent Dungeon ontology and the prohibition on White domai are unchanged.
 6. Basin color is ontological Genesis-field identity, not an arbitrary game difficulty tag.
 7. Combat-family partition:
    melee = Red / Orange / Green
@@ -43,8 +43,10 @@ The same legal group can be placed into different procedural domain realizations
 The supplied author area ladder is R5/O13/Y25/G53/B113/V285/W450 mi².
 Normal Dungeon average realized areas are locked at Red 5, Orange 13, Yellow 25, Green 53, Blue 113, Violet 285 and White 450 mi². Checkpoint 16 explicitly enables White Valnak Normal content; this does not change the Trial arena or outside ontology.
 `BASIN_REFERENCE.csv` preserves the supplied area column and adds explicit rank-enablement and area-scope fields; consumers must honor them. `TIER_AVAILABILITY.json` describes composition ceilings, not which content types exist.
-The older flat Normal ~5 / Hard ~7.5–8 mi² estimates are superseded as universal scales. Exact tier-specific Hard Dungeon areas remain OPEN; Hard still means larger, denser and more demanding legal architecture, without an inferred multiplier.
+The older flat Normal ~5 / Hard ~7.5–8 mi² estimates are superseded as universal scales. Checkpoint 17 locks Hard to the same average area at every rank and the same legal group vocabulary. Hard deploys more groups at greater population density to create sustained combat, fatigue and coordination pressure. The exact 1.5× multiplier governs completion payout, not map area or runtime. No final population/placement counts are assigned.
 Area is total realized environment, not required traversal distance.
 Larger maps permit more atomic groups and wider separation; they do not require larger atomic groups.
 
 [Normal Dungeon author scale](../NORMAL_DUNGEON_AUTHOR_SCALE.csv) supplies runtime targets. Dungeon populations are pre-populated, while Trial wave delivery remains distinct. [Current doctrine](../../../live-model/NORMAL_DUNGEONS.md) preserves whole-build capability, no rubber-banding, nine domains and the 68,910-credit White Normal completion base; final encounters and placement remain to be authored.
+
+[Combat reward policy and tables](../../../combat-rewards/README.md) govern Checkpoint 17 payouts and Expedition attrition. `MANIFEST.json` records Hard R→W permissions and `hard_dungeon_areas_mi2`; the Normal area/reference and runtime data remain unchanged.

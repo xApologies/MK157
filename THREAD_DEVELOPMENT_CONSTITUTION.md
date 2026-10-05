@@ -6,7 +6,7 @@ This constitution governs cross-thread MK157 development. Its purpose is continu
 ## Authority
 1. Git is the persistent cross-thread source of truth.
 2. At a new thread start, crawl the MK157 repository before reconstructing established systems from memory.
-3. Current authority is Checkpoint 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+3. Current authority is Checkpoint 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 4. Provenance/historical files are not current canon merely because they remain in Git.
 5. Never silently revive superseded material.
 6. OPEN means OPEN. Distinguish LOCKED / WORKING / ALPHA / OPEN / SUPERSEDED.
@@ -210,3 +210,5 @@ Checkpoint 14 equivalence rule: every future Git/live-model audit must reverse-a
 Checkpoint 15 adds author-facing atomic eldris composition tooling. IDs do not describe Valnak internals. Atomic populations are 1–4, cumulative R→V legality is enforced, and there are no White eldris. Checkpoint 16 extends the supplied Normal Dungeon ladder through W450 and authorizes White Valnak Normal content with R→V eldris only; outside persistent Dungeon ontology and existing domai limits remain unchanged. Basin identity, architecture-based capability and existing content rules remain separate. See [builder contract](builder/encounters/eldris/BUILDER_CONTRACT.md).
 
 Checkpoint 16 preserves all 17 illi milestone dates and adds the 130,261-credit author expenditure ledger. Normal Dungeon runtime targets describe competent appropriately ranked parties; whole-build capability matters and over-ranked veterans are not rubber-banded. Dungeon populations are pre-populated. White Normal completion base is 68,910; other unsupplied reward formulas and exact extreme recovery physiology remain OPEN. See [current Normal Dungeon doctrine](live-model/NORMAL_DUNGEONS.md).
+
+Checkpoint 17 locks [Normal/Hard Dungeon and Raid rewards](combat-rewards/README.md). Hard Dungeon payouts are exactly 1.5× Normal while average areas and legal atomic vocabulary are identical to Normal. Raid major payouts remain once per participant per boss per season. Expedition elimination persists for the attempt with no mid-run replacement. Valnak domai awards remain contextual validated-contribution awards, **OPEN BY DESIGN**, with no fixed rank table or deterministic formula; core-break bonus amount/formula remains OPEN.

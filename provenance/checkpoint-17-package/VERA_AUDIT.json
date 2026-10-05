@@ -1,0 +1,47 @@
+{
+  "result": "PASS",
+  "normal_dungeon": {
+    "Red": 790,
+    "Orange": 2040,
+    "Yellow": 4610,
+    "Green": 9100,
+    "Blue": 15600,
+    "Violet": 27500,
+    "White": 68910
+  },
+  "hard_dungeon": {
+    "Red": 1185,
+    "Orange": 3060,
+    "Yellow": 6915,
+    "Green": 13650,
+    "Blue": 23400,
+    "Violet": 41250,
+    "White": 103365
+  },
+  "normal_raid": {
+    "Red": 5000,
+    "Orange": 7500,
+    "Yellow": 10000,
+    "Green": 15000,
+    "Blue": 22500,
+    "Violet": 35000
+  },
+  "hard_raid": {
+    "Red": 7500,
+    "Orange": 11250,
+    "Yellow": 15000,
+    "Green": 22500,
+    "Blue": 33750,
+    "Violet": 52500
+  },
+  "normal_raid_total": 95000,
+  "hard_raid_total": 142500,
+  "hard_multiplier": 1.5,
+  "domai": "OPEN BY DESIGN",
+  "checks": {
+    "dungeon_1_5x": true,
+    "raid_1_5x": true,
+    "white_normal": true,
+    "white_hard": true
+  }
+}

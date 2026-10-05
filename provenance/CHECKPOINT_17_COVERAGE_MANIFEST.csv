@@ -1,0 +1,15 @@
+step,requirement,status,evidence,detail
+1,Crawl current authority,PASS,provenance/CHECKPOINT_17_BEFORE_REVIEW.json,Baseline commit and all tracked file hashes recorded before tracked edits.
+2,Normal completion rows,PASS,combat-rewards/DUNGEON_REWARDS.csv,Exact seven values; six OPEN rows resolved and White preserved.
+3,Hard completion rows at exact 1.5x,PASS,combat-rewards/AUDIT.json,Seven integer-arithmetic pairs pass.
+4,Hard same palette/area/atomic library and greater pressure,PASS,builder/encounters/eldris/MANIFEST.json; combat-rewards/README.md,Seven shared areas; 209 unchanged records; no area multiplication.
+5,Normal Raid values and 95000,PASS,combat-rewards/AUDIT.json,Exact rows and one-boss-per-rank sum.
+6,Expedition Raid values and 142500,PASS,combat-rewards/AUDIT.json,Six 1.5x pairs and exact total.
+7,Once per participant/boss/season; repeats,PASS,live-model/COMBAT_ECOLOGY.md,Prior eligibility/repeat/season-reset text preserved.
+8,Expedition attrition/elimination/no replacement,PASS,live-model/COMBAT_ECOLOGY.md,Explicit attempt restriction and short-handed/abandon options; no extra re-entry rules.
+9,Valnak domai OPEN BY DESIGN,PASS,combat-rewards/README.md; live-model/OPEN.md,Contextual validated-contribution awards; core-break amount/formula OPEN.
+10,Protected canon,PASS,provenance/CHECKPOINT_17_AUDIT.json,Whole-file hashes and protected section comparisons; exact totals and registry counts.
+11,OPEN/supersessions/checkpoint/provenance/reverse coverage,PASS,live-model/24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md,34 decision dispositions and eight exact original files.
+12,Mechanical arithmetic validation,PASS,combat-rewards/AUDIT.json,All 13 multiplication pairs and both Raid sums; three invalid fixtures rejected.
+13,Commit/push/fetch and HEAD equality,POST_COMMIT_VERIFICATION,Execution report,Run after all pre-commit checks; exact commit and fetched remote SHA reported after creation.
+14,Final report,EXECUTION_REPORT,Execution report; combat-rewards/README.md; provenance/CHECKPOINT_17_AUDIT.json,"Report exact tables, resolved OPENs, domai OPEN, changed files, audit and remote SHA."

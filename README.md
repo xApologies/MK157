@@ -1,6 +1,6 @@
-# MK157 — Current through Checkpoint 16
+# MK157 — Current through Checkpoint 17
 
-Authority: **Checkpoint 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative. All OPEN questions remain OPEN unless explicitly answered by a supplied checkpoint.
+Authority: **Checkpoint 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative. All OPEN questions remain OPEN unless explicitly answered by a supplied checkpoint.
 
 Start with [live-model/INDEX.md](live-model/INDEX.md). Current Kira and visual summaries reflect WHITE skin/hair, BLACK/R→V eyes, perfect symmetry, and Genesis/crystalline biology.
 
@@ -34,3 +34,5 @@ Checkpoint 09 is integrated. [Full continuation](live-model/16_CHECKPOINT_09_WOR
 [Checkpoint 15](live-model/22_CHECKPOINT_15_ELDRIS_ATOMIC_GROUP_LIBRARY.md) integrates the author-facing [eldris atomic group library](builder/encounters/eldris/README.md): 209 groups, 1–4 bodies each, cumulative R→V legality. The Normal Dungeon area ladder supersedes earlier flat estimates; Checkpoint 16 subsequently enables White Valnak Normal content. [Audit](provenance/CHECKPOINT_15_AUDIT.json), [coverage](provenance/CHECKPOINT_15_COVERAGE_MANIFEST.csv) and [conflicts](provenance/CHECKPOINT_15_CONFLICTS.md) record validation and scope.
 
 [Checkpoint 16 master update](live-model/23_CHECKPOINT_16_MASTER_LIVE_MODEL_UPDATE.md) integrates the source package labeled Checkpoint 15 after the already-committed atomic-library pass. [Normal Dungeons](live-model/NORMAL_DUNGEONS.md) now extend through White without White eldris; the [illi cost ledger](world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) totals 130,261. [All 22 reverse-diff dispositions](provenance/CHECKPOINT_16_REVERSE_DIFF.md), [audit/file list](provenance/CHECKPOINT_16_AUDIT.json) and [conflicts](provenance/CHECKPOINT_16_CONFLICTS.md) document the update.
+
+[Checkpoint 17 combat reward economy](live-model/24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md) locks the complete [Dungeon and Raid reward tables](combat-rewards/README.md), Hard Dungeon average areas equal to Normal, and Expedition attrition rules. Valnak domai rewards remain **OPEN BY DESIGN**. [Reverse diff](provenance/CHECKPOINT_17_REVERSE_DIFF.csv), [coverage](provenance/CHECKPOINT_17_COVERAGE_MANIFEST.csv), [audit/file list](provenance/CHECKPOINT_17_AUDIT.json) and [conflict decisions](provenance/CHECKPOINT_17_CONFLICTS.md) record the reconciliation.

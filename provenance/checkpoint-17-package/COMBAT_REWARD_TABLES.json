@@ -1,0 +1,48 @@
+{
+  "dungeons": {
+    "normal": {
+      "Red": 790,
+      "Orange": 2040,
+      "Yellow": 4610,
+      "Green": 9100,
+      "Blue": 15600,
+      "Violet": 27500,
+      "White": 68910
+    },
+    "hard": {
+      "Red": 1185,
+      "Orange": 3060,
+      "Yellow": 6915,
+      "Green": 13650,
+      "Blue": 23400,
+      "Violet": 41250,
+      "White": 103365
+    },
+    "hard_multiplier": 1.5
+  },
+  "raids": {
+    "normal": {
+      "Red": 5000,
+      "Orange": 7500,
+      "Yellow": 10000,
+      "Green": 15000,
+      "Blue": 22500,
+      "Violet": 35000
+    },
+    "hard": {
+      "Red": 7500,
+      "Orange": 11250,
+      "Yellow": 15000,
+      "Green": 22500,
+      "Blue": 33750,
+      "Violet": 52500
+    },
+    "hard_multiplier": 1.5,
+    "normal_total": 95000,
+    "hard_total": 142500
+  },
+  "domai": {
+    "reward_formula": "OPEN BY DESIGN",
+    "rule": "Valnak awards contextual validated-contribution credits; no fixed rank table. Contribution may include eldRIS kills, healing/support, control, operational contribution, core assault, and other validated participation. Core-break bonus concept preserved; exact amount OPEN."
+  }
+}

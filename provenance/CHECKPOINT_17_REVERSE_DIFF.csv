@@ -1,0 +1,35 @@
+decision_id,decision,before_status,after_status,before_evidence,current_evidence,disposition
+17-01,Normal R→V completion payouts,OPEN,PRESENT,live-model/NORMAL_DUNGEONS.md: old OPEN summary,combat-rewards/DUNGEON_REWARDS.csv,790/2040/4610/9100/15600/27500 locked.
+17-02,White Normal 68910,PRESENT,PRESENT,live-model/NORMAL_DUNGEONS.md: completion economy,combat-rewards/DUNGEON_REWARDS.csv,68910 = 53910 + 15000 preserved.
+17-03,Hard R→W completion at exact 1.5x,OPEN,PRESENT,live-model/OPEN.md: CP16 reward OPENs,combat-rewards/DUNGEON_REWARDS.csv,All seven exact supplied Hard values validated.
+17-04,Hard average areas equal Normal,OPEN,PRESENT,builder/encounters/eldris/BUILDER_CONTRACT.md: area context,builder/encounters/eldris/MANIFEST.json,5/13/25/53/113/285/450 mi2.
+17-05,Blanket Hard larger-map premise,PRESENT,SUPERSEDED,live-model/COMBAT_ECOLOGY.md: section 28 larger generated domain,live-model/SUPERSESSIONS.md,Density/deployed groups now raise pressure at equal average area.
+17-06,Same cumulative rank-legal palette,PRESENT,PRESENT,live-model/COMBAT_ECOLOGY.md: sections 26-28,combat-rewards/README.md,Hard shares Normal ceilings; White uses R→V only.
+17-07,White Hard content permission,MISSING,PRESENT,live-model/NORMAL_DUNGEONS.md: CP16 Normal-only scope,builder/encounters/eldris/MANIFEST.json,Explicit White Hard row and shared seven-area ladder now integrated.
+17-08,209 atomic groups max 4 no White eldris,PRESENT,PRESENT,builder/encounters/eldris/ELDRIS_ATOMIC_GROUPS.csv,builder/encounters/eldris/AUDIT.json,CSV/JSON/availability bytes unchanged; exhaustive audit passes.
+17-09,Hard density/deployed groups and sustained pressure,PRESENT,PRESENT,live-model/COMBAT_ECOLOGY.md: section 28,live-model/COMBAT_ECOLOGY.md,More groups at greater density drive fatigue/combat/coordination.
+17-10,1.5x is payout only; no area multiplier,OPEN,PRESENT,live-model/OPEN.md: Hard areas/multipliers OPEN,combat-rewards/README.md,Area equality explicit; no runtime multiplier inferred.
+17-11,Normal Raid major boss payouts,OPEN,PRESENT,live-model/COMBAT_ECOLOGY.md: section 36,combat-rewards/RAID_BOSS_REWARDS.csv,5000/7500/10000/15000/22500/35000.
+17-12,Expedition/Hard Raid exact 1.5x,OPEN,PRESENT,live-model/COMBAT_ECOLOGY.md: section 36,combat-rewards/RAID_BOSS_REWARDS.csv,7500/11250/15000/22500/33750/52500.
+17-13,Normal six-rank total 95000,OPEN,PRESENT,live-model/COMBAT_ECOLOGY.md: section 36,combat-rewards/AUDIT.json,Sum one boss each R→V; preserves first-cycle roster.
+17-14,Expedition six-rank total 142500,OPEN,PRESENT,live-model/COMBAT_ECOLOGY.md: section 36,combat-rewards/AUDIT.json,Sum one boss each R→V and total exactly 1.5x Normal.
+17-15,Once per participant/boss/season,PRESENT,PRESENT,live-model/COMBAT_ECOLOGY.md: section 36,combat-rewards/README.md,Per boss; repeated ranks do not share a new cap.
+17-16,Repeat assistance/practice without repeat major reward,PRESENT,PRESENT,live-model/COMBAT_ECOLOGY.md: section 36,live-model/COMBAT_ECOLOGY.md,Social/assist/practice repeat legality and seasonal reset preserved.
+17-17,Existing Raid rosters/participant cap/12 opportunities,PRESENT,PRESENT,live-model/COMBAT_ECOLOGY.md: sections 33-36,live-model/COMBAT_ECOLOGY.md,"First-cycle R/R/O/O/Y/G, max10, full Expedition and 12 opportunities preserved."
+17-18,Intervening eldris as path to next boss reward,PRESENT,PRESENT,live-model/COMBAT_ECOLOGY.md: section 35,combat-rewards/README.md,Existing attrition architecture explicitly tied to reward path.
+17-19,Elimination persists for attempt,MISSING,PRESENT,live-model/COMBAT_ECOLOGY.md: section 35 lacks explicit elimination rule,live-model/COMBAT_ECOLOGY.md,Eliminated participant stays out for this attempt.
+17-20,No mid-run replacement,MISSING,PRESENT,live-model/COMBAT_ECOLOGY.md: section 35,live-model/COMBAT_ECOLOGY.md,Explicit attempt restriction integrated.
+17-21,Remaining participants continue short-handed or abandon,MISSING,PRESENT,live-model/COMBAT_ECOLOGY.md: section 35,live-model/COMBAT_ECOLOGY.md,Both supplied options integrated.
+17-22,No additional resurrection/re-entry rules,OPEN,OPEN,live-model/COMBAT_ECOLOGY.md: no supplied additional rules,combat-rewards/README.md,No invention beyond attempt-long elimination and no replacement.
+17-23,Valnak domai formula OPEN BY DESIGN,OPEN,OPEN,live-model/COMBAT_ECOLOGY.md: section 41 exact formula OPEN,combat-rewards/COMBAT_REWARD_TABLES.json,Deliberate flexibility; no fixed rank table/deterministic formula.
+17-24,Contextual awards per incursion/per participant,MISSING,PRESENT,live-model/COMBAT_ECOLOGY.md: local ledger exists but contextual award rule unstated,combat-rewards/README.md,Story/economic pacing with validated contribution; no numeric schedule.
+17-25,Validated contribution dimensions including healing/support/control,MISSING,PRESENT,live-model/COMBAT_ECOLOGY.md: support listed; control/healing not explicit,live-model/COMBAT_ECOLOGY.md,"Kills, healing/support, control, operations, core assault and other participation."
+17-26,Core-break bonus concept,PRESENT,PRESENT,live-model/COMBAT_ECOLOGY.md: section 41,combat-rewards/README.md,Preserved special/core-break bonus.
+17-27,Core-break exact amount/formula,OPEN,OPEN,live-model/COMBAT_ECOLOGY.md: section 41,live-model/OPEN.md,No amount or deterministic formula assigned.
+17-28,Trial W1–35 exact schedule/53910,PRESENT,PRESENT,trial-rewards/TRIAL_WAVE_CREDITS.csv,trial-rewards/TRIAL_WAVE_CREDITS.csv,All bytes/rules preserved; 35 cumulative rows recomputed.
+17-29,illi 17-event ledger/130261,PRESENT,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv,All dates/costs preserved and cumulative sums recomputed.
+17-30,White Normal and outside Dungeon/domai ontology,PRESENT,PRESENT,live-model/NORMAL_DUNGEONS.md; live-model/04_COMBAT_WORLD.md,live-model/NORMAL_DUNGEONS.md; live-model/04_COMBAT_WORLD.md,Normal scale/runtimes and outside domai sections unchanged.
+17-31,Project Princess Carry and unrelated canon,PRESENT,PRESENT,live-model/PARTNERSHIP_AND_CARRY.md and unaffected tracked files,provenance/CHECKPOINT_17_AUDIT.json,All tracked files outside explicit edit allowlist byte-identical.
+17-32,No invented income calendar or new purchase dates,OPEN,OPEN,live-model/ECONOMY_PURCHASE_SCHEDULE.md,live-model/OPEN.md,"World Clock, milestones and acquisition OPENs preserved."
+17-33,Expedition roughly 10-day narrative possibility,WORKING-ILLUSTRATIVE,WORKING-ILLUSTRATIVE,live-model/COMBAT_ECOLOGY.md: section 35,live-model/COMBAT_ECOLOGY.md,"Working duration remains a possibility, not a stopwatch law."
+17-34,Unsupplied Dungeon bonus/distribution/partial-progress formulas,OPEN,OPEN,live-model/NORMAL_DUNGEONS.md: no extra distribution/bonus rule,live-model/OPEN.md,Completion tables do not supply these separate formulas.

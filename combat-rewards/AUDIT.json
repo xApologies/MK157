@@ -1,0 +1,79 @@
+{
+  "checkpoint": 17,
+  "result": "PASS",
+  "errors": [],
+  "reward_tables": {
+    "dungeons": {
+      "normal": {
+        "Red": 790,
+        "Orange": 2040,
+        "Yellow": 4610,
+        "Green": 9100,
+        "Blue": 15600,
+        "Violet": 27500,
+        "White": 68910
+      },
+      "hard": {
+        "Red": 1185,
+        "Orange": 3060,
+        "Yellow": 6915,
+        "Green": 13650,
+        "Blue": 23400,
+        "Violet": 41250,
+        "White": 103365
+      }
+    },
+    "raids": {
+      "normal": {
+        "Red": 5000,
+        "Orange": 7500,
+        "Yellow": 10000,
+        "Green": 15000,
+        "Blue": 22500,
+        "Violet": 35000
+      },
+      "hard": {
+        "Red": 7500,
+        "Orange": 11250,
+        "Yellow": 15000,
+        "Green": 22500,
+        "Blue": 33750,
+        "Violet": 52500
+      }
+    }
+  },
+  "exact_multiplier_pairs_checked": 13,
+  "integer_arithmetic": "normal * 3 == hard * 2",
+  "raid_one_boss_per_rank_totals": {
+    "normal": 95000,
+    "hard": 142500
+  },
+  "hard_and_normal_average_areas_mi2": {
+    "R": 5,
+    "O": 13,
+    "Y": 25,
+    "G": 53,
+    "B": 113,
+    "V": 285,
+    "W": 450
+  },
+  "domai_reward_formula": "OPEN BY DESIGN",
+  "checks": [
+    "exact supplied values",
+    "CSV schemas/rank order",
+    "integer JSON values and CSV mirrors",
+    "13 exact payout multiplications",
+    "Raid sums and total multiplier",
+    "Hard/Normal areas and rank permissions",
+    "unchanged atomic vocabulary constraints",
+    "OPEN BY DESIGN domai and contribution dimensions"
+  ],
+  "sha256": {
+    "DUNGEON_REWARDS.csv": "287b5b2f21d6ca4d55a10f47d842010546dd53fc9b0a93cef2f206b499e6d8ab",
+    "RAID_BOSS_REWARDS.csv": "15181921cc358d8e7963e291d72302947ba43f99fbac93010e1ddf37ed1513df",
+    "COMBAT_REWARD_TABLES.json": "1b064fe38c4996c24981843ccb0b3651f0bcdfcd404f5ed66785696459a8e50a",
+    "README.md": "8b32f7912026c1e35c56748b0086f700288810c8c561c28ef5bbdc4a722e37e1",
+    "validate_rewards.py": "97cfd0c3779aab6acac1a90de83c65b201a0ca701cd75444d1c34b731c659135",
+    "builder/encounters/eldris/MANIFEST.json": "75f7c3f114b7001ea16044e3c99f3b693bf4271df542519cf40bbb98a284186f"
+  }
+}

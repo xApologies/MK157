@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override Checkpoint 14.
+Authority: 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -92,3 +92,7 @@ Authority: 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 
 - [Normal Dungeons](NORMAL_DUNGEONS.md) and [author encounter tools](../builder/encounters/README.md) — White content, areas/runtimes, population, environments and completion base.
 - [illi cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) / [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) — 17 unchanged dates, 130,261 progression spend.
 - [Checkpoint 16 reverse diff](../provenance/CHECKPOINT_16_REVERSE_DIFF.md), [coverage](../provenance/CHECKPOINT_16_COVERAGE_MANIFEST.csv), [audit](../provenance/CHECKPOINT_16_AUDIT.json) and [conflicts](../provenance/CHECKPOINT_16_CONFLICTS.md).
+
+- [Checkpoint 17 combat reward economy](24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md) — complete Normal/Hard Dungeon and Raid rewards, shared Dungeon areas and Expedition attrition.
+- [Combat reward tables and policy](../combat-rewards/README.md) — exact CSV/JSON data, reproducible arithmetic audit and Valnak domai OPEN BY DESIGN.
+- [Checkpoint 17 reverse diff](../provenance/CHECKPOINT_17_REVERSE_DIFF.csv), [coverage](../provenance/CHECKPOINT_17_COVERAGE_MANIFEST.csv), [audit/file list](../provenance/CHECKPOINT_17_AUDIT.json) and [conflicts](../provenance/CHECKPOINT_17_CONFLICTS.md).

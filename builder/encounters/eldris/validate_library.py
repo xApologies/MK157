@@ -145,6 +145,8 @@ def audit(directory):
             'Manifest group constraints mismatch')
     require(manifest['areas_mi2'] == AREAS and manifest['author_tooling_only'] is True
             and manifest['normal_dungeon_rank_codes'] == list(CODES + 'W')
+            and manifest['hard_dungeon_rank_codes'] == list(CODES + 'W')
+            and manifest['hard_dungeon_areas_mi2'] == AREAS
             and manifest['domai_rank_codes'] == list(CODES)
             and manifest['white_area_application'] == 'locked_valnak_normal_dungeon_average',
             'Manifest area/tooling scope mismatch')
@@ -167,6 +169,8 @@ def audit(directory):
         'csv_json_equivalent': rows == mirror, 'white_eldris': False,
         'normal_dungeon_rank_codes': list(CODES + 'W'), 'domai_rank_codes': list(CODES), 'areas_mi2': AREAS,
         'white_area_scope': 'locked_valnak_normal_dungeon_average',
+        'hard_dungeon_rank_codes': list(CODES + 'W'), 'hard_dungeon_areas_mi2': AREAS,
+        'hard_and_normal_areas_equal': manifest['hard_dungeon_areas_mi2'] == manifest['areas_mi2'],
         'example_population': example,
         'checks': ['ID uniqueness and sequence', 'population and composition', 'highest-basin ceilings',
                    'exhaustive combinations', 'combat-family partitions', 'mechanistic-only profile vocabulary',
