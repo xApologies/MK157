@@ -28,8 +28,17 @@
     "Y",
     "G",
     "B",
-    "V"
+    "V",
+    "W"
   ],
-  "white_area_application": "author_reference_only_no_white_dungeon",
-  "checkpoint": 15
+  "white_area_application": "locked_valnak_normal_dungeon_average",
+  "checkpoint": 16,
+  "domai_rank_codes": [
+    "R",
+    "O",
+    "Y",
+    "G",
+    "B",
+    "V"
+  ]
 }

@@ -1,0 +1,9 @@
+{
+  "name": "MK157_MASTER_LIVE_MODEL_UPDATE_CHECKPOINT_15",
+  "files": 8,
+  "reverse_diff_items": 22,
+  "illi_ledger_events": 17,
+  "final_illi_progression_spend": 130261,
+  "white_dungeon_base": 68910,
+  "purpose": "Master reverse-diff synchronization after Checkpoint 14 and eldRIS atomic-group pass"
+}

@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override Checkpoint 14.
+Authority: 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override Checkpoint 14.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -87,3 +87,8 @@ Authority: 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 
 - [Checkpoint 15 atomic eldris library](22_CHECKPOINT_15_ELDRIS_ATOMIC_GROUP_LIBRARY.md) — author tooling and current Dungeon area reconciliation.
 - [Atomic group builder](../builder/encounters/eldris/README.md) — 209 groups, cumulative availability, contract and reproducible audit.
 - [Checkpoint 15 coverage](../provenance/CHECKPOINT_15_COVERAGE_MANIFEST.csv), [audit](../provenance/CHECKPOINT_15_AUDIT.json), and [conflict decisions](../provenance/CHECKPOINT_15_CONFLICTS.md).
+
+- [Checkpoint 16 master reconciliation](23_CHECKPOINT_16_MASTER_LIVE_MODEL_UPDATE.md) — source-labeled Checkpoint 15, persisted after the atomic-library checkpoint.
+- [Normal Dungeons](NORMAL_DUNGEONS.md) and [author encounter tools](../builder/encounters/README.md) — White content, areas/runtimes, population, environments and completion base.
+- [illi cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) / [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) — 17 unchanged dates, 130,261 progression spend.
+- [Checkpoint 16 reverse diff](../provenance/CHECKPOINT_16_REVERSE_DIFF.md), [coverage](../provenance/CHECKPOINT_16_COVERAGE_MANIFEST.csv), [audit](../provenance/CHECKPOINT_16_AUDIT.json) and [conflicts](../provenance/CHECKPOINT_16_CONFLICTS.md).

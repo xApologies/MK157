@@ -1,6 +1,6 @@
 # MK157 — Economy and purchase-schedule handoff
 
-Current authority: Checkpoint 14, cumulative with earlier non-conflicting rules. The supplied 17 illi milestones and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
+Current authority: Checkpoint 16, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
 ## Kira Black acquisition economics — current
 
@@ -238,3 +238,11 @@ Auction is a top-end sink for rare equipment, Creator originals, materials, card
 Illustrative White Fireball 1.3M/3M, Dimensional Ring 2M, and Valnak-made princess tiara are examples only unless later locked.
 
 [illi progression](ILLI_PROGRESSION.md) provides 17 dated author milestones; post-Violet-W2 rank dates remain OPEN. [Partnership/economy](PARTNERSHIP_AND_CARRY.md) preserves independent schedules, discretionary spending and Project Princess Carry. These are story constraints, not a fabricated income simulation.
+
+## Checkpoint 16 progression ledger and Normal Dungeon base
+
+The [illi author ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) preserves all 17 milestone dates and totals **130,261 credits** in progression expenditure by Violet W2 D2. Full-price prequalification Persistent Coherence and independent 55%-of-list package purchases match the established pricing rules. This is not literal bank balance or gross earnings; discretionary spending remains separate.
+
+White Valnak Normal Dungeon successful-completion base is **68,910 = 53,910 + 15,000 credits**. Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour, with failure/procedural/coordination risk preserving Trial value. Red→Violet Normal payouts, Hard/boss/contribution/first-clear formulas, Raid rewards and Valnak domai rewards remain OPEN. The [Normal Dungeon scale](../builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv) supplies authored runtime targets, not fixed stopwatch laws.
+
+The World Clock + character + economy calendar is ready for authored content placement. Purchases must be economically plausible against the ledger's progression-capital breakpoints, without micro-accounting every discretionary purchase. No new income schedule, encounter placement or post-Violet-W2 rank date is invented here.

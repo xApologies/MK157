@@ -130,8 +130,8 @@ def audit(directory):
         if code == 'W':
             require(row['basin'] == 'White' and row['canonical_expression'] == 'No White eldris'
                     and row['combat_family'] == 'N/A', 'White reference must not introduce an eldris basin')
-            require(row['normal_dungeon_rank_enabled'] == 'false'
-                    and row['area_scope'] == 'author_reference_only', 'White Dungeon must remain disabled')
+            require(row['normal_dungeon_rank_enabled'] == 'true'
+                    and row['area_scope'] == 'locked_normal_dungeon_average', 'White Valnak Normal Dungeon must be enabled')
         else:
             require(row['basin'] == BASINS[i] and row['canonical_expression'] == EXPRESSIONS[i],
                     f'{code}: inherited basin taxonomy changed')
@@ -144,8 +144,9 @@ def audit(directory):
             and manifest['max_atomic_population'] == 4 and manifest['white_eldris'] is False,
             'Manifest group constraints mismatch')
     require(manifest['areas_mi2'] == AREAS and manifest['author_tooling_only'] is True
-            and manifest['normal_dungeon_rank_codes'] == list(CODES)
-            and manifest['white_area_application'] == 'author_reference_only_no_white_dungeon',
+            and manifest['normal_dungeon_rank_codes'] == list(CODES + 'W')
+            and manifest['domai_rank_codes'] == list(CODES)
+            and manifest['white_area_application'] == 'locked_valnak_normal_dungeon_average',
             'Manifest area/tooling scope mismatch')
     lookup = {row['group_id']: row for row in rows}
     example = sum(lookup[group_id]['population'] * copies for group_id, copies in
@@ -164,8 +165,8 @@ def audit(directory):
         'population_bounds': [1, 4], 'cumulative_availability': cumulative,
         'exhaustive_unordered_multisets': multisets == expected,
         'csv_json_equivalent': rows == mirror, 'white_eldris': False,
-        'normal_dungeon_rank_codes': list(CODES), 'areas_mi2': AREAS,
-        'white_area_scope': 'author_reference_only_no_white_dungeon',
+        'normal_dungeon_rank_codes': list(CODES + 'W'), 'domai_rank_codes': list(CODES), 'areas_mi2': AREAS,
+        'white_area_scope': 'locked_valnak_normal_dungeon_average',
         'example_population': example,
         'checks': ['ID uniqueness and sequence', 'population and composition', 'highest-basin ceilings',
                    'exhaustive combinations', 'combat-family partitions', 'mechanistic-only profile vocabulary',

@@ -1,6 +1,6 @@
 # OPEN ledger
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -33,8 +33,8 @@ Do not silently decide:
 - exact Prism playoff week placement.
 - exact `raeon` tournament bracket size.
 - exact raid credit rewards.
-- exact Dungeon completion reward table.
-- exact per-instance Dungeon geometry/traversal and tier-specific Hard Dungeon areas; Checkpoint 15 resolves enabled R→V Normal Dungeon averages.
+- exact Red→Violet Normal Dungeon payouts and Hard/boss/contribution/first-clear formulas; White Normal completion base is resolved at 68,910 by Checkpoint 16.
+- exact per-instance Dungeon geometry/traversal and tier-specific Hard Dungeon areas; Checkpoint 16 resolves R→W Normal Dungeon average areas and author runtime targets.
 - exact `domai` interior/exterior scaling formula.
 - exact special-event calendar.
 - exact outside `raeon` publishing company name/legal structure.
@@ -98,4 +98,10 @@ Final standings, W96/low-40s examples, illi final Solo wave/rank, literal Orb ve
 
 ## Checkpoint 15 encounter-builder boundaries
 
-Normal Dungeon average areas R5/O13/Y25/G53/B113/V285 mi² are LOCKED. W450 is retained as an author reference only: existing canon still prohibits White-ranked Dungeons and White domai. No White eldris exist. Exact Hard areas/multipliers, per-instance geometry, group duplication counts, placements, encounter compositions, total populations and spawn schedules are not assigned by this library. Existing Trial geography, population/reward OPENs and Checkpoint 14 story/economy locks remain.
+Normal Dungeon average areas R5/O13/Y25/G53/B113/V285/W450 mi² are LOCKED. Checkpoint 16 supersedes the earlier W450 reference-only restriction and enables White Valnak Normal Dungeons. Existing outside Dungeon ontology and no-White-domai rules remain unchanged. No White eldris exist. Exact Hard areas/multipliers, per-instance geometry, group duplication counts, placements, encounter compositions, total populations and spawn schedules are not assigned by this library. Existing Trial geography, population/reward OPENs and Checkpoint 14 story/economy locks remain.
+
+## Checkpoint 16 resolved and preserved boundaries
+
+Resolved here: White Valnak Normal content rank; its 450-mi² average; the R→W Normal author runtime targets; the 68,910-credit White Normal completion base; illi's exact 17-event cost ledger totaling 130,261. The ledger supplies progression expenditure only, not gross earnings or bank balance.
+
+Still OPEN: W36+ Trial payout; final standings (W96 remains NONCANON); post-Violet-W2 illi rank dates; replacement Kira Black prices; Red→Violet Normal payouts; Hard Dungeon areas/payouts; boss/contribution/first-clear formulas; Raid/Valnak domai rewards; final encounter placements and total populations; exact extreme multi-day sleep/food/recovery physiology. No blanket waiver of unrelated OPENs follows.

@@ -1,0 +1,30 @@
+{
+  "checkpoint_target": 15,
+  "reverse_diff_items": 22,
+  "illi_ledger_events": 17,
+  "illi_final_cumulative_progression_spend": 130261,
+  "normal_dungeon_areas_mi2": {
+    "Red": 5,
+    "Orange": 13,
+    "Yellow": 25,
+    "Green": 53,
+    "Blue": 113,
+    "Violet": 285,
+    "White": 450
+  },
+  "normal_dungeon_runtime": {
+    "Red": "1\u20132 hr",
+    "Orange": "3\u20135 hr",
+    "Yellow": "5\u201310 hr",
+    "Green": "12\u201321 hr",
+    "Blue": "25\u201342 hr",
+    "Violet": "54\u2013108 hr",
+    "White": "~156 hr"
+  },
+  "white_eldris": false,
+  "white_valnak_normal_dungeon": true,
+  "white_normal_dungeon_base_completion_credits": 68910,
+  "trial_w1_w35_total_preserved": 53910,
+  "atomic_group_library": "separate package dependency; preserve if already integrated",
+  "rendered_maps": "NONCANON"
+}

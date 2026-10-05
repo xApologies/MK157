@@ -38,6 +38,15 @@
     "Y",
     "G",
     "B",
+    "V",
+    "W"
+  ],
+  "domai_rank_codes": [
+    "R",
+    "O",
+    "Y",
+    "G",
+    "B",
     "V"
   ],
   "areas_mi2": {
@@ -49,7 +58,7 @@
     "V": 285,
     "W": 450
   },
-  "white_area_scope": "author_reference_only_no_white_dungeon",
+  "white_area_scope": "locked_valnak_normal_dungeon_average",
   "example_population": 25,
   "checks": [
     "ID uniqueness and sequence",
@@ -69,10 +78,10 @@
     "ELDRIS_ATOMIC_GROUPS.csv": "83ffdcd13ad3712ab23a050f1a6364c80880a50f0ebedcdac1c6bf9035066e4e",
     "ELDRIS_ATOMIC_GROUPS.json": "e89d876a14de049ae33c7c8de77fd8425207c60a023053ddd45c9aa2df101c79",
     "TIER_AVAILABILITY.json": "17ac920b232e759082ae227f07408e11081d44c8f24e65c42bfefda7aff8762c",
-    "BASIN_REFERENCE.csv": "230c4c8bd72b69214a4263c28cfbc66c4af94e3cd499ef8165dc4044fefff5a4",
-    "MANIFEST.json": "5d6ad1c5d528dd38adc71785c31e170106ae1d4dd3e1c1f21052da8969e8b1bd",
-    "BUILDER_CONTRACT.md": "0114b5312f707cbb0d6f0726b858779a0669c3366ac69e4ffd24c268b6b87e3e",
-    "README.md": "33a3140d7df60c8c854572d3e22d385ce11a6d5ed8a01a61d74aeb91dbe5d0a4",
-    "validate_library.py": "ef192be0478955d4918fa6c01afa59023c3b380a146f07d2b925f63e63298265"
+    "BASIN_REFERENCE.csv": "a531c6acfa5a3669a464ea3ae5f31cfd7c4b22be490daaea5cf81d303f89d6fd",
+    "MANIFEST.json": "9c71d1fdcc151f0b979945b5a9dc40c2fc77ddeacc208a91b7a934be4ea3be96",
+    "BUILDER_CONTRACT.md": "eedcc08bbb5e41d6fc76ba9b756c4bed529bda139b33bceeedb957149c16c393",
+    "README.md": "64fe867d25b434b1b8e70236acd092c202592d4c06a59d9a3774bc821128676d",
+    "validate_library.py": "bb25b364578eb6c9f43f9cc76339bf2cab371e479cdb32e9884d8b1ebc8d6f98"
   }
 }

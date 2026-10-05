@@ -1,0 +1,23 @@
+topic,current_git_status,required_action
+illi 17 milestone dates,PRESENT,Preserve
+illi cost+cumulative author ledger,MISSING,Integrate exact CSV/JSON
+"W1-W35 Trial total 53,910",PRESENT,Preserve
+W36+ Trial payout,OPEN,Preserve OPEN
+No White Valnak Dungeon,STALE/CONFLICT,Supersede
+Normal Dungeon ~5 mi² generic,STALE/CONFLICT,Supersede with rank ladder
+Normal Dungeon average area OPEN,STALE,Resolve
+Normal Dungeon runtime by rank,MISSING,Integrate
+Dungeon pre-populated population doctrine,PARTIAL,Clarify
+Over-ranked veteran behavior,PARTIAL,Integrate
+Rank = whole capability band,MISSING/PARTIAL,Integrate
+eldRIS basin ontology,PRESENT,Preserve/clarify
+R/O/G melee; Y/B/V Transductionist,MISSING,Integrate
+"White Dungeon 68,910 completion base",MISSING,Integrate
+Red→Violet Dungeon payouts,OPEN,Preserve OPEN
+Nine Dungeon domains,PRESENT,Preserve
+Domain != Rank != Realization,PARTIAL,Clarify
+Overgrown City visual grammar,MISSING,Integrate
+Deep Caverns natural/traversable default,MISSING,Integrate
+Atomic-group builder hierarchy,MISSING/DEPENDENCY,Integrate contract; preserve separate package
+Project Princess Carry,PRESENT,Preserve
+Failed map renders,NONCANON,Do not integrate

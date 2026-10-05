@@ -64,4 +64,6 @@ Checkpoint 10 explicitly promotes 31-hour days and applicable planetary calendar
 
 ## Checkpoint 15 atomic library scope
 
-The supplied atomic group IDs and family labels are author/builder tooling, not Valnak internal identifiers or new species/classes. The inherited MK-147 R→V mechanistic taxonomy is confirmed against current MK157. Group rows and availability lists do not authorize new content types: current no-White-Dungeon/domai rules prevail, while permitted White content may use R→V compositions. Original package prose is preserved in provenance; active terminology is lowercase `eldris`.
+The supplied atomic group IDs and family labels are author/builder tooling, not Valnak internal identifiers or new species/classes. The inherited MK-147 R→V mechanistic taxonomy is confirmed against current MK157. Group rows and availability lists do not themselves authorize content types. Checkpoint 16 separately authorizes White Valnak Normal Dungeons using R→V compositions; outside persistent Dungeon ontology and existing no-White-domai rules remain unchanged. Original package prose is preserved in provenance; active terminology is lowercase `eldris`.
+
+Checkpoint 16 excludes the exploratory Deep Caverns image-generation sequence and failed Yellow+ renders as NONCANON. No such images are imported. Existing approved clean base geography and other source quarantines remain unchanged.

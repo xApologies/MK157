@@ -1,0 +1,18 @@
+season,week,day,purchase_or_upgrade,cost,cumulative_progression_spend
+Red,1,1,Persistent Coherence → Red,700,700
+Red,2,3,Persistent Coherence → Orange,1120,1820
+Red,4,2,Persistent Coherence → Yellow,2016,3836
+Red,6,4,Persistent Coherence → Green,4234,8070
+Orange,1,4,Persistent Coherence → Blue,10585,18655
+Orange,1,4,Accept White Legacy,0,18655
+Orange,2,3,Absorption Shield → Red,5500,24155
+Yellow,1,2,Genesis Beam → Red,2750,26905
+Yellow,2,4,Genesis Beam → Orange,4400,31305
+Yellow,3,5,Genesis Beam → Yellow,7920,39225
+Yellow,5,2,Genesis Beam → Green,16632,55857
+Yellow,6,3,Genesis Prime → Red,5500,61357
+Green,6,2,Coherence Prime → Red,5500,66857
+Green,6,4,Absorption Shield → Orange,8800,75657
+Green,7,2,Absorption Shield → Yellow,15840,91497
+Violet,1,3,Absorption Shield → Green,33264,124761
+Violet,2,2,Resonance Prime / Juggernaut → Red,5500,130261

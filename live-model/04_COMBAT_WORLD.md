@@ -293,12 +293,12 @@ Support/control manages the encounter state/landscape rather than merely maximiz
 
 # 26. Dungeon rank / `eldris` composition law
 
-Valnak Dungeon ranks are:
-**Red -> Orange -> Yellow -> Green -> Blue -> Violet**
+Valnak Normal Dungeon ranks are:
+**Red -> Orange -> Yellow -> Green -> Blue -> Violet -> White**
 
-There are **no White-ranked Dungeons** because White adds no new `eldris` basin category.
+White is a mastery/content rank with **no White eldris**; it uses the complete R→V palette. Checkpoint 16 supersedes the former no-White-Dungeon rule for Valnak Normal training content only. Outside persistent Dungeons and domai retain their existing ontology.
 
-Dungeon rank sets the maximum `eldris` basin legally present.
+Dungeon rank sets the legal basin palette and encounter architecture; White adds content mastery, not a new basin.
 
 Cumulative palette:
 - Red Dungeon: Red only.
@@ -307,8 +307,9 @@ Cumulative palette:
 - Green: Red + Orange + Yellow + Green.
 - Blue: Red through Blue.
 - Violet: Red through Violet.
+- White Normal: Red through Violet only.
 
-No `eldris` above the Dungeon rank may appear.
+No `eldris` above the legal ceiling may appear; no White eldris exist.
 
 # 27. Inherited `eldris` taxonomy
 
@@ -332,11 +333,11 @@ Use lowercase `eldris` in active MK157 prose.
 
 # 28. Normal Dungeon vs Hard Dungeon
 
-Both use the same Red->Violet rank ceiling and rank-legal `eldris` palette.
+Normal Valnak ranks now extend through White; all eldris remain R→V. This update extends only Normal content permissions. Hard retains its existing rank-legal composition rules.
 
-Locked Normal Dungeon average realized areas (mi²): **Red 5 / Orange 13 / Yellow 25 / Green 53 / Blue 113 / Violet 285**.
+Locked Normal Dungeon average realized areas (mi²): **Red 5 / Orange 13 / Yellow 25 / Green 53 / Blue 113 / Violet 285 / White 450**.
 
-The supplied **White 450 mi²** author reference is retained, but current canon still has no White-ranked Dungeons; it does not activate a White Dungeon rank or resize the 9-mi² Trial arena. The complete ladder and applicability flags are in the [atomic group basin reference](../builder/encounters/eldris/BASIN_REFERENCE.csv).
+White 450 mi² is now an enabled Normal Dungeon average. The [author scale](../builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv) supplies runtime targets from Red 1–2 hours to White ~156 hours. These are environmental footprints and author targets for appropriately ranked competent parties, not required travel or stopwatch guarantees. The Trial arena remains 9 mi².
 
 These are average total realized environment areas, not guaranteed geometry or required traversal distances. The former flat Normal ~5 / Hard ~7.5–8 mi² working estimates are superseded as universal scales. Exact Hard Dungeon areas by tier remain OPEN; no fixed multiplier is inferred.
 
@@ -352,8 +353,8 @@ Hard does NOT mean illegally introducing higher-rank `eldris` or merely multiply
 # 29. Dungeon procedural realization
 
 Dungeon **domain** is the environmental archetype.
-Dungeon **rank** is the difficulty/maximum `eldris` palette.
-Dungeon **realization** is the procedurally generated tactical instance.
+Dungeon **rank** governs the legal eldris palette and content/mastery architecture; White Normal adds no new basin. Rank does not recolor the environment.
+Dungeon **realization** is the procedurally generated tactical instance. Its eldris are pre-populated and may roam, hunt, react, converge, separate or occupy terrain; they are not continuously delivered as Trial waves.
 
 Same domain + same rank can be rerun with:
 - different routes;
@@ -371,15 +372,15 @@ Valnak trains adaptation, not rote route memorization.
 # 30. Nine Dungeon domains
 
 Established environmental archetypes:
-1. **Deep Caverns** — subterranean chambers/passages/shafts/waterways.
+1. **Deep Caverns** — natural, predominantly traversable subterranean chambers/passages/shafts; waterways are optional, not automatically dominant. No unexplained cities/ruins/constructed architecture unless requested.
 2. **Dune Wastes** — dunes/cliffs/canyons/mesas/open desert.
 3. **Oldgrowth** — dense mature forest/ravines/streams/huge trees.
-4. **The Overgrown City** — nature-reclaimed streets/buildings/rooftops/plazas/infrastructure.
+4. **The Overgrown City** — pale monumental/civic stone streets/buildings/rooftops/plazas/infrastructure heavily reclaimed by nature, not generic modern post-apocalypse.
 5. **Highlands** — mountains/ridges/valleys/cliffs/plateaus/passes.
 6. **Marshlands** — wetlands/channels/islands/reeds/mud/submerged ground.
 7. **Frozen Expanse** — snow/glaciers/frozen lakes/crevasses/ice caves.
 8. **Broken Coast** — beaches/cliffs/islands/sea caves/tidal channels.
-9. **Ruined Citadel** — walls/towers/courtyards/gates/halls/bridges/subterranean fortifications.
+9. **Ruined Citadel** — defensive/fortified walls/towers/courtyards/gates/halls/bridges/subterranean complexes; may share cultural architectural ancestry.
 
 Domain does NOT imply rank.
 
@@ -399,7 +400,7 @@ First-Cycle sandbox allocation:
 - lower-rank opportunities remain available for slower participants / specialists / late development.
 
 Mature Valnak:
-- can expose full Red->Violet range;
+- can expose the full Red->White Normal Dungeon range;
 - distribution still follows the population's current competency bell curve rather than being uniformly even;
 - tails remain available.
 
@@ -653,4 +654,12 @@ Do not introduce MMO/RPG abstractions solely because games traditionally contain
 
 ## Checkpoint 15 atomic encounter authoring
 
-The [eldris atomic group library](../builder/encounters/eldris/README.md) supplies 209 exhaustive 1–4-body basin compositions. IDs are author tooling only. Higher permitted ceilings may combine and duplicate lower-tier groups; groups do not prescribe domains, maps, placements, full encounters or spawn schedules. R/O/G are melee-family and Y/B/V Transductionist-family composition labels. Basin color remains Genesis-field identity, with capability arising from architecture. No White eldris, named species, health-bar inflation, aggro/threat or taunt mechanics are introduced. Existing R→V Dungeon/domai ceilings remain.
+The [eldris atomic group library](../builder/encounters/eldris/README.md) supplies 209 exhaustive 1–4-body basin compositions. IDs are author tooling only. Higher permitted ceilings may combine and duplicate lower-tier groups; groups do not prescribe domains, maps, placements, full encounters or spawn schedules. R/O/G are melee-family and Y/B/V Transductionist-family composition labels. Basin color remains Genesis-field identity, with capability arising from architecture. No White eldris, named species, health-bar inflation, aggro/threat or taunt mechanics are introduced. Normal Valnak Dungeon ranks now extend R→W; their eldris and existing domai ceilings remain R→V.
+
+## Checkpoint 16 runtime, population and economy
+
+The [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) and [author scale](../builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv) govern average areas and runtime targets. Over-ranked veterans can clear lower content much faster without rubber-banding. One high-ranked Binding does not define a whole build; breadth, depth, competency, fatigue and integration matter. Multi-day operations need not include ordinary-human nightly sleep blocks; exact extreme physiology stays OPEN.
+
+Dungeon populations are pre-populated. Readable entry→progression→endpoint maps with limited/reconnecting branches are author guidance; avoid excessive dead-end backtracking that changes runtime. Exploratory Deep Caverns/failed Yellow+ renders remain NONCANON and are not imported.
+
+Reliable clears should generally outperform equivalent Trial farming, with failure/procedural/coordination risk preserving Trial value. White Normal successful-completion base is **68,910 = 53,910 + 15,000 credits**. Red→Violet Normal payouts and Hard/boss/contribution/first-clear/Raid/domai reward formulas remain OPEN. No additional distribution or bonus rules are inferred.

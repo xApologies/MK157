@@ -1,0 +1,8 @@
+dungeon_rank,average_realized_area_mi2,target_runtime,legal_eldris_palette
+Red,5,1–2 hr,Red only
+Orange,13,3–5 hr,Red + Orange
+Yellow,25,5–10 hr,Red + Orange + Yellow
+Green,53,12–21 hr,Red through Green
+Blue,113,25–42 hr,Red through Blue
+Violet,285,54–108 hr,Red through Violet
+White,450,~156 hr / ~5 days,Red through Violet; NO White eldRIS

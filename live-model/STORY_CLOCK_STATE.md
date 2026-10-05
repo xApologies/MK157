@@ -311,3 +311,7 @@ Mature blender scenes may include Kira and illi remaining near the Central Basin
 [Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN.
 
 Checkpoint 14 current state: [illi milestones](ILLI_PROGRESSION.md) lock the supplied dates through Violet W2 D2; Coherence Prime is late Green and Resonance Prime early Violet. Later rank dates remain OPEN, with PC/Absorption/three Primes targeted toward White and Beam potentially remaining Green. [Project Princess Carry and independent schedules](PARTNERSHIP_AND_CARRY.md) govern broad Red–Violet content and intentionally Trial-heavy White. Kira Black final prices are OPEN; W96 and low-40s records remain illustrative/noncanonical.
+
+## Checkpoint 16 calendar handoff
+
+The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 130,261 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. No new daily encounters are scheduled by this pass; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged.

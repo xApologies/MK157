@@ -25,3 +25,7 @@ Exact post-Violet-W2 rank dates remain OPEN pending final ledger.
 [Exact 17-event CSV](../world-clock/ILLI_PROGRESSION_SKELETON.csv) and [JSON](../world-clock/ILLI_PROGRESSION_SKELETON.json) are author-locked milestones through Violet W2 D2. They are not an inferred income ledger. Blue Persistent Coherence/Legacy acceptance occurs Orange W1 D4; Absorption Red Orange W2 D3; Beam Green Yellow W5 D2; Genesis Prime Yellow W6 D3; Coherence Prime Green W6 D2; Absorption Green Violet W1 D3; Resonance Prime Violet W2 D2. No later rank dates are assigned.
 
 All list prices and existing compressed Prime gates remain. Prequalification Persistent Coherence is full-price; after accepted White Legacy, approved package purchases/ranks pay 55% under HALF_UP. Prerequisite availability, affordability and chosen purchase timing are separate.
+
+## Checkpoint 16 author progression ledger
+
+The [17-event cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) and [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) add exact transaction costs and cumulative progression expenditure to the existing locked milestones. All dates remain unchanged. Final cumulative progression spend at Violet W2 D2 is **130,261 credits**. This is expenditure, not bank balance or gross earnings; discretionary spending remains outside the ledger. It supplies minimum progression-capital breakpoints for future authored content, without assigning later rank dates.

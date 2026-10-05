@@ -1,0 +1,23 @@
+id,topic,supplied_before_status,verified_before_status,final_status,actual_git_destination,disposition
+M16-01,illi 17 milestone dates,PRESENT,PRESENT,PRESENT,world-clock/ILLI_PROGRESSION_SKELETON.csv,All 17 dates and the existing milestone files byte-preserved.
+M16-02,illi cost+cumulative author ledger,MISSING,MISSING,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv,Exact supplied CSV/JSON; all prices checked against full-price/55%-of-list rules; cumulative 130261.
+M16-03,"W1-W35 Trial total 53,910",PRESENT,PRESENT,PRESENT,trial-rewards/TRIAL_WAVE_CREDITS.csv,35 reward rows and total 53910 unchanged.
+M16-04,W36+ Trial payout,OPEN,OPEN,OPEN,live-model/OPEN.md,No W36+ payout inferred.
+M16-05,No White Valnak Dungeon,STALE/CONFLICT,STALE/CONFLICT,SUPERSEDED,live-model/NORMAL_DUNGEONS.md,White Valnak Normal content now exists; zero White eldris; outside ontology unchanged.
+M16-06,Normal Dungeon ~5 mi² generic,STALE/CONFLICT,SUPERSEDED,SUPERSEDED,live-model/COMBAT_ECOLOGY.md,Already superseded for R→V; complete 5/13/25/53/113/285/450 ladder now enabled.
+M16-07,Normal Dungeon average area OPEN,STALE,PARTIAL,RESOLVED,builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv,All seven Normal average areas resolved; exact instance geometry and Hard areas remain OPEN.
+M16-08,Normal Dungeon runtime by rank,MISSING,MISSING,PRESENT,builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv,"R1–2/O3–5/Y5–10/G12–21/B25–42/V54–108/W~156 hours, author targets only."
+M16-09,Dungeon pre-populated population doctrine,PARTIAL,PARTIAL,PRESENT,live-model/NORMAL_DUNGEONS.md,Pre-populated Dungeon ecology; Trial delivery remains distinct.
+M16-10,Over-ranked veteran behavior,PARTIAL,MISSING,PRESENT,live-model/NORMAL_DUNGEONS.md,Over-ranked veterans clear low-ranked content faster; no rubber-banding.
+M16-11,Rank = whole capability band,MISSING/PARTIAL,PARTIAL,PRESENT,live-model/NORMAL_DUNGEONS.md,"Breadth/depth/competency/fatigue/integration define capability, not one high-ranked Binding."
+M16-12,eldris basin ontology,PRESENT,PRESENT,PRESENT,live-model/COMBAT_ECOLOGY.md,Genesis-field identity and inherited six expressions preserved.
+M16-13,R/O/G melee; Y/B/V Transductionist,MISSING,PRESENT,PRESENT,builder/encounters/eldris/BASIN_REFERENCE.csv,"Already present; R/O/G melee, Y/B/V Transductionist preserved."
+M16-14,"White Dungeon 68,910 completion base",MISSING,MISSING,PRESENT,live-model/ECONOMY_PURCHASE_SCHEDULE.md,White Normal successful-completion base 68910 = 53910 + 15000; no new distribution formula.
+M16-15,Red→Violet Dungeon payouts,OPEN,OPEN,OPEN,live-model/OPEN.md,Red→Violet Normal payouts remain OPEN; other unsupplied reward formulas remain OPEN.
+M16-16,Nine Dungeon domains,PRESENT,PRESENT,PRESENT,live-model/COMBAT_ECOLOGY.md,All nine domain names preserved.
+M16-17,Domain != Rank != Realization,PARTIAL,PRESENT,PRESENT,live-model/NORMAL_DUNGEONS.md,"Environmental archetype, content rank/legal palette and generated instance remain distinct; rank does not recolor."
+M16-18,Overgrown City visual grammar,MISSING,PARTIAL,PRESENT,live-model/NORMAL_DUNGEONS.md,Pale monumental/civic stone reclaimed by nature; no generic modern post-apocalypse.
+M16-19,Deep Caverns natural/traversable default,MISSING,PARTIAL,PRESENT,live-model/NORMAL_DUNGEONS.md,"Natural, predominantly traversable; no unexplained construction; optional water."
+M16-20,Atomic-group builder hierarchy,MISSING/DEPENDENCY,PRESENT,PRESENT,builder/encounters/eldris/BUILDER_CONTRACT.md,Already present; 209 groups/max4/no White verified; rows and cumulative IDs byte-preserved.
+M16-21,Project Princess Carry,PRESENT,PRESENT,PRESENT,live-model/PARTNERSHIP_AND_CARRY.md,Entire Checkpoint-14 partnership/carry file byte-preserved.
+M16-22,Failed map renders,NONCANON,NONCANON,NONCANON,live-model/SOURCE_BOUNDARIES.md,Exploratory/failed Deep Caverns renders excluded; all preexisting images byte-preserved.

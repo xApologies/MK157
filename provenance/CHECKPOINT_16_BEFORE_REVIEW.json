@@ -1,0 +1,271 @@
+[
+  {
+    "id": "M16-01",
+    "topic": "illi 17 milestone dates",
+    "supplied_status": "PRESENT",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "world-clock/ILLI_PROGRESSION_SKELETON.csv",
+    "search": "Red,1,1",
+    "evidence": [
+      "2: Red,1,1,Persistent Coherence,Acquire,Red,Starter Binding."
+    ]
+  },
+  {
+    "id": "M16-02",
+    "topic": "illi cost+cumulative author ledger",
+    "supplied_status": "MISSING",
+    "verified_before_status": "MISSING",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv",
+    "search": "",
+    "evidence": [
+      "No matching file/claim in baseline."
+    ]
+  },
+  {
+    "id": "M16-03",
+    "topic": "W1-W35 Trial total 53,910",
+    "supplied_status": "PRESENT",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "trial-rewards/README.md",
+    "search": "53,910",
+    "evidence": [
+      "3: [CSV](TRIAL_WAVE_CREDITS.csv) and [JSON](TRIAL_WAVE_CREDITS.json) are exact supplied W1–35 rows. Cumulative payout is **53,910** per eligible participant. Every completed wave pays its row; a failed next wave pays nothing. Solo/Duo/Trio share the schedule and each eligible participant receives the full amount, without dividing by party size. Legitimate repeat runs pay again. W36+ payout remains OPEN."
+    ]
+  },
+  {
+    "id": "M16-04",
+    "topic": "W36+ Trial payout",
+    "supplied_status": "OPEN",
+    "verified_before_status": "OPEN",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "trial-rewards/README.md",
+    "search": "W36+ payout remains OPEN",
+    "evidence": [
+      "3: [CSV](TRIAL_WAVE_CREDITS.csv) and [JSON](TRIAL_WAVE_CREDITS.json) are exact supplied W1–35 rows. Cumulative payout is **53,910** per eligible participant. Every completed wave pays its row; a failed next wave pays nothing. Solo/Duo/Trio share the schedule and each eligible participant receives the full amount, without dividing by party size. Legitimate repeat runs pay again. W36+ payout remains OPEN."
+    ]
+  },
+  {
+    "id": "M16-05",
+    "topic": "No White Valnak Dungeon",
+    "supplied_status": "STALE/CONFLICT",
+    "verified_before_status": "STALE/CONFLICT",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/COMBAT_ECOLOGY.md",
+    "search": "No White Dungeon.",
+    "evidence": [
+      "30: No White Dungeon."
+    ]
+  },
+  {
+    "id": "M16-06",
+    "topic": "Normal Dungeon ~5 mi² generic",
+    "supplied_status": "STALE/CONFLICT",
+    "verified_before_status": "SUPERSEDED",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/COMBAT_ECOLOGY.md",
+    "search": "former flat area estimates are historical",
+    "evidence": [
+      "50: Exact Hard areas by tier remain OPEN; the former flat area estimates are historical."
+    ]
+  },
+  {
+    "id": "M16-07",
+    "topic": "Normal Dungeon average area OPEN",
+    "supplied_status": "STALE",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "builder/encounters/eldris/BASIN_REFERENCE.csv",
+    "search": "author_reference_only",
+    "evidence": [
+      "8: W,White,No White eldris,N/A,Permitted White content uses R→V eldris only; current canon has no White-ranked Dungeons or domai,450,false,author_reference_only"
+    ]
+  },
+  {
+    "id": "M16-08",
+    "topic": "Normal Dungeon runtime by rank",
+    "supplied_status": "MISSING",
+    "verified_before_status": "MISSING",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv",
+    "search": "",
+    "evidence": [
+      "No matching file/claim in baseline."
+    ]
+  },
+  {
+    "id": "M16-09",
+    "topic": "Dungeon pre-populated population doctrine",
+    "supplied_status": "PARTIAL",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/COMBAT_ECOLOGY.md",
+    "search": "Same domain/rank is re-generated",
+    "evidence": [
+      "55: Same domain/rank is re-generated each run."
+    ]
+  },
+  {
+    "id": "M16-10",
+    "topic": "Over-ranked veteran behavior",
+    "supplied_status": "PARTIAL",
+    "verified_before_status": "MISSING",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/COMBAT_ECOLOGY.md",
+    "search": "rubber-band",
+    "evidence": [
+      "No matching file/claim in baseline."
+    ]
+  },
+  {
+    "id": "M16-11",
+    "topic": "Rank = whole capability band",
+    "supplied_status": "MISSING/PARTIAL",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/COMBAT_ECOLOGY.md",
+    "search": "current build",
+    "evidence": [
+      "157: - current build;"
+    ]
+  },
+  {
+    "id": "M16-12",
+    "topic": "eldRIS basin ontology",
+    "supplied_status": "PRESENT",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/COMBAT_ECOLOGY.md",
+    "search": "physical.",
+    "evidence": [
+      "41: Red physical.",
+      "227: - **Red** — physical."
+    ]
+  },
+  {
+    "id": "M16-13",
+    "topic": "R/O/G melee; Y/B/V Transductionist",
+    "supplied_status": "MISSING",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "builder/encounters/eldris/BUILDER_CONTRACT.md",
+    "search": "melee = Red / Orange / Green",
+    "evidence": [
+      "18:    melee = Red / Orange / Green"
+    ]
+  },
+  {
+    "id": "M16-14",
+    "topic": "White Dungeon 68,910 completion base",
+    "supplied_status": "MISSING",
+    "verified_before_status": "MISSING",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+    "search": "68,910",
+    "evidence": [
+      "No matching file/claim in baseline."
+    ]
+  },
+  {
+    "id": "M16-15",
+    "topic": "Red→Violet Dungeon payouts",
+    "supplied_status": "OPEN",
+    "verified_before_status": "OPEN",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/OPEN.md",
+    "search": "exact Dungeon completion reward table",
+    "evidence": [
+      "36: - exact Dungeon completion reward table."
+    ]
+  },
+  {
+    "id": "M16-16",
+    "topic": "Nine Dungeon domains",
+    "supplied_status": "PRESENT",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/COMBAT_ECOLOGY.md",
+    "search": "Nine Dungeon domains",
+    "evidence": [
+      "281: # 30. Nine Dungeon domains"
+    ]
+  },
+  {
+    "id": "M16-17",
+    "topic": "Domain != Rank != Realization",
+    "supplied_status": "PARTIAL",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/COMBAT_ECOLOGY.md",
+    "search": "environmental archetype",
+    "evidence": [
+      "264: Dungeon **domain** is the environmental archetype.",
+      "283: Established environmental archetypes:"
+    ]
+  },
+  {
+    "id": "M16-18",
+    "topic": "Overgrown City visual grammar",
+    "supplied_status": "MISSING",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/COMBAT_ECOLOGY.md",
+    "search": "nature-reclaimed streets",
+    "evidence": [
+      "287: 4. **The Overgrown City** — nature-reclaimed streets/buildings/rooftops/plazas/infrastructure."
+    ]
+  },
+  {
+    "id": "M16-19",
+    "topic": "Deep Caverns natural/traversable default",
+    "supplied_status": "MISSING",
+    "verified_before_status": "PARTIAL",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/COMBAT_ECOLOGY.md",
+    "search": "subterranean chambers",
+    "evidence": [
+      "284: 1. **Deep Caverns** — subterranean chambers/passages/shafts/waterways."
+    ]
+  },
+  {
+    "id": "M16-20",
+    "topic": "Atomic-group builder hierarchy",
+    "supplied_status": "MISSING/DEPENDENCY",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "builder/encounters/eldris/BUILDER_CONTRACT.md",
+    "search": "individual eldris",
+    "evidence": [
+      "7: individual eldris -> atomic group -> encounter composition -> dungeon/domai/trial population."
+    ]
+  },
+  {
+    "id": "M16-21",
+    "topic": "Project Princess Carry",
+    "supplied_status": "PRESENT",
+    "verified_before_status": "PRESENT",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+    "search": "Project Princess Carry",
+    "evidence": [
+      "1: # Partnership and Project Princess Carry — Checkpoint 14",
+      "27: ## Project Princess Carry — LOCK",
+      "28: Canonical running joke/name: **Project Princess Carry**.",
+      "47: White may become intentionally Trial-centric under Project Princess Carry."
+    ]
+  },
+  {
+    "id": "M16-22",
+    "topic": "Failed map renders",
+    "supplied_status": "NONCANON",
+    "verified_before_status": "NONCANON",
+    "baseline_commit": "be9aeafd185d08658101cfefc35d94a4e5828e85",
+    "path": "live-model/SOURCE_BOUNDARIES.md",
+    "search": "concept demonstration only",
+    "evidence": [
+      "24: - the later generated dungeon/domain image already populated with triangle/circle nodes. It was a concept demonstration only and is intentionally excluded from this package."
+    ]
+  }
+]

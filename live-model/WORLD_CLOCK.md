@@ -243,3 +243,7 @@ This schedule supersedes earlier OPEN highlight time and playoff-week placement.
 Checkpoint 14 locks W1–35 total at 53,910; W36+ payout remains OPEN. The 17-event illi skeleton supplies dated milestones through Violet W2 D2; later ranks remain undated. Standing social/sport events remain unchanged.
 
 Current [illi schedule](ILLI_PROGRESSION.md) follows prerequisite-first development. Independent Solo/cohort activity and Project Princess Carry shape the character clocks without adding fabricated daily events.
+
+## Checkpoint 16 calendar handoff
+
+The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 130,261 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. No new daily encounters are scheduled by this pass; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged.
