@@ -190,7 +190,7 @@ Valnak keeps a persistent participant dossier across openings: identity, credit 
 Credits are ledger entries, not hard currency, and persist unless superseded. Residences persist under the current model.
 
 Valnak stamps participants with a passive anchored credential/ID Binding. It is infrastructure, not purchased/ranked build capability. Outside Valnak a trivial shaping projects a compact read-only authenticated ID/credential — a static file/card showing identity and applicable validated achievements (e.g. Solo/Duo/Trio, profession/craft competency).
-Valnak supplies facts; civilization assigns policy. Guilds, militaries, caravans, employers etc. can require thresholds. The credential does not replace reputation/judgment.
+Valnak supplies facts; civilization assigns policy. vaelum, militaries, caravans, employers etc. can require thresholds. The credential does not replace reputation/judgment.
 Most people eventually enter Valnak at least once; people under the first ~23-year opportunity are culturally very young in a centuries-long-lived society. Legal adulthood remains OPEN.
 Valnak is multipurpose: progression, craft, education, shopping, tourism/vacation, social life and visiting permanent residents. A returning participant can visit for weeks, spend carried-forward credits and leave.
 
@@ -519,12 +519,12 @@ Use deterministic whole-credit HALF_UP if a discounted price is fractional.
 
 Persistent Coherence R→Blue is paid at FULL PRICE because illi has not yet qualified/accepted the White Legacy.
 PT-0003 canonical ladder remains:
-700 / 1120 / 2016 / 4234 / 10585; cumulative 18,655.
-After Red is already paid, remaining O→Blue = 17,955.
+1700 / 2720 / 4896 / 10282 / 25705; cumulative 45,303 (Checkpoint 18).
+After Red is already paid, remaining O→Blue = 43,603.
 
 Blue Persistent Coherence unlocks White Legacy access.
 After acceptance:
-Absorption Shield Red list 10,000 → illi price 5,500.
+Absorption Shield Red list 17,000 → illi price 9,350 (Checkpoint 18).
 
 The 45% deduction applies to the accepted Legacy package, including later ranks and Prime purchases. It does not grant omitted prerequisite Bindings as usable abilities.
 
@@ -541,7 +541,7 @@ Genesis Beam GREEN → Genesis Prime RED
 Persistent Coherence GREEN → Coherence Prime RED
 Absorption Shield GREEN → Resonance Prime RED
 
-Prime ordinary Red base remains 10,000. White-Legacy price at Red = 5,500.
+Prime ordinary Red base is 17,000. White-Legacy price at Red = 9,350 (Checkpoint 18).
 
 ## 4. Kira + illi three carry regimes — LOCK narrative/economic model
 Phase I — Armor carries:
@@ -573,4 +573,6 @@ Mature blender scenes may include Kira and illi remaining near the Central Basin
 
 [Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN.
 
-Checkpoint 14 preserves the sandbox paragraphs above exactly: anti-carry progression grouping, Green Solo graduation and Elara agreement remain. Typical entrants have ~1,000 starter credits and one/perhaps two Red foundations. illi may run legitimate first-cycle Dungeons with her original cohort as helkir; later she graduates by her own Solo competency. Her final Solo wave/rank remains OPEN. Current [17-event illi schedule](ILLI_PROGRESSION.md) supersedes older Coherence/Resonance seasonal windows; [partnership](PARTNERSHIP_AND_CARRY.md) carries the social/economic consequences.
+Checkpoint 14 preserves the sandbox paragraphs above exactly: anti-carry progression grouping, Green Solo graduation and Elara agreement remain. The Checkpoint 18 starter grant is 2,000 credits; a Foundational Red purchase costs 1,700. It does not fund two such purchases without additional income. illi may run legitimate first-cycle Dungeons with her original cohort as helkir; later she graduates by her own Solo competency. Her final Solo wave/rank remains OPEN. Current [17-event illi schedule](ILLI_PROGRESSION.md) supersedes older Coherence/Resonance seasonal windows; [partnership](PARTNERSHIP_AND_CARRY.md) carries the social/economic consequences.
+
+Checkpoint 18 extends Node grouping to [active domai recruiting](DOMAI_PARTICIPATION.md): panel, recruiting formations/rosters, and applicant acceptance using authenticated dossier/standings/Bindings/accomplishments. Exact UI/rating/matchmaking/scoring is OPEN; no gear score. [aithren/vaelum/Accord](AITHREN_VAELUM_ACCORD.md) describes recognized organizations without universal military command or old guild-ELN/travel inheritance.

@@ -1,6 +1,8 @@
 # Authority and supersessions
 
-Checkpoint 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 18 governs current numeric pricing/rewards, entry grant, illi costs and required Red→O2D3 combat schedule. Earlier checkpoint sections below record their historical decisions; their old values do not override the Checkpoint 18 section.
+
+Checkpoint 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -67,7 +69,7 @@ Older Checkpoint 03 Signature first Binding absorption wording is superseded by 
 
 ## Checkpoint 09 governing continuation
 
-Checkpoint 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+Checkpoint 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 Lowercase `eldris` supersedes Checkpoint 08 uppercase typography. `raeon`, `domai`, `vaen`, `maege`, `maegi` are lowercase; spelling-by-letter capitals are transcription artifacts.
 The current carriage supersedes historical Open Blank transport. Schedule PDFs supply methodology only. MK157 explicit canon governs approved upstream inheritance. Outside persistent Dungeons are distinct from Valnak procedural training; outside `domai` unravel progressively after core break, while Valnak incursions terminate as completed encounters.
 Checkpoint 08 Green Solo graduation and Black/White progression remain. No new registry records are requested. The exact Checkpoint 09 master retains its original pending-integration header and quoted uppercase transcription example; current status is integrated and its authority is active.
@@ -75,7 +77,7 @@ See [full master](16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md), [source boundar
 
 ## Checkpoint 10 Trial/calendar delta
 
-Checkpoint 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
+Checkpoint 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
 
 Wave totals describe delivered population, not simultaneous population. Solo/Duo/Trio share fixed 3×3-mile geography; Dungeon realization remains procedural. W35 pressure saturation is WORKING; post-W35 total population, numeric caps and exact spawn laws remain OPEN. W96 is noncanonical.
 
@@ -83,7 +85,7 @@ Calendar conflict: supplied months sum to 353 rather than 360; 360 days/60 weeks
 
 ## Checkpoint 11 governing delta
 
-17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations have OPEN final prices and total. Their former flat prices are historical; ordinary registry rank pricing remains separate. Armor remains the ~1,000-credit anomalous starter. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
+18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations have OPEN final prices and total. Their former flat prices are historical; ordinary registry rank pricing remains separate. Armor remains the ~1,000-credit anomalous starter. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
 illi's Persistent Coherence BLUE is required for White Legacy entry. This supersedes immediate-entry access and arbitrary Absorption acquisition dates; individual Prime GREEN-to-RED gates remain unchanged. The 26,648 cumulative example is illustrative B=1,000, not a new registry price assignment.
 Valnak weeks have seven days (343 days/deployment). Planetary month-total conflict remains OPEN. Daily highlights at 25:00, raeon W7 D5 final, W7 D5–D7 Auctions and White-season Prism playoff placement supersede older timing OPENs. Fine match schedules remain OPEN.
 Genesis Cards are active inherited collectibles, not Binding grants/casts. Their colors express actual manifold basins; raeon colors express game classification/rarity. Both share transparent durable maege glass. No universal color/element mapping follows from illustrative card examples.
@@ -120,3 +122,13 @@ The 17-event author ledger adds exact costs (130,261 total) without changing dat
 - Valnak domai formula remains **OPEN BY DESIGN** with contextual validated-contribution awards per incursion/per participant. No fixed rank table or deterministic formula. Healing/support and control are explicit contribution dimensions alongside kills, operations, core assault and other validated participation. Core-break bonus concept remains; its exact amount/formula stays OPEN.
 
 Dungeon distribution/partial-progress/boss/contribution/first-clear bonus formulas are not supplied by these completion tables. Trial W1–35, illi dates/costs, atomic records, Normal runtimes, outside ontology and Project Princess Carry remain. Earlier checkpoint masters and source packages are immutable history subject to this correction. [Checkpoint](24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md) and [conflict decisions](../provenance/CHECKPOINT_17_CONFLICTS.md) record scope.
+
+## Checkpoint 18 master reconciliation
+
+Fixed Red anchors by existing class (1700/3100/5700/11000/17000) supersede CP12 bands/microprices/hand numeric anchors and CP13 Absorption 10000. Classes, IDs, mechanisms and all non-price fields remain; nine Primes stay Exceptional. Starter grant 2000 supersedes ~1000; Armor's separate ~1000 anomaly remains. Sequential HALF_UP rank multipliers and accepted White-Legacy pay55% remain. The same 17 illi dates now cost 250884; PC R→B is 45303 and post-Legacy Absorption Red 9350.
+
+Trial total 26955 supersedes 53910. The current Dungeon/Raid tables halve CP17 deterministic values, with Hard recalculated as 1.5× new Normal HALF_UP; old exact-integer arithmetic assumptions are superseded. White Normal is 34455, Hard 51683; Raid R→V totals 47500/71250. Ecology, areas, eligibility and Expedition attrition remain. Domai awards are not halved; OPEN scoring coexists with new 7-day first-kill eligibility, same-domai one-day exit/death lockout and cumulative 0.8^deaths deduction.
+
+The 59-day combat scaffold supersedes conflicting older mandatory Day-One Solo/Day-Two double-Duo timing and supplies illi income through O2D2. Story beats remain; exact displaced timing is OPEN, not silently reinserted into protected negative space. All 21 NO REQUIRED COMBAT rows remain; R5D1–2 domai/R5D3 recovery pays no conquest award. R6D6 repeats the previously rewarded Red boss, not a newly capped same-rank boss. Working early wave ceilings remain WORKING.
+
+Applicable MK-147 aithren/vaelum/Accord doctrine is promoted, with generic institutional guild references normalized and transfer firewalls intact. Node domai recruiting direction is locked; exact UI, scoring, institutional implementation and taxes remain OPEN. See [Checkpoint 18](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) and [conflict decisions](../provenance/CHECKPOINT_18_CONFLICTS.md).

@@ -98,3 +98,5 @@ Do not import unrelated MK-147 Kira/Enix identity, Binding-circle causality, old
 Checkpoint 10 explicitly promotes the 31-hour day; [calendar conflicts](PLANETARY_CALENDAR.md) remain OPEN. Source quarantine continues for all unpromoted external material.
 
 Checkpoint 11 explicitly promotes Genesis Card inheritance: bounded-manifold collectibles, not Binding grants/casts. [Genesis Card color](GENESIS_CARDS.md) is structural basin composition; raeon color is game classification/rarity. The handoff to future purchase simulation does not fix acquisition dates.
+
+Checkpoint 18 fixes lowercase `aithren` (individual/cultural participation identity) and `vaelum` (persistent independent recognized contract-capable organization). The Accord Registry registers/recognizes vaelum. [Institutional doctrine](AITHREN_VAELUM_ACCORD.md) and [source boundaries](SOURCE_BOUNDARIES.md) preserve exact governance/scoring/tax OPENs and excluded transfers.

@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
+Authority: 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -90,9 +90,14 @@ Authority: 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 
 
 - [Checkpoint 16 master reconciliation](23_CHECKPOINT_16_MASTER_LIVE_MODEL_UPDATE.md) — source-labeled Checkpoint 15, persisted after the atomic-library checkpoint.
 - [Normal Dungeons](NORMAL_DUNGEONS.md) and [author encounter tools](../builder/encounters/README.md) — White content, areas/runtimes, population, environments and completion base.
-- [illi cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) / [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) — 17 unchanged dates, 130,261 progression spend.
+- [illi cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) / [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) — 17 unchanged dates, 250,884 progression spend after Checkpoint 18 repricing.
 - [Checkpoint 16 reverse diff](../provenance/CHECKPOINT_16_REVERSE_DIFF.md), [coverage](../provenance/CHECKPOINT_16_COVERAGE_MANIFEST.csv), [audit](../provenance/CHECKPOINT_16_AUDIT.json) and [conflicts](../provenance/CHECKPOINT_16_CONFLICTS.md).
 
 - [Checkpoint 17 combat reward economy](24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md) — complete Normal/Hard Dungeon and Raid rewards, shared Dungeon areas and Expedition attrition.
 - [Combat reward tables and policy](../combat-rewards/README.md) — exact CSV/JSON data, reproducible arithmetic audit and Valnak domai OPEN BY DESIGN.
 - [Checkpoint 17 reverse diff](../provenance/CHECKPOINT_17_REVERSE_DIFF.csv), [coverage](../provenance/CHECKPOINT_17_COVERAGE_MANIFEST.csv), [audit/file list](../provenance/CHECKPOINT_17_AUDIT.json) and [conflicts](../provenance/CHECKPOINT_17_CONFLICTS.md).
+
+- [Checkpoint 18 master](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) — fixed class prices, recalibrated rewards, domai rules and early combat calendar.
+- [Class price matrix](../bindings/PRICING_CLASS_MATRIX.csv), [current reward tables](../combat-rewards/README.md), [59-day calendar](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md).
+- [domai participation / Node recruiting](DOMAI_PARTICIPATION.md) and [aithren / vaelum / Accord Registry](AITHREN_VAELUM_ACCORD.md).
+- [Checkpoint 18 reverse diff](../provenance/CHECKPOINT_18_REVERSE_DIFF.csv), [coverage](../provenance/CHECKPOINT_18_COVERAGE_MANIFEST.csv), [audit/file list](../provenance/CHECKPOINT_18_AUDIT.json), [conflicts](../provenance/CHECKPOINT_18_CONFLICTS.md), [MK-147 review](../provenance/CHECKPOINT_18_MK147_REVIEW.json).

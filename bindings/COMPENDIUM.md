@@ -14,7 +14,7 @@ Primary-domain count: **6**
 **Geometry:** Field  
 **Mechanism:** Bounded region continuously biasing admitted biological targets toward coherence.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Field Bloom — consume remaining field reserve as a simultaneous restorative pulse.  
 **Status:** LOCKED
 
@@ -25,7 +25,7 @@ Primary-domain count: **6**
 **Geometry:** Directed  
 **Mechanism:** Projected active restoration toward biological coherence: heal one resolved target now.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Overdrive — sustain exceptional restorative throughput.  
 **Status:** LOCKED
 
@@ -36,7 +36,7 @@ Primary-domain count: **6**
 **Geometry:** Anchor  
 **Mechanism:** Anchor restorative energy/instruction to a target Genesis Field; heals over time.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 700, Orange 1,120, Yellow 2,016, Green 4,234, Blue 10,585, Violet 31,755, White 127,020  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Bloom — consume remaining reserve for immediate burst restoration.  
 **Status:** LOCKED
 
@@ -47,7 +47,7 @@ Primary-domain count: **6**
 **Geometry:** Field  
 **Mechanism:** Bounded region continuously biasing admitted target structures toward decoherence.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Field Collapse — consume remaining field reserve in a simultaneous high-output decoherence pulse.  
 **Status:** LOCKED
 
@@ -58,7 +58,7 @@ Primary-domain count: **6**
 **Geometry:** Directed  
 **Mechanism:** Projected active decoherence of one resolved target structure.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Fracture — force a short cascading loss of local coherence.  
 **Status:** LOCKED
 
@@ -69,7 +69,7 @@ Primary-domain count: **6**
 **Geometry:** Anchor  
 **Mechanism:** Anchor a degrading instruction/reserve to a resolved target; applies decoherence over time.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 700, Orange 1,120, Yellow 2,016, Green 4,234, Blue 10,585, Violet 31,755, White 127,020  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Collapse — consume remaining anchor reserve for concentrated immediate decoherence.  
 **Status:** LOCKED
 
@@ -83,7 +83,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** treat separated locations as temporarily adjacent; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 4,500, Orange 7,200, Yellow 12,960, Green 27,216, Blue 68,040, Violet 204,120, White 816,480  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -94,7 +94,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** shorten traversed distance inside a bounded corridor; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -105,7 +105,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** produce bounded push/pull spatial bias; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -116,7 +116,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** increase interior usable extent relative to exterior; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 4,500, Orange 7,200, Yellow 12,960, Green 27,216, Blue 68,040, Violet 204,120, White 816,480  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -127,7 +127,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** redirect exits back into a bounded volume; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 4,500, Orange 7,200, Yellow 12,960, Green 27,216, Blue 68,040, Violet 204,120, White 816,480  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -138,7 +138,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** damp incoming momentum; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -149,7 +149,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** hold a chosen orientation independent of local gravity/reference; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -160,7 +160,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** increase/decrease effective separation inside a bounded relation; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -171,7 +171,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** apply controlled rotational geometry to admitted objects/participants; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -182,7 +182,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** fix resolved position against displacement; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -193,7 +193,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** make a bounded region difficult to enter through ordinary motion; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -204,7 +204,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** create differential resolution across a plane; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 4,500, Orange 7,200, Yellow 12,960, Green 27,216, Blue 68,040, Violet 204,120, White 816,480  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -215,7 +215,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** short discrete spatial displacement; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -226,7 +226,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** curve motion through a bounded geometry; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -237,7 +237,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** redirect existing momentum; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -248,7 +248,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** treat separated locations as temporarily adjacent; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -259,7 +259,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** shorten traversed distance inside a bounded corridor; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -270,7 +270,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** produce bounded push/pull spatial bias; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -281,7 +281,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** increase interior usable extent relative to exterior; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -292,7 +292,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** redirect exits back into a bounded volume; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -303,7 +303,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** damp incoming momentum; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -314,7 +314,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** hold a chosen orientation independent of local gravity/reference; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -325,7 +325,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** increase/decrease effective separation inside a bounded relation; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -336,7 +336,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** apply controlled rotational geometry to admitted objects/participants; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -347,7 +347,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** fix resolved position against displacement; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -358,7 +358,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** make a bounded region difficult to enter through ordinary motion; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -369,7 +369,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** create differential resolution across a plane; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -380,7 +380,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** short discrete spatial displacement; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -391,7 +391,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** curve motion through a bounded geometry; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -402,7 +402,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** redirect existing momentum; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -413,7 +413,7 @@ Primary-domain count: **31**
 **Geometry:** Spatial  
 **Mechanism:** Continuous spatial resolution of position/orientation enabling free 3D locomotion, hover, rotation, and vector redirection.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,500, Orange 12,000, Yellow 21,600, Green 45,360, Blue 113,400, Violet 340,200, White 1,360,800  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Vector Freedom — extreme continuous reorientation while preserving stable resolution.  
 **Status:** LOCKED
 
@@ -427,7 +427,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** map known anchors/links inside a bounded region; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -438,7 +438,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** estimate active throughput and saturation risk; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -449,7 +449,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** estimate current basin loading of an observed willing/known system; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -460,7 +460,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** inspect active Binding geometry/constraints; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -471,7 +471,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** read biological incoherence without healing; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -482,7 +482,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** identify viable exits/retreat corridors through local geometry; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -493,7 +493,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** classify recent Transductive event residue; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -504,7 +504,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** sense local Genesis density/flow/instability gradients; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -515,7 +515,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** identify where terrain/structure blocks ordinary perception but not field resolution; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -526,7 +526,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** resolve willing allied positions into a shared spatial model; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -537,7 +537,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** resolve local Genesis-field structure; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -548,7 +548,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** mark unstable environmental Genesis structures; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -559,7 +559,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** recognize a learned stable Genesis signature; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -570,7 +570,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** identify admissible movement corridors through local geometry; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -581,7 +581,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** extrapolate near-term trajectories from resolved motion; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -592,7 +592,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** resolve distances/relative placement within a bounded local volume; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -603,7 +603,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** identify unstable portions of hostile structure; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -614,7 +614,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** mark/track hostile Genesis-resolved entities; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -625,7 +625,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** follow residual Genesis disturbance; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -636,7 +636,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** read persistent velis topology; expanded implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -647,7 +647,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** map known anchors/links inside a bounded region; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -658,7 +658,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** estimate active throughput and saturation risk; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -669,7 +669,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** estimate current basin loading of an observed willing/known system; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -680,7 +680,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** inspect active Binding geometry/constraints; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,300, Orange 2,080, Yellow 3,744, Green 7,862, Blue 19,655, Violet 58,965, White 235,860  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -691,7 +691,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** read biological incoherence without healing; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -702,7 +702,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** identify viable exits/retreat corridors through local geometry; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -713,7 +713,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** classify recent Transductive event residue; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -724,7 +724,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** sense local Genesis density/flow/instability gradients; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -735,7 +735,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** identify where terrain/structure blocks ordinary perception but not field resolution; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -746,7 +746,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** resolve willing allied positions into a shared spatial model; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -757,7 +757,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** resolve local Genesis-field structure; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -768,7 +768,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** mark unstable environmental Genesis structures; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -779,7 +779,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** recognize a learned stable Genesis signature; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,300, Orange 2,080, Yellow 3,744, Green 7,862, Blue 19,655, Violet 58,965, White 235,860  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -790,7 +790,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** identify admissible movement corridors through local geometry; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -801,7 +801,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** extrapolate near-term trajectories from resolved motion; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,300, Orange 2,080, Yellow 3,744, Green 7,862, Blue 19,655, Violet 58,965, White 235,860  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -812,7 +812,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** resolve distances/relative placement within a bounded local volume; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -823,7 +823,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** identify unstable portions of hostile structure; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -834,7 +834,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** mark/track hostile Genesis-resolved entities; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -845,7 +845,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** follow residual Genesis disturbance; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -856,7 +856,7 @@ Primary-domain count: **90**
 **Geometry:** Perception  
 **Mechanism:** read persistent velis topology; focused implementation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,300, Orange 2,080, Yellow 3,744, Green 7,862, Blue 19,655, Violet 58,965, White 235,860  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Dynamic Resolution — continuously update the resolved geometry/read while the user moves and conditions change.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -867,7 +867,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** dismiss one summon and preferentially unload one compatible basin.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -878,7 +878,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** manifest a high-output summon rapidly at increased basin cost.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,200, Orange 8,320, Yellow 14,976, Green 31,450, Blue 78,625, Violet 235,875, White 943,500  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -889,7 +889,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** allow one summon to relay simple validated commands to linked summons.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,600, Orange 4,160, Yellow 7,488, Green 15,725, Blue 39,313, Violet 117,939, White 471,756  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -900,7 +900,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** trigger one validated summon behavior when a condition is met.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -911,7 +911,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** increase manifestation structural depth at higher continuous cost.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,200, Orange 8,320, Yellow 14,976, Green 31,450, Blue 78,625, Violet 235,875, White 943,500  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -922,7 +922,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** terminate a maintained summon cleanly and recover residual control faster.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -933,7 +933,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** terminate a summon violently to recover some control bandwidth immediately.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -944,7 +944,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** bind one summon to remain within a chosen distance of an ally.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -955,7 +955,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** configure summon for casualty/personnel transport.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -966,7 +966,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** maintain relative positions among multiple summons.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,600, Orange 4,160, Yellow 7,488, Green 15,725, Blue 39,313, Violet 117,939, White 471,756  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -977,7 +977,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** bind one summon to intercept threats against a chosen ally.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -988,7 +988,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** bind one summon to repeated low-commitment disruption attacks.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -999,7 +999,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** bind one summon to defend a bounded location.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1010,7 +1010,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** bind one summon to pursue a designated resolved target.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1021,7 +1021,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** bind one summon to prioritize incoming hostile projectiles/entities.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1032,7 +1032,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** define a maximum operating boundary the summon will not cross.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1043,7 +1043,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** reduce output/complexity for much longer sustain.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1054,7 +1054,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** distribute maintenance attention across a small summon group.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,600, Orange 4,160, Yellow 7,488, Green 15,725, Blue 39,313, Violet 117,939, White 471,756  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1065,7 +1065,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** read current summon stability, basin draw, and control load.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1076,7 +1076,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** share basic position/target state across multiple summons.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,600, Orange 4,160, Yellow 7,488, Green 15,725, Blue 39,313, Violet 117,939, White 471,756  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1087,7 +1087,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** reduce cognitive penalty for controlling three or more summons.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,600, Orange 4,160, Yellow 7,488, Green 15,725, Blue 39,313, Violet 117,939, White 471,756  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1098,7 +1098,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** bind one summon to repeat a validated movement route.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1109,7 +1109,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** reduce maintenance drift for one summon.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1120,7 +1120,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** maintain ordered target priorities in one summon.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1131,7 +1131,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** extend stable control range of one summon.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1142,7 +1142,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** return a maintained summon to the summoner's immediate vicinity.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1153,7 +1153,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** reform a heavily damaged maintained summon instead of complete remanifestation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,200, Orange 8,320, Yellow 14,976, Green 31,450, Blue 78,625, Violet 235,875, White 943,500  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1164,7 +1164,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** manifest at a resolved remote locus rather than adjacent to the summoner.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,200, Orange 8,320, Yellow 14,976, Green 31,450, Blue 78,625, Violet 235,875, White 943,500  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1175,7 +1175,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** feed additional energy into one maintained summon without remanifesting it.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1186,7 +1186,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** pre-resolve a retreat path summons follow when control weakens.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1197,7 +1197,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** automatic recall/dismiss behavior at basin-fatigue threshold.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1208,7 +1208,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** order summon to absorb/intercept a catastrophic event then collapse.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1219,7 +1219,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** make dismissal less disruptive under high fatigue.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1230,7 +1230,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** periodically return compressed reconnaissance state to summoner.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1241,7 +1241,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** bind one summon to systematic area search behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1252,7 +1252,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** receive acoustic-state data from one summon.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1263,7 +1263,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** receive visual-state data from one summon.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1274,7 +1274,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** issue simple commands without overt gesture/speech.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1285,7 +1285,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** trade formation time for lower initial basin shock.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1296,7 +1296,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** reduce cognitive penalty for controlling two summons independently.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,600, Orange 4,160, Yellow 7,488, Green 15,725, Blue 39,313, Violet 117,939, White 471,756  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1307,7 +1307,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** briefly increase one summon’s output at sharply higher basin drain.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1318,7 +1318,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** attach a low-grade protective layer to one maintained summon.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1329,7 +1329,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** stabilize a damaged summon against rapid degradation.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1340,7 +1340,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** reduce one summon’s output to extend endurance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1351,7 +1351,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** temporarily transfer limited command authority to a willing compatible ally.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,600, Orange 4,160, Yellow 7,488, Green 15,725, Blue 39,313, Violet 117,939, White 471,756  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1362,7 +1362,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** attach a reference mark for easier retargeting/recollection.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1373,7 +1373,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** share a resolved hostile target from summoner to summons.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1384,7 +1384,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** share a simple intercept-priority map with compatible summons.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1395,7 +1395,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** bind one summon to follow a resolved signature.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 900, Orange 1,440, Yellow 2,592, Green 5,443, Blue 13,608, Violet 40,824, White 163,296  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1406,7 +1406,7 @@ Primary-domain count: **90**
 **Geometry:** Control relation  
 **Mechanism:** assign multiple resolved waypoints to a summon.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,600, Orange 4,160, Yellow 7,488, Green 15,725, Blue 39,313, Violet 117,939, White 471,756  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Concurrent Control — perform the same command/support operation across multiple compatible summons with reduced extra cognitive load.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1420,7 +1420,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1431,7 +1431,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1442,7 +1442,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1453,7 +1453,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1464,7 +1464,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1475,7 +1475,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1486,7 +1486,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1497,7 +1497,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1508,7 +1508,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1519,7 +1519,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1530,7 +1530,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1541,7 +1541,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1552,7 +1552,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1563,7 +1563,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1574,7 +1574,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1585,7 +1585,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1596,7 +1596,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1607,7 +1607,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1618,7 +1618,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1629,7 +1629,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** mechanical-wave / acoustic pressure propagation  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1640,7 +1640,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1651,7 +1651,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1662,7 +1662,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1673,7 +1673,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1684,7 +1684,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1695,7 +1695,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1706,7 +1706,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1717,7 +1717,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1728,7 +1728,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1739,7 +1739,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1750,7 +1750,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1761,7 +1761,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1772,7 +1772,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1783,7 +1783,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1794,7 +1794,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1805,7 +1805,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1816,7 +1816,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1827,7 +1827,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1838,7 +1838,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1849,7 +1849,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available atmospheric gas flow and pressure control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1860,7 +1860,7 @@ Primary-domain count: **599**
 **Geometry:** Dome  
 **Mechanism:** Bounded shell barrier enclosing a region and intercepting compatible incoming events.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,000, Orange 4,800, Yellow 8,640, Green 18,144, Blue 45,360, Violet 136,080, White 544,320  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Citadel — concentrate remaining capacity toward the highest-load sector.  
 **Status:** LOCKED
 
@@ -1871,7 +1871,7 @@ Primary-domain count: **599**
 **Geometry:** Plane  
 **Mechanism:** Freestanding planar Genesis-expression barrier intercepting compatible incoming events.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Bastion — thicken the plane into a short-lived high-capacity barrier volume.  
 **Status:** LOCKED
 
@@ -1882,7 +1882,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** Directed concentration of Genesis energy along a resolved beam geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Channel — sustain continuous beam output while fatigue and required basins remain available.  
 **Status:** LOCKED
 
@@ -1893,7 +1893,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1904,7 +1904,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1915,7 +1915,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1926,7 +1926,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1937,7 +1937,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1948,7 +1948,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1959,7 +1959,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1970,7 +1970,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1981,7 +1981,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -1992,7 +1992,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2003,7 +2003,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2014,7 +2014,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2025,7 +2025,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2036,7 +2036,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2047,7 +2047,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2058,7 +2058,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2069,7 +2069,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2080,7 +2080,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2091,7 +2091,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2102,7 +2102,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** rapid oxidation / thermal release using available reactants  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2113,7 +2113,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2124,7 +2124,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2135,7 +2135,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2146,7 +2146,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2157,7 +2157,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2168,7 +2168,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2179,7 +2179,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2190,7 +2190,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2201,7 +2201,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2212,7 +2212,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2223,7 +2223,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2234,7 +2234,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2245,7 +2245,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2256,7 +2256,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2267,7 +2267,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2278,7 +2278,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2289,7 +2289,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2300,7 +2300,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2311,7 +2311,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2322,7 +2322,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available copper conduction with strong electrical coupling  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2333,7 +2333,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2344,7 +2344,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2355,7 +2355,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2366,7 +2366,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2377,7 +2377,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2388,7 +2388,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,900, Orange 15,840, Yellow 28,512, Green 59,875, Blue 149,688, Violet 449,064, White 1,796,256  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2399,7 +2399,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 4,400, Orange 7,040, Yellow 12,672, Green 26,611, Blue 66,528, Violet 199,584, White 798,336  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2410,7 +2410,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2421,7 +2421,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,250, Orange 5,200, Yellow 9,360, Green 19,656, Blue 49,140, Violet 147,420, White 589,680  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2432,7 +2432,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2443,7 +2443,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2454,7 +2454,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2465,7 +2465,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2476,7 +2476,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2487,7 +2487,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2498,7 +2498,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2509,7 +2509,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2520,7 +2520,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2531,7 +2531,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2542,7 +2542,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2553,7 +2553,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2564,7 +2564,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2575,7 +2575,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2586,7 +2586,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2597,7 +2597,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2608,7 +2608,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2619,7 +2619,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2630,7 +2630,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2641,7 +2641,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2652,7 +2652,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2663,7 +2663,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,900, Orange 15,840, Yellow 28,512, Green 59,875, Blue 149,688, Violet 449,064, White 1,796,256  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2674,7 +2674,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 4,400, Orange 7,040, Yellow 12,672, Green 26,611, Blue 66,528, Violet 199,584, White 798,336  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2685,7 +2685,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2696,7 +2696,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,250, Orange 5,200, Yellow 9,360, Green 19,656, Blue 49,140, Violet 147,420, White 589,680  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2707,7 +2707,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2718,7 +2718,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2729,7 +2729,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2740,7 +2740,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2751,7 +2751,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2762,7 +2762,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2773,7 +2773,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2784,7 +2784,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2795,7 +2795,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2806,7 +2806,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2817,7 +2817,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2828,7 +2828,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2839,7 +2839,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2850,7 +2850,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2861,7 +2861,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2872,7 +2872,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2883,7 +2883,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2894,7 +2894,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2905,7 +2905,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2916,7 +2916,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2927,7 +2927,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2938,7 +2938,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for high-output assault against large/armored targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2949,7 +2949,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for transport, extraction, or load-bearing behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2960,7 +2960,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for protective interception and bodyguard behavior.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2971,7 +2971,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for mobile pursuit and focused attack.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2982,7 +2982,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Resolved non-permanent creature-pattern manifestation optimized for low-output reconnaissance and tracking.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Role Shift — reconfigure the manifestation once into a secondary validated behavior package without dismissing it.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -2993,7 +2993,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3004,7 +3004,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3015,7 +3015,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3026,7 +3026,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3037,7 +3037,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3048,7 +3048,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3059,7 +3059,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3070,7 +3070,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3081,7 +3081,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3092,7 +3092,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3103,7 +3103,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3114,7 +3114,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3125,7 +3125,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3136,7 +3136,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3147,7 +3147,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3158,7 +3158,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3169,7 +3169,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3180,7 +3180,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3191,7 +3191,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3202,7 +3202,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** thermal extraction and low-temperature state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3213,7 +3213,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3224,7 +3224,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3235,7 +3235,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3246,7 +3246,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3257,7 +3257,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3268,7 +3268,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3279,7 +3279,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3290,7 +3290,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3301,7 +3301,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3312,7 +3312,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3323,7 +3323,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3334,7 +3334,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3345,7 +3345,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3356,7 +3356,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3367,7 +3367,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3378,7 +3378,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3389,7 +3389,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3400,7 +3400,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3411,7 +3411,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3422,7 +3422,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** electrical potential, current, and controlled discharge  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3433,7 +3433,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a hot/cold ash particulate body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3444,7 +3444,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a hot/cold ash particulate body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3455,7 +3455,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a hot/cold ash particulate body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3466,7 +3466,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a hot/cold ash particulate body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3477,7 +3477,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a hot/cold ash particulate body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3488,7 +3488,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a hot/cold ash particulate body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3499,7 +3499,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a hot/cold ash particulate body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3510,7 +3510,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a hot/cold ash particulate body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3521,7 +3521,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a reactive combustion/thermal body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3532,7 +3532,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a reactive combustion/thermal body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3543,7 +3543,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a reactive combustion/thermal body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3554,7 +3554,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a reactive combustion/thermal body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3565,7 +3565,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a reactive combustion/thermal body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3576,7 +3576,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a reactive combustion/thermal body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3587,7 +3587,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a reactive combustion/thermal body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3598,7 +3598,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a reactive combustion/thermal body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3609,7 +3609,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a copper-rich conductive body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3620,7 +3620,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a copper-rich conductive body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3631,7 +3631,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a copper-rich conductive body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3642,7 +3642,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a copper-rich conductive body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3653,7 +3653,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a copper-rich conductive body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3664,7 +3664,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a copper-rich conductive body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3675,7 +3675,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a copper-rich conductive body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3686,7 +3686,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a copper-rich conductive body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3697,7 +3697,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a silicate/glass particulate body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3708,7 +3708,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a silicate/glass particulate body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3719,7 +3719,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a silicate/glass particulate body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3730,7 +3730,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a silicate/glass particulate body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3741,7 +3741,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a silicate/glass particulate body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3752,7 +3752,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a silicate/glass particulate body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3763,7 +3763,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a silicate/glass particulate body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3774,7 +3774,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a silicate/glass particulate body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3785,7 +3785,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a low-temperature water/ice body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3796,7 +3796,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a low-temperature water/ice body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3807,7 +3807,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a low-temperature water/ice body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3818,7 +3818,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a low-temperature water/ice body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3829,7 +3829,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a low-temperature water/ice body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3840,7 +3840,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a low-temperature water/ice body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3851,7 +3851,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a low-temperature water/ice body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,300, Orange 8,480, Yellow 15,264, Green 32,054, Blue 80,135, Violet 240,405, White 961,620  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3862,7 +3862,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a low-temperature water/ice body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3873,7 +3873,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a iron-rich particulate/mass body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3884,7 +3884,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a iron-rich particulate/mass body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3895,7 +3895,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a iron-rich particulate/mass body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3906,7 +3906,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a iron-rich particulate/mass body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3917,7 +3917,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a iron-rich particulate/mass body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3928,7 +3928,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a iron-rich particulate/mass body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3939,7 +3939,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a iron-rich particulate/mass body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3950,7 +3950,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a iron-rich particulate/mass body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3961,7 +3961,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a electrical/plasma discharge body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3972,7 +3972,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a electrical/plasma discharge body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3983,7 +3983,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a electrical/plasma discharge body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -3994,7 +3994,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a electrical/plasma discharge body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4005,7 +4005,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a electrical/plasma discharge body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4016,7 +4016,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a electrical/plasma discharge body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4027,7 +4027,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a electrical/plasma discharge body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4038,7 +4038,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a electrical/plasma discharge body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4049,7 +4049,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent luminous/electromagnetic body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4060,7 +4060,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent luminous/electromagnetic body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4071,7 +4071,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent luminous/electromagnetic body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4082,7 +4082,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent luminous/electromagnetic body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4093,7 +4093,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent luminous/electromagnetic body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4104,7 +4104,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent luminous/electromagnetic body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4115,7 +4115,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent luminous/electromagnetic body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4126,7 +4126,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent luminous/electromagnetic body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4137,7 +4137,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a ionized plasma body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4148,7 +4148,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a ionized plasma body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4159,7 +4159,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a ionized plasma body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4170,7 +4170,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a ionized plasma body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4181,7 +4181,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a ionized plasma body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4192,7 +4192,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a ionized plasma body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4203,7 +4203,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a ionized plasma body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4214,7 +4214,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a ionized plasma body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4225,7 +4225,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a granular mineral body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4236,7 +4236,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a granular mineral body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4247,7 +4247,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a granular mineral body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4258,7 +4258,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a granular mineral body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4269,7 +4269,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a granular mineral body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4280,7 +4280,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a granular mineral body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4291,7 +4291,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a granular mineral body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4302,7 +4302,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a granular mineral body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4313,7 +4313,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a aerosol/smoke particulate body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4324,7 +4324,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a aerosol/smoke particulate body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4335,7 +4335,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a aerosol/smoke particulate body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4346,7 +4346,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a aerosol/smoke particulate body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4357,7 +4357,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a aerosol/smoke particulate body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4368,7 +4368,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a aerosol/smoke particulate body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4379,7 +4379,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a aerosol/smoke particulate body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4390,7 +4390,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a aerosol/smoke particulate body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4401,7 +4401,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a pressurized vapor body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4412,7 +4412,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a pressurized vapor body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4423,7 +4423,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a pressurized vapor body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4434,7 +4434,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a pressurized vapor body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4445,7 +4445,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a pressurized vapor body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4456,7 +4456,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a pressurized vapor body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4467,7 +4467,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a pressurized vapor body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4478,7 +4478,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a pressurized vapor body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4489,7 +4489,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent mineral-mass body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4500,7 +4500,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent mineral-mass body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4511,7 +4511,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent mineral-mass body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4522,7 +4522,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent mineral-mass body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4533,7 +4533,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent mineral-mass body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4544,7 +4544,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent mineral-mass body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4555,7 +4555,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent mineral-mass body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,300, Orange 8,480, Yellow 15,264, Green 32,054, Blue 80,135, Violet 240,405, White 961,620  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4566,7 +4566,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent mineral-mass body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4577,7 +4577,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent liquid-water body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4588,7 +4588,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent liquid-water body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 8,700, Orange 13,920, Yellow 25,056, Green 52,618, Blue 131,545, Violet 394,635, White 1,578,540  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4599,7 +4599,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent liquid-water body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4610,7 +4610,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent liquid-water body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4621,7 +4621,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent liquid-water body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4632,7 +4632,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent liquid-water body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4643,7 +4643,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent liquid-water body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4654,7 +4654,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a coherent liquid-water body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4665,7 +4665,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a structured atmospheric flow body; behavior architecture: large high-output breaker pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 7,600, Orange 12,160, Yellow 21,888, Green 45,965, Blue 114,913, Violet 344,739, White 1,378,956  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4676,7 +4676,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a structured atmospheric flow body; behavior architecture: large mobile assault pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 9,000, Orange 14,400, Yellow 25,920, Green 54,432, Blue 136,080, Violet 408,240, White 1,632,960  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4687,7 +4687,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a structured atmospheric flow body; behavior architecture: fast pursuit/interception.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,050, Orange 3,280, Yellow 5,904, Green 12,398, Blue 30,995, Violet 92,985, White 371,940  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4698,7 +4698,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a structured atmospheric flow body; behavior architecture: aerial/rapid strike pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,150, Orange 3,440, Yellow 6,192, Green 13,003, Blue 32,508, Violet 97,524, White 390,096  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4709,7 +4709,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a structured atmospheric flow body; behavior architecture: stationary/slow guard pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4720,7 +4720,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a structured atmospheric flow body; behavior architecture: constriction/area-threading pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4731,7 +4731,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a structured atmospheric flow body; behavior architecture: distributed many-body harassment pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,300, Orange 8,480, Yellow 15,264, Green 32,054, Blue 80,135, Violet 240,405, White 961,620  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4742,7 +4742,7 @@ Primary-domain count: **599**
 **Geometry:** Persistent entity  
 **Mechanism:** Non-sentient resolved elemental entity with a structured atmospheric flow body; behavior architecture: low-output scout/harrier.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 600, Orange 960, Yellow 1,728, Green 3,629, Blue 9,073, Violet 27,219, White 108,876  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Autonomous Persistence — temporarily reduce active cognitive steering while the Elemental continues its last validated behavior plan.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4753,7 +4753,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4764,7 +4764,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4775,7 +4775,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4786,7 +4786,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4797,7 +4797,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4808,7 +4808,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4819,7 +4819,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4830,7 +4830,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4841,7 +4841,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4852,7 +4852,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4863,7 +4863,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4874,7 +4874,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4885,7 +4885,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4896,7 +4896,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4907,7 +4907,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4918,7 +4918,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4929,7 +4929,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4940,7 +4940,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4951,7 +4951,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4962,7 +4962,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available silicate/glass matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4973,7 +4973,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4984,7 +4984,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -4995,7 +4995,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5006,7 +5006,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5017,7 +5017,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5028,7 +5028,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5039,7 +5039,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5050,7 +5050,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5061,7 +5061,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5072,7 +5072,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5083,7 +5083,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5094,7 +5094,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5105,7 +5105,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5116,7 +5116,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5127,7 +5127,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5138,7 +5138,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5149,7 +5149,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5160,7 +5160,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5171,7 +5171,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5182,7 +5182,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available iron-rich matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5193,7 +5193,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5204,7 +5204,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5215,7 +5215,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5226,7 +5226,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5237,7 +5237,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5248,7 +5248,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5259,7 +5259,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5270,7 +5270,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5281,7 +5281,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5292,7 +5292,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5303,7 +5303,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5314,7 +5314,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5325,7 +5325,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5336,7 +5336,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5347,7 +5347,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5358,7 +5358,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5369,7 +5369,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5380,7 +5380,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5391,7 +5391,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5402,7 +5402,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** momentum and impulse transduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5413,7 +5413,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5424,7 +5424,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5435,7 +5435,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5446,7 +5446,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5457,7 +5457,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5468,7 +5468,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5479,7 +5479,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5490,7 +5490,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5501,7 +5501,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5512,7 +5512,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5523,7 +5523,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5534,7 +5534,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5545,7 +5545,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5556,7 +5556,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5567,7 +5567,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5578,7 +5578,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5589,7 +5589,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5600,7 +5600,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5611,7 +5611,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5622,7 +5622,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** magnetic-field interaction with compatible matter  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5633,7 +5633,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5644,7 +5644,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5655,7 +5655,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5666,7 +5666,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5677,7 +5677,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5688,7 +5688,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5699,7 +5699,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5710,7 +5710,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5721,7 +5721,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5732,7 +5732,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5743,7 +5743,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5754,7 +5754,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5765,7 +5765,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5776,7 +5776,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5787,7 +5787,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5798,7 +5798,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5809,7 +5809,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5820,7 +5820,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5831,7 +5831,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5842,7 +5842,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available mineral/stone matter conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5853,7 +5853,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into curved release path.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5864,7 +5864,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into sustained rapid sequence.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5875,7 +5875,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into continuous area-filling release.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5886,7 +5886,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into staggered sequence.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5897,7 +5897,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into twisting forward sequence.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5908,7 +5908,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into intersecting X-pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5919,7 +5919,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into division after travel.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5930,7 +5930,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into delayed repeat of a compatible event.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5941,7 +5941,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into horizontal spread.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5952,7 +5952,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into many releases concentrated on one point.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5963,7 +5963,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into diverging branch pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5974,7 +5974,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into structured area coverage.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5985,7 +5985,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into orbiting circular release.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -5996,7 +5996,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into repeated heavy release at one target.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6007,7 +6007,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into vertically staggered pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6018,7 +6018,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into duplicated release from opposed resolved angles.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6029,7 +6029,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into intersecting lines forming area denial.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6040,7 +6040,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into parallel slightly displaced releases.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6051,7 +6051,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into multiple releases share a resolved path.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6062,7 +6062,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into converging angles.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6073,7 +6073,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into rotating cross-pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6084,7 +6084,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into tight grouped release.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6095,7 +6095,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into rhythmic repeated release.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6106,7 +6106,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into rhythmic structured area coverage.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6117,7 +6117,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into four synchronized copies.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6128,7 +6128,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into upward/remote release followed by downward arrival.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6139,7 +6139,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into clustered downward impacts.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6150,7 +6150,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into secondary release in opposed direction.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6161,7 +6161,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into circular outward release.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6172,7 +6172,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into controlled randomized spread.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6183,7 +6183,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into wide cone of simultaneous copies.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6194,7 +6194,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into parallel lanes.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6205,7 +6205,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into rotating outward pattern.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6216,7 +6216,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into one compatible event divides into multiple events.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6227,7 +6227,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into wide-area coverage.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6238,7 +6238,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into delayed multi-release.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6249,7 +6249,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into lateral traverse across targets.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6260,7 +6260,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into three simultaneous copies.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6271,7 +6271,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into two simultaneous copies.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6282,7 +6282,7 @@ Primary-domain count: **599**
 **Geometry:** Pattern modifier  
 **Mechanism:** Pattern operator that restructures a compatible shaping into successive advancing lines.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6293,7 +6293,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** Persistent controllable node of Genesis expression that can be positioned, accelerated, or used as a locus according to mastery.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Locus — use the orb as a remote locus for one compatible Genesis-expression operation.  
 **Status:** LOCKED
 
@@ -6304,7 +6304,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6315,7 +6315,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6326,7 +6326,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6337,7 +6337,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6348,7 +6348,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6359,7 +6359,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6370,7 +6370,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6381,7 +6381,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6392,7 +6392,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6403,7 +6403,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6414,7 +6414,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6425,7 +6425,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6436,7 +6436,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6447,7 +6447,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6458,7 +6458,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6469,7 +6469,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6480,7 +6480,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6491,7 +6491,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6502,7 +6502,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6513,7 +6513,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** controlled electromagnetic/visible-light expression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6524,7 +6524,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6535,7 +6535,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6546,7 +6546,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6557,7 +6557,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6568,7 +6568,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6579,7 +6579,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6590,7 +6590,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6601,7 +6601,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6612,7 +6612,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6623,7 +6623,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6634,7 +6634,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6645,7 +6645,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6656,7 +6656,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6667,7 +6667,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6678,7 +6678,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6689,7 +6689,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6700,7 +6700,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6711,7 +6711,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6722,7 +6722,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6733,7 +6733,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** ionized high-energy matter / plasma-state control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6744,7 +6744,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6755,7 +6755,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6766,7 +6766,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6777,7 +6777,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6788,7 +6788,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6799,7 +6799,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6810,7 +6810,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6821,7 +6821,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6832,7 +6832,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6843,7 +6843,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6854,7 +6854,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6865,7 +6865,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6876,7 +6876,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6887,7 +6887,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6898,7 +6898,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6909,7 +6909,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6920,7 +6920,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6931,7 +6931,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6942,7 +6942,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6953,7 +6953,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** pressure differential and compression  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6964,7 +6964,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6975,7 +6975,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6986,7 +6986,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -6997,7 +6997,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7008,7 +7008,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7019,7 +7019,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7030,7 +7030,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7041,7 +7041,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7052,7 +7052,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7063,7 +7063,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7074,7 +7074,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7085,7 +7085,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7096,7 +7096,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7107,7 +7107,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7118,7 +7118,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7129,7 +7129,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7140,7 +7140,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7151,7 +7151,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7162,7 +7162,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7173,7 +7173,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available granular mineral particulate conduction  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7184,7 +7184,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete atmospheric expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7195,7 +7195,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete copper expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7206,7 +7206,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete electrical expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7217,7 +7217,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete genesis expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7228,7 +7228,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete glass expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7239,7 +7239,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete iron expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7250,7 +7250,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete kinetic expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7261,7 +7261,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete mineral expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7272,7 +7272,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete plasma expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7283,7 +7283,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete pressure expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7294,7 +7294,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete thermal expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7305,7 +7305,7 @@ Primary-domain count: **599**
 **Geometry:** Shard  
 **Mechanism:** Narrow discrete water expression packet with shard-like high-aspect geometry; descriptive geometry only, not a manifested item.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Embedded Cascade — after penetration, remaining resolved structure releases a controlled secondary local event.  
 **Status:** ALPHA candidate
 
@@ -7316,7 +7316,7 @@ Primary-domain count: **599**
 **Geometry:** Shield  
 **Mechanism:** Target-attached Genesis structure that intercepts incoming energy/force before biological trauma resolves.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 10,000, Orange 16,000, Yellow 28,800, Green 60,480, Blue 151,200, Violet 453,600, White 1,814,400  
+**Prices:** Red 17,000, Orange 27,200, Yellow 48,960, Green 102,816, Blue 257,040, Violet 771,120, White 3,084,480  
 **White:** Reserve Recast — concentrate remaining capacity into a brief emergency absorption layer.  
 **Status:** LOCKED
 
@@ -7327,7 +7327,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7338,7 +7338,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7349,7 +7349,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7360,7 +7360,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7371,7 +7371,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7382,7 +7382,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7393,7 +7393,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7404,7 +7404,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7415,7 +7415,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7426,7 +7426,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7437,7 +7437,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7448,7 +7448,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7459,7 +7459,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7470,7 +7470,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7481,7 +7481,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7492,7 +7492,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7503,7 +7503,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7514,7 +7514,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7525,7 +7525,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7536,7 +7536,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** heated water vapor and pressure-flow control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7547,7 +7547,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7558,7 +7558,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7569,7 +7569,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7580,7 +7580,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7591,7 +7591,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7602,7 +7602,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7613,7 +7613,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7624,7 +7624,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7635,7 +7635,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7646,7 +7646,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7657,7 +7657,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7668,7 +7668,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7679,7 +7679,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7690,7 +7690,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7701,7 +7701,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7712,7 +7712,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7723,7 +7723,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7734,7 +7734,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7745,7 +7745,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7756,7 +7756,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** direct heat deposition / redistribution  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7767,7 +7767,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7778,7 +7778,7 @@ Primary-domain count: **599**
 **Geometry:** Arc  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Fork — dynamically re-resolve a limited number of arc branches among compatible targets.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7789,7 +7789,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7800,7 +7800,7 @@ Primary-domain count: **599**
 **Geometry:** Beam  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Mode Shift — switch between high-density burst and sustained channel while preserving targeting solution.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7811,7 +7811,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7822,7 +7822,7 @@ Primary-domain count: **599**
 **Geometry:** Burst  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,000, Orange 3,200, Yellow 5,760, Green 12,096, Blue 30,240, Violet 90,720, White 362,880  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Secondary Front — generate a controlled second pressure/energy front after the initial release.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7833,7 +7833,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,500, Orange 5,600, Yellow 10,080, Green 21,168, Blue 52,920, Violet 158,760, White 635,040  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7844,7 +7844,7 @@ Primary-domain count: **599**
 **Geometry:** Field  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Collapse Expression — consume remaining field reserve for one mechanism-specific burst at field boundary.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7855,7 +7855,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7866,7 +7866,7 @@ Primary-domain count: **599**
 **Geometry:** Jet  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,400, Orange 3,840, Yellow 6,912, Green 14,515, Blue 36,288, Violet 108,864, White 435,456  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Adaptive Nozzle — alter spread/focus continuously while the jet remains active.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7877,7 +7877,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7888,7 +7888,7 @@ Primary-domain count: **599**
 **Geometry:** Lance  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,100, Orange 3,360, Yellow 6,048, Green 12,701, Blue 31,753, Violet 95,259, White 381,036  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Deep Penetration — preserve coherent delivery through multiple resolved layers/targets before collapse.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7899,7 +7899,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7910,7 +7910,7 @@ Primary-domain count: **599**
 **Geometry:** Orb  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Remote Node — treat the Orb as a remote locus for one compatible shaping operation.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7921,7 +7921,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7932,7 +7932,7 @@ Primary-domain count: **599**
 **Geometry:** Projectile  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,100, Orange 1,760, Yellow 3,168, Green 6,653, Blue 16,633, Violet 49,899, White 199,596  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Trajectory Bloom — the released packet can split into a controlled terminal pattern without changing its core mechanism.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7943,7 +7943,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7954,7 +7954,7 @@ Primary-domain count: **599**
 **Geometry:** Ring  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Reversal — reverse propagation once during the same event, producing an outward/inward or inward/outward double pass.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7965,7 +7965,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7976,7 +7976,7 @@ Primary-domain count: **599**
 **Geometry:** Wave  
 **Mechanism:** available liquid-water momentum / pressure / phase control  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,700, Orange 4,320, Yellow 7,776, Green 16,330, Blue 40,825, Violet 122,475, White 489,900  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Layered Front — sustain multiple ordered wavefronts in one event.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -7990,7 +7990,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of rate of speed increase.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8001,7 +8001,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of rapid body-direction change.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8012,7 +8012,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of short-duration high-output metabolic tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8023,7 +8023,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of combat-relevant acoustic discrimination.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8034,7 +8034,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of postural control.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8045,7 +8045,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of skeletal load tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8056,7 +8056,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of very short explosive movement output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8067,7 +8067,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of circulatory throughput.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8078,7 +8078,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of blood-flow efficiency under stress.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8089,7 +8089,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of vertical locomotion strength/endurance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8100,7 +8100,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of thermal function in cold conditions.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8111,7 +8111,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of trunk stabilization and force transfer.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8122,7 +8122,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of skin/superficial tissue resistance to abrasion/cutting.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8133,7 +8133,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of rapid whole-body force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8144,7 +8144,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of maintain performance deeper into exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8155,7 +8155,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of hand/forearm force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8166,7 +8166,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of thermal regulation under exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8177,7 +8177,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of whole-body impact distribution.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8188,7 +8188,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of joint stability under load.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8199,7 +8199,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of vertical/horizontal jump output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8210,7 +8210,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of absorb/distribute landing impact.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8221,7 +8221,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of ligament/joint restraint.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8232,7 +8232,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of minor localized restorative stabilization during reinforcement.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8243,7 +8243,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of lower-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8254,7 +8254,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of energy-use efficiency under sustained exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8265,7 +8265,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of fine motor control under stress.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8276,7 +8276,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of muscular force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8287,7 +8287,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of signal propagation efficiency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8298,7 +8298,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of reduce mechanical trauma to internal organs.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8309,7 +8309,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of reduce performance loss from pain without repairing injury.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8320,7 +8320,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of maintain body integrity under pressure differential.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8331,7 +8331,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of body-position awareness.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8342,7 +8342,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of neural response latency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8353,7 +8353,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of between-effort recovery speed.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8364,7 +8364,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of ventilation/oxygen exchange performance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8375,7 +8375,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of maintain function through concussive/mechanical shock.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8386,7 +8386,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of spinal structural load tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8397,7 +8397,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of top ground speed.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8408,7 +8408,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of whole-body reinforcement through coherent resonance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,300, Orange 5,280, Yellow 9,504, Green 19,958, Blue 49,895, Violet 149,685, White 598,740  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8419,7 +8419,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of long-duration locomotion efficiency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8430,7 +8430,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of water locomotion performance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8441,7 +8441,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of tendon load transfer/tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8452,7 +8452,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of maintain traction/control through high-rate turning.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8463,7 +8463,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of upper-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8474,7 +8474,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of orientation/acceleration tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8485,7 +8485,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement automatically biases toward current mechanical demand of moving-target visual processing.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,200, Orange 5,120, Yellow 9,216, Green 19,354, Blue 48,385, Violet 145,155, White 580,620  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Predictive Bias — pre-load reinforcement toward rapidly emerging stress.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8496,7 +8496,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of rate of speed increase.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8507,7 +8507,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of rapid body-direction change.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8518,7 +8518,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of short-duration high-output metabolic tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8529,7 +8529,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of combat-relevant acoustic discrimination.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8540,7 +8540,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of postural control.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8551,7 +8551,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of skeletal load tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8562,7 +8562,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of very short explosive movement output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8573,7 +8573,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of circulatory throughput.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8584,7 +8584,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of blood-flow efficiency under stress.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8595,7 +8595,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of vertical locomotion strength/endurance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8606,7 +8606,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of thermal function in cold conditions.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8617,7 +8617,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of trunk stabilization and force transfer.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8628,7 +8628,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of skin/superficial tissue resistance to abrasion/cutting.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8639,7 +8639,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of rapid whole-body force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,900, Orange 3,040, Yellow 5,472, Green 11,491, Blue 28,728, Violet 86,184, White 344,736  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8650,7 +8650,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of maintain performance deeper into exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,900, Orange 3,040, Yellow 5,472, Green 11,491, Blue 28,728, Violet 86,184, White 344,736  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8661,7 +8661,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of hand/forearm force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,900, Orange 3,040, Yellow 5,472, Green 11,491, Blue 28,728, Violet 86,184, White 344,736  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8672,7 +8672,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of thermal regulation under exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8683,7 +8683,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of whole-body impact distribution.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,900, Orange 3,040, Yellow 5,472, Green 11,491, Blue 28,728, Violet 86,184, White 344,736  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8694,7 +8694,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of joint stability under load.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8705,7 +8705,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of vertical/horizontal jump output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8716,7 +8716,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of absorb/distribute landing impact.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8727,7 +8727,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of ligament/joint restraint.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8738,7 +8738,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of minor localized restorative stabilization during reinforcement.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8749,7 +8749,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of lower-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8760,7 +8760,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of energy-use efficiency under sustained exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8771,7 +8771,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of fine motor control under stress.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8782,7 +8782,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of muscular force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,900, Orange 3,040, Yellow 5,472, Green 11,491, Blue 28,728, Violet 86,184, White 344,736  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8793,7 +8793,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of signal propagation efficiency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8804,7 +8804,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of reduce mechanical trauma to internal organs.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8815,7 +8815,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of reduce performance loss from pain without repairing injury.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8826,7 +8826,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of maintain body integrity under pressure differential.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8837,7 +8837,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of body-position awareness.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8848,7 +8848,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of neural response latency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8859,7 +8859,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of between-effort recovery speed.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8870,7 +8870,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of ventilation/oxygen exchange performance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8881,7 +8881,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of maintain function through concussive/mechanical shock.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8892,7 +8892,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of spinal structural load tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8903,7 +8903,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of top ground speed.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8914,7 +8914,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of whole-body reinforcement through coherent resonance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,900, Orange 3,040, Yellow 5,472, Green 11,491, Blue 28,728, Violet 86,184, White 344,736  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8925,7 +8925,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of long-duration locomotion efficiency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8936,7 +8936,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of water locomotion performance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8947,7 +8947,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of tendon load transfer/tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8958,7 +8958,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of maintain traction/control through high-rate turning.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8969,7 +8969,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of upper-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8980,7 +8980,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of orientation/acceleration tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -8991,7 +8991,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** short high-output reinforcement of moving-target visual processing.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Second Burst — execute a second high-output pulse before full recovery.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9002,7 +9002,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of rate of speed increase.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9013,7 +9013,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of rapid body-direction change.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9024,7 +9024,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of short-duration high-output metabolic tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9035,7 +9035,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of combat-relevant acoustic discrimination.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9046,7 +9046,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of postural control.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9057,7 +9057,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of skeletal load tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9068,7 +9068,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of very short explosive movement output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9079,7 +9079,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of circulatory throughput.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9090,7 +9090,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of blood-flow efficiency under stress.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9101,7 +9101,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of vertical locomotion strength/endurance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9112,7 +9112,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of thermal function in cold conditions.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9123,7 +9123,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of trunk stabilization and force transfer.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9134,7 +9134,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of skin/superficial tissue resistance to abrasion/cutting.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9145,7 +9145,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of rapid whole-body force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,300, Orange 2,080, Yellow 3,744, Green 7,862, Blue 19,655, Violet 58,965, White 235,860  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9156,7 +9156,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of maintain performance deeper into exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,300, Orange 2,080, Yellow 3,744, Green 7,862, Blue 19,655, Violet 58,965, White 235,860  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9167,7 +9167,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of hand/forearm force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,300, Orange 2,080, Yellow 3,744, Green 7,862, Blue 19,655, Violet 58,965, White 235,860  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9178,7 +9178,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of thermal regulation under exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9189,7 +9189,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of whole-body impact distribution.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,300, Orange 2,080, Yellow 3,744, Green 7,862, Blue 19,655, Violet 58,965, White 235,860  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9200,7 +9200,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of joint stability under load.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9211,7 +9211,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of vertical/horizontal jump output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9222,7 +9222,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of absorb/distribute landing impact.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9233,7 +9233,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of ligament/joint restraint.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9244,7 +9244,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of minor localized restorative stabilization during reinforcement.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9255,7 +9255,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of lower-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9266,7 +9266,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of energy-use efficiency under sustained exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9277,7 +9277,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of fine motor control under stress.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9288,7 +9288,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of muscular force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,300, Orange 2,080, Yellow 3,744, Green 7,862, Blue 19,655, Violet 58,965, White 235,860  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9299,7 +9299,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of signal propagation efficiency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9310,7 +9310,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of reduce mechanical trauma to internal organs.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9321,7 +9321,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of reduce performance loss from pain without repairing injury.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9332,7 +9332,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of maintain body integrity under pressure differential.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9343,7 +9343,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of body-position awareness.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9354,7 +9354,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of neural response latency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9365,7 +9365,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of between-effort recovery speed.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9376,7 +9376,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of ventilation/oxygen exchange performance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9387,7 +9387,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of maintain function through concussive/mechanical shock.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9398,7 +9398,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of spinal structural load tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9409,7 +9409,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of top ground speed.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9420,7 +9420,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of whole-body reinforcement through coherent resonance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,300, Orange 2,080, Yellow 3,744, Green 7,862, Blue 19,655, Violet 58,965, White 235,860  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9431,7 +9431,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of long-duration locomotion efficiency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9442,7 +9442,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of water locomotion performance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9453,7 +9453,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of tendon load transfer/tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9464,7 +9464,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of maintain traction/control through high-rate turning.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9475,7 +9475,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of upper-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9486,7 +9486,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of orientation/acceleration tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 800, Orange 1,280, Yellow 2,304, Green 4,838, Blue 12,095, Violet 36,285, White 145,140  
+**Prices:** Red 1,700, Orange 2,720, Yellow 4,896, Green 10,282, Blue 25,705, Violet 77,115, White 308,460  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9497,7 +9497,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** reinforcement concentrated into one chosen body region/system of moving-target visual processing.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,200, Orange 1,920, Yellow 3,456, Green 7,258, Blue 18,145, Violet 54,435, White 217,740  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Rapid Reallocation — shift the reinforced region without fully dropping the Binding.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9508,7 +9508,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of rate of speed increase.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9519,7 +9519,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of rapid body-direction change.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9530,7 +9530,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of short-duration high-output metabolic tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,400, Orange 8,640, Yellow 15,552, Green 32,659, Blue 81,648, Violet 244,944, White 979,776  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9541,7 +9541,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of combat-relevant acoustic discrimination.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,400, Orange 8,640, Yellow 15,552, Green 32,659, Blue 81,648, Violet 244,944, White 979,776  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9552,7 +9552,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of postural control.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9563,7 +9563,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of skeletal load tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9574,7 +9574,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of very short explosive movement output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9585,7 +9585,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of circulatory throughput.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,400, Orange 8,640, Yellow 15,552, Green 32,659, Blue 81,648, Violet 244,944, White 979,776  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9596,7 +9596,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of blood-flow efficiency under stress.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9607,7 +9607,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of vertical locomotion strength/endurance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9618,7 +9618,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of thermal function in cold conditions.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9629,7 +9629,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of trunk stabilization and force transfer.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9640,7 +9640,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of skin/superficial tissue resistance to abrasion/cutting.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9651,7 +9651,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of rapid whole-body force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9662,7 +9662,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of maintain performance deeper into exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9673,7 +9673,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of hand/forearm force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9684,7 +9684,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of thermal regulation under exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9695,7 +9695,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of whole-body impact distribution.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9706,7 +9706,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of joint stability under load.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9717,7 +9717,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of vertical/horizontal jump output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9728,7 +9728,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of absorb/distribute landing impact.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9739,7 +9739,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of ligament/joint restraint.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9750,7 +9750,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of minor localized restorative stabilization during reinforcement.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9761,7 +9761,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of lower-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9772,7 +9772,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of energy-use efficiency under sustained exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9783,7 +9783,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of fine motor control under stress.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9794,7 +9794,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of muscular force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9805,7 +9805,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of signal propagation efficiency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9816,7 +9816,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of reduce mechanical trauma to internal organs.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9827,7 +9827,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of reduce performance loss from pain without repairing injury.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9838,7 +9838,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of maintain body integrity under pressure differential.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9849,7 +9849,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of body-position awareness.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9860,7 +9860,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of neural response latency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,400, Orange 8,640, Yellow 15,552, Green 32,659, Blue 81,648, Violet 244,944, White 979,776  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9871,7 +9871,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of between-effort recovery speed.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9882,7 +9882,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of ventilation/oxygen exchange performance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9893,7 +9893,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of maintain function through concussive/mechanical shock.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9904,7 +9904,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of spinal structural load tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9915,7 +9915,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of top ground speed.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9926,7 +9926,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of whole-body reinforcement through coherent resonance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,500, Orange 8,800, Yellow 15,840, Green 33,264, Blue 83,160, Violet 249,480, White 997,920  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9937,7 +9937,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of long-duration locomotion efficiency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9948,7 +9948,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of water locomotion performance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9959,7 +9959,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of tendon load transfer/tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9970,7 +9970,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of maintain traction/control through high-rate turning.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9981,7 +9981,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of upper-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -9992,7 +9992,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of orientation/acceleration tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,000, Orange 8,000, Yellow 14,400, Green 30,240, Blue 75,600, Violet 226,800, White 907,200  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10003,7 +10003,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** extreme output at severe basin/fatigue cost of moving-target visual processing.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 5,400, Orange 8,640, Yellow 15,552, Green 32,659, Blue 81,648, Violet 244,944, White 979,776  
+**Prices:** Red 11,000, Orange 17,600, Yellow 31,680, Green 66,528, Blue 166,320, Violet 498,960, White 1,995,840  
 **White:** Redline Window — briefly exceed normal sustainable output before forced recovery interval from severe subsequent fatigue and reduced sustainable capacity.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10014,7 +10014,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of rate of speed increase.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10025,7 +10025,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of rapid body-direction change.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10036,7 +10036,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of short-duration high-output metabolic tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10047,7 +10047,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of combat-relevant acoustic discrimination.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10058,7 +10058,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of postural control.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10069,7 +10069,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of skeletal load tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10080,7 +10080,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of very short explosive movement output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10091,7 +10091,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of circulatory throughput.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10102,7 +10102,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of blood-flow efficiency under stress.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10113,7 +10113,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of vertical locomotion strength/endurance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10124,7 +10124,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of thermal function in cold conditions.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10135,7 +10135,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of trunk stabilization and force transfer.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10146,7 +10146,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of skin/superficial tissue resistance to abrasion/cutting.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10157,7 +10157,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of rapid whole-body force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10168,7 +10168,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of maintain performance deeper into exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10179,7 +10179,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of hand/forearm force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10190,7 +10190,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of thermal regulation under exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10201,7 +10201,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of whole-body impact distribution.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10212,7 +10212,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of joint stability under load.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10223,7 +10223,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of vertical/horizontal jump output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10234,7 +10234,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of absorb/distribute landing impact.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10245,7 +10245,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of ligament/joint restraint.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10256,7 +10256,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of minor localized restorative stabilization during reinforcement.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10267,7 +10267,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of lower-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10278,7 +10278,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of energy-use efficiency under sustained exertion.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10289,7 +10289,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of fine motor control under stress.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10300,7 +10300,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of muscular force production.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10311,7 +10311,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of signal propagation efficiency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10322,7 +10322,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of reduce mechanical trauma to internal organs.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10333,7 +10333,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of reduce performance loss from pain without repairing injury.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10344,7 +10344,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of maintain body integrity under pressure differential.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10355,7 +10355,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of body-position awareness.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10366,7 +10366,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of neural response latency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10377,7 +10377,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of between-effort recovery speed.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10388,7 +10388,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of ventilation/oxygen exchange performance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10399,7 +10399,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of maintain function through concussive/mechanical shock.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10410,7 +10410,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of spinal structural load tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10421,7 +10421,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of top ground speed.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10432,7 +10432,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of whole-body reinforcement through coherent resonance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10443,7 +10443,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of long-duration locomotion efficiency.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10454,7 +10454,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of water locomotion performance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10465,7 +10465,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of tendon load transfer/tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10476,7 +10476,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of maintain traction/control through high-rate turning.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10487,7 +10487,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of upper-body muscular output.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10498,7 +10498,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of orientation/acceleration tolerance.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,800, Orange 2,880, Yellow 5,184, Green 10,886, Blue 27,215, Violet 81,645, White 326,580  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10509,7 +10509,7 @@ Primary-domain count: **230**
 **Geometry:** Self / biological system  
 **Mechanism:** continuous moderate reinforcement of moving-target visual processing.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Sustained Mastery — maintain the augmentation with sharply improved efficiency.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10523,7 +10523,7 @@ Primary-domain count: **60**
 **Geometry:** Beam  
 **Mechanism:** resolve a competing topology against an incoming compatible shaping using a beam delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10534,7 +10534,7 @@ Primary-domain count: **60**
 **Geometry:** Bolt  
 **Mechanism:** resolve a competing topology against an incoming compatible shaping using a bolt delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10545,7 +10545,7 @@ Primary-domain count: **60**
 **Geometry:** Field  
 **Mechanism:** resolve a competing topology against an incoming compatible shaping using a field delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10556,7 +10556,7 @@ Primary-domain count: **60**
 **Geometry:** Mark  
 **Mechanism:** resolve a competing topology against an incoming compatible shaping using a mark delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10567,7 +10567,7 @@ Primary-domain count: **60**
 **Geometry:** Pulse  
 **Mechanism:** resolve a competing topology against an incoming compatible shaping using a pulse delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10578,7 +10578,7 @@ Primary-domain count: **60**
 **Geometry:** Ring  
 **Mechanism:** resolve a competing topology against an incoming compatible shaping using a ring delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10589,7 +10589,7 @@ Primary-domain count: **60**
 **Geometry:** Beam  
 **Mechanism:** reduce output/amplitude of an active shaping without fully destroying it using a beam delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10600,7 +10600,7 @@ Primary-domain count: **60**
 **Geometry:** Bolt  
 **Mechanism:** reduce output/amplitude of an active shaping without fully destroying it using a bolt delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10611,7 +10611,7 @@ Primary-domain count: **60**
 **Geometry:** Field  
 **Mechanism:** reduce output/amplitude of an active shaping without fully destroying it using a field delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10622,7 +10622,7 @@ Primary-domain count: **60**
 **Geometry:** Mark  
 **Mechanism:** reduce output/amplitude of an active shaping without fully destroying it using a mark delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10633,7 +10633,7 @@ Primary-domain count: **60**
 **Geometry:** Pulse  
 **Mechanism:** reduce output/amplitude of an active shaping without fully destroying it using a pulse delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10644,7 +10644,7 @@ Primary-domain count: **60**
 **Geometry:** Ring  
 **Mechanism:** reduce output/amplitude of an active shaping without fully destroying it using a ring delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10655,7 +10655,7 @@ Primary-domain count: **60**
 **Geometry:** Beam  
 **Mechanism:** alter the resolved path of an incoming shaping using a beam delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10666,7 +10666,7 @@ Primary-domain count: **60**
 **Geometry:** Bolt  
 **Mechanism:** alter the resolved path of an incoming shaping using a bolt delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10677,7 +10677,7 @@ Primary-domain count: **60**
 **Geometry:** Field  
 **Mechanism:** alter the resolved path of an incoming shaping using a field delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10688,7 +10688,7 @@ Primary-domain count: **60**
 **Geometry:** Mark  
 **Mechanism:** alter the resolved path of an incoming shaping using a mark delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10699,7 +10699,7 @@ Primary-domain count: **60**
 **Geometry:** Pulse  
 **Mechanism:** alter the resolved path of an incoming shaping using a pulse delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10710,7 +10710,7 @@ Primary-domain count: **60**
 **Geometry:** Ring  
 **Mechanism:** alter the resolved path of an incoming shaping using a ring delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10721,7 +10721,7 @@ Primary-domain count: **60**
 **Geometry:** Beam  
 **Mechanism:** disrupt timing/phase relationship of a maintained or multicast shaping using a beam delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10732,7 +10732,7 @@ Primary-domain count: **60**
 **Geometry:** Bolt  
 **Mechanism:** disrupt timing/phase relationship of a maintained or multicast shaping using a bolt delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10743,7 +10743,7 @@ Primary-domain count: **60**
 **Geometry:** Field  
 **Mechanism:** disrupt timing/phase relationship of a maintained or multicast shaping using a field delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10754,7 +10754,7 @@ Primary-domain count: **60**
 **Geometry:** Mark  
 **Mechanism:** disrupt timing/phase relationship of a maintained or multicast shaping using a mark delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10765,7 +10765,7 @@ Primary-domain count: **60**
 **Geometry:** Pulse  
 **Mechanism:** disrupt timing/phase relationship of a maintained or multicast shaping using a pulse delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10776,7 +10776,7 @@ Primary-domain count: **60**
 **Geometry:** Ring  
 **Mechanism:** disrupt timing/phase relationship of a maintained or multicast shaping using a ring delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10787,7 +10787,7 @@ Primary-domain count: **60**
 **Geometry:** Beam  
 **Mechanism:** collapse an actively maintained shaping by injecting local instability using a beam delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10798,7 +10798,7 @@ Primary-domain count: **60**
 **Geometry:** Bolt  
 **Mechanism:** collapse an actively maintained shaping by injecting local instability using a bolt delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10809,7 +10809,7 @@ Primary-domain count: **60**
 **Geometry:** Field  
 **Mechanism:** collapse an actively maintained shaping by injecting local instability using a field delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10820,7 +10820,7 @@ Primary-domain count: **60**
 **Geometry:** Mark  
 **Mechanism:** collapse an actively maintained shaping by injecting local instability using a mark delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10831,7 +10831,7 @@ Primary-domain count: **60**
 **Geometry:** Pulse  
 **Mechanism:** collapse an actively maintained shaping by injecting local instability using a pulse delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10842,7 +10842,7 @@ Primary-domain count: **60**
 **Geometry:** Ring  
 **Mechanism:** collapse an actively maintained shaping by injecting local instability using a ring delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10853,7 +10853,7 @@ Primary-domain count: **60**
 **Geometry:** Beam  
 **Mechanism:** push a local shaping relationship toward bandwidth saturation using a beam delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10864,7 +10864,7 @@ Primary-domain count: **60**
 **Geometry:** Bolt  
 **Mechanism:** push a local shaping relationship toward bandwidth saturation using a bolt delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10875,7 +10875,7 @@ Primary-domain count: **60**
 **Geometry:** Field  
 **Mechanism:** push a local shaping relationship toward bandwidth saturation using a field delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10886,7 +10886,7 @@ Primary-domain count: **60**
 **Geometry:** Mark  
 **Mechanism:** push a local shaping relationship toward bandwidth saturation using a mark delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10897,7 +10897,7 @@ Primary-domain count: **60**
 **Geometry:** Pulse  
 **Mechanism:** push a local shaping relationship toward bandwidth saturation using a pulse delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10908,7 +10908,7 @@ Primary-domain count: **60**
 **Geometry:** Ring  
 **Mechanism:** push a local shaping relationship toward bandwidth saturation using a ring delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10919,7 +10919,7 @@ Primary-domain count: **60**
 **Geometry:** Beam  
 **Mechanism:** reduce coherence/focus of a concentrated incoming shaping using a beam delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10930,7 +10930,7 @@ Primary-domain count: **60**
 **Geometry:** Bolt  
 **Mechanism:** reduce coherence/focus of a concentrated incoming shaping using a bolt delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10941,7 +10941,7 @@ Primary-domain count: **60**
 **Geometry:** Field  
 **Mechanism:** reduce coherence/focus of a concentrated incoming shaping using a field delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10952,7 +10952,7 @@ Primary-domain count: **60**
 **Geometry:** Mark  
 **Mechanism:** reduce coherence/focus of a concentrated incoming shaping using a mark delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10963,7 +10963,7 @@ Primary-domain count: **60**
 **Geometry:** Pulse  
 **Mechanism:** reduce coherence/focus of a concentrated incoming shaping using a pulse delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10974,7 +10974,7 @@ Primary-domain count: **60**
 **Geometry:** Ring  
 **Mechanism:** reduce coherence/focus of a concentrated incoming shaping using a ring delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10985,7 +10985,7 @@ Primary-domain count: **60**
 **Geometry:** Beam  
 **Mechanism:** break a persistent link/tether/anchor relationship using a beam delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -10996,7 +10996,7 @@ Primary-domain count: **60**
 **Geometry:** Bolt  
 **Mechanism:** break a persistent link/tether/anchor relationship using a bolt delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11007,7 +11007,7 @@ Primary-domain count: **60**
 **Geometry:** Field  
 **Mechanism:** break a persistent link/tether/anchor relationship using a field delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 10,000, Orange 16,000, Yellow 28,800, Green 60,480, Blue 151,200, Violet 453,600, White 1,814,400  
+**Prices:** Red 17,000, Orange 27,200, Yellow 48,960, Green 102,816, Blue 257,040, Violet 771,120, White 3,084,480  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11018,7 +11018,7 @@ Primary-domain count: **60**
 **Geometry:** Mark  
 **Mechanism:** break a persistent link/tether/anchor relationship using a mark delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11029,7 +11029,7 @@ Primary-domain count: **60**
 **Geometry:** Pulse  
 **Mechanism:** break a persistent link/tether/anchor relationship using a pulse delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11040,7 +11040,7 @@ Primary-domain count: **60**
 **Geometry:** Ring  
 **Mechanism:** break a persistent link/tether/anchor relationship using a ring delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11051,7 +11051,7 @@ Primary-domain count: **60**
 **Geometry:** Beam  
 **Mechanism:** create a short region where a selected compatible shaping class is harder to resolve using a beam delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11062,7 +11062,7 @@ Primary-domain count: **60**
 **Geometry:** Bolt  
 **Mechanism:** create a short region where a selected compatible shaping class is harder to resolve using a bolt delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,600, Orange 2,560, Yellow 4,608, Green 9,677, Blue 24,193, Violet 72,579, White 290,316  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11073,7 +11073,7 @@ Primary-domain count: **60**
 **Geometry:** Field  
 **Mechanism:** create a short region where a selected compatible shaping class is harder to resolve using a field delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,800, Orange 4,480, Yellow 8,064, Green 16,934, Blue 42,335, Violet 127,005, White 508,020  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11084,7 +11084,7 @@ Primary-domain count: **60**
 **Geometry:** Mark  
 **Mechanism:** create a short region where a selected compatible shaping class is harder to resolve using a mark delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 1,400, Orange 2,240, Yellow 4,032, Green 8,467, Blue 21,168, Violet 63,504, White 254,016  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11095,7 +11095,7 @@ Primary-domain count: **60**
 **Geometry:** Pulse  
 **Mechanism:** create a short region where a selected compatible shaping class is harder to resolve using a pulse delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,300, Orange 3,680, Yellow 6,624, Green 13,910, Blue 34,775, Violet 104,325, White 417,300  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11106,7 +11106,7 @@ Primary-domain count: **60**
 **Geometry:** Ring  
 **Mechanism:** create a short region where a selected compatible shaping class is harder to resolve using a ring delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11117,7 +11117,7 @@ Primary-domain count: **60**
 **Geometry:** Beam  
 **Mechanism:** destabilize a persistent location/target anchor using a beam delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 4,300, Orange 6,880, Yellow 12,384, Green 26,006, Blue 65,015, Violet 195,045, White 780,180  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11128,7 +11128,7 @@ Primary-domain count: **60**
 **Geometry:** Bolt  
 **Mechanism:** destabilize a persistent location/target anchor using a bolt delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11139,7 +11139,7 @@ Primary-domain count: **60**
 **Geometry:** Field  
 **Mechanism:** destabilize a persistent location/target anchor using a field delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 4,300, Orange 6,880, Yellow 12,384, Green 26,006, Blue 65,015, Violet 195,045, White 780,180  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11150,7 +11150,7 @@ Primary-domain count: **60**
 **Geometry:** Mark  
 **Mechanism:** destabilize a persistent location/target anchor using a mark delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 2,900, Orange 4,640, Yellow 8,352, Green 17,539, Blue 43,848, Violet 131,544, White 526,176  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11161,7 +11161,7 @@ Primary-domain count: **60**
 **Geometry:** Pulse  
 **Mechanism:** destabilize a persistent location/target anchor using a pulse delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 3,800, Orange 6,080, Yellow 10,944, Green 22,982, Blue 57,455, Violet 172,365, White 689,460  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11172,7 +11172,7 @@ Primary-domain count: **60**
 **Geometry:** Ring  
 **Mechanism:** destabilize a persistent location/target anchor using a ring delivery geometry.  
 **Required basins:** OPEN — topology-derived only  
-**Prices:** Red 4,400, Orange 7,040, Yellow 12,672, Green 26,611, Blue 66,528, Violet 199,584, White 798,336  
+**Prices:** Red 5,700, Orange 9,120, Yellow 16,416, Green 34,474, Blue 86,185, Violet 258,555, White 1,034,220  
 **White:** Priority Counter — gain a brief high-authority window against one already-resolved compatible target shaping.  
 **Status:** ALPHA candidate — domain-normalized v0.2
 
@@ -11184,7 +11184,7 @@ Domain: Genesis Expression. Geometry: Orb. Status: APPROVED CONCEPT — costs/ra
 
 Bounded/compressed hydrogen-gas shaping. Pressure/expansion is intrinsic; combustion requires appropriate oxidizer/mixing and ignition. Pressure alone does not imply self-ignition.
 
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 
 Pricing LOCKED — Checkpoint 12; historical status cost-OPEN wording is superseded. Rank development, White expression and basin topology remain OPEN.
 
@@ -11194,6 +11194,6 @@ Domain: Genesis Expression. Geometry: Orb. Status: APPROVED CONCEPT — costs/ra
 
 Bounded prepared combustible gas mixture intended for controlled release/ignition. General prepared-gas architecture; do not proliferate Shock/Cold/Pressure/Air variants.
 
-**Prices:** Red 2,200, Orange 3,520, Yellow 6,336, Green 13,306, Blue 33,265, Violet 99,795, White 399,180  
+**Prices:** Red 3,100, Orange 4,960, Yellow 8,928, Green 18,749, Blue 46,873, Violet 140,619, White 562,476  
 
 Pricing LOCKED — Checkpoint 12; historical status cost-OPEN wording is superseded. Rank development, White expression and basin topology remain OPEN.

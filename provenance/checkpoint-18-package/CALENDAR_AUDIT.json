@@ -1,0 +1,27 @@
+{
+  "starting_credits": 2000,
+  "gross_illi_credits_earned_through_Orange_W2_D2": 52695,
+  "ending_balance_after_Absorption_Red_Orange_W2_D3": 42,
+  "purchases": {
+    "Persistent Coherence Red": 1700,
+    "Orange": 2720,
+    "Yellow": 4896,
+    "Green": 10282,
+    "Blue": 25705,
+    "Absorption Shield Red discounted": 9350
+  },
+  "reward_model": "halved deterministic economy",
+  "domai_red_season": {
+    "active_days": [
+      "R5D1",
+      "R5D2"
+    ],
+    "recovery": "R5D3",
+    "conquest_payout": 0
+  },
+  "raid_red_season": {
+    "R3D2": "Red clear +2500; Orange fails",
+    "R6D6": "Red repeat +0; Orange clear +3750"
+  },
+  "illi_solo_attempts": 2
+}

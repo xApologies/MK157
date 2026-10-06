@@ -1,0 +1,19 @@
+step,requirement,status,evidence
+1,"Crawl current Git first: README, INDEX, OPEN, SUPERSESSIONS, newest checkpoint, pricing registries/policy/audits, Trial rewards, combat-rewards, illi progression/ledger, world clock, Node/grouping, combat ecology, domai and atomic builder.",PASS,provenance/CHECKPOINT_18_BEFORE_REVIEW.json
+2,Read EVERY file in this package. `MASTER_LIVE_MODEL_DELTA.md` is the supplied explicit author decision set.,PASS,provenance/checkpoint-18-package/
+3,Execute `MASTER_REVERSE_DIFF.csv` item-by-item; preserve unrelated newer authority.,PASS,provenance/CHECKPOINT_18_REVERSE_DIFF.csv
+4,"Reprice all 1,016 Bindings, 229 summoned-entity pricing records and 9 Prime records by EXISTING pricing_class using Red anchors F1700/C3100/A5700/P11000/E17000. Preserve semantic class assignments unless newer explicit exception exists.",PASS,provenance/CHECKPOINT_18_REPRICING.csv
+5,"Recompute R→W using sequential HALF_UP multipliers 1.60/1.80/2.10/2.50/3/4. Update CSV/JSON/JSONL mirrors, policy, audits/provenance; preserve non-price fields.",PASS,economy/AUDIT.json
+6,"Starter grant becomes 2,000.",PASS,live-model/03_VALNEK_PATHS.md
+7,"Recompute illi's 17-event cost ledger using unchanged dates, new list prices, pre-Legacy PC full price and White-Legacy 55% HALF_UP after acceptance. Do not move milestone dates.",PASS,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv
+8,"Replace Trial W1–35 rewards with attached recalibrated CSV, total 26,955. W36+ remains OPEN; timing/population unchanged.",PASS,trial-rewards/TRIAL_WAVE_CREDITS.csv
+9,Replace CP17 deterministic Dungeon/Raid rewards with attached JSON. Hard remains 1.5× recalibrated Normal HALF_UP. Preserve ecology/areas/eligibility/attrition.,PASS,combat-rewards/AUDIT.json
+10,"domai rewards remain OPEN BY DESIGN and are NOT halved. Integrate 7-day first-kill eligibility, one-day exit/death lockout and cumulative 0.8^deaths payout rule. Exact scoring stays OPEN.",PASS,live-model/DOMAI_PARTICIPATION.md
+11,Import applicable current MK-147 aithren/vaelum/Accord doctrine and normalize active generic guild references only where they mean vaelum. Preserve excluded-transfer firewalls.,PASS,provenance/CHECKPOINT_18_MK147_REVIEW.json
+12,Integrate Node domai recruiting direction without inventing exact UI/scoring.,PASS,live-model/DOMAI_PARTICIPATION.md
+13,Integrate attached 59-row combat calendar. Preserve NO REQUIRED COMBAT rows as negative space. Validate balances and purchase gates.,PASS,world-clock/CALENDAR_AUDIT.json
+14,"Integrate first-cycle ecology and Kira/illi Red-season behavior/reputation. Optional failed Yellow Dungeon attempts remain available on OPEN days, not mandatory economic events.",PASS,world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md
+15,"Update README/INDEX/OPEN/SUPERSESSIONS/current domain files; create Checkpoint 18 addendum, coverage, conflicts/reverse diff, audit and provenance package.",PASS,live-model/25_CHECKPOINT_18_MASTER_LIVE_MODEL.md
+16,Audit MUST verify: 1016/229/9 registry counts; mirrors; fixed Red anchor per class; recursive arithmetic; Trial total 26955; exact Dungeon/Raid tables; Hard 1.5×; no White eldris; calendar never negative; O1D4 PC Blue/Legacy and O2D3 Absorption Red; domai OPEN scoring preserved.,PASS,provenance/CHECKPOINT_18_AUDIT.json
+17,Commit AND PUSH to origin/main. Verify local HEAD == origin/main.,POST_COMMIT_VERIFICATION,Execution report after commit
+18,"Final report: remote SHA, files changed, repricing counts, exact pricing matrix/rewards, recalculated 17-event illi ledger total, calendar gate balances, domai rules, MK147 inheritance, OPENs preserved, reverse-diff dispositions.",EXECUTION_REPORT,Final execution report

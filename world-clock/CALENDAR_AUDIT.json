@@ -1,0 +1,67 @@
+{
+  "result": "PASS",
+  "rows": 59,
+  "starting_credits": 2000,
+  "gross_illi_credits": 52695,
+  "ending_balance": 42,
+  "minimum_daily_closing_balance": 42,
+  "negative_space_rows": 21,
+  "illi_solo_attempts": 2,
+  "purchase_gates": [
+    {
+      "season": "Red",
+      "week": 1,
+      "day": 1,
+      "purchase": "Persistent Coherence → Red",
+      "balance_before": 2000,
+      "cost": 1700,
+      "balance_after": 300
+    },
+    {
+      "season": "Red",
+      "week": 2,
+      "day": 3,
+      "purchase": "Persistent Coherence → Orange",
+      "balance_before": 3050,
+      "cost": 2720,
+      "balance_after": 330
+    },
+    {
+      "season": "Red",
+      "week": 4,
+      "day": 2,
+      "purchase": "Persistent Coherence → Yellow",
+      "balance_before": 10875,
+      "cost": 4896,
+      "balance_after": 5979
+    },
+    {
+      "season": "Red",
+      "week": 6,
+      "day": 4,
+      "purchase": "Persistent Coherence → Green",
+      "balance_before": 17229,
+      "cost": 10282,
+      "balance_after": 6947
+    },
+    {
+      "season": "Orange",
+      "week": 1,
+      "day": 4,
+      "purchase": "Persistent Coherence → Blue / White Legacy qualifies",
+      "balance_before": 26657,
+      "cost": 25705,
+      "balance_after": 952
+    },
+    {
+      "season": "Orange",
+      "week": 2,
+      "day": 3,
+      "purchase": "Absorption Shield → Red (White Legacy 55%)",
+      "balance_before": 9392,
+      "cost": 9350,
+      "balance_after": 42
+    }
+  ],
+  "all_balances_nonnegative": true
+}

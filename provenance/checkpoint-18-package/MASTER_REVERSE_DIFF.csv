@@ -1,0 +1,16 @@
+topic,remote_cp17,checkpoint18_required,action
+Starter grant,"~1,000","2,000",SUPERSEDE
+Pricing values,CP12 bands/microprices,fixed class anchors 1700/3100/5700/11000/17000,SUPERSEDE VALUES; PRESERVE CLASSES
+Rank multipliers,1.6/1.8/2.1/2.5/3/4,unchanged,PRESERVE
+Trial rewards,"53,910 total","26,955 total",SUPERSEDE
+Dungeon rewards,CP17,50% recalibrated,SUPERSEDE
+Raid rewards,CP17,50% recalibrated,SUPERSEDE
+Hard multiplier,1.5×,1.5×,PRESERVE
+domai formula,OPEN,OPEN; not halved,PRESERVE
+domai eligibility,not exact,7 days from first validated kill,ADD
+domai recovery,not exact,1-day exit/death lock,ADD
+domai death penalty,not exact,0.8^deaths,ADD
+aithren/vaelum,partial,inherit current MK147 doctrine,ADD/NORMALIZE
+Red combat calendar,absent,59-row R→O2D3 scaffold,ADD
+illi milestone dates,17 locked,unchanged,PRESERVE
+illi costs,old ledger,recompute,SUPERSEDE COSTS ONLY

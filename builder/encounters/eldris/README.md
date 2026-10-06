@@ -1,4 +1,4 @@
-# eldris atomic group library — current through Checkpoint 17
+# eldris atomic group library — current through Checkpoint 18
 
 Author/builder tooling for composing encounters. The IDs are author handles, not in-world Valnak IDs. Each record contains 1–4 bodies and describes basin composition independently of species, Dungeon domain, map, placement or spawn schedule. Larger populations combine or duplicate groups.
 
@@ -27,3 +27,5 @@ Reproduce the library audit from this directory with `python validate_library.py
 [Checkpoint 16 master reconciliation](../../../live-model/23_CHECKPOINT_16_MASTER_LIVE_MODEL_UPDATE.md) supersedes only the earlier White-content restriction; all 209 group records and cumulative availability lists are unchanged.
 
 [Checkpoint 17 reward economy](../../../combat-rewards/README.md) supplies Normal/Hard completion and Raid boss tables, Expedition attrition and the OPEN BY DESIGN Valnak domai boundary. The [manifest](MANIFEST.json) explicitly records Hard ranks/areas; no atomic records or cumulative IDs change.
+
+Checkpoint 18 reprices rewards only; Hard/Normal areas, rank permissions, all atomic records and availability remain unchanged. Completion payout uses 1.5× Normal with whole-credit HALF_UP.

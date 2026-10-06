@@ -1,5 +1,7 @@
 # MK157 — CURRENT STORY / CLOCK STATE
 
+Checkpoint 18 scheduling correction: the [59-day combat scaffold](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) governs required combat and progression income. Earlier Day-One Solo/Day-Two double-Duo timestamps below are retained historical chronology, superseded where they conflict. Story events/relationships remain; exact displaced placement is OPEN. Do not add required paid combat to NO REQUIRED COMBAT rows.
+
 ## Kira locked Black scaffold
 Entry/Red — Armor of the Abyss
 Early Orange — CSR
@@ -159,7 +161,7 @@ Deep Duo/Trio attempts similarly consume major calendar blocks.
 
 This is foundational for the forthcoming Valnak Calendar / World Clock + Kira + illi scheduling work.
 
-One planetary day is 31 hours. The central W1–35 estimate (~156 h) converts to 5 days + 1 hour; Kira's mature-blender ~4-day estimate is WORKING. [Calendar reconciliation](PLANETARY_CALENDAR.md) leaves month totals and planetary/Valnak week conversion OPEN. Existing 49-week and 37-team CSVs remain unchanged; this delta schedules no new events.
+One planetary day is 31 hours. The central W1–35 estimate (~156 h) converts to 5 days + 1 hour; Kira's mature-blender ~4-day estimate is WORKING. [Calendar reconciliation](PLANETARY_CALENDAR.md) leaves month totals and planetary/Valnak week conversion OPEN. The Checkpoint 10 pass left the 49-week and 37-team CSVs unchanged. Checkpoint 18 now adds the separate combat scaffold and updates only Red W1 character summaries; standing social tracks and team placeholders remain unchanged.
 
 ## Checkpoint 11 purchase-simulation handoff
 
@@ -256,12 +258,12 @@ Use deterministic whole-credit HALF_UP if a discounted price is fractional.
 
 Persistent Coherence R→Blue is paid at FULL PRICE because illi has not yet qualified/accepted the White Legacy.
 PT-0003 canonical ladder remains:
-700 / 1120 / 2016 / 4234 / 10585; cumulative 18,655.
-After Red is already paid, remaining O→Blue = 17,955.
+1700 / 2720 / 4896 / 10282 / 25705; cumulative 45,303 (Checkpoint 18).
+After Red is already paid, remaining O→Blue = 43,603.
 
 Blue Persistent Coherence unlocks White Legacy access.
 After acceptance:
-Absorption Shield Red list 10,000 → illi price 5,500.
+Absorption Shield Red list 17,000 → illi price 9,350 (Checkpoint 18).
 
 The 45% deduction applies to the accepted Legacy package, including later ranks and Prime purchases. It does not grant omitted prerequisite Bindings as usable abilities.
 
@@ -278,7 +280,7 @@ Genesis Beam GREEN → Genesis Prime RED
 Persistent Coherence GREEN → Coherence Prime RED
 Absorption Shield GREEN → Resonance Prime RED
 
-Prime ordinary Red base remains 10,000. White-Legacy price at Red = 5,500.
+Prime ordinary Red base is 17,000. White-Legacy price at Red = 9,350 (Checkpoint 18).
 
 ## 4. Kira + illi three carry regimes — LOCK narrative/economic model
 Phase I — Armor carries:
@@ -314,4 +316,6 @@ Checkpoint 14 current state: [illi milestones](ILLI_PROGRESSION.md) lock the sup
 
 ## Checkpoint 16 calendar handoff
 
-The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 130,261 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. No new daily encounters are scheduled by this pass; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged.
+The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 250,884 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. Checkpoint 18 now supplies the separate 59-day combat scaffold; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged.
+
+[Checkpoint 18 combat calendar](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) governs the 59 supplied Red→O2D3 rows, retaining 21 NO REQUIRED COMBAT days and all milestone dates. Starter grant 2,000; illi combat income 52,695 through O2D2; PC Blue/Legacy leaves 952 at O1D4 and Absorption Red leaves 42 at O2D3. Discretionary spending and later income remain separate/OPEN.

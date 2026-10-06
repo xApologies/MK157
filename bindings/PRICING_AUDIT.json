@@ -1,6 +1,5 @@
 {
-  "checkpoint": "13",
-  "result": "PASS",
+  "checkpoint": 18,
   "records": 1016,
   "priced": 1016,
   "counts_by_pricing_class": {
@@ -11,52 +10,20 @@
     "POWERFUL": 109
   },
   "red_base_statistics": {
-    "min": 600,
-    "median": 2150,
-    "max": 10000
+    "min": 1700,
+    "median": 3100.0,
+    "max": 17000
   },
-  "counts_by_domain": {
-    "Chirality": 60,
-    "Dimensional Geometry": 31,
-    "Genesis Expression": 599,
-    "Genesis Field Topology": 90,
-    "Persistent Topology / Coherence–Decoherence": 6,
-    "Resonance": 230
+  "fixed_class_anchors": {
+    "FOUNDATIONAL": 1700,
+    "COMMON_SPECIALIZATION": 3100,
+    "ADVANCED": 5700,
+    "POWERFUL": 11000,
+    "EXCEPTIONAL": 17000
   },
-  "anchor_checks": [
-    {
-      "id": "PT-0002",
-      "red_base_cost": 600,
-      "pass": true
-    },
-    {
-      "id": "PT-0001",
-      "red_base_cost": 1800,
-      "pass": true
-    },
-    {
-      "id": "GE-0043",
-      "red_base_cost": 5000,
-      "pass": true
-    },
-    {
-      "id": "GE-0537",
-      "red_base_cost": 10000,
-      "pass": true
-    },
-    {
-      "id": "PT-0003",
-      "red_base_cost": 700,
-      "pass": true
-    }
-  ],
-  "null_price_count": 0,
-  "arithmetic_checks": "PASS — decimal sequential ROUND_HALF_UP",
-  "mirror_equality": "PASS — JSON/JSONL all fields; CSV existing fields and full price fields",
-  "preserved_checks": "PASS — unchanged prices except GE-0537; exact authorized terminology translations only; IDs/mechanisms/basins/lineage/recipes preserved.",
-  "suspicious_distributions_for_review": [
-    "Generated families often share templates; same semantic geometry/control factors intentionally share prices across elemental names. Review repeated-price clusters when mechanisms gain substantive detail.",
-    "Gas record historical status strings still say costs OPEN; pricing_status supersedes costs only, preserving rank-expression/basin OPENs.",
-    "Exceptional ordinary Sever Field price reflects area architecture dismantling; review alongside evolving topology canon."
-  ]
+  "arithmetic": "sequential decimal ROUND_HALF_UP",
+  "non_price_fields_including_classes_preserved": true,
+  "csv_json_jsonl_mirrors": "PASS",
+  "baseline_commit": "74d0bbeda7503110f9701edb8755400e34e45946",
+  "result": "PASS"
 }

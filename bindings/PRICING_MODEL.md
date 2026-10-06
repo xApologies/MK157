@@ -1,158 +1,39 @@
-# MK157 — CHECKPOINT 12 PRICING POLICY v2
+# MK157 — Checkpoint 18 pricing policy
 
-## Governing purpose
-Assign canonical Red base acquisition cost B to:
-- all 1,016 Binding records;
-- all 229 summoned-entity Binding records;
-- all 9 Prime Elementals.
+All **1,016 Bindings**, **229 summoned-entity pricing records** (including nine Primes), and **nine dedicated Prime pricing records** use fixed Red anchors by their **existing semantic pricing_class**. The dedicated Prime atlas mirrors those nine entities; it adds no new entities. Checkpoint 18 supersedes previous bands, microprices, numeric hand anchors and the old 9,900/10,000 summon limits. Class assignments, IDs, mechanisms, recipes, basin requirements, White expressions, lineage and non-price statuses are preserved.
 
-The row-level registries carry the prices. Do not paste thousands of rows into narrative live-model files.
+## Fixed class matrix
 
-## Existing rank law — unchanged
-For each Binding with Red base B:
-- Red = B
-- Orange = previous × 1.60
-- Yellow = previous × 1.80
-- Green = previous × 2.10
-- Blue = previous × 2.50
-- Violet = previous × 3.00
-- White = previous × 4.00
+| Existing class | Red | Orange | Yellow | Green | Blue | Violet | White |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| FOUNDATIONAL | 1,700 | 2,720 | 4,896 | 10,282 | 25,705 | 77,115 | 308,460 |
+| COMMON_SPECIALIZATION | 3,100 | 4,960 | 8,928 | 18,749 | 46,873 | 140,619 | 562,476 |
+| ADVANCED | 5,700 | 9,120 | 16,416 | 34,474 | 86,185 | 258,555 | 1,034,220 |
+| POWERFUL | 11,000 | 17,600 | 31,680 | 66,528 | 166,320 | 498,960 | 1,995,840 |
+| EXCEPTIONAL | 17,000 | 27,200 | 48,960 | 102,816 | 257,040 | 771,120 | 3,084,480 |
 
-Derived prices are whole credits. Use deterministic ROUND_HALF_UP at each rank transition.
+[CSV](PRICING_CLASS_MATRIX.csv) and [JSON](PRICING_CLASS_MATRIX.json) preserve the supplied matrix. Each subsequent rank uses the rounded preceding rank, multiplying sequentially by **1.60 / 1.80 / 2.10 / 2.50 / 3 / 4** with decimal **ROUND_HALF_UP** to whole credits. Do not round only the final result or use ties-to-even rounding.
 
-## Ordinary acquisition bands
-These bands describe Red acquisition friction, NOT power rank, basin identity, rarity color, or class.
+## Semantics and protected fields
 
-1. FOUNDATIONAL — 500–1,000
-   Civic/professional primitives; basic direct operations; starter-capable foundations.
+Foundational means civic/basic direct operations; Common Specialization means focused specialist architecture; Advanced covers fields, expanded/multi-target/conditional architecture; Powerful covers major throughput/control architecture; Exceptional covers difficult defining architectures. These describe acquisition significance, not in-world rank, rarity color or basin identity. Historical classification reasoning remains in [Checkpoint 12 decisions](../provenance/CHECKPOINT_12_PRICING_DECISIONS.csv); do not rerun the classifier or assign different classes in this update.
 
-2. COMMON_SPECIALIZATION — 1,100–2,400
-   Normal specialist tools and focused operational architecture.
+Mechanism, geometry, scope, information/control complexity, sustain/concurrency, breadth, autonomy and prerequisite/capstone role informed those classes. Species, elemental name, ID sequence and basin color do not price a Binding. Identical classes now intentionally share prices; name matching cannot override an existing class.
 
-3. ADVANCED — 2,500–4,900
-   Fields, expanded/multi-target/conditional systems, substantial specialist architecture.
+Persistent Coherence PT-0003 and Directed Coherence PT-0002 are Foundational (Red 1,700); Coherence Field PT-0001 is Common Specialization (3,100); Genesis Beam GE-0043 is Powerful (11,000); Absorption Shield GE-0537 is Exceptional (17,000). All nine Primes PE-001–009 remain Exceptional, Red 17,000, cumulative R→W list cost **4,308,616**. No additional Prime premium.
 
-4. POWERFUL — 5,000–9,900
-   High-throughput or major combat/control architecture; sophisticated/high-output systems.
+Pricing LOCKED does not promote ALPHA mechanisms/recipes or resolve basin topology/White-expression OPENs. Historical non-price status strings may mention older cost OPENs; current pricing_status governs price only.
 
-5. EXCEPTIONAL — exactly 10,000 maximum ordinary Red anchor for this pass
-   Top-tier architectures whose Red form is itself difficult to obtain.
+## Entry and White Legacy
 
-No ordinary summoned entity may exceed 9,900 Red. Prime Elementals alone are explicitly fixed at 10,000 among summon records.
+Starter grant is **2,000 credits**. Full-price Foundational PC R→Blue costs **45,303** (43,603 remaining after Red). Accepted White-Legacy package purchases/upgrades pay **55%** of each ordinary list price, independently rounded HALF_UP. Prerequisite/access compression remains separate. Do not recursively discount discounted ranks or grant omitted prerequisite Bindings. Prequalification PC stays full price. Absorption Shield Red and each Prime Red cost illi **9,350** after acceptance. Additional package membership and discretionary discounts remain OPEN.
 
-## Hand-locked Binding anchors
-- PT-0002 Directed Coherence = 600
-- PT-0003 Persistent Coherence = 700
-- PT-0001 Coherence Field = 1,800
-- GE-0537 Absorption Shield = 10,000 (Checkpoint 13 supersession)
-- GE-0043 Genesis Beam = 5,000
+The [17-event ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) retains all dates and now totals **250,884** progression expenditure. This is not total income or bank balance. The [early combat calendar](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) supplies a separate progression balance scaffold.
 
-These values override classifier output.
+Kira's Black acquisition gates remain separate: Armor is the approximately 1,000-credit anomaly; CSR/Genesis Orbs/Halo/Domain final prices remain OPEN. The starter grant does not reprice Armor. Ordinary registry prices do not determine her Black gates.
 
-## Prime Elementals — LOCK
-ALL Prime Elementals PE-001 through PE-009:
-Red base B = 10,000 credits.
+## Mirrors and validation
 
-No Prime-specific premium above 10,000.
-Their exceptional status is expressed by prerequisite architecture + the 10,000 acquisition + recursive rank expense.
+Bindings retain nested rank_costs and explicit Red–White fields in JSON/JSONL; CSV mirrors existing fields and prices. Summon pricing is keyed by entity_id and Prime pricing by prime_id. pricing_status is `LOCKED — Checkpoint 18`. Entity profiles, recipes and illi prerequisite gates remain unchanged.
 
-Prime Red→White ladder:
-Red 10,000
-Orange 16,000
-Yellow 28,800
-Green 60,480
-Blue 151,200
-Violet 453,600
-White 1,814,400
-
-Cumulative Red→White = 2,534,480 credits.
-
-illi's White Legacy compresses ACCESS prerequisites; it does not automatically waive the 10,000 Prime acquisition price unless later author canon explicitly creates a subsidy.
-
-## Summoned-entity pricing
-All 229 summoned entities represent summon Bindings and receive Red prices.
-Ordinary summons must be below 10,000.
-
-Semantic factors:
-- control complexity;
-- scale;
-- manifestation/sustain load;
-- breadth of autonomous behavior;
-- offensive/defensive consequence;
-- persistence;
-- mobility;
-- distributed/swarm coordination;
-- siege/capstone character.
-
-General expectation, not a blind formula:
-- small/simple/low-control manifestations: foundational/common;
-- ordinary combat specialists: common/advanced;
-- high-control, large, swarm, major area/siege manifestations: advanced/powerful;
-- no ordinary summon reaches or exceeds Prime's 10,000 lock.
-
-Do not price by elemental mechanism or basin color alone.
-
-## Binding semantic classification
-Inspect every record. Price from mechanism and acquisition significance, considering:
-- foundational dependency value;
-- civic/professional accessibility;
-- directed vs field/multi-target geometry;
-- control and information complexity;
-- sustain/concurrency;
-- breadth;
-- high-output consequences;
-- prerequisite/capstone role.
-
-Prefer prices in 50- or 100-credit increments. Avoid fake precision.
-
-## Absolute firewalls
-- Never infer cost from Red/Orange/Yellow/Green/Blue/Violet basin composition.
-- Pricing class is not an in-world rank.
-- Preserve all basin OPENs and topology.
-- Preserve all IDs, recipes, White expressions, statuses, and gates.
-- Kira's Black economics remain separate:
-  Armor ~1,000 anomalous starter;
-  CSR, Genesis Orbs, Halo and Domain prices OPEN (recalibration).
-  Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
-  Ordinary registry prices must NOT overwrite these character-specific Black acquisition gates.
-
-## Required registry fields
-For Bindings:
-pricing_class
-red_base_cost
-Red Orange Yellow Green Blue Violet White
-pricing_status = "LOCKED — Checkpoint 12"
-
-For summons, create pricing mirrors keyed by entity_id with:
-entity_id
-name
-pricing_class
-red_base_cost
-Red Orange Yellow Green Blue Violet White
-pricing_status
-
-For Prime Elementals, create explicit pricing mirror keyed by prime_id.
-
-## Required audit
-Verify:
-- exactly 1,016 Bindings priced;
-- exactly 229 summoned entities priced;
-- exactly 9 Prime Elementals priced at 10,000;
-- zero null Red costs;
-- zero ordinary summons >= 10,000;
-- anchors exact;
-- rank arithmetic exact;
-- CSV/JSON/JSONL Binding mirrors agree;
-- no IDs/recipes/basin data lost;
-- Kira gates unchanged.
-
-## Reproducible semantic assignment
-
-The operational classifier is preserved in provenance/checkpoint-12-package/SEMANTIC_PRICING.ps1. It examines every record and records its factors/rationale in ../provenance/CHECKPOINT_12_PRICING_DECISIONS.csv. Author anchors override the classifier. Otherwise price uses geometry, focused/expanded scope, sustain, concurrent/distributed control, physiological information precision, spatial constraints, output and autonomous role. Existing price scaffolding and ID sequence never contribute.
-
-Summon scale starts at Tiny 500, Small 1100, Medium 1700, Large 2400, Huge 4000, Variable 2200; control adds 0/250/500/1400/2000/2800 for low through extreme. Moderate/high/very-high/extreme sustain adds 300/600/900/1200. Area/lane control adds 400; aerial pursuit 250; guard/transport/interception 150; siege/high-output assault 700. Distributed saturation adds 800; simple low-control hours-long scouting persistence adds 100. Ordinary prices cap at 9900. Elements, species, visible color and basin data create no price premium. Semantically identical patterns receive equal prices.
-
-Matched summon-Binding names share price decisions; unmatched manifestations use their explicit role and distributed coordination. Ordinary CSR has its own operational registry price and does not overwrite Kira's Black acquisition gate.
-
-ROUND_HALF_UP applies sequentially at every positive-credit transition using decimal arithmetic; the next rank uses the rounded preceding rank. Pricing LOCKED status does not promote an ALPHA mechanism, recipe or topology to canon. Existing status/source strings are preserved even if historical wording mentions OPEN costs; pricing_status and this policy supersede only that price claim.
-Checkpoint 13 supersedes only GE-0537 to B=10000, Exceptional, cumulative R–W 2534480. The 45% accepted White-Legacy package deduction is character-specific (pay 55%, HALF_UP independently per list item/rank); ordinary registry prices remain list prices. Prequalification Persistent Coherence is full-price. Kira Black gates are OPEN for recalibration. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
+Run `python economy/validate_economy.py` from the repository root. It checks counts, classes/anchors, every recursive ladder, all mirrors, non-price fields against the baseline commit, the illi ledger, rewards and all 59 calendar balances/gates. [Binding audit](PRICING_AUDIT.json), [summon audit](../summons/PRICING_AUDIT.json) and [Checkpoint 18 audit](../provenance/CHECKPOINT_18_AUDIT.json) preserve the results.

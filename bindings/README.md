@@ -28,4 +28,6 @@ Current totals: 1,016 Binding records and 229 Summoned Entity records. All preex
 
 ## Checkpoint 12 canonical pricing
 
-[Pricing policy](PRICING_MODEL.md) now governs all 1,016 records. BINDINGS JSON/JSONL retain nested rank_costs and add explicit Red–White price fields; CSV mirrors the same ladder. All price statuses are LOCKED — Checkpoint 12, independently of mechanism/candidate status. [Pricing audit](PRICING_AUDIT.json) and [row reasoning](../provenance/CHECKPOINT_12_PRICING_DECISIONS.csv) expose classification and preservation checks. Earlier scaffold prices and gas cost-OPEN claims are superseded; topology/rank-expression OPENs remain.
+[Pricing policy](PRICING_MODEL.md) now governs all 1,016 records. BINDINGS JSON/JSONL retain nested rank_costs and add explicit Red–White price fields; CSV mirrors the same ladder. All current price statuses are LOCKED — Checkpoint 18, independently of mechanism/candidate status. [Pricing audit](PRICING_AUDIT.json) and [row reasoning](../provenance/CHECKPOINT_12_PRICING_DECISIONS.csv) expose classification and preservation checks. Earlier scaffold prices and gas cost-OPEN claims are superseded; topology/rank-expression OPENs remain.
+
+Checkpoint 18 preserves all existing semantic classes and non-price fields while assigning the fixed [class matrix](PRICING_CLASS_MATRIX.csv), Red 1700/3100/5700/11000/17000. [Current audit](PRICING_AUDIT.json) and [validator](../economy/validate_economy.py) verify every recursive ladder and mirror.

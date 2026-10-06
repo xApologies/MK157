@@ -1,0 +1,20 @@
+{
+  "checkpoint": 18,
+  "reward_formula": "OPEN BY DESIGN",
+  "awards_halved": false,
+  "eligibility_starts": "first validated eldris kill",
+  "eligibility_days": 7,
+  "conquest_required_within_window": true,
+  "eligible_after_leaving": true,
+  "no_conquest_in_window": "no conquest contribution payout from that participation window",
+  "recovery_triggers": [
+    "voluntary exit",
+    "death"
+  ],
+  "recovery_full_days": 1,
+  "recovery_scope": "same domai",
+  "death_multiplier_per_death": 0.8,
+  "eventual_payout_rule": "validated contribution award * 0.8^deaths",
+  "core_break_bonus": "concept preserved; exact amount/formula OPEN",
+  "scoring_and_fractional_credit_rounding": "OPEN; no deterministic scoring formula supplied"
+}

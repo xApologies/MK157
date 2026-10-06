@@ -1,6 +1,6 @@
 # MK157 — Economy and purchase-schedule handoff
 
-Current authority: Checkpoint 17, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
+Current authority: Checkpoint 18, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
 ## Kira Black acquisition economics — current
 
@@ -141,7 +141,7 @@ Do not silently decide:
 - exact standard card dimensions beyond the working trading-card form factor.
 ## Checkpoint 12 canonical inputs
 
-Current ordinary prices are in the [Binding registry](../bindings/BINDINGS.json), [summon price atlas](../summons/SUMMON_PRICING.json) and [Prime price atlas](../summons/PRIME_ELEMENTAL_PRICING.json). Persistent Coherence B=700 gives R 700, O 1120, Y 2016, G 4234, Blue 10585 under sequential HALF_UP; cumulative R-through-Blue is **18,655**, or **17,955** after Red has been paid. The above Checkpoint 11 B=1000 calculation remains illustrative only. Absorption Shield B=10000 and Genesis Beam B=5000 are resolved. All Primes B=10000; White Legacy access compression is separate from the Checkpoint 13 45% package deduction; illi pays 55% after acceptance.
+Current ordinary prices are in the [Binding registry](../bindings/BINDINGS.json), [summon price atlas](../summons/SUMMON_PRICING.json) and [Prime price atlas](../summons/PRIME_ELEMENTAL_PRICING.json). Checkpoint 18 prices Persistent Coherence by its Foundational class: B=1700, R 1700/O 2720/Y 4896/G 10282/B 25705; cumulative R-through-Blue **45,303**, or **43,603** after Red. The above B=1000 calculation remains historical illustration only. Absorption Shield and all Primes are Exceptional B=17000; Genesis Beam is Powerful B=11000; White Legacy access compression is separate from the Checkpoint 13 45% package deduction; illi pays 55% after acceptance.
 
 Kira's CSR/Genesis Orbs/Halo/Domain final prices are OPEN for recalibration under Checkpoint 14. The old flat-price claim is SUPERSEDED; Armor remains approximately 1,000. Ordinary list prices and all unrelated canon remain governed by their existing rules.
 
@@ -149,19 +149,19 @@ Kira's CSR/Genesis Orbs/Halo/Domain final prices are OPEN for recalibration unde
 
 ## 1. Absorption Shield repricing — LOCK
 GE-0537 Absorption Shield:
-Red base B = 10,000 credits.
+Red base B = 17,000 credits (Checkpoint 18 fixed Exceptional anchor).
 Pricing class = Exceptional.
 
-This supersedes Checkpoint 12's B=3,000 anchor for GE-0537 only.
+Checkpoint 13 first moved GE-0537 to Exceptional; Checkpoint 18 now fixes that class at 17,000. Its class/mechanism is unchanged.
 Recompute its ordinary R→W ladder using sequential ROUND_HALF_UP:
-R 10,000
-O 16,000
-Y 28,800
-G 60,480
-B 151,200
-V 453,600
-W 1,814,400
-cumulative 2,534,480.
+R 17,000
+O 27,200
+Y 48,960
+G 102,816
+B 257,040
+V 771,120
+W 3,084,480
+cumulative 4,308,616.
 
 Rationale: high-rank Absorption is defining combat-helkir prevention architecture. Preventing catastrophic injury can dominate repairing it after the fact.
 
@@ -177,12 +177,12 @@ Use deterministic whole-credit HALF_UP if a discounted price is fractional.
 
 Persistent Coherence R→Blue is paid at FULL PRICE because illi has not yet qualified/accepted the White Legacy.
 PT-0003 canonical ladder remains:
-700 / 1120 / 2016 / 4234 / 10585; cumulative 18,655.
-After Red is already paid, remaining O→Blue = 17,955.
+1700 / 2720 / 4896 / 10282 / 25705; cumulative 45,303 (Checkpoint 18).
+After Red is already paid, remaining O→Blue = 43,603.
 
 Blue Persistent Coherence unlocks White Legacy access.
 After acceptance:
-Absorption Shield Red list 10,000 → illi price 5,500.
+Absorption Shield Red list 17,000 → illi price 9,350 (Checkpoint 18).
 
 The 45% deduction applies to the accepted Legacy package, including later ranks and Prime purchases. It does not grant omitted prerequisite Bindings as usable abilities.
 
@@ -201,7 +201,7 @@ Genesis Beam GREEN → Genesis Prime RED
 Persistent Coherence GREEN → Coherence Prime RED
 Absorption Shield GREEN → Resonance Prime RED
 
-Prime ordinary Red base remains 10,000. White-Legacy price at Red = 5,500.
+Prime ordinary Red base is 17,000. White-Legacy price at Red = 9,350 (Checkpoint 18).
 
 ## 4. Kira + illi three carry regimes — LOCK narrative/economic model
 Phase I — Armor carries:
@@ -226,7 +226,7 @@ This is a coupled positive feedback system, not generic veteran boosting.
 
 ## Exact Trial reward schedule
 
-Checkpoint 14 now locks the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 53,910 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 is a rounded target; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
+Checkpoint 18 recalibrates the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 26,955 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 and Checkpoint 14's 53,910 are historical pre-recalibration values; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
 
 
 ## Commodity economy — LOCK doctrine; prices mostly OPEN
@@ -241,8 +241,10 @@ Illustrative White Fireball 1.3M/3M, Dimensional Ring 2M, and Valnak-made prince
 
 ## Checkpoint 16 progression ledger and Normal Dungeon base
 
-The [illi author ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) preserves all 17 milestone dates and totals **130,261 credits** in progression expenditure by Violet W2 D2. Full-price prequalification Persistent Coherence and independent 55%-of-list package purchases match the established pricing rules. This is not literal bank balance or gross earnings; discretionary spending remains separate.
+The [illi author ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) preserves all 17 milestone dates and totals **250,884 credits** in progression expenditure by Violet W2 D2. Full-price prequalification Persistent Coherence and independent 55%-of-list package purchases match the established pricing rules. This is not literal bank balance or gross earnings; discretionary spending remains separate.
 
-White Valnak Normal Dungeon successful-completion base is **68,910 = 53,910 + 15,000 credits**. Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour, with failure/procedural/coordination risk preserving Trial value. Checkpoint 17 resolves the [complete Normal/Hard Dungeon completion and Raid major-boss payouts](../combat-rewards/README.md). Hard rewards are exactly 1.5× Normal; Hard Dungeon average areas match Normal and pressure increases through density/deployed groups. Raid rewards remain once per participant per boss per season; Expedition elimination persists for the attempt with no mid-run replacement. Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN. Valnak domai awards are contextual per incursion/per participant and OPEN BY DESIGN; no rank table or deterministic formula is assigned, and the core-break amount/formula remains OPEN. The [Normal Dungeon scale](../builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv) supplies authored runtime targets, not fixed stopwatch laws.
+White Valnak Normal Dungeon successful-completion base is **34,455 = 26,955 + 7,500 credits**. Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour, with failure/procedural/coordination risk preserving Trial value. Checkpoint 18 recalibrates the [complete Normal/Hard Dungeon completion and Raid major-boss payouts](../combat-rewards/README.md). Hard rewards are 1.5× Normal rounded HALF_UP; Hard Dungeon average areas match Normal and pressure increases through density/deployed groups. Raid rewards remain once per participant per boss per season; Expedition elimination persists for the attempt with no mid-run replacement. Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN. Valnak domai awards are contextual per incursion/per participant and OPEN BY DESIGN; no rank table or deterministic formula is assigned, and the core-break amount/formula remains OPEN. The [Normal Dungeon scale](../builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv) supplies authored runtime targets, not fixed stopwatch laws.
 
 The World Clock + character + economy calendar is ready for authored content placement. Purchases must be economically plausible against the ledger's progression-capital breakpoints, without micro-accounting every discretionary purchase. No new income schedule, encounter placement or post-Violet-W2 rank date is invented here.
+
+[Checkpoint 18 combat calendar](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) governs the 59 supplied Red→O2D3 rows, retaining 21 NO REQUIRED COMBAT days and all milestone dates. Starter grant 2,000; illi combat income 52,695 through O2D2; PC Blue/Legacy leaves 952 at O1D4 and Absorption Red leaves 42 at O2D3. Discretionary spending and later income remain separate/OPEN.

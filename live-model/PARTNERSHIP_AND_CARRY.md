@@ -2,7 +2,7 @@
 
 ## Sandbox consequences — LOCK
 The sandbox is an anti-carry economic firewall.
-Typical entrant has ~1,000 starter credits and one, perhaps two, Red foundations.
+The Checkpoint 18 starter grant is 2,000 credits; one Foundational Red purchase costs 1,700. Additional acquisitions require more income.
 Most first-cycle content remains Red/Orange; Yellow performance is notably strong; Green is exceptional/aspirational.
 After Green Solo graduation, veteran grouping becomes legal.
 Kira graduates much earlier than illi but chooses to remain primarily with illi/friends rather than exploit veteran carry groups.
@@ -45,3 +45,5 @@ Valnak is a marathon/lived civilization, not a pure optimizer. Rest, hobbies, so
 ## Broad content rhythm — LOCK
 Red→Violet uses broad Valnak content: Trials + Dungeons + Hard Dungeons + Raids + Valnak domai + city/social/culture.
 White may become intentionally Trial-centric under Project Princess Carry.
+
+Checkpoint 18 preserves these partnership/carry rules. During Red Season, Kira/illi are unusually persistent grinders with repeated combat/death exposure, while illi makes rare weak Solo experiments. The new [combat scaffold](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) protects social/recovery negative space and optional failed Yellow Dungeon attempts without mandatory income. Working Solo/Duo Yellow W8–10 and inefficient mid-Orange Trio ceilings are calibration, not final standings. Valnak resurrection removes permanent death, not pain/fear/psychological cost.

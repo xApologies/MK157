@@ -1,4 +1,4 @@
-"""Validate Checkpoint 17 reward data with the Python standard library."""
+"""Validate Checkpoint 18 reward data with the Python standard library."""
 
 import argparse
 import csv
@@ -8,10 +8,10 @@ from pathlib import Path
 
 
 RANKS = ('Red', 'Orange', 'Yellow', 'Green', 'Blue', 'Violet', 'White')
-NORMAL_DUNGEON = (790, 2040, 4610, 9100, 15600, 27500, 68910)
-HARD_DUNGEON = (1185, 3060, 6915, 13650, 23400, 41250, 103365)
-NORMAL_RAID = (5000, 7500, 10000, 15000, 22500, 35000)
-HARD_RAID = (7500, 11250, 15000, 22500, 33750, 52500)
+NORMAL_DUNGEON = (395, 1020, 2305, 4550, 7800, 13750, 34455)
+HARD_DUNGEON = (593, 1530, 3458, 6825, 11700, 20625, 51683)
+NORMAL_RAID = (2500, 3750, 5000, 7500, 11250, 17500)
+HARD_RAID = (3750, 5625, 7500, 11250, 16875, 26250)
 AREAS = dict(zip('ROYGBVW', (5, 13, 25, 53, 113, 285, 450)))
 
 
@@ -39,17 +39,19 @@ def audit(directory, repository):
             rows = list(reader)
             require(reader.fieldnames == list(fields), f'{name}: schema mismatch')
         require([row[fields[0]] for row in rows] == list(ranks), f'{name}: rank order/count mismatch')
-        expected_keys = {'normal', 'hard', 'hard_multiplier'}
+        expected_keys = {'normal', 'hard', 'hard_multiplier', 'hard_rounding'}
         if section == 'raids':
             expected_keys |= {'normal_total', 'hard_total'}
         require(set(tables[section]) == expected_keys, f'{section}: unexpected JSON fields')
         require(tables[section]['hard_multiplier'] == 1.5, f'{section}: multiplier must be 1.5')
+        require(tables[section]['hard_rounding'] == 'ROUND_HALF_UP', f'{section}: rounding must be HALF_UP')
         values = {'normal': [], 'hard': []}
         for row in rows:
             rank = row[fields[0]]
             n, h = int(row[fields[1]]), int(row[fields[2]])
             require(row[fields[3]] == '1.5', f'{name}/{rank}: multiplier must be 1.5')
-            require(n > 0 and h > 0 and n * 3 == h * 2, f'{name}/{rank}: hard != exact 1.5x normal')
+            require(n > 0 and h > 0 and h == (n * 3 + 1) // 2,
+                    f'{name}/{rank}: hard != HALF_UP(1.5x normal)')
             values['normal'].append(n)
             values['hard'].append(h)
             rows_checked += 1
@@ -62,7 +64,7 @@ def audit(directory, repository):
         results[section] = {mode: dict(zip(ranks, values[mode])) for mode in values}
 
     totals = {mode: sum(results['raids'][mode].values()) for mode in ('normal', 'hard')}
-    require(totals == {'normal': 95000, 'hard': 142500}, 'Raid one-per-rank totals mismatch')
+    require(totals == {'normal': 47500, 'hard': 71250}, 'Raid one-per-rank totals mismatch')
     require(totals['normal'] * 3 == totals['hard'] * 2, 'Raid total multiplier mismatch')
     for mode, total in totals.items():
         require(type(tables['raids'][mode + '_total']) is int
@@ -91,9 +93,10 @@ def audit(directory, repository):
                'README.md', 'validate_rewards.py')}
     inputs['builder/encounters/eldris/MANIFEST.json'] = manifest_path
     return {
-        'checkpoint': 17, 'result': 'FAIL' if errors else 'PASS', 'errors': errors,
+        'checkpoint': 18, 'result': 'FAIL' if errors else 'PASS', 'errors': errors,
         'reward_tables': results, 'exact_multiplier_pairs_checked': rows_checked,
-        'integer_arithmetic': 'normal * 3 == hard * 2', 'raid_one_boss_per_rank_totals': totals,
+        'integer_arithmetic': 'hard == (normal * 3 + 1) // 2 (positive whole-credit HALF_UP)',
+        'raid_one_boss_per_rank_totals': totals,
         'hard_and_normal_average_areas_mi2': manifest['hard_dungeon_areas_mi2'],
         'domai_reward_formula': domai['reward_formula'],
         'checks': ['exact supplied values', 'CSV schemas/rank order', 'integer JSON values and CSV mirrors',

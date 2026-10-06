@@ -37,3 +37,6 @@ builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv whitespace=cr-at-eol
 
 provenance/checkpoint-17-package/*.csv whitespace=cr-at-eol
 combat-rewards/*.csv whitespace=cr-at-eol
+
+provenance/checkpoint-18-package/*.csv whitespace=cr-at-eol
+bindings/PRICING_CLASS_MATRIX.csv whitespace=cr-at-eol

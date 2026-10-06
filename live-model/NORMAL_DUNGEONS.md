@@ -1,4 +1,4 @@
-# Valnak Normal Dungeons — current through Checkpoint 17
+# Valnak Normal Dungeons — current through Checkpoint 18
 
 ## Rank, basin and environment
 
@@ -48,11 +48,11 @@ Exploratory Deep Caverns image-generation attempts, including failed Yellow+ ren
 
 ## Completion economy
 
-White Normal Dungeon successful-completion base is **68,910 credits = 53,910 + 15,000**. The first term is the preserved W1–35 Trial total; the second is the completion premium. No extra party-split, individual distribution, bonus or first-clear rule is inferred from this base.
+White Normal Dungeon successful-completion base is **34,455 credits = 26,955 + 7,500**. The first term is the recalibrated W1–35 Trial total; the second is the completion premium. No extra party-split, individual distribution, bonus or first-clear rule is inferred from this base.
 
-Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour. Failure, procedural and coordination risk preserve the value of reliable repeatable Trials. The complete [Normal/Hard completion and Raid reward tables](../combat-rewards/README.md) are locked by Checkpoint 17. Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN. Valnak domai awards remain contextual and OPEN BY DESIGN.
+Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour. Failure, procedural and coordination risk preserve the value of reliable repeatable Trials. The complete [Normal/Hard completion and Raid reward tables](../combat-rewards/README.md) are recalibrated by Checkpoint 18. Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN. Valnak domai awards remain contextual and OPEN BY DESIGN.
 
-Hard uses the same average areas **5/13/25/53/113/285/450 mi²**, the same rank-legal R→V palettes (including at White), and the same 209 atomic groups. Hard increases population density and the number of deployed groups, creating sustained combat, fatigue and coordination pressure. Its exact **1.5× completion payout** does not multiply area or establish a runtime multiplier. Exact Hard runtime targets, instance geometry, population counts and placement remain OPEN.
+Hard uses the same average areas **5/13/25/53/113/285/450 mi²**, the same rank-legal R→V palettes (including at White), and the same 209 atomic groups. Hard increases population density and the number of deployed groups, creating sustained combat, fatigue and coordination pressure. Its **1.5× completion payout rounded HALF_UP** does not multiply area or establish a runtime multiplier. Exact Hard runtime targets, instance geometry, population counts and placement remain OPEN.
 
 ## Calendar handoff
 

@@ -1,0 +1,53 @@
+{
+  "repository": "xApologies/Mk-147",
+  "ref": "ae7c8b406370b752fd5e6f809be0148315294379",
+  "default_branch": "main",
+  "scope": "Applicable aithren/vaelum/Accord doctrine and exclusion/open boundaries only. No upstream instructions executed.",
+  "sources": [
+    {
+      "path": "live-model/02_DOMAINS/VAELUM_AND_ACCORD.md",
+      "blob_sha": "d946c15cb352a67a9ddc0ebfc8f9b3a18576a0ae",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_DOMAINS/VAELUM_AND_ACCORD.md",
+      "snapshot": "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE/INCREMENT_001_AUTHORITY.md",
+      "blob_sha": "463e7a9fa988e14ee02c48eee8b7dd718a200593",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/00_GOVERNANCE/INCREMENT_001_AUTHORITY.md",
+      "snapshot": "provenance/checkpoint-18-mk147/INCREMENT_001_AUTHORITY.md"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE/INCREMENT_002_AUTHORITY.md",
+      "blob_sha": "6b7143704012f7c3610b3eb920b4337bc4960fef",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/00_GOVERNANCE/INCREMENT_002_AUTHORITY.md",
+      "snapshot": "provenance/checkpoint-18-mk147/INCREMENT_002_AUTHORITY.md"
+    },
+    {
+      "path": "live-model/05_CULTURE/V2_CULTURE_CANON.md",
+      "blob_sha": "5d58b35becee583db868e7005e7a5237dfb42fcf",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/05_CULTURE/V2_CULTURE_CANON.md",
+      "snapshot": "provenance/checkpoint-18-mk147/V2_CULTURE_CANON.md"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/INCREMENT_001_OPEN_QUESTIONS.md",
+      "blob_sha": "1d526dbac0393977f6c1f3b50cb7780e9a3ac7dc",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/07_PROVENANCE/INCREMENT_001_OPEN_QUESTIONS.md",
+      "snapshot": "provenance/checkpoint-18-mk147/INCREMENT_001_OPEN_QUESTIONS.md"
+    }
+  ],
+  "additional_navigation_reviewed": [
+    {
+      "path": "README.md",
+      "blob_sha": "ec88c4b51c74f00d74e1ab30bf7810c7ca2cafc7"
+    },
+    {
+      "path": "INDEX.md",
+      "blob_sha": "c929b20f3a1d0ee9659c5097d5f46659e6d155dc"
+    },
+    {
+      "path": "live-model/README.md",
+      "blob_sha": "a7fe3fd098520d2a549199c2f742a94dd6086690"
+    }
+  ],
+  "decision": "MK157 CP18 explicit canon governs transfer; non-conflicting institutional doctrine accepted, excluded ontology/travel/currency/character systems not imported."
+}

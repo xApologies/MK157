@@ -1,48 +1,50 @@
 {
   "dungeons": {
     "normal": {
-      "Red": 790,
-      "Orange": 2040,
-      "Yellow": 4610,
-      "Green": 9100,
-      "Blue": 15600,
-      "Violet": 27500,
-      "White": 68910
+      "Red": 395,
+      "Orange": 1020,
+      "Yellow": 2305,
+      "Green": 4550,
+      "Blue": 7800,
+      "Violet": 13750,
+      "White": 34455
     },
     "hard": {
-      "Red": 1185,
-      "Orange": 3060,
-      "Yellow": 6915,
-      "Green": 13650,
-      "Blue": 23400,
-      "Violet": 41250,
-      "White": 103365
+      "Red": 593,
+      "Orange": 1530,
+      "Yellow": 3458,
+      "Green": 6825,
+      "Blue": 11700,
+      "Violet": 20625,
+      "White": 51683
     },
-    "hard_multiplier": 1.5
+    "hard_multiplier": 1.5,
+    "hard_rounding": "ROUND_HALF_UP"
   },
   "raids": {
     "normal": {
-      "Red": 5000,
-      "Orange": 7500,
-      "Yellow": 10000,
-      "Green": 15000,
-      "Blue": 22500,
-      "Violet": 35000
+      "Red": 2500,
+      "Orange": 3750,
+      "Yellow": 5000,
+      "Green": 7500,
+      "Blue": 11250,
+      "Violet": 17500
     },
     "hard": {
-      "Red": 7500,
-      "Orange": 11250,
-      "Yellow": 15000,
-      "Green": 22500,
-      "Blue": 33750,
-      "Violet": 52500
+      "Red": 3750,
+      "Orange": 5625,
+      "Yellow": 7500,
+      "Green": 11250,
+      "Blue": 16875,
+      "Violet": 26250
     },
     "hard_multiplier": 1.5,
-    "normal_total": 95000,
-    "hard_total": 142500
+    "normal_total": 47500,
+    "hard_total": 71250,
+    "hard_rounding": "ROUND_HALF_UP"
   },
   "domai": {
     "reward_formula": "OPEN BY DESIGN",
-    "rule": "Valnak awards contextual validated-contribution credits; no fixed rank table. Contribution may include eldris kills, healing/support, control, operational contribution, core assault, and other validated participation. Core-break bonus concept preserved; exact amount OPEN."
+    "rule": "Valnak awards contextual validated-contribution credits; no fixed rank table. Contribution may include eldris kills, healing/support, control, operational contribution, core assault, and other validated participation. Core-break bonus concept preserved; exact amount OPEN. Awards are not halved. Participation windows, recovery and death deductions follow DOMAI_PARTICIPATION_RULES.json; validated contribution scoring remains OPEN."
   }
 }

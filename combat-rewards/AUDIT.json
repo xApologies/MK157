@@ -1,52 +1,52 @@
 {
-  "checkpoint": 17,
+  "checkpoint": 18,
   "result": "PASS",
   "errors": [],
   "reward_tables": {
     "dungeons": {
       "normal": {
-        "Red": 790,
-        "Orange": 2040,
-        "Yellow": 4610,
-        "Green": 9100,
-        "Blue": 15600,
-        "Violet": 27500,
-        "White": 68910
+        "Red": 395,
+        "Orange": 1020,
+        "Yellow": 2305,
+        "Green": 4550,
+        "Blue": 7800,
+        "Violet": 13750,
+        "White": 34455
       },
       "hard": {
-        "Red": 1185,
-        "Orange": 3060,
-        "Yellow": 6915,
-        "Green": 13650,
-        "Blue": 23400,
-        "Violet": 41250,
-        "White": 103365
+        "Red": 593,
+        "Orange": 1530,
+        "Yellow": 3458,
+        "Green": 6825,
+        "Blue": 11700,
+        "Violet": 20625,
+        "White": 51683
       }
     },
     "raids": {
       "normal": {
-        "Red": 5000,
-        "Orange": 7500,
-        "Yellow": 10000,
-        "Green": 15000,
-        "Blue": 22500,
-        "Violet": 35000
+        "Red": 2500,
+        "Orange": 3750,
+        "Yellow": 5000,
+        "Green": 7500,
+        "Blue": 11250,
+        "Violet": 17500
       },
       "hard": {
-        "Red": 7500,
-        "Orange": 11250,
-        "Yellow": 15000,
-        "Green": 22500,
-        "Blue": 33750,
-        "Violet": 52500
+        "Red": 3750,
+        "Orange": 5625,
+        "Yellow": 7500,
+        "Green": 11250,
+        "Blue": 16875,
+        "Violet": 26250
       }
     }
   },
   "exact_multiplier_pairs_checked": 13,
-  "integer_arithmetic": "normal * 3 == hard * 2",
+  "integer_arithmetic": "hard == (normal * 3 + 1) // 2 (positive whole-credit HALF_UP)",
   "raid_one_boss_per_rank_totals": {
-    "normal": 95000,
-    "hard": 142500
+    "normal": 47500,
+    "hard": 71250
   },
   "hard_and_normal_average_areas_mi2": {
     "R": 5,
@@ -69,11 +69,11 @@
     "OPEN BY DESIGN domai and contribution dimensions"
   ],
   "sha256": {
-    "DUNGEON_REWARDS.csv": "287b5b2f21d6ca4d55a10f47d842010546dd53fc9b0a93cef2f206b499e6d8ab",
-    "RAID_BOSS_REWARDS.csv": "15181921cc358d8e7963e291d72302947ba43f99fbac93010e1ddf37ed1513df",
-    "COMBAT_REWARD_TABLES.json": "1b064fe38c4996c24981843ccb0b3651f0bcdfcd404f5ed66785696459a8e50a",
-    "README.md": "8b32f7912026c1e35c56748b0086f700288810c8c561c28ef5bbdc4a722e37e1",
-    "validate_rewards.py": "97cfd0c3779aab6acac1a90de83c65b201a0ca701cd75444d1c34b731c659135",
+    "DUNGEON_REWARDS.csv": "9ec5ec8bc647733127d0b6ee513af0e8563fd35630616e740757ab691e860419",
+    "RAID_BOSS_REWARDS.csv": "df6044fac5e0651eaf89adcef7f75a30cf9088afbf28b6085d98a227a51531a1",
+    "COMBAT_REWARD_TABLES.json": "e746deb0e4dec78578733906436329770e661f5efd88db46fb27e8a78ef64643",
+    "README.md": "1b06e70d27a2ffa6f61589b9c99d68a61e998ebd1d8e4a6b89e9a413b6c0fa1c",
+    "validate_rewards.py": "12086f480b159943608872ece3dbf739569cd12a299a023c3a8ce8c049fda999",
     "builder/encounters/eldris/MANIFEST.json": "75f7c3f114b7001ea16044e3c99f3b693bf4271df542519cf40bbb98a284186f"
   }
 }

@@ -1,0 +1,110 @@
+{
+  "base_remote_checkpoint": 17,
+  "target_checkpoint": 18,
+  "pricing_anchors": {
+    "FOUNDATIONAL": 1700,
+    "COMMON_SPECIALIZATION": 3100,
+    "ADVANCED": 5700,
+    "POWERFUL": 11000,
+    "EXCEPTIONAL": 17000
+  },
+  "pricing_matrix": {
+    "FOUNDATIONAL": {
+      "Red": 1700,
+      "Orange": 2720,
+      "Yellow": 4896,
+      "Green": 10282,
+      "Blue": 25705,
+      "Violet": 77115,
+      "White": 308460
+    },
+    "COMMON_SPECIALIZATION": {
+      "Red": 3100,
+      "Orange": 4960,
+      "Yellow": 8928,
+      "Green": 18749,
+      "Blue": 46873,
+      "Violet": 140619,
+      "White": 562476
+    },
+    "ADVANCED": {
+      "Red": 5700,
+      "Orange": 9120,
+      "Yellow": 16416,
+      "Green": 34474,
+      "Blue": 86185,
+      "Violet": 258555,
+      "White": 1034220
+    },
+    "POWERFUL": {
+      "Red": 11000,
+      "Orange": 17600,
+      "Yellow": 31680,
+      "Green": 66528,
+      "Blue": 166320,
+      "Violet": 498960,
+      "White": 1995840
+    },
+    "EXCEPTIONAL": {
+      "Red": 17000,
+      "Orange": 27200,
+      "Yellow": 48960,
+      "Green": 102816,
+      "Blue": 257040,
+      "Violet": 771120,
+      "White": 3084480
+    }
+  },
+  "trial_total": 26955,
+  "normal_dungeon": {
+    "Red": 395,
+    "Orange": 1020,
+    "Yellow": 2305,
+    "Green": 4550,
+    "Blue": 7800,
+    "Violet": 13750,
+    "White": 34455
+  },
+  "hard_dungeon": {
+    "Red": 593,
+    "Orange": 1530,
+    "Yellow": 3458,
+    "Green": 6825,
+    "Blue": 11700,
+    "Violet": 20625,
+    "White": 51683
+  },
+  "normal_raid": {
+    "Red": 2500,
+    "Orange": 3750,
+    "Yellow": 5000,
+    "Green": 7500,
+    "Blue": 11250,
+    "Violet": 17500
+  },
+  "hard_raid": {
+    "Red": 3750,
+    "Orange": 5625,
+    "Yellow": 7500,
+    "Green": 11250,
+    "Blue": 16875,
+    "Violet": 26250
+  },
+  "normal_raid_total": 47500,
+  "hard_raid_total": 71250,
+  "calendar_rows": 59,
+  "calendar_gross_illi": 52695,
+  "calendar_post_absorption_balance": 42,
+  "domai": {
+    "formula": "OPEN BY DESIGN",
+    "eligibility_days": 7,
+    "recovery_lock_days": 1,
+    "death_multiplier": "0.8^d"
+  },
+  "mk147_inheritance": [
+    "aithren",
+    "vaelum",
+    "Accord Registry"
+  ],
+  "status": "PACKAGE AUDIT PASS"
+}

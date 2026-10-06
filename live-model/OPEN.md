@@ -1,6 +1,8 @@
 # OPEN ledger
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+Current numeric prices/rewards and the supplied early combat calendar are resolved by Checkpoint 18 below. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks.
+
+No OPEN question was resolved by repository import. Read all source ledgers with authority 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -77,7 +79,7 @@ Do not silently decide:
 - exact Auction item prices;
 - exact Kira discretionary purchases;
 - exact illi discretionary purchases;
-- exact Red-season credit income until actual runs and other income are modeled;
+- illi income beyond the supplied Red→O2D2 scaffold, Kira total income and discretionary spending; the Checkpoint 18 progression scaffold is now supplied;
 - illi rank dates after the supplied Violet W2 D2 milestone;
 - exact day Kira buys CSR;
 - exact standard card dimensions beyond the working trading-card form factor.
@@ -112,3 +114,13 @@ Resolved: Red→Violet Normal completion payouts (White 68,910 preserved); all R
 **Valnak domai payout formula remains OPEN BY DESIGN.** No fixed rank table or deterministic formula is wanted. Contextual awards per incursion/per participant use validated eldris kills, healing/support, control, operational contribution, core assault and other validated participation. Core-break bonus concept is preserved; exact amount/formula stays OPEN. This is deliberate author flexibility, not an unfilled numeric table.
 
 The 1.5× payout multiplier does not multiply Dungeon area or supply a runtime multiplier. Other unsupplied formulas and all unrelated OPENs remain.
+
+## Checkpoint 18 current resolutions and retained OPENs
+
+Resolved: 2000 starter grant; fixed class anchors/ladders; illi 17-event cost total 250884 with unchanged dates; Trial W1–35 total 26955; recalibrated Normal/Hard Dungeon/Raid tables; supplied 59-day progression calendar (52695 illi income through O2D2; O1D4 after-PC balance952; O2D3 after-Absorption balance42). Its 21 NO REQUIRED COMBAT days are protected. Older required Day-One Solo/Day-Two double-Duo timing is superseded by this scaffold; exact displaced story-beat placement remains OPEN.
+
+Domai scoring and core-break bonus amount/formula remain **OPEN BY DESIGN**, not halved. Seven days from first validated kill, one full day of same-domai exit/death recovery and validated award ×0.8^deaths are locked; fractional-credit rounding and unprovided renewal/clock details remain OPEN. These do not reopen or change Expedition attempt rules.
+
+Node domai recruiting direction is supplied; exact UI/rating/matchmaking and gear-score-like formulas are not assigned. aithren/vaelum/Accord doctrine is inherited; exact governance, boards, arbitration, reputation scoring, tax rates/categories and broader Registry authority remain OPEN. Excluded upstream systems stay excluded.
+
+W36+ rewards, final standings, W96 NONCANON, post-Violet-W2 dates, Kira Black final prices, later income/discretionary spending, Dungeon distribution/partial-progress/extra bonuses, exact encounters/placements, Hard runtimes, extreme recovery physiology, planetary month arithmetic and other unrelated OPENs remain. Early Solo/Duo W8–10 and inefficient mid-Orange Trio ceilings are WORKING, not final records.

@@ -90,4 +90,4 @@ Kira's advantage does not mean Trial runtime becomes trivial. Deep Solo/Duo/Trio
 
 ## Exact Trial reward schedule — Checkpoint 14
 
-Checkpoint 14 now locks the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 53,910 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 is a rounded target; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
+Checkpoint 18 recalibrates the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 26,955 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 and Checkpoint 14's 53,910 are historical pre-recalibration values; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.

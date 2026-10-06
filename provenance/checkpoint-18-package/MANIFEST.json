@@ -1,0 +1,19 @@
+{
+  "name": "MK157_MASTER_LIVE_MODEL_CHECKPOINT_18",
+  "base_checkpoint": 17,
+  "target_checkpoint": 18,
+  "files": [
+    "CALENDAR_AUDIT.json",
+    "EXECUTABLE.md",
+    "MASTER_LIVE_MODEL_DELTA.md",
+    "MASTER_REVERSE_DIFF.csv",
+    "PRICING_CLASS_MATRIX.csv",
+    "PRICING_CLASS_MATRIX.json",
+    "README.md",
+    "RED_TO_ORANGE_COMBAT_CALENDAR.csv",
+    "RED_TO_ORANGE_COMBAT_CALENDAR.json",
+    "REWARD_RECALIBRATION.json",
+    "TRIAL_WAVE_CREDITS_RECALIBRATED.csv",
+    "VERA_MASTER_AUDIT.json"
+  ]
+}

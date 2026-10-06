@@ -1,20 +1,20 @@
-# Combat reward economy — Checkpoint 17
+# Combat reward economy — Checkpoint 18
 
-These are the locked Valnak Dungeon completion and Raid major-boss payouts. [Dungeon CSV](DUNGEON_REWARDS.csv), [Raid CSV](RAID_BOSS_REWARDS.csv) and [JSON mirror](COMBAT_REWARD_TABLES.json) contain the exact values. The [source delta](../provenance/checkpoint-17-package/COMBAT_REWARD_ECONOMY_DELTA.md) is preserved verbatim.
+These are the locked Valnak Dungeon completion and Raid major-boss payouts. [Dungeon CSV](DUNGEON_REWARDS.csv), [Raid CSV](RAID_BOSS_REWARDS.csv) and [JSON mirror](COMBAT_REWARD_TABLES.json) contain the exact values. The [source delta](../provenance/checkpoint-18-package/MASTER_LIVE_MODEL_DELTA.md) is preserved verbatim.
 
 ## Dungeon completion rewards
 
 | Rank | Normal credits | Hard credits (×1.5) |
 |---|---:|---:|
-| Red | 790 | 1,185 |
-| Orange | 2,040 | 3,060 |
-| Yellow | 4,610 | 6,915 |
-| Green | 9,100 | 13,650 |
-| Blue | 15,600 | 23,400 |
-| Violet | 27,500 | 41,250 |
-| White | 68,910 | 103,365 |
+| Red | 395 | 593 |
+| Orange | 1,020 | 1,530 |
+| Yellow | 2,305 | 3,458 |
+| Green | 4,550 | 6,825 |
+| Blue | 7,800 | 11,700 |
+| Violet | 13,750 | 20,625 |
+| White | 34,455 | 51,683 |
 
-The recovered Normal rows resolve the Red→Violet payout OPENs. White Normal remains **68,910 = 53,910 + 15,000**. Hard completion pays exactly **1.5×** Normal at every rank. These completion values do not supply Dungeon party-distribution, partial-progress, boss/contribution or first-clear bonus formulas; those unsupplied details remain OPEN. Existing partial-progress credit and completion-weighted economics are preserved.
+Checkpoint 18 halves the prior deterministic Normal payouts. White Normal is **34,455 = 26,955 + 7,500**. Hard completion is **1.5× recalibrated Normal, whole-credit HALF_UP** at every rank; Red 592.5→593, Yellow 3457.5→3458 and White 51682.5→51683 demonstrate the rounding rule. These completion values do not supply Dungeon party-distribution, partial-progress, boss/contribution or first-clear bonus formulas; those unsupplied details remain OPEN. Existing partial-progress credit and completion-weighted economics are preserved.
 
 ## Hard Dungeon ecology
 
@@ -24,15 +24,15 @@ Hard uses the same average area ladder as Normal: **5 / 13 / 25 / 53 / 113 / 285
 
 ## Raid major-boss rewards
 
-| Boss rank | Normal credits | Expedition/Hard credits (×1.5) |
+| Boss rank | Normal credits | Expedition/Hard credits (×1.5 HALF_UP) |
 |---|---:|---:|
-| Red | 5,000 | 7,500 |
-| Orange | 7,500 | 11,250 |
-| Yellow | 10,000 | 15,000 |
-| Green | 15,000 | 22,500 |
-| Blue | 22,500 | 33,750 |
-| Violet | 35,000 | 52,500 |
-| One boss at each R→V rank | **95,000** | **142,500** |
+| Red | 2,500 | 3,750 |
+| Orange | 3,750 | 5,625 |
+| Yellow | 5,000 | 7,500 |
+| Green | 7,500 | 11,250 |
+| Blue | 11,250 | 16,875 |
+| Violet | 17,500 | 26,250 |
+| One boss at each R→V rank | **47,500** | **71,250** |
 
 The totals sum one boss at each listed rank. The mature standalone roster is R/O/Y/G/B/V; the existing First-Cycle standalone roster **R/R/O/O/Y/G** is preserved. The rank table does not replace that roster or promise every participant a six-boss total. Expedition remains the full six-wing progression, without first-cycle downscaling.
 
@@ -50,6 +50,8 @@ Existing Valnak domai ranks remain R→V. The main White Crystal's break ends th
 
 ## Preservation and audit
 
-W1–35 Trial rows still total **53,910**; the 17-event illi progression ledger still totals **130,261** expenditure. Their rules/dates, Project Princess Carry, atomic group records, cumulative availability, White Normal content, outside ontology and unrelated canon are preserved. No new income calendar or purchase dates are assigned.
+Recalibrated W1–35 Trial rows total **26,955**; the repriced 17-event illi ledger totals **250,884** expenditure. Their rules/dates, Project Princess Carry, atomic group records, cumulative availability, White Normal content, outside ontology and unrelated canon are preserved. The supplied 59-day combat calendar adds required progression income; all existing milestone dates remain unchanged.
 
-Run `python combat-rewards/validate_rewards.py` from the repository root; add `--output combat-rewards/AUDIT.json` to save the report. The validator checks both CSVs against JSON and the exact supplied values, every 1.5× relationship using integer arithmetic, both Raid totals, Hard/Normal area equality and the OPEN BY DESIGN domai boundary. [Checkpoint 17](../live-model/24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md), [reverse diff](../provenance/CHECKPOINT_17_REVERSE_DIFF.csv), [coverage](../provenance/CHECKPOINT_17_COVERAGE_MANIFEST.csv) and [integration audit](../provenance/CHECKPOINT_17_AUDIT.json) document the complete reconciliation.
+Run `python combat-rewards/validate_rewards.py` from the repository root; add `--output combat-rewards/AUDIT.json` to save the report. The validator checks both CSVs against JSON and the exact supplied values, every 1.5× relationship with whole-credit HALF_UP, both Raid totals, Hard/Normal area equality and the OPEN BY DESIGN domai boundary. [Checkpoint 18](../live-model/25_CHECKPOINT_18_MASTER_LIVE_MODEL.md), [reverse diff](../provenance/CHECKPOINT_18_REVERSE_DIFF.csv), [coverage](../provenance/CHECKPOINT_18_COVERAGE_MANIFEST.csv) and [integration audit](../provenance/CHECKPOINT_18_AUDIT.json) document the complete reconciliation.
+
+Checkpoint 18 does **not** halve Valnak domai awards. [Participation rules](../live-model/DOMAI_PARTICIPATION.md) lock seven days from first validated kill, conquest within that window even after departure, one full day of same-domai lockout after exit/death, and cumulative validated award ×0.8^deaths. Scoring remains OPEN BY DESIGN; the multiplier constrains an eventual contextual award without defining it.

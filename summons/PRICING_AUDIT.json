@@ -1,54 +1,58 @@
 {
-  "checkpoint": "12",
+  "checkpoint": 18,
   "result": "PASS",
-  "records": 229,
-  "priced": 229,
-  "ordinary": 220,
-  "primes": 9,
-  "counts_by_pricing_class": {
-    "ADVANCED": 74,
-    "COMMON_SPECIALIZATION": 69,
-    "EXCEPTIONAL": 9,
-    "FOUNDATIONAL": 18,
-    "POWERFUL": 59
+  "entities": {
+    "checkpoint": 18,
+    "records": 229,
+    "priced": 229,
+    "counts_by_pricing_class": {
+      "ADVANCED": 74,
+      "COMMON_SPECIALIZATION": 69,
+      "EXCEPTIONAL": 9,
+      "FOUNDATIONAL": 18,
+      "POWERFUL": 59
+    },
+    "red_base_statistics": {
+      "min": 1700,
+      "median": 5700,
+      "max": 17000
+    },
+    "fixed_class_anchors": {
+      "FOUNDATIONAL": 1700,
+      "COMMON_SPECIALIZATION": 3100,
+      "ADVANCED": 5700,
+      "POWERFUL": 11000,
+      "EXCEPTIONAL": 17000
+    },
+    "arithmetic": "sequential decimal ROUND_HALF_UP",
+    "non_price_fields_including_classes_preserved": true,
+    "csv_json_jsonl_mirrors": "PASS",
+    "baseline_commit": "74d0bbeda7503110f9701edb8755400e34e45946",
+    "result": "PASS"
   },
-  "red_base_statistics": {
-    "min": 600,
-    "median": 2900,
-    "max": 10000
-  },
-  "ordinary_red_statistics": {
-    "min": 600,
-    "median": 2900,
-    "max": 8700
-  },
-  "counts_by_entity_type": {
-    "Creature-pattern manifestation": 40,
-    "Elemental manifestation": 180,
-    "Prime Elemental": 9
-  },
-  "prime_checks": {
-    "ladder": [
-      10000,
-      16000,
-      28800,
-      60480,
-      151200,
-      453600,
-      1814400
-    ],
-    "all_pass": true,
-    "red": 10000,
-    "count": 9,
-    "cumulative": 2534480
-  },
-  "null_price_count": 0,
-  "ordinary_at_or_above_10000": 0,
-  "arithmetic_checks": "PASS",
-  "mirror_equality": "PASS",
-  "preserved_checks": "Entity atlas and every original summon file except README byte unchanged; recipes and illi gates byte unchanged",
-  "suspicious_distributions_for_review": [
-    "Elemental variants and numbered Pattern variants with identical scale/control/role metadata have equal Red prices; no element-name premium or pattern-number premium.",
-    "Some ordinary entity records have no exact Binding-name counterpart; entity atlas remains independently keyed and no registry records were invented."
-  ]
+  "primes": {
+    "checkpoint": 18,
+    "records": 9,
+    "priced": 9,
+    "counts_by_pricing_class": {
+      "EXCEPTIONAL": 9
+    },
+    "red_base_statistics": {
+      "min": 17000,
+      "median": 17000,
+      "max": 17000
+    },
+    "fixed_class_anchors": {
+      "FOUNDATIONAL": 1700,
+      "COMMON_SPECIALIZATION": 3100,
+      "ADVANCED": 5700,
+      "POWERFUL": 11000,
+      "EXCEPTIONAL": 17000
+    },
+    "arithmetic": "sequential decimal ROUND_HALF_UP",
+    "non_price_fields_including_classes_preserved": true,
+    "csv_json_jsonl_mirrors": "PASS",
+    "baseline_commit": "74d0bbeda7503110f9701edb8755400e34e45946",
+    "result": "PASS"
+  }
 }

@@ -26,6 +26,8 @@ Exact post-Violet-W2 rank dates remain OPEN pending final ledger.
 
 All list prices and existing compressed Prime gates remain. Prequalification Persistent Coherence is full-price; after accepted White Legacy, approved package purchases/ranks pay 55% under HALF_UP. Prerequisite availability, affordability and chosen purchase timing are separate.
 
-## Checkpoint 16 author progression ledger
+## Author progression ledger — costs recalculated at Checkpoint 18
 
-The [17-event cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) and [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) add exact transaction costs and cumulative progression expenditure to the existing locked milestones. All dates remain unchanged. Final cumulative progression spend at Violet W2 D2 is **130,261 credits**. This is expenditure, not bank balance or gross earnings; discretionary spending remains outside the ledger. It supplies minimum progression-capital breakpoints for future authored content, without assigning later rank dates.
+The [17-event cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) and [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) add exact transaction costs and cumulative progression expenditure to the existing locked milestones. All dates remain unchanged. Final cumulative progression spend at Violet W2 D2 is **250,884 credits**. This is expenditure, not bank balance or gross earnings; discretionary spending remains outside the ledger. It supplies minimum progression-capital breakpoints for future authored content, without assigning later rank dates.
+
+[Checkpoint 18 combat calendar](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) governs the 59 supplied Red→O2D3 rows, retaining 21 NO REQUIRED COMBAT days and all milestone dates. Starter grant 2,000; illi combat income 52,695 through O2D2; PC Blue/Legacy leaves 952 at O1D4 and Absorption Red leaves 42 at O2D3. Discretionary spending and later income remain separate/OPEN.

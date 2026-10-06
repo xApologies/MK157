@@ -1,5 +1,7 @@
 > Source checkpoint 01. Authority: 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts; all non-conflicting detail accumulates. Read [supersessions](SUPERSESSIONS.md) before applying older statements. Valnak, illi, and domai spelling normalized; complete original preserved in provenance/checkpoint-04-package/live-model/.
 
+Checkpoint 18 scheduling correction: the [59-day combat scaffold](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) governs required combat and progression income. Earlier Day-One Solo/Day-Two double-Duo timestamps below are retained historical chronology, superseded where they conflict. Story events/relationships remain; exact displaced placement is OPEN. Do not add required paid combat to NO REQUIRED COMBAT rows.
+
 # Kira --- Affliction, evolution, transformation, design
 
 ## Before Valnak
@@ -419,12 +421,12 @@ Use deterministic whole-credit HALF_UP if a discounted price is fractional.
 
 Persistent Coherence R→Blue is paid at FULL PRICE because illi has not yet qualified/accepted the White Legacy.
 PT-0003 canonical ladder remains:
-700 / 1120 / 2016 / 4234 / 10585; cumulative 18,655.
-After Red is already paid, remaining O→Blue = 17,955.
+1700 / 2720 / 4896 / 10282 / 25705; cumulative 45,303 (Checkpoint 18).
+After Red is already paid, remaining O→Blue = 43,603.
 
 Blue Persistent Coherence unlocks White Legacy access.
 After acceptance:
-Absorption Shield Red list 10,000 → illi price 5,500.
+Absorption Shield Red list 17,000 → illi price 9,350 (Checkpoint 18).
 
 The 45% deduction applies to the accepted Legacy package, including later ranks and Prime purchases. It does not grant omitted prerequisite Bindings as usable abilities.
 
@@ -441,7 +443,7 @@ Genesis Beam GREEN → Genesis Prime RED
 Persistent Coherence GREEN → Coherence Prime RED
 Absorption Shield GREEN → Resonance Prime RED
 
-Prime ordinary Red base remains 10,000. White-Legacy price at Red = 5,500.
+Prime ordinary Red base is 17,000. White-Legacy price at Red = 9,350 (Checkpoint 18).
 
 ## 4. Kira + illi three carry regimes — LOCK narrative/economic model
 Phase I — Armor carries:

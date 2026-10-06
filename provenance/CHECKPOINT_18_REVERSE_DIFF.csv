@@ -1,0 +1,38 @@
+decision_id,topic,source_scope,prior_state,required_decision,source_action,prior_disposition,after_status,evidence
+18-01,Starter grant,MASTER_REVERSE_DIFF.csv,"~1,000","2,000",SUPERSEDE,SUPERSEDED,PRESENT,live-model/03_VALNEK_PATHS.md
+18-02,Pricing values,MASTER_REVERSE_DIFF.csv,CP12 bands/microprices,fixed class anchors 1700/3100/5700/11000/17000,SUPERSEDE VALUES; PRESERVE CLASSES,SUPERSEDED,PRESENT,bindings/PRICING_MODEL.md
+18-03,Rank multipliers,MASTER_REVERSE_DIFF.csv,1.6/1.8/2.1/2.5/3/4,unchanged,PRESERVE,PRESENT,PRESENT,bindings/PRICING_CLASS_MATRIX.json
+18-04,Trial rewards,MASTER_REVERSE_DIFF.csv,"53,910 total","26,955 total",SUPERSEDE,SUPERSEDED,PRESENT,trial-rewards/TRIAL_WAVE_CREDITS.csv
+18-05,Dungeon rewards,MASTER_REVERSE_DIFF.csv,CP17,50% recalibrated,SUPERSEDE,SUPERSEDED,PRESENT,combat-rewards/DUNGEON_REWARDS.csv
+18-06,Raid rewards,MASTER_REVERSE_DIFF.csv,CP17,50% recalibrated,SUPERSEDE,SUPERSEDED,PRESENT,combat-rewards/RAID_BOSS_REWARDS.csv
+18-07,Hard multiplier,MASTER_REVERSE_DIFF.csv,1.5×,1.5×,PRESERVE,PRESENT,PRESENT,combat-rewards/AUDIT.json
+18-08,domai formula,MASTER_REVERSE_DIFF.csv,OPEN,OPEN; not halved,PRESERVE,PRESENT,OPEN,live-model/DOMAI_PARTICIPATION.md
+18-09,domai eligibility,MASTER_REVERSE_DIFF.csv,not exact,7 days from first validated kill,ADD,MISSING,PRESENT,combat-rewards/DOMAI_PARTICIPATION_RULES.json
+18-10,domai recovery,MASTER_REVERSE_DIFF.csv,not exact,1-day exit/death lock,ADD,MISSING,PRESENT,combat-rewards/DOMAI_PARTICIPATION_RULES.json
+18-11,domai death penalty,MASTER_REVERSE_DIFF.csv,not exact,0.8^deaths,ADD,MISSING,PRESENT,combat-rewards/DOMAI_PARTICIPATION_RULES.json
+18-12,aithren/vaelum,MASTER_REVERSE_DIFF.csv,partial,inherit current MK147 doctrine,ADD/NORMALIZE,MISSING,PRESENT,live-model/AITHREN_VAELUM_ACCORD.md
+18-13,Red combat calendar,MASTER_REVERSE_DIFF.csv,absent,59-row R→O2D3 scaffold,ADD,MISSING,PRESENT,world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md
+18-14,illi milestone dates,MASTER_REVERSE_DIFF.csv,17 locked,unchanged,PRESERVE,PRESENT,PRESENT,world-clock/ILLI_PROGRESSION_SKELETON.csv
+18-15,illi costs,MASTER_REVERSE_DIFF.csv,old ledger,recompute,SUPERSEDE COSTS ONLY,SUPERSEDED,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv
+18-16,Semantic classes/non-price data,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,PRESENT,Preserve all classes and non-price fields; no reclassification,RECONCILE/PRESERVE,PRESENT,PRESENT,economy/AUDIT.json
+18-17,Kira Black gates,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,OPEN,Armor ~1000 separate; other four final prices remain OPEN,RECONCILE/PRESERVE,OPEN,OPEN,bindings/PRICING_MODEL.md
+18-18,PC/White-Legacy arithmetic,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,PRESENT,"PC45303 full price; accepted package 55% HALF_UP, Absorption9350",RECONCILE/PRESERVE,PRESENT,PRESENT,economy/AUDIT.json
+18-19,Node active domai recruiting,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,MISSING,"Panel, formations/rosters, acceptance using authenticated dossier/standings/Bindings/accomplishments",RECONCILE/PRESERVE,MISSING,PRESENT,live-model/DOMAI_PARTICIPATION.md
+18-20,Node exact UI/rating/matchmaking,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,OPEN,No invented scoring or gear score,RECONCILE/PRESERVE,OPEN,OPEN,live-model/OPEN.md
+18-21,Institutional exact implementation and tax rates,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,OPEN,Governance/boards/arbitration/reputation/tax details remain OPEN,RECONCILE/PRESERVE,OPEN,OPEN,live-model/AITHREN_VAELUM_ACCORD.md
+18-22,Excluded upstream transfers,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,PRESENT,No old guild-ELN/travel/Heart/Chimera or other excluded systems,RECONCILE/PRESERVE,PRESENT,PRESENT,live-model/SOURCE_BOUNDARIES.md
+18-23,Negative space,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,MISSING,All21 NO REQUIRED COMBAT rows preserved byte-for-byte in source calendar,RECONCILE/PRESERVE,MISSING,PRESENT,world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv
+18-24,Raid groups and repeat reward,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,MISSING,R3D2 Redclear Orangefails; R6D6 same Redrepeat0 Orangeclear; seasonal reset,RECONCILE/PRESERVE,MISSING,PRESENT,world-clock/CALENDAR_AUDIT.json
+18-25,domai calendar excursion,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,MISSING,"R5D1-2 participation, R5D3 mandatory recovery, no conquest payout",RECONCILE/PRESERVE,MISSING,PRESENT,world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv
+18-26,Calendar liquidity,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,MISSING,52695 earned; PCBlue/Legacy952; Absorption42; never negative,RECONCILE/PRESERVE,MISSING,PRESENT,world-clock/CALENDAR_AUDIT.json
+18-27,Kira-only/discretionary income separation,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,PRESENT,Kira Solo adds zero to illi; discretionary spending separate,RECONCILE/PRESERVE,PRESENT,PRESENT,world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md
+18-28,Earlier mandatory opening combat timing,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,PRESENT,"New CP18 schedule governs conflicts; story beats retained, exact displaced placement OPEN",RECONCILE/PRESERVE,PRESENT,SUPERSEDED,provenance/CHECKPOINT_18_CONFLICTS.md
+18-29,Red-season group ecology and outliers,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,MISSING,"Red/Orange group workhorses, Yellow scarce/underprepared; Kira/illi repeatable Yellow Duo",RECONCILE/PRESERVE,MISSING,PRESENT,live-model/COMBAT_ECOLOGY.md
+18-30,Early ceilings,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,WORKING-ILLUSTRATIVE,Solo/Duo Yellow W8-10; Trio inefficient potentially mid-Orange; not final standings,RECONCILE/PRESERVE,WORKING-ILLUSTRATIVE,WORKING-ILLUSTRATIVE,world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md
+18-31,Kira failure mode and illi Solo,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,MISSING,"Population/spatial saturation without mass clear; illi rare weak Solo, two experiments",RECONCILE/PRESERVE,MISSING,PRESENT,live-model/COMBAT_ECOLOGY.md
+18-32,Optional failed Yellow Dungeons,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,MISSING,Available on OPEN days; no mandatory completion income,RECONCILE/PRESERVE,MISSING,PRESENT,world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md
+18-33,Grinding reputation and narrative purpose,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,MISSING,"Repeated combat/death exposure; marathon pacing, social groups, failures/recovery and psychological cost",RECONCILE/PRESERVE,MISSING,PRESENT,live-model/PARTNERSHIP_AND_CARRY.md
+18-34,Green Solo sandbox graduation,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,PRESENT,Early first-cycle graduation/veteran grouping unchanged,RECONCILE/PRESERVE,PRESENT,PRESENT,live-model/03_VALNEK_PATHS.md
+18-35,Atomic/areas/Trial ecology/Raid attrition,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,PRESENT,209 max4 noWhite; areas unchanged; timing/population/eligibility/Expedition rules preserved,RECONCILE/PRESERVE,PRESENT,PRESENT,builder/encounters/eldris/AUDIT.json
+18-36,World Clock/social/Project Princess Carry/outside ontology,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,PRESENT,"49weeks/37teams, social fields, carry sections and outside domai protected",RECONCILE/PRESERVE,PRESENT,PRESENT,provenance/CHECKPOINT_18_AUDIT.json
+18-37,Other OPENs and late dates,MASTER_LIVE_MODEL_DELTA.md / integration boundaries,OPEN,"W36+, final standings, later rank dates, exact scoring/bonuses/populations/physiology/calendar conflicts",RECONCILE/PRESERVE,OPEN,OPEN,live-model/OPEN.md

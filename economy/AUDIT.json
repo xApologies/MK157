@@ -1,0 +1,469 @@
+{
+  "checkpoint": 18,
+  "result": "PASS",
+  "errors": [],
+  "baseline_commit": "74d0bbeda7503110f9701edb8755400e34e45946",
+  "pricing_matrix": {
+    "FOUNDATIONAL": {
+      "Red": 1700,
+      "Orange": 2720,
+      "Yellow": 4896,
+      "Green": 10282,
+      "Blue": 25705,
+      "Violet": 77115,
+      "White": 308460
+    },
+    "COMMON_SPECIALIZATION": {
+      "Red": 3100,
+      "Orange": 4960,
+      "Yellow": 8928,
+      "Green": 18749,
+      "Blue": 46873,
+      "Violet": 140619,
+      "White": 562476
+    },
+    "ADVANCED": {
+      "Red": 5700,
+      "Orange": 9120,
+      "Yellow": 16416,
+      "Green": 34474,
+      "Blue": 86185,
+      "Violet": 258555,
+      "White": 1034220
+    },
+    "POWERFUL": {
+      "Red": 11000,
+      "Orange": 17600,
+      "Yellow": 31680,
+      "Green": 66528,
+      "Blue": 166320,
+      "Violet": 498960,
+      "White": 1995840
+    },
+    "EXCEPTIONAL": {
+      "Red": 17000,
+      "Orange": 27200,
+      "Yellow": 48960,
+      "Green": 102816,
+      "Blue": 257040,
+      "Violet": 771120,
+      "White": 3084480
+    }
+  },
+  "pricing": {
+    "bindings/BINDINGS": {
+      "checkpoint": 18,
+      "records": 1016,
+      "priced": 1016,
+      "counts_by_pricing_class": {
+        "ADVANCED": 308,
+        "COMMON_SPECIALIZATION": 487,
+        "EXCEPTIONAL": 2,
+        "FOUNDATIONAL": 110,
+        "POWERFUL": 109
+      },
+      "red_base_statistics": {
+        "min": 1700,
+        "median": 3100.0,
+        "max": 17000
+      },
+      "fixed_class_anchors": {
+        "FOUNDATIONAL": 1700,
+        "COMMON_SPECIALIZATION": 3100,
+        "ADVANCED": 5700,
+        "POWERFUL": 11000,
+        "EXCEPTIONAL": 17000
+      },
+      "arithmetic": "sequential decimal ROUND_HALF_UP",
+      "non_price_fields_including_classes_preserved": true,
+      "csv_json_jsonl_mirrors": "PASS",
+      "baseline_commit": "74d0bbeda7503110f9701edb8755400e34e45946",
+      "result": "PASS"
+    },
+    "summons/SUMMON_PRICING": {
+      "checkpoint": 18,
+      "records": 229,
+      "priced": 229,
+      "counts_by_pricing_class": {
+        "ADVANCED": 74,
+        "COMMON_SPECIALIZATION": 69,
+        "EXCEPTIONAL": 9,
+        "FOUNDATIONAL": 18,
+        "POWERFUL": 59
+      },
+      "red_base_statistics": {
+        "min": 1700,
+        "median": 5700,
+        "max": 17000
+      },
+      "fixed_class_anchors": {
+        "FOUNDATIONAL": 1700,
+        "COMMON_SPECIALIZATION": 3100,
+        "ADVANCED": 5700,
+        "POWERFUL": 11000,
+        "EXCEPTIONAL": 17000
+      },
+      "arithmetic": "sequential decimal ROUND_HALF_UP",
+      "non_price_fields_including_classes_preserved": true,
+      "csv_json_jsonl_mirrors": "PASS",
+      "baseline_commit": "74d0bbeda7503110f9701edb8755400e34e45946",
+      "result": "PASS"
+    },
+    "summons/PRIME_ELEMENTAL_PRICING": {
+      "checkpoint": 18,
+      "records": 9,
+      "priced": 9,
+      "counts_by_pricing_class": {
+        "EXCEPTIONAL": 9
+      },
+      "red_base_statistics": {
+        "min": 17000,
+        "median": 17000,
+        "max": 17000
+      },
+      "fixed_class_anchors": {
+        "FOUNDATIONAL": 1700,
+        "COMMON_SPECIALIZATION": 3100,
+        "ADVANCED": 5700,
+        "POWERFUL": 11000,
+        "EXCEPTIONAL": 17000
+      },
+      "arithmetic": "sequential decimal ROUND_HALF_UP",
+      "non_price_fields_including_classes_preserved": true,
+      "csv_json_jsonl_mirrors": "PASS",
+      "baseline_commit": "74d0bbeda7503110f9701edb8755400e34e45946",
+      "result": "PASS"
+    }
+  },
+  "trial_total": 26955,
+  "trial_rows": 35,
+  "combat_rewards": {
+    "checkpoint": 18,
+    "result": "PASS",
+    "errors": [],
+    "reward_tables": {
+      "dungeons": {
+        "normal": {
+          "Red": 395,
+          "Orange": 1020,
+          "Yellow": 2305,
+          "Green": 4550,
+          "Blue": 7800,
+          "Violet": 13750,
+          "White": 34455
+        },
+        "hard": {
+          "Red": 593,
+          "Orange": 1530,
+          "Yellow": 3458,
+          "Green": 6825,
+          "Blue": 11700,
+          "Violet": 20625,
+          "White": 51683
+        }
+      },
+      "raids": {
+        "normal": {
+          "Red": 2500,
+          "Orange": 3750,
+          "Yellow": 5000,
+          "Green": 7500,
+          "Blue": 11250,
+          "Violet": 17500
+        },
+        "hard": {
+          "Red": 3750,
+          "Orange": 5625,
+          "Yellow": 7500,
+          "Green": 11250,
+          "Blue": 16875,
+          "Violet": 26250
+        }
+      }
+    },
+    "exact_multiplier_pairs_checked": 13,
+    "integer_arithmetic": "hard == (normal * 3 + 1) // 2 (positive whole-credit HALF_UP)",
+    "raid_one_boss_per_rank_totals": {
+      "normal": 47500,
+      "hard": 71250
+    },
+    "hard_and_normal_average_areas_mi2": {
+      "R": 5,
+      "O": 13,
+      "Y": 25,
+      "G": 53,
+      "B": 113,
+      "V": 285,
+      "W": 450
+    },
+    "domai_reward_formula": "OPEN BY DESIGN",
+    "checks": [
+      "exact supplied values",
+      "CSV schemas/rank order",
+      "integer JSON values and CSV mirrors",
+      "13 exact payout multiplications",
+      "Raid sums and total multiplier",
+      "Hard/Normal areas and rank permissions",
+      "unchanged atomic vocabulary constraints",
+      "OPEN BY DESIGN domai and contribution dimensions"
+    ],
+    "sha256": {
+      "DUNGEON_REWARDS.csv": "9ec5ec8bc647733127d0b6ee513af0e8563fd35630616e740757ab691e860419",
+      "RAID_BOSS_REWARDS.csv": "df6044fac5e0651eaf89adcef7f75a30cf9088afbf28b6085d98a227a51531a1",
+      "COMBAT_REWARD_TABLES.json": "e746deb0e4dec78578733906436329770e661f5efd88db46fb27e8a78ef64643",
+      "README.md": "1b06e70d27a2ffa6f61589b9c99d68a61e998ebd1d8e4a6b89e9a413b6c0fa1c",
+      "validate_rewards.py": "12086f480b159943608872ece3dbf739569cd12a299a023c3a8ce8c049fda999",
+      "builder/encounters/eldris/MANIFEST.json": "75f7c3f114b7001ea16044e3c99f3b693bf4271df542519cf40bbb98a284186f"
+    }
+  },
+  "illi_ledger": {
+    "rows": 17,
+    "total": 250884,
+    "dates_preserved": true,
+    "events": [
+      {
+        "season": "Red",
+        "week": 1,
+        "day": 1,
+        "purchase_or_upgrade": "Persistent Coherence → Red",
+        "cost": 1700,
+        "cumulative_progression_spend": 1700
+      },
+      {
+        "season": "Red",
+        "week": 2,
+        "day": 3,
+        "purchase_or_upgrade": "Persistent Coherence → Orange",
+        "cost": 2720,
+        "cumulative_progression_spend": 4420
+      },
+      {
+        "season": "Red",
+        "week": 4,
+        "day": 2,
+        "purchase_or_upgrade": "Persistent Coherence → Yellow",
+        "cost": 4896,
+        "cumulative_progression_spend": 9316
+      },
+      {
+        "season": "Red",
+        "week": 6,
+        "day": 4,
+        "purchase_or_upgrade": "Persistent Coherence → Green",
+        "cost": 10282,
+        "cumulative_progression_spend": 19598
+      },
+      {
+        "season": "Orange",
+        "week": 1,
+        "day": 4,
+        "purchase_or_upgrade": "Persistent Coherence → Blue",
+        "cost": 25705,
+        "cumulative_progression_spend": 45303
+      },
+      {
+        "season": "Orange",
+        "week": 1,
+        "day": 4,
+        "purchase_or_upgrade": "Accept White Legacy",
+        "cost": 0,
+        "cumulative_progression_spend": 45303
+      },
+      {
+        "season": "Orange",
+        "week": 2,
+        "day": 3,
+        "purchase_or_upgrade": "Absorption Shield → Red",
+        "cost": 9350,
+        "cumulative_progression_spend": 54653
+      },
+      {
+        "season": "Yellow",
+        "week": 1,
+        "day": 2,
+        "purchase_or_upgrade": "Genesis Beam → Red",
+        "cost": 6050,
+        "cumulative_progression_spend": 60703
+      },
+      {
+        "season": "Yellow",
+        "week": 2,
+        "day": 4,
+        "purchase_or_upgrade": "Genesis Beam → Orange",
+        "cost": 9680,
+        "cumulative_progression_spend": 70383
+      },
+      {
+        "season": "Yellow",
+        "week": 3,
+        "day": 5,
+        "purchase_or_upgrade": "Genesis Beam → Yellow",
+        "cost": 17424,
+        "cumulative_progression_spend": 87807
+      },
+      {
+        "season": "Yellow",
+        "week": 5,
+        "day": 2,
+        "purchase_or_upgrade": "Genesis Beam → Green",
+        "cost": 36590,
+        "cumulative_progression_spend": 124397
+      },
+      {
+        "season": "Yellow",
+        "week": 6,
+        "day": 3,
+        "purchase_or_upgrade": "Genesis Prime → Red",
+        "cost": 9350,
+        "cumulative_progression_spend": 133747
+      },
+      {
+        "season": "Green",
+        "week": 6,
+        "day": 2,
+        "purchase_or_upgrade": "Coherence Prime → Red",
+        "cost": 9350,
+        "cumulative_progression_spend": 143097
+      },
+      {
+        "season": "Green",
+        "week": 6,
+        "day": 4,
+        "purchase_or_upgrade": "Absorption Shield → Orange",
+        "cost": 14960,
+        "cumulative_progression_spend": 158057
+      },
+      {
+        "season": "Green",
+        "week": 7,
+        "day": 2,
+        "purchase_or_upgrade": "Absorption Shield → Yellow",
+        "cost": 26928,
+        "cumulative_progression_spend": 184985
+      },
+      {
+        "season": "Violet",
+        "week": 1,
+        "day": 3,
+        "purchase_or_upgrade": "Absorption Shield → Green",
+        "cost": 56549,
+        "cumulative_progression_spend": 241534
+      },
+      {
+        "season": "Violet",
+        "week": 2,
+        "day": 2,
+        "purchase_or_upgrade": "Resonance Prime / Juggernaut → Red",
+        "cost": 9350,
+        "cumulative_progression_spend": 250884
+      }
+    ]
+  },
+  "calendar": {
+    "result": "PASS",
+    "rows": 59,
+    "starting_credits": 2000,
+    "gross_illi_credits": 52695,
+    "ending_balance": 42,
+    "minimum_daily_closing_balance": 42,
+    "negative_space_rows": 21,
+    "illi_solo_attempts": 2,
+    "purchase_gates": [
+      {
+        "season": "Red",
+        "week": 1,
+        "day": 1,
+        "purchase": "Persistent Coherence → Red",
+        "balance_before": 2000,
+        "cost": 1700,
+        "balance_after": 300
+      },
+      {
+        "season": "Red",
+        "week": 2,
+        "day": 3,
+        "purchase": "Persistent Coherence → Orange",
+        "balance_before": 3050,
+        "cost": 2720,
+        "balance_after": 330
+      },
+      {
+        "season": "Red",
+        "week": 4,
+        "day": 2,
+        "purchase": "Persistent Coherence → Yellow",
+        "balance_before": 10875,
+        "cost": 4896,
+        "balance_after": 5979
+      },
+      {
+        "season": "Red",
+        "week": 6,
+        "day": 4,
+        "purchase": "Persistent Coherence → Green",
+        "balance_before": 17229,
+        "cost": 10282,
+        "balance_after": 6947
+      },
+      {
+        "season": "Orange",
+        "week": 1,
+        "day": 4,
+        "purchase": "Persistent Coherence → Blue / White Legacy qualifies",
+        "balance_before": 26657,
+        "cost": 25705,
+        "balance_after": 952
+      },
+      {
+        "season": "Orange",
+        "week": 2,
+        "day": 3,
+        "purchase": "Absorption Shield → Red (White Legacy 55%)",
+        "balance_before": 9392,
+        "cost": 9350,
+        "balance_after": 42
+      }
+    ],
+    "all_balances_nonnegative": true
+  },
+  "domai": {
+    "checkpoint": 18,
+    "reward_formula": "OPEN BY DESIGN",
+    "awards_halved": false,
+    "eligibility_starts": "first validated eldris kill",
+    "eligibility_days": 7,
+    "conquest_required_within_window": true,
+    "eligible_after_leaving": true,
+    "no_conquest_in_window": "no conquest contribution payout from that participation window",
+    "recovery_triggers": [
+      "voluntary exit",
+      "death"
+    ],
+    "recovery_full_days": 1,
+    "recovery_scope": "same domai",
+    "death_multiplier_per_death": 0.8,
+    "eventual_payout_rule": "validated contribution award * 0.8^deaths",
+    "core_break_bonus": "concept preserved; exact amount/formula OPEN",
+    "scoring_and_fractional_credit_rounding": "OPEN; no deterministic scoring formula supplied"
+  },
+  "sha256": {
+    "bindings/PRICING_CLASS_MATRIX.json": "45e01b4dff637c600c6f7be65b680538b174d2da5de09d3e20ecbe342892a6a0",
+    "bindings/BINDINGS.json": "79d02e7a0b8204359c2ad6cf0fc1898832132cbd6c4e2b5380baf9f20276b019",
+    "bindings/BINDINGS.csv": "caa71867ee138af97869e08ca2793b6777b4b9171cb86703c316ca92dd9bf089",
+    "bindings/BINDINGS.jsonl": "2c4bfa51be2dee47d0dc1e546ec480f085317470d367569e7eee67056c132f74",
+    "bindings/COMPENDIUM.md": "1f26b88fd9e726b4eb71295caf60e945aedb875c881625eca4accb7c8a4a7fa2",
+    "summons/SUMMON_PRICING.json": "53e1e1a181b2457c18de6040d5428e7e79822ed0ced51c8e1ede6618b20a1614",
+    "summons/SUMMON_PRICING.csv": "6dc434d2f57bd405a9656e40c33a20f58f50e4f75ef2926c4c748fb5281dab0f",
+    "summons/SUMMON_PRICING.jsonl": "4660378631559f58c701bceeb0b9803afe2738c3cdc5e79065cf2bd868fffc9d",
+    "summons/PRIME_ELEMENTAL_PRICING.json": "e467a45d78a52f86197497ec0f2d7898343dc9f3053e4d1e71f6c17fb8dc830c",
+    "summons/PRIME_ELEMENTAL_PRICING.csv": "66602689dbad2886f75e0bc9618b516a6d2d65719c9e0a05dd0ac614d786d598",
+    "trial-rewards/TRIAL_WAVE_CREDITS.csv": "53faa16faf4ff1f52cf63109b47d4b67317c837e8c8c23283d045dcb33941f5f",
+    "trial-rewards/TRIAL_WAVE_CREDITS.json": "d3139b9821d315c2d7e00c4e07838571cd654df14d8fe7f1be9b497b9169a7b0",
+    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv": "877d65bed4ed527aac5675e18e825e19b5e3ce29c56a77fd1c7361543b93c583",
+    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json": "f5e3100fe10a1df5f1bb894f0832fe6ba72d960d8b2a6f7d2acf9daf93bda60a",
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv": "b58dbb72de7af5d76101869c093af72b6a7197853ffc72bccb87c7f51df2c6a6",
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json": "b6ee0e4029f1ce1c9277f5fb5d2e2135fea52ee9be646bdef9041dc70672a2cb",
+    "combat-rewards/DOMAI_PARTICIPATION_RULES.json": "967a625f54b03c9f761ffbdc93c7a59d05c887c1dfa1c53bfd2b3368734d1735",
+    "economy/validate_economy.py": "523caadb5b2e28aa3d4a0e2199792f8a88295752c0744c5aee530cf163638253"
+  }
+}

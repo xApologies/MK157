@@ -1,0 +1,60 @@
+season,week,day,kira_combat,illi_combat,combat_event,result,illi_credits_earned,purchase,purchase_cost,illi_running_balance,duration_block,author_notes
+Red,1,1,OPEN / purchase-social,Purchase / no required combat,NO REQUIRED COMBAT,,0,Persistent Coherence → Red,1700,300,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,1,2,Duo Trial,Duo Trial,Duo Trial W5,Clear through W5,565,,0,865,~3 h,Early shared progression.
+Red,1,3,Solo Trial W8,OPEN / social-rest,Kira Solo Trial,Kira Yellow push,0,,0,865,~7 h,Kira-only income excluded from illi ledger.
+Red,1,4,Red Dungeon,Red Dungeon,Red Dungeon,Clear,395,,0,1260,1–2 h,First small-group Dungeon day.
+Red,1,5,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,1260,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,1,6,Duo Trial,Duo Trial,Duo Trial W7,Clear through W7,1000,,0,2260,~5.5 h,Shared progression.
+Red,1,7,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,2260,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,2,1,Red Dungeons ×2,Red Dungeons ×2,Red Dungeon ×2,2 clears,790,,0,3050,~3 h combat,Same/compatible group can chain two short runs.
+Red,2,2,Solo Trial W9,OPEN / social-rest,Kira Solo Trial,Kira push,0,,0,3050,~8.5 h,Kira-only income excluded.
+Red,2,3,OPEN / purchase-social,Purchase / no required combat,NO REQUIRED COMBAT,,0,Persistent Coherence → Orange,2720,330,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,2,4,Orange Dungeon,Orange Dungeon,Orange Dungeon,Clear,1020,,0,1350,3–5 h,First Orange clear.
+Red,2,5,OPEN / rest,Solo Trial W2,illi Solo Trial W2,"Clear W2, poor Solo fit",140,,0,1490,~1 h,One of only two meaningful illi Solo experiments.
+Red,2,6,Duo Trial,Duo Trial,Duo Trial W8,Clear into Yellow,1275,,0,2765,~7 h,Yellow Duo breakthrough.
+Red,2,7,Orange Dungeons ×2,Orange Dungeons ×2,Orange Dungeon ×2,2 clears,2040,,0,4805,~6–10 h,Recurring-group/social-development day.
+Red,3,1,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,4805,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,3,2,Normal Raid,Normal Raid,Raid group #1: Red boss → Orange attempts,Red cleared; Orange fails,2500,,0,7305,most of day,Red major reward earned. Multiple Orange attempts fail.
+Red,3,3,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,7305,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,3,4,Solo Trial W9,OPEN / social-rest,Kira Solo Trial,Kira grind,0,,0,7305,~8.5 h,illi has no shared combat obligation.
+Red,3,5,Orange Dungeons ×2,Orange Dungeons ×2,Orange Dungeon ×2,2 clears,2040,,0,9345,~6–10 h,Build recurring social group.
+Red,3,6,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,9345,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,3,7,Duo Trial,Duo Trial,Duo Trial W8,Clear through W8,1275,,0,10620,~7 h,Reliable shared income.
+Red,4,1,OPEN / rest,Solo Trial W3,illi Solo Trial W3,Clear W3; caps early,255,,0,10875,~1.5 h,Second/final early Solo experiment; confirms Duo is better.
+Red,4,2,OPEN / purchase-social,Purchase / no required combat,NO REQUIRED COMBAT,,0,Persistent Coherence → Yellow,4896,5979,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,4,3,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,5979,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,4,4,Orange Dungeons ×2,Orange Dungeons ×2,Orange Dungeon ×2,2 clears,2040,,0,8019,~6–10 h,Group day.
+Red,4,5,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,8019,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,4,6,Solo Trial W10,OPEN / social-rest,Kira Solo Trial,Kira Yellow grind,0,,0,8019,~10 h,Kira background obsession.
+Red,4,7,Duo Trial,Duo Trial,Duo Trial W9,Clear through W9,1590,,0,9609,~8.5 h,Deeper Yellow Duo.
+Red,5,1,domai incursion,domai incursion,domai excursion — active day 1,Participate; eligibility begins,0,,0,9609,full operational day,First validated kill starts 7-day contribution window.
+Red,5,2,domai incursion,domai incursion,domai excursion — active day 2,Fatigue out / exit,0,,0,9609,full operational day,Large-scale warfare exposure.
+Red,5,3,Suspended recovery,Suspended recovery,domai recovery lock,Cannot re-enter this domai,0,,0,9609,full day,Mandatory one-day lockout after exit.
+Red,5,4,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,9609,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,5,5,Orange Dungeons ×2,Orange Dungeons ×2,Orange Dungeon ×2,2 clears,2040,,0,11649,~6–10 h,Return to small-group content.
+Red,5,6,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,11649,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,5,7,Duo Trial,Duo Trial,Duo Trial W9,Clear through W9,1590,,0,13239,~8.5 h,domai not conquered by eligibility expiry; payout = 0.
+Red,6,1,Orange Dungeons ×2,Orange Dungeons ×2,Orange Dungeon ×2,2 clears,2040,,0,15279,~6–10 h,Progression group day.
+Red,6,2,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,15279,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,6,3,Duo Trial,Duo Trial,Duo Trial W10,Clear through W10,1950,,0,17229,~10 h,Current Red-season shared ceiling neighborhood.
+Red,6,4,OPEN / purchase-social,Purchase / no required combat,NO REQUIRED COMBAT,,0,Persistent Coherence → Green,10282,6947,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,6,5,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,6947,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,6,6,Normal Raid,Normal Raid,Raid group #2: Red repeat → Orange boss,Red repeat no major reward; Orange cleared,3750,,0,10697,most of day,Second group succeeds where first failed.
+Red,6,7,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,10697,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,7,1,Orange Dungeons ×2,Orange Dungeons ×2,Orange Dungeon ×2,2 clears,2040,,0,12737,~6–10 h,Late-season group day.
+Red,7,2,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,12737,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,7,3,Duo Trial,Duo Trial,Duo Trial W10,Clear through W10,1950,,0,14687,~10 h,Shared grind.
+Red,7,4,Orange Dungeons ×2,Orange Dungeons ×2,Orange Dungeon ×2,2 clears,2040,,0,16727,~6–10 h,Late-season group day.
+Red,7,5,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,16727,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Red,7,6,Duo Trial,Duo Trial,Duo Trial W10,Clear through W10,1950,,0,18677,~10 h,Shared grind.
+Red,7,7,Orange Dungeons ×2,Orange Dungeons ×2,Orange Dungeon ×2,2 clears,2040,,0,20717,~6–10 h,Final Red-season accumulation.
+Orange,1,1,Duo Trial,Duo Trial,Duo Trial W10,Clear through W10,1950,,0,22667,~10 h,Early Orange final push toward PC Blue.
+Orange,1,2,Orange Dungeons ×2,Orange Dungeons ×2,Orange Dungeon ×2,2 clears,2040,,0,24707,~6–10 h,Group day.
+Orange,1,3,Duo Trial,Duo Trial,Duo Trial W10,Clear through W10,1950,,0,26657,~10 h,Final income before PC Blue gate.
+Orange,1,4,OPEN / purchase-social,Purchase / no required combat,NO REQUIRED COMBAT,,0,Persistent Coherence → Blue / White Legacy qualifies,25705,952,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Orange,1,5,OPEN / recovery-social,OPEN / recovery-social,NO REQUIRED COMBAT,,0,,0,952,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+Orange,1,6,Normal Raid,Normal Raid,New-season Red Raid boss,Clear,2500,,0,3452,~half–full day,Season reset permits new Red major reward.
+Orange,1,7,Duo Trial,Duo Trial,Duo Trial W10,Clear through W10,1950,,0,5402,~10 h,Post-Legacy accumulation.
+Orange,2,1,Orange Dungeons ×2,Orange Dungeons ×2,Orange Dungeon ×2,2 clears,2040,,0,7442,~6–10 h,Group day.
+Orange,2,2,Duo Trial,Duo Trial,Duo Trial W10,Clear through W10,1950,,0,9392,~10 h,Final income before Absorption purchase.
+Orange,2,3,OPEN / purchase-social,Purchase / no required combat,NO REQUIRED COMBAT,,0,Absorption Shield → Red (White Legacy 55%),9350,42,,"Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."

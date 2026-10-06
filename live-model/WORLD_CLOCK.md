@@ -1,5 +1,7 @@
 # MK157 — WORLD CLOCK
 
+Checkpoint 18 scheduling correction: the [59-day combat scaffold](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) governs required combat and progression income. Earlier Day-One Solo/Day-Two double-Duo timestamps below are retained historical chronology, superseded where they conflict. Story events/relationships remain; exact displaced placement is OPEN. Do not add required paid combat to NO REQUIRED COMBAT rows.
+
 Status: LIVE AUTHORING SYSTEM.
 
 ## Purpose
@@ -173,7 +175,7 @@ Deep Duo/Trio attempts similarly consume major calendar blocks.
 
 This is foundational for the forthcoming Valnak Calendar / World Clock + Kira + illi scheduling work.
 
-One planetary day is 31 hours. The central W1–35 estimate (~156 h) converts to 5 days + 1 hour; Kira's mature-blender ~4-day estimate is WORKING. [Calendar reconciliation](PLANETARY_CALENDAR.md) leaves month totals and planetary/Valnak week conversion OPEN. Existing 49-week and 37-team CSVs remain unchanged; this delta schedules no new events.
+One planetary day is 31 hours. The central W1–35 estimate (~156 h) converts to 5 days + 1 hour; Kira's mature-blender ~4-day estimate is WORKING. [Calendar reconciliation](PLANETARY_CALENDAR.md) leaves month totals and planetary/Valnak week conversion OPEN. The Checkpoint 10 pass left the 49-week and 37-team CSVs unchanged. Checkpoint 18 now adds the separate combat scaffold and updates only Red W1 character summaries; standing social tracks and team placeholders remain unchanged.
 
 ## Checkpoint 11 governing standing schedule
 
@@ -240,10 +242,12 @@ Top 16 qualify; 16 -> 8 -> 4 -> 2 -> Champion.
 
 This schedule supersedes earlier OPEN highlight time and playoff-week placement. It does not populate team names or purchase dates. [Economy and simulation handoff](ECONOMY_PURCHASE_SCHEDULE.md). Multi-day Trial blocks from Checkpoint 10 remain governing.
 
-Checkpoint 14 locks W1–35 total at 53,910; W36+ payout remains OPEN. The 17-event illi skeleton supplies dated milestones through Violet W2 D2; later ranks remain undated. Standing social/sport events remain unchanged.
+Checkpoint 18 recalibrates W1–35 total to 26,955; W36+ payout remains OPEN. The 17-event illi skeleton supplies dated milestones through Violet W2 D2; later ranks remain undated. Standing social/sport events remain unchanged.
 
 Current [illi schedule](ILLI_PROGRESSION.md) follows prerequisite-first development. Independent Solo/cohort activity and Project Princess Carry shape the character clocks without adding fabricated daily events.
 
 ## Checkpoint 16 calendar handoff
 
-The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 130,261 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. No new daily encounters are scheduled by this pass; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged.
+The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 250,884 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. Checkpoint 18 now supplies the separate 59-day combat scaffold; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged.
+
+[Checkpoint 18 combat calendar](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) governs the 59 supplied Red→O2D3 rows, retaining 21 NO REQUIRED COMBAT days and all milestone dates. Starter grant 2,000; illi combat income 52,695 through O2D2; PC Blue/Legacy leaves 952 at O1D4 and Absorption Red leaves 42 at O2D3. Discretionary spending and later income remain separate/OPEN.

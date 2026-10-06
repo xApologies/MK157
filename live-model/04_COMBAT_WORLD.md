@@ -488,7 +488,7 @@ Repeat kills are legal for assistance/practice/social play but do not repeat the
 
 At season transition, raid eligibility/reward state resets and Elara can provide a new encounter roster.
 
-The [Checkpoint 17 Raid rank table](../combat-rewards/README.md#raid-major-boss-rewards) locks Normal major-boss payouts and exact 1.5× Expedition/Hard payouts. One boss at each R→V rank totals **95,000 Normal / 142,500 Expedition**. These totals do not replace the existing R/R/O/O/Y/G First-Cycle standalone roster or promise every participant a full-roster payout. Eligibility remains per boss, not a shared same-rank allowance.
+The [Checkpoint 18 Raid rank table](../combat-rewards/README.md#raid-major-boss-rewards) locks Normal major-boss payouts and 1.5× Expedition/Hard payouts rounded HALF_UP. One boss at each R→V rank totals **47,500 Normal / 71,250 Expedition**. These totals do not replace the existing R/R/O/O/Y/G First-Cycle standalone roster or promise every participant a full-roster payout. Eligibility remains per boss, not a shared same-rank allowance.
 
 # 40. `domai` — outside-world inheritance
 
@@ -535,7 +535,7 @@ a Red incursion only has Red; Yellow can use Red/Orange/Yellow; Violet can use a
 
 Participation can involve:
 - military units/commands;
-- guilds;
+- vaelum;
 - noble houses;
 - large collaborative assault groups;
 - cross-organization coordination.
@@ -635,7 +635,7 @@ Mature blender scenes may include Kira and illi remaining near the Central Basin
 
 ## Exact Trial reward schedule
 
-Checkpoint 14 now locks the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 53,910 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 is a rounded target; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
+Checkpoint 18 recalibrates the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 26,955 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 and Checkpoint 14's 53,910 are historical pre-recalibration values; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
 
 ## 7. Mechanics-language sanitation — LOCK
 MK157 must not contain game-only mechanics that lack an in-world mechanism.
@@ -665,4 +665,12 @@ The [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) and [author scale](../builder/
 
 Dungeon populations are pre-populated. Readable entry→progression→endpoint maps with limited/reconnecting branches are author guidance; avoid excessive dead-end backtracking that changes runtime. Exploratory Deep Caverns/failed Yellow+ renders remain NONCANON and are not imported.
 
-Reliable clears should generally outperform equivalent Trial farming, with failure/procedural/coordination risk preserving Trial value. White Normal successful-completion base is **68,910 = 53,910 + 15,000 credits**. Checkpoint 17 locks the [Normal/Hard Dungeon completion and Raid major-boss tables](../combat-rewards/README.md). Unsupplied Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN; Valnak domai awards remain contextual and OPEN BY DESIGN. No additional distribution or bonus rules are inferred.
+Reliable clears should generally outperform equivalent Trial farming, with failure/procedural/coordination risk preserving Trial value. White Normal successful-completion base is **34,455 = 26,955 + 7,500 credits**. Checkpoint 18 recalibrates the [Normal/Hard Dungeon completion and Raid major-boss tables](../combat-rewards/README.md). Unsupplied Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN; Valnak domai awards remain contextual and OPEN BY DESIGN. No additional distribution or bonus rules are inferred.
+
+## Checkpoint 18 domai and first-cycle direction
+
+[Valnak domai participation](DOMAI_PARTICIPATION.md): awards remain OPEN BY DESIGN and are not halved. First validated kill starts a 7-day eligibility window; conquest within it pays contextual contribution even after departure. No conquest within it means no conquest contribution payout from that window. Voluntary exit or death locks the participant out of that domai for one full day. Death multiplies eventual payout cumulatively by 0.8^deaths. Exact validated scoring/core-break amount remains OPEN. Node recruiting uses active domai panels, formations/rosters and authenticated dossier facts; exact UI/rating/matchmaking remains OPEN.
+
+Red Season cohort combat is overwhelmingly Red/Orange; Yellow Dungeon groups are scarce and generally underprepared. Kira/illi are outliers with repeatable Yellow Duo Trial capability. Kira's early limit is population/spatial saturation despite high melee throughput and no mass-clear/area-control architecture. WORKING ceilings are Solo/Duo Yellow roughly W8–10 and inefficient Trio potentially mid-Orange. illi rarely experiments with Solo. Green Solo still grants early sandbox graduation/veteran grouping.
+
+The [59-day calendar](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) protects negative space, repeat Orange Dungeon group formation, the two Red-season Raid groups and a no-payout domai excursion/recovery. Optional failed Yellow attempts remain available on OPEN days without required completion income. Kira/illi gain a persistent-grinder reputation; Valnak remains a marathon. Resurrection removes permanent death, not psychological cost. [aithren/vaelum/Accord](AITHREN_VAELUM_ACCORD.md) supplies institutional context with exclusions intact.
