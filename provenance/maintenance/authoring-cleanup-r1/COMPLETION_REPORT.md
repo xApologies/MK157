@@ -5,9 +5,9 @@
 - Observed packet and execution baseline: `3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31`.
 - Baseline tree: `d2e80f13b3ea6a3e7a41754acb7897c9b479f29d`.
 - Branch: `maintenance/authoring-cleanup-r1`.
-- Cleanup commit and push: pending commit/publication after the passing candidate audit. [Delivery evidence](DELIVERY.json) records actual publication when completed. No merge or PR has been made.
-- Main is unchanged at the execution baseline; origin/main matched after preflight fetch. No baseline drift was found.
-- Overall result: implementation and validation COMPLETE locally; commit and publication pending. This record is updated when those actions actually finish.
+- Cleanup implementation commit: `a8c5aa560790673a5e441bbf34ea982a071abb9f`. Pushed to `origin/maintenance/authoring-cleanup-r1`; a subsequent fetch confirmed identical local and remote SHAs. [Delivery evidence](DELIVERY.json) records the verified push. This report is completed in a follow-up documentation commit; Git owns the final branch HEAD. No merge or PR has been made.
+- Main is unchanged at the execution baseline; local main and fetched origin/main still matched after publication. No baseline drift was found.
+- Overall result: COMPLETE — implemented, validated, committed and published on the maintenance branch; not merged into main.
 
 ## Implemented surfaces
 

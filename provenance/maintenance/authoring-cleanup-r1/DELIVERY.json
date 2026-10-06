@@ -1,8 +1,8 @@
 {
   "source_commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
   "branch": "maintenance/authoring-cleanup-r1",
-  "implementation_commit": null,
-  "push_state": "not yet pushed",
+  "implementation_commit": "a8c5aa560790673a5e441bbf34ea982a071abb9f",
+  "push_state": "implementation pushed and verified by subsequent origin fetch",
   "main_changed": false,
   "merge_performed": false,
   "pull_request": null,
@@ -106,5 +106,18 @@
     "A\tupstream/HISTORICAL_INDEX.md",
     "A\tupstream/INHERITANCE.md",
     "A\tupstream/SOURCE_PINS.json"
-  ]
+  ],
+  "verified_local_implementation_head": "a8c5aa560790673a5e441bbf34ea982a071abb9f",
+  "verified_origin_branch_head": "a8c5aa560790673a5e441bbf34ea982a071abb9f",
+  "main_after_push": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "origin_main_after_push": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "implementation_worktree_clean_after_push": true,
+  "upstream": "origin/maintenance/authoring-cleanup-r1",
+  "verification_commands": [
+    "git push --set-upstream origin maintenance/authoring-cleanup-r1",
+    "git fetch origin",
+    "git rev-parse HEAD origin/maintenance/authoring-cleanup-r1 main origin/main",
+    "git status --porcelain=v1 --untracked-files=all"
+  ],
+  "receipt_note": "This publication record is a follow-up documentation commit. The implementation SHA above is immutable evidence; the final branch HEAD is obtained from Git and separately verified after pushing this receipt. No self-referential commit hash is fabricated."
 }
