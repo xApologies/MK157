@@ -5,7 +5,7 @@ Checkpoint 18 scheduling correction: the [59-day combat scaffold](../world-clock
 ## Kira locked Black scaffold
 Entry/Red — Armor of the Abyss
 Early Orange — CSR
-Inside Arc Four — Genesis Orbs; exact date OPEN, not Y1D2 (Checkpoint 20)
+Late Yellow inside Arc Four — Genesis Orbs; exact day OPEN, not Y1D2 (Checkpoint 21)
 Early Blue — Halo
 Late Violet — Domain
 
@@ -292,7 +292,7 @@ Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit gene
 Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
-Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery.
+Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
 Around mid-Green, mature two-Orb blender is the major economic inversion.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
@@ -333,3 +333,61 @@ illi's Binding progression is the primary arc clock. Arc 1 closes PC Red/Armor; 
 After Beam Red's 6,050 is already paid, unchanged illi milestones are **Y2D4 Beam Orange 9,680; Y3D5 Beam Yellow 17,424; Y5D2 Beam Green 36,590; Y6D3 Genesis Prime Red 9,350**. Beam ranks total **63,694**, and Arc Four totals **73,044**. All 17 dates/costs remain; affordability does not force earlier purchase.
 
 The card is a loved collectible tied to Kira's childhood blacksmith/Fireball fascination. She previously prioritized CSR, now delightedly chooses this card, and rebuilds the Orb fund later. Its price is specific, not a universal Blue-card tier. Orange gross 83,915 alone is 2,085 below 86,000 only under zero-opening-funds/no-other-income/no-prior-spend assumptions. Full funding remains OPEN; no domai award, gift or extra run is invented. [Current handoff](../world-clock/ARC4_HANDOFF.md) and [social life](SOCIAL_LIFE_AND_FOUNDATIONS.md) separate narrative locks from unsupplied finances/dates.
+
+## Checkpoint 21 — Yellow scaffold
+
+The older preserved Black scaffold remains governing:
+- Entry/Red: Armor of the Abyss
+- Early Orange: CSR
+- **Late Yellow: Genesis Orbs**
+- **Early Blue: Halo**
+- **Late Violet: Domain**
+
+Checkpoint 20's weaker "Orbs anywhere inside Arc Four / seasonal placement OPEN" language is superseded. The **late-Yellow window is restored**. Exact day remains unresolved until deliberately fixed; do not place Orbs at Y1D2.
+Post-Armor Black acquisition price remains **61,017 each**.
+
+Arc Three closes at Y1D2 with illi Genesis Beam Red and Kira's specific 86,000-credit Blue Fireball Genesis Card.
+Arc Four runs from Y1D3 and closes at:
+**Y6D3 — illi Genesis Prime Elemental Red.**
+
+illi locked intermediate purchases remain:
+- Y2D4 Beam Orange 9,680
+- Y3D5 Beam Yellow 17,424
+- Y5D2 Beam Green 36,590
+- Y6D3 Genesis Prime Red 9,350
+
+Total Arc-Four progression after Beam Red = **73,044**.
+
+Integrate `ARC4_YELLOW_COMBAT_CALENDAR.csv/json` as the current author scaffold Y1D3→Y6D3.
+Key totals:
+- 5 shared W18 Duo Trial days;
+- 1 explicit Kira W18 Solo day;
+- 17 Orange Dungeon clears across 5 farm sessions;
+- 4 Yellow Dungeon attempts: 3 clears / 1 failure from Kira's perspective; illi participates in 2 clears;
+- 3 Normal Raid PUG attempts with escalating success;
+- 1 Hard Raid attempt: Hard Red clear / Hard Orange fail;
+- no scheduled domai;
+- explicit recovery/open days after major Trial/Raid pressure.
+
+Exact deterministic gross from this scaffold:
+- illi **64,725**
+- Kira **73,585**
+
+These are gross combat earnings, not final bank balances. Failed-Dungeon partial-progress credits, card spending, prior carry-in and any future contextual income remain OPEN.
+From a zero carry-in hypothetical only, illi would be 8,319 short of the 73,044 progression spend; this is NOT a canonical deficit because her carry-in/card cashflow is intentionally unresolved. Kira's scaffold gross exceeds the 61,017 Orb price before discretionary spending.
+
+Combat/progression skeleton first. Exact Tea Parties, Yellow Gala, Builder parties, deck nights, Genesis-card gatherings, abecca routines, royal-family scenes, Champion Table life and home/recovery prose can be overlaid recursively later.
+World Clock `raeon` tournament infrastructure remains authoritative. Y5D1 is reserved for qualification; Y5D6 is protected tournament availability, but exact Yellow-season personal elimination day remains OPEN.
+If a later personal bracket assignment conflicts with the Hard Raid date, move the Raid within available Arc-Four calendar space rather than overriding the tournament.
+
+Preserve illi's full 17-event projected calendar through Resonance Prime, including:
+- Y6D3 Genesis Prime Red;
+- G6D2 Coherence Prime Red;
+- G6D4 Absorption Orange;
+- G7D2 Absorption Yellow;
+- V1D3 Absorption Green;
+- V2D2 Resonance Prime/Juggernaut Red.
+
+Preserve Kira Halo Early Blue and Domain Late Violet seasonal scaffold.
+
+[Exact calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md); all 17 ledger entries remain byte-identical.

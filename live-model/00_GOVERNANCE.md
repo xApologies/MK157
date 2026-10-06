@@ -104,3 +104,5 @@ Checkpoint 18 fixes lowercase `aithren` (individual/cultural participation ident
 ## Checkpoint 20 lexical and scope rules
 
 Canonical coffee-equivalent: **abecca**, lowercase, **A-B-E-C-C-A**. During user development, shorthand “coffee” maps to abecca. [Social life/foundations](SOCIAL_LIFE_AND_FOUNDATIONS.md) provides conceptual culture; no patent statutes, royalty rates, transfer enforcement or social-event dates are inferred. The specific Blue Fireball card's 86,000 price is not a universal Blue-card rule or Binding price. [Arc boundaries](../world-clock/ARC4_HANDOFF.md) govern Kira/illi timing without filling OPEN days.
+
+Checkpoint 21 restores seasonal Black placement and supplies the Yellow combat scaffold. Exact Orb day remains OPEN. Its eldris source import is limited by [source boundaries](SOURCE_BOUNDARIES.md); all 17 illi dates/costs, atomic group IDs and non-conflicting prior authority remain. Gross combat income is not a final balance.

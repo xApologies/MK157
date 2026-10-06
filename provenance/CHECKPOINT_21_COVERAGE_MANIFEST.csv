@@ -1,0 +1,25 @@
+id,status,requirement,evidence,resolution
+CP21-01,OPEN exact Orb day; PRESENT seasonal lock,Kira Orbs seasonal placement,live-model/01_KIRA.md; world-clock/ARC4_HANDOFF.json,Late Yellow restored; exact day open
+CP21-02,PRESENT,Kira Halo,world-clock/ARC4_HANDOFF.json,Early Blue
+CP21-03,PRESENT,Kira Domain,world-clock/ARC4_HANDOFF.json,Late Violet
+CP21-04,PRESENT,Arc4 close,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json,unchanged
+CP21-05,PRESENT,Trial ceiling pre-Orb,live-model/COMBAT_THRESHOLDS.md; live-model/ELDRIS_REFERENCE.md,W18 clear / W19 Blue entry-fail
+CP21-06,PRESENT,Orange Dungeon,world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json,17 clears / 5 farm sessions
+CP21-07,PRESENT,Yellow Dungeon,world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json,"4 attempts; Kira 3 clears, illi 2 clears"
+CP21-08,PRESENT,Green Dungeon,live-model/COMBAT_ECOLOGY.md,none in current first-cycle scaffold
+CP21-09,PRESENT,Normal Raid,world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json,3 PUG attempts: fail R; clear R/fail O; repeat R/clear O
+CP21-10,PRESENT,Hard Raid,world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json,Hard R clear / Hard O fail
+CP21-11,PRESENT,domai,live-model/COMBAT_ECOLOGY.md; combat-rewards/DOMAI_PARTICIPATION_RULES.json,no required Arc4 event/payout
+CP21-12,PRESENT,ELDRIS behavior,live-model/ELDRIS_REFERENCE.md; provenance/checkpoint-21-package/source/MK147_MASTER_ELDRIS_LRS.pdf,import compatible supplied master behavior model
+CP21-13,PRESENT,illi future milestones,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json,unchanged through Resonance Prime
+CP21-14,PRESENT / OPEN as scoped,Specific Blue Fireball card,world-clock/ARC4_HANDOFF.json,"Only this card, not universal Blue price; no Binding grant"
+CP21-15,PRESENT / OPEN as scoped,illi Beam fatigue role,live-model/ILLI_PROGRESSION.md; live-model/ELDRIS_REFERENCE.md,Selective offense; Absorption refresh/emergency reserve compete; no Green Solo clear
+CP21-16,PRESENT / OPEN as scoped,Cohort/public Node profiles,live-model/COMBAT_ECOLOGY.md; live-model/03_VALNEK_PATHS.md,Loose peers; validated identity/standings/architecture/ranks/Legacy/credentials; no item levels/private inventory assumption
+CP21-17,WORKING-ILLUSTRATIVE,Adult demographic,live-model/COMBAT_ECOLOGY.md,"Approximately 17–45; under-17 youth track, not biological law"
+CP21-18,PRESENT / OPEN as scoped,Runtime and negative space,live-model/COMBAT_THRESHOLDS.md; world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md,"W18 21–38h central29.5, full31h day/spillover; Orange3–5h Yellow5–10h"
+CP21-19,PRESENT / OPEN as scoped,Tournament conflict rule,live-model/RAEON.md; world-clock/ARC4_HANDOFF.json,Y5D1 qualification/Y5D6 availability; personal elimination OPEN; move Hard Raid only for actual later conflict
+CP21-20,PRESENT / OPEN as scoped,Gross and cashflow,live-model/ECONOMY_PURCHASE_SCHEDULE.md,64725 illi/73585 Kira; zero-carry illustration8319/12568; no fabricated deficit or funding
+CP21-21,PRESENT / OPEN as scoped,Extra-credit discretionary economy,live-model/ECONOMY_PURCHASE_SCHEDULE.md,Do not stop organic combat when progression funded; no automatic early purchases; general card prices OPEN
+CP21-22,PRESENT / OPEN as scoped,Social recursive overlay,live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md,Tea Parties/Gala/Builder/decks/Genesis/abecca/royal family/Champion Table/clothing/home; no auto-fill
+CP21-23,PRESENT / OPEN as scoped,Y6D3 Orb window,world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md; provenance/CHECKPOINT_21_BOUNDARY_SEARCH.json,Window label is not proof of dated purchase
+CP21-24,PRESENT / OPEN as scoped,Source scope and preservation,live-model/SOURCE_BOUNDARIES.md; world-clock/validate_arc4_yellow.py,PDF read fully; normalize lexical form; examples/secondary analogies not new rules; all old archives retained

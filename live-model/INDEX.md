@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
+Authority: 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -110,3 +110,8 @@ Authority: 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/
 - [Arc Four handoff](../world-clock/ARC4_HANDOFF.md) / [structured locks](../world-clock/ARC4_HANDOFF.json) — specific 86,000 card, OPEN Orb date, 73,044 illi burden and Kira's independent first Yellow clear.
 - [Social life and foundations](SOCIAL_LIFE_AND_FOUNDATIONS.md) — abecca, home/recovery, Tea House/Party/charity institutions, mathematics/IP direction, credit-transfer firewall and undated event palette.
 - [Checkpoint 20 reverse diff](../provenance/CHECKPOINT_20_REVERSE_DIFF.csv), [coverage](../provenance/CHECKPOINT_20_COVERAGE_MANIFEST.csv), [audit/file list](../provenance/CHECKPOINT_20_AUDIT.json), [conflicts](../provenance/CHECKPOINT_20_CONFLICTS.md), [boundary search](../provenance/CHECKPOINT_20_BOUNDARY_SEARCH.json).
+
+- [Checkpoint 21 — Arc Four / Yellow](28_CHECKPOINT_21_ARC4_YELLOW.md) — exhaustive author delta, restored seasonal scaffold.
+- [36-day Yellow calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md), [CSV](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.csv), [JSON](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json), [mechanical audit](../world-clock/ARC4_YELLOW_AUDIT.json) and [validator](../world-clock/validate_arc4_yellow.py).
+- [eldris active reference](ELDRIS_REFERENCE.md) — ontology/behavior and scope; full PDF retained in provenance.
+- [Checkpoint 21 audit/file list](../provenance/CHECKPOINT_21_AUDIT.json), [reverse diff](../provenance/CHECKPOINT_21_REVERSE_DIFF.csv), [coverage](../provenance/CHECKPOINT_21_COVERAGE_MANIFEST.csv), [conflicts](../provenance/CHECKPOINT_21_CONFLICTS.md), [before review](../provenance/CHECKPOINT_21_BEFORE_REVIEW.json).

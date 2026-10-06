@@ -1,0 +1,37 @@
+{
+  "scope": "Yellow Y1D3 through Y6D3",
+  "calendar_rows": 36,
+  "counts": {
+    "shared_duo_W18": 5,
+    "kira_solo_W18": 1,
+    "orange_dungeon_clears": 17,
+    "yellow_dungeon_attempts": 4,
+    "yellow_dungeon_clears_kira": 3,
+    "yellow_dungeon_clears_illi": 2,
+    "normal_raid_attempts": 3,
+    "hard_raid_attempts": 1,
+    "scheduled_domai": 0
+  },
+  "runtime_rules": {
+    "W18_full_run": "~21\u201338 h, ~29.5 h central; protected full-day author block",
+    "Orange_dungeon": "3\u20135 h each",
+    "Yellow_dungeon": "5\u201310 h each"
+  },
+  "deterministic_income": {
+    "illi": 64725,
+    "kira": 73585,
+    "domai": "OPEN / none scheduled",
+    "failed_dungeon_partial_progress": "OPEN and excluded"
+  },
+  "illi_arc4_progression_cost_after_Beam_Red": 73044,
+  "illi_zero_carry_in_gap": 8319,
+  "kira_orbs_price": 61017,
+  "kira_headroom_before_cards_if_zero_carry_in": 12568,
+  "continuity": {
+    "kira_orbs": "LATE YELLOW restored; exact day unresolved",
+    "kira_halo": "EARLY BLUE preserved",
+    "kira_domain": "LATE VIOLET preserved",
+    "arc4_close": "Y6D3 illi Genesis Prime Red"
+  },
+  "status": "MECHANICAL PASS AS AUTHOR SCAFFOLD; exact cash balances/card spending remain OPEN"
+}

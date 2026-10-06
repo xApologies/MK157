@@ -272,4 +272,14 @@ Available palette: Tea Parties; **one seasonal Gala per season**; residence Buil
 
 ## Checkpoint 20 — narrative overlay on preserved schedules
 
-The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four, date OPEN and not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. No new combat or social date is assigned beyond existing milestones. Consult [Arc Four handoff](ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically.
+The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four, date OPEN and not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. Checkpoint 21 supplies the Yellow combat scaffold separately; social dates beyond existing appointments remain OPEN. Consult [Arc Four handoff](ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically.
+
+## Checkpoint 21 — Yellow calendar overlay
+
+The [36-day Yellow scaffold](ARC4_YELLOW_COMBAT_CALENDAR.md) supplies Y1D3–Y6D3 combat. It preserves prior daily calendars and the 49-row standing World Clock template, including nightly Highlights, raeon, Auctions and Prism. Kira first clears Yellow independently Y4D2; two shared clears follow Y5D3. Trial W18 occupies a full 31-hour day with spillover risk; explicit recovery/open days remain meaningful. The older illustrative Yellow W4 D2–D6 deep-Trial range is not an event; current dated rows govern.
+
+Combat/progression skeleton first. Exact Tea Parties, Yellow Gala, Builder parties, deck nights, Genesis-card gatherings, abecca routines, royal-family scenes, Champion Table life and home/recovery prose can be overlaid recursively later.
+World Clock `raeon` tournament infrastructure remains authoritative. Y5D1 is reserved for qualification; Y5D6 is protected tournament availability, but exact Yellow-season personal elimination day remains OPEN.
+If a later personal bracket assignment conflicts with the Hard Raid date, move the Raid within available Arc-Four calendar space rather than overriding the tournament.
+
+Y6D3 closes Arc Four with illi Genesis Prime Red; its Orb-window label does not date the Late Yellow purchase. Full cashflow and exact social overlay stay OPEN.

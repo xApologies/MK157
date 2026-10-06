@@ -58,3 +58,11 @@ Exact enforcement, credit provenance/tracking, transfer UI, limits and anti-circ
 Existing tournament, Auction, Prism and Highlights schedules remain. The palette does not reserve or fill new dates, consume OPEN days automatically, or imply that Kira and illi attend every recurring event.
 
 Current consumer priorities are raeon cards/decks and Genesis Cards. Serious Auction goods remain beyond their current purchasing tier; do not invent trinkets or Auction spending to absorb surplus. Author in this order: **world events → organic combat → gross income → card/life spending → terminal progression check**. Affordability does not force immediate acquisition; Valnak remains a marathon.
+
+## Checkpoint 21 — recursive social overlay
+
+Combat/progression skeleton first. Exact Tea Parties, Yellow Gala, Builder parties, deck nights, Genesis-card gatherings, abecca routines, royal-family scenes, Champion Table life and home/recovery prose can be overlaid recursively later.
+World Clock `raeon` tournament infrastructure remains authoritative. Y5D1 is reserved for qualification; Y5D6 is protected tournament availability, but exact Yellow-season personal elimination day remains OPEN.
+If a later personal bracket assignment conflicts with the Hard Raid date, move the Raid within available Arc-Four calendar space rather than overriding the tournament.
+
+The dated combat scaffold does not book undated social attendance or purchases. Clothing/social presentation, ordinary savings and future luxury goals can use organic excess income; 64,725 illi / 73,585 Kira are gross, not balances. Transfer and foundation boundaries above remain unchanged.

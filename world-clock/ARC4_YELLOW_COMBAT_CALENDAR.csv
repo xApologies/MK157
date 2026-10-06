@@ -1,0 +1,37 @@
+season,week,day,kira_activity,illi_activity,event,result,duration_author_target,kira_deterministic_credits,illi_deterministic_credits,notes,status
+Yellow,1,3,Duo Trial W18,Duo Trial W18,Shared Duo Trial,W18 Green clear; W19 Blue entered and fails,"Protect full day; W1→W18 ≈21–38 h, ~29.5 h central",6555,6555,"Pre-Orb ceiling doctrine: clear full Green, touch Blue, cannot operate efficiently in Blue.",LOCKED SCAFFOLD
+Yellow,1,4,Recovery / slice-of-life,Recovery / slice-of-life,Recovery / open,No required combat,Open day,0,0,Protected decompression/social space.,LOCKED SCAFFOLD
+Yellow,1,5,Orange Dungeon farm ×3,Orange Dungeon farm ×3,Orange Dungeon session,3 clears,≈9–15 h combat total,3060,3060,Group stays together and chains efficient Orange runs.,LOCKED SCAFFOLD
+Yellow,1,6,Solo Trial W18,Independent / princess-social-open,Kira Solo Trial,W18 clear; W19 Blue entry/failure,Protect full day; ≈21–38 h,6555,0,Kira-only credit work; illi has independent time.,LOCKED SCAFFOLD
+Yellow,1,7,Recovery / slice-of-life,Recovery / slice-of-life,Recovery / open,No required combat,Open day,0,0,Protected after Kira's full-day Solo.,LOCKED SCAFFOLD
+Yellow,2,1,Orange Dungeon farm ×4,Orange Dungeon farm ×4,Orange Dungeon session,4 clears,≈12–20 h combat total,4080,4080,Large but plausible farm day inside a 31-hour Valnak day.,LOCKED SCAFFOLD
+Yellow,2,2,Duo Trial W18,Duo Trial W18,Shared Duo Trial,W18 clear; W19 Blue entry/failure,Protect full day; ≈21–38 h,6555,6555,,LOCKED SCAFFOLD
+Yellow,2,3,Recovery / slice-of-life,Recovery / slice-of-life,Recovery / open,No required combat,Open day,0,0,,LOCKED SCAFFOLD
+Yellow,2,4,Light / social day,Genesis Beam → Orange,illi progression purchase,Beam Orange acquired,No required major combat,0,0,"Locked purchase cost 9,680; handled in illi progression ledger.",LOCKED SCAFFOLD
+Yellow,2,5,Yellow Dungeon attempt,Yellow Dungeon attempt,Yellow Dungeon push,FAIL,≈5–10 h plus regrouping/death/recovery,0,0,No completion payout booked. Partial-progress reward remains OPEN.,LOCKED SCAFFOLD
+Yellow,2,6,Orange Dungeon farm ×3,Orange Dungeon farm ×3,Orange Dungeon session,3 clears,≈9–15 h combat total,3060,3060,,LOCKED SCAFFOLD
+Yellow,2,7,OPEN / home / social,OPEN / home / social,Open,No required combat,Open day,0,0,,LOCKED SCAFFOLD
+Yellow,3,1,Normal Raid PUG #1,Normal Raid PUG #1,Normal Raid attempt,FAILS Red boss,Half/full-day raid block,0,0,Pickup formation fails outright; no major boss payout.,LOCKED SCAFFOLD
+Yellow,3,2,Recovery / group chatter,Recovery / group chatter,Recovery / open,No required combat,Open day,0,0,,LOCKED SCAFFOLD
+Yellow,3,3,Duo Trial W18,Duo Trial W18,Shared Duo Trial,W18 clear; W19 Blue entry/failure,Protect full day; ≈21–38 h,6555,6555,,LOCKED SCAFFOLD
+Yellow,3,4,Recovery / slice-of-life,Recovery / slice-of-life,Recovery / open,No required combat,Open day,0,0,,LOCKED SCAFFOLD
+Yellow,3,5,Light / social day,Genesis Beam → Yellow,illi progression purchase,Beam Yellow acquired,No required major combat,0,0,"Locked purchase cost 17,424.",LOCKED SCAFFOLD
+Yellow,3,6,Normal Raid PUG #2,Normal Raid PUG #2,Normal Raid attempt,Red clear; Orange FAIL,Most/full day,2500,2500,First Normal Red major payout of Yellow season.,LOCKED SCAFFOLD
+Yellow,3,7,Recovery / open,Recovery / open,Recovery / open,No required combat,Open day,0,0,,LOCKED SCAFFOLD
+Yellow,4,1,Orange Dungeon farm ×3,Orange Dungeon farm ×3,Orange Dungeon session,3 clears,≈9–15 h combat total,3060,3060,,LOCKED SCAFFOLD
+Yellow,4,2,Independent Yellow Dungeon,Princess / royal-social obligations,Yellow Dungeon — Kira independent,CLEAR,≈5–10 h,2305,0,Kira earns the pair's first Yellow Dungeon clear while illi is absent.,LOCKED SCAFFOLD
+Yellow,4,3,Recovery / home,Returns from obligations / social,Recovery / social beat,No required combat,Open day,0,0,illi is playfully/competitively upset Kira cleared Yellow first.,LOCKED SCAFFOLD
+Yellow,4,4,Duo Trial W18,Duo Trial W18,Shared Duo Trial,W18 clear; W19 Blue entry/failure,Protect full day; ≈21–38 h,6555,6555,,LOCKED SCAFFOLD
+Yellow,4,5,Recovery / social,Recovery / social,Recovery / open,No required combat,Open day,0,0,,LOCKED SCAFFOLD
+Yellow,4,6,Normal Raid PUG #3,Normal Raid PUG #3,Normal Raid attempt,Red repeat + Orange clear,Most/full day,3750,3750,Red repeat earns no second major reward; Orange major payout earned.,LOCKED SCAFFOLD
+Yellow,4,7,Home / social,Home / social,Open,No required combat,Open day,0,0,,LOCKED SCAFFOLD
+Yellow,5,1,raeon tournament qualification,raeon tournament qualification,raeon tournament,Participate,Scheduled cultural block,0,0,No combat scheduled over qualification.,LOCKED SCAFFOLD
+Yellow,5,2,Light / social day,Genesis Beam → Green,illi progression purchase,Beam Green acquired,No required major combat,0,0,"Locked purchase cost 36,590; Genesis Prime gate satisfied.",LOCKED SCAFFOLD
+Yellow,5,3,Yellow Dungeon ×2,Yellow Dungeon ×2,Progression-cohort Yellow farm,2 clears,≈10–20 h combat total,4610,4610,Kira+illi plus suitable elite first-cycle peers make Yellow farmable.,LOCKED SCAFFOLD
+Yellow,5,4,Recovery / card/social,Recovery / card/social,Recovery / open,No required combat,Open day,0,0,,LOCKED SCAFFOLD
+Yellow,5,5,Duo Trial W18,Duo Trial W18,Shared Duo Trial,W18 clear; W19 Blue entry/failure,Protect full day; ≈21–38 h,6555,6555,,LOCKED SCAFFOLD
+Yellow,5,6,Tournament availability / social,Tournament availability / social,raeon tournament window,No required combat,Protected cultural availability,0,0,Exact Yellow-season personal elimination day remains OPEN.,LOCKED SCAFFOLD
+Yellow,5,7,Orange Dungeon farm ×4,Orange Dungeon farm ×4,Orange Dungeon session,4 clears,≈12–20 h combat total,4080,4080,,LOCKED SCAFFOLD
+Yellow,6,1,Hard/Expedition Raid PUG,Hard/Expedition Raid PUG,Hard Raid attempt,Hard Red clear; Hard Orange FAIL,Most/full day,3750,3750,Attrition stops the group at Hard Orange.,LOCKED SCAFFOLD
+Yellow,6,2,Recovery / tournament-social availability,Recovery / tournament-social availability,Recovery / open,No required combat,Open day,0,0,World Clock W6 tournament progression still exists; exact personal bracket state remains OPEN.,LOCKED SCAFFOLD
+Yellow,6,3,Late-Yellow Orb window / Arc-Four progression day,Genesis Prime Elemental → Red,Arc Four endpoint,illi Genesis Prime Red acquired,No required major combat,0,0,"illi purchase cost 9,350. Kira Genesis Orbs are restored to LATE YELLOW; exact day remains to be fixed within the restored late-Yellow window, not Y1D2.",LOCKED SCAFFOLD

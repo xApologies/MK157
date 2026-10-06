@@ -222,3 +222,7 @@ Kira + illi participate and are eliminated at **R5D4**; the Red calendar retains
 ## Checkpoint 20 — deck-building and everyday social life
 
 The raeon flagship remains distinct from the Genesis Card flagship. New-cycle decks/cards, deck-building parties, casual shop/play and the flexible abecca/meals/Highlights/home circuit are ordinary life. One seasonal Gala, Tea Parties and other peer gatherings supplement the social palette without new dates or mandatory attendance. Home/nothing days remain valid. Civic/social card gifts are allowed, but progression financing directly or indirectly is prohibited; enforcement OPEN. All raeon tournament dates and card-color/mechanical firewalls remain. [Social life](SOCIAL_LIFE_AND_FOUNDATIONS.md).
+
+## Checkpoint 21 — Yellow personal availability
+
+Y5D1 is qualification, Y5D6 protected tournament availability. Exact Yellow personal elimination remains OPEN; do not copy Orange’s elimination date. Standing W6 progression persists. If a later personal bracket date conflicts with the Y6D1 Hard Raid, relocate that Raid within available Arc Four space while preserving Hard Red clear/Hard Orange failure. No such conflict is established yet.

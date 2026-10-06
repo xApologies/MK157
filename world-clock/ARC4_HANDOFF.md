@@ -1,6 +1,6 @@
-# Arc boundaries and Arc Four handoff — Checkpoint 20
+# Arc boundaries and Arc Four handoff — Checkpoint 21
 
-Use illi's more granular Binding progression as the primary book-arc clock. Kira's acquisitions can occur inside arcs. [Structured locks](ARC4_HANDOFF.json) and the [complete author delta](../live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md) govern this handoff; no new daily Arc Four combat calendar is assigned.
+Use illi's more granular Binding progression as the primary book-arc clock. Kira's acquisitions can occur inside arcs. [Structured locks](ARC4_HANDOFF.json) and the [current author delta](../live-model/28_CHECKPOINT_21_ARC4_YELLOW.md) govern this handoff; the [36-day Yellow calendar](ARC4_YELLOW_COMBAT_CALENDAR.md) supplies Y1D3–Y6D3 combat.
 
 | Arc | Closing milestone |
 |---|---|
@@ -9,7 +9,7 @@ Use illi's more granular Binding progression as the primary book-arc clock. Kira
 | 3 | Yellow-opening boundary: illi Genesis Beam Red at **Y1D2** and Kira's specific **Blue Fireball Genesis Card** |
 | 4 | illi Genesis Prime Elemental Red at **Y6D3** |
 
-**Genesis Orbs are not the Arc Three endpoint purchase and are not acquired at Y1D2.** Their price remains **61,017**; acquisition occurs **inside Arc Four**, exact date **OPEN** pending calendar construction. Earlier late-Yellow phrasing is prior broad placement, not permission to select a date. Orb acquisition and later competency/mastery remain distinct; unrelated later architecture is preserved.
+**Genesis Orbs are not the Arc Three endpoint purchase and are not acquired at Y1D2.** Their price remains **61,017**; acquisition occurs **Late Yellow inside Arc Four**, exact day **OPEN**. Checkpoint 21 restores that seasonal lock; the Y6D3 row labels the window and does not fix purchase to that day. Halo remains Early Blue; Domain remains Late Violet. Orb acquisition and later competency/mastery remain distinct; unrelated later architecture is preserved.
 
 ## Specific Blue Fireball card
 
@@ -48,10 +48,12 @@ While illi has royal/princess/social obligations, Kira may independently run Gre
 
 For credit-seeking domai participation she prefers substantial occupation/participation and credible organizational intelligence suggesting likely resolution within her **seven-day first-kill eligibility window**. These estimates are social/organizational information, not omniscient percentages or guaranteed completion/payout. Existing one-day same-domai exit/death lockout and cumulative death deductions remain; contextual scoring stays OPEN BY DESIGN.
 
-Inside Arc Four she joins a competent **Yellow Normal Dungeon** group while illi is absent and earns **Kira's first Yellow Dungeon completion**. She is the first of the pair to clear Yellow; this is not a shared clear or credit to absent illi. illi remains Orange-cleared at that moment and is playfully/competitively upset. The day, group identity and detailed reward booking remain OPEN; no calendar row or extra income is inserted.
+Inside Arc Four she joins a competent **Yellow Normal Dungeon** group while illi is absent and earns **Kira's first Yellow Dungeon completion**. She is the first of the pair to clear Yellow; this is not a shared clear or credit to absent illi. illi remains Orange-cleared at that moment and is playfully/competitively upset. Checkpoint 21 dates this to **Y4D2**, paying Kira **2,305** and illi zero. Group identity remains OPEN; Y5D3 later supplies two shared Yellow clears.
 
 ## Social authoring and continuing OPENs
 
+The Checkpoint 21 calendar supplies **64,725 illi / 73,585 Kira gross**, not balances. Five shared W18 clears and one Kira Solo W18 each end at the W19 Blue wall. Orange is farm content; the emerging peer cohort can farm Yellow, with no Green Dungeon or Yellow Raid boss clear booked. The [active eldris reference](../live-model/ELDRIS_REFERENCE.md) explains projected-force, juggernaut and secondary-effect pressure and illi's Beam/Absorption fatigue allocation. All 17 illi milestones and future Coherence/Absorption/Resonance dates remain unchanged.
+
 [Social life](../live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md) adds lowercase **abecca**, Kira's strong habit, the flexible daily circuit, Tea Houses/Parties/foundations, one Gala per season, peer gatherings and deliberate home/recovery/nothing days. Event dates remain OPEN beyond existing World Clock appointments; neither an OPEN day nor a moment of free time is an automatic event or farm slot.
 
-Keep exact Orb/first-Yellow-clear dates, Arc Four daily combat, income/spending/funding, other card prices, social event dates, foundation legal/IP/royalty/investment implementation, credit-transfer enforcement, domai payout and unrelated canon gaps OPEN.
+Keep the exact Late Yellow Orb day, first-Yellow group identity, unsupplied social dates, full cashflow/spending/funding, other card prices, social event dates, foundation legal/IP/royalty/investment implementation, credit-transfer enforcement, domai payout and unrelated canon gaps OPEN.

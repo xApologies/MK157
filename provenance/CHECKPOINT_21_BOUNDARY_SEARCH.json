@@ -1,0 +1,128 @@
+{
+  "baseline_commit": "8502c19617d2086a97490366baf82b7471e4c4d9",
+  "scope": "All tracked older provenance/prior-checkpoint-source Markdown, CSV and JSON except generated audit/snapshot/search reports; source masters and decisions included",
+  "pattern": "orbs.{0,100}(yellow|Y[1-7]|day|D[1-7])|(yellow|Y[1-7]D[1-7]).{0,100}orbs",
+  "matches": [
+    {
+      "path": "provenance/CHECKPOINT_14_COVERAGE_MANIFEST.csv",
+      "line": 9,
+      "text": "\"R14-08\",\"Post-Orb multi-day Duo grind\",\"PARTIAL\",\"PRESENT\",\"live-model/PARTNERSHIP_AND_CARRY.md\",\"Mature Orbs enable committed multi-day Duo pushes.\""
+    },
+    {
+      "path": "provenance/CHECKPOINT_14_REVERSE_DIFF.csv",
+      "line": 9,
+      "text": "\"R14-08\",\"Post-Orb multi-day Duo grind\",\"PARTIAL\",\"PRESENT\",\"live-model/PARTNERSHIP_AND_CARRY.md\",\"Mature Orbs enable committed multi-day Duo pushes.\""
+    },
+    {
+      "path": "provenance/CHECKPOINT_14_REVERSE_DIFF.md",
+      "line": 12,
+      "text": "| Post-Orb multi-day Duo grind | PARTIAL | PRESENT | Mature Orbs enable committed multi-day Duo pushes. |"
+    },
+    {
+      "path": "provenance/CHECKPOINT_19_CONFLICTS.md",
+      "line": 11,
+      "text": "| Gross income versus end balance | 58,885/83,915 are deterministic gross. Kira 22,898 is gross minus Orbs reserve, not final cash after unpriced cards. illi's 6,050 Y1D2 reserve is mandatory; affordability does not move her purchase. |"
+    },
+    {
+      "path": "provenance/CHECKPOINT_20_CONFLICTS.md",
+      "line": 7,
+      "text": "| CP19 Orb endpoint reserve / Arc Four after Orbs | Superseded by explicit CP20 arc architecture: Arc Three closes Beam Red + Blue Fireball card, Orbs inside Arc Four with date OPEN and not Y1D2; Arc Four closes Prime Red Y6D3. No direct prior dated Orb transaction was found; the active reserve/after-Orbs implications were corrected. |"
+    },
+    {
+      "path": "provenance/CHECKPOINT_20_CONFLICTS.md",
+      "line": 8,
+      "text": "| Earlier broad late-Yellow Orbs wording | Active acquisition summaries now defer to inside-Arc-Four / exact-date OPEN. Later competency/mastery direction is not rewritten. |"
+    },
+    {
+      "path": "provenance/CHECKPOINT_20_CONFLICTS.md",
+      "line": 9,
+      "text": "| O7D7 Orange calendar ending versus narrative arc close | Preserve exact calendars and their coverage. Their last row is the end of the supplied Orange segment, not a required narrative arc boundary. No fabricated Y1D2 Orbs row or new Arc Four combat rows. |"
+    },
+    {
+      "path": "provenance/CHECKPOINT_20_CONFLICTS.md",
+      "line": 13,
+      "text": "| Card at Beam boundary versus exact clock timestamp | Record the Arc Three/Yellow-opening event tied to Beam Red Y1D2. Exact intraday time is unsupplied. Orbs are explicitly not Y1D2. |"
+    },
+    {
+      "path": "provenance/CHECKPOINT_20_COVERAGE_MANIFEST.csv",
+      "line": 6,
+      "text": "5,PASS,Arc3 Beam/card; Orbs inside Arc4 OPEN not Y1D2; Arc4 Y6D3,world-clock/ARC4_HANDOFF.json"
+    },
+    {
+      "path": "provenance/CHECKPOINT_20_REVERSE_DIFF.csv",
+      "line": 34,
+      "text": "CP20-33,Arc4 calendar,Unsupplied dates,Supplemental author-detail / reconciliation,LOCK / OPEN as scoped,OPEN,Orbs/first Yellow/social gatherings/Gala/daily combat dates not assigned; exact card intraday time OPEN,live-model/OPEN.md"
+    },
+    {
+      "path": "provenance/checkpoint-07-package/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+      "line": 104,
+      "text": "- Late Yellow: Genesis Orbs"
+    },
+    {
+      "path": "provenance/checkpoint-08-package/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+      "line": 79,
+      "text": "Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (late Yellow) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation."
+    },
+    {
+      "path": "provenance/checkpoint-09-package/07_STORY_CLOCK_STATE.md",
+      "line": 6,
+      "text": "Late Yellow — Genesis Orbs"
+    },
+    {
+      "path": "provenance/checkpoint-13-package/EXECUTABLE.md",
+      "line": 36,
+      "text": "Preserve late-Yellow Orbs and mid-Green mature two-Orb blender."
+    },
+    {
+      "path": "provenance/checkpoint-13-package/THREAD_DELTA.md",
+      "line": 68,
+      "text": "Genesis Orbs arrive late Yellow; acquisition is not mastery."
+    },
+    {
+      "path": "provenance/checkpoint-14-package/FULL_RECONCILIATION.md",
+      "line": 12,
+      "text": "- Genesis Orbs late Yellow; mature two-Orb blender around mid-Green."
+    },
+    {
+      "path": "provenance/checkpoint-14-package/FULL_RECONCILIATION.md",
+      "line": 38,
+      "text": "Once Orbs mature, Kira+illi also commit hard to multi-day Duo pushes. Red→Violet remains broad content: Trials, Dungeons, Hard Dungeons, Raids, Valnak domai incursions, city/social/cultural life."
+    },
+    {
+      "path": "provenance/checkpoint-20-package/CHECKPOINT20_LIVE_MODEL_DELTA.md",
+      "line": 13,
+      "text": "- Arc 4 builds from Genesis Beam Red through **illi Genesis Prime Elemental Red at Y6D3**. Kira acquires Genesis Orbs somewhere within Arc 4; exact date remains OPEN pending Arc-4 calendar construction."
+    },
+    {
+      "path": "provenance/checkpoint-20-package/CHECKPOINT20_LIVE_MODEL_DELTA.md",
+      "line": 15,
+      "text": "Kira's Genesis Orbs remain 61,017 credits under Checkpoint 19. Their exact acquisition timestamp is NOT Y1D2."
+    },
+    {
+      "path": "provenance/checkpoint-20-package/EXECUTABLE.md",
+      "line": 11,
+      "text": "   - Do NOT place Genesis Orbs at Y1D2."
+    },
+    {
+      "path": "provenance/checkpoint-20-package/EXECUTABLE.md",
+      "line": 24,
+      "text": "16. Produce reverse diff, coverage manifest, conflict ledger and mechanical/content audit. Explicitly search for and supersede any active text that says Kira buys Genesis Orbs at Arc-Three endpoint/Y1D2."
+    },
+    {
+      "path": "provenance/historical-root-handoffs/EXECUTABLE_CHECKPOINT_01.md",
+      "line": 55,
+      "text": "own reconfiguration and absorbs hair configuration. - Wave 8 Yellow /"
+    },
+    {
+      "path": "provenance/pre-checkpoint-06/live-model/10_CHECKPOINT_05_ADDENDUM.md",
+      "line": 131,
+      "text": "- Late Yellow: **Genesis Orbs**"
+    },
+    {
+      "path": "provenance/pre-checkpoint-06/live-model/SUPERSESSIONS.md",
+      "line": 31,
+      "text": "- The current working acquisition scaffold puts Genesis Orbs in late Yellow before Halo in early Blue, superseding the older prescribed order on that explicit point. Armor, CSR, Orbs, Halo, Domain remain the five foundational systems; purchase is not mastery."
+    }
+  ],
+  "conclusion": "Earlier CP07/08/09/13/14 explicitly say Late Yellow; no exact Orb acquisition day found. CP20 generic placement is superseded. Y6D3 remains an Orb window label, not an acquisition timestamp."
+}

@@ -553,7 +553,7 @@ Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit gene
 Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
-Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery.
+Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
 Around mid-Green, mature two-Orb blender is the major economic inversion.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
@@ -588,3 +588,24 @@ Foundations may fund mathematics/research, develop/own protected mathematical/si
 Valnak social/civic/non-progression gifts may fund residences, clothing, hospitality, amenities, raeon and Genesis Cards. **Binding/rank/combat progression financing is prohibited, directly or indirectly**; enforcement/UI/limits/anti-circumvention stay OPEN. No particular funding gift is assigned.
 
 Available palette: Tea Parties; **one seasonal Gala per season**; residence Builder/theorycrafting parties; raeon deck-building; Genesis Card collecting/trading; card shops/casual play; Champion Table/Highlights; home/recovery. Dates/attendance are unassigned beyond existing World Clock events. This does not fill OPEN rows or move tournament/Auction/Prism schedules.
+
+## Checkpoint 21 — public capability and first-cycle peers
+
+By Yellow Season, a loose peer network of top-performing first-cyclers has emerged. It is NOT a fixed guild/vaelum or permanent team.
+These people know one another through Node profiles, Orange/Yellow runs, Trials, Raids and social life and can assemble Yellow-capable compositions.
+Exact headcount/group count remains OPEN.
+
+Kira+illi become a premium two-person core: for a suitable three-person peer nucleus, their presence can turn Yellow from merely possible into reliable enough to farm.
+
+Adult first-cycle demographic working author model remains approximately **17–45**; under-17 entrants use a youth track. Do not turn this into a biological rule without later author confirmation.
+
+Node group postings can evaluate validated public capability such as:
+- identity;
+- Solo/Duo/Trio Trial standings;
+- Binding architecture and ranks;
+- Legacy status;
+- relevant Dungeon/Raid accomplishments/credentials.
+
+Do not expose arbitrary videogame item-level scoring or assume private inventory is visible.
+
+Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.

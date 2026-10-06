@@ -1,5 +1,6 @@
 {
-  "checkpoint": 20,
+  "checkpoint": 21,
+  "inherited_scope": "Checkpoint 20 social/card locks with Checkpoint 21 dated Yellow calendar and restored seasons",
   "result": "PASS",
   "errors": [],
   "baseline_commit": "ca6481ec0bb0bd6baf7c9d6a63d53dfb6902c02d",
@@ -45,16 +46,16 @@
   "card_price": 86000,
   "universal_blue_card_price": false,
   "orbs_price": 61017,
-  "orbs_date": "OPEN inside Arc Four; not Y1D2",
+  "orbs_date": "Late Yellow inside Arc Four; exact day OPEN; not Y1D2",
   "arc4_close": "Genesis Prime Red Y6D3",
   "conditional_card_minus_orange_gross": 2085,
   "card_full_funding_audit": "OPEN; no full cashflow solvency assertion",
-  "new_daily_events": 0,
+  "new_daily_rows": 36,
   "abecca": "abecca",
   "galas_per_season": 1,
   "gala_dates": "OPEN",
   "credit_transfer_enforcement": "OPEN",
-  "yellow_clear": "Kira independently first during Arc Four; illi absent/Orange-cleared; day OPEN",
+  "yellow_clear": "Kira independently first Y4D2; illi absent/Orange-cleared; payout 2305 Kira / 0 illi",
   "protected_files_byte_identical": [
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json",
@@ -332,7 +333,7 @@
     },
     {
       "path": "live-model/01_KIRA.md",
-      "requirement": "OPEN date",
+      "requirement": "exact day OPEN",
       "result": "PASS"
     },
     {
@@ -347,21 +348,21 @@
     },
     {
       "path": "live-model/OPEN.md",
-      "requirement": "Orbs date inside Arc Four",
+      "requirement": "exact Orbs day within Late Yellow",
       "result": "PASS"
     }
   ],
   "sha256": {
-    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "c5b38823873fd735a0a29abb653082ddefbc440fedd85725b3bc918845e92d4c",
-    "live-model/01_KIRA.md": "4d22c65faec8736b2fab267791a3ec8641f7b5c134a72f6a65f4fb2559833e57",
+    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "6679037d860666310a6a2b94d19bb8c4bb2737b00f950f9d9912cd8900c2d09f",
+    "live-model/01_KIRA.md": "01883a1af64347bc4f1e62f8bea5d960a9fbe6625bb6f10666148056917c9ce5",
     "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md": "686a9461fd24c885596bc8f364774f006903ec5448011de1fa4e9a734b996a41",
-    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "008bc5194b8d171d0430a416cc27b079f5d2708be6f67453e23238e1f37b3990",
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "c84872b661b861763a722bc65964461d117ac28b318114583bf39c56ba479cce",
     "live-model/GENESIS_CARDS.md": "b6639f9cdd246144bd0a03d26edbc008d5a5afb9ac143225438fb9c05e63f513",
-    "live-model/ILLI_PROGRESSION.md": "1e5090aec17c61f70449009c677f167fb269777dd7b9fe770ec3a8fea58c0ec4",
-    "live-model/OPEN.md": "4c4da65ec877083e7ff1e18e7a1900f5d84973b58053961c3c855a31019c445d",
-    "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "7fd5ef1df9b89b9a27aa8aacc19fad7cad8eb0760e6cf63029d53a239c264b29",
-    "world-clock/ARC4_HANDOFF.json": "9a5339c09c0e90d671cd84d080ce43b396d6a8fbef032af9a5e1c46baac325b4",
-    "world-clock/ARC4_HANDOFF.md": "d7df958872cb8a4e6479a083391de6a7cc2675e2e3e9f9cc4a69e5174f0b8523",
-    "world-clock/validate_arc4_handoff.py": "a19c1205d22242042ba52d2819e17fa2dd4c4aaee73b66f1bf33489b8d38f3a2"
+    "live-model/ILLI_PROGRESSION.md": "743428adea94fe715cf6e61bd29f34cf7328cf44dc7fd728bd7ddd09119af5b2",
+    "live-model/OPEN.md": "22706d8e877d587f00acf9a2864ecdcdbd06abcf0db4b7b020b2f97dd82dd536",
+    "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "6d0c58aacad23e585250a110aa134b85694fa4efbe769c6db812945720754f94",
+    "world-clock/ARC4_HANDOFF.json": "85edc298f3f2a8b29daa546cd01c3df13337a908afb480c8f6a307fdd198fc09",
+    "world-clock/ARC4_HANDOFF.md": "f8700eedc1059399bf45c0088d141adc49e2731720d8ea1ac53cb709a96ae4d4",
+    "world-clock/validate_arc4_handoff.py": "2c122ec093d0158ee79d7cefad4fbebdc14492a7c8fc269436e6424552befa34"
   }
 }

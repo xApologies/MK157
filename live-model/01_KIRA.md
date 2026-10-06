@@ -157,7 +157,7 @@ Orbs can eventually become remote Transductive/Domain anchors.
 ## Kira seasonal Black scaffold
 - Entry / early cycle: Armor of the Abyss
 - Early Orange: CSR
-- Inside Arc Four: Genesis Orbs; exact date OPEN, not Y1D2 (Checkpoint 20)
+- Late Yellow inside Arc Four: Genesis Orbs; exact day OPEN, not Y1D2 (Checkpoint 21)
 - Early Blue: Halo
 - Late Violet: Domain
 - White: smaller support/interface/battlefield-integration acquisitions
@@ -179,7 +179,7 @@ Examples: starter pricing anomaly; Orb cannonballs; Orb blender; Trial-credit ex
 ## Checkpoint 08 Orb interpretation and competency
 
 ## 10. Kira progression / Orbs
-Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (inside Arc Four; exact date OPEN under Checkpoint 20) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation.
+Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (Late Yellow inside Arc Four; exact day OPEN under Checkpoint 21) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation.
 Black growth is competency/discovery/integration, not ordinary rank grinding.
 
 Genesis Orbs are INTENTIONALLY ANOMALOUS; do not classify them as literal singularities/black holes/etc. They are persistent externalized extensions of Kira and her Genesis interface, respond to her consciousness, interact physically/Transductively, become remote Transductive interfaces, and after Domain can project/exert Kira's Domain. Distributed Domain use matters to the end-book Genesis Collapse solution. Elara later discovers capabilities, not a mandatory ontology.
@@ -455,7 +455,7 @@ Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit gene
 Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
-Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery.
+Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
 Around mid-Green, mature two-Orb blender is the major economic inversion.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
@@ -489,4 +489,18 @@ Kira is strongly/comically attached to **abecca** (lowercase coffee-equivalent).
 
 By Yellow she is a Green first-cycle Solo combatant and Eternal-Standing celebrity, a high-demand Dungeon/Raid/domai applicant where eligible; fame never bypasses qualification. During illi's obligations she may Solo late at night, join available Dungeons or mature Node-recruited domai, and rebuild the Orb fund. She enjoys domai open warfare with CSR hypermobility/hack-and-slash. Credible group intelligence can suggest likely resolution inside seven days, never guarantee an omniscient percentage or payout.
 
-Within Arc Four, at an OPEN date, she joins a competent Yellow Normal Dungeon group without illi and earns her first Yellow completion, the first of the pair. illi is still Orange-cleared and playfully/competitively upset. Tea Party hosts also desire Kira's celebrity/anomaly and the increased chance of princess attendance. No combat/social dates are assigned. [Handoff](../world-clock/ARC4_HANDOFF.md); [social doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md).
+Within Arc Four, at Y4D2 under Checkpoint 21, she joins a competent Yellow Normal Dungeon group without illi and earns her first Yellow completion, the first of the pair. illi is still Orange-cleared and playfully/competitively upset. Tea Party hosts also desire Kira's celebrity/anomaly and the increased chance of princess attendance. The first clear is now dated; other social dates remain OPEN. [Handoff](../world-clock/ARC4_HANDOFF.md); [social doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md).
+
+## Checkpoint 21 — restored seasonal placement and Yellow operating scope
+
+The older preserved Black scaffold remains governing:
+- Entry/Red: Armor of the Abyss
+- Early Orange: CSR
+- **Late Yellow: Genesis Orbs**
+- **Early Blue: Halo**
+- **Late Violet: Domain**
+
+Checkpoint 20's weaker "Orbs anywhere inside Arc Four / seasonal placement OPEN" language is superseded. The **late-Yellow window is restored**. Exact day remains unresolved until deliberately fixed; do not place Orbs at Y1D2.
+Post-Armor Black acquisition price remains **61,017 each**.
+
+Kira reliably clears W18 Solo or with illi, enters/fails W19 Blue, and farms upper Green without Blue competence. CSR shifts her from pseudo-Guardian to premium damage/hammer while retaining emergency frontline resilience. She voluntarily remains socially centered on the first-cycle ecosystem with her sister-level partner; illi’s helkir Solo formation still saturates. Kira’s independent first Yellow Dungeon clear is Y4D2; shared Yellow farming follows Y5D3. No Green Dungeon run is scheduled. [Calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md); [eldris tactics](ELDRIS_REFERENCE.md).

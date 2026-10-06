@@ -38,4 +38,30 @@ Arc Three O2D4–O7D7 earns illi **58,885 deterministic gross** with no Solo inc
 
 ## Checkpoint 20 — illi as the arc clock
 
-Arc Three closes with **Genesis Beam Red Y1D2 (6,050)** and Kira's Blue Fireball card, not Orbs. Arc Four starts after that Beam purchase and closes at **Genesis Prime Red Y6D3**. Existing costs/dates: **Y2D4 Beam Orange 9,680; Y3D5 Beam Yellow 17,424; Y5D2 Beam Green 36,590; Y6D3 Prime Red 9,350**. The first three total **63,694**, all four **73,044**. The complete 17-event ledger stays unchanged. Card/life spending may require greater gross income without changing dates. During an OPEN Arc Four day, Kira clears her first Yellow Normal Dungeon while illi is on royal/social obligations; illi remains Orange-cleared then and is playfully/competitively upset. No clear or reward is credited to absent illi. [Arc Four handoff](../world-clock/ARC4_HANDOFF.md).
+Arc Three closes with **Genesis Beam Red Y1D2 (6,050)** and Kira's Blue Fireball card, not Orbs. Arc Four starts after that Beam purchase and closes at **Genesis Prime Red Y6D3**. Existing costs/dates: **Y2D4 Beam Orange 9,680; Y3D5 Beam Yellow 17,424; Y5D2 Beam Green 36,590; Y6D3 Prime Red 9,350**. The first three total **63,694**, all four **73,044**. The complete 17-event ledger stays unchanged. Card/life spending may require greater gross income without changing dates. On Y4D2 in the Checkpoint 21 calendar, Kira clears her first Yellow Normal Dungeon while illi is on royal/social obligations; illi remains Orange-cleared then and is playfully/competitively upset. No clear or reward is credited to absent illi. [Arc Four handoff](../world-clock/ARC4_HANDOFF.md).
+
+## Checkpoint 21 — Beam role and unchanged future
+
+Before Beam, illi is mainly sustainment via Persistent Coherence + Absorption Shield.
+Genesis Beam adds selective offensive capability. Yellow eldris are the first projected-force/ranged family; illi can pressure them while Kira handles melee/juggernaut load.
+
+illi now learns fatigue allocation between:
+- Genesis Beam offense;
+- Absorption Shield refresh;
+- emergency/sustain reserve.
+
+Her Beam is Red→Orange→Yellow→Green across the arc; increasing rank improves effectiveness/efficiency but does not alone erase the Blue Wall.
+
+illi Solo remains the hard sandbox lock: she is a helkir and her Solo NPC formation suffers population saturation. Exact Arc-Four Solo standing remains OPEN, but she does NOT clear Green Solo during this scaffold. Kira therefore voluntarily remains socially centered on the first-cycle ecosystem with her sister despite Kira's own Green Solo graduation.
+
+Preserve illi's full 17-event projected calendar through Resonance Prime, including:
+- Y6D3 Genesis Prime Red;
+- G6D2 Coherence Prime Red;
+- G6D4 Absorption Orange;
+- G7D2 Absorption Yellow;
+- V1D3 Absorption Green;
+- V2D2 Resonance Prime/Juggernaut Red.
+
+Preserve Kira Halo Early Blue and Domain Late Violet seasonal scaffold.
+
+Two Yellow clears at Y5D3 follow Kira’s independent Y4D2 first clear. Exact calendar gross is 64,725; this does not establish solvency or alter the 17-event ledger. See [calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md).

@@ -541,4 +541,65 @@ The [exact calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) supplies seven Oran
 
 By Yellow, Green first-cycle Solo Kira is a high-demand celebrity applicant for Dungeon/Raid/domai groups **where institutionally eligible**. Fame does not bypass qualification. During illi's royal/social obligations she may join available Dungeon groups, run Green Solo (including late nights), or use the Node for mature/late-stage domai formations. CSR hypermobility/hack-and-slash suits the open warfare she enjoys. Credible organizational intelligence about substantial occupation/participation can suggest likely resolution within her seven-day eligibility window; no omniscient progress percentage or guaranteed payout.
 
-Her first Yellow Normal Dungeon completion occurs independently with a competent group inside Arc Four, exact day OPEN. illi is absent, still Orange-cleared then, and playfully/competitively upset. It is the first of the pair, not a shared clear. No new combat dates or income are inserted; eligibility, recovery, contextual domai scoring and existing calendars remain. [Arc Four handoff](../world-clock/ARC4_HANDOFF.md).
+Her first Yellow Normal Dungeon completion occurs independently with a competent group inside Arc Four at Y4D2 under Checkpoint 21. illi is absent, still Orange-cleared then, and playfully/competitively upset. It is the first of the pair, not a shared clear. Checkpoint 21 now supplies the Yellow combat dates and gross income; eligibility, recovery, contextual domai scoring and earlier calendars remain. [Arc Four handoff](../world-clock/ARC4_HANDOFF.md).
+
+## Checkpoint 21 — Arc Four combat and peer ecology
+
+Before Beam, illi is mainly sustainment via Persistent Coherence + Absorption Shield.
+Genesis Beam adds selective offensive capability. Yellow eldris are the first projected-force/ranged family; illi can pressure them while Kira handles melee/juggernaut load.
+
+illi now learns fatigue allocation between:
+- Genesis Beam offense;
+- Absorption Shield refresh;
+- emergency/sustain reserve.
+
+Her Beam is Red→Orange→Yellow→Green across the arc; increasing rank improves effectiveness/efficiency but does not alone erase the Blue Wall.
+
+illi Solo remains the hard sandbox lock: she is a helkir and her Solo NPC formation suffers population saturation. Exact Arc-Four Solo standing remains OPEN, but she does NOT clear Green Solo during this scaffold. Kira therefore voluntarily remains socially centered on the first-cycle ecosystem with her sister despite Kira's own Green Solo graduation.
+
+First-cycle sandbox:
+- Red Dungeons: obsolete/uninteresting for the girls.
+- Orange Normal: efficient farm content.
+- Yellow Normal: first-cycle wall/progression content. A small emerging top cohort can clear it with correct composition; Kira+illi plus appropriate elite peers can make it farmable.
+- **No Green Dungeon runs in this sandbox scaffold.** Green Solo is the early-graduation threshold; Green Dungeon participation belongs to the broader veteran-access ecology, not the girls' current first-cycle routine.
+
+Dungeon runtimes:
+- Orange 3–5 h each, so 2–4 clears can plausibly chain in a 31-hour day.
+- Yellow 5–10 h each; 1–2 in a day is plausible but psychologically/fatigue intensive.
+
+Kira shifts from pseudo-Guardian toward premium damage/hammer role under CSR while retaining emergency front-line resilience.
+
+Kira's first Yellow Dungeon clear is independent while illi is away on royal/social obligations. Later Kira+illi join a progression-cohort group and clear Yellow together.
+
+By Yellow Season, a loose peer network of top-performing first-cyclers has emerged. It is NOT a fixed guild/vaelum or permanent team.
+These people know one another through Node profiles, Orange/Yellow runs, Trials, Raids and social life and can assemble Yellow-capable compositions.
+Exact headcount/group count remains OPEN.
+
+Kira+illi become a premium two-person core: for a suitable three-person peer nucleus, their presence can turn Yellow from merely possible into reliable enough to farm.
+
+Adult first-cycle demographic working author model remains approximately **17–45**; under-17 entrants use a youth track. Do not turn this into a biological rule without later author confirmation.
+
+Node group postings can evaluate validated public capability such as:
+- identity;
+- Solo/Duo/Trio Trial standings;
+- Binding architecture and ranks;
+- Legacy status;
+- relevant Dungeon/Raid accomplishments/credentials.
+
+Do not expose arbitrary videogame item-level scoring or assume private inventory is visible.
+
+Raids remain distinct designed Valnak content; bosses need not exist outside Valnak.
+Pickup groups are unstable and may fail repeatedly.
+
+Arc Four authored sequence:
+- Normal PUG #1: fails Red.
+- Normal PUG #2: clears Red, fails Orange.
+- Normal PUG #3: repeated Red gives no duplicate major reward; Orange clears.
+- Hard/Expedition PUG: Hard Red clears; Hard Orange fails through attrition.
+
+No Yellow Raid boss clear in Arc Four.
+
+Kira+illi are not domai specialists. Dedicated military/guard/vaelum/noble formations may grind one incursion persistently across rotations; Trial/Dungeon/Raid-oriented people use domai opportunistically.
+Arc Four combat calendar does not require a domai payout. Contextual domai income remains an author slack variable under existing seven-day eligibility/recovery/death rules.
+
+See [the exact Yellow calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md) for dates and reward booking, and [eldris](ELDRIS_REFERENCE.md) for the combat reference. Kira first clears Yellow independently at Y4D2; illi receives no clear or income then. Two shared clears follow at Y5D3.

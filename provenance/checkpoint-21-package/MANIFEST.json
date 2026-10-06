@@ -1,0 +1,25 @@
+{
+  "package": "MK157_CHECKPOINT21_ARC4_YELLOW_LIVE_MODEL",
+  "expected_base": "Checkpoint 20 or newer",
+  "calendar_scope": "Yellow Y1D3 through Y6D3",
+  "calendar_rows": 36,
+  "illi_deterministic_gross": 64725,
+  "kira_deterministic_gross": 73585,
+  "kira_black_scaffold": {
+    "Orbs": "Late Yellow",
+    "Halo": "Early Blue",
+    "Domain": "Late Violet"
+  },
+  "source_pdf": "source/MK147_MASTER_ELDRIS_LRS.pdf",
+  "files": [
+    "ARC4_YELLOW_AUDIT.json",
+    "ARC4_YELLOW_COMBAT_CALENDAR.csv",
+    "ARC4_YELLOW_COMBAT_CALENDAR.json",
+    "CHECKPOINT21_LIVE_MODEL_DELTA.md",
+    "CHECKPOINT21_REVERSE_DIFF.csv",
+    "ELDRIS_CANON_IMPORT.md",
+    "EXECUTABLE.md",
+    "README.md",
+    "source/MK147_MASTER_ELDRIS_LRS.pdf"
+  ]
+}

@@ -1,6 +1,6 @@
 # Retained Combat Trial thresholds
 
-Authority: 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Baseline thresholds and prime-count escalation are retained. Exact final Eternal Standing wave numbers remain OPEN.
+Authority: Checkpoint 21 for the pre-Orb Yellow scaffold, cumulative with earlier non-conflicting rules. Baseline thresholds and prime-count escalation are retained. Exact final Eternal Standing wave numbers remain OPEN.
 
 ## Endless Combat Trial and rank
 
@@ -97,3 +97,17 @@ Checkpoint 18 recalibrates the exact [W1–35 reward rows](../trial-rewards/TRIA
 After CSR, Green Trial territory is immediate: nine shared clears W13/14/14/15/15/16/16/17/17 and six Kira Solo clears W13/14/14/15/15/16. CSR solves lock-down/repositioning, not population-clearing throughput. Green juggernaut melee adds to Red/Orange melee and Yellow ranged/Transductionist pressure; no new basin-domain rule follows.
 
 The [exact calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) supplies seven Orange Dungeon clears, two failed Yellow attempts with zero Yellow completions, no Red Dungeons, Normal Red+Orange Raid clear, Hard Red clear/Orange attrition failure, and a successful late domai block. O4D2's paid Normal Red is constrained to an unpaid boss distinct from O1D6; exact identity remains OPEN. Hard attempt elimination/no replacement, general partial-progress OPENs and contextual domai scoring remain. O7D5 full recovery and tournament appointments have no scheduled combat. Ten OPEN days are protected; repeat rows do not mandate chapters. Earlier Yellow W8–10 working ceilings describe pre-CSR behavior, not this new architectural stage.
+
+## Checkpoint 21 — pre-Orb upper-Green ceiling
+
+Pre-Orb Arc Four:
+- Green band = W13–W18.
+- Blue entry = W19.
+- Kira Solo can reliably clear full Green through **W18** and enter W19, but Blue is too difficult to operate in.
+- Kira+illi Duo can reliably clear full Green through **W18** and enter W19, but fails in Blue.
+- W18 is the reliable credit-farming depth; W19 is record/reconnaissance and the Blue Wall.
+- A full W1→W18 Trial is a major author-time block: roughly **21–38 hours**, ~29.5 hours central. Protect it as approximately a full 31-hour Valnak day with spillover risk.
+
+Genesis Beam does NOT auto-push the Duo into Blue competence. It improves upper-Green consistency/efficiency.
+
+Existing bands give W1–18 minimum 3×20/60 + 4×45/60 + 5×1 + 6×2 = 21 hours; maximum 3×40/60 + 4×75/60 + 5×2 + 6×3.5 = 38 hours; midpoint 29.5. W19 failure has no completion reward and no invented stopwatch allowance. Recovery rows protect spillover. illi does not clear Green Solo in this scaffold; her exact Solo standing stays OPEN. [Yellow calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md); [eldris tactics](ELDRIS_REFERENCE.md).

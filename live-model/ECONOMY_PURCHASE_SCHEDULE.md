@@ -1,6 +1,6 @@
 # MK157 — Economy and purchase-schedule handoff
 
-Current authority: Checkpoint 20, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
+Current authority: Checkpoint 21, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
 ## Kira Black acquisition economics — current
 
@@ -213,7 +213,7 @@ Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit gene
 Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
-Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery.
+Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
 Around mid-Green, mature two-Orb blender is the major economic inversion.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
@@ -268,3 +268,38 @@ The card is a loved collectible tied to Kira's childhood blacksmith/Fireball fas
 Cards/decks and Genesis Cards remain the primary discretionary sinks; serious Auction goods are beyond their current tier. Author **world events → organic combat → gross income → card/life spending → terminal progression**; do not invent trinkets/Auction purchases to absorb credits. abecca/hospitality costs are ordinarily trivial, without exact prices here.
 
 Foundations may manage donations/endowments and mathematics research, own/license protected mathematical/sigil implementations and earn/reinvest royalties. The woman/foundation retains independent productive capital through marriage; exact legal/IP/royalty/investment mechanisms remain OPEN. Valnak gifts/transfers may fund civic/social consumption including residences/cards; **Binding/rank/combat progression and indirect shortcuts are prohibited**. UI/limits/enforcement/anti-circumvention remain OPEN. [Full conceptual doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md) supplies no actual sponsor, gift or payout for Kira's card.
+
+## Checkpoint 21 — Yellow gross and discretionary economy
+
+The combat calendar is NOT constrained to stop once Binding progression is funded.
+Baseline progression income can be exceeded naturally through additional Trials/Dungeons/Raids.
+Excess credits support human life:
+- `raeon` cards/decks;
+- Genesis Cards;
+- clothing and social presentation;
+- ordinary savings;
+- future luxury goals;
+- other lawful non-progression consumption.
+
+Affordability never auto-advances a locked Binding purchase date.
+Cards remain a major Valnak cultural/endgame credit sink. Higher-ranked/cycle-exclusive cards can be extremely expensive; exact general card-price schedule remains OPEN. Kira's 86,000 Blue Fireball remains the only specific card price locked here.
+
+Integrate `ARC4_YELLOW_COMBAT_CALENDAR.csv/json` as the current author scaffold Y1D3→Y6D3.
+Key totals:
+- 5 shared W18 Duo Trial days;
+- 1 explicit Kira W18 Solo day;
+- 17 Orange Dungeon clears across 5 farm sessions;
+- 4 Yellow Dungeon attempts: 3 clears / 1 failure from Kira's perspective; illi participates in 2 clears;
+- 3 Normal Raid PUG attempts with escalating success;
+- 1 Hard Raid attempt: Hard Red clear / Hard Orange fail;
+- no scheduled domai;
+- explicit recovery/open days after major Trial/Raid pressure.
+
+Exact deterministic gross from this scaffold:
+- illi **64,725**
+- Kira **73,585**
+
+These are gross combat earnings, not final bank balances. Failed-Dungeon partial-progress credits, card spending, prior carry-in and any future contextual income remain OPEN.
+From a zero carry-in hypothetical only, illi would be 8,319 short of the 73,044 progression spend; this is NOT a canonical deficit because her carry-in/card cashflow is intentionally unresolved. Kira's scaffold gross exceeds the 61,017 Orb price before discretionary spending.
+
+Kira’s zero-carry-in illustration is 73,585 − 61,017 = 12,568 before cards/life spending, not an ending balance. No gift, domai amount, extra paid row or altered reward is invented to balance the model. Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery. [Calendar and audit](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md).

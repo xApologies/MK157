@@ -1,6 +1,6 @@
 {
-  "checkpoint": 20,
-  "status": "LOCKED direction and supplied milestones; unsupplied calendar OPEN",
+  "checkpoint": 21,
+  "status": "LOCKED Y1D3–Y6D3 combat scaffold; exact Orb day and social overlay OPEN",
   "arc_clock": "illi Binding progression; Kira acquisitions may fall inside arcs",
   "arc_closures": {
     "1": [
@@ -33,10 +33,11 @@
     "price": 61017,
     "arc": 4,
     "date": null,
-    "date_status": "OPEN pending Arc Four calendar",
+    "date_status": "Late Yellow inside Arc Four; exact day OPEN",
     "excluded_date": "Yellow W1 D2",
     "arc_three_endpoint_purchase": false,
-    "fund_rebuilt_after_card": true
+    "fund_rebuilt_after_card": true,
+    "seasonal_window": "Late Yellow"
   },
   "illi_beam_red_before_arc4": {
     "season": "Yellow",
@@ -83,14 +84,14 @@
   "kira_first_yellow_dungeon": {
     "arc": 4,
     "mode": "Normal",
-    "day": null,
-    "status": "LOCKED story beat; date OPEN",
+    "day": "Y4D2",
+    "status": "LOCKED dated story beat and completion payout",
     "illi_present": false,
     "illi_clearance_at_event": "Orange",
     "competent_group": true,
     "eligibility_rules_preserved": true
   },
-  "new_daily_combat_schedule": null,
+  "new_daily_combat_schedule": "ARC4_YELLOW_COMBAT_CALENDAR.json",
   "preserved_orange_gross": {
     "illi": 58885,
     "kira": 83915
@@ -111,5 +112,18 @@
   },
   "foundation_patent_royalty_rules": "Direction only; statutes, rates, terms and investment regulation OPEN",
   "domai_payout": "OPEN BY DESIGN",
-  "source": "../provenance/checkpoint-20-package/CHECKPOINT20_LIVE_MODEL_DELTA.md"
+  "source": "../provenance/checkpoint-21-package/CHECKPOINT21_LIVE_MODEL_DELTA.md",
+  "kira_black_scaffold": {
+    "Armor of the Abyss": "Entry/Red",
+    "CSR": "Early Orange",
+    "Genesis Orbs": "Late Yellow",
+    "Halo": "Early Blue",
+    "Domain": "Late Violet"
+  },
+  "yellow_deterministic_gross": {
+    "illi": 64725,
+    "kira": 73585
+  },
+  "yellow_personal_elimination_day": null,
+  "hard_raid_date_policy": "Y6D1; if a later personal Yellow raeon bracket conflicts, move the event within available Arc Four space, preserving outcome and payout."
 }

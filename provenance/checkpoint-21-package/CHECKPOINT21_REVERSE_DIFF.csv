@@ -1,0 +1,14 @@
+topic,previous/current,checkpoint21,action
+Kira Orbs seasonal placement,CP20 weakened to generic inside Arc4,Late Yellow restored; exact day open,SUPERSEDE
+Kira Halo,Early Blue,Early Blue,PRESERVE
+Kira Domain,Late Violet,Late Violet,PRESERVE
+Arc4 close,Y6D3 illi Genesis Prime Red,unchanged,PRESERVE
+Trial ceiling pre-Orb,not daily-scheduled,W18 clear / W19 Blue entry-fail,LOCK
+Orange Dungeon,3–5h,17 clears / 5 farm sessions,ADD CALENDAR
+Yellow Dungeon,5–10h,"4 attempts; Kira 3 clears, illi 2 clears",ADD CALENDAR
+Green Dungeon,globally available,none in current first-cycle scaffold,LOCK SCOPE
+Normal Raid,seasonal content,3 PUG attempts: fail R; clear R/fail O; repeat R/clear O,ADD
+Hard Raid,seasonal content,Hard R clear / Hard O fail,ADD
+domai,OPEN contextual,no required Arc4 event/payout,PRESERVE
+ELDRIS behavior,partial MK157 shorthand,import compatible supplied master behavior model,ADD
+illi future milestones,17-event ledger,unchanged through Resonance Prime,PRESERVE

@@ -1,0 +1,25 @@
+id,topic,before,source_action,after,disposition,targets
+CP21-01,Kira Orbs seasonal placement,CP20 weakened to generic inside Arc4,SUPERSEDE,Late Yellow restored; exact day open,OPEN exact Orb day; PRESENT seasonal lock,live-model/01_KIRA.md; world-clock/ARC4_HANDOFF.json
+CP21-02,Kira Halo,Early Blue,PRESERVE,Early Blue,PRESENT,world-clock/ARC4_HANDOFF.json
+CP21-03,Kira Domain,Late Violet,PRESERVE,Late Violet,PRESENT,world-clock/ARC4_HANDOFF.json
+CP21-04,Arc4 close,Y6D3 illi Genesis Prime Red,PRESERVE,unchanged,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json
+CP21-05,Trial ceiling pre-Orb,not daily-scheduled,LOCK,W18 clear / W19 Blue entry-fail,PRESENT,live-model/COMBAT_THRESHOLDS.md; live-model/ELDRIS_REFERENCE.md
+CP21-06,Orange Dungeon,3–5h,ADD CALENDAR,17 clears / 5 farm sessions,PRESENT,world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json
+CP21-07,Yellow Dungeon,5–10h,ADD CALENDAR,"4 attempts; Kira 3 clears, illi 2 clears",PRESENT,world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json
+CP21-08,Green Dungeon,globally available,LOCK SCOPE,none in current first-cycle scaffold,PRESENT,live-model/COMBAT_ECOLOGY.md
+CP21-09,Normal Raid,seasonal content,ADD,3 PUG attempts: fail R; clear R/fail O; repeat R/clear O,PRESENT,world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json
+CP21-10,Hard Raid,seasonal content,ADD,Hard R clear / Hard O fail,PRESENT,world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json
+CP21-11,domai,OPEN contextual,PRESERVE,no required Arc4 event/payout,PRESENT,live-model/COMBAT_ECOLOGY.md; combat-rewards/DOMAI_PARTICIPATION_RULES.json
+CP21-12,ELDRIS behavior,partial MK157 shorthand,ADD,import compatible supplied master behavior model,PRESENT,live-model/ELDRIS_REFERENCE.md; provenance/checkpoint-21-package/source/MK147_MASTER_ELDRIS_LRS.pdf
+CP21-13,illi future milestones,17-event ledger,PRESERVE,unchanged through Resonance Prime,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json
+CP21-14,Specific Blue Fireball card,CP20 single collectible 86000,PRESERVE,"Only this card, not universal Blue price; no Binding grant",PRESENT / OPEN as scoped,world-clock/ARC4_HANDOFF.json
+CP21-15,illi Beam fatigue role,Sustain-first before Beam,LOCK,Selective offense; Absorption refresh/emergency reserve compete; no Green Solo clear,PRESENT / OPEN as scoped,live-model/ILLI_PROGRESSION.md; live-model/ELDRIS_REFERENCE.md
+CP21-16,Cohort/public Node profiles,Existing broad recruiting direction,CLARIFY,Loose peers; validated identity/standings/architecture/ranks/Legacy/credentials; no item levels/private inventory assumption,PRESENT / OPEN as scoped,live-model/COMBAT_ECOLOGY.md; live-model/03_VALNEK_PATHS.md
+CP21-17,Adult demographic,Working cohort direction,WORKING,"Approximately 17–45; under-17 youth track, not biological law",WORKING-ILLUSTRATIVE,live-model/COMBAT_ECOLOGY.md
+CP21-18,Runtime and negative space,Existing per-wave and Dungeon ranges,PRESERVE,"W18 21–38h central29.5, full31h day/spillover; Orange3–5h Yellow5–10h",PRESENT / OPEN as scoped,live-model/COMBAT_THRESHOLDS.md; world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md
+CP21-19,Tournament conflict rule,Standing W5–7 circuit,LOCK / OPEN,Y5D1 qualification/Y5D6 availability; personal elimination OPEN; move Hard Raid only for actual later conflict,PRESENT / OPEN as scoped,live-model/RAEON.md; world-clock/ARC4_HANDOFF.json
+CP21-20,Gross and cashflow,Full income/spend reconciliation OPEN,LOCK / OPEN,64725 illi/73585 Kira; zero-carry illustration8319/12568; no fabricated deficit or funding,PRESENT / OPEN as scoped,live-model/ECONOMY_PURCHASE_SCHEDULE.md
+CP21-21,Extra-credit discretionary economy,Broad lived-civilization economy,LOCK,Do not stop organic combat when progression funded; no automatic early purchases; general card prices OPEN,PRESENT / OPEN as scoped,live-model/ECONOMY_PURCHASE_SCHEDULE.md
+CP21-22,Social recursive overlay,CP20 undated social palette,PRESERVE,Tea Parties/Gala/Builder/decks/Genesis/abecca/royal family/Champion Table/clothing/home; no auto-fill,PRESENT / OPEN as scoped,live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md
+CP21-23,Y6D3 Orb window,Exact day OPEN,PRESERVE,Window label is not proof of dated purchase,PRESENT / OPEN as scoped,world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md; provenance/CHECKPOINT_21_BOUNDARY_SEARCH.json
+CP21-24,Source scope and preservation,MK157 constitution/atomic library,PRESERVE,PDF read fully; normalize lexical form; examples/secondary analogies not new rules; all old archives retained,PRESENT / OPEN as scoped,live-model/SOURCE_BOUNDARIES.md; world-clock/validate_arc4_yellow.py

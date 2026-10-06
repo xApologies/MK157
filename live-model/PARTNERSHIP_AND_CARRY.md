@@ -54,6 +54,10 @@ The [Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) gives Kira six ind
 
 ## Checkpoint 20 — independent lives and recovery
 
-illi's royal/social obligations leave room for Kira's independent eligible Dungeon/domai/Green Solo activity. Kira earns the first Yellow Normal clear of the pair without illi during Arc Four; exact day OPEN. illi remains Orange-cleared and is playfully/competitively upset. They share a flexible abecca/meals/card-shop/Highlights/home rhythm, not obligatory daily attendance. Home/lounge/recovery and genuine nothing days are deliberate state, not automatically spare farming time.
+illi's royal/social obligations leave room for Kira's independent eligible Dungeon/domai/Green Solo activity. Kira earns the first Yellow Normal clear of the pair without illi during Arc Four at Y4D2 under Checkpoint 21. illi remains Orange-cleared and is playfully/competitively upset. They share a flexible abecca/meals/card-shop/Highlights/home rhythm, not obligatory daily attendance. Home/lounge/recovery and genuine nothing days are deliberate state, not automatically spare farming time.
 
 Tea Parties and peer gatherings support durable relationships; one Gala per season supplies an undated option. Kira's 86,000 Blue Fireball card at Arc Three close is a delighted human milestone, and she rebuilds the 61,017 Orb fund later. Existing independent choices and Project Princess Carry remain. [Social doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md) and [Arc Four](../world-clock/ARC4_HANDOFF.md).
+
+## Checkpoint 21 — peer progression and independent lives
+
+Kira’s Green Solo graduation does not force illi out of first-cycle social life. illi’s NPC formation saturates; her exact Solo standing stays OPEN and she does not clear Green Solo here. Their premium two-person core can make Yellow farmable with a suitable three-person peer nucleus, without creating a permanent team, guild or vaelum. Beam offense competes with Absorption refresh/emergency reserve; W18 consistency improves while Blue remains a wall. Y4D2 belongs to Kira alone; the pair shares two Yellow clears Y5D3. Exact peer population, social overlay and cash balances remain OPEN.
