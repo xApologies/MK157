@@ -43,3 +43,5 @@ bindings/PRICING_CLASS_MATRIX.csv whitespace=cr-at-eol
 
 provenance/checkpoint-19-package/*.csv whitespace=cr-at-eol
 economy/*.csv whitespace=cr-at-eol
+
+provenance/checkpoint-20-package/*.csv whitespace=cr-at-eol

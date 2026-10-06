@@ -1,8 +1,8 @@
 # Authority and supersessions
 
-Checkpoint 19 governs the Arc Three calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections.
+Checkpoint 20 governs arc boundaries and the specific Blue Fireball card purchase. Checkpoint 19 governs the unchanged Orange combat calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections.
 
-Checkpoint 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -69,7 +69,7 @@ Older Checkpoint 03 Signature first Binding absorption wording is superseded by 
 
 ## Checkpoint 09 governing continuation
 
-Checkpoint 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+Checkpoint 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 Lowercase `eldris` supersedes Checkpoint 08 uppercase typography. `raeon`, `domai`, `vaen`, `maege`, `maegi` are lowercase; spelling-by-letter capitals are transcription artifacts.
 The current carriage supersedes historical Open Blank transport. Schedule PDFs supply methodology only. MK157 explicit canon governs approved upstream inheritance. Outside persistent Dungeons are distinct from Valnak procedural training; outside `domai` unravel progressively after core break, while Valnak incursions terminate as completed encounters.
 Checkpoint 08 Green Solo graduation and Black/White progression remain. No new registry records are requested. The exact Checkpoint 09 master retains its original pending-integration header and quoted uppercase transcription example; current status is integrated and its authority is active.
@@ -77,7 +77,7 @@ See [full master](16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md), [source boundar
 
 ## Checkpoint 10 Trial/calendar delta
 
-Checkpoint 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
+Checkpoint 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
 
 Wave totals describe delivered population, not simultaneous population. Solo/Duo/Trio share fixed 3×3-mile geography; Dungeon realization remains procedural. W35 pressure saturation is WORKING; post-W35 total population, numeric caps and exact spawn laws remain OPEN. W96 is noncanonical.
 
@@ -85,7 +85,7 @@ Calendar conflict: supplied months sum to 353 rather than 360; 360 days/60 weeks
 
 ## Checkpoint 11 governing delta
 
-19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations use the Checkpoint 19 acquisition tier of 61,017 each. Their former 61,000 prices remain historical; ordinary registry rank pricing remains separate. Armor remains the ~1,000-credit anomalous starter. Checkpoint 14 reopened the prices; Checkpoint 19 resolves them.
+20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations use the Checkpoint 19 acquisition tier of 61,017 each. Their former 61,000 prices remain historical; ordinary registry rank pricing remains separate. Armor remains the ~1,000-credit anomalous starter. Checkpoint 14 reopened the prices; Checkpoint 19 resolves them.
 illi's Persistent Coherence BLUE is required for White Legacy entry. This supersedes immediate-entry access and arbitrary Absorption acquisition dates; individual Prime GREEN-to-RED gates remain unchanged. The 26,648 cumulative example is illustrative B=1,000, not a new registry price assignment.
 Valnak weeks have seven days (343 days/deployment). Planetary month-total conflict remains OPEN. Daily highlights at 25:00, raeon W7 D5 final, W7 D5–D7 Auctions and White-season Prism playoff placement supersede older timing OPENs. Fine match schedules remain OPEN.
 Genesis Cards are active inherited collectibles, not Binding grants/casts. Their colors express actual manifold basins; raeon colors express game classification/rarity. Both share transparent durable maege glass. No universal color/element mapping follows from illustrative card examples.
@@ -137,8 +137,20 @@ Applicable MK-147 aithren/vaelum/Accord doctrine is promoted, with generic insti
 
 The explicit final 61,017 acquisition tier supersedes prior post-Armor Black-price OPENs and the package delta/audit's earlier ~50k–60k provisioning text. CSR/Genesis Orbs/Halo/Domain each use this character-specific tier; neither old 61,000 nor ordinary class pricing substitutes for it. Armor remains ~1,000. Package sources and earlier checkpoint masters remain immutable history.
 
-The exact O2D4–O7D7 scaffold governs Arc Three required combat, with immediate Green after CSR, 9 Duo/6 Kira Solo runs, 7 Orange Dungeon clears, 2 failed Yellow attempts and zero Yellow clears/no Red Dungeons. Kira's general free-time Solo tendency does not consume its 11 protected OPEN rows. Scope-specific card collecting/no meaningful Auction purchases leaves broader economy doctrine intact.
+The exact O2D4–O7D7 scaffold governs Arc Three required combat, with immediate Green after CSR, 9 Duo/6 Kira Solo runs, 7 Orange Dungeon clears, 2 failed Yellow attempts and zero Yellow clears/no Red Dungeons. Kira's general free-time Solo tendency does not consume its 10 protected OPEN rows. Scope-specific card collecting/no meaningful Auction purchases leaves broader economy doctrine intact.
 
 R5D4 tournament participation/elimination refines an existing no-combat day. O5D1/O5D6 personal tournament dates are explicit; O5D6 does not shift the standing W6 elimination track. O7D5 is full recovery/optional championship viewing without combat. O4D2 paid Red must be a distinct unpaid boss from O1D6; boss identities remain OPEN.
 
 Arc gross 58,885/83,915 excludes domai and spending; Kira headroom 22,898 reserves 61,017, and illi reserves 6,050 until Y1D2. No acquisition date is moved simply because a purchase is affordable. Existing Kira development chronology and all 17 illi milestones remain. Successful domai payout/scoring and exact card purchases stay OPEN BY DESIGN. [Checkpoint](26_CHECKPOINT_19_ARC_THREE.md), [calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) and [conflicts](../provenance/CHECKPOINT_19_CONFLICTS.md) govern current interpretation.
+
+## Checkpoint 20 — arc boundary and social-life reconciliation
+
+illi's Binding milestones govern the arc clock. Arc Three closes at the Yellow opening with illi Beam Red (Y1D2) and Kira's 86,000 specific Blue Fireball Genesis Card, not Genesis Orbs. Genesis Orbs remain 61,017 and occur inside Arc Four; exact date OPEN, not Y1D2. Arc Four closes structurally at Y6D3 Genesis Prime Red. Prior language implying Arc Four begins after Orbs, or that an Orb reserve defines Arc Three's endpoint, is superseded. Earlier broad late-Yellow acquisition placement does not assign a timestamp. Later competency direction remains separate.
+
+CP19's 39 Orange rows, tournament dates, gross earnings and the CP18 economy remain. Its 22,898 reserve headroom and O7D7 reserve annotation are historical planning; they do not require buying both the card and Orbs or retaining a simultaneous Orb reserve. Historical checkpoint masters and audits remain evidence. Kira rebuilds the Orb fund later; exact card funding, domai payout and further income/spending remain OPEN.
+
+The specific Blue Fireball card resolves only that collectible's price. It does not price all Blue Genesis Cards or change structural card-color semantics/Binding prices. Kira's pleasure is a human milestone, not financial failure. The four unchanged illi costs sum to 63,694 for Beam ranks and 73,044 including Prime; Beam Red 6,050 is already paid.
+
+Kira's general free-time Solo habit does not erase explicit home/recovery/nothing days. abecca and recurring Highlights dinners are flexible rhythm, not daily mandates. One Gala per season is cadence only, with exact dates OPEN. Tea House/Party/foundation and mathematics/IP/royalty direction supplies conceptual institutions, not invented law. Valnak social/civic gifts are allowed; direct/indirect progression financing is prohibited with enforcement OPEN. Kira's first Yellow Normal clear is an independent Arc Four story beat, not a new calendar entry or a clear credited to absent illi.
+
+The CP19 supersession paragraph's “11 protected OPEN rows” was a prose counting error; the unchanged source calendar/audits contain **10**. Corrected the active paragraph without changing any calendar row. [Checkpoint 20](27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md) and [conflicts](../provenance/CHECKPOINT_20_CONFLICTS.md) govern.

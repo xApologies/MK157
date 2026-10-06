@@ -1,0 +1,11 @@
+{
+  "package": "MK157_CHECKPOINT20_SOCIAL_LIFE_ARC4_HANDOFF",
+  "expected_base": "Checkpoint 19",
+  "files": [
+    "CHECKPOINT20_DECISIONS.csv",
+    "CHECKPOINT20_LIVE_MODEL_DELTA.md",
+    "EXECUTABLE.md",
+    "README.md",
+    "VERA_CHECKPOINT20_AUDIT.json"
+  ]
+}

@@ -36,12 +36,12 @@ Standing events remain W5 qualification/opening, W6 elimination progression, W7D
 
 Kira's character-specific [post-Armor Black acquisition tier](../economy/KIRA_BLACK_ACQUISITION_PRICES.json) is **61,017 each for CSR / Genesis Orbs / Halo / Domain**. Armor remains its approximately 1,000-credit anomaly. Ordinary class pricing never supplies these prices. CSR is already held at Arc Three entry, so its purchase is not charged again against this arc's income.
 
-Reserve **61,017 for Genesis Orbs**: 83,915 − 61,017 = **22,898** deterministic Arc Three headroom, before any domai contribution and without assuming an opening Kira balance. This is not a recorded final balance or a spending target.
+Checkpoint 19's 83,915 − 61,017 = 22,898 reserve calculation is historical planning. **Checkpoint 20 supersedes the Orb-reserve endpoint objective:** Arc Three closes at the Yellow opening with illi Beam Red and Kira's specific **86,000-credit Blue Fireball Genesis Card**. She rebuilds the **61,017** Orb fund during Arc Four. Funding and actual balances remain OPEN; no domai award or gift is fabricated.
 
 illi must reserve **6,050** for **Genesis Beam Red at Yellow W1 D2** (11,000 list ×55% White Legacy). Her 58,885 arc income alone exceeds that reserve by 52,835; the prior 42-credit progression balance is separate. No early purchase is forced by affordability and no card-spending ledger is invented.
 
 The primary discretionary sinks are new-cycle raeon cards/deck construction and Genesis Cards; Kira particularly collects Fireball Genesis Cards. Exact inventories, dates, prices and totals remain OPEN. No meaningful Auction purchasing or invented miscellaneous luxury sink is assigned in this arc. A contextual successful-domai award may finance further collecting, but its amount/formula is OPEN BY DESIGN and excluded from all deterministic totals. Numeric zero in its source rows means no booked deterministic payout, not a canonical zero eventual award.
 
-The Orange endpoint requires retained liquidity, not a new purchase timestamp. Existing later Kira acquisition/development timing remains; the next major arc direction centers on the distributed-offense economy after Orbs. Later detailed transitions and transactions remain unassigned.
+The Orange combat CSV/JSON stops at O7D7; this is not the corrected narrative Arc Three endpoint. Arc Three closes at the illi Beam Red boundary (Y1D2) with the Blue Fireball card. Genesis Orbs are acquired inside Arc Four, exact date OPEN and explicitly not Y1D2. Arc Four closes structurally at Genesis Prime Red Y6D3. See the [current handoff](ARC4_HANDOFF.md).
 
 [Calendar/economy audit](ARC3_ECONOMY_AUDIT.json), [validator](validate_arc3.py), [checkpoint](../live-model/26_CHECKPOINT_19_ARC_THREE.md) and [conflict decisions](../provenance/CHECKPOINT_19_CONFLICTS.md) document the integration.

@@ -1,6 +1,6 @@
 # MK157 — Genesis Cards and physical card cultures
 
-Current authority: Checkpoint 14 commodity doctrine, retaining Checkpoint 11 card semantics. No new Binding records or universal basin mappings are assigned.
+Current authority: Checkpoint 20 specific collectible/social doctrine, retaining Checkpoint 14 commodity direction and Checkpoint 11 card semantics. No new Binding records or universal basin mappings are assigned.
 
 ## 7. Two distinct card ecosystems
 
@@ -111,3 +111,9 @@ Illustrative White Fireball 1.3M/3M, Dimensional Ring 2M, and Valnak-made prince
 ## Checkpoint 19 — Arc Three collecting
 
 Genesis Cards and new-cycle raeon cards/decks are the primary discretionary sinks during Arc Three. Kira particularly collects **Fireball Genesis Cards**. Exact inventory, purchase dates, prices, rarity mix and spending totals remain OPEN; no meaningful Auction purchasing is assigned in this arc. The two card ecosystems and their color/physical firewalls remain distinct. See [Arc Three economy](../world-clock/ARC3_ORANGE_CALENDAR.md#reserves-and-spending).
+
+## Checkpoint 20 — specific Blue Fireball purchase
+
+Kira's small Fireball-focused collection reflects her childhood dream of being a blacksmith who wields fire. Across earlier visits she repeatedly wants a particular **Blue Fireball Genesis Card** at the **Genesis Card flagship**, distinct from the raeon flagship; she previously prioritizes CSR responsibly. At Arc Three's illi Beam Red boundary she chooses this card for **86,000 credits**, instead of immediately buying Orbs. She is delighted; it is a personal milestone, not moralized financial failure. She rebuilds the 61,017 Orb fund during Arc Four.
+
+**86,000 prices only this collectible**, not all Blue cards and not a Binding. The card does not grant Fireball; existing transparent maege-glass and structural basin-color rules remain. Other inventory/prices and detailed funding remain OPEN. Genesis Card collecting/trading gatherings and card-shop life are available social events with no newly assigned dates. Social/civic gifts may buy cards, but no actual donor is assigned and no direct/indirect progression-financing loophole follows. [Arc Four handoff](../world-clock/ARC4_HANDOFF.md); [transfer doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md#valnak-social-credit-transfer-firewall).

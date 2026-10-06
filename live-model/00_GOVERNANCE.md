@@ -100,3 +100,7 @@ Checkpoint 10 explicitly promotes the 31-hour day; [calendar conflicts](PLANETAR
 Checkpoint 11 explicitly promotes Genesis Card inheritance: bounded-manifold collectibles, not Binding grants/casts. [Genesis Card color](GENESIS_CARDS.md) is structural basin composition; raeon color is game classification/rarity. The handoff to future purchase simulation does not fix acquisition dates.
 
 Checkpoint 18 fixes lowercase `aithren` (individual/cultural participation identity) and `vaelum` (persistent independent recognized contract-capable organization). The Accord Registry registers/recognizes vaelum. [Institutional doctrine](AITHREN_VAELUM_ACCORD.md) and [source boundaries](SOURCE_BOUNDARIES.md) preserve exact governance/scoring/tax OPENs and excluded transfers.
+
+## Checkpoint 20 lexical and scope rules
+
+Canonical coffee-equivalent: **abecca**, lowercase, **A-B-E-C-C-A**. During user development, shorthand “coffee” maps to abecca. [Social life/foundations](SOCIAL_LIFE_AND_FOUNDATIONS.md) provides conceptual culture; no patent statutes, royalty rates, transfer enforcement or social-event dates are inferred. The specific Blue Fireball card's 86,000 price is not a universal Blue-card rule or Binding price. [Arc boundaries](../world-clock/ARC4_HANDOFF.md) govern Kira/illi timing without filling OPEN days.

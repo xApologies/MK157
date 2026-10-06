@@ -1,0 +1,793 @@
+{
+  "result": "PASS",
+  "scope": "Active Markdown/JSON/CSV and historical checkpoint contexts",
+  "patterns": [
+    "(?i)orbs.{0,160}(?:Y1D2|Yellow W1 D2|arc.three.{0,20}end|endpoint|reserve)",
+    "(?i)(?:arc.four|arc.4).{0,160}(?:after|begins).{0,40}orbs",
+    "(?i)(?:22,898|61017 for Orbs|Genesis Orbs arrive late Yellow)"
+  ],
+  "before_findings": [
+    {
+      "path": "README.md",
+      "line": 42,
+      "text": "[Checkpoint 19 — Arc Three](live-model/26_CHECKPOINT_19_ARC_THREE.md) adds the exact [39-day Orange calendar](world-clock/ARC3_ORANGE_CALENDAR.md), tournament appointments and the **61,017-credit character-specific post-Armor Black tier**. Deterministic arc income is **58,885 illi / 83,915 Kira**; Kira retains **22,898 headroom** after reserving Orbs. domai payout and card purchases remain OPEN. [Audit/file list](provenance/CHECKPOINT_19_AUDIT.json), [reverse diff](provenance/CHECKPOINT_19_REVERSE_DIFF.csv), [coverage](provenance/CHECKPOINT_19_COVERAGE_MANIFEST.csv) and [conflicts](provenance/CHECKPOINT_19_CONFLICTS.md) record validation."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 109,
+      "text": "Armor of the Abyss → CSR → Genesis Orbs → Halo → Domain, with the current seasonal scaffold governed by the newest checkpoint."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 160,
+      "text": "Green Solo graduates first-cycle progression grouping early; social life is not quarantined. Repeat legitimate Trials award credits without a personal-best requirement. Orbs are intentionally anomalous; no ontology is assigned. illi's six first-cycle capabilities follow [Checkpoint 08](live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md), with dates corrected by the current [illi progression](live-model/ILLI_PROGRESSION.md); older 07B direct/area-healing plans remain superseded."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 218,
+      "text": "Checkpoint 19 integrates the exact Arc Three Orange continuation and character-specific post-Armor 61,017 acquisition tier. Treat final package author locks as resolving its earlier price-OPEN draft. Preserve source calendar rows, 10 OPEN days, explicit tournament appointments, terminal reserves, no automatic early purchases, contextual domai payout and card-spending OPENs. Gross earnings are not final balances. See [Checkpoint 19](live-model/26_CHECKPOINT_19_ARC_THREE.md)."
+    },
+    {
+      "path": "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+      "line": 8,
+      "text": "    \"Genesis Orbs\": 61017,"
+    },
+    {
+      "path": "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+      "line": 15,
+      "text": "  \"acquisition_dates\": \"No new exact purchase date assigned; Arc Three endpoint requires reserves, not automatic purchases\","
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 124,
+      "text": "Kira's Genesis Orbs are persistent external Black Genesis-energy bodies, roughly cannonball-sized (~8 in / 20 cm), dense/solid in interaction and capable of acting as mobile Transducers."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 127,
+      "text": "- one or more Orbs resolve into extremely rapid orbital trajectories around Kira / defended local space;"
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 130,
+      "text": "- eldris entering the orbital path physically collide with dense, high-speed Black Genesis Orbs and suffer catastrophic blunt/Genesis trauma;"
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 150,
+      "text": "Orbs are mobile Transducers, not merely weapons. Their crude cannonball use is simply devastating early application."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 154,
+      "text": "Orbs can eventually become remote Transductive/Domain anchors."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 160,
+      "text": "- Late Yellow: Genesis Orbs"
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 181,
+      "text": "## 10. Kira progression / Orbs"
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 182,
+      "text": "Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (late Yellow) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 185,
+      "text": "Genesis Orbs are INTENTIONALLY ANOMALOUS; do not classify them as literal singularities/black holes/etc. They are persistent externalized extensions of Kira and her Genesis interface, respond to her consciousness, interact physically/Transductively, become remote Transductive interfaces, and after Domain can project/exert Kira's Domain. Distributed Domain use matters to the end-book Genesis Collapse solution. Elara later discovers capabilities, not a mandatory ontology."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 404,
+      "text": "Armor of the Abyss remains the approximately 1,000-credit anomalous starter. Checkpoint 19 locks CSR → Genesis Orbs → Halo → Domain at **61,017 credits each**, in that acquisition order. This character-specific post-Armor Black tier reflects Valnak/Elara realization burden and does not use the ordinary five-class Binding matrix. The former 61,000 figure remains superseded; Armor is not repriced. Acquisition, affordability and later competency remain distinct."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 458,
+      "text": "Genesis Orbs arrive late Yellow; acquisition is not mastery."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 480,
+      "text": "## Checkpoint 19 — Arc Three capability and choices"
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 482,
+      "text": "CSR is held by O2D3 and immediately enables Green Solo/Duo Trial territory. Mobility/repositioning solves lock-down without mass-clear/distributed offense; the later Genesis Orbs discontinuity remains. The [Arc Three scaffold](../world-clock/ARC3_ORANGE_CALENDAR.md) locks nine Duo and six Kira-only Solo runs, no Yellow Dungeon completions, and ten OPEN days. Card collecting (especially Fireball Genesis Cards) and new-cycle raeon decks dominate discretionary choices; no meaningful Auction purchases are assigned. Gross 83,915 less the 61,017 Orbs reserve leaves 22,898 headroom before OPEN domai awards and exact spending. Reserves do not establish a new acquisition timestamp or automatic mastery."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 556,
+      "text": "Genesis Orbs arrive late Yellow; acquisition is not mastery."
+    },
+    {
+      "path": "live-model/04_COMBAT_WORLD.md",
+      "line": 132,
+      "text": "Kira's Genesis Orbs are persistent external Black Genesis-energy bodies, roughly cannonball-sized (~8 in / 20 cm), dense/solid in interaction and capable of acting as mobile Transducers."
+    },
+    {
+      "path": "live-model/04_COMBAT_WORLD.md",
+      "line": 135,
+      "text": "- one or more Orbs resolve into extremely rapid orbital trajectories around Kira / defended local space;"
+    },
+    {
+      "path": "live-model/04_COMBAT_WORLD.md",
+      "line": 138,
+      "text": "- eldris entering the orbital path physically collide with dense, high-speed Black Genesis Orbs and suffer catastrophic blunt/Genesis trauma;"
+    },
+    {
+      "path": "live-model/04_COMBAT_WORLD.md",
+      "line": 217,
+      "text": "Day 2 — first Kira+illi Duo Trial. Pre-Orbs: Kira has Armor; illi has Persistent Coherence. They experience Trial death/termination and residence re-instancing, process the trauma, try again, then stop for the day and go into town for food/exploration/social life."
+    },
+    {
+      "path": "live-model/04_COMBAT_WORLD.md",
+      "line": 678,
+      "text": "## Checkpoint 19 — Arc Three combat direction"
+    },
+    {
+      "path": "live-model/08_CHECKPOINT_03_ADDENDUM.md",
+      "line": 67,
+      "text": "- absorbs/distributes large impacts;"
+    },
+    {
+      "path": "live-model/08_CHECKPOINT_03_ADDENDUM.md",
+      "line": 93,
+      "text": "Halo can carry energetic load for Armor, CSR, Genesis Orbs, Domain and shapings. It does not erase fatigue; cognitive load remains independently important."
+    },
+    {
+      "path": "live-model/08_CHECKPOINT_03_ADDENDUM.md",
+      "line": 97,
+      "text": "## Genesis Orbs"
+    },
+    {
+      "path": "live-model/08_CHECKPOINT_03_ADDENDUM.md",
+      "line": 219,
+      "text": "that white Genesis-realized human state becomes overlaid/integrated with Black Armor of the Abyss, Black Genesis Orbs, Halo, CSR and Domain."
+    },
+    {
+      "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+      "line": 12,
+      "text": "4. Genesis Orbs"
+    },
+    {
+      "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+      "line": 15,
+      "text": "Each prepares Kira for the next: Armor trains cognitive embodiment; CSR spatial/dimensional control; Halo energetic throughput/load-bearing; Orbs externalized/parallel control; Domain direct interactive Genesis Field access. General progression: **access → control → fluency → integration**."
+    },
+    {
+      "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+      "line": 35,
+      "text": "Genesis Orbs can eventually serve as remote Transductive/Domain anchors. Kira initially fails to appreciate this and continues wielding them as cannonballs/orbital bludgeons."
+    },
+    {
+      "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+      "line": 65,
+      "text": "Open wave arenas are structurally vulnerable to Kira's mastered high-speed Orb orbit. eldris entering melee range collide with dense Black Genesis Orbs. This is not a force field; it is a physical/Genesis-interactive moving exclusion/disruption geometry."
+    },
+    {
+      "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+      "line": 88,
+      "text": "Examples include anomalous starter pricing, later Trial-credit explosions, Genesis Orbs used as cannonballs, Halo removing energetic constraints, and Eternal Standings preserving the results."
+    },
+    {
+      "path": "live-model/10_CHECKPOINT_05_ADDENDUM.md",
+      "line": 51,
+      "text": "The large external/offensive domain: Genesis beams/orbs, projectiles, beams, rings, lances/shards as geometry, blasts/bursts, fields, barriers, and physical/elemental expression."
+    },
+    {
+      "path": "live-model/10_CHECKPOINT_05_ADDENDUM.md",
+      "line": 131,
+      "text": "- Late Yellow: **Genesis Orbs**"
+    },
+    {
+      "path": "live-model/11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+      "line": 31,
+      "text": "**Black/battle architecture:** Armor of the Abyss, Genesis Orbs, and other Black structures use abyssal Black with internal spectral/rainbow depth. Halo final visual remains OPEN subject to Genesis/Black grammar."
+    },
+    {
+      "path": "live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+      "line": 24,
+      "text": "Kira's Genesis Orbs are persistent external Black Genesis-energy bodies, roughly cannonball-sized (~8 in / 20 cm), dense/solid in interaction and capable of acting as mobile Transducers."
+    },
+    {
+      "path": "live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+      "line": 27,
+      "text": "- one or more Orbs resolve into extremely rapid orbital trajectories around Kira / defended local space;"
+    },
+    {
+      "path": "live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+      "line": 30,
+      "text": "- eldris entering the orbital path physically collide with dense, high-speed Black Genesis Orbs and suffer catastrophic blunt/Genesis trauma;"
+    },
+    {
+      "path": "live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+      "line": 88,
+      "text": "Orbs are mobile Transducers, not merely weapons. Their crude cannonball use is simply devastating early application."
+    },
+    {
+      "path": "live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+      "line": 92,
+      "text": "Orbs can eventually become remote Transductive/Domain anchors."
+    },
+    {
+      "path": "live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+      "line": 104,
+      "text": "- Late Yellow: Genesis Orbs"
+    },
+    {
+      "path": "live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+      "line": 78,
+      "text": "## 10. Kira progression / Orbs"
+    },
+    {
+      "path": "live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+      "line": 79,
+      "text": "Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (late Yellow) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation."
+    },
+    {
+      "path": "live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+      "line": 82,
+      "text": "Genesis Orbs are INTENTIONALLY ANOMALOUS; do not classify them as literal singularities/black holes/etc. They are persistent externalized extensions of Kira and her Genesis interface, respond to her consciousness, interact physically/Transductively, become remote Transductive interfaces, and after Domain can project/exert Kira's Domain. Distributed Domain use matters to the end-book Genesis Collapse solution. Elara later discovers capabilities, not a mandatory ontology."
+    },
+    {
+      "path": "live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+      "line": 153,
+      "text": "Day 2 — first Kira+illi Duo Trial. Pre-Orbs: Kira has Armor; illi has Persistent Coherence. They experience Trial death/termination and residence re-instancing, process the trauma, try again, then stop for the day and go into town for food/exploration/social life."
+    },
+    {
+      "path": "live-model/18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md",
+      "line": 73,
+      "text": "Armor of the Abyss -> CSR -> Genesis Orbs -> Halo -> Domain."
+    },
+    {
+      "path": "live-model/18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md",
+      "line": 85,
+      "text": "- Genesis Orbs — 61,000"
+    },
+    {
+      "path": "live-model/19_CHECKPOINT_12_COMPLETE_PRICING.md",
+      "line": 21,
+      "text": "Kira's Black firewall is unchanged: Armor approximately 1,000 anomalous starter; CSR, Genesis Orbs, Halo and Domain final prices and their post-Armor total are OPEN for recalibration. Ordinary registry prices, including ordinary CSR/Genesis Orb names, never replace those character-specific gates. Checkpoint 11 calendar/card canon is unchanged. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned."
+    },
+    {
+      "path": "live-model/20_CHECKPOINT_13_THREAD_DELTA.md",
+      "line": 72,
+      "text": "Genesis Orbs arrive late Yellow; acquisition is not mastery."
+    },
+    {
+      "path": "live-model/21_CHECKPOINT_14_FULL_RECONCILIATION.md",
+      "line": 16,
+      "text": "- Genesis Orbs late Yellow; mature two-Orb blender around mid-Green."
+    },
+    {
+      "path": "live-model/21_CHECKPOINT_14_FULL_RECONCILIATION.md",
+      "line": 42,
+      "text": "Once Orbs mature, Kira+illi also commit hard to multi-day Duo pushes. Red→Violet remains broad content: Trials, Dungeons, Hard Dungeons, Raids, Valnak domai incursions, city/social/cultural life."
+    },
+    {
+      "path": "live-model/21_CHECKPOINT_14_FULL_RECONCILIATION.md",
+      "line": 45,
+      "text": "Armor and CSR are publicly legible categories. After Genesis Orbs, public understanding drops sharply."
+    },
+    {
+      "path": "live-model/21_CHECKPOINT_14_FULL_RECONCILIATION.md",
+      "line": 48,
+      "text": "Do not lock literal light-speed Orbs; exact velocity/energy remains OPEN."
+    },
+    {
+      "path": "live-model/21_CHECKPOINT_14_FULL_RECONCILIATION.md",
+      "line": 100,
+      "text": "Current Git's CSR/Orbs/Halo/Domain = 61,000 each is superseded as FINAL pricing by later live-thread recalibration discussion."
+    },
+    {
+      "path": "live-model/26_CHECKPOINT_19_ARC_THREE.md",
+      "line": 1,
+      "text": "# Checkpoint 19 — Arc Three Orange calendar and Black acquisition locks"
+    },
+    {
+      "path": "live-model/26_CHECKPOINT_19_ARC_THREE.md",
+      "line": 7,
+      "text": "The package's FINAL_AUTHOR_LOCKS, EXECUTABLE and FINAL_MANIFEST explicitly resolve the earlier delta/audit's Orbs-price OPEN/~50k–60k provisioning text. **61,017 credits** is the exact current character-specific post-Armor acquisition tier for CSR, Genesis Orbs, Halo and Domain. Armor is unchanged; no ordinary registry repricing follows. Archived contradictory draft text is historical evidence, not current price authority."
+    },
+    {
+      "path": "live-model/26_CHECKPOINT_19_ARC_THREE.md",
+      "line": 9,
+      "text": "## Arc Three locks"
+    },
+    {
+      "path": "live-model/26_CHECKPOINT_19_ARC_THREE.md",
+      "line": 24,
+      "text": "Deterministic gross: **illi 58,885; Kira 83,915**, including 25,030 from Kira's six Solo runs. domai payout is excluded. Kira reserves **61,017 for Genesis Orbs**, leaving **22,898** arc-income headroom. illi reserves **6,050 for Genesis Beam Red at Y1D2**; all 17 milestone dates and the 250,884 expenditure ledger remain unchanged. Gross earnings, retained reserve, actual balance, acquisition and mastery remain separate concepts."
+    },
+    {
+      "path": "live-model/26_CHECKPOINT_19_ARC_THREE.md",
+      "line": 26,
+      "text": "This is not a compulsory savings arc. Primary discretionary spending is new-cycle raeon deck/cards and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices stay OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. A successful domai can support contextual additional spending without a fabricated payout formula. Affordability does not auto-trigger purchases or shift the existing Kira acquisition/development roadmap. Arc Four direction centers on the fundamentally different distributed-offense economy after Genesis Orbs."
+    },
+    {
+      "path": "live-model/COMBAT_ECOLOGY.md",
+      "line": 534,
+      "text": "## Checkpoint 19 — Arc Three combat direction"
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 95,
+      "text": "## Checkpoint 19 — Arc Three combat direction"
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 7,
+      "text": "Armor of the Abyss remains the approximately 1,000-credit anomalous starter. Checkpoint 19 locks CSR → Genesis Orbs → Halo → Domain at **61,017 credits each**, in that acquisition order. This character-specific post-Armor Black tier reflects Valnak/Elara realization burden and does not use the ordinary five-class Binding matrix. The former 61,000 figure remains superseded; Armor is not repriced. Acquisition, affordability and later competency remain distinct."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 146,
+      "text": "Checkpoint 19 locks Kira's CSR/Genesis Orbs/Halo/Domain acquisitions at 61,017 each. The old 61,000 claim is SUPERSEDED; Armor remains approximately 1,000. Ordinary list prices and all unrelated canon remain governed by their existing rules."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 216,
+      "text": "Genesis Orbs arrive late Yellow; acquisition is not mastery."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 252,
+      "text": "## Checkpoint 19 — Arc Three economy"
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 254,
+      "text": "The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. Kira's **61,017 Orbs reserve** leaves **22,898** headroom from arc income; this is not her actual final balance. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 256,
+      "text": "Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. The endpoint reserves do not move Kira's existing acquisition/development timing. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18."
+    },
+    {
+      "path": "live-model/GENESIS_CARDS.md",
+      "line": 111,
+      "text": "## Checkpoint 19 — Arc Three collecting"
+    },
+    {
+      "path": "live-model/GENESIS_CARDS.md",
+      "line": 113,
+      "text": "Genesis Cards and new-cycle raeon cards/decks are the primary discretionary sinks during Arc Three. Kira particularly collects **Fireball Genesis Cards**. Exact inventory, purchase dates, prices, rarity mix and spending totals remain OPEN; no meaningful Auction purchasing is assigned in this arc. The two card ecosystems and their color/physical firewalls remain distinct. See [Arc Three economy](../world-clock/ARC3_ORANGE_CALENDAR.md#reserves-and-spending)."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 37,
+      "text": "Arc Three O2D4–O7D7 earns illi **58,885 deterministic gross** with no Solo income; successful-domai contribution and discretionary card spending remain OPEN. Reserve **6,050 for Genesis Beam Red at Yellow W1 D2**, using the existing 55% White-Legacy cost. Earlier affordability does not trigger earlier purchase. All 17 dates and the 250,884 progression-spend ledger remain unchanged. [Arc Three calendar and audit](../world-clock/ARC3_ORANGE_CALENDAR.md) preserve the distinction between gross income and actual balance."
+    },
+    {
+      "path": "live-model/INDEX.md",
+      "line": 105,
+      "text": "- [Checkpoint 19 — Arc Three](26_CHECKPOINT_19_ARC_THREE.md) — exact Orange continuation, post-Armor 61,017 tier, card spending and tournament synchronization."
+    },
+    {
+      "path": "live-model/INDEX.md",
+      "line": 106,
+      "text": "- [Arc Three calendar](../world-clock/ARC3_ORANGE_CALENDAR.md), [calendar/economy audit](../world-clock/ARC3_ECONOMY_AUDIT.json) and [Kira Black acquisition prices](../economy/KIRA_BLACK_ACQUISITION_PRICES.json)."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 3,
+      "text": "Current numeric ordinary prices/rewards are resolved by Checkpoint 18; Checkpoint 19 additionally resolves Kira's 61,017 post-Armor acquisition tier and the supplied Arc Three calendar below. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 19,
+      "text": "- [Checkpoint 07](13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md): exact final Eternal Standing waves, Elara-through-Orb identity/instancing, indefinite sustain of two/three Orbs, final Halo coloration and eventual Trio third friend remain OPEN. Per-wave narrative timing is now supplied by [the governing timing model](COMBAT_THRESHOLDS.md); exact stopwatch behavior is not fixed."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 97,
+      "text": "Exact W1–35 rows are LOCKED at cumulative 53910; W36+ remains OPEN. Seventeen illi milestones through Violet W2 D2 are LOCKED; later rank dates remain OPEN. Coherence Prime late Green and Resonance Prime early Violet supersede Early Blue/White windows. CSR/Orbs/Halo/Domain final acquisition prices are reopened with no replacements. Armor ~1000 remains."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 126,
+      "text": "W36+ rewards, final standings, W96 NONCANON, post-Violet-W2 dates, unsupplied later income/discretionary spending (Checkpoint 19 resolves Arc Three gross income and Kira Black prices), Dungeon distribution/partial-progress/extra bonuses, exact encounters/placements, Hard runtimes, extreme recovery physiology, planetary month arithmetic and other unrelated OPENs remain. Early Solo/Duo W8–10 and inefficient mid-Orange Trio ceilings are WORKING, not final records."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 130,
+      "text": "Resolved: CSR/Genesis Orbs/Halo/Domain each cost **61,017**, separate from ordinary class pricing; Armor remains its anomaly. The source package's earlier ~50k–60k/Orbs-OPEN draft text is superseded by its final author locks. The exact O2D4–O7D7 calendar supplies 58,885/83,915 deterministic illi/Kira gross, a 61,017 Orbs reserve and 22,898 Kira headroom. illi retains 6,050 for Y1D2 Beam; no earlier automatic purchase. R5D4 and O5D1/O5D6 tournament participation and O7D5 recovery/viewing are supplied."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 132,
+      "text": "Still OPEN: domai contextual contribution payout/scoring/core-break amount, exact conquest timing/death count; card inventory, prices, dates, total discretionary spend and actual ending balances; unsupplied acquisition timestamps; exact intraday run durations/recovery physiology; raid boss identities (O4D2 paid Red must be distinct from O1D6); and later unsupplied income. The 10 Arc Three OPEN days stay slice-of-life space. No meaningful Auction purchasing is assigned."
+    },
+    {
+      "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+      "line": 18,
+      "text": "Once Orbs mature, Kira+illi also commit hard to multi-day Duo pushes. Red→Violet remains broad content: Trials, Dungeons, Hard Dungeons, Raids, Valnak domai incursions, city/social/cultural life."
+    },
+    {
+      "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+      "line": 21,
+      "text": "Armor and CSR are publicly legible categories. After Genesis Orbs, public understanding drops sharply."
+    },
+    {
+      "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+      "line": 24,
+      "text": "Do not lock literal light-speed Orbs; exact velocity/energy remains OPEN."
+    },
+    {
+      "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+      "line": 51,
+      "text": "## Checkpoint 19 — Arc Three scope"
+    },
+    {
+      "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+      "line": 53,
+      "text": "The [Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) gives Kira six independent Solo runs while illi does not meaningfully Solo. Ten OPEN days protect their relationships, royal/family and city lives. In this arc, discretionary spending emphasizes new-cycle raeon cards/decks and Genesis Cards (Kira particularly Fireball), with no meaningful Auction purchases assigned. Exact spending remains OPEN. illi deliberately retains 6,050 for Y1D2 Beam; affordability does not force earlier acquisition. Kira reserves 61,017 for Orbs. These arc-specific choices preserve the broader later economy and Project Princess Carry."
+    },
+    {
+      "path": "live-model/RAEON.md",
+      "line": 220,
+      "text": "**O7D5** combines full mandatory post-domai recovery and optional championship viewing with no combat. The successful operational block is O7D3–D4; payout/conquest timing remains OPEN. [Arc Three calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) covers O2D4–O7D7 and preserves ten OPEN slice-of-life days. Weekly character summaries reference the scaffold; standing social tracks, Auctions, Prism, nightly Highlights and 37 team placeholders remain unchanged. Exact bracket sizes, prizes and other match dates remain OPEN."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 8,
+      "text": "Late Yellow — Genesis Orbs"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 12,
+      "text": "Genesis Orbs are the major inflection point where Kira begins breaking open-wave Trial scaling."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 295,
+      "text": "Genesis Orbs arrive late Yellow; acquisition is not mastery."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 323,
+      "text": "## Checkpoint 19 — Arc Three economy"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 325,
+      "text": "The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. Kira's **61,017 Orbs reserve** leaves **22,898** headroom from arc income; this is not her actual final balance. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 327,
+      "text": "Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. The endpoint reserves do not move Kira's existing acquisition/development timing. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 3,
+      "text": "Checkpoint 19 governs the Arc Three calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 12,
+      "text": "| Six historical named Black placeholders / six Black-role options | At initial evaluation five ordinary directions plus unprecedented Black Armor; prescribed foundation is Armor of the Abyss, CSR, Halo, Genesis Orbs, Domain | 09_CHECKPOINT_04_ADDENDUM.md |"
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 33,
+      "text": "- The current working acquisition scaffold puts Genesis Orbs in late Yellow before Halo in early Blue, superseding the older prescribed order on that explicit point. Armor, CSR, Orbs, Halo, Domain remain the five foundational systems; purchase is not mastery."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 65,
+      "text": "- Genesis Orbs remain intentionally anomalous; no singularity/black-hole ontology is assigned. One/two/three competency and remote Domain use follow Checkpoint 08."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 100,
+      "text": "Checkpoint 13: Absorption Shield GE-0537 B=3000 is superseded by 10000/Exceptional; other prices remain. White Legacy has both prerequisite compression and 45% package deduction (pay55%); full-price prequalification Persistent Coherence remains. GF-0018/GF-0038/GF-0088 use Expanded Intercept Resolve/Focused Intercept Resolve/Shared Intercept Resolve with stable IDs/mechanisms. Forced cooldown is expressed as fatigue/recovery/sustainable capacity. Orbs late Yellow, mature two-Orb blender around mid-Green; carry regimes govern without purchase dates. ~55000 W1–35 macro target does not approve wave reward rows; rejected high-output tables remain quarantined."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 136,
+      "text": "## Checkpoint 19 — Arc Three final locks"
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 138,
+      "text": "The explicit final 61,017 acquisition tier supersedes prior post-Armor Black-price OPENs and the package delta/audit's earlier ~50k–60k provisioning text. CSR/Genesis Orbs/Halo/Domain each use this character-specific tier; neither old 61,000 nor ordinary class pricing substitutes for it. Armor remains ~1,000. Package sources and earlier checkpoint masters remain immutable history."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 140,
+      "text": "The exact O2D4–O7D7 scaffold governs Arc Three required combat, with immediate Green after CSR, 9 Duo/6 Kira Solo runs, 7 Orange Dungeon clears, 2 failed Yellow attempts and zero Yellow clears/no Red Dungeons. Kira's general free-time Solo tendency does not consume its 11 protected OPEN rows. Scope-specific card collecting/no meaningful Auction purchases leaves broader economy doctrine intact."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 144,
+      "text": "Arc gross 58,885/83,915 excludes domai and spending; Kira headroom 22,898 reserves 61,017, and illi reserves 6,050 until Y1D2. No acquisition date is moved simply because a purchase is affordable. Existing Kira development chronology and all 17 illi milestones remain. Successful domai payout/scoring and exact card purchases stay OPEN BY DESIGN. [Checkpoint](26_CHECKPOINT_19_ARC_THREE.md), [calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) and [conflicts](../provenance/CHECKPOINT_19_CONFLICTS.md) govern current interpretation."
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 259,
+      "text": "**O7D5** combines full mandatory post-domai recovery and optional championship viewing with no combat. The successful operational block is O7D3–D4; payout/conquest timing remains OPEN. [Arc Three calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) covers O2D4–O7D7 and preserves ten OPEN slice-of-life days. Weekly character summaries reference the scaffold; standing social tracks, Auctions, Prism, nightly Highlights and 37 team placeholders remain unchanged. Exact bracket sizes, prizes and other match dates remain OPEN."
+    },
+    {
+      "path": "world-clock/ARC3_ECONOMY_AUDIT.json",
+      "line": 86,
+      "text": "  \"kira_orbs_reserve\": 61017,"
+    },
+    {
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+      "line": 1,
+      "text": "# Arc Three — Orange W2 D4 through W7 D7"
+    },
+    {
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+      "line": 7,
+      "text": "CSR is already acquired by O2D3. It immediately moves Kira and the Duo into Green Trial territory; there is no Yellow warm-up. Green adds juggernaut melee to Red/Orange melee and Yellow ranged/Transductionist pressure. CSR solves lock-down/repositioning, but does not yet provide mass-clear or distributed offense. Genesis Orbs introduce that later discontinuity; acquisition is distinct from mastery."
+    },
+    {
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+      "line": 37,
+      "text": "Kira's character-specific [post-Armor Black acquisition tier](../economy/KIRA_BLACK_ACQUISITION_PRICES.json) is **61,017 each for CSR / Genesis Orbs / Halo / Domain**. Armor remains its approximately 1,000-credit anomaly. Ordinary class pricing never supplies these prices. CSR is already held at Arc Three entry, so its purchase is not charged again against this arc's income."
+    },
+    {
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+      "line": 39,
+      "text": "Reserve **61,017 for Genesis Orbs**: 83,915 − 61,017 = **22,898** deterministic Arc Three headroom, before any domai contribution and without assuming an opening Kira balance. This is not a recorded final balance or a spending target."
+    },
+    {
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+      "line": 45,
+      "text": "The Orange endpoint requires retained liquidity, not a new purchase timestamp. Existing later Kira acquisition/development timing remains; the next major arc direction centers on the distributed-offense economy after Orbs. Later detailed transitions and transactions remain unassigned."
+    },
+    {
+      "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+      "line": 42,
+      "text": "R5D4 now explicitly records Kira + illi raeon participation/elimination in character/notes fields. NO REQUIRED COMBAT, combat duration, money and all 59 coordinates remain unchanged. The exact [Arc Three Orange continuation](ARC3_ORANGE_CALENDAR.md) starts O2D4 and ends O7D7; it does not retroactively add income to this ledger. Its O4D2 paid Red Raid must use a distinct previously unpaid boss from O1D6 under the existing two-Red first-cycle roster."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 259,
+      "text": "**O7D5** combines full mandatory post-domai recovery and optional championship viewing with no combat. The successful operational block is O7D3–D4; payout/conquest timing remains OPEN. [Arc Three calendar](ARC3_ORANGE_CALENDAR.md) covers O2D4–O7D7 and preserves ten OPEN slice-of-life days. Weekly character summaries reference the scaffold; standing social tracks, Auctions, Prism, nightly Highlights and 37 team placeholders remain unchanged. Exact bracket sizes, prizes and other match dates remain OPEN."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK_TEMPLATE.csv",
+      "line": 15,
+      "text": "\"Orange\",\"7\",\"Every day at 25:00 (voluntary; implicit baseline)\",\"W7 D1-D4 late bracket/semifinals; W7 D5 championship\",\"W7 D5-D7 seasonal Auction\",\"Regular season; wins/losses (Red W1 through Violet W7)\",\"\",\"CP19: D1/D6 Duo W17; D2 Solo W16; D3-D4 successful domai block, payout OPEN; D5 full recovery/optional championship viewing; D7 Orange Dungeon. Reserve 61017 for Orbs.\",\"CP19: D1/D6 Duo W17; D3-D4 successful domai block, payout OPEN; D5 full recovery/optional championship viewing; D7 Orange Dungeon. Reserve 6050 for Y1D2 Beam.\",\"\",\"\",\"\""
+    }
+  ],
+  "after_findings": [
+    {
+      "path": "README.md",
+      "line": 42,
+      "scope": "current correction / explanatory context",
+      "text": "[Checkpoint 19 — Arc Three](live-model/26_CHECKPOINT_19_ARC_THREE.md) adds the exact [39-day Orange calendar](world-clock/ARC3_ORANGE_CALENDAR.md), tournament appointments and the **61,017-credit character-specific post-Armor Black tier**. Deterministic arc income is **58,885 illi / 83,915 Kira**; its original 22,898-after-Orbs-reserve calculation remains historical planning. Checkpoint 20 instead closes Arc Three with the specific 86,000-credit Blue Fireball card; domai payout and other card purchases remain OPEN. [Audit/file list](provenance/CHECKPOINT_19_AUDIT.json), [reverse diff](provenance/CHECKPOINT_19_REVERSE_DIFF.csv), [coverage](provenance/CHECKPOINT_19_COVERAGE_MANIFEST.csv) and [conflicts](provenance/CHECKPOINT_19_CONFLICTS.md) record validation."
+    },
+    {
+      "path": "README.md",
+      "line": 44,
+      "scope": "current correction / explanatory context",
+      "text": "[Checkpoint 20 — social life / Arc Four](live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md) closes Arc Three with illi Beam Red and Kira's **86,000-credit specific Blue Fireball Genesis Card**. Orbs remain **61,017**, acquired inside Arc Four at an OPEN date, not Y1D2. [Arc Four handoff](world-clock/ARC4_HANDOFF.md) preserves **73,044** illi spend after Beam Red and the Y6D3 Prime endpoint. [Social life/foundations](live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md) locks abecca, Tea House/Party/charity culture, social-credit gifts with a progression-financing firewall, and undated social/recovery options. [Audit/file list](provenance/CHECKPOINT_20_AUDIT.json), [reverse diff](provenance/CHECKPOINT_20_REVERSE_DIFF.csv), [coverage](provenance/CHECKPOINT_20_COVERAGE_MANIFEST.csv) and [conflicts](provenance/CHECKPOINT_20_CONFLICTS.md) provide evidence."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 220,
+      "scope": "current correction / explanatory context",
+      "text": "Checkpoint 20 uses illi's Binding progression as the primary arc clock. Arc Three closes with Y1D2 Beam Red and Kira's specific 86,000 Blue Fireball Genesis Card; Orbs remain 61,017 inside Arc Four, date OPEN and not Y1D2. Arc Four ends structurally at Y6D3 Genesis Prime Red after 73,044 post-Beam-Red spend. Preserve CP18/19 combat calendars; prior endpoint Orb-reserve annotations are historical planning. `abecca` is the lowercase coffee-equivalent; home/nothing days are deliberate calendar state. Tea House/Party/foundation doctrine grants independent household/network/civic capital. Social/civic gifts are allowed, direct or indirect progression financing is prohibited, and enforcement/legal/IP details stay OPEN. Social palette and Kira's independent first Yellow Normal clear supply direction, not fabricated dates. [Checkpoint 20](live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md) governs."
+    },
+    {
+      "path": "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+      "line": 15,
+      "scope": "current correction / explanatory context",
+      "text": "  \"acquisition_dates\": \"Checkpoint 20: Genesis Orbs inside Arc Four, exact date OPEN; not Yellow W1 D2 or the Arc Three endpoint. The 61,017 acquisition tier remains Checkpoint 19.\","
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 160,
+      "scope": "current correction / explanatory context",
+      "text": "- Inside Arc Four: Genesis Orbs; exact date OPEN, not Y1D2 (Checkpoint 20)"
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 458,
+      "scope": "current correction / explanatory context",
+      "text": "Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 486,
+      "scope": "current correction / explanatory context",
+      "text": "Kira's childhood Fireball fascination comes from imagining herself as a blacksmith wielding fire; her small Genesis Card collection is Fireball-focused. She repeatedly sees a particular Blue Fireball card at the Genesis Card flagship and previously prioritizes CSR. At Arc Three's Beam Red boundary she joyfully buys **that card for 86,000**, choosing it instead of immediate Orbs. This unnecessary object is a human milestone, not moralized failure. She later rebuilds **61,017** and acquires Orbs inside Arc Four, exact date OPEN and not Y1D2."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 556,
+      "scope": "current correction / explanatory context",
+      "text": "Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery."
+    },
+    {
+      "path": "live-model/20_CHECKPOINT_13_THREAD_DELTA.md",
+      "line": 72,
+      "scope": "historical checkpoint master; CP20 overrides",
+      "text": "Genesis Orbs arrive late Yellow; acquisition is not mastery."
+    },
+    {
+      "path": "live-model/26_CHECKPOINT_19_ARC_THREE.md",
+      "line": 24,
+      "scope": "historical checkpoint master; CP20 overrides",
+      "text": "Deterministic gross: **illi 58,885; Kira 83,915**, including 25,030 from Kira's six Solo runs. domai payout is excluded. Kira reserves **61,017 for Genesis Orbs**, leaving **22,898** arc-income headroom. illi reserves **6,050 for Genesis Beam Red at Y1D2**; all 17 milestone dates and the 250,884 expenditure ledger remain unchanged. Gross earnings, retained reserve, actual balance, acquisition and mastery remain separate concepts."
+    },
+    {
+      "path": "live-model/26_CHECKPOINT_19_ARC_THREE.md",
+      "line": 26,
+      "scope": "historical checkpoint master; CP20 overrides",
+      "text": "This is not a compulsory savings arc. Primary discretionary spending is new-cycle raeon deck/cards and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices stay OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. A successful domai can support contextual additional spending without a fabricated payout formula. Affordability does not auto-trigger purchases or shift the existing Kira acquisition/development roadmap. Arc Four direction centers on the fundamentally different distributed-offense economy after Genesis Orbs."
+    },
+    {
+      "path": "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md",
+      "line": 27,
+      "scope": "current correction / explanatory context",
+      "text": "Kira's Genesis Orbs remain 61,017 credits under Checkpoint 19. Their exact acquisition timestamp is NOT Y1D2."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 216,
+      "scope": "current correction / explanatory context",
+      "text": "Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 254,
+      "scope": "current correction / explanatory context",
+      "text": "The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. The former 61,017 Orb-reserve / 22,898-headroom calculation is CP19 planning history. CP20 closes Arc Three with the 86,000-credit Blue Fireball card and defers Orbs into Arc Four; actual funding/balance remains OPEN. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 256,
+      "scope": "current correction / explanatory context",
+      "text": "Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. Checkpoint 20 makes illi Beam Red plus the Blue Fireball card the Arc Three close; Genesis Orbs occur inside Arc Four at an OPEN date, not Y1D2. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 260,
+      "scope": "current correction / explanatory context",
+      "text": "illi's Binding progression is the primary arc clock. Arc 1 closes PC Red/Armor; Arc 2 closes White Legacy + Absorption Red/CSR. **Arc Three closes with illi Beam Red at Y1D2 and Kira's specific 86,000-credit Blue Fireball Genesis Card.** Genesis Orbs remain **61,017**, acquired **inside Arc Four** at an **OPEN date, not Y1D2**. Arc Four closes structurally at **Genesis Prime Red Y6D3**. The old Orb endpoint reserve and after-Orbs Arc Four framing are superseded; existing Orange combat rows remain."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 130,
+      "scope": "current correction / explanatory context",
+      "text": "Resolved: CSR/Genesis Orbs/Halo/Domain each cost **61,017**, separate from ordinary class pricing; Armor remains its anomaly. The source package's earlier ~50k–60k/Orbs-OPEN draft text is superseded by its final author locks. The exact O2D4–O7D7 calendar supplies 58,885/83,915 deterministic illi/Kira gross, a 61,017 Orbs reserve and 22,898 Kira headroom. illi retains 6,050 for Y1D2 Beam; no earlier automatic purchase. R5D4 and O5D1/O5D6 tournament participation and O7D5 recovery/viewing are supplied."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 138,
+      "scope": "current correction / explanatory context",
+      "text": "Resolved: Arc 1 PC Red/Armor; Arc 2 White Legacy + Absorption Red/CSR; Arc 3 Yellow-opening Beam Red boundary plus Kira's **specific 86,000 Blue Fireball Genesis Card**; Arc 4 structural close at **Y6D3 Genesis Prime Red**. Orbs cost 61,017 inside Arc Four, explicitly not Y1D2. The prior CP19 endpoint reserve objective is superseded; its Orange combat rows and gross income remain. illi's post-Beam-Red cost is **73,044**, with every existing milestone date preserved."
+    },
+    {
+      "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+      "line": 53,
+      "scope": "current correction / explanatory context",
+      "text": "The [Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) gives Kira six independent Solo runs while illi does not meaningfully Solo. Ten OPEN days protect their relationships, royal/family and city lives. In this arc, discretionary spending emphasizes new-cycle raeon cards/decks and Genesis Cards (Kira particularly Fireball), with no meaningful Auction purchases assigned. Exact spending remains OPEN. illi deliberately retains 6,050 for Y1D2 Beam; affordability does not force earlier acquisition. Checkpoint 20 supersedes Kira's endpoint Orb-reserve objective: she buys the 86,000-credit Blue Fireball card and rebuilds 61,017 for Orbs inside Arc Four. These arc-specific choices preserve the broader later economy and Project Princess Carry."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 8,
+      "scope": "current correction / explanatory context",
+      "text": "Inside Arc Four — Genesis Orbs; exact date OPEN, not Y1D2 (Checkpoint 20)"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 295,
+      "scope": "current correction / explanatory context",
+      "text": "Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 325,
+      "scope": "current correction / explanatory context",
+      "text": "The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. The former 61,017 Orb-reserve / 22,898-headroom calculation is CP19 planning history. CP20 closes Arc Three with the 86,000-credit Blue Fireball card and defers Orbs into Arc Four; actual funding/balance remains OPEN. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 327,
+      "scope": "current correction / explanatory context",
+      "text": "Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. Checkpoint 20 makes illi Beam Red plus the Blue Fireball card the Arc Three close; Genesis Orbs occur inside Arc Four at an OPEN date, not Y1D2. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 331,
+      "scope": "current correction / explanatory context",
+      "text": "illi's Binding progression is the primary arc clock. Arc 1 closes PC Red/Armor; Arc 2 closes White Legacy + Absorption Red/CSR. **Arc Three closes with illi Beam Red at Y1D2 and Kira's specific 86,000-credit Blue Fireball Genesis Card.** Genesis Orbs remain **61,017**, acquired **inside Arc Four** at an **OPEN date, not Y1D2**. Arc Four closes structurally at **Genesis Prime Red Y6D3**. The old Orb endpoint reserve and after-Orbs Arc Four framing are superseded; existing Orange combat rows remain."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 144,
+      "scope": "current correction / explanatory context",
+      "text": "Arc gross 58,885/83,915 excludes domai and spending; Kira headroom 22,898 reserves 61,017, and illi reserves 6,050 until Y1D2. No acquisition date is moved simply because a purchase is affordable. Existing Kira development chronology and all 17 illi milestones remain. Successful domai payout/scoring and exact card purchases stay OPEN BY DESIGN. [Checkpoint](26_CHECKPOINT_19_ARC_THREE.md), [calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) and [conflicts](../provenance/CHECKPOINT_19_CONFLICTS.md) govern current interpretation."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 148,
+      "scope": "current correction / explanatory context",
+      "text": "illi's Binding milestones govern the arc clock. Arc Three closes at the Yellow opening with illi Beam Red (Y1D2) and Kira's 86,000 specific Blue Fireball Genesis Card, not Genesis Orbs. Genesis Orbs remain 61,017 and occur inside Arc Four; exact date OPEN, not Y1D2. Arc Four closes structurally at Y6D3 Genesis Prime Red. Prior language implying Arc Four begins after Orbs, or that an Orb reserve defines Arc Three's endpoint, is superseded. Earlier broad late-Yellow acquisition placement does not assign a timestamp. Later competency direction remains separate."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 150,
+      "scope": "current correction / explanatory context",
+      "text": "CP19's 39 Orange rows, tournament dates, gross earnings and the CP18 economy remain. Its 22,898 reserve headroom and O7D7 reserve annotation are historical planning; they do not require buying both the card and Orbs or retaining a simultaneous Orb reserve. Historical checkpoint masters and audits remain evidence. Kira rebuilds the Orb fund later; exact card funding, domai payout and further income/spending remain OPEN."
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 275,
+      "scope": "current correction / explanatory context",
+      "text": "The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four, date OPEN and not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. No new combat or social date is assigned beyond existing milestones. Consult [Arc Four handoff](../world-clock/ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically."
+    },
+    {
+      "path": "world-clock/ARC3_ECONOMY_AUDIT.json",
+      "line": 86,
+      "scope": "CP19 arithmetic audit; reserve is historical planning, not CP20 endpoint requirement",
+      "text": "  \"kira_orbs_reserve\": 61017,"
+    },
+    {
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+      "line": 39,
+      "scope": "current correction / explanatory context",
+      "text": "Checkpoint 19's 83,915 − 61,017 = 22,898 reserve calculation is historical planning. **Checkpoint 20 supersedes the Orb-reserve endpoint objective:** Arc Three closes at the Yellow opening with illi Beam Red and Kira's specific **86,000-credit Blue Fireball Genesis Card**. She rebuilds the **61,017** Orb fund during Arc Four. Funding and actual balances remain OPEN; no domai award or gift is fabricated."
+    },
+    {
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+      "line": 45,
+      "scope": "current correction / explanatory context",
+      "text": "The Orange combat CSV/JSON stops at O7D7; this is not the corrected narrative Arc Three endpoint. Arc Three closes at the illi Beam Red boundary (Y1D2) with the Blue Fireball card. Genesis Orbs are acquired inside Arc Four, exact date OPEN and explicitly not Y1D2. Arc Four closes structurally at Genesis Prime Red Y6D3. See the [current handoff](ARC4_HANDOFF.md)."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF.md",
+      "line": 12,
+      "scope": "current correction / explanatory context",
+      "text": "**Genesis Orbs are not the Arc Three endpoint purchase and are not acquired at Y1D2.** Their price remains **61,017**; acquisition occurs **inside Arc Four**, exact date **OPEN** pending calendar construction. Earlier late-Yellow phrasing is prior broad placement, not permission to select a date. Orb acquisition and later competency/mastery remain distinct; unrelated later architecture is preserved."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF.md",
+      "line": 37,
+      "scope": "current correction / explanatory context",
+      "text": "Checkpoint 19's O2D4–O7D7 CSV/JSON is an exact Orange combat segment; its final row is not the corrected narrative Arc Three close. Both historical combat calendars, weekly rows, tournament appointments, reward tables and 61,017 Black tier remain intact. The old CP19 **22,898-after-Orbs-reserve** calculation and O7D7 “reserve Orbs” annotation are historical planning, superseded as an endpoint spending objective. Their preserved files/audits do not require both the card and an unspent Orb reserve at the close."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF_AUDIT.json",
+      "line": 48,
+      "scope": "current correction / explanatory context",
+      "text": "  \"orbs_date\": \"OPEN inside Arc Four; not Y1D2\","
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 275,
+      "scope": "current correction / explanatory context",
+      "text": "The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four, date OPEN and not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. No new combat or social date is assigned beyond existing milestones. Consult [Arc Four handoff](ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK_TEMPLATE.csv",
+      "line": 15,
+      "scope": "preserved CP19 weekly plan; endpoint reserve superseded by CP20 narrative overlay",
+      "text": "\"Orange\",\"7\",\"Every day at 25:00 (voluntary; implicit baseline)\",\"W7 D1-D4 late bracket/semifinals; W7 D5 championship\",\"W7 D5-D7 seasonal Auction\",\"Regular season; wins/losses (Red W1 through Violet W7)\",\"\",\"CP19: D1/D6 Duo W17; D2 Solo W16; D3-D4 successful domai block, payout OPEN; D5 full recovery/optional championship viewing; D7 Orange Dungeon. Reserve 61017 for Orbs.\",\"CP19: D1/D6 Duo W17; D3-D4 successful domai block, payout OPEN; D5 full recovery/optional championship viewing; D7 Orange Dungeon. Reserve 6050 for Y1D2 Beam.\",\"\",\"\",\"\""
+    }
+  ],
+  "obsolete_active_phrases_absent": [
+    "Kira's **61,017 Orbs reserve** leaves **22,898** headroom",
+    "Kira reserves 61,017 for Orbs.",
+    "The Orange endpoint requires retained liquidity, not a new purchase timestamp.",
+    "Arc Four direction centers on the fundamentally different distributed-offense economy after Genesis Orbs.",
+    "Genesis Orbs arrive late Yellow; acquisition is not mastery."
+  ],
+  "direct_prior_orbs_y1d2_transaction": "None found; prior reserve/after-Orbs implications explicitly superseded",
+  "historical_calendar_policy": "Exact CP18/19 rows retained; CP20 handoff/current clock text supersede reserve objective without changing combat or payouts"
+}

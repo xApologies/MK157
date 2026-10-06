@@ -35,3 +35,7 @@ The [17-event cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv
 ## Checkpoint 19 — Orange income and unchanged Beam milestone
 
 Arc Three O2D4–O7D7 earns illi **58,885 deterministic gross** with no Solo income; successful-domai contribution and discretionary card spending remain OPEN. Reserve **6,050 for Genesis Beam Red at Yellow W1 D2**, using the existing 55% White-Legacy cost. Earlier affordability does not trigger earlier purchase. All 17 dates and the 250,884 progression-spend ledger remain unchanged. [Arc Three calendar and audit](../world-clock/ARC3_ORANGE_CALENDAR.md) preserve the distinction between gross income and actual balance.
+
+## Checkpoint 20 — illi as the arc clock
+
+Arc Three closes with **Genesis Beam Red Y1D2 (6,050)** and Kira's Blue Fireball card, not Orbs. Arc Four starts after that Beam purchase and closes at **Genesis Prime Red Y6D3**. Existing costs/dates: **Y2D4 Beam Orange 9,680; Y3D5 Beam Yellow 17,424; Y5D2 Beam Green 36,590; Y6D3 Prime Red 9,350**. The first three total **63,694**, all four **73,044**. The complete 17-event ledger stays unchanged. Card/life spending may require greater gross income without changing dates. During an OPEN Arc Four day, Kira clears her first Yellow Normal Dungeon while illi is on royal/social obligations; illi remains Orange-cleared then and is playfully/competitively upset. No clear or reward is credited to absent illi. [Arc Four handoff](../world-clock/ARC4_HANDOFF.md).

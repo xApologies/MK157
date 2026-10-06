@@ -676,3 +676,7 @@ Core principle:
 
 Creation is a primary Valnak route parallel to Combat.
 Checkpoint 11 fixes seasonal Auctions at W7 D5–D7. Originals remain distinct from reproducible Shop designs. Equipment, materials, cards and Binding development compete for credits; discretionary prices remain OPEN. See [economy](ECONOMY_PURCHASE_SCHEDULE.md).
+
+## Checkpoint 20 — foundation research and protected implementations
+
+Mathematics describes materially operational Genesis-field structures and underlies ru’ne/sigil architecture. A mature noble foundation may fund mathematics research, own/develop protected implementations, license them, receive royalties and reinvest alongside donations/endowments. Public/common and proprietary/specialized infrastructure coexist. This supports independent woman/foundation capital rather than automatic absorption into a husband's wealth. Exact patent statutes, legal mechanisms/terms, royalty percentages and investment regulation remain OPEN; no new grant, rate or conversion into progression credits is assigned. [Tea House/foundation doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md).

@@ -1,0 +1,19 @@
+{
+  "remote_baseline_observed": "Checkpoint 19",
+  "next_checkpoint_expected": 20,
+  "locks": {
+    "kira_blue_fireball_card": 86000,
+    "kira_orbs_price": 61017,
+    "kira_orbs_date": "OPEN inside Arc 4",
+    "arc4_illi_post_beam_red_spend": 73044,
+    "abecca": "A-B-E-C-C-A lowercase",
+    "seasonal_gala": "one per season"
+  },
+  "preserve": [
+    "Checkpoint 19 Arc Three calendar",
+    "Checkpoint 18 economy",
+    "17 illi milestone dates",
+    "domai scoring OPEN"
+  ],
+  "status": "PACKAGE AUDIT PASS"
+}

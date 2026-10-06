@@ -286,3 +286,15 @@ hail carriage -> board -> select destination -> ride -> exit.
 
 Do not over-engineer the underlying propulsion unless story requires it.
 Checkpoint 11 sets nightly highlights at 25:00 every Valnak day; the earlier exact-time OPEN is superseded. [Genesis Cards](GENESIS_CARDS.md) use the shared transparent maege-glass medium with structural basin colors, distinct from raeon classification/rarity colors.
+
+## Checkpoint 20 — social life and civic institutions
+
+**abecca**, lowercase A-B-E-C-C-A, is the coffee-equivalent; development shorthand “coffee” maps to it. Kira's strong/comic habit has trivial ordinary cost. The flexible circuit is abecca → obligations/combat → lunch → card-shop/social life → dinner → frequent Champion Table/Highlights → home/recovery. The raeon flagship and Genesis Card flagship are distinct. Neither daily attendance nor an event on every OPEN day is mandatory; genuine home/lounge/nothing days allow decompression from combat, death/pain and celebrity.
+
+[Tea House / Tea Party / charity doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md) applies inside Valnak and outside: around 17 a noble mother customarily establishes a daughter's residence/independent household; the daughter chooses an associated charity that may mature into a foundation. Tea House = independence; Tea Party = social identity/network; charity/foundation = civic/economic agency. Marriage can unite two established networks without erasing either. Wealthy merchant/non-noble families may imitate at smaller reach. Kira's desirability as an invite also makes illi attendance likelier.
+
+Foundations may fund mathematics/research, develop/own protected mathematical/sigil implementations, license them and earn royalties alongside donations/endowments, reinvesting in mission/growth. Public/common and proprietary infrastructure coexist. Exact patent/legal/royalty/investment rules stay OPEN.
+
+Valnak social/civic/non-progression gifts may fund residences, clothing, hospitality, amenities, raeon and Genesis Cards. **Binding/rank/combat progression financing is prohibited, directly or indirectly**; enforcement/UI/limits/anti-circumvention stay OPEN. No particular funding gift is assigned.
+
+Available palette: Tea Parties; **one seasonal Gala per season**; residence Builder/theorycrafting parties; raeon deck-building; Genesis Card collecting/trading; card shops/casual play; Champion Table/Highlights; home/recovery. Dates/attendance are unassigned beyond existing World Clock events. This does not fill OPEN rows or move tournament/Auction/Prism schedules.

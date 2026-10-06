@@ -157,7 +157,7 @@ Orbs can eventually become remote Transductive/Domain anchors.
 ## Kira seasonal Black scaffold
 - Entry / early cycle: Armor of the Abyss
 - Early Orange: CSR
-- Late Yellow: Genesis Orbs
+- Inside Arc Four: Genesis Orbs; exact date OPEN, not Y1D2 (Checkpoint 20)
 - Early Blue: Halo
 - Late Violet: Domain
 - White: smaller support/interface/battlefield-integration acquisitions
@@ -179,7 +179,7 @@ Examples: starter pricing anomaly; Orb cannonballs; Orb blender; Trial-credit ex
 ## Checkpoint 08 Orb interpretation and competency
 
 ## 10. Kira progression / Orbs
-Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (late Yellow) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation.
+Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (inside Arc Four; exact date OPEN under Checkpoint 20) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation.
 Black growth is competency/discovery/integration, not ordinary rank grinding.
 
 Genesis Orbs are INTENTIONALLY ANOMALOUS; do not classify them as literal singularities/black holes/etc. They are persistent externalized extensions of Kira and her Genesis interface, respond to her consciousness, interact physically/Transductively, become remote Transductive interfaces, and after Domain can project/exert Kira's Domain. Distributed Domain use matters to the end-book Genesis Collapse solution. Elara later discovers capabilities, not a mandatory ontology.
@@ -455,7 +455,7 @@ Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit gene
 Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
-Genesis Orbs arrive late Yellow; acquisition is not mastery.
+Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
 Around mid-Green, mature two-Orb blender is the major economic inversion.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
@@ -479,4 +479,14 @@ Current Checkpoint 14 behavior: meaningful free time without overriding recovery
 
 ## Checkpoint 19 — Arc Three capability and choices
 
-CSR is held by O2D3 and immediately enables Green Solo/Duo Trial territory. Mobility/repositioning solves lock-down without mass-clear/distributed offense; the later Genesis Orbs discontinuity remains. The [Arc Three scaffold](../world-clock/ARC3_ORANGE_CALENDAR.md) locks nine Duo and six Kira-only Solo runs, no Yellow Dungeon completions, and ten OPEN days. Card collecting (especially Fireball Genesis Cards) and new-cycle raeon decks dominate discretionary choices; no meaningful Auction purchases are assigned. Gross 83,915 less the 61,017 Orbs reserve leaves 22,898 headroom before OPEN domai awards and exact spending. Reserves do not establish a new acquisition timestamp or automatic mastery.
+CSR is held by O2D3 and immediately enables Green Solo/Duo Trial territory. Mobility/repositioning solves lock-down without mass-clear/distributed offense; the later Genesis Orbs discontinuity remains. The [Arc Three scaffold](../world-clock/ARC3_ORANGE_CALENDAR.md) locks nine Duo and six Kira-only Solo runs, no Yellow Dungeon completions, and ten OPEN days. Card collecting (especially Fireball Genesis Cards) and new-cycle raeon decks dominate discretionary choices; no meaningful Auction purchases are assigned. Gross 83,915 remains unchanged; the earlier Orb-reserve/headroom plan is superseded at the Arc Three endpoint by the specific 86,000-credit Blue Fireball card. Funding remains OPEN; Kira later rebuilds the 61,017 Orb fund inside Arc Four. Reserves do not establish a new acquisition timestamp or automatic mastery.
+
+## Checkpoint 20 — human milestone, abecca and independent Arc Four
+
+Kira's childhood Fireball fascination comes from imagining herself as a blacksmith wielding fire; her small Genesis Card collection is Fireball-focused. She repeatedly sees a particular Blue Fireball card at the Genesis Card flagship and previously prioritizes CSR. At Arc Three's Beam Red boundary she joyfully buys **that card for 86,000**, choosing it instead of immediate Orbs. This unnecessary object is a human milestone, not moralized failure. She later rebuilds **61,017** and acquires Orbs inside Arc Four, exact date OPEN and not Y1D2.
+
+Kira is strongly/comically attached to **abecca** (lowercase coffee-equivalent). Her flexible circuit includes combat/social obligations, meals, both distinct flagships, frequent Champion Table/Highlights and home. Decompression and genuine nothing days remain valid.
+
+By Yellow she is a Green first-cycle Solo combatant and Eternal-Standing celebrity, a high-demand Dungeon/Raid/domai applicant where eligible; fame never bypasses qualification. During illi's obligations she may Solo late at night, join available Dungeons or mature Node-recruited domai, and rebuild the Orb fund. She enjoys domai open warfare with CSR hypermobility/hack-and-slash. Credible group intelligence can suggest likely resolution inside seven days, never guarantee an omniscient percentage or payout.
+
+Within Arc Four, at an OPEN date, she joins a competent Yellow Normal Dungeon group without illi and earns her first Yellow completion, the first of the pair. illi is still Orange-cleared and playfully/competitively upset. Tea Party hosts also desire Kira's celebrity/anomaly and the increased chance of princess attendance. No combat/social dates are assigned. [Handoff](../world-clock/ARC4_HANDOFF.md); [social doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md).

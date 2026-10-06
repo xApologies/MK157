@@ -1,8 +1,8 @@
 # OPEN ledger
 
-Current numeric ordinary prices/rewards are resolved by Checkpoint 18; Checkpoint 19 additionally resolves Kira's 61,017 post-Armor acquisition tier and the supplied Arc Three calendar below. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks.
+Checkpoint 20 governs current arc boundaries, the specific 86,000-credit card and social/civic direction. Ordinary pricing/rewards remain Checkpoint 18; the 61,017 Black acquisition tier and Orange combat rows remain Checkpoint 19. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks.
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -132,3 +132,13 @@ Resolved: CSR/Genesis Orbs/Halo/Domain each cost **61,017**, separate from ordin
 Still OPEN: domai contextual contribution payout/scoring/core-break amount, exact conquest timing/death count; card inventory, prices, dates, total discretionary spend and actual ending balances; unsupplied acquisition timestamps; exact intraday run durations/recovery physiology; raid boss identities (O4D2 paid Red must be distinct from O1D6); and later unsupplied income. The 10 Arc Three OPEN days stay slice-of-life space. No meaningful Auction purchasing is assigned.
 
 All unrelated OPENs survive: W36+ rewards, final standings/W96 NONCANON, post-Violet-W2 illi dates, Dungeon partial-progress/distribution/bonuses, exact encounters/Hard runtimes, Node/institutional specifics, and planetary month arithmetic. Source zero-credit domai rows mean excluded from deterministic gross, not a locked zero payout. See [Checkpoint 19](26_CHECKPOINT_19_ARC_THREE.md).
+
+## Checkpoint 20 current resolution and continuing OPENs
+
+Resolved: Arc 1 PC Red/Armor; Arc 2 White Legacy + Absorption Red/CSR; Arc 3 Yellow-opening Beam Red boundary plus Kira's **specific 86,000 Blue Fireball Genesis Card**; Arc 4 structural close at **Y6D3 Genesis Prime Red**. Orbs cost 61,017 inside Arc Four, explicitly not Y1D2. The prior CP19 endpoint reserve objective is superseded; its Orange combat rows and gross income remain. illi's post-Beam-Red cost is **73,044**, with every existing milestone date preserved.
+
+Resolved direction: lowercase abecca and Kira's habit; flexible daily circuit and two distinct flagships; home/lounge/recovery/nothing days; Tea House/Tea Party/charity independence-network-agency doctrine; foundation research/protected implementation/licensing/royalty direction; social/civic gifts allowed but direct or indirect progression financing prohibited; one Gala per season and peer social palette; Kira's high-demand group access subject to eligibility and her first Yellow Normal completion without illi.
+
+Still OPEN: exact Orbs date inside Arc Four; Kira first-Yellow-clear day/group; new Arc Four combat/social calendar; Gala and gathering dates/attendance; actual card funding/ending balances, opening capital and prior spending; successful domai payout and later gross income; all other card prices/inventories and exact card intraday timestamp; Tea House ownership/charity identities; patent statutes/legal mechanisms/terms/royalty rates/investment regulation; credit-transfer UI/limits/tracking/anti-circumvention implementation. Social gifts do not supply a particular donor or progression-financing loophole. The conditional 86,000 − 83,915 = 2,085 gap is not an invented debt or award.
+
+Domai scoring remains OPEN BY DESIGN. Existing W36+ rewards/final standings, post-Violet-W2 dates, institutional details, partial-progress/distribution/bonus formulas, encounter layouts/physiology and planetary reconciliation remain OPEN. No new combat or social event is silently placed into a protected OPEN day. [Current handoff](../world-clock/ARC4_HANDOFF.md).

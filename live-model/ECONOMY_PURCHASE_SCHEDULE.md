@@ -1,6 +1,6 @@
 # MK157 — Economy and purchase-schedule handoff
 
-Current authority: Checkpoint 19, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
+Current authority: Checkpoint 20, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
 ## Kira Black acquisition economics — current
 
@@ -213,7 +213,7 @@ Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit gene
 Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
-Genesis Orbs arrive late Yellow; acquisition is not mastery.
+Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
 Around mid-Green, mature two-Orb blender is the major economic inversion.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
@@ -251,6 +251,20 @@ The World Clock + character + economy calendar is ready for authored content pla
 
 ## Checkpoint 19 — Arc Three economy
 
-The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. Kira's **61,017 Orbs reserve** leaves **22,898** headroom from arc income; this is not her actual final balance. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability.
+The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. The former 61,017 Orb-reserve / 22,898-headroom calculation is CP19 planning history. CP20 closes Arc Three with the 86,000-credit Blue Fireball card and defers Orbs into Arc Four; actual funding/balance remains OPEN. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability.
 
-Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. The endpoint reserves do not move Kira's existing acquisition/development timing. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18.
+Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. Checkpoint 20 makes illi Beam Red plus the Blue Fireball card the Arc Three close; Genesis Orbs occur inside Arc Four at an OPEN date, not Y1D2. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18.
+
+## Checkpoint 20 — corrected arc clock and Arc Four handoff
+
+illi's Binding progression is the primary arc clock. Arc 1 closes PC Red/Armor; Arc 2 closes White Legacy + Absorption Red/CSR. **Arc Three closes with illi Beam Red at Y1D2 and Kira's specific 86,000-credit Blue Fireball Genesis Card.** Genesis Orbs remain **61,017**, acquired **inside Arc Four** at an **OPEN date, not Y1D2**. Arc Four closes structurally at **Genesis Prime Red Y6D3**. The old Orb endpoint reserve and after-Orbs Arc Four framing are superseded; existing Orange combat rows remain.
+
+After Beam Red's 6,050 is already paid, unchanged illi milestones are **Y2D4 Beam Orange 9,680; Y3D5 Beam Yellow 17,424; Y5D2 Beam Green 36,590; Y6D3 Genesis Prime Red 9,350**. Beam ranks total **63,694**, and Arc Four totals **73,044**. All 17 dates/costs remain; affordability does not force earlier purchase.
+
+The card is a loved collectible tied to Kira's childhood blacksmith/Fireball fascination. She previously prioritized CSR, now delightedly chooses this card, and rebuilds the Orb fund later. Its price is specific, not a universal Blue-card tier. Orange gross 83,915 alone is 2,085 below 86,000 only under zero-opening-funds/no-other-income/no-prior-spend assumptions. Full funding remains OPEN; no domai award, gift or extra run is invented. [Current handoff](../world-clock/ARC4_HANDOFF.md) and [social life](SOCIAL_LIFE_AND_FOUNDATIONS.md) separate narrative locks from unsupplied finances/dates.
+
+## Checkpoint 20 — consumption, foundation income and transfer boundaries
+
+Cards/decks and Genesis Cards remain the primary discretionary sinks; serious Auction goods are beyond their current tier. Author **world events → organic combat → gross income → card/life spending → terminal progression**; do not invent trinkets/Auction purchases to absorb credits. abecca/hospitality costs are ordinarily trivial, without exact prices here.
+
+Foundations may manage donations/endowments and mathematics research, own/license protected mathematical/sigil implementations and earn/reinvest royalties. The woman/foundation retains independent productive capital through marriage; exact legal/IP/royalty/investment mechanisms remain OPEN. Valnak gifts/transfers may fund civic/social consumption including residences/cards; **Binding/rank/combat progression and indirect shortcuts are prohibited**. UI/limits/enforcement/anti-circumvention remain OPEN. [Full conceptual doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md) supplies no actual sponsor, gift or payout for Kira's card.

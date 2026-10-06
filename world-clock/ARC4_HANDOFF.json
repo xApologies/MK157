@@ -1,0 +1,115 @@
+{
+  "checkpoint": 20,
+  "status": "LOCKED direction and supplied milestones; unsupplied calendar OPEN",
+  "arc_clock": "illi Binding progression; Kira acquisitions may fall inside arcs",
+  "arc_closures": {
+    "1": [
+      "illi Persistent Coherence Red",
+      "Kira Armor of the Abyss"
+    ],
+    "2": [
+      "illi White Legacy and Absorption Shield Red",
+      "Kira CSR"
+    ],
+    "3": [
+      "illi Genesis Beam Red at Yellow W1 D2",
+      "Kira specific Blue Fireball Genesis Card at the Yellow-opening boundary"
+    ],
+    "4": [
+      "illi Genesis Prime Elemental Red at Yellow W6 D3"
+    ]
+  },
+  "kira_card": {
+    "item": "Specific Blue Fireball Genesis Card",
+    "price": 86000,
+    "currency": "Valnak credits",
+    "timing": "Arc Three close / illi Beam Red boundary",
+    "exact_intraday_timestamp": null,
+    "universal_blue_card_price": false,
+    "grants_binding": false,
+    "funding_reconciliation": "OPEN; no income, gift or domai payout invented"
+  },
+  "kira_orbs": {
+    "price": 61017,
+    "arc": 4,
+    "date": null,
+    "date_status": "OPEN pending Arc Four calendar",
+    "excluded_date": "Yellow W1 D2",
+    "arc_three_endpoint_purchase": false,
+    "fund_rebuilt_after_card": true
+  },
+  "illi_beam_red_before_arc4": {
+    "season": "Yellow",
+    "week": 1,
+    "day": 2,
+    "cost": 6050
+  },
+  "illi_arc4_milestones": [
+    {
+      "season": "Yellow",
+      "week": 2,
+      "day": 4,
+      "purchase_or_upgrade": "Genesis Beam → Orange",
+      "cost": 9680,
+      "cumulative_progression_spend": 70383
+    },
+    {
+      "season": "Yellow",
+      "week": 3,
+      "day": 5,
+      "purchase_or_upgrade": "Genesis Beam → Yellow",
+      "cost": 17424,
+      "cumulative_progression_spend": 87807
+    },
+    {
+      "season": "Yellow",
+      "week": 5,
+      "day": 2,
+      "purchase_or_upgrade": "Genesis Beam → Green",
+      "cost": 36590,
+      "cumulative_progression_spend": 124397
+    },
+    {
+      "season": "Yellow",
+      "week": 6,
+      "day": 3,
+      "purchase_or_upgrade": "Genesis Prime → Red",
+      "cost": 9350,
+      "cumulative_progression_spend": 133747
+    }
+  ],
+  "beam_ranking_subtotal": 63694,
+  "illi_post_beam_red_total": 73044,
+  "kira_first_yellow_dungeon": {
+    "arc": 4,
+    "mode": "Normal",
+    "day": null,
+    "status": "LOCKED story beat; date OPEN",
+    "illi_present": false,
+    "illi_clearance_at_event": "Orange",
+    "competent_group": true,
+    "eligibility_rules_preserved": true
+  },
+  "new_daily_combat_schedule": null,
+  "preserved_orange_gross": {
+    "illi": 58885,
+    "kira": 83915
+  },
+  "social_cadence": {
+    "abecca": "abecca",
+    "gala_per_season": 1,
+    "gala_dates": null,
+    "daily_circuit_mandatory": false,
+    "highlights_attendance_every_night": false,
+    "open_days_auto_filled": false
+  },
+  "credit_transfers": {
+    "social_civic_non_progression_gifts_allowed": true,
+    "binding_rank_progression_financing_allowed": false,
+    "indirect_progression_shortcuts_allowed": false,
+    "enforcement_ui_limits": "OPEN"
+  },
+  "foundation_patent_royalty_rules": "Direction only; statutes, rates, terms and investment regulation OPEN",
+  "domai_payout": "OPEN BY DESIGN",
+  "source": "../provenance/checkpoint-20-package/CHECKPOINT20_LIVE_MODEL_DELTA.md"
+}

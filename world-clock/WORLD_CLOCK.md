@@ -257,3 +257,19 @@ The [illi progression-cost ledger](ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exac
 Kira + illi participate and are eliminated at **R5D4**; the Red calendar retains NO REQUIRED COMBAT. Orange qualification is **O5D1**; elimination progression and their elimination are **O5D6**. This explicit personal date governs while the standing world circuit remains W5 qualification/opening, W6 elimination progression, W7D1–D4 late bracket and W7D5 championship. They have no W7 personal bracket obligation.
 
 **O7D5** combines full mandatory post-domai recovery and optional championship viewing with no combat. The successful operational block is O7D3–D4; payout/conquest timing remains OPEN. [Arc Three calendar](ARC3_ORANGE_CALENDAR.md) covers O2D4–O7D7 and preserves ten OPEN slice-of-life days. Weekly character summaries reference the scaffold; standing social tracks, Auctions, Prism, nightly Highlights and 37 team placeholders remain unchanged. Exact bracket sizes, prizes and other match dates remain OPEN.
+
+## Checkpoint 20 — social life and civic institutions
+
+**abecca**, lowercase A-B-E-C-C-A, is the coffee-equivalent; development shorthand “coffee” maps to it. Kira's strong/comic habit has trivial ordinary cost. The flexible circuit is abecca → obligations/combat → lunch → card-shop/social life → dinner → frequent Champion Table/Highlights → home/recovery. The raeon flagship and Genesis Card flagship are distinct. Neither daily attendance nor an event on every OPEN day is mandatory; genuine home/lounge/nothing days allow decompression from combat, death/pain and celebrity.
+
+[Tea House / Tea Party / charity doctrine](../live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md) applies inside Valnak and outside: around 17 a noble mother customarily establishes a daughter's residence/independent household; the daughter chooses an associated charity that may mature into a foundation. Tea House = independence; Tea Party = social identity/network; charity/foundation = civic/economic agency. Marriage can unite two established networks without erasing either. Wealthy merchant/non-noble families may imitate at smaller reach. Kira's desirability as an invite also makes illi attendance likelier.
+
+Foundations may fund mathematics/research, develop/own protected mathematical/sigil implementations, license them and earn royalties alongside donations/endowments, reinvesting in mission/growth. Public/common and proprietary infrastructure coexist. Exact patent/legal/royalty/investment rules stay OPEN.
+
+Valnak social/civic/non-progression gifts may fund residences, clothing, hospitality, amenities, raeon and Genesis Cards. **Binding/rank/combat progression financing is prohibited, directly or indirectly**; enforcement/UI/limits/anti-circumvention stay OPEN. No particular funding gift is assigned.
+
+Available palette: Tea Parties; **one seasonal Gala per season**; residence Builder/theorycrafting parties; raeon deck-building; Genesis Card collecting/trading; card shops/casual play; Champion Table/Highlights; home/recovery. Dates/attendance are unassigned beyond existing World Clock events. This does not fill OPEN rows or move tournament/Auction/Prism schedules.
+
+## Checkpoint 20 — narrative overlay on preserved schedules
+
+The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four, date OPEN and not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. No new combat or social date is assigned beyond existing milestones. Consult [Arc Four handoff](ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically.

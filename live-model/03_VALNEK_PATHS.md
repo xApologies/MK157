@@ -553,7 +553,7 @@ Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit gene
 Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
-Genesis Orbs arrive late Yellow; acquisition is not mastery.
+Checkpoint 20 places Genesis Orbs inside Arc Four, exact acquisition date OPEN and not Y1D2; the older late-Yellow placement is prior broad planning, not a locked timestamp. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
 Around mid-Green, mature two-Orb blender is the major economic inversion.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
@@ -576,3 +576,15 @@ Mature blender scenes may include Kira and illi remaining near the Central Basin
 Checkpoint 14 preserves the sandbox paragraphs above exactly: anti-carry progression grouping, Green Solo graduation and Elara agreement remain. The Checkpoint 18 starter grant is 2,000 credits; a Foundational Red purchase costs 1,700. It does not fund two such purchases without additional income. illi may run legitimate first-cycle Dungeons with her original cohort as helkir; later she graduates by her own Solo competency. Her final Solo wave/rank remains OPEN. Current [17-event illi schedule](ILLI_PROGRESSION.md) supersedes older Coherence/Resonance seasonal windows; [partnership](PARTNERSHIP_AND_CARRY.md) carries the social/economic consequences.
 
 Checkpoint 18 extends Node grouping to [active domai recruiting](DOMAI_PARTICIPATION.md): panel, recruiting formations/rosters, and applicant acceptance using authenticated dossier/standings/Bindings/accomplishments. Exact UI/rating/matchmaking/scoring is OPEN; no gear score. [aithren/vaelum/Accord](AITHREN_VAELUM_ACCORD.md) describes recognized organizations without universal military command or old guild-ELN/travel inheritance.
+
+## Checkpoint 20 — social life and civic institutions
+
+**abecca**, lowercase A-B-E-C-C-A, is the coffee-equivalent; development shorthand “coffee” maps to it. Kira's strong/comic habit has trivial ordinary cost. The flexible circuit is abecca → obligations/combat → lunch → card-shop/social life → dinner → frequent Champion Table/Highlights → home/recovery. The raeon flagship and Genesis Card flagship are distinct. Neither daily attendance nor an event on every OPEN day is mandatory; genuine home/lounge/nothing days allow decompression from combat, death/pain and celebrity.
+
+[Tea House / Tea Party / charity doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md) applies inside Valnak and outside: around 17 a noble mother customarily establishes a daughter's residence/independent household; the daughter chooses an associated charity that may mature into a foundation. Tea House = independence; Tea Party = social identity/network; charity/foundation = civic/economic agency. Marriage can unite two established networks without erasing either. Wealthy merchant/non-noble families may imitate at smaller reach. Kira's desirability as an invite also makes illi attendance likelier.
+
+Foundations may fund mathematics/research, develop/own protected mathematical/sigil implementations, license them and earn royalties alongside donations/endowments, reinvesting in mission/growth. Public/common and proprietary infrastructure coexist. Exact patent/legal/royalty/investment rules stay OPEN.
+
+Valnak social/civic/non-progression gifts may fund residences, clothing, hospitality, amenities, raeon and Genesis Cards. **Binding/rank/combat progression financing is prohibited, directly or indirectly**; enforcement/UI/limits/anti-circumvention stay OPEN. No particular funding gift is assigned.
+
+Available palette: Tea Parties; **one seasonal Gala per season**; residence Builder/theorycrafting parties; raeon deck-building; Genesis Card collecting/trading; card shops/casual play; Champion Table/Highlights; home/recovery. Dates/attendance are unassigned beyond existing World Clock events. This does not fill OPEN rows or move tournament/Auction/Prism schedules.
