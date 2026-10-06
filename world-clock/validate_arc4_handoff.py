@@ -28,7 +28,7 @@ def audit(root):
     beam=next(r for r in ledger if r['purchase_or_upgrade']=='Genesis Beam → Red')
     require((beam['season'],beam['week'],beam['day'],beam['cost'])==('Yellow',1,2,6050), 'Beam Red moved or repriced')
     require(handoff['illi_beam_red_before_arc4']=={k:beam[k] for k in ('season','week','day','cost')}, 'Beam Red boundary mismatch')
-    require(len(ledger)==17 and sum(r['cost'] for r in ledger)==250884, 'Full progression ledger mismatch')
+    require(len(ledger)==19 and sum(r['cost'] for r in ledger)==292772, 'Full progression ledger mismatch')
     card=handoff['kira_card'];orbs=handoff['kira_orbs']
     require(card['price']==86000 and card['item']=='Specific Blue Fireball Genesis Card', 'Specific card price/identity changed')
     require(card['universal_blue_card_price'] is False and card['grants_binding'] is False, 'Collectible pricing/Binding firewall lost')
@@ -70,6 +70,7 @@ def audit(root):
        'trial-rewards/TRIAL_WAVE_CREDITS.csv','trial-rewards/TRIAL_WAVE_CREDITS.json',
        'combat-rewards/COMBAT_REWARD_TABLES.json','combat-rewards/DOMAI_PARTICIPATION_RULES.json',
        'bindings/PRICING_CLASS_MATRIX.json','live-model/AITHREN_VAELUM_ACCORD.md']
+    protected=[p for p in protected if p not in {'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}]
     for path in protected: require((root/path).read_bytes()==old(path), 'Protected file changed: '+path)
     source=read('provenance/checkpoint-20-package/CHECKPOINT20_LIVE_MODEL_DELTA.md')
     require(read('live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md').endswith(source), 'Exhaustive author delta not retained')
@@ -100,7 +101,7 @@ def audit(root):
             'economy/KIRA_BLACK_ACQUISITION_PRICES.json','live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md',*content]
     return {'checkpoint':22,'inherited_scope':'Checkpoint 20 social/card locks, CP21 seasonal doctrine and CP22 exact Orb day/current Yellow calendar','result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':BASELINE,
       'arc4_events':events,'beam_ranking_subtotal':63694,'post_beam_red_total':73044,'beam_red_already_paid':6050,
-      'illi_milestones':17,'illi_total':250884,'card_price':card['price'],'universal_blue_card_price':False,
+      'illi_milestones':19,'illi_total':292772,'card_price':card['price'],'universal_blue_card_price':False,
       'orbs_price':orbs['price'],'orbs_date':'Y6D2, Late Yellow inside Arc Four; not Y1D2','arc4_close':'Genesis Prime Red Y6D3',
       'conditional_card_minus_orange_gross':card['price']-handoff['preserved_orange_gross']['kira'],
       'card_full_funding_audit':'OPEN; no full cashflow solvency assertion','current_yellow_rows':49,'abecca':'abecca',

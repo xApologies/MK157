@@ -211,15 +211,16 @@
       "DUNGEON_REWARDS.csv": "9ec5ec8bc647733127d0b6ee513af0e8563fd35630616e740757ab691e860419",
       "RAID_BOSS_REWARDS.csv": "df6044fac5e0651eaf89adcef7f75a30cf9088afbf28b6085d98a227a51531a1",
       "COMBAT_REWARD_TABLES.json": "e746deb0e4dec78578733906436329770e661f5efd88db46fb27e8a78ef64643",
-      "README.md": "1b06e70d27a2ffa6f61589b9c99d68a61e998ebd1d8e4a6b89e9a413b6c0fa1c",
+      "README.md": "2aa33286bea2eff9ec5bfe5e4c229a6d3007f545c4523b6850a165b7f8844ad7",
       "validate_rewards.py": "12086f480b159943608872ece3dbf739569cd12a299a023c3a8ce8c049fda999",
       "builder/encounters/eldris/MANIFEST.json": "75f7c3f114b7001ea16044e3c99f3b693bf4271df542519cf40bbb98a284186f"
     }
   },
   "illi_ledger": {
-    "rows": 17,
-    "total": 250884,
-    "dates_preserved": true,
+    "rows": 19,
+    "total": 292772,
+    "first_13_dates_preserved": true,
+    "post_G6D2_authority": "CP24 six-event replacement",
     "events": [
       {
         "season": "Red",
@@ -329,7 +330,7 @@
         "season": "Green",
         "week": 6,
         "day": 4,
-        "purchase_or_upgrade": "Absorption Shield → Orange",
+        "purchase_or_upgrade": "Genesis Prime → Orange",
         "cost": 14960,
         "cumulative_progression_spend": 158057
       },
@@ -337,25 +338,41 @@
         "season": "Green",
         "week": 7,
         "day": 2,
-        "purchase_or_upgrade": "Absorption Shield → Yellow",
+        "purchase_or_upgrade": "Genesis Prime → Yellow",
         "cost": 26928,
         "cumulative_progression_spend": 184985
       },
       {
-        "season": "Violet",
+        "season": "Blue",
         "week": 1,
         "day": 3,
-        "purchase_or_upgrade": "Absorption Shield → Green",
-        "cost": 56549,
-        "cumulative_progression_spend": 241534
+        "purchase_or_upgrade": "Absorption Shield → Orange",
+        "cost": 14960,
+        "cumulative_progression_spend": 199945
       },
       {
-        "season": "Violet",
+        "season": "Blue",
         "week": 2,
-        "day": 2,
+        "day": 4,
+        "purchase_or_upgrade": "Absorption Shield → Yellow",
+        "cost": 26928,
+        "cumulative_progression_spend": 226873
+      },
+      {
+        "season": "Blue",
+        "week": 5,
+        "day": 6,
+        "purchase_or_upgrade": "Absorption Shield → Green",
+        "cost": 56549,
+        "cumulative_progression_spend": 283422
+      },
+      {
+        "season": "Blue",
+        "week": 6,
+        "day": 3,
         "purchase_or_upgrade": "Resonance Prime / Juggernaut → Red",
         "cost": 9350,
-        "cumulative_progression_spend": 250884
+        "cumulative_progression_spend": 292772
       }
     ]
   },
@@ -459,11 +476,11 @@
     "summons/PRIME_ELEMENTAL_PRICING.csv": "66602689dbad2886f75e0bc9618b516a6d2d65719c9e0a05dd0ac614d786d598",
     "trial-rewards/TRIAL_WAVE_CREDITS.csv": "53faa16faf4ff1f52cf63109b47d4b67317c837e8c8c23283d045dcb33941f5f",
     "trial-rewards/TRIAL_WAVE_CREDITS.json": "d3139b9821d315c2d7e00c4e07838571cd654df14d8fe7f1be9b497b9169a7b0",
-    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv": "877d65bed4ed527aac5675e18e825e19b5e3ce29c56a77fd1c7361543b93c583",
-    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json": "f5e3100fe10a1df5f1bb894f0832fe6ba72d960d8b2a6f7d2acf9daf93bda60a",
+    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv": "a68bb2816b84167bf9ffda0cefbdb7659ec66a309750043631d61c148b233ef0",
+    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json": "0414425a6d94461fc2ea81c905bde475cf67a42a7ac0d0ea6ae41646ea7129e0",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv": "95750b0b3c1c5f6f566b9ae102a6379dda79014c6ed4de266f0150ce52853b42",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json": "1d1ba6c8cdd7c1b7d145e264a4254fdde3242319c17c5a895e12c33dc6d2b85a",
     "combat-rewards/DOMAI_PARTICIPATION_RULES.json": "967a625f54b03c9f761ffbdc93c7a59d05c887c1dfa1c53bfd2b3368734d1735",
-    "economy/validate_economy.py": "523caadb5b2e28aa3d4a0e2199792f8a88295752c0744c5aee530cf163638253"
+    "economy/validate_economy.py": "f356e55feba17cad6c208186c746b8ba00445a952312a45fba7d8a539208c220"
   }
 }

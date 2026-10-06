@@ -611,3 +611,13 @@ Arc Four’s lack of Green Dungeon rows is scoped to its old pre-mastery stage. 
 Five-person Dungeons are Kira’s main peer-social engine: Kira+illi repeatedly meet three participants and re-invite good fits, forming overlapping friendships/cliques rather than a rigid team. Raids broaden the graph; a future Trio friend must emerge organically. Working first-cycle demographic center is ~20–40, envelope ~17–45, with older 50s/60s outliers. This is a distribution, not eligibility law. Earlier entry begins Genesis-related adaptation/slower-aging benefit earlier; exact physiology/rates/lifespan remain OPEN.
 
 The first female-peer Builder invitation follows Y5D3’s Yellow clears; Y5D5 is their first party, not a Trial. [Builder community](../builder/COMMUNITY.md) turns repeat groups into friendships. Successful Y7D4 domai supplies an OPEN contextual **group award divided equally among eligible members**, then individual death deductions. Small groups are not paid more intrinsically. See [group economy](../combat-rewards/DOMAI_GROUP_ECONOMY.md) and [current calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md).
+
+## Checkpoint 24 — veteran eligibility, credibility and ceilings
+
+After illi independently clears W13 Green Solo **B1D1**, both girls may join progression-bearing veteran groups together. Eligibility is not credibility: Kira’s Trial celebrity is not a Raid/Dungeon résumé. Veteran PUG leaders may decline the first-cyclers, judging validated dossier facts, build fit, experience and reputation. There is no item-level/gear-score system. Exact rejection counts/people/crews stay OPEN.
+
+Yellow Normal is reliable/social; Green Normal is the primary veteran grind and relationship bridge; Blue is rare push content; Violet is not attempted in Arc Six. Nine Green clears accompany one Yellow ×2 session. Blue **B3D6–D7 fails**, then **B5D1–D2 first clears**; both retain two-day blocks and 25–42h targets. Yellow stays 5–10h, Green 12–21h. Topology constrains CSR/mini-blender; no universal Dungeon soloing is inferred.
+
+Normal **B2D3 R/O/Y clear, Green fail** pays 11,250 each. Hard **B3D2 R/O clear/Y fail** pays 9,375 each; **B4D3–D4 R/O repeats/Y deep fail** pays zero new major rewards; **B5D3 Hard Y clear** pays only 7,500 each. Same-season/mode/boss repeats never pay twice. No Hard Green clear or Trio is added; exact Raid runtimes remain OPEN.
+
+Duo advances **G6D7 W18/W19 fail → B2D1–D2 W19/W20 fail → B6D1–D2 W20/W21 fail**. W19/W20 are multi-day pushes; start rows earn no separate payout. Kira begins migration toward two-Orb competency, without a mature blender date. [Locked Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md).

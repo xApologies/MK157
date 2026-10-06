@@ -1,0 +1,18 @@
+season,week,day,binding,event,result,note
+Red,1,1,Persistent Coherence,Acquire,Red,Starter Binding.
+Red,2,3,Persistent Coherence,Rank,Orange,Pre-Legacy.
+Red,4,2,Persistent Coherence,Rank,Yellow,Pre-Legacy.
+Red,6,4,Persistent Coherence,Rank,Green,Coherence Prime gate satisfied.
+Orange,1,4,Persistent Coherence,Rank,Blue,White Legacy entry qualification.
+Orange,1,4,White Legacy,Accept,Accepted,45% package deduction activates.
+Orange,2,3,Absorption Shield,Acquire,Red,Intentionally deferred after acquisition.
+Yellow,1,2,Genesis Beam,Acquire,Red,Established early-Yellow acquisition.
+Yellow,2,4,Genesis Beam,Rank,Orange,Race to Green.
+Yellow,3,5,Genesis Beam,Rank,Yellow,Race to Green.
+Yellow,5,2,Genesis Beam,Rank,Green,Genesis Prime gate satisfied.
+Yellow,6,3,Genesis Prime Elemental,Acquire,Red,Late-Yellow acquisition.
+Green,6,2,Coherence Prime Elemental,Acquire,Red,Revised late-Green acquisition.
+Green,6,4,Absorption Shield,Rank,Orange,Return to Resonance prerequisite.
+Green,7,2,Absorption Shield,Rank,Yellow,Continue Resonance prerequisite.
+Violet,1,3,Absorption Shield,Rank,Green,Resonance Prime gate satisfied.
+Violet,2,2,Resonance Prime Elemental / Juggernaut,Acquire,Red,Revised early-Violet acquisition.

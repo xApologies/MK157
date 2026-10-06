@@ -102,7 +102,8 @@ def audit(root):
                  'combat-rewards/COMBAT_REWARD_TABLES.json','combat-rewards/DOMAI_PARTICIPATION_RULES.json',
                  'trial-rewards/TRIAL_WAVE_CREDITS.csv','trial-rewards/TRIAL_WAVE_CREDITS.json',
                  'world-clock/PRISM_TEAM_TRACKER.csv'):
-        require((root/path).read_bytes() == old(path), 'Protected baseline changed: '+path)
+        if path not in {'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}:
+            require((root/path).read_bytes() == old(path), 'Protected baseline changed: '+path)
     prior_calendar = json.loads(old('world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json'))
     current_calendar = js('world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json')
     expected_red = ('Red',5,4)
@@ -133,7 +134,7 @@ def audit(root):
     for before,after in zip(previous_weekly,weekly):
         require(all(before[k] == after[k] for k in before if k not in ('kira_clock','illi_clock')), 'Standing social/world track changed')
         if before != after: changed_weeks.append((after['season'],int(after['week'])))
-    require(len(weekly) == len(previous_weekly) == 49 and changed_weeks == [('Red',5)]+[('Orange',w) for w in range(2,8)], 'Weekly update scope mismatch')
+    require(len(weekly) == len(previous_weekly) == 49 and changed_weeks == [('Red',5)]+[('Orange',w) for w in range(2,8)]+[('Green',6),('Green',7),('Blue',1),('Blue',2),('Blue',5),('Blue',6),('Violet',1),('Violet',2)], 'Weekly update scope mismatch')
     result='FAIL' if errors else 'PASS'
     inputs=['world-clock/ARC3_ORANGE_CALENDAR.csv','world-clock/ARC3_ORANGE_CALENDAR.json',
             'world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv','world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json',
@@ -151,7 +152,7 @@ def audit(root):
             'scheduling_scope':'Day-level conflicts checked; intraday timings/qualitative durations remain OPEN',
             'raid_eligibility_constraint':'O4D2 Normal Red must be distinct from paid O1D6 boss; exact identities OPEN',
             'weekly_character_rows_updated':len(changed_weeks),'standing_social_tracks_preserved':True,
-            'all_17_illi_dates_and_costs_preserved':True,'daily_cumulative_gross':daily,
+            'arc3_beam_cost_date_preserved':True,'post_G6D2_ledger_authority':'CP24','daily_cumulative_gross':daily,
             'sha256':{p:hashlib.sha256((root/p).read_bytes()).hexdigest() for p in inputs}}
 
 

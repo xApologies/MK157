@@ -1,0 +1,28 @@
+{
+  "files_read": [
+    "ARC6_DIRECTOR_CALENDAR.csv",
+    "ARC6_DIRECTOR_CALENDAR.json",
+    "ARC6_ILLI_CREDIT_LEDGER.csv",
+    "ARC6_ILLI_CREDIT_LEDGER.json",
+    "ARC6_SUMMARY.md",
+    "BASELINE_AUDIT.md",
+    "CHECKPOINT24_AUDIT.json",
+    "CHECKPOINT24_LIVE_MODEL_DELTA.md",
+    "CHECKPOINT24_REVERSE_DIFF.csv",
+    "EXECUTABLE.md",
+    "FILE_INVENTORY.json",
+    "ILLI_PROGRESSION_LEDGER_REPLACEMENT.csv",
+    "ILLI_PROGRESSION_LEDGER_REPLACEMENT.json",
+    "MANIFEST.json",
+    "OPEN_ITEMS.md",
+    "README.md"
+  ],
+  "inventory": "PASS: all 15 entries; inventory itself not self-listed",
+  "csv_json": "All three pairs match after CSV numeric conversion; JSON has integers; preserve original bytes",
+  "calendar_rows": 50,
+  "reserve_rows": 28,
+  "progression_events": 19,
+  "source_status_note": "AUDIT mentions Vera arithmetic correction as package history; no new person/character is introduced",
+  "baseline": "Completed CP23; fetched remote matches local; no newer work to merge",
+  "historical_ledger_archive": "checkpoint-24-baseline preserves the exact four superseded CP23 progression files for earlier-arc validation; current authority is the new 19-event ledger"
+}

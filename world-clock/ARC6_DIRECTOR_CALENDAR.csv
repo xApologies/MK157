@@ -1,0 +1,51 @@
+season,week,day,kira_activity,illi_activity,event,result,kira_income,illi_income,illi_progression_spend,kira_progression_spend,runtime_author_target,notes,status
+Green,6,3,Orange domai with illi,Orange domai with Kira,Orange domai,SUCCESS — contextual award locked for this incursion,30000,30000,0,0,Major incursion / late-stage operation,"Specific authored group award: 60,000 total for Kira+illi subformation, equal split = 30,000 each. Not a general Orange-domai table.",LOCKED
+Green,6,4,Ordinary life / Orb practice,Genesis Prime Elemental → Orange,illi progression purchase,Genesis Prime Orange acquired,0,0,14960,0,,Supersedes old projected Absorption-Orange date. Arc Six prioritizes Genesis Prime to Yellow first.,LOCKED
+Green,6,5,Girls' Builder Night,Girls' Builder Night,Builder Night,Recurring social/theorycrafting night,0,0,0,0,,Usual D5 Friday-equivalent friend gathering when not displaced.,LOCKED
+Green,6,6,Yellow Dungeon ×2,Yellow Dungeon ×2,Dungeon session,2 Yellow clears,4610,4610,0,0,10–20 h total,Yellow remains reliable social/farm content.,LOCKED
+Green,6,7,Duo Trial,Duo Trial,Shared Duo Trial,W18 clear; W19 Blue fail,6555,6555,0,0,≈21–38 h through W18 plus failed W19 pressure,Duo remains upper-Green at Arc Six opening.,LOCKED
+Green,7,1,Green Dungeon,Green Dungeon,Green Dungeon,CLEAR,4550,4550,0,0,12–21 h,Still within first-cycle peer ecology before illi graduation.,LOCKED
+Green,7,2,Ordinary life / support,Genesis Prime Elemental → Yellow,illi progression purchase,Genesis Prime Yellow acquired,0,0,26928,0,,Second Genesis Prime rank purchase. This is the offensive-throughput step used to drive illi toward Green Solo.,LOCKED
+Green,7,3,Independent / social,Solo Trial,illi Solo Trial,W11 clear; W12 reached/fails,0,2355,0,0,Paid W1-start Solo run,Genesis Prime Yellow now active in illi's Solo formation.,LOCKED
+Green,7,4,Independent / social,Solo Trial,illi Solo Trial,W12 clear; W13 Green reached/fails,0,2805,0,0,Paid W1-start Solo run,,LOCKED
+Green,7,5,Green Auction Day 1 / social,Green Auction Day 1 / social,Seasonal Auction,Auction Day 1,0,0,0,0,Primarily late-day/evening social spectacle,G7D5 also carries the standing seasonal raeon championship. No required major combat is overlaid on the Auction block.,LOCKED
+Green,7,6,Green Auction Day 2 / social,Green Auction Day 2 / social,Seasonal Auction,Auction Day 2,0,0,0,0,Primarily late-day/evening social spectacle,G7D5 also carries the standing seasonal raeon championship. No required major combat is overlaid on the Auction block.,LOCKED
+Green,7,7,Green Auction Day 3 / social,Green Auction Day 3 / social,Seasonal Auction,Auction Day 3,0,0,0,0,Primarily late-day/evening social spectacle,G7D5 also carries the standing seasonal raeon championship. No required major combat is overlaid on the Auction block.,LOCKED
+Blue,1,1,Recovery / support / Highlights,Solo Trial,illi Solo Trial,W13 GREEN CLEAR; W14 reached/fails,0,3305,0,0,Paid W1-start Solo run,ILLI GRADUATES THE FIRST-CYCLE SANDBOX on her own Solo standing. W14 remains a near-clear wall.,LOCKED MILESTONE
+Blue,1,2,Veteran Green Dungeon,Veteran Green Dungeon,Green Dungeon,CLEAR,4550,4550,0,0,12–21 h,First progression-bearing veteran-group content together after illi graduation.,LOCKED
+Blue,1,3,Ordinary life / Orb practice,Absorption Shield → Orange,illi progression purchase,Absorption Orange acquired,0,0,14960,0,,Absorption progression begins only after Genesis Prime Yellow + sandbox graduation.,LOCKED
+Blue,1,4,Veteran Green Dungeon,Veteran Green Dungeon,Green Dungeon,CLEAR,4550,4550,0,0,12–21 h,,LOCKED
+Blue,1,5,Halo acquisition + Girls' Builder Night,Girls' Builder Night,Kira Black acquisition,Halo acquired,0,0,0,61017,,Exact Kira Halo date locked to B1D5. Kira funding may use prior carry-in; Arc Six zero-start solvency is only enforced for illi.,LOCKED
+Blue,1,6,Veteran Green Dungeon,Veteran Green Dungeon,Green Dungeon,CLEAR,4550,4550,0,0,12–21 h,,LOCKED
+Blue,1,7,Veteran group-finder / recovery / social,Veteran group-finder / recovery / social,Veteran credibility beat,Raid/Dungeon PUG friction; no required combat,0,0,0,0,,Trial celebrity does not equal veteran Raid résumé. Declines/rejections are normal; no gear-score system is invented.,LOCKED
+Blue,2,1,Duo Trial W19 push — start,Duo Trial W19 push — start,Shared Duo Trial,Multi-day W19 push underway,0,0,0,0,Multi-day; W1→W18 ≈21–38 h then Blue wave adds ≈3.5–6 h,No payout booked until completed waves resolve.,LOCKED
+Blue,2,2,Duo Trial W19 push — complete,Duo Trial W19 push — complete,Shared Duo Trial,W19 Blue CLEAR; W20 reached/fails,7355,7355,0,0,Completes multi-day block,First Duo Blue clear. Same per-person cumulative Trial payout schedule.,LOCKED
+Blue,2,3,Normal veteran Raid,Normal veteran Raid,Normal Raid outing,Normal Red A + Orange A + Yellow clear; Green fails,11250,11250,0,0,Raid runtime remains author-flexible,"Major rewards: R 2,500 + O 3,750 + Y 5,000 = 11,250. A/O labels are ledger placeholders, not named bosses.",LOCKED
+Blue,2,4,Ordinary life / training,Absorption Shield → Yellow,illi progression purchase,Absorption Yellow acquired,0,0,26928,0,,,LOCKED
+Blue,2,5,Girls' Builder Night,Girls' Builder Night,Builder Night,Veteran-content theorycrafting / decompression,0,0,0,0,,,LOCKED
+Blue,2,6,Green Dungeon,Green Dungeon,Green Dungeon,CLEAR,4550,4550,0,0,12–21 h,,LOCKED
+Blue,2,7,Recovery / cards / social,Recovery / cards / social,Recovery,No required combat,0,0,0,0,,,LOCKED
+Blue,3,1,Green Dungeon,Green Dungeon,Green Dungeon,CLEAR,4550,4550,0,0,12–21 h,,LOCKED
+Blue,3,2,Hard/Expedition Raid attempt #1,Hard/Expedition Raid attempt #1,Hard Raid,Hard Red + Orange clear; Hard Yellow FAIL,9375,9375,0,0,Raid runtime author-flexible / attrition operation,"First Blue-season Hard R/O major rewards: 3,750 + 5,625 = 9,375.",LOCKED
+Blue,3,3,Recovery,Recovery,Recovery,No required combat,0,0,0,0,,,LOCKED
+Blue,3,4,Green Dungeon,Green Dungeon,Green Dungeon,CLEAR,4550,4550,0,0,12–21 h,,LOCKED
+Blue,3,5,Girls' Builder Night,Girls' Builder Night,Builder Night,Hard-Yellow postmortem / veteran build discussion,0,0,0,0,,,LOCKED
+Blue,3,6,Blue Dungeon attempt — start,Blue Dungeon attempt — start,Blue Dungeon,FAIL operation underway,0,0,0,0,25–42 h target for competent Blue run,No completion reward. Failed-Dungeon partial credits remain OPEN and excluded.,LOCKED
+Blue,3,7,Blue Dungeon attempt — finish/fail,Blue Dungeon attempt — finish/fail,Blue Dungeon,FAIL,0,0,0,0,Completes 2-day author block,No deterministic completion payout booked.,LOCKED
+Blue,4,1,Recovery,Recovery,Recovery,No required combat,0,0,0,0,,,LOCKED
+Blue,4,2,Green Dungeon,Green Dungeon,Green Dungeon,CLEAR,4550,4550,0,0,12–21 h,,LOCKED
+Blue,4,3,Hard Raid attempt #2 — start,Hard Raid attempt #2 — start,Hard Raid,R/O repeat; Yellow deep push,0,0,0,0,Multi-day author block,R/O repeats give no duplicate major reward this season.,LOCKED
+Blue,4,4,Hard Raid attempt #2 — finish,Hard Raid attempt #2 — finish,Hard Raid,Hard Yellow deep FAIL,0,0,0,0,Completes multi-day block,No new major-boss reward.,LOCKED
+Blue,4,5,Girls' Builder Night,Girls' Builder Night,Builder Night,Hard-Yellow theorycrafting / social,0,0,0,0,,,LOCKED
+Blue,4,6,Green Dungeon,Green Dungeon,Green Dungeon,CLEAR,4550,4550,0,0,12–21 h,,LOCKED
+Blue,4,7,Recovery / ordinary life,Recovery / ordinary life,Recovery,No required combat,0,0,0,0,,,LOCKED
+Blue,5,1,Blue Dungeon — start,Blue Dungeon — start,Blue Dungeon,First Blue-clear operation underway,0,0,0,0,25–42 h,,LOCKED
+Blue,5,2,Blue Dungeon — complete,Blue Dungeon — complete,Blue Dungeon,FIRST BLUE DUNGEON CLEAR,7800,7800,0,0,Completes 2-day author block,"A major veteran-credibility milestone; Blue is push content, not farm content.",LOCKED
+Blue,5,3,Hard Raid attempt #3,Hard Raid attempt #3,Hard Raid,Hard Yellow CLEAR; Hard R/O repeats,7500,7500,0,0,Raid runtime author-flexible,Only first Hard-Yellow major reward is booked here; repeated Hard R/O pay zero.,LOCKED
+Blue,5,4,Yellow domai with illi,Yellow domai with Kira,Yellow domai,SUCCESS — contextual award locked for this incursion,15000,15000,0,0,Major incursion / operation,"Specific authored group award: 30,000 total for Kira+illi subformation, equal split = 15,000 each. Not a general Yellow-domai table.",LOCKED
+Blue,5,5,Girls' Builder Night / standing raeon week,Girls' Builder Night / standing raeon week,Builder Night,Social/theorycrafting,0,0,0,0,,Standing Blue-season raeon qualification exists; no personal bracket obligation is assigned here.,LOCKED
+Blue,5,6,Ordinary life / training,Absorption Shield → Green,illi progression purchase,Absorption Green acquired; Resonance Prime gate opens,0,0,56549,0,,,LOCKED MILESTONE
+Blue,5,7,Recovery / cards / social,Recovery / cards / social,Recovery,No required combat,0,0,0,0,,,LOCKED
+Blue,6,1,Duo Trial W20 push — start,Duo Trial W20 push — start,Shared Duo Trial,Multi-day W20 push underway,0,0,0,0,Multi-day; W19 and W20 are Blue waves at ≈3.5–6 h each after W1→W18,,LOCKED
+Blue,6,2,Duo Trial W20 push — complete,Duo Trial W20 push — complete,Shared Duo Trial,W20 Blue CLEAR; W21 reached/fails,8205,8205,0,0,Completes multi-day block,Kira is beginning migration toward two-Orb competency; mature two-Orb blender is NOT yet locked.,LOCKED
+Blue,6,3,Arc Six close / ordinary life,Resonance Prime Elemental → Red,Arc Six endpoint,Resonance Prime Red acquired,0,0,9350,0,,Final foundational Prime acquired. Arc Six closes; Arc Seven opens B6D4.,LOCKED ENDPOINT

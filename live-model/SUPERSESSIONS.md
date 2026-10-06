@@ -1,8 +1,10 @@
 # Authority and supersessions
 
-Checkpoint 23 fully locks Arc Five combat/progression dates Y6D4–G6D2. Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs and preserved social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries and the specific Blue Fireball card purchase. Checkpoint 19 governs the unchanged Orange combat calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections.
+> Checkpoint 24 current progression: 19 events, 292,772 total through B6D3. Earlier checkpoint sections below retain development history; any 17-event/250,884 or Violet-endpoint projection is superseded by the [current illi ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json). Arc Five dates/outcomes through G6D2 remain locked.
 
-Checkpoint 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 24 locks Arc Six G6D3–B6D3, the revised 19-event illi ledger and exact Halo B1D5. Checkpoint 23 fully locks Arc Five combat/progression dates Y6D4–G6D2. Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs and preserved social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries and the specific Blue Fireball card purchase. Checkpoint 19 governs the unchanged Orange combat calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections.
+
+Checkpoint 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -69,7 +71,7 @@ Older Checkpoint 03 Signature first Binding absorption wording is superseded by 
 
 ## Checkpoint 09 governing continuation
 
-Checkpoint 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+Checkpoint 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 Lowercase `eldris` supersedes Checkpoint 08 uppercase typography. `raeon`, `domai`, `vaen`, `maege`, `maegi` are lowercase; spelling-by-letter capitals are transcription artifacts.
 The current carriage supersedes historical Open Blank transport. Schedule PDFs supply methodology only. MK157 explicit canon governs approved upstream inheritance. Outside persistent Dungeons are distinct from Valnak procedural training; outside `domai` unravel progressively after core break, while Valnak incursions terminate as completed encounters.
 Checkpoint 08 Green Solo graduation and Black/White progression remain. No new registry records are requested. The exact Checkpoint 09 master retains its original pending-integration header and quoted uppercase transcription example; current status is integrated and its authority is active.
@@ -77,7 +79,7 @@ See [full master](16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md), [source boundar
 
 ## Checkpoint 10 Trial/calendar delta
 
-Checkpoint 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
+Checkpoint 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
 
 Wave totals describe delivered population, not simultaneous population. Solo/Duo/Trio share fixed 3×3-mile geography; Dungeon realization remains procedural. W35 pressure saturation is WORKING; post-W35 total population, numeric caps and exact spawn laws remain OPEN. W96 is noncanonical.
 
@@ -183,3 +185,19 @@ Training Yard selectable prior waves pay no credits; ordinary Trials may termina
 | Builder night cadence undated | Recurring G1D5–G5D5; Yellow D5 displaced by Trial/Auction |
 
 The supplied FULL LOCK package supersedes any provisional CP23 package; none was present in the reviewed repository. Fixed gross is 88,595 Kira / 78,430 illi excluding contextual awards/failed-Dungeon partials. G6D2 Coherence Prime Red 9,350 and all previous milestone costs/dates remain. Full-Yellow and Arc Five calendars overlap at 11 dates; the two paid Yellow Duos are not extra income. Original CP22 source/master/audit records retain historical date-OPEN text; current active docs and structured handoff apply these explicit resolutions. [Calendar](../world-clock/ARC5_DIRECTOR_CALENDAR.md); [conflict log](../provenance/CHECKPOINT_23_CONFLICTS.md).
+
+## Checkpoint 24 — current replacements
+
+| Previous projection | Current explicit authority |
+| --- | --- |
+| G6D4 Absorption Orange | G6D4 Genesis Prime Orange; Absorption Orange moves to B1D3 |
+| G7D2 Absorption Yellow | G7D2 Genesis Prime Yellow; Absorption Yellow moves to B2D4 |
+| V1D3 Absorption Green | B5D6 Absorption Green |
+| V2D2 Resonance Prime Red | B6D3 Resonance Prime Red / Arc Six close |
+| 17 events / 250,884 projected total | 19 events / 292,772 through B6D3; first 13 unchanged |
+| illi graduation undated after Arc Five | B1D1 W13 Green Solo clear / W14 fail |
+| Halo Early Blue exact day OPEN | B1D5, 61,017; acquisition is not mastery |
+| Arc Six domai awards unspecified | G6D3 Orange 60,000 group/30,000 each; B5D4 Yellow 30,000 group/15,000 each; general scoring remains contextual |
+| Arc Six unplaced | 50 days G6D3–B6D3 fully locked; Arc Seven opens B6D4 |
+
+Arc Five remains exactly locked through G6D2. Its old references to 17 future milestones and an undated future Halo describe CP23 history; current post-Arc-Five authority is the [19-event ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) and [Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md). The specific incursion awards do not fix Y7D4’s earlier Orange payout or create rank tables. Exact Domain day, mature two-Orb timing, failed-run partial rewards, real bank balances and unrelated OPENs remain.

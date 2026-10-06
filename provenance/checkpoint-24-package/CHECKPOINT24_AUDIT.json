@@ -1,0 +1,61 @@
+{
+  "checkpoint": 24,
+  "git_baseline": {
+    "repository": "xApologies/MK157",
+    "head": "ec3274b8f5026cd2cd6aa2bfb076383e3a863311",
+    "message": "Checkpoint 23: lock Arc Five combat calendar and progression"
+  },
+  "arc": {
+    "start": "Green W6 D3",
+    "end": "Blue W6 D3",
+    "next": "Arc Seven starts Blue W6 D4"
+  },
+  "illi_progression": {
+    "arc6_spend": 149675,
+    "new_full_cumulative_spend": 292772,
+    "event_count": 19,
+    "end_architecture": {
+      "Persistent Coherence": "Blue",
+      "Absorption Shield": "Green",
+      "Genesis Beam": "Green",
+      "Genesis Prime": "Yellow",
+      "Coherence Prime": "Red",
+      "Resonance Prime": "Red"
+    }
+  },
+  "economy": {
+    "kira_arc6_gross": 148600,
+    "illi_arc6_gross": 157065,
+    "illi_earmarked_start": 0,
+    "illi_earmarked_end": 7390,
+    "orange_domai_each": 30000,
+    "yellow_domai_each": 15000,
+    "kira_halo_cost": 61017,
+    "kira_halo_zero_start_solvency": "NOT ASSERTED; prior carry-in allowed per author"
+  },
+  "combat": {
+    "green_dungeon_clears": 9,
+    "blue_dungeon_attempts": 2,
+    "blue_dungeon_clears": 1,
+    "normal_raid_outings": 1,
+    "hard_raid_outings": 3,
+    "hard_yellow_clear": true,
+    "normal_green_clear": false,
+    "hard_green_clear": false,
+    "trio": false,
+    "illi_green_solo": "B1D1 W13 clear / W14 fail",
+    "duo_progression": [
+      "G6D7 W18 clear/W19 fail",
+      "B2D2 W19 clear/W20 fail",
+      "B6D2 W20 clear/W21 fail"
+    ]
+  },
+  "runtime_checks": {
+    "yellow_dungeon": "5\u201310 h each; \u00d72 = 10\u201320 h",
+    "green_dungeon": "12\u201321 h",
+    "blue_dungeon": "25\u201342 h; both attempts given 2-day blocks",
+    "duo_blue": "multi-day blocks used",
+    "raid": "exact runtime OPEN"
+  },
+  "status": "PASS \u2014 Arc Six fully locked with Vera arithmetic correction"
+}

@@ -1,4 +1,4 @@
-"""Audit Checkpoint 18 pricing, progression and combat calendar against CP17."""
+"""Audit CP18 pricing/rewards with CP24 current progression and the early calendar."""
 
 import argparse
 from collections import Counter
@@ -165,8 +165,9 @@ def audit(root):
     require(ledger == js('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json'), 'illi ledger mirrors differ')
     old_ledger = json.loads(previous('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json'))
     omit = {'cost','cumulative_progression_spend'}
-    require([{k:v for k,v in row.items() if k not in omit} for row in ledger] ==
-            [{k:v for k,v in row.items() if k not in omit} for row in old_ledger], 'illi milestone dates/events changed')
+    require([{k:v for k,v in row.items() if k not in omit} for row in ledger[:13]] ==
+            [{k:v for k,v in row.items() if k not in omit} for row in old_ledger[:13]], 'Pre-Arc-Six milestone dates/events changed')
+    require(ledger == js('provenance/checkpoint-24-package/ILLI_PROGRESSION_LEDGER_REPLACEMENT.json'), 'Current ledger differs from CP24 author source')
     binding_lookup = {row['name']:row for row in registries['bindings/BINDINGS']}
     name_map = {'Genesis Prime':'Genesis Prime Elemental','Coherence Prime':'Coherence Prime Elemental',
                 'Resonance Prime / Juggernaut':'Resonance Prime Elemental'}
@@ -187,7 +188,7 @@ def audit(root):
         cumulative += expected_cost
         require(row['cost'] == expected_cost and row['cumulative_progression_spend'] == cumulative,
                 f'illi {item}: cost/cumulative error')
-    require(len(ledger) == 17 and cumulative == 250884, 'illi count/total mismatch')
+    require(len(ledger) == 19 and cumulative == 292772, 'illi count/total mismatch')
     require(sum(row['cost'] for row in ledger[:5]) == 45303, 'PC R→Blue cost mismatch')
 
     calendar = rows('world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv')
@@ -247,7 +248,7 @@ def audit(root):
     for summary in pricing.values(): summary['result']=result
     return {'checkpoint':18,'result':result,'errors':errors,'baseline_commit':BASELINE,'pricing_matrix':matrix,
             'pricing':pricing,'trial_total':total,'trial_rows':len(trials),'combat_rewards':reward_report,
-            'illi_ledger':{'rows':len(ledger),'total':cumulative,'dates_preserved':True,'events':ledger},
+            'illi_ledger':{'rows':len(ledger),'total':cumulative,'first_13_dates_preserved':True,'post_G6D2_authority':'CP24 six-event replacement','events':ledger},
             'calendar':{'result':result,'rows':len(calendar),'starting_credits':2000,'gross_illi_credits':gross,
                         'ending_balance':balance,'minimum_daily_closing_balance':min(row['illi_running_balance'] for row in calendar),
                         'negative_space_rows':21,'illi_solo_attempts':2,'purchase_gates':gates,'all_balances_nonnegative':not any('balance negative' in e for e in errors)},

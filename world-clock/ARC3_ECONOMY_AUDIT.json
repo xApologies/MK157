@@ -99,9 +99,10 @@
   ],
   "scheduling_scope": "Day-level conflicts checked; intraday timings/qualitative durations remain OPEN",
   "raid_eligibility_constraint": "O4D2 Normal Red must be distinct from paid O1D6 boss; exact identities OPEN",
-  "weekly_character_rows_updated": 7,
+  "weekly_character_rows_updated": 15,
   "standing_social_tracks_preserved": true,
-  "all_17_illi_dates_and_costs_preserved": true,
+  "arc3_beam_cost_date_preserved": true,
+  "post_G6D2_ledger_authority": "CP24",
   "daily_cumulative_gross": [
     {
       "week": 2,
@@ -343,8 +344,8 @@
     "world-clock/ARC3_ORANGE_CALENDAR.json": "38d17224a0e4a4400c72c446f79a9cf7b3d86e9ad926a342925830d24d242b5f",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv": "95750b0b3c1c5f6f566b9ae102a6379dda79014c6ed4de266f0150ce52853b42",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json": "1d1ba6c8cdd7c1b7d145e264a4254fdde3242319c17c5a895e12c33dc6d2b85a",
-    "world-clock/WORLD_CLOCK_TEMPLATE.csv": "308aa8ad41a43ba3806343031164da5ec03a4cb49961dc6879b0408001e4db93",
-    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "26ced96916327b0eaaf5443145b524825feafa62aa6618ac501e43c4fb42a554",
-    "world-clock/validate_arc3.py": "728b0a567fdfa623382b5fa8c8c169b7faa63cd26ffc3116069feea9e148f6b2"
+    "world-clock/WORLD_CLOCK_TEMPLATE.csv": "f1419e7912542bfb8e8490bed6434691b089db04de9c398d6f93ed3f1bd73340",
+    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "056532016144fa8f1afccbc6a03c8f4853fecb128cf67c86e317795c2dfdd440",
+    "world-clock/validate_arc3.py": "d3c5fa83d2fa45ffe4616a863d3817f122bc24b131090726151e38941df943fe"
   }
 }

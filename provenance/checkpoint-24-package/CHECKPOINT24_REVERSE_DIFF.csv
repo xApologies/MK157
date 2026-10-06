@@ -1,0 +1,17 @@
+topic,previous,checkpoint24,action
+Arc Six endpoint,Old projection V2D2 Resonance Prime,B6D3 Resonance Prime,SUPERSEDE
+G6D4,Absorption Orange,Genesis Prime Orange,SUPERSEDE
+G7D2,Absorption Yellow,Genesis Prime Yellow,SUPERSEDE
+Absorption Orange,G6D4,B1D3,MOVE
+Absorption Yellow,G7D2,B2D4,MOVE
+Absorption Green,V1D3,B5D6,MOVE
+Resonance Prime Red,V2D2,B6D3,MOVE
+Genesis Prime Orange,not previously scheduled,G6D4,ADD
+Genesis Prime Yellow,not previously scheduled,G7D2,ADD
+illi Green Solo,not achieved by Arc Five,B1D1 W13 clear / W14 fail,ADD
+Kira Halo,Early Blue exact day OPEN,B1D5,LOCK
+Orange domai payout,contextual OPEN,"G6D3 = 30,000 each",LOCK SPECIFIC
+Yellow domai payout,contextual OPEN,"B5D4 = 15,000 each",LOCK SPECIFIC
+Blue Dungeon,not Arc Five,B3 fail / B5 first clear,ADD
+Hard Yellow Raid,not cleared,B5D3 first clear,ADD
+Duo Blue,W18/W19 fail,B2 W19 clear; B6 W20 clear,ADVANCE

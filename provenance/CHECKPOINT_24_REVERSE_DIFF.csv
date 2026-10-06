@@ -1,0 +1,39 @@
+id,topic,before,source_action,after,disposition,targets
+CP24-01,Fresh baseline,Completed CP23,AUDIT,Fetched origin/main and local main ec3274b8f5026cd2cd6aa2bfb076383e3a863311; clean,PRESENT,provenance/CHECKPOINT_24_BEFORE_REVIEW.json
+CP24-02,Complete source,16 uploaded members,PRESERVE,All read; inventory verifies all 15 listed members; CSV/JSON typed mirrors agree,PRESENT,provenance/CHECKPOINT_24_SOURCE_REVIEW.json
+CP24-03,Arc Six,No schedule,LOCK,G6D3→B6D3; 50 fully locked dates; Arc Seven starts B6D4,PRESENT,world-clock/ARC6_DIRECTOR_CALENDAR.json; world-clock/ARC6_HANDOFF.json
+CP24-04,Arc Five,48-day FULL LOCK,PRESERVE,Calendar CSV/JSON/Markdown and handoff bytes unchanged; all outcomes and income preserved,PRESENT,world-clock/ARC5_DIRECTOR_CALENDAR.json; world-clock/validate_arc6.py
+CP24-05,Genesis Prime Orange,G6D4 was Absorption O,SUPERSEDE,G6D4 Genesis Prime O 14960,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json
+CP24-06,Genesis Prime Yellow,G7D2 was Absorption Y,SUPERSEDE,G7D2 Genesis Prime Y 26928,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json
+CP24-07,Absorption Orange,G6D4,MOVE,B1D3 14960,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json
+CP24-08,Absorption Yellow,G7D2,MOVE,B2D4 26928,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json
+CP24-09,Absorption Green,V1D3,MOVE,B5D6 56549,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json
+CP24-10,Resonance Prime Red,V2D2,MOVE,B6D3 9350; Arc Six close,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json
+CP24-11,Current illi ledger,17 events / 250884,SUPERSEDE,19 events / 292772; first 13 through G6D2 unchanged,PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json; world-clock/ILLI_PROGRESSION_SKELETON.json
+CP24-12,Genesis Prime motivation,Red at Arc Five end,ADD,Autonomous offensive workhorse; Yellow before Green Solo graduation,PRESENT,live-model/ILLI_PROGRESSION.md; live-model/PRIME_ELEMENTALS.md
+CP24-13,illi Solo,Arc Five W10 clear/W11 fail,ADVANCE,G7D3 W11; G7D4 W12; B1D1 W13 Green clear/W14 fail; independent graduation,PRESENT,world-clock/ARC6_DIRECTOR_CALENDAR.json; live-model/ILLI_PROGRESSION.md
+CP24-14,Veteran ecology,Kira centered on first-cycle peers,ADD,Both eligible together after B1D1; credibility distinct; normal PUG rejection; dossier/build fit/experience/reputation; no item-level,PRESENT,live-model/COMBAT_ECOLOGY.md; live-model/03_VALNEK_PATHS.md
+CP24-15,Dungeon ceiling,Arc Five Green clear stage,ADVANCE,Yellow social/reliable; Green primary; Blue rare push; no Violet attempt,PRESENT,live-model/COMBAT_ECOLOGY.md
+CP24-16,Dungeon outcomes,No Arc Six placements,LOCK,2 Yellow + 9 Green clears; B3D6–D7 Blue fail / B5D1–D2 first Blue clear,PRESENT,world-clock/ARC6_DIRECTOR_CALENDAR.json
+CP24-17,Normal Raid,Earlier seasons retained,LOCK,"B2D3 R/O/Y clear, Green fail; 11250 each",PRESENT,world-clock/ARC6_DIRECTOR_CALENDAR.json; world-clock/validate_arc6.py
+CP24-18,Hard Raid first,No Arc Six placement,LOCK,B3D2 R/O clear/Y fail; 9375 each,PRESENT,world-clock/ARC6_DIRECTOR_CALENDAR.json
+CP24-19,Hard Raid repeat,Same-season/mode/boss rewards once,PRESERVE,B4D3–D4 R/O repeat/Y deep fail: zero major reward,PRESENT,world-clock/ARC6_DIRECTOR_CALENDAR.json; world-clock/validate_arc6.py
+CP24-20,Hard Yellow,No previous clear,LOCK,B5D3 Hard Y first clear 7500 each; R/O repeats zero; no Hard Green,PRESENT,world-clock/ARC6_DIRECTOR_CALENDAR.json
+CP24-21,Duo progression,Arc Five W18/W19 wall,ADVANCE,G6D7 W18; B2D1–2 W19; B6D1–2 W20; failed next wave unpaid,PRESENT,world-clock/ARC6_HANDOFF.json
+CP24-22,Runtime,Fixed planning bands,PRESERVE,Y5–10h/G12–21h/B25–42h; two-day Blue Dungeon and deep Duo blocks; exact Raid runtime OPEN,PRESENT,world-clock/ARC6_DIRECTOR_CALENDAR.md; world-clock/validate_arc6.py
+CP24-23,Halo,Early Blue exact day OPEN,LOCK,B1D5 61017; author declares solvent with prior carry-in; acquisition not mastery,PRESENT,live-model/01_KIRA.md; economy/KIRA_BLACK_ACQUISITION_PRICES.json
+CP24-24,Domain and two Orbs,Late Violet / later capability,PRESERVE,Domain exact day OPEN; Arc Six begins two-Orb transition without competency/maturity date,PRESENT,live-model/01_KIRA.md; live-model/OPEN.md
+CP24-25,G6D3 Orange domai,No specific award,LOCK SPECIFIC,60000 collective / 30000 each; registered two-person contribution unit,PRESENT,live-model/DOMAI_PARTICIPATION.md; world-clock/ARC6_HANDOFF.json
+CP24-26,B5D4 Yellow domai,No specific award,LOCK SPECIFIC,30000 collective / 15000 each; no general rank table,PRESENT,live-model/DOMAI_PARTICIPATION.md; world-clock/ARC6_HANDOFF.json
+CP24-27,Domai mechanics,"7-day, same-domai one-day, death multiplier",PRESERVE,Rules unchanged; no death count/bonus invented; earlier Y7D4 amount remains OPEN,PRESENT,combat-rewards/DOMAI_PARTICIPATION_RULES.json; live-model/DOMAI_PARTICIPATION.md
+CP24-28,Arc Six gross,Not supplied,LOCK,148600 Kira / 157065 illi including specific awards,PRESENT,world-clock/ARC6_DIRECTOR_AUDIT.json
+CP24-29,illi reserve,Actual carry-in unresolved,LOCK SCOPED,Zero earmarked start; 149675 spend; 7390 end; all purchases chronologically solvent; actual bank separate,PRESENT,world-clock/ARC6_ILLI_CREDIT_LEDGER.json; world-clock/validate_arc6.py
+CP24-30,Three-Prime endpoint,"Genesis R/Coherence R, no Resonance",ADVANCE,PC B / Abs G / Beam G / Genesis Y / Coherence R / Resonance R; offense/restoration/frontline,PRESENT,live-model/PRIME_ELEMENTALS.md; world-clock/ARC6_HANDOFF.json
+CP24-31,Builder/social,Friend-group social home,PRESERVE,G6D5 and B1D5–B5D5; Halo with B1D5; Green W7 Auction displaces D5,PRESENT,live-model/PARTNERSHIP_AND_CARRY.md; world-clock/ARC6_HANDOFF.json
+CP24-32,Social economy,Discretionary lives,PRESERVE,illi Dungeon service/community; Kira Trials; cards/clothes/social wealth valid; no general card table,PRESENT,live-model/PARTNERSHIP_AND_CARRY.md; live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md
+CP24-33,Project Princess Carry,Later cycle/White fanaticism,PRESERVE,Section exact; Arc Six economic precursor only,PRESENT,live-model/PARTNERSHIP_AND_CARRY.md; world-clock/validate_arc6.py
+CP24-34,Protected tables/content,1016/229/200 registries and 209 atomic groups,PRESERVE,Records/rewards/Training Yard/Builder/Black mastery remain exact,PRESENT,world-clock/validate_arc6.py
+CP24-35,World schedule,49-week infrastructure,PRESERVE,Only eight character-overlay weeks updated; all standing fields and Prism identical,PRESENT,world-clock/WORLD_CLOCK_TEMPLATE.csv; world-clock/validate_arc6.py
+CP24-36,Current versus history,Earlier validators assume 17 immutable future events,RECONCILE,"Current validators accept 19-event author replacement; verify first 13, source equality, prices/skeleton and clock scope; old provenance intact",PRESENT,economy/validate_economy.py; world-clock/validate_arc6.py
+CP24-37,Unresolved scope,Protected author OPENs,OPEN,"Failure depths, Halo mastery, Domain day, two-Orb maturity, failed Blue partials, Blue raeon, real balances, group identities, later Arc Seven",OPEN,live-model/OPEN.md
+CP24-38,Navigation/provenance,CP23 latest,UPDATE,"CP24 current authority, complete addendum and all required provenance files",PRESENT,README.md; live-model/INDEX.md; live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md

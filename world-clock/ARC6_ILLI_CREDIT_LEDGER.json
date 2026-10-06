@@ -1,0 +1,226 @@
+[
+  {
+    "date": "G6D3",
+    "description": "Orange domai specific award",
+    "income": 30000,
+    "progression_spend": 0,
+    "running_progression_reserve": 30000,
+    "kind": "income"
+  },
+  {
+    "date": "G6D4",
+    "description": "Genesis Prime \u2192 Orange",
+    "income": 0,
+    "progression_spend": 14960,
+    "running_progression_reserve": 15040,
+    "kind": "purchase"
+  },
+  {
+    "date": "G6D6",
+    "description": "Yellow Dungeon \u00d72",
+    "income": 4610,
+    "progression_spend": 0,
+    "running_progression_reserve": 19650,
+    "kind": "income"
+  },
+  {
+    "date": "G6D7",
+    "description": "Duo Trial W18",
+    "income": 6555,
+    "progression_spend": 0,
+    "running_progression_reserve": 26205,
+    "kind": "income"
+  },
+  {
+    "date": "G7D1",
+    "description": "Green Dungeon clear",
+    "income": 4550,
+    "progression_spend": 0,
+    "running_progression_reserve": 30755,
+    "kind": "income"
+  },
+  {
+    "date": "G7D2",
+    "description": "Genesis Prime \u2192 Yellow",
+    "income": 0,
+    "progression_spend": 26928,
+    "running_progression_reserve": 3827,
+    "kind": "purchase"
+  },
+  {
+    "date": "G7D3",
+    "description": "illi Solo W11 clear",
+    "income": 2355,
+    "progression_spend": 0,
+    "running_progression_reserve": 6182,
+    "kind": "income"
+  },
+  {
+    "date": "G7D4",
+    "description": "illi Solo W12 clear",
+    "income": 2805,
+    "progression_spend": 0,
+    "running_progression_reserve": 8987,
+    "kind": "income"
+  },
+  {
+    "date": "B1D1",
+    "description": "illi Solo W13 Green clear",
+    "income": 3305,
+    "progression_spend": 0,
+    "running_progression_reserve": 12292,
+    "kind": "income"
+  },
+  {
+    "date": "B1D2",
+    "description": "Green Dungeon clear",
+    "income": 4550,
+    "progression_spend": 0,
+    "running_progression_reserve": 16842,
+    "kind": "income"
+  },
+  {
+    "date": "B1D3",
+    "description": "Absorption Shield \u2192 Orange",
+    "income": 0,
+    "progression_spend": 14960,
+    "running_progression_reserve": 1882,
+    "kind": "purchase"
+  },
+  {
+    "date": "B1D4",
+    "description": "Green Dungeon clear",
+    "income": 4550,
+    "progression_spend": 0,
+    "running_progression_reserve": 6432,
+    "kind": "income"
+  },
+  {
+    "date": "B1D6",
+    "description": "Green Dungeon clear",
+    "income": 4550,
+    "progression_spend": 0,
+    "running_progression_reserve": 10982,
+    "kind": "income"
+  },
+  {
+    "date": "B2D2",
+    "description": "Duo Trial W19 clear",
+    "income": 7355,
+    "progression_spend": 0,
+    "running_progression_reserve": 18337,
+    "kind": "income"
+  },
+  {
+    "date": "B2D3",
+    "description": "Normal Raid R/O/Y major rewards",
+    "income": 11250,
+    "progression_spend": 0,
+    "running_progression_reserve": 29587,
+    "kind": "income"
+  },
+  {
+    "date": "B2D4",
+    "description": "Absorption Shield \u2192 Yellow",
+    "income": 0,
+    "progression_spend": 26928,
+    "running_progression_reserve": 2659,
+    "kind": "purchase"
+  },
+  {
+    "date": "B2D6",
+    "description": "Green Dungeon clear",
+    "income": 4550,
+    "progression_spend": 0,
+    "running_progression_reserve": 7209,
+    "kind": "income"
+  },
+  {
+    "date": "B3D1",
+    "description": "Green Dungeon clear",
+    "income": 4550,
+    "progression_spend": 0,
+    "running_progression_reserve": 11759,
+    "kind": "income"
+  },
+  {
+    "date": "B3D2",
+    "description": "Hard Raid R/O first seasonal rewards",
+    "income": 9375,
+    "progression_spend": 0,
+    "running_progression_reserve": 21134,
+    "kind": "income"
+  },
+  {
+    "date": "B3D4",
+    "description": "Green Dungeon clear",
+    "income": 4550,
+    "progression_spend": 0,
+    "running_progression_reserve": 25684,
+    "kind": "income"
+  },
+  {
+    "date": "B4D2",
+    "description": "Green Dungeon clear",
+    "income": 4550,
+    "progression_spend": 0,
+    "running_progression_reserve": 30234,
+    "kind": "income"
+  },
+  {
+    "date": "B4D6",
+    "description": "Green Dungeon clear",
+    "income": 4550,
+    "progression_spend": 0,
+    "running_progression_reserve": 34784,
+    "kind": "income"
+  },
+  {
+    "date": "B5D2",
+    "description": "Blue Dungeon first clear",
+    "income": 7800,
+    "progression_spend": 0,
+    "running_progression_reserve": 42584,
+    "kind": "income"
+  },
+  {
+    "date": "B5D3",
+    "description": "Hard Yellow first clear",
+    "income": 7500,
+    "progression_spend": 0,
+    "running_progression_reserve": 50084,
+    "kind": "income"
+  },
+  {
+    "date": "B5D4",
+    "description": "Yellow domai specific award",
+    "income": 15000,
+    "progression_spend": 0,
+    "running_progression_reserve": 65084,
+    "kind": "income"
+  },
+  {
+    "date": "B5D6",
+    "description": "Absorption Shield \u2192 Green",
+    "income": 0,
+    "progression_spend": 56549,
+    "running_progression_reserve": 8535,
+    "kind": "purchase"
+  },
+  {
+    "date": "B6D2",
+    "description": "Duo Trial W20 clear",
+    "income": 8205,
+    "progression_spend": 0,
+    "running_progression_reserve": 16740,
+    "kind": "income"
+  },
+  {
+    "date": "B6D3",
+    "description": "Resonance Prime \u2192 Red",
+    "income": 0,
+    "progression_spend": 9350,
+    "running_progression_reserve": 7390,
+    "kind": "purchase"
+  }
+]

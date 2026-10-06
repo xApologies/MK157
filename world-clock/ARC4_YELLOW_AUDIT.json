@@ -540,19 +540,31 @@
       26928
     ],
     [
-      "Violet",
+      "Blue",
       1,
       3,
+      14960
+    ],
+    [
+      "Blue",
+      2,
+      4,
+      26928
+    ],
+    [
+      "Blue",
+      5,
+      6,
       56549
     ],
     [
-      "Violet",
-      2,
-      2,
+      "Blue",
+      6,
+      3,
       9350
     ]
   ],
-  "all_17_illi_milestones_preserved": true,
+  "current_19_event_ledger_checked": true,
   "kira_black_scaffold": {
     "Armor of the Abyss": "Entry/Red",
     "CSR": "Early Orange",
@@ -586,7 +598,6 @@
     "bindings/PRICING_AUDIT.json",
     "bindings/PRICING_CLASS_MATRIX.csv",
     "bindings/PRICING_CLASS_MATRIX.json",
-    "bindings/PRICING_MODEL.md",
     "bindings/README.md",
     "builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv",
     "builder/encounters/eldris/BASIN_REFERENCE.csv",
@@ -876,25 +887,20 @@
     "trial-rewards/TRIAL_WAVE_CREDITS.json",
     "world-clock/ARC3_ORANGE_CALENDAR.csv",
     "world-clock/ARC3_ORANGE_CALENDAR.json",
-    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv",
-    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
-    "world-clock/ILLI_PROGRESSION_SKELETON.csv",
-    "world-clock/ILLI_PROGRESSION_SKELETON.json",
     "world-clock/PRISM_TEAM_TRACKER.csv",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv",
-    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json",
-    "world-clock/WORLD_CLOCK_TEMPLATE.csv"
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json"
   ],
   "sha256": {
     "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.csv": "7e899fa721b72d6a024d6959886e1a24faa41c8c1143a82183705cd1acbe7552",
     "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json": "f716baded0d2c77cc9ed04847d5da4523365c5a6ff04a0afd9a71f62198c1a5d",
     "world-clock/ARC4_HANDOFF.json": "0e459f5558607438858e301a518c534aac5fcc78a2d286ea87794593a0f7a5ec",
-    "world-clock/validate_arc4_yellow.py": "08d425e4f00db4db24948375df80cfb9ad67ce5fb7f99b35cb4a1289a45ace53",
+    "world-clock/validate_arc4_yellow.py": "7afcf101c30d35c86ddaa16cd1e4f35c52121164e29b3a4a4f29d814a6e39803",
     "live-model/ELDRIS_REFERENCE.md": "b87ec267952a7a70516d08d857b7667f9b3f61fb4b4e587aa94ee3486282c702",
-    "live-model/COMBAT_ECOLOGY.md": "80dd056b4183544f888b3b34317a61d83bc5c0acb5865d4cca381896d90f7970",
-    "live-model/COMBAT_THRESHOLDS.md": "b0c5871299cf84b15296474b40a88bc154277c7fdd4c6d73c23f7d09f4f027f9",
-    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "fbac8772682ee3b5f8d87456458f6575d5626654fe584a8a89941e3c210ec6f8",
-    "live-model/OPEN.md": "8d59fcae31b0546e84520f412866aaacb3b121fe5423a57234f7a13859a93c73",
+    "live-model/COMBAT_ECOLOGY.md": "8d0e37bb983293b2522c97bcd7bab066380f7a4cc2b5a602e824f52820d925cc",
+    "live-model/COMBAT_THRESHOLDS.md": "527a851af76ab51ada6ab6cc65a68fec42c76f3b67f38341770b44ec5b324036",
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "359b0cc8e1c1ca39390b096459a4e3162387572ac14b3d2bc1dee5b46760ff11",
+    "live-model/OPEN.md": "55b0769c5c1bcd18fec01fd69f9d3a1d5d59c94a1075ebb4efab51eedc95cf58",
     "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "a90f44de5acf9cada1e92a7efe51f52d5aedd4b2291a3febe45afb3784cb0d0d"
   }
 }

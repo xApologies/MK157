@@ -1,0 +1,77 @@
+[
+  {
+    "path": "ARC6_DIRECTOR_CALENDAR.csv",
+    "bytes": 9567,
+    "sha256": "da7fa942be46524b3f1ab7d3ca8cabe662fba125542657d60a8a5f8e76007cd4"
+  },
+  {
+    "path": "ARC6_DIRECTOR_CALENDAR.json",
+    "bytes": 24412,
+    "sha256": "3560ba99bad46d32b88991030befe30922f17204f245986d5a71f8031a7001fe"
+  },
+  {
+    "path": "ARC6_ILLI_CREDIT_LEDGER.csv",
+    "bytes": 1468,
+    "sha256": "1b007aab7d6c676e074f7893d31892d709379c2e603f869087e8766d5134b718"
+  },
+  {
+    "path": "ARC6_ILLI_CREDIT_LEDGER.json",
+    "bytes": 5224,
+    "sha256": "3af956722b1be78ac511ec7192caddabe83bf35fb43e772380b44c3aabfbac68"
+  },
+  {
+    "path": "ARC6_SUMMARY.md",
+    "bytes": 1852,
+    "sha256": "479ad06eb80aced17f6ab7a32460be13ecdbb7fdb9a832e6fb65ae5bb7ac167e"
+  },
+  {
+    "path": "BASELINE_AUDIT.md",
+    "bytes": 1296,
+    "sha256": "6f57bee13b5dfa11b315e6cc5f0b4ff34ee828a4d9fb45e02133307d1f1fa9e4"
+  },
+  {
+    "path": "CHECKPOINT24_AUDIT.json",
+    "bytes": 1826,
+    "sha256": "fbd78ffd4bbf6af9f3db626f8b7a72d45c3fc7baa1a69b4d5ecae2b3f82129ae"
+  },
+  {
+    "path": "CHECKPOINT24_LIVE_MODEL_DELTA.md",
+    "bytes": 8542,
+    "sha256": "f31d8f612a5e14a08f803fb40c2691a1c36ddbfe38f8e40b91e9c622d7e1d8af"
+  },
+  {
+    "path": "CHECKPOINT24_REVERSE_DIFF.csv",
+    "bytes": 908,
+    "sha256": "e79ce478beacc93455d940cc10319022a5e10aa19c97a542c6c794d72282acb2"
+  },
+  {
+    "path": "EXECUTABLE.md",
+    "bytes": 4163,
+    "sha256": "ed03ca7521e75836b997546e9cf98017466781a9e83cf52c65861f8d4d4fe6eb"
+  },
+  {
+    "path": "ILLI_PROGRESSION_LEDGER_REPLACEMENT.csv",
+    "bytes": 1008,
+    "sha256": "a68bb2816b84167bf9ffda0cefbdb7659ec66a309750043631d61c148b233ef0"
+  },
+  {
+    "path": "ILLI_PROGRESSION_LEDGER_REPLACEMENT.json",
+    "bytes": 3444,
+    "sha256": "0414425a6d94461fc2ea81c905bde475cf67a42a7ac0d0ea6ae41646ea7129e0"
+  },
+  {
+    "path": "MANIFEST.json",
+    "bytes": 322,
+    "sha256": "8785867fec2da8661a8b262bdb6798af39753cfbdce88aa874ace32351bd591a"
+  },
+  {
+    "path": "OPEN_ITEMS.md",
+    "bytes": 902,
+    "sha256": "7e416bd421f0b2ee55b2adb4c7515f15acafeb20f8201fafa533e28d58aa1b06"
+  },
+  {
+    "path": "README.md",
+    "bytes": 870,
+    "sha256": "f06dba0e89b920e83f3576990cfdfa859e41eb51eb10fbf5a8a03f4fc0932353"
+  }
+]

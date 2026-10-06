@@ -473,7 +473,7 @@ A historical record around low-40s versus a vastly higher Kira record is a worki
 
 Mature blender scenes may include Kira and illi remaining near the Central Basin, conversing/bored while the Orb geometry processes incoming eldris. This is lawful Trial behavior, not cheating or an aggro exploit. Elara's frustration is engineering/comedic frustration at Kira breaking intended scaling while obeying actual rules.
 
-[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN.
+[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies 19 locked milestones through B6D3 under Checkpoint 24; later unsupplied purchase/rank dates remain OPEN.
 
 Current Checkpoint 14 behavior: meaningful free time without overriding recovery, training or social plans commonly becomes Solo Trials. Kira stays primarily with illi/friends after early Green graduation. Project Princess Carry becomes late-cycle Trial-heavy while illi retains independent choices. The public understands Armor/CSR much better than post-Orb architecture; highlights may show the pair apparently idle at the center. Literal Orb velocity/energy stays OPEN. Full current [partnership](PARTNERSHIP_AND_CARRY.md) and [illi schedule](ILLI_PROGRESSION.md).
 
@@ -512,3 +512,9 @@ Orbs are acquired **Y6D2 for 61,017**, distinct from competence. All five Black 
 Arc Five develops one Orb through cannonball/controlled flight/crude orbit into a Kira-anchored mini-blender: working **~11-foot radius**, moderate velocity, semi-stable displacement/damage rather than mature annihilation. It translates with CSR; hits/distraction/overload can break synchronization. “Kinetic shield” describes physical Orb motion, not a force-field Binding. On **G5D1**, Kira clears **W19 Blue Solo and reaches/fails W20**; exact W20 failure depth remains OPEN. Duo stays W18 clear/W19 fail; no meaningful Trio push. The jumping-spider tactic prioritizes Blue ranged threats, then dangerous Yellow ranged, then melee; execution can fail.
 
 [Black systems doctrine](BLACK_SYSTEMS_MASTERY.md) preserves the full tactical, control and mature-future model. [Training Yard](TRAINING_YARD.md) allows no-credit selectable prior-wave practice; Kira often chooses paid W1 practice, falls back to Armor/CSR/claws to finish the wave, then stops between waves. Arc Five’s [social launch](../world-clock/ARC5_HANDOFF.md) follows Elara’s burnout warning and illi’s social leadership; the later Project Princess Carry fanaticism remains later.
+
+## Checkpoint 24 — Halo and Arc Six transition
+
+**B1D5 Halo costs 61,017**, with Girls' Builder Night preserved. The author declares the purchase solvent with prior carry-in allowed; Arc Six gross **148,600** is not a zero-start proof or actual bank balance. Acquisition opens a Black system with no ordinary rank ladder or defined mastery ceiling; exact Halo mastery/capabilities remain within existing doctrine. **Domain stays Late Violet, exact day OPEN**.
+
+Arc Six begins migration toward two-Orb competency; neither competency day nor mature two-Orb blender is locked. Duo advances to W19 clear/W20 fail B2D1–D2 and W20 clear/W21 fail B6D1–D2, both multi-day. Kira’s Trial celebrity does not establish veteran Dungeon/Raid credibility; PUG rejection remains normal after illi graduates B1D1. Later Project Princess Carry stays later; surplus increasingly supports collecting/social wealth after Halo. [Arc Six](../world-clock/ARC6_HANDOFF.md).

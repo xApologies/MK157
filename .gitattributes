@@ -53,3 +53,9 @@ provenance/checkpoint-22-package/*.csv whitespace=cr-at-eol
 provenance/checkpoint-23-package/*.csv whitespace=cr-at-eol
 provenance/checkpoint-23-package/*.md whitespace=-blank-at-eol
 live-model/30_CHECKPOINT_23_ARC5_COMBAT_CALENDAR.md whitespace=-blank-at-eol
+
+provenance/checkpoint-24-package/*.csv whitespace=cr-at-eol
+provenance/checkpoint-24-package/*.md whitespace=-blank-at-eol
+provenance/checkpoint-24-baseline/*.csv whitespace=cr-at-eol
+live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md whitespace=-blank-at-eol
+world-clock/ARC6_HANDOFF.md whitespace=-blank-at-eol

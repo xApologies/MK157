@@ -1,0 +1,779 @@
+{
+  "before_pattern": "17.event|17.*(?:illi|milestone)|250.?884|G6D4|G7D2|V1D3|V2D2|Halo.*OPEN|early.Violet|Arc Six",
+  "before_matches": [
+    {
+      "path": "README.md",
+      "line": 32,
+      "text": "[Checkpoint 14 full reconciliation](live-model/21_CHECKPOINT_14_FULL_RECONCILIATION.md) governs its continuing story/economy locks. [Trial rewards](trial-rewards/README.md) now total 26,955 under Checkpoint 18; [illi progression](live-model/ILLI_PROGRESSION.md) contains the corrected 17 milestones; [partnership](live-model/PARTNERSHIP_AND_CARRY.md) records Project Princess Carry. Checkpoint 19 now locks each of the four Kira post-Armor acquisition prices at 61,017. [Item-level reverse diff](provenance/CHECKPOINT_14_REVERSE_DIFF.csv) and [audit](provenance/CHECKPOINT_14_AUDIT.json) document all 20 decisions."
+    },
+    {
+      "path": "README.md",
+      "line": 36,
+      "text": "[Checkpoint 16 master update](live-model/23_CHECKPOINT_16_MASTER_LIVE_MODEL_UPDATE.md) integrates the source package labeled Checkpoint 15 after the already-committed atomic-library pass. [Normal Dungeons](live-model/NORMAL_DUNGEONS.md) now extend through White without White eldris; the [illi cost ledger](world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) now totals 250,884 under Checkpoint 18. [All 22 reverse-diff dispositions](provenance/CHECKPOINT_16_REVERSE_DIFF.md), [audit/file list](provenance/CHECKPOINT_16_AUDIT.json) and [conflicts](provenance/CHECKPOINT_16_CONFLICTS.md) document the update."
+    },
+    {
+      "path": "README.md",
+      "line": 40,
+      "text": "[Checkpoint 18 master reconciliation](live-model/25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) locks fixed [class prices](bindings/PRICING_MODEL.md), the 2,000 starter grant, recalibrated [Trial](trial-rewards/README.md) and [combat rewards](combat-rewards/README.md), the 250,884-credit illi ledger and the [59-day combat calendar](world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md). [domai participation](live-model/DOMAI_PARTICIPATION.md) preserves OPEN scoring; [aithren/vaelum/Accord](live-model/AITHREN_VAELUM_ACCORD.md) imports only approved doctrine. [Audit/file list](provenance/CHECKPOINT_18_AUDIT.json), [reverse diff](provenance/CHECKPOINT_18_REVERSE_DIFF.csv) and [conflicts](provenance/CHECKPOINT_18_CONFLICTS.md) document the complete pass."
+    },
+    {
+      "path": "README.md",
+      "line": 42,
+      "text": "[Checkpoint 19 — Arc Three](live-model/26_CHECKPOINT_19_ARC_THREE.md) adds the exact [39-day Orange calendar](world-clock/ARC3_ORANGE_CALENDAR.md), tournament appointments and the **61,017-credit character-specific post-Armor Black tier**. Deterministic arc income is **58,885 illi / 83,915 Kira**; its original 22,898-after-Orbs-reserve calculation remains historical planning. Checkpoint 20 instead closes Arc Three with the specific 86,000-credit Blue Fireball card; domai payout and other card purchases remain OPEN. [Audit/file list](provenance/CHECKPOINT_19_AUDIT.json), [reverse diff](provenance/CHECKPOINT_19_REVERSE_DIFF.csv), [coverage](provenance/CHECKPOINT_19_COVERAGE_MANIFEST.csv) and [conflicts](provenance/CHECKPOINT_19_CONFLICTS.md) record validation."
+    },
+    {
+      "path": "README.md",
+      "line": 44,
+      "text": "[Checkpoint 20 — social life / Arc Four](live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md) closes Arc Three with illi Beam Red and Kira's **86,000-credit specific Blue Fireball Genesis Card**. Orbs remain **61,017**, acquired inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2. [Arc Four handoff](world-clock/ARC4_HANDOFF.md) preserves **73,044** illi spend after Beam Red and the Y6D3 Prime endpoint. [Social life/foundations](live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md) locks abecca, Tea House/Party/charity culture, social-credit gifts with a progression-financing firewall, and undated social/recovery options. [Audit/file list](provenance/CHECKPOINT_20_AUDIT.json), [reverse diff](provenance/CHECKPOINT_20_REVERSE_DIFF.csv), [coverage](provenance/CHECKPOINT_20_COVERAGE_MANIFEST.csv) and [conflicts](provenance/CHECKPOINT_20_CONFLICTS.md) provide evidence."
+    },
+    {
+      "path": "README.md",
+      "line": 46,
+      "text": "[Checkpoint 21 — Arc Four / Yellow](live-model/28_CHECKPOINT_21_ARC4_YELLOW.md) added the now-historical [36-day combat calendar](world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md): five shared W18 clears, one Kira Solo W18, 17 Orange clears, four Yellow attempts (Kira three clears / illi two), three Normal PUG attempts and one Hard Red clear/Orange fail. Its historical gross was **64,725 illi / 73,585 Kira**, superseded by Checkpoint 22 below. Kira’s **Late Yellow Orbs → Early Blue Halo → Late Violet Domain** scaffold is restored; Checkpoint 22 subsequently locks the exact Orb day to Y6D2. The [eldris reference](live-model/ELDRIS_REFERENCE.md) imports compatible source behavior, preserving all 209 groups. All 17 illi milestones remain. [Audit/file list](provenance/CHECKPOINT_21_AUDIT.json), [coverage](provenance/CHECKPOINT_21_COVERAGE_MANIFEST.csv), [reverse diff](provenance/CHECKPOINT_21_REVERSE_DIFF.csv), [conflicts](provenance/CHECKPOINT_21_CONFLICTS.md) and [boundary search](provenance/CHECKPOINT_21_BOUNDARY_SEARCH.json) record reconciliation."
+    },
+    {
+      "path": "README.md",
+      "line": 48,
+      "text": "[Checkpoint 22 — Arc Five / social mastery](live-model/29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md) supersedes the prior Yellow scaffold with the [49-day director calendar](world-clock/YELLOW_DIRECTOR_CALENDAR.md): Orbs **Y6D2**, first Builder party **Y5D5**, six shared W18 Duos and successful **Y7D4 domai** with payout OPEN. Fixed full-Yellow gross is **71,280 illi / 80,140 Kira**; Arc Four gross is **58,170 / 67,030**. [Arc Five roadmap](world-clock/ARC5_HANDOFF.md) spans Y6D4→G6D2. [Training Yard](live-model/TRAINING_YARD.md), [Black systems/mastery](live-model/BLACK_SYSTEMS_MASTERY.md), [Builder community](builder/COMMUNITY.md) and [domai group economy](combat-rewards/DOMAI_GROUP_ECONOMY.md) are active references. Registries, fixed rewards, illi dates and later Project Princess Carry remain. [Audit/file list](provenance/CHECKPOINT_22_AUDIT.json), [coverage](provenance/CHECKPOINT_22_COVERAGE_MANIFEST.csv), [reverse diff](provenance/CHECKPOINT_22_REVERSE_DIFF.csv), [conflicts](provenance/CHECKPOINT_22_CONFLICTS.md) and [boundary search](provenance/CHECKPOINT_22_BOUNDARY_SEARCH.json) record reconciliation."
+    },
+    {
+      "path": "README.md",
+      "line": 50,
+      "text": "[Checkpoint 23 — Arc Five FULL LOCK](live-model/30_CHECKPOINT_23_ARC5_COMBAT_CALENDAR.md) fixes the [48-day Arc Five calendar](world-clock/ARC5_DIRECTOR_CALENDAR.md), Y6D4→G6D2. Kira Blue Solo **G5D1**, illi W10 Solo **G5D2**, and Green clears **G5D3/G5D4/G5D7** are locked. Five shared Duos, six Kira Solos, three illi Solos, eight Yellow clears, five Green attempts (three clears), three Normal Raids and two domai events yield fixed gross **88,595 Kira / 78,430 illi**, excluding contextual Orange-domai and failed-Dungeon partial awards. No pending combat insertions remain; next structural development is Arc Six. Existing Yellow overlap is not double-counted. Social detail, contextual amounts and unrelated OPENs retain their scope. [Audit/file list](provenance/CHECKPOINT_23_AUDIT.json), [coverage](provenance/CHECKPOINT_23_COVERAGE_MANIFEST.csv), [reverse diff](provenance/CHECKPOINT_23_REVERSE_DIFF.csv), [conflicts](provenance/CHECKPOINT_23_CONFLICTS.md) and [boundary search](provenance/CHECKPOINT_23_BOUNDARY_SEARCH.json) record integration."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 113,
+      "text": "Do not revive canonical gold Halo; final Halo coloration remains OPEN."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 212,
+      "text": "Checkpoint 16 preserves all 17 illi milestone dates and added the author expenditure ledger, now 250,884 credits after Checkpoint 18 cost recalculation. Normal Dungeon runtime targets describe competent appropriately ranked parties; whole-build capability matters and over-ranked veterans are not rubber-banded. Dungeon populations are pre-populated. White Normal completion base is now 34,455 under Checkpoint 18; other unsupplied reward formulas and exact extreme recovery physiology remain OPEN. See [current Normal Dungeon doctrine](live-model/NORMAL_DUNGEONS.md)."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 222,
+      "text": "Checkpoint 21 restores Orbs Late Yellow, Halo Early Blue and Domain Late Violet; Checkpoint 22 subsequently locks the exact Orb day to Y6D2. The [36-day Yellow scaffold](world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md) is retained CP21 history; Checkpoint 22 supersedes its Y5D5 Trial, Orb-date OPEN and 64,725/73,585 gross. Preserve the entire illi ledger, CP18/19 rewards/calendars and CP20 non-conflicting social/card authority. W18 clear/W19 fail is pre-Orb scope. Import only compatible [eldris ontology/behavior](live-model/ELDRIS_REFERENCE.md), preserving architecture-dependent capability and all 209 atomic groups. Later social authoring and conditional cashflow gaps do not authorize invented dates, rewards or early purchases."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 224,
+      "text": "Checkpoint 22 locks Y6D2 Orbs and the [49-day Yellow director calendar](world-clock/YELLOW_DIRECTOR_CALENDAR.md), replacing Y5D5 Trial with the first Builder party. Arc Five is Y6D4→G6D2. Black systems have no ordinary rank ladder or defined mastery ceiling; the one-Orb stage and later integrated battle system remain distinct. Training Yard practice pays no credits and normal Trials allow termination only between waves. Builder community overlays the unchanged 200 trajectories. Contextual domai group awards split equally among eligible members before individual death deductions; exact payouts/bonuses remain OPEN. Preserve all 17 illi milestones, fixed rewards, registry contents and the later Project Princess Carry section."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 226,
+      "text": "Checkpoint 23 structurally freezes Arc Five Y6D4→G6D2 via the [48-day director calendar](world-clock/ARC5_DIRECTOR_CALENDAR.md). G5D1 Kira Blue Solo, G5D2 illi W10 Solo, and G5D3/G5D4/G5D7 Green clears are dated. No unresolved combat insertion remains; continue structural planning with Arc Six. Fixed gross 88,595 Kira / 78,430 illi excludes contextual Orange-domai and failed-Dungeon partial rewards. Retained SCAFFOLD source labels do not reopen dates. Social detail can fill established social/open blocks; only explicit author reopening moves combat/progression. Preserve prior Black mastery, Training Yard, Builder, later Project Princess Carry, registries and all 17 illi purchase milestones."
+    },
+    {
+      "path": "bindings/BINDINGS.csv",
+      "line": 544,
+      "text": "GE-0416,Halo Pattern Pattern,Genesis Expression,Genesis Expression | Resonance,Mage,Multicast Pattern,Pattern modifier,Pattern operator that restructures a compatible shaping into orbiting circular release.,,OPEN — derive from actual shaping topology only; never infer from domain or visible color.,modifier,mixed,\"moderate mixed burst/sustain load across Yellow, Blue. Basin contention is a major Builder concern; exhaustion of any required basin locks out dependent Bindings until recovery.\",3100,3100,4960,8928,18749,46873,140619,562476,Adaptive Pattern — adjust spacing/timing/orientation during execution without terminating the compatible shaping.,Projectile | Beam | Lance | Burst | Orb | Arc families where Builder validation permits,Increases concurrency and therefore cognitive/basin load; not every Binding geometry is pattern-compatible.,Mage | multicast | pattern | Halo Pattern,\"Spells.pdf A-7 — Multicast Patterns, reinterpreted as modifier Bindings\",ALPHA candidate — domain-normalized v0.2,LOCKED — Checkpoint 18,COMMON_SPECIALIZATION"
+    },
+    {
+      "path": "bindings/PRICING_MODEL.md",
+      "line": 31,
+      "text": "The [17-event ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) retains all dates and now totals **250,884** progression expenditure. This is not total income or bank balance. The [early combat calendar](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) supplies a separate progression balance scaffold."
+    },
+    {
+      "path": "combat-rewards/README.md",
+      "line": 53,
+      "text": "Recalibrated W1–35 Trial rows total **26,955**; the repriced 17-event illi ledger totals **250,884** expenditure. Their rules/dates, Project Princess Carry, atomic group records, cumulative availability, White Normal content, outside ontology and unrelated canon are preserved. The supplied 59-day combat calendar adds required progression income; all existing milestone dates remain unchanged."
+    },
+    {
+      "path": "economy/AUDIT.json",
+      "line": 221,
+      "text": "    \"total\": 250884,"
+    },
+    {
+      "path": "economy/AUDIT.json",
+      "line": 358,
+      "text": "        \"cumulative_progression_spend\": 250884"
+    },
+    {
+      "path": "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+      "line": 15,
+      "text": "  \"acquisition_dates\": \"Checkpoint 22: Entry/Red Armor → Early Orange CSR → Late Yellow Genesis Orbs at Yellow W6 D2 (Y6D2) → Early Blue Halo → Late Violet Domain. Orbs are not Yellow W1 D2 or the Arc Three endpoint. Exact Halo/Domain days OPEN. The 61,017 acquisition tier remains Checkpoint 19; acquisition is not mastery.\","
+    },
+    {
+      "path": "economy/validate_economy.py",
+      "line": 190,
+      "text": "    require(len(ledger) == 17 and cumulative == 250884, 'illi count/total mismatch')"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE.md",
+      "line": 108,
+      "text": "Checkpoint 21 restores seasonal Black placement and supplies the Yellow combat scaffold. Checkpoint 22 subsequently locks the exact Orb day to Y6D2. Its eldris source import is limited by [source boundaries](SOURCE_BOUNDARIES.md); all 17 illi dates/costs, atomic group IDs and non-conflicting prior authority remain. Gross combat income is not a final balance."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 152,
+      "text": "With ordinary Halo support, one Orb can eventually be maintained continuously/full-time with negligible energetic fatigue; active control still costs cognition. Whether two or three can be sustained indefinitely remains OPEN."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 429,
+      "text": "Absorption Shield Red list 17,000 → illi price 9,350 (Checkpoint 18)."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 476,
+      "text": "[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 164,
+      "text": "Final Halo coloration remains OPEN and must follow Genesis/Black grammar; do not revive canonical gold."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 219,
+      "text": "6. Early Violet — Resonance Prime Elemental / Juggernaut."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 221,
+      "text": "Causal order: healer plan → White Legacy redirects through prevention → Duo needs offense → Beam → Genesis Prime → dungeon/group healing need → Coherence Prime → Kira already fronts, so Juggernaut purchased early Violet after Absorption Green."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 527,
+      "text": "Absorption Shield Red list 17,000 → illi price 9,350 (Checkpoint 18)."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 574,
+      "text": "[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 576,
+      "text": "Checkpoint 14 preserves the sandbox paragraphs above exactly: anti-carry progression grouping, Green Solo graduation and Elara agreement remain. The Checkpoint 18 starter grant is 2,000 credits; a Foundational Red purchase costs 1,700. It does not fund two such purchases without additional income. illi may run legitimate first-cycle Dungeons with her original cohort as helkir; later she graduates by her own Solo competency. Her final Solo wave/rank remains OPEN. Current [17-event illi schedule](ILLI_PROGRESSION.md) supersedes older Coherence/Resonance seasonal windows; [partnership](PARTNERSHIP_AND_CARRY.md) carries the social/economic consequences."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 584,
+      "text": "[Tea House / Tea Party / charity doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md) applies inside Valnak and outside: around 17 a noble mother customarily establishes a daughter's residence/independent household; the daughter chooses an associated charity that may mature into a foundation. Tea House = independence; Tea Party = social identity/network; charity/foundation = civic/economic agency. Marriage can unite two established networks without erasing either. Wealthy merchant/non-noble families may imitate at smaller reach. Kira's desirability as an invite also makes illi attendance likelier."
+    },
+    {
+      "path": "live-model/05_VISUAL_CANON.md",
+      "line": 32,
+      "text": "Black Armor of the Abyss is body-linked liquid/deep Black with buried R→V spectral structure. White biological hair can integrate/reconfigure into the armored state. Halo's final visual remains OPEN under Genesis/Black grammar."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 3,
+      "text": "Current authority: Checkpoint 23, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 144,
+      "text": "Current ordinary prices are in the [Binding registry](../bindings/BINDINGS.json), [summon price atlas](../summons/SUMMON_PRICING.json) and [Prime price atlas](../summons/PRIME_ELEMENTAL_PRICING.json). Checkpoint 18 prices Persistent Coherence by its Foundational class: B=1700, R 1700/O 2720/Y 4896/G 10282/B 25705; cumulative R-through-Blue **45,303**, or **43,603** after Red. The above B=1000 calculation remains historical illustration only. Absorption Shield and all Primes are Exceptional B=17000; Genesis Beam is Powerful B=11000; White Legacy access compression is separate from the Checkpoint 13 45% package deduction; illi pays 55% after acceptance."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 185,
+      "text": "Absorption Shield Red list 17,000 → illi price 9,350 (Checkpoint 18)."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 240,
+      "text": "[illi progression](ILLI_PROGRESSION.md) provides 17 dated author milestones; post-Violet-W2 rank dates remain OPEN. [Partnership/economy](PARTNERSHIP_AND_CARRY.md) preserves independent schedules, discretionary spending and Project Princess Carry. These are story constraints, not a fabricated income simulation."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 244,
+      "text": "The [illi author ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) preserves all 17 milestone dates and totals **250,884 credits** in progression expenditure by Violet W2 D2. Full-price prequalification Persistent Coherence and independent 55%-of-list package purchases match the established pricing rules. This is not literal bank balance or gross earnings; discretionary spending remains separate."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 254,
+      "text": "The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. The former 61,017 Orb-reserve / 22,898-headroom calculation is CP19 planning history. CP20 closes Arc Three with the 86,000-credit Blue Fireball card and defers Orbs into Arc Four; actual funding/balance remains OPEN. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 309,
+      "text": "The [49-day director calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md) supersedes CP21’s Y5D5 Trial with the first Builder party. **Arc Four Y1D3–Y6D3 gross is 58,170 illi / 67,030 Kira**. Two added Y6D5/Y6D6 Duos bring **full Yellow gross to 71,280 illi / 80,140 Kira**, excluding Y7D4 domai and failed-Dungeon partial awards. CP21’s 64,725/73,585 and 8,319/12,568 zero-carry illustrations are historical, not current balances. Full funding, opening cash, cards/life spending and domai amounts remain OPEN; no invented liquidity closes a gap."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 311,
+      "text": "**Orbs Y6D2 cost 61,017**. Arc Four still costs illi 73,044 after Beam Red; Arc Five’s next locked purchase is G6D2 Coherence Prime Red **9,350**, with no PC prerequisite purchase or invented Genesis Prime upgrades. Affordability never forces earlier purchase. The 86,000 Blue Fireball card remains the sole specific locked card price here."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 319,
+      "text": "Y6D5/Y6D6's 13,110 per person is already included in full Yellow: never sum full Yellow and Arc Five without removing this overlap. Combined full-Yellow→G6D2 fixed gross is 155,625 Kira / 136,600 illi. These scopes are earnings, not balances or funding proofs. Discretionary cards/decks/clothing/social spending, opening cash and transaction dates remain for the writing-stage ledger. All prior fixed reward tables, acquisition prices and 17 illi purchase dates/costs remain unchanged."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 5,
+      "text": "Entry/Red PC → Early Orange Absorption → Early Yellow Beam → Late Yellow Genesis Prime → **Late Green Coherence Prime** → **Early Violet Resonance Prime/Juggernaut**."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 16,
+      "text": "- Absorption Green unlocks Resonance Prime, purchased early Violet."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 25,
+      "text": "[Exact 17-event CSV](../world-clock/ILLI_PROGRESSION_SKELETON.csv) and [JSON](../world-clock/ILLI_PROGRESSION_SKELETON.json) are author-locked milestones through Violet W2 D2. They are not an inferred income ledger. Blue Persistent Coherence/Legacy acceptance occurs Orange W1 D4; Absorption Red Orange W2 D3; Beam Green Yellow W5 D2; Genesis Prime Yellow W6 D3; Coherence Prime Green W6 D2; Absorption Green Violet W1 D3; Resonance Prime Violet W2 D2. No later rank dates are assigned."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 31,
+      "text": "The [17-event cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) and [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) add exact transaction costs and cumulative progression expenditure to the existing locked milestones. All dates remain unchanged. Final cumulative progression spend at Violet W2 D2 is **250,884 credits**. This is expenditure, not bank balance or gross earnings; discretionary spending remains outside the ledger. It supplies minimum progression-capital breakpoints for future authored content, without assigning later rank dates."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 37,
+      "text": "Arc Three O2D4–O7D7 earns illi **58,885 deterministic gross** with no Solo income; successful-domai contribution and discretionary card spending remain OPEN. Reserve **6,050 for Genesis Beam Red at Yellow W1 D2**, using the existing 55% White-Legacy cost. Earlier affordability does not trigger earlier purchase. All 17 dates and the 250,884 progression-spend ledger remain unchanged. [Arc Three calendar and audit](../world-clock/ARC3_ORANGE_CALENDAR.md) preserve the distinction between gross income and actual balance."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 41,
+      "text": "Arc Three closes with **Genesis Beam Red Y1D2 (6,050)** and Kira's Blue Fireball card, not Orbs. Arc Four starts after that Beam purchase and closes at **Genesis Prime Red Y6D3**. Existing costs/dates: **Y2D4 Beam Orange 9,680; Y3D5 Beam Yellow 17,424; Y5D2 Beam Green 36,590; Y6D3 Prime Red 9,350**. The first three total **63,694**, all four **73,044**. The complete 17-event ledger stays unchanged. Card/life spending may require greater gross income without changing dates. On Y4D2 in the Checkpoint 21 calendar, Kira clears her first Yellow Normal Dungeon while illi is on royal/social obligations; illi remains Orange-cleared then and is playfully/competitively upset. No clear or reward is credited to absent illi. [Arc Four handoff](../world-clock/ARC4_HANDOFF.md)."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 57,
+      "text": "Preserve illi's full 17-event projected calendar through Resonance Prime, including:"
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 60,
+      "text": "- G6D4 Absorption Orange;"
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 61,
+      "text": "- G7D2 Absorption Yellow;"
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 62,
+      "text": "- V1D3 Absorption Green;"
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 63,
+      "text": "- V2D2 Resonance Prime/Juggernaut Red."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 67,
+      "text": "Two Yellow clears at Y5D3 follow Kira’s independent Y4D2 first clear. Checkpoint 21’s historical gross was 64,725. The current Checkpoint 22 calendar revises Arc Four gross to 58,170 and full Yellow gross to 71,280; neither establishes solvency or alters the 17-event ledger. See [current calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md)."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 71,
+      "text": "Arc Five is **Y6D4→G6D2**. illi opens with **Persistent Coherence Blue, Absorption Shield Red, Genesis Beam Green, Genesis Prime Elemental Red**. PC already exceeds the Green Coherence Prime gate; no intermediate PC purchase is required and no Genesis Prime rank dates are invented. G6D2 **Coherence Prime Red costs 9,350**, unchanged with every other entry in the 17-event ledger."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 77,
+      "text": "Solo outings are **G1D4 W8 clear/W9 reached (1,275)**, **G3D2 W9 clear/W10 reached (1,590)** and **G5D2 W10 Yellow clear/W11 reached-fails (1,950)**. Kira keeps G5D2 for post-Blue recovery/Highlights/social life. illi has not graduated Green Solo; later career standing and exact W11 failure depth remain OPEN. Arc Five fixed gross is **78,430**, excluding contextual Orange-domai and failed-Dungeon partial awards; it is not a bank balance. Distributed damage/healer fatigue motivates **G6D2 Coherence Prime Red, 9,350**. All 17 Binding purchase/upgrade milestones are unchanged; Trial standings are separate. [Full lock](../world-clock/ARC5_DIRECTOR_CALENDAR.md)."
+    },
+    {
+      "path": "live-model/INDEX.md",
+      "line": 3,
+      "text": "Authority: 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints."
+    },
+    {
+      "path": "live-model/INDEX.md",
+      "line": 83,
+      "text": "- [illi progression](ILLI_PROGRESSION.md) — 17 exact supplied milestones and later direction."
+    },
+    {
+      "path": "live-model/INDEX.md",
+      "line": 93,
+      "text": "- [illi cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) / [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) — 17 unchanged dates, 250,884 progression spend after Checkpoint 18 repricing."
+    },
+    {
+      "path": "live-model/INDEX.md",
+      "line": 127,
+      "text": "- [Arc Five structured handoff](../world-clock/ARC5_HANDOFF.json) — Current milestones, social/mastery preservation and Arc Six continuation."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 17,
+      "text": "- [Checkpoint 06](11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md): precise microscopic anatomy, organ remodeling, weight/mass changes, and skin-depth mechanism remain OPEN; Halo final visual remains OPEN."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 19,
+      "text": "- [Checkpoint 07](13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md): exact final Eternal Standing waves, Elara-through-Orb identity/instancing, indefinite sustain of two/three Orbs, final Halo coloration and eventual Trio third friend remain OPEN. Per-wave narrative timing is now supplied by [the governing timing model](COMBAT_THRESHOLDS.md); exact stopwatch behavior is not fixed."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 97,
+      "text": "Exact W1–35 rows are LOCKED at cumulative 53910; W36+ remains OPEN. Seventeen illi milestones through Violet W2 D2 are LOCKED; later rank dates remain OPEN. Coherence Prime late Green and Resonance Prime early Violet supersede Early Blue/White windows. CSR/Orbs/Halo/Domain final acquisition prices are reopened with no replacements. Armor ~1000 remains."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 106,
+      "text": "Resolved here: White Valnak Normal content rank; its 450-mi² average; the R→W Normal author runtime targets; the 68,910-credit White Normal completion base; illi's exact 17-event cost ledger totaling 130,261. The ledger supplies progression expenditure only, not gross earnings or bank balance."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 108,
+      "text": "Still OPEN after Checkpoint 17: W36+ Trial payout; final standings (W96 remains NONCANON); post-Violet-W2 illi rank dates; replacement Kira Black prices; unsupplied Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas; Hard runtime targets; final encounter placements and total populations; exact extreme multi-day sleep/food/recovery physiology. Valnak domai rewards remain OPEN BY DESIGN as described below. No blanket waiver of unrelated OPENs follows."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 120,
+      "text": "Resolved: 2000 starter grant; fixed class anchors/ladders; illi 17-event cost total 250884 with unchanged dates; Trial W1–35 total 26955; recalibrated Normal/Hard Dungeon/Raid tables; supplied 59-day progression calendar (52695 illi income through O2D2; O1D4 after-PC balance952; O2D3 after-Absorption balance42). Its 21 NO REQUIRED COMBAT days are protected. Older required Day-One Solo/Day-Two double-Duo timing is superseded by this scaffold; exact displaced story-beat placement remains OPEN."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 130,
+      "text": "Resolved: CSR/Genesis Orbs/Halo/Domain each cost **61,017**, separate from ordinary class pricing; Armor remains its anomaly. The source package's earlier ~50k–60k/Orbs-OPEN draft text is superseded by its final author locks. The exact O2D4–O7D7 calendar supplies 58,885/83,915 deterministic illi/Kira gross, a 61,017 Orbs reserve and 22,898 Kira headroom. illi retains 6,050 for Y1D2 Beam; no earlier automatic purchase. R5D4 and O5D1/O5D6 tournament participation and O7D5 recovery/viewing are supplied."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 138,
+      "text": "Resolved: Arc 1 PC Red/Armor; Arc 2 White Legacy + Absorption Red/CSR; Arc 3 Yellow-opening Beam Red boundary plus Kira's **specific 86,000 Blue Fireball Genesis Card**; Arc 4 structural close at **Y6D3 Genesis Prime Red**. Orbs cost 61,017 inside Arc Four, explicitly not Y1D2. The prior CP19 endpoint reserve objective is superseded; its Orange combat rows and gross income remain. illi's post-Beam-Red cost is **73,044**, with every existing milestone date preserved."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 150,
+      "text": "Resolved by Checkpoint 22: exact Late Yellow Orb purchase day is Y6D2, with the personal raeon block Y7D1–D3. Still OPEN: exact match results and elimination day within that block; illi exact Arc-Four Solo standing without a Green clear (Arc Five endpoint now fixed at G5D2 W10 clear/W11 failure); cohort headcount/group identities; failed-Dungeon partial awards and contextual domai amounts; carry-in, card/life spending and final balances; general card prices; Tea Parties, Gala, Builder/deck/Genesis gatherings and other exact social placements. Existing foundation/legal/IP/transfer enforcement and unrelated OPENs persist. The conditional 8,319 illi funding gap is not canonical debt. Future Coherence Prime G6D2, Absorption G6D4/G7D2/V1D3 and Resonance Prime V2D2 remain locked."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 178,
+      "text": "The entire Y6D4–G6D2 combat/progression structure is locked. Kira W19 Blue Solo clear/W20 reached-fails is G5D1; illi W10 Yellow clear/W11 reached-fails is G5D2. Green attempts fail G4D2/G4D6 and clear G5D3/G5D4/G5D7. Five shared Duos, six Kira Solos, three illi Solos, eight Yellow clears, five Green attempts and three Normal Raid outings are fully placed. No fourth Raid, Green domai or Trio is added. G6D2 Coherence Prime Red 9,350 remains unchanged. There are no pending Arc Five combat insertions; next structural work is Arc Six."
+    },
+    {
+      "path": "live-model/PRIME_ELEMENTALS.md",
+      "line": 44,
+      "text": "All nine Prime list bases are Exceptional B=17,000 under Checkpoint 18. Accepted White-Legacy package purchases/ranks pay 55% of each ordinary list price under HALF_UP; prerequisite compression is separate. The current [illi schedule](ILLI_PROGRESSION.md) places Genesis Prime at Yellow W6 D3, Coherence Prime at Green W6 D2 and Resonance Prime at Violet W2 D2 after their required Green prerequisites. Later Prime deepening is the direction; post-Violet-W2 dates remain OPEN."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 20,
+      "text": "Early Violet — Resonance Prime Elemental / Juggernaut"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 266,
+      "text": "Absorption Shield Red list 17,000 → illi price 9,350 (Checkpoint 18)."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 313,
+      "text": "[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 315,
+      "text": "Checkpoint 14 current state: [illi milestones](ILLI_PROGRESSION.md) lock the supplied dates through Violet W2 D2; Coherence Prime is late Green and Resonance Prime early Violet. Later rank dates remain OPEN, with PC/Absorption/three Primes targeted toward White and Beam potentially remaining Green. [Project Princess Carry and independent schedules](PARTNERSHIP_AND_CARRY.md) govern broad Red–Violet content and intentionally Trial-heavy White. Checkpoint 19 now locks the post-Armor Black acquisition tier at 61,017; W96 and low-40s records remain illustrative/noncanonical."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 319,
+      "text": "The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 250,884 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. Checkpoint 18 now supplies the separate 59-day combat scaffold; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 325,
+      "text": "The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. The former 61,017 Orb-reserve / 22,898-headroom calculation is CP19 planning history. CP20 closes Arc Three with the 86,000-credit Blue Fireball card and defers Orbs into Arc Four; actual funding/balance remains OPEN. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 383,
+      "text": "Preserve illi's full 17-event projected calendar through Resonance Prime, including:"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 386,
+      "text": "- G6D4 Absorption Orange;"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 387,
+      "text": "- G7D2 Absorption Yellow;"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 388,
+      "text": "- V1D3 Absorption Green;"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 389,
+      "text": "- V2D2 Resonance Prime/Juggernaut Red."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 399,
+      "text": "The [current Yellow calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md) fixes gross at 58,170 illi / 67,030 Kira through Arc Four, 71,280 / 80,140 for all Yellow excluding domai. Older CP21 totals and unsupplied-date statements are historical. [Arc Five](../world-clock/ARC5_HANDOFF.md) ends G6D2 Coherence Prime Red, 9,350. Opening PC Blue/Absorption Red/Beam Green/Genesis Prime Red remains; no new Prime rank dates. One-Orb mini-blender leads to W19 Solo clear/W20 reached-fails on G5D1; Duo remains W18/W19. Green Dungeon failures are G4D2/G4D6; clears are G5D3/G5D4/G5D7 under the Checkpoint 23 full lock."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 407,
+      "text": "Fixed Arc Five gross is **88,595 Kira / 78,430 illi**, excluding Orange-domai payout and failed-Dungeon partial rewards. These are earnings, not balances. Do not double-count the two Yellow Duos already in the full-Yellow calendar. G6D2 Coherence Prime Red **9,350** remains expenditure and closes the arc; all 17 illi ledger entries stay unchanged."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 409,
+      "text": "Girls' Builder Night recurs G1D5–G5D5, with Yellow D5 displaced by Y6D5 Trial and Y7D5 Auction. Keep social/recovery blocks and Kira's G5D2 recovery. Black mastery, Training Yard, Builder culture and later Project Princess Carry survive. Source SCAFFOLD labels do not reopen fixed dates. Social prose may develop within established blocks; combat/progression moves require explicit author reopening. Move structural development to Arc Six. Exact intraday timings, W20/W11 failure depths, contextual awards and discretionary cashflow remain OPEN."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 3,
+      "text": "Checkpoint 23 fully locks Arc Five combat/progression dates Y6D4–G6D2. Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs and preserved social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries and the specific Blue Fireball card purchase. Checkpoint 19 governs the unchanged Orange combat calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 16,
+      "text": "| Canonical gold Halo | Superseded; final Genesis/Black coloration OPEN | 08_CHECKPOINT_03_ADDENDUM.md |"
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 49,
+      "text": "Exact final record waves, Elara-through-Orb identity semantics, indefinite two/three-Orb sustainment, final Halo coloration and the eventual Trio third friend remain OPEN."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 53,
+      "text": "Older Checkpoint 03 Signature first Binding absorption wording is superseded by Persistent Coherence first, Absorption Shield second / White-Legacy access, Genesis Beam before Directed Coherence, then later compact Coherence Field / Elementalist-Summoner development. White Legacy is curated opportunity with ordering choices, not an automatic collection of White-ranked Bindings. Checkpoint 14 now supplies 17 illi milestones; later rank dates remain OPEN. The three-form Coherence lock remains unchanged."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 102,
+      "text": "Checkpoint 14 full reconciliation governs: exact rewards 53910 supersede rounded ~55000 and erroneous 55030; W36+ stays OPEN. The supplied 17-event illi skeleton supersedes Early Blue Coherence/White Resonance windows and arbitrary failed calendars. Early deepening of Absorption is deferred in the locked skeleton until after late-Green Coherence Prime. Black flat 61000 finality is SUPERSEDED/OPEN for recalibration. Project Princess Carry, independent schedules, information gap and discretionary/commodity doctrine are active. Earlier checkpoint masters remain source history subject to these explicit corrections."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 114,
+      "text": "The 17-event author ledger adds exact costs (130,261 total) without changing dates. White Normal successful-completion base is 68,910 = 53,910 + 15,000; at Checkpoint 16 only that reward OPEN was resolved; Checkpoint 17 adds the remaining supplied Dungeon completion and Raid major-boss tables. Pre-population, no rubber-banding, whole-build capability and environmental grammar are integrated in [Normal Dungeons](NORMAL_DUNGEONS.md). The existing 209 group rows and cumulative ID lists are preserved exactly. Exploratory/failed Deep Caverns renders remain NONCANON; no images are imported. All Checkpoint 14 story/economy locks remain."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 128,
+      "text": "Fixed Red anchors by existing class (1700/3100/5700/11000/17000) supersede CP12 bands/microprices/hand numeric anchors and CP13 Absorption 10000. Classes, IDs, mechanisms and all non-price fields remain; nine Primes stay Exceptional. Starter grant 2000 supersedes ~1000; Armor's separate ~1000 anomaly remains. Sequential HALF_UP rank multipliers and accepted White-Legacy pay55% remain. The same 17 illi dates now cost 250884; PC R→B is 45303 and post-Legacy Absorption Red 9350."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 144,
+      "text": "Arc gross 58,885/83,915 excludes domai and spending; Kira headroom 22,898 reserves 61,017, and illi reserves 6,050 until Y1D2. No acquisition date is moved simply because a purchase is affordable. Existing Kira development chronology and all 17 illi milestones remain. Successful domai payout/scoring and exact card purchases stay OPEN BY DESIGN. [Checkpoint](26_CHECKPOINT_19_ARC_THREE.md), [calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) and [conflicts](../provenance/CHECKPOINT_19_CONFLICTS.md) govern current interpretation."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 160,
+      "text": "Only CP20’s generic/season-OPEN Orb placement is superseded: **Late Yellow** is restored, with its then-exact-day OPEN resolved by Checkpoint 22 to Y6D2; Halo Early Blue and Domain Late Violet remain. No pre-CP22 provenance supplied that exact day; the old Y6D3 window label was not an acquisition record. CP20 first-Yellow-date OPEN and unsupplied-combat-calendar wording is superseded by the 36-day author calendar, including Y4D2 Kira-only first clear and Y5D3 two shared clears. Other CP20 social, card, arc-boundary and transfer rules persist."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 166,
+      "text": "Y6D2 fixes the previously OPEN Late Yellow Orb date at 61,017; Y6D1 Hard Raid is pre-Orb and Y6D3 remains Arc Four close. Y5D5’s W18 Trial is replaced by the first Builder party, invited after Y5D3’s two Yellow clears. Added Y6D5/Y6D6 Duos produce six total shared Yellow W18 runs. The current 49-day calendar yields 58,170/67,030 illi/Kira Arc Four gross and 71,280/80,140 full Yellow gross excluding domai. Old CP21 rows/audits remain historical, never current payout authority."
+    },
+    {
+      "path": "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+      "line": 294,
+      "text": "[Tea House / Tea Party / charity doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md) applies inside Valnak and outside: around 17 a noble mother customarily establishes a daughter's residence/independent household; the daughter chooses an associated charity that may mature into a foundation. Tea House = independence; Tea Party = social identity/network; charity/foundation = civic/economic agency. Marriage can unite two established networks without erasing either. Wealthy merchant/non-noble families may imitate at smaller reach. Kira's desirability as an invite also makes illi attendance likelier."
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 245,
+      "text": "Checkpoint 18 recalibrates W1–35 total to 26,955; W36+ payout remains OPEN. The 17-event illi skeleton supplies dated milestones through Violet W2 D2; later ranks remain undated. Standing social/sport events remain unchanged."
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 251,
+      "text": "The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 250,884 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. Checkpoint 18 now supplies the separate 59-day combat scaffold; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged."
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 265,
+      "text": "[Tea House / Tea Party / charity doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md) applies inside Valnak and outside: around 17 a noble mother customarily establishes a daughter's residence/independent household; the daughter chooses an associated charity that may mature into a foundation. Tea House = independence; Tea Party = social identity/network; charity/foundation = civic/economic agency. Marriage can unite two established networks without erasing either. Wealthy merchant/non-noble families may imitate at smaller reach. Kira's desirability as an invite also makes illi attendance likelier."
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 275,
+      "text": "The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. Checkpoint 21 supplies the Yellow combat scaffold separately; social dates beyond existing appointments remain OPEN. Consult [Arc Four handoff](../world-clock/ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically."
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 297,
+      "text": "Fixed Arc Five gross is **88,595 Kira / 78,430 illi**, excluding Orange-domai payout and failed-Dungeon partial rewards. These are earnings, not balances. Do not double-count the two Yellow Duos already in the full-Yellow calendar. G6D2 Coherence Prime Red **9,350** remains expenditure and closes the arc; all 17 illi ledger entries stay unchanged."
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 299,
+      "text": "Girls' Builder Night recurs G1D5–G5D5, with Yellow D5 displaced by Y6D5 Trial and Y7D5 Auction. Keep social/recovery blocks and Kira's G5D2 recovery. Black mastery, Training Yard, Builder culture and later Project Princess Carry survive. Source SCAFFOLD labels do not reopen fixed dates. Social prose may develop within established blocks; combat/progression moves require explicit author reopening. Move structural development to Arc Six. Exact intraday timings, W20/W11 failure depths, contextual awards and discretionary cashflow remain OPEN."
+    },
+    {
+      "path": "summons/README.md",
+      "line": 22,
+      "text": "[SUMMON_PRICING.csv](SUMMON_PRICING.csv), [JSON](SUMMON_PRICING.json) and [JSONL](SUMMON_PRICING.jsonl) price all 229 entity IDs without rewriting entity profiles. [PRIME_ELEMENTAL_PRICING.csv](PRIME_ELEMENTAL_PRICING.csv) and [JSON](PRIME_ELEMENTAL_PRICING.json) price all nine Primes as Exceptional at Red 17,000 under Checkpoint 18; all 229 entity prices follow existing class assignments and the fixed [matrix](../bindings/PRICING_CLASS_MATRIX.csv). [Audit](PRICING_AUDIT.json) validates mirrors, arithmetic and unchanged recipes/illi gates. White Legacy compresses access; the separately established accepted-package subsidy pays 55% HALF_UP, including illi's Prime purchases. Ordinary list prices remain undiscounted."
+    },
+    {
+      "path": "world-clock/ARC3_ECONOMY_AUDIT.json",
+      "line": 104,
+      "text": "  \"all_17_illi_dates_and_costs_preserved\": true,"
+    },
+    {
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+      "line": 39,
+      "text": "Checkpoint 19's 83,915 − 61,017 = 22,898 reserve calculation is historical planning. **Checkpoint 20 supersedes the Orb-reserve endpoint objective:** Arc Three closes at the Yellow opening with illi Beam Red and Kira's specific **86,000-credit Blue Fireball Genesis Card**. She rebuilds the **61,017** Orb fund during Arc Four. Funding and actual balances remain OPEN; no domai award or gift is fabricated."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF.md",
+      "line": 13,
+      "text": "**Genesis Orbs are not the Arc Three endpoint purchase and are not acquired at Y1D2.** Their price remains **61,017**; acquisition occurs **Y6D2, Late Yellow inside Arc Four**, locked by Checkpoint 22. Y6D1 Hard Raid is pre-Orb; Y6D3 is illi’s closing milestone, not Kira’s acquisition day. Halo remains Early Blue; Domain remains Late Violet. Orb acquisition and later competency/mastery remain distinct; unrelated later architecture is preserved."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF.md",
+      "line": 34,
+      "text": "All 17 milestone dates, prerequisite gates and the **250,884** progression ledger remain. Gross earnings can be much higher because cards/life compete with progression. Neither affordability nor prerequisite availability advances a locked purchase date."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF.md",
+      "line": 56,
+      "text": "The Checkpoint 22 calendar supplies **58,170 illi / 67,030 Kira gross through Y6D3**, and **71,280 illi / 80,140 Kira for full Yellow**, excluding domai; these are not balances. Four shared W18 clears occur in Arc Four, with two more at Y6D5/Y6D6; Kira has one W18 Solo. Y5D5 is the first Builder party with zero Trial credit. All these paid runs end at the W19 Blue wall. Orange is farm content; the emerging peer cohort can farm Yellow, with no Green Dungeon or Yellow Raid boss clear booked. The [active eldris reference](../live-model/ELDRIS_REFERENCE.md) explains projected-force, juggernaut and secondary-effect pressure and illi's Beam/Absorption fatigue allocation. All 17 illi milestones and future Coherence/Absorption/Resonance dates remain unchanged."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF_AUDIT.json",
+      "line": 45,
+      "text": "  \"illi_total\": 250884,"
+    },
+    {
+      "path": "world-clock/ARC4_YELLOW_AUDIT.json",
+      "line": 555,
+      "text": "  \"all_17_illi_milestones_preserved\": true,"
+    },
+    {
+      "path": "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md",
+      "line": 5,
+      "text": "The exact author scaffold spans **Y1D3–Y6D3**, 36 consecutive dates. [CSV](ARC4_YELLOW_COMBAT_CALENDAR.csv) and [JSON](ARC4_YELLOW_COMBAT_CALENDAR.json) preserve source bytes. [Mechanical audit](ARC4_YELLOW_AUDIT.json) derives rewards from current registries. [Arc handoff](ARC4_HANDOFF.md) preserves the specific 86,000-credit card at the prior Y1D2 boundary and all 17 illi milestones."
+    },
+    {
+      "path": "world-clock/ARC5_DIRECTOR_AUDIT.json",
+      "line": 598,
+      "text": "  \"illi_progression_total\": 250884,"
+    },
+    {
+      "path": "world-clock/ARC5_DIRECTOR_CALENDAR.md",
+      "line": 5,
+      "text": "The package's EXECUTABLE, summary and locked decisions govern all dates. Retained source `SCAFFOLD` status strings do not make any combat insertion provisional. The `Open` event at G1D7 is an established home/cards/recovery block with no required combat. Social prose may fill established social/open blocks; moving combat/progression requires explicit author reopening. Next structural development is Arc Six; this update does not invent its dates."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.json",
+      "line": 93,
+      "text": "  \"future_halo\": \"Early Blue; exact day OPEN\","
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.json",
+      "line": 99,
+      "text": "  \"next_structural_development\": \"Arc Six; no new dates supplied\","
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 154,
+      "text": "Fixed Arc Five gross is **88,595 Kira / 78,430 illi**, excluding Orange-domai payout and failed-Dungeon partial rewards. These are earnings, not balances. Do not double-count the two Yellow Duos already in the full-Yellow calendar. G6D2 Coherence Prime Red **9,350** remains expenditure and closes the arc; all 17 illi ledger entries stay unchanged."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 156,
+      "text": "Girls' Builder Night recurs G1D5–G5D5, with Yellow D5 displaced by Y6D5 Trial and Y7D5 Auction. Keep social/recovery blocks and Kira's G5D2 recovery. Black mastery, Training Yard, Builder culture and later Project Princess Carry survive. Source SCAFFOLD labels do not reopen fixed dates. Social prose may develop within established blocks; combat/progression moves require explicit author reopening. Move structural development to Arc Six. Exact intraday timings, W20/W11 failure depths, contextual awards and discretionary cashflow remain OPEN."
+    },
+    {
+      "path": "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv",
+      "line": 18,
+      "text": "Violet,2,2,Resonance Prime / Juggernaut → Red,9350,250884"
+    },
+    {
+      "path": "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+      "line": 136,
+      "text": "    \"cumulative_progression_spend\": 250884"
+    },
+    {
+      "path": "world-clock/ILLI_PROGRESSION_SKELETON.csv",
+      "line": 18,
+      "text": "Violet,2,2,Resonance Prime Elemental / Juggernaut,Acquire,Red,Revised early-Violet acquisition."
+    },
+    {
+      "path": "world-clock/ILLI_PROGRESSION_SKELETON.json",
+      "line": 153,
+      "text": "    \"note\": \"Revised early-Violet acquisition.\""
+    },
+    {
+      "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+      "line": 20,
+      "text": "The 17-event milestone dates remain unchanged. PC is full-price before Legacy; accepted-package purchases pay 55% HALF_UP. This calendar assigns no later income or post-Violet-W2 rank dates."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 245,
+      "text": "Checkpoint 18 recalibrates W1–35 total to 26,955; W36+ payout remains OPEN. The 17-event illi skeleton supplies dated milestones through Violet W2 D2; later ranks remain undated. Standing social/sport events remain unchanged."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 251,
+      "text": "The [illi progression-cost ledger](ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 250,884 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](../live-model/NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. Checkpoint 18 now supplies the separate 59-day combat scaffold; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 265,
+      "text": "[Tea House / Tea Party / charity doctrine](../live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md) applies inside Valnak and outside: around 17 a noble mother customarily establishes a daughter's residence/independent household; the daughter chooses an associated charity that may mature into a foundation. Tea House = independence; Tea Party = social identity/network; charity/foundation = civic/economic agency. Marriage can unite two established networks without erasing either. Wealthy merchant/non-noble families may imitate at smaller reach. Kira's desirability as an invite also makes illi attendance likelier."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 275,
+      "text": "The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. Checkpoint 21 supplies the Yellow combat scaffold separately; social dates beyond existing appointments remain OPEN. Consult [Arc Four handoff](ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 297,
+      "text": "Fixed Arc Five gross is **88,595 Kira / 78,430 illi**, excluding Orange-domai payout and failed-Dungeon partial rewards. These are earnings, not balances. Do not double-count the two Yellow Duos already in the full-Yellow calendar. G6D2 Coherence Prime Red **9,350** remains expenditure and closes the arc; all 17 illi ledger entries stay unchanged."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 299,
+      "text": "Girls' Builder Night recurs G1D5–G5D5, with Yellow D5 displaced by Y6D5 Trial and Y7D5 Auction. Keep social/recovery blocks and Kira's G5D2 recovery. Black mastery, Training Yard, Builder culture and later Project Princess Carry survive. Source SCAFFOLD labels do not reopen fixed dates. Social prose may develop within established blocks; combat/progression moves require explicit author reopening. Move structural development to Arc Six. Exact intraday timings, W20/W11 failure depths, contextual awards and discretionary cashflow remain OPEN."
+    },
+    {
+      "path": "world-clock/YELLOW_DIRECTOR_AUDIT.json",
+      "line": 708,
+      "text": "  \"illi_total\": 250884,"
+    },
+    {
+      "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.csv",
+      "line": 38,
+      "text": "Yellow,6,2,Genesis Orbs acquisition / recovery / tournament-social availability,Recovery / tournament-social availability,Kira Black acquisition — Genesis Orbs,Genesis Orbs acquired,\"Recovery/open day; acquisition event, no required major combat\",0,0,\"EXACT DATE LOCK: Kira acquires Genesis Orbs on Y6D2 for 61,017 credits. Acquisition is not mastery. Y6D1 Hard Raid remains pre-Orb; Y6D3 illi Genesis Prime Red remains the Arc Four closing milestone. W6 raeon tournament progression remains available around the purchase; exact personal bracket state is still OPEN.\",LOCKED"
+    },
+    {
+      "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.json",
+      "line": 517,
+      "text": "    \"notes\": \"EXACT DATE LOCK: Kira acquires Genesis Orbs on Y6D2 for 61,017 credits. Acquisition is not mastery. Y6D1 Hard Raid remains pre-Orb; Y6D3 illi Genesis Prime Red remains the Arc Four closing milestone. W6 raeon tournament progression remains available around the purchase; exact personal bracket state is still OPEN.\","
+    },
+    {
+      "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+      "line": 28,
+      "text": "All 17 illi dates/costs, the Trial table, Dungeon/Raid tables and registry contents stay unchanged. Arc Four progression remains 73,044 after Beam Red. Revised gross does not prove funding or final balances; earlier CP21 zero-carry illustrations are historical. Card/life spending, carry-in, domai amount and failed-Dungeon partial awards remain OPEN. Working dresses (~23,000 each, two per girl) are not booked expenses or a general apparel table."
+    },
+    {
+      "path": "world-clock/validate_arc3.py",
+      "line": 154,
+      "text": "            'all_17_illi_dates_and_costs_preserved':True,'daily_cumulative_gross':daily,"
+    },
+    {
+      "path": "world-clock/validate_arc4_handoff.py",
+      "line": 31,
+      "text": "    require(len(ledger)==17 and sum(r['cost'] for r in ledger)==250884, 'Full progression ledger mismatch')"
+    },
+    {
+      "path": "world-clock/validate_arc4_handoff.py",
+      "line": 103,
+      "text": "      'illi_milestones':17,'illi_total':250884,'card_price':card['price'],'universal_blue_card_price':False,"
+    },
+    {
+      "path": "world-clock/validate_arc4_yellow.py",
+      "line": 113,
+      "text": "    require(len(ledger)==17 and sum(r['cost'] for r in ledger)==250884,'17-event ledger total changed')"
+    },
+    {
+      "path": "world-clock/validate_arc4_yellow.py",
+      "line": 144,
+      "text": "      'live-model/OPEN.md':['exact Late Yellow Orb purchase day','exact match results and elimination day','cohort headcount','carry-in','failed-Dungeon partial','G6D2','V2D2'],"
+    },
+    {
+      "path": "world-clock/validate_arc4_yellow.py",
+      "line": 159,
+      "text": "      'gross_is_not_balance':True,'illi_future_milestones':future,'all_17_illi_milestones_preserved':not errors,"
+    },
+    {
+      "path": "world-clock/validate_arc5.py",
+      "line": 171,
+      "text": "    require(len(ledger) == 17 and sum(r['cost'] for r in ledger) == 250884, 'illi ledger changed')"
+    },
+    {
+      "path": "world-clock/validate_arc5.py",
+      "line": 177,
+      "text": "        'world-clock/ARC5_DIRECTOR_CALENDAR.md': ['structurally frozen', '48 consecutive', 'SCAFFOLD', '88,595', '78,430', '13,110', '155,625', '136,600', '21–38', '31-hour', 'exact intraday', 'Arc Six'],"
+    },
+    {
+      "path": "world-clock/validate_arc5.py",
+      "line": 181,
+      "text": "        'live-model/OPEN.md': ['G5D1', 'G5D2', 'G5D3/G5D4/G5D7', 'OPEN BY DESIGN', 'W20 failure depth', 'W11 failure depth', 'Training Yard', 'Arc Six'],"
+    },
+    {
+      "path": "world-clock/validate_arc5.py",
+      "line": 196,
+      "text": "    return {'checkpoint': 23, 'result': 'FAIL' if errors else 'PASS', 'errors': errors, 'baseline_commit': before['baseline_commit'], 'calendar_rows': len(calendar), 'arc': 'Y6D4–G6D2', 'status': 'FULLY LOCKED', 'counts': dict(counts), 'fixed_gross_excluding_contextual_awards': total, 'income_by_category': dict(categories), 'daily_fixed_gross': daily, 'raid_bookings': raid_bookings, 'overlapping_yellow_dates': overlap, 'overlap_fixed_gross': overlap_total, 'combined_full_yellow_through_G6D2_fixed_gross': combined, 'girls_builder_nights': nights, 'registry_counts': registry_counts, 'illi_milestones': len(ledger), 'illi_progression_total': 250884, 'project_princess_carry_section_byte_identical': True, 'baseline_files_required_byte_identical': protected, 'stale_pattern': stale.pattern, 'stale_active_matches': stale_hits, 'gross_is_not_balance': True, 'contextual_orange_domai_award': None, 'failed_dungeon_partial_credits': 'OPEN/excluded', 'intraday_timing_and_failure_depth': 'OPEN; dates and completed waves locked', 'sha256': {p: sha(p) for p in sorted(set(inputs))}}"
+    },
+    {
+      "path": "world-clock/validate_yellow_director.py",
+      "line": 129,
+      "text": "    require(len(ledger)==17 and sum(r['cost'] for r in ledger)==250884,'17-event ledger changed')"
+    },
+    {
+      "path": "world-clock/validate_yellow_director.py",
+      "line": 197,
+      "text": "      'registry_counts':registry_counts,'builder_role_counts':dict(families),'illi_events':len(ledger),'illi_total':250884,"
+    }
+  ],
+  "after_current_structured_search": {
+    "obsolete_purchase_tuples": [
+      [
+        "Green",
+        6,
+        4,
+        "Absorption Shield → Orange"
+      ],
+      [
+        "Green",
+        7,
+        2,
+        "Absorption Shield → Yellow"
+      ],
+      [
+        "Violet",
+        1,
+        3,
+        "Absorption Shield → Green"
+      ],
+      [
+        "Violet",
+        2,
+        2,
+        "Resonance Prime / Juggernaut → Red"
+      ]
+    ],
+    "matches": [],
+    "current_event_count": 19,
+    "current_total": 292772,
+    "halo_day": "B1D5",
+    "result": "PASS"
+  },
+  "history_scope": "Old numbered masters/provenance and byte-preserved Arc Five references retain CP23-era projected future language. Current navigation, explicit supersessions, price timing, ledger/skeleton and weekly character overlays carry CP24 authority.",
+  "resolved": [
+    "G6D4/G7D2 Genesis Prime O/Y",
+    "B1D1 W13 graduation",
+    "B1D3/B2D4/B5D6 Absorption O/Y/G",
+    "B6D3 Resonance/Arc Six close",
+    "B6D4 Arc Seven open",
+    "B1D5 Halo",
+    "Specific G6D3/B5D4 domai awards",
+    "Duo W19/W20 and Blue Dungeon/Hard Yellow milestones",
+    "19 events/292772 and earmarked reserve 7390"
+  ],
+  "preserved_open_items": [
+    "W14/W20/W21 failure depths",
+    "Exact two-Orb competency and mature blender dates",
+    "Halo mastery/capabilities; Domain exact day",
+    "Raid runtimes/encounters",
+    "Failed Blue-Dungeon partial credits",
+    "Blue personal raeon participation/results",
+    "Actual discretionary spending and bank balances",
+    "Veteran PUG rejection counts/identities",
+    "Green/Blue maps/domains/group identities",
+    "Later Arc Seven progression",
+    "Global domai formula/optional bonus; earlier Y7D4 award",
+    "Unrelated earlier OPENs"
+  ]
+}

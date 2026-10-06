@@ -216,9 +216,9 @@ Sequence:
 3. Early Yellow — Genesis Beam.
 4. Late Yellow — Genesis Prime Elemental.
 5. Late Green — Coherence Prime Elemental.
-6. Early Violet — Resonance Prime Elemental / Juggernaut.
+6. Blue B6D3 — Resonance Prime Elemental / Juggernaut.
 
-Causal order: healer plan → White Legacy redirects through prevention → Duo needs offense → Beam → Genesis Prime → dungeon/group healing need → Coherence Prime → Kira already fronts, so Juggernaut purchased early Violet after Absorption Green.
+Causal order: healer plan → White Legacy redirects through prevention → Duo needs offense → Beam → Genesis Prime → dungeon/group healing need → Coherence Prime → Kira already fronts, so Juggernaut purchased B6D3 after B5D6 Absorption Green.
 
 White-Legacy gates:
 Genesis Beam GREEN → Genesis Prime RED available.
@@ -571,7 +571,7 @@ A historical record around low-40s versus a vastly higher Kira record is a worki
 
 Mature blender scenes may include Kira and illi remaining near the Central Basin, conversing/bored while the Orb geometry processes incoming eldris. This is lawful Trial behavior, not cheating or an aggro exploit. Elara's frustration is engineering/comedic frustration at Kira breaking intended scaling while obeying actual rules.
 
-[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN.
+[Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies 19 locked milestones through B6D3 under Checkpoint 24; later unsupplied purchase/rank dates remain OPEN.
 
 Checkpoint 14 preserves the sandbox paragraphs above exactly: anti-carry progression grouping, Green Solo graduation and Elara agreement remain. The Checkpoint 18 starter grant is 2,000 credits; a Foundational Red purchase costs 1,700. It does not fund two such purchases without additional income. illi may run legitimate first-cycle Dungeons with her original cohort as helkir; later she graduates by her own Solo competency. Her final Solo wave/rank remains OPEN. Current [17-event illi schedule](ILLI_PROGRESSION.md) supersedes older Coherence/Resonance seasonal windows; [partnership](PARTNERSHIP_AND_CARRY.md) carries the social/economic consequences.
 
@@ -615,3 +615,13 @@ Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y
 The [Builder community](../builder/COMMUNITY.md) overlays the existing 200 Legacy candidates with dynamic discovery, multiple saved hypothetical builds, sharing/publishing, search and like/dislike reactions. It is not a mandatory forum or strategy-guide system; ranking algorithm and final prose-facing name stay OPEN. Elara publishes builds and cares about their social reception without automatic correctness. Y5D3 invitation/Y5D5 first party are locked.
 
 First-cycle demographics center around 20–40 with a working 17–45 envelope and older 50s/60s outliers. Earlier entry begins Genesis adaptation/longevity benefits earlier; exact biology/rate/lifespan stays OPEN. This is not an eligibility law or a bar to later entrants’ excellence.
+
+## Checkpoint 24 — veteran eligibility, credibility and ceilings
+
+After illi independently clears W13 Green Solo **B1D1**, both girls may join progression-bearing veteran groups together. Eligibility is not credibility: Kira’s Trial celebrity is not a Raid/Dungeon résumé. Veteran PUG leaders may decline the first-cyclers, judging validated dossier facts, build fit, experience and reputation. There is no item-level/gear-score system. Exact rejection counts/people/crews stay OPEN.
+
+Yellow Normal is reliable/social; Green Normal is the primary veteran grind and relationship bridge; Blue is rare push content; Violet is not attempted in Arc Six. Nine Green clears accompany one Yellow ×2 session. Blue **B3D6–D7 fails**, then **B5D1–D2 first clears**; both retain two-day blocks and 25–42h targets. Yellow stays 5–10h, Green 12–21h. Topology constrains CSR/mini-blender; no universal Dungeon soloing is inferred.
+
+Normal **B2D3 R/O/Y clear, Green fail** pays 11,250 each. Hard **B3D2 R/O clear/Y fail** pays 9,375 each; **B4D3–D4 R/O repeats/Y deep fail** pays zero new major rewards; **B5D3 Hard Y clear** pays only 7,500 each. Same-season/mode/boss repeats never pay twice. No Hard Green clear or Trio is added; exact Raid runtimes remain OPEN.
+
+Duo advances **G6D7 W18/W19 fail → B2D1–D2 W19/W20 fail → B6D1–D2 W20/W21 fail**. W19/W20 are multi-day pushes; start rows earn no separate payout. Kira begins migration toward two-Orb competency, without a mature blender date. [Locked Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md).

@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
+Authority: 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -80,7 +80,7 @@ Authority: 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 >
 
 - [Checkpoint 14 full reconciliation](21_CHECKPOINT_14_FULL_RECONCILIATION.md) — complete supplied author decisions.
 - [Trial rewards](../trial-rewards/README.md) — exact W1–35 rows; W36+ OPEN.
-- [illi progression](ILLI_PROGRESSION.md) — 17 exact supplied milestones and later direction.
+- [illi progression](ILLI_PROGRESSION.md) — 19 exact supplied milestones through B6D3 and later direction.
 - [Partnership and Project Princess Carry](PARTNERSHIP_AND_CARRY.md) — independent schedules, public information gap, sandbox consequences, personality economy and broad-content rhythm.
 - [Before review](../provenance/CHECKPOINT_14_BEFORE_REVIEW.json), [reverse diff](../provenance/CHECKPOINT_14_REVERSE_DIFF.csv), [audit](../provenance/CHECKPOINT_14_AUDIT.json).
 
@@ -90,7 +90,7 @@ Authority: 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 >
 
 - [Checkpoint 16 master reconciliation](23_CHECKPOINT_16_MASTER_LIVE_MODEL_UPDATE.md) — source-labeled Checkpoint 15, persisted after the atomic-library checkpoint.
 - [Normal Dungeons](NORMAL_DUNGEONS.md) and [author encounter tools](../builder/encounters/README.md) — White content, areas/runtimes, population, environments and completion base.
-- [illi cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) / [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) — 17 unchanged dates, 250,884 progression spend after Checkpoint 18 repricing.
+- [illi cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) / [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) — 19 dates, 292,772 progression spend through B6D3 under Checkpoint 24.
 - [Checkpoint 16 reverse diff](../provenance/CHECKPOINT_16_REVERSE_DIFF.md), [coverage](../provenance/CHECKPOINT_16_COVERAGE_MANIFEST.csv), [audit](../provenance/CHECKPOINT_16_AUDIT.json) and [conflicts](../provenance/CHECKPOINT_16_CONFLICTS.md).
 
 - [Checkpoint 17 combat reward economy](24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md) — complete Normal/Hard Dungeon and Raid rewards, shared Dungeon areas and Expedition attrition.
@@ -127,3 +127,8 @@ Authority: 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 >
 - [Arc Five structured handoff](../world-clock/ARC5_HANDOFF.json) — Current milestones, social/mastery preservation and Arc Six continuation.
 - [Checkpoint 23 integration audit](../provenance/CHECKPOINT_23_AUDIT.json) — Validation results and complete changed-file list.
 - [Checkpoint 23 coverage](../provenance/CHECKPOINT_23_COVERAGE_MANIFEST.csv), [reverse diff](../provenance/CHECKPOINT_23_REVERSE_DIFF.csv), [conflicts](../provenance/CHECKPOINT_23_CONFLICTS.md) and [source review](../provenance/CHECKPOINT_23_SOURCE_REVIEW.json).
+
+- [Checkpoint 24 governing delta](31_CHECKPOINT_24_ARC6_GRADUATION.md) — Arc Six graduation and revised progression authority.
+- [Arc Six calendar](../world-clock/ARC6_DIRECTOR_CALENDAR.md) / [handoff](../world-clock/ARC6_HANDOFF.md) / [structured state](../world-clock/ARC6_HANDOFF.json) — 50 locked dates, Arc Seven opens B6D4.
+- [illi Arc Six reserve](../world-clock/ARC6_ILLI_CREDIT_LEDGER.json) — 157,065 income, 149,675 spend, 7,390 earmarked remainder; separate from real bank balance.
+- [Checkpoint 24 audit](../provenance/CHECKPOINT_24_AUDIT.json), [coverage](../provenance/CHECKPOINT_24_COVERAGE_MANIFEST.csv), [reverse diff](../provenance/CHECKPOINT_24_REVERSE_DIFF.csv), [conflicts](../provenance/CHECKPOINT_24_CONFLICTS.md) and [source review](../provenance/CHECKPOINT_24_SOURCE_REVIEW.json).

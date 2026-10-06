@@ -1,5 +1,7 @@
 # Arc boundaries and Arc Four handoff — Checkpoint 22
 
+> Checkpoint 24 current progression: 19 events, 292,772 total through B6D3. Earlier checkpoint sections below retain development history; any 17-event/250,884 or Violet-endpoint projection is superseded by the [current illi ledger](ILLI_AUTHOR_PROGRESSION_LEDGER.json). Arc Five dates/outcomes through G6D2 remain locked.
+
 Use illi's more granular Binding progression as the primary book-arc clock. Kira's acquisitions can occur inside arcs. [Structured locks](ARC4_HANDOFF.json) and the [current author delta](../live-model/29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md) govern this handoff; the [49-day Yellow director calendar](YELLOW_DIRECTOR_CALENDAR.md) supersedes the old CP21 scaffold. Arc Four remains Y1D3–Y6D3; Arc Five opens Y6D4 and closes G6D2.
 
 | Arc | Closing milestone |

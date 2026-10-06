@@ -120,36 +120,54 @@
     "season": "Green",
     "week": 6,
     "day": 4,
-    "binding": "Absorption Shield",
+    "binding": "Genesis Prime Elemental",
     "event": "Rank",
     "result": "Orange",
-    "note": "Return to Resonance prerequisite."
+    "note": "CP24 offensive workhorse before Green Solo graduation."
   },
   {
     "season": "Green",
     "week": 7,
     "day": 2,
-    "binding": "Absorption Shield",
+    "binding": "Genesis Prime Elemental",
     "event": "Rank",
     "result": "Yellow",
-    "note": "Continue Resonance prerequisite."
+    "note": "CP24 offensive workhorse before Green Solo graduation."
   },
   {
-    "season": "Violet",
+    "season": "Blue",
     "week": 1,
     "day": 3,
     "binding": "Absorption Shield",
     "event": "Rank",
-    "result": "Green",
-    "note": "Resonance Prime gate satisfied."
+    "result": "Orange",
+    "note": "CP24 post-graduation Resonance prerequisite."
   },
   {
-    "season": "Violet",
+    "season": "Blue",
     "week": 2,
-    "day": 2,
+    "day": 4,
+    "binding": "Absorption Shield",
+    "event": "Rank",
+    "result": "Yellow",
+    "note": "CP24 post-graduation Resonance prerequisite."
+  },
+  {
+    "season": "Blue",
+    "week": 5,
+    "day": 6,
+    "binding": "Absorption Shield",
+    "event": "Rank",
+    "result": "Green",
+    "note": "CP24 post-graduation Resonance prerequisite."
+  },
+  {
+    "season": "Blue",
+    "week": 6,
+    "day": 3,
     "binding": "Resonance Prime Elemental / Juggernaut",
     "event": "Acquire",
     "result": "Red",
-    "note": "Revised early-Violet acquisition."
+    "note": "CP24 Arc Six close; foundational three-Prime architecture complete."
   }
 ]

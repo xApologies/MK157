@@ -39,3 +39,7 @@ Valnak evaluates validated group/formation contribution, then divides the contex
 ## Checkpoint 23 — Arc Five event outcomes
 
 **Y7D4 Orange domai succeeds**; its numeric award remains contextual OPEN BY DESIGN and is excluded from fixed gross. **G6D1 Yellow domai fails**, with no conquest payout. There is no Green domai in Arc Five. Dates/outcomes are resolved, not pending combat insertions. Equal eligible base shares, individual death deductions, seven-day eligibility and one-full-day same-domai lockout remain unchanged.
+
+## Checkpoint 24 — two specific realized awards
+
+**G6D3 Orange success:** registered Kira+illi two-person contribution unit receives **60,000 collective / 30,000 each**. **B5D4 Yellow success:** **30,000 collective / 15,000 each**. These are authored incursion outcomes, not general rank reward tables. They do not resolve the earlier Y7D4 award. Existing 7-day eligibility, same-domai one full day exit/death lockout and ×0.8^deaths remain; no death count or optional bonus is inferred to change the booked awards. Global contribution formula/optional bonus remain OPEN BY DESIGN. `domai = Elastic Economic Actuator` remains AUTHOR ONLY. [Arc Six accounting](../world-clock/ARC6_DIRECTOR_CALENDAR.md).

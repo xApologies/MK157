@@ -1,0 +1,138 @@
+[
+  {
+    "season": "Red",
+    "week": 1,
+    "day": 1,
+    "purchase_or_upgrade": "Persistent Coherence → Red",
+    "cost": 1700,
+    "cumulative_progression_spend": 1700
+  },
+  {
+    "season": "Red",
+    "week": 2,
+    "day": 3,
+    "purchase_or_upgrade": "Persistent Coherence → Orange",
+    "cost": 2720,
+    "cumulative_progression_spend": 4420
+  },
+  {
+    "season": "Red",
+    "week": 4,
+    "day": 2,
+    "purchase_or_upgrade": "Persistent Coherence → Yellow",
+    "cost": 4896,
+    "cumulative_progression_spend": 9316
+  },
+  {
+    "season": "Red",
+    "week": 6,
+    "day": 4,
+    "purchase_or_upgrade": "Persistent Coherence → Green",
+    "cost": 10282,
+    "cumulative_progression_spend": 19598
+  },
+  {
+    "season": "Orange",
+    "week": 1,
+    "day": 4,
+    "purchase_or_upgrade": "Persistent Coherence → Blue",
+    "cost": 25705,
+    "cumulative_progression_spend": 45303
+  },
+  {
+    "season": "Orange",
+    "week": 1,
+    "day": 4,
+    "purchase_or_upgrade": "Accept White Legacy",
+    "cost": 0,
+    "cumulative_progression_spend": 45303
+  },
+  {
+    "season": "Orange",
+    "week": 2,
+    "day": 3,
+    "purchase_or_upgrade": "Absorption Shield → Red",
+    "cost": 9350,
+    "cumulative_progression_spend": 54653
+  },
+  {
+    "season": "Yellow",
+    "week": 1,
+    "day": 2,
+    "purchase_or_upgrade": "Genesis Beam → Red",
+    "cost": 6050,
+    "cumulative_progression_spend": 60703
+  },
+  {
+    "season": "Yellow",
+    "week": 2,
+    "day": 4,
+    "purchase_or_upgrade": "Genesis Beam → Orange",
+    "cost": 9680,
+    "cumulative_progression_spend": 70383
+  },
+  {
+    "season": "Yellow",
+    "week": 3,
+    "day": 5,
+    "purchase_or_upgrade": "Genesis Beam → Yellow",
+    "cost": 17424,
+    "cumulative_progression_spend": 87807
+  },
+  {
+    "season": "Yellow",
+    "week": 5,
+    "day": 2,
+    "purchase_or_upgrade": "Genesis Beam → Green",
+    "cost": 36590,
+    "cumulative_progression_spend": 124397
+  },
+  {
+    "season": "Yellow",
+    "week": 6,
+    "day": 3,
+    "purchase_or_upgrade": "Genesis Prime → Red",
+    "cost": 9350,
+    "cumulative_progression_spend": 133747
+  },
+  {
+    "season": "Green",
+    "week": 6,
+    "day": 2,
+    "purchase_or_upgrade": "Coherence Prime → Red",
+    "cost": 9350,
+    "cumulative_progression_spend": 143097
+  },
+  {
+    "season": "Green",
+    "week": 6,
+    "day": 4,
+    "purchase_or_upgrade": "Absorption Shield → Orange",
+    "cost": 14960,
+    "cumulative_progression_spend": 158057
+  },
+  {
+    "season": "Green",
+    "week": 7,
+    "day": 2,
+    "purchase_or_upgrade": "Absorption Shield → Yellow",
+    "cost": 26928,
+    "cumulative_progression_spend": 184985
+  },
+  {
+    "season": "Violet",
+    "week": 1,
+    "day": 3,
+    "purchase_or_upgrade": "Absorption Shield → Green",
+    "cost": 56549,
+    "cumulative_progression_spend": 241534
+  },
+  {
+    "season": "Violet",
+    "week": 2,
+    "day": 2,
+    "purchase_or_upgrade": "Resonance Prime / Juggernaut → Red",
+    "cost": 9350,
+    "cumulative_progression_spend": 250884
+  }
+]

@@ -1,5 +1,7 @@
 # MK157 — WORLD CLOCK
 
+> Checkpoint 24 current progression: 19 events, 292,772 total through B6D3. Earlier checkpoint sections below retain development history; any 17-event/250,884 or Violet-endpoint projection is superseded by the [current illi ledger](ILLI_AUTHOR_PROGRESSION_LEDGER.json). Arc Five dates/outcomes through G6D2 remain locked.
+
 Checkpoint 18 scheduling correction: the [59-day combat scaffold](RED_TO_ORANGE_COMBAT_CALENDAR.md) governs required combat and progression income. Earlier Day-One Solo/Day-Two double-Duo timestamps below are retained historical chronology, superseded where they conflict. Story events/relationships remain; exact displaced placement is OPEN. Do not add required paid combat to NO REQUIRED COMBAT rows.
 
 Status: LIVE AUTHORING SYSTEM.
@@ -297,3 +299,11 @@ The [48-day director calendar](ARC5_DIRECTOR_CALENDAR.md) fixes all combat/progr
 Fixed Arc Five gross is **88,595 Kira / 78,430 illi**, excluding Orange-domai payout and failed-Dungeon partial rewards. These are earnings, not balances. Do not double-count the two Yellow Duos already in the full-Yellow calendar. G6D2 Coherence Prime Red **9,350** remains expenditure and closes the arc; all 17 illi ledger entries stay unchanged.
 
 Girls' Builder Night recurs G1D5–G5D5, with Yellow D5 displaced by Y6D5 Trial and Y7D5 Auction. Keep social/recovery blocks and Kira's G5D2 recovery. Black mastery, Training Yard, Builder culture and later Project Princess Carry survive. Source SCAFFOLD labels do not reopen fixed dates. Social prose may develop within established blocks; combat/progression moves require explicit author reopening. Move structural development to Arc Six. Exact intraday timings, W20/W11 failure depths, contextual awards and discretionary cashflow remain OPEN.
+
+## Checkpoint 24 — Arc Six graduation and current progression
+
+Arc Six **G6D3→B6D3** follows the unchanged Arc Five close. Arc Seven opens **B6D4**. Genesis Prime **G6D4 Orange 14,960 / G7D2 Yellow 26,928** comes first as illi’s autonomous offensive workhorse. Solo **G7D3 W11/W12 fail → G7D4 W12/W13 fail → B1D1 W13 Green clear/W14 fail** produces independent sandbox graduation; W14 remains a near-clear wall.
+
+Absorption now ranks **B1D3 Orange 14,960 → B2D4 Yellow 26,928 → B5D6 Green 56,549**; **B6D3 Resonance Prime Red 9,350** completes the foundational triad. These replace the old G6D4/G7D2 Absorption and V1D3/V2D2 projections. The first 13 ledger events through G6D2 stay exact; six later events make **19 events / 292,772 cumulative spend**.
+
+Arc Six illi gross **157,065**, progression spend **149,675**, ending earmarked reserve **7,390**, starting at zero for this progression account only. Her bank account is not assumed zero; discretionary life remains separate. At B6D3: PC Blue / Absorption Green / Beam Green / Genesis Prime Yellow / Coherence Prime Red / Resonance Prime Red. Offense / restoration / frontline-persistence now all exist; later progression deepens them rather than acquiring the triad. Later Arc Seven dates remain OPEN. [Calendar and audit](ARC6_DIRECTOR_CALENDAR.md).

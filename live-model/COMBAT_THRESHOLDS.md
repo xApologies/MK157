@@ -115,3 +115,13 @@ Existing bands give W1–18 minimum 3×20/60 + 4×45/60 + 5×1 + 6×2 = 21 hours
 ## Checkpoint 22 — mastery stages and practice
 
 After one-Orb mini-blender competency in Arc Five, Kira clears **W19 Blue Solo and reaches W20**, locked breakthrough G5D1 with W20 failure depth OPEN. Duo remains W18 clear/W19 fail; no meaningful Trio push. This supersedes the pre-Orb Solo ceiling only at the later competency stage. [Training Yard](TRAINING_YARD.md) may start at prior completed/unlocked waves with no Trial credits; normal paid runs start W1, stop only between waves and keep the reward schedule. Exact Training Yard standing/unlock effects beyond selectable starts remain OPEN. The consecutive Y6D5/Y6D6 full-day Duos preserve the 21–38-hour range and Y6D7 recovery; no shortened duration is implied.
+
+## Checkpoint 24 — veteran eligibility, credibility and ceilings
+
+After illi independently clears W13 Green Solo **B1D1**, both girls may join progression-bearing veteran groups together. Eligibility is not credibility: Kira’s Trial celebrity is not a Raid/Dungeon résumé. Veteran PUG leaders may decline the first-cyclers, judging validated dossier facts, build fit, experience and reputation. There is no item-level/gear-score system. Exact rejection counts/people/crews stay OPEN.
+
+Yellow Normal is reliable/social; Green Normal is the primary veteran grind and relationship bridge; Blue is rare push content; Violet is not attempted in Arc Six. Nine Green clears accompany one Yellow ×2 session. Blue **B3D6–D7 fails**, then **B5D1–D2 first clears**; both retain two-day blocks and 25–42h targets. Yellow stays 5–10h, Green 12–21h. Topology constrains CSR/mini-blender; no universal Dungeon soloing is inferred.
+
+Normal **B2D3 R/O/Y clear, Green fail** pays 11,250 each. Hard **B3D2 R/O clear/Y fail** pays 9,375 each; **B4D3–D4 R/O repeats/Y deep fail** pays zero new major rewards; **B5D3 Hard Y clear** pays only 7,500 each. Same-season/mode/boss repeats never pay twice. No Hard Green clear or Trio is added; exact Raid runtimes remain OPEN.
+
+Duo advances **G6D7 W18/W19 fail → B2D1–D2 W19/W20 fail → B6D1–D2 W20/W21 fail**. W19/W20 are multi-day pushes; start rows earn no separate payout. Kira begins migration toward two-Orb competency, without a mature blender date. [Locked Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md).

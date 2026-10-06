@@ -1,8 +1,10 @@
-# illi progression — Checkpoint 14
+# illi progression — Checkpoint 24
+
+> Checkpoint 24 current progression: 19 events, 292,772 total through B6D3. Earlier checkpoint sections below retain development history; any 17-event/250,884 or Violet-endpoint projection is superseded by the [current illi ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json). Arc Five dates/outcomes through G6D2 remain locked.
 
 ## illi corrected progression skeleton — LOCK
 Major pipeline:
-Entry/Red PC → Early Orange Absorption → Early Yellow Beam → Late Yellow Genesis Prime → **Late Green Coherence Prime** → **Early Violet Resonance Prime/Juggernaut**.
+Entry/Red PC → Early Orange Absorption → Early Yellow Beam → Late Yellow Genesis Prime → **Late Green Coherence Prime** → **Blue B6D3 Resonance Prime/Juggernaut**.
 The last two supersede old Early Blue / White windows.
 
 Exact current skeleton is in ILLI_PROGRESSION_SKELETON.csv/json.
@@ -12,17 +14,18 @@ Dependency logic:
 - Beam is acquired early Yellow and raced R→O→Y→G.
 - Beam Green unlocks Genesis Prime, purchased late Yellow.
 - Coherence Prime is purchased at chosen late-Green story window even though mechanically available earlier.
-- Then Absorption returns R→O→Y→G.
-- Absorption Green unlocks Resonance Prime, purchased early Violet.
+- Genesis Prime ranks Orange G6D4 and Yellow G7D2 before illi’s B1D1 Green Solo graduation.
+- Then Absorption returns R→O→Y→G at B1D3/B2D4/B5D6.
+- Absorption Green unlocks Resonance Prime, purchased B6D3 at the Arc Six close.
 Prerequisite satisfied does not force immediate purchase. Liquidity can remain balance or be spent on ordinary life/collectibles/Auction/raeon/etc.
 
 ## illi late-cycle target — LOCK DIRECTION; dates OPEN
 After all three Primes exist, primary progression becomes Prime deepening.
 Desired end-state:
 PC White; Absorption White; Genesis Beam may remain Green; Genesis Prime White; Coherence Prime White; Resonance Prime/Juggernaut White.
-Exact post-Violet-W2 rank dates remain OPEN pending final ledger.
+Exact rank dates after B6D3 remain OPEN pending later Arc Seven development.
 
-[Exact 17-event CSV](../world-clock/ILLI_PROGRESSION_SKELETON.csv) and [JSON](../world-clock/ILLI_PROGRESSION_SKELETON.json) are author-locked milestones through Violet W2 D2. They are not an inferred income ledger. Blue Persistent Coherence/Legacy acceptance occurs Orange W1 D4; Absorption Red Orange W2 D3; Beam Green Yellow W5 D2; Genesis Prime Yellow W6 D3; Coherence Prime Green W6 D2; Absorption Green Violet W1 D3; Resonance Prime Violet W2 D2. No later rank dates are assigned.
+[Exact 19-event CSV](../world-clock/ILLI_PROGRESSION_SKELETON.csv) and [JSON](../world-clock/ILLI_PROGRESSION_SKELETON.json) lock milestones through B6D3. The first 13 events through G6D2 are unchanged. Genesis Prime O/Y now precede graduation, followed by Absorption O/Y/G and Resonance Prime Red; later rank dates remain OPEN.
 
 All list prices and existing compressed Prime gates remain. Prequalification Persistent Coherence is full-price; after accepted White Legacy, approved package purchases/ranks pay 55% under HALF_UP. Prerequisite availability, affordability and chosen purchase timing are separate.
 
@@ -54,13 +57,14 @@ Her Beam is Red→Orange→Yellow→Green across the arc; increasing rank improv
 
 illi Solo remains the hard sandbox lock: she is a helkir and her Solo NPC formation suffers population saturation. Exact Arc-Four Solo standing remains OPEN, but she does NOT clear Green Solo during this scaffold. Kira therefore voluntarily remains socially centered on the first-cycle ecosystem with her sister despite Kira's own Green Solo graduation.
 
-Preserve illi's full 17-event projected calendar through Resonance Prime, including:
-- Y6D3 Genesis Prime Red;
-- G6D2 Coherence Prime Red;
-- G6D4 Absorption Orange;
-- G7D2 Absorption Yellow;
-- V1D3 Absorption Green;
-- V2D2 Resonance Prime/Juggernaut Red.
+Current Checkpoint 24 progression preserves Y6D3 Genesis Prime Red and G6D2 Coherence Prime Red, then locks:
+- G6D4 Genesis Prime Orange;
+- G7D2 Genesis Prime Yellow;
+- B1D3 Absorption Orange;
+- B2D4 Absorption Yellow;
+- B5D6 Absorption Green;
+- B6D3 Resonance Prime/Juggernaut Red.
+The former G6D4/G7D2 Absorption and V1D3/V2D2 projections are superseded.
 
 Preserve Kira Halo Early Blue and Domain Late Violet seasonal scaffold.
 
@@ -75,3 +79,11 @@ Harder Dungeons/Raids distribute injuries across the group, exposing her fatigue
 ## Checkpoint 23 — locked Solo progression and Arc Five close
 
 Solo outings are **G1D4 W8 clear/W9 reached (1,275)**, **G3D2 W9 clear/W10 reached (1,590)** and **G5D2 W10 Yellow clear/W11 reached-fails (1,950)**. Kira keeps G5D2 for post-Blue recovery/Highlights/social life. illi has not graduated Green Solo; later career standing and exact W11 failure depth remain OPEN. Arc Five fixed gross is **78,430**, excluding contextual Orange-domai and failed-Dungeon partial awards; it is not a bank balance. Distributed damage/healer fatigue motivates **G6D2 Coherence Prime Red, 9,350**. All 17 Binding purchase/upgrade milestones are unchanged; Trial standings are separate. [Full lock](../world-clock/ARC5_DIRECTOR_CALENDAR.md).
+
+## Checkpoint 24 — Arc Six graduation and current progression
+
+Arc Six **G6D3→B6D3** follows the unchanged Arc Five close. Arc Seven opens **B6D4**. Genesis Prime **G6D4 Orange 14,960 / G7D2 Yellow 26,928** comes first as illi’s autonomous offensive workhorse. Solo **G7D3 W11/W12 fail → G7D4 W12/W13 fail → B1D1 W13 Green clear/W14 fail** produces independent sandbox graduation; W14 remains a near-clear wall.
+
+Absorption now ranks **B1D3 Orange 14,960 → B2D4 Yellow 26,928 → B5D6 Green 56,549**; **B6D3 Resonance Prime Red 9,350** completes the foundational triad. These replace the old G6D4/G7D2 Absorption and V1D3/V2D2 projections. The first 13 ledger events through G6D2 stay exact; six later events make **19 events / 292,772 cumulative spend**.
+
+Arc Six illi gross **157,065**, progression spend **149,675**, ending earmarked reserve **7,390**, starting at zero for this progression account only. Her bank account is not assumed zero; discretionary life remains separate. At B6D3: PC Blue / Absorption Green / Beam Green / Genesis Prime Yellow / Coherence Prime Red / Resonance Prime Red. Offense / restoration / frontline-persistence now all exist; later progression deepens them rather than acquiring the triad. Later Arc Seven dates remain OPEN. [Calendar and audit](../world-clock/ARC6_DIRECTOR_CALENDAR.md).

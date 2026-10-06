@@ -704,8 +704,8 @@
     "Maege": 65,
     "Summoner": 60
   },
-  "illi_events": 17,
-  "illi_total": 250884,
+  "illi_events": 19,
+  "illi_total": 292772,
   "project_princess_carry_section_byte_identical": true,
   "blue_solo_date": "G5D1",
   "green_first_attempt": "G4D2",
@@ -721,7 +721,6 @@
     "bindings/PRICING_AUDIT.json",
     "bindings/PRICING_CLASS_MATRIX.csv",
     "bindings/PRICING_CLASS_MATRIX.json",
-    "bindings/PRICING_MODEL.md",
     "bindings/README.md",
     "builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv",
     "builder/encounters/README.md",
@@ -1040,14 +1039,9 @@
     "world-clock/ARC3_ORANGE_CALENDAR.json",
     "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.csv",
     "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json",
-    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv",
-    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
-    "world-clock/ILLI_PROGRESSION_SKELETON.csv",
-    "world-clock/ILLI_PROGRESSION_SKELETON.json",
     "world-clock/PRISM_TEAM_TRACKER.csv",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv",
-    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json",
-    "world-clock/WORLD_CLOCK_TEMPLATE.csv"
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json"
   ],
   "sha256": {
     "world-clock/YELLOW_DIRECTOR_CALENDAR.csv": "2dd1d473bc26a627413555b2fa0f30b05cb5b263d4644e60fda27f5adcb4888e",
@@ -1055,13 +1049,13 @@
     "world-clock/ARC4_HANDOFF.json": "0e459f5558607438858e301a518c534aac5fcc78a2d286ea87794593a0f7a5ec",
     "world-clock/ARC5_HANDOFF.json": "7779aab751c4785970ea6204d4a061175a700887f2fdbfbc4d2aefe5a749b934",
     "combat-rewards/DOMAI_GROUP_ECONOMY.json": "2261342854c93431c6776556912c6a4f1afdc56d2805d3d7202a19a73efc302b",
-    "world-clock/validate_yellow_director.py": "4d9cf6d9e8f1998d1a8eb6ae70c8e21d7ef98fcfd9527cdcb97470383d3b9427",
+    "world-clock/validate_yellow_director.py": "bc8a5d77c130241d184f97e9383bc2b482ce55e29c3bd0e61254d7b8b1d313f4",
     "live-model/TRAINING_YARD.md": "49d0a894349de88d5c883f1f1194ac0eb693c4de0a878d2e11a2b4ccbee2e68d",
     "builder/COMMUNITY.md": "b3ee56f89b495972aafa646d13c9176f1c19b92ae236e93570aa092fd7f6cb35",
     "live-model/BLACK_SYSTEMS_MASTERY.md": "420ac953bd7df16b01a2e58948aa8723879aa3458eea725a22e2f0f500812288",
     "world-clock/ARC5_HANDOFF.md": "d760e264d39ee6be856df99356627c936fe0130b6c1d697ca37c9aad4f64a28c",
-    "live-model/DOMAI_PARTICIPATION.md": "f0207c94718aef8a7293934575f957d47e18c3f83002ee4f94784b39bf16cc64",
+    "live-model/DOMAI_PARTICIPATION.md": "f426aaa4dcfe7034a88b2fff3bba61e0f6b086cd11e99df2235b5be6158d03d4",
     "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "a90f44de5acf9cada1e92a7efe51f52d5aedd4b2291a3febe45afb3784cb0d0d",
-    "live-model/OPEN.md": "8d59fcae31b0546e84520f412866aaacb3b121fe5423a57234f7a13859a93c73"
+    "live-model/OPEN.md": "55b0769c5c1bcd18fec01fd69f9d3a1d5d59c94a1075ebb4efab51eedc95cf58"
   }
 }

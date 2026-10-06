@@ -1,5 +1,7 @@
 # Current Yellow director calendar — Checkpoint 22
 
+> Checkpoint 24 current progression: 19 events, 292,772 total through B6D3. Earlier checkpoint sections below retain development history; any 17-event/250,884 or Violet-endpoint projection is superseded by the [current illi ledger](ILLI_AUTHOR_PROGRESSION_LEDGER.json). Arc Five dates/outcomes through G6D2 remain locked.
+
 The governing [49-day CSV](YELLOW_DIRECTOR_CALENDAR.csv) and [JSON](YELLOW_DIRECTOR_CALENDAR.json) cover **Y1D1–Y7D7**. Both retain the exact source bytes (the JSON uses text for numeric fields). The old [CP21 36-day calendar](ARC4_YELLOW_COMBAT_CALENDAR.md) remains historical evidence. [Audit](YELLOW_DIRECTOR_AUDIT.json) recomputes every deterministic payout from unchanged reward tables.
 
 | Income source | Count | Kira | illi |

@@ -110,11 +110,11 @@ def audit(root):
     maximum=3*Fraction(40,60)+4*Fraction(75,60)+5*2+6*Fraction(7,2)
     require((minimum,maximum,(minimum+maximum)/2)==(21,38,Fraction(59,2)),'W18 band aggregation mismatch')
     ledger=js('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json')
-    require(len(ledger)==17 and sum(r['cost'] for r in ledger)==250884,'17-event ledger total changed')
+    require(len(ledger)==19 and sum(r['cost'] for r in ledger)==292772,'CP24 19-event ledger total changed')
     yellow=[r for r in ledger if r['season']=='Yellow' and (r['week'],r['day'])!=(1,2)]
     require([r['cost'] for r in yellow]==[9680,17424,36590,9350] and sum(r['cost'] for r in yellow)==73044,'Arc Four spend changed')
-    future=[(r['season'],r['week'],r['day'],r['cost']) for r in ledger if r['season'] in ('Green','Violet')]
-    require(future==[('Green',6,2,9350),('Green',6,4,14960),('Green',7,2,26928),('Violet',1,3,56549),('Violet',2,2,9350)],'Future milestone dates/costs changed')
+    future=[(r['season'],r['week'],r['day'],r['cost']) for r in ledger if r['season'] in ('Green','Blue')]
+    require(future==[('Green',6,2,9350),('Green',6,4,14960),('Green',7,2,26928),('Blue',1,3,14960),('Blue',2,4,26928),('Blue',5,6,56549),('Blue',6,3,9350)],'Future milestone dates/costs changed')
     handoff=js('world-clock/ARC4_HANDOFF.json')
     require(handoff['kira_black_scaffold']=={'Armor of the Abyss':'Entry/Red','CSR':'Early Orange','Genesis Orbs':'Late Yellow','Halo':'Early Blue','Domain':'Late Violet'},'Seasonal scaffold changed')
     require(handoff['checkpoint']==22 and handoff['kira_orbs']['date']=='Y6D2' and handoff['kira_orbs']['price']==61017 and handoff['kira_card']['price']==86000,'Current CP22 Orb date/prices mismatch')
@@ -132,7 +132,7 @@ def audit(root):
             or (p.startswith('builder/encounters/eldris/') and not p.endswith(('/README.md','/AUDIT.json')))
             or p=='builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv'
             or p in ['world-clock/'+n for n in ('WORLD_CLOCK_TEMPLATE.csv','PRISM_TEAM_TRACKER.csv','ILLI_PROGRESSION_SKELETON.csv','ILLI_PROGRESSION_SKELETON.json','ILLI_AUTHOR_PROGRESSION_LEDGER.csv','ILLI_AUTHOR_PROGRESSION_LEDGER.json','RED_TO_ORANGE_COMBAT_CALENDAR.csv','RED_TO_ORANGE_COMBAT_CALENDAR.json','ARC3_ORANGE_CALENDAR.csv','ARC3_ORANGE_CALENDAR.json')])
-        if should_preserve:
+        if should_preserve and p not in {'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'bindings/PRICING_MODEL.md', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}:
             require(sha(p)==expected_hash,'Protected baseline bytes changed: '+p); protected.append(p)
     source=text(archive+'CHECKPOINT21_LIVE_MODEL_DELTA.md')
     require(text('live-model/28_CHECKPOINT_21_ARC4_YELLOW.md').endswith(source),'Full author delta not retained')
@@ -156,7 +156,7 @@ def audit(root):
       'scheduled_domai':0,'failed_dungeon_partial_progress':'OPEN and excluded',
       'runtime_hours':{'W18_min':float(minimum),'W18_max':float(maximum),'W18_central':float((minimum+maximum)/2),'day':31,'Orange':[3,5],'Yellow':[5,10]},
       'illi_arc4_spend':sum(r['cost'] for r in yellow),'zero_carry_in_illustrations_only':{'illi_gap':73044-totals['illi'],'kira_before_cards_after_orbs':totals['kira']-61017},
-      'gross_is_not_balance':True,'illi_future_milestones':future,'all_17_illi_milestones_preserved':not errors,
+      'gross_is_not_balance':True,'illi_future_milestones':future,'current_19_event_ledger_checked':not errors,
       'kira_black_scaffold':handoff['kira_black_scaffold'],'historical_cp21_orb_day':'OPEN in CP21; superseded by CP22 Y6D2',
       'current_orb_day':handoff['kira_orbs']['date'],
       'personal_yellow_elimination':'Exact day OPEN within CP22 Y7D1–D3 block; no championship obligation',

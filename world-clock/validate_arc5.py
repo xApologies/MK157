@@ -151,6 +151,8 @@ def audit(root):
         *['live-model/' + p for p in ('00_GOVERNANCE.md', '01_KIRA.md', '03_VALNEK_PATHS.md', '04_COMBAT_WORLD.md', 'BLACK_SYSTEMS_MASTERY.md', 'COMBAT_ECOLOGY.md', 'COMBAT_THRESHOLDS.md', 'DOMAI_PARTICIPATION.md', 'ECONOMY_PURCHASE_SCHEDULE.md', 'ILLI_PROGRESSION.md', 'INDEX.md', 'OPEN.md', 'PARTNERSHIP_AND_CARRY.md', 'SOCIAL_LIFE_AND_FOUNDATIONS.md', 'STORY_CLOCK_STATE.md', 'SUPERSESSIONS.md', 'TRIAL_ARENA.md', 'WORLD_CLOCK.md')],
         *['world-clock/' + p for p in ('ARC5_HANDOFF.json', 'ARC5_HANDOFF.md', 'WORLD_CLOCK.md', 'YELLOW_DIRECTOR_CALENDAR.md', 'validate_yellow_director.py', 'YELLOW_DIRECTOR_AUDIT.json', 'ARC4_HANDOFF_AUDIT.json', 'ARC4_YELLOW_AUDIT.json')],
     }
+    # CP24 replaces only the post-G6D2 projection; validate_arc6 checks prefix, mirrors and clock fields.
+    allowed.update({'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/ARC3_ECONOMY_AUDIT.json', 'economy/validate_economy.py', 'combat-rewards/README.md', 'live-model/PRIME_ELEMENTALS.md', 'world-clock/validate_arc4_handoff.py', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'bindings/PRICING_MODEL.md', 'world-clock/validate_arc3.py', 'economy/AUDIT.json', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ARC4_HANDOFF.md', 'economy/KIRA_BLACK_ACQUISITION_PRICES.json', 'world-clock/validate_arc4_yellow.py', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'})
     protected = []
     for path, digest in before['sha256'].items():
         if path not in allowed:
@@ -168,7 +170,7 @@ def audit(root):
     carry = re.compile(r'(?ms)^## Project Princess Carry — LOCK\n.*?(?=^## )')
     require(carry.search(old('live-model/PARTNERSHIP_AND_CARRY.md')).group() == carry.search(text('live-model/PARTNERSHIP_AND_CARRY.md')).group(), 'Later Project Princess Carry changed')
     ledger = js('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json')
-    require(len(ledger) == 17 and sum(r['cost'] for r in ledger) == 250884, 'illi ledger changed')
+    require(len(ledger) == 19 and sum(r['cost'] for r in ledger) == 292772, 'illi ledger changed')
     require(next((r['season'], r['week'], r['day'], r['cost']) for r in ledger if r['purchase_or_upgrade'] == 'Coherence Prime → Red') == ('Green', 6, 2, 9350), 'Coherence Prime moved')
     registry_counts = {'bindings': len(js('bindings/BINDINGS.json')), 'summons': len(js('summons/SUMMONED_ENTITIES.json')), 'builder_paths': len(js('builder/paths/PATHS.json'))}
     require(registry_counts == {'bindings': 1016, 'summons': 229, 'builder_paths': 200}, 'Registry counts changed')
@@ -193,7 +195,7 @@ def audit(root):
                 if stale.search(line): stale_hits.append({'path': path.relative_to(root).as_posix(), 'line': number, 'text': line})
     require(not stale_hits, 'Stale active Arc Five date-OPEN language')
     inputs = ['world-clock/ARC5_DIRECTOR_CALENDAR.csv', 'world-clock/ARC5_DIRECTOR_CALENDAR.json', 'world-clock/ARC5_HANDOFF.json', 'world-clock/validate_arc5.py', 'trial-rewards/TRIAL_WAVE_CREDITS.json', 'combat-rewards/COMBAT_REWARD_TABLES.json', *content]
-    return {'checkpoint': 23, 'result': 'FAIL' if errors else 'PASS', 'errors': errors, 'baseline_commit': before['baseline_commit'], 'calendar_rows': len(calendar), 'arc': 'Y6D4–G6D2', 'status': 'FULLY LOCKED', 'counts': dict(counts), 'fixed_gross_excluding_contextual_awards': total, 'income_by_category': dict(categories), 'daily_fixed_gross': daily, 'raid_bookings': raid_bookings, 'overlapping_yellow_dates': overlap, 'overlap_fixed_gross': overlap_total, 'combined_full_yellow_through_G6D2_fixed_gross': combined, 'girls_builder_nights': nights, 'registry_counts': registry_counts, 'illi_milestones': len(ledger), 'illi_progression_total': 250884, 'project_princess_carry_section_byte_identical': True, 'baseline_files_required_byte_identical': protected, 'stale_pattern': stale.pattern, 'stale_active_matches': stale_hits, 'gross_is_not_balance': True, 'contextual_orange_domai_award': None, 'failed_dungeon_partial_credits': 'OPEN/excluded', 'intraday_timing_and_failure_depth': 'OPEN; dates and completed waves locked', 'sha256': {p: sha(p) for p in sorted(set(inputs))}}
+    return {'checkpoint': 23, 'result': 'FAIL' if errors else 'PASS', 'errors': errors, 'baseline_commit': before['baseline_commit'], 'calendar_rows': len(calendar), 'arc': 'Y6D4–G6D2', 'status': 'FULLY LOCKED', 'counts': dict(counts), 'fixed_gross_excluding_contextual_awards': total, 'income_by_category': dict(categories), 'daily_fixed_gross': daily, 'raid_bookings': raid_bookings, 'overlapping_yellow_dates': overlap, 'overlap_fixed_gross': overlap_total, 'combined_full_yellow_through_G6D2_fixed_gross': combined, 'girls_builder_nights': nights, 'registry_counts': registry_counts, 'illi_milestones': len(ledger), 'illi_progression_total': 292772, 'project_princess_carry_section_byte_identical': True, 'baseline_files_required_byte_identical': protected, 'stale_pattern': stale.pattern, 'stale_active_matches': stale_hits, 'gross_is_not_balance': True, 'contextual_orange_domai_award': None, 'failed_dungeon_partial_credits': 'OPEN/excluded', 'intraday_timing_and_failure_depth': 'OPEN; dates and completed waves locked', 'sha256': {p: sha(p) for p in sorted(set(inputs))}}
 
 
 def main():

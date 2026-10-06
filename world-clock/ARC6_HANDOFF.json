@@ -1,0 +1,151 @@
+{
+  "checkpoint": 24,
+  "status": "FULLY LOCKED",
+  "start": "G6D3",
+  "close": {
+    "date": "B6D3",
+    "purchase": "Resonance Prime Elemental Red",
+    "cost": 9350
+  },
+  "arc7_open": "B6D4",
+  "arc7_later_calendar": null,
+  "calendar": "ARC6_DIRECTOR_CALENDAR.json",
+  "calendar_rows": 50,
+  "illi_graduation": {
+    "date": "B1D1",
+    "cleared_wave": 13,
+    "failed_wave": 14,
+    "failure_depth": null,
+    "independent_solo": true
+  },
+  "illi_solo": [
+    {
+      "date": "G7D3",
+      "clear": 11,
+      "fail": 12
+    },
+    {
+      "date": "G7D4",
+      "clear": 12,
+      "fail": 13
+    },
+    {
+      "date": "B1D1",
+      "clear": 13,
+      "fail": 14
+    }
+  ],
+  "duo": [
+    {
+      "start": "G6D7",
+      "end": "G6D7",
+      "clear": 18,
+      "fail": 19
+    },
+    {
+      "start": "B2D1",
+      "end": "B2D2",
+      "clear": 19,
+      "fail": 20
+    },
+    {
+      "start": "B6D1",
+      "end": "B6D2",
+      "clear": 20,
+      "fail": 21
+    }
+  ],
+  "halo": {
+    "date": "B1D5",
+    "cost": 61017,
+    "solvent_by_author": true,
+    "zero_start_solvency_asserted": false,
+    "mastery_not_implied": true
+  },
+  "domain": {
+    "window": "Late Violet",
+    "date": null
+  },
+  "two_orb": "Transition begins; competency and mature blender dates OPEN",
+  "trio": false,
+  "violet_dungeon_attempted": false,
+  "normal_green_raid_clear": false,
+  "hard_green_raid_clear": false,
+  "blue_dungeons": [
+    {
+      "start": "B3D6",
+      "end": "B3D7",
+      "result": "FAIL",
+      "partial_reward": null
+    },
+    {
+      "start": "B5D1",
+      "end": "B5D2",
+      "result": "FIRST CLEAR",
+      "each_completion_reward": 7800
+    }
+  ],
+  "specific_domai_awards": [
+    {
+      "date": "G6D3",
+      "rank": "Orange",
+      "group": 60000,
+      "each": 30000
+    },
+    {
+      "date": "B5D4",
+      "rank": "Yellow",
+      "group": 30000,
+      "each": 15000
+    }
+  ],
+  "domai_general_formula": "OPEN BY DESIGN; specific awards are not rank tables; participant rules retained",
+  "gross": {
+    "kira": 148600,
+    "illi": 157065
+  },
+  "illi_progression_reserve": {
+    "start": 0,
+    "income": 157065,
+    "spend": 149675,
+    "end": 7390,
+    "scope": "Earmarked progression only, not actual bank balance"
+  },
+  "cumulative_illi_events": 19,
+  "cumulative_illi_spend": 292772,
+  "illi_endpoint": {
+    "Persistent Coherence": "Blue",
+    "Absorption Shield": "Green",
+    "Genesis Beam": "Green",
+    "Genesis Prime": "Yellow",
+    "Coherence Prime": "Red",
+    "Resonance Prime": "Red"
+  },
+  "dungeon_runtime_hours": {
+    "Yellow": [
+      5,
+      10
+    ],
+    "Green": [
+      12,
+      21
+    ],
+    "Blue": [
+      25,
+      42
+    ]
+  },
+  "raid_runtime": null,
+  "veteran_ecology": "Eligibility does not grant credibility; dossier/build fit/experience/reputation, no item-level system",
+  "builder_nights": [
+    "G6D5",
+    "B1D5",
+    "B2D5",
+    "B3D5",
+    "B4D5",
+    "B5D5"
+  ],
+  "standing_world_schedules": "Unchanged; character overlays only",
+  "project_princess_carry": "Later cycle preserved; Arc Six is precursor only",
+  "source": "../provenance/checkpoint-24-package/CHECKPOINT24_LIVE_MODEL_DELTA.md"
+}

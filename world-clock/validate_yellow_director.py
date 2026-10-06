@@ -126,7 +126,7 @@ def audit(root):
     require(arc5['one_orb_stage']['orbs']==1 and arc5['one_orb_stage']['working_radius_feet']==11
             and arc5['one_orb_stage']['radius_status'].startswith('WORKING'),'One-Orb stage changed')
     ledger=js('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json')
-    require(len(ledger)==17 and sum(r['cost'] for r in ledger)==250884,'17-event ledger changed')
+    require(len(ledger)==19 and sum(r['cost'] for r in ledger)==292772,'CP24 19-event ledger changed')
     prime=next(r for r in ledger if r['purchase_or_upgrade']=='Coherence Prime → Red')
     require((prime['season'],prime['week'],prime['day'],prime['cost'])==('Green',6,2,9350),'Coherence Prime moved/repriced')
     group=js('combat-rewards/DOMAI_GROUP_ECONOMY.json'); participant=js('combat-rewards/DOMAI_PARTICIPATION_RULES.json')
@@ -150,7 +150,7 @@ def audit(root):
               or bool(re.fullmatch(r'live-model/\d+_CHECKPOINT_.*\.md',p))
               or p=='live-model/ELDRIS_REFERENCE.md'
               or p in ['world-clock/'+n for n in ('WORLD_CLOCK_TEMPLATE.csv','PRISM_TEAM_TRACKER.csv','ILLI_PROGRESSION_SKELETON.csv','ILLI_PROGRESSION_SKELETON.json','ILLI_AUTHOR_PROGRESSION_LEDGER.csv','ILLI_AUTHOR_PROGRESSION_LEDGER.json','RED_TO_ORANGE_COMBAT_CALENDAR.csv','RED_TO_ORANGE_COMBAT_CALENDAR.json','ARC3_ORANGE_CALENDAR.csv','ARC3_ORANGE_CALENDAR.json','ARC4_YELLOW_COMBAT_CALENDAR.csv','ARC4_YELLOW_COMBAT_CALENDAR.json')])
-        if keep:
+        if keep and p not in {'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'bindings/PRICING_MODEL.md', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}:
             require(sha(p)==h,'Protected baseline bytes changed: '+p);protected.append(p)
     # The exact late-cycle carry section must survive, not merely its title.
     old_partner=subprocess.check_output(['git','-c',f'safe.directory={root.as_posix()}','show',before['baseline_commit']+':live-model/PARTNERSHIP_AND_CARRY.md'],cwd=root).decode('utf-8')
@@ -194,7 +194,7 @@ def audit(root):
       'raid_bookings':raid_bookings,'changed_cp21_dates':[f'Y{w}D{d}' for w,d in changed],'gross_is_not_balance':True,
       'exact_orbs':'Y6D2','arc4_close':'Y6D3','arc5_open':'Y6D4','arc5_close':'G6D2 Coherence Prime Red, 9350',
       'personal_raeon_block':'Y7D1–D3; run ends by D3; exact matches/elimination OPEN','domai_award':'Y7D4 successful; exact group award OPEN and excluded',
-      'registry_counts':registry_counts,'builder_role_counts':dict(families),'illi_events':len(ledger),'illi_total':250884,
+      'registry_counts':registry_counts,'builder_role_counts':dict(families),'illi_events':len(ledger),'illi_total':292772,
       'project_princess_carry_section_byte_identical':True,'blue_solo_date':'G5D1','green_first_attempt':'G4D2','green_first_clear':'G5D3',
       'source_inventory_exception':'Supplied MANIFEST inventory entry is stale; all 16 actual ZIP members archived exactly',
       'protected_baseline_files':protected,'sha256':{p:sha(p) for p in inputs}}

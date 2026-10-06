@@ -67,3 +67,9 @@ Kira’s Green Solo graduation does not force illi out of first-cycle social lif
 The Project Princess Carry section above remains unchanged and later in the cycle. Arc Five is social-forward decompression: Elara warns against burnout; illi leads Kira into society while Kira pulls illi into combat. Dungeon repeats form organic overlapping cliques; Raids broaden acquaintances. No recurring Trio partner is invented. First Builder invitation Y5D3, first party Y5D5; [Builder culture](../builder/COMMUNITY.md), cards, royal dinners, Galas, clothing, Champion life and Elara’s genuine friendship develop without forcing every fight on-page.
 
 Current Duo remains W18 clear/W19 fail even after Kira’s one-Orb W19 Solo breakthrough on G5D1. The [Arc Five roadmap](../world-clock/ARC5_HANDOFF.md) ends at G6D2 Coherence Prime, motivated by group damage/healer fatigue; no early purchase is forced. Mature multi-Orb Trial-breaking throughput later drives the existing White-Legacy fanaticism, while illi retains autonomy.
+
+## Checkpoint 24 — graduation and economic precursor
+
+illi graduates independently **B1D1 W13 Green Solo clear/W14 fail** after Genesis Prime Yellow. Both may now enter progression-bearing veteran groups together, while PUG credibility still depends on experience/build fit/dossier and reputation. Green Dungeons bridge friendships; illi values enabling others, service/community and high-contact social content. Kira is more willing to grind Trials. This preference difference is character texture.
+
+Girls' Builder Night remains the social home: G6D5 and B1D5/B2D5/B3D5/B4D5/B5D5, with Halo on B1D5 and Green W7 Auction displacing D5. Higher income supports expensive Legacy ranks and discretionary cards/decks/clothes/social life; no general card-price table is locked. The later Project Princess Carry section is unchanged. Arc Six is the economic precursor as Trial throughput and illi’s rank costs rise, not early activation of late-cycle fanaticism.

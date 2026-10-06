@@ -1,0 +1,11 @@
+{
+  "package": "MK157_CHECKPOINT24_ARC6_GRADUATION_MASTER_UPDATE",
+  "checkpoint": 24,
+  "observed_git_head": "ec3274b8f5026cd2cd6aa2bfb076383e3a863311",
+  "arc6": "G6D3\u2192B6D3",
+  "kira_gross": 148600,
+  "illi_gross": 157065,
+  "illi_arc6_spend": 149675,
+  "illi_end_reserve": 7390,
+  "illi_cumulative_spend": 292772
+}

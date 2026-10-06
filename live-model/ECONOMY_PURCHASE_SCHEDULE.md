@@ -1,6 +1,8 @@
 # MK157 — Economy and purchase-schedule handoff
 
-Current authority: Checkpoint 23, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
+> Checkpoint 24 current progression: 19 events, 292,772 total through B6D3. Earlier checkpoint sections below retain development history; any 17-event/250,884 or Violet-endpoint projection is superseded by the [current illi ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json). Arc Five dates/outcomes through G6D2 remain locked.
+
+Current authority: Checkpoint 24, cumulative with earlier non-conflicting rules. The 19 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
 ## Kira Black acquisition economics — current
 
@@ -125,7 +127,7 @@ Track:
 Immediate economic goals:
 - Preserve Kira's four 61,017-credit post-Armor Black acquisition locks; ordinary registry prices do not substitute for them.
 - Model illi's supplied milestone dates, including Blue Persistent Coherence qualification and White Legacy acceptance.
-- Solve the remaining income, spending and purchase schedule without inventing post-Violet-W2 rank dates.
+- Solve the remaining income, spending and purchase schedule without inventing post-B6D3 rank dates.
 
 ## 13. Protected OPEN items
 
@@ -237,7 +239,7 @@ raeon specialty/cycle cards can also become expensive.
 Auction is a top-end sink for rare equipment, Creator originals, materials, cards, Dimensional Rings and one-offs.
 Illustrative White Fireball 1.3M/3M, Dimensional Ring 2M, and Valnak-made princess tiara are examples only unless later locked.
 
-[illi progression](ILLI_PROGRESSION.md) provides 17 dated author milestones; post-Violet-W2 rank dates remain OPEN. [Partnership/economy](PARTNERSHIP_AND_CARRY.md) preserves independent schedules, discretionary spending and Project Princess Carry. These are story constraints, not a fabricated income simulation.
+[illi progression](ILLI_PROGRESSION.md) provides 19 dated author milestones; post-B6D3 rank dates remain OPEN. [Partnership/economy](PARTNERSHIP_AND_CARRY.md) preserves independent schedules, discretionary spending and Project Princess Carry. These are story constraints, not a fabricated income simulation.
 
 ## Checkpoint 16 progression ledger and Normal Dungeon base
 
@@ -317,3 +319,13 @@ The [49-day director calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md) super
 [Arc Five Y6D4–G6D2](../world-clock/ARC5_DIRECTOR_CALENDAR.md) supplies **88,595 Kira / 78,430 illi** fixed gross. Per person: five W18 Duos 32,775; eight Yellow clears 18,440; three Green clears 13,650; three distinct Normal Raid bosses 8,750. Solo adds 14,980 Kira / 4,815 illi. Failed-Dungeon partial credits and the successful Y7D4 Orange-domai contextual award remain excluded, not fixed at zero. G6D1 Yellow domai fails/no conquest payout. Coherence Prime Red **G6D2, 9,350** is expenditure and unchanged.
 
 Y6D5/Y6D6's 13,110 per person is already included in full Yellow: never sum full Yellow and Arc Five without removing this overlap. Combined full-Yellow→G6D2 fixed gross is 155,625 Kira / 136,600 illi. These scopes are earnings, not balances or funding proofs. Discretionary cards/decks/clothing/social spending, opening cash and transaction dates remain for the writing-stage ledger. All prior fixed reward tables, acquisition prices and 17 illi purchase dates/costs remain unchanged.
+
+## Checkpoint 24 — Arc Six graduation and current progression
+
+Arc Six **G6D3→B6D3** follows the unchanged Arc Five close. Arc Seven opens **B6D4**. Genesis Prime **G6D4 Orange 14,960 / G7D2 Yellow 26,928** comes first as illi’s autonomous offensive workhorse. Solo **G7D3 W11/W12 fail → G7D4 W12/W13 fail → B1D1 W13 Green clear/W14 fail** produces independent sandbox graduation; W14 remains a near-clear wall.
+
+Absorption now ranks **B1D3 Orange 14,960 → B2D4 Yellow 26,928 → B5D6 Green 56,549**; **B6D3 Resonance Prime Red 9,350** completes the foundational triad. These replace the old G6D4/G7D2 Absorption and V1D3/V2D2 projections. The first 13 ledger events through G6D2 stay exact; six later events make **19 events / 292,772 cumulative spend**.
+
+Arc Six illi gross **157,065**, progression spend **149,675**, ending earmarked reserve **7,390**, starting at zero for this progression account only. Her bank account is not assumed zero; discretionary life remains separate. At B6D3: PC Blue / Absorption Green / Beam Green / Genesis Prime Yellow / Coherence Prime Red / Resonance Prime Red. Offense / restoration / frontline-persistence now all exist; later progression deepens them rather than acquiring the triad. Later Arc Seven dates remain OPEN. [Calendar and audit](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
+
+Kira gross is **148,600**, including the two specific domai shares 30,000 + 15,000. Halo B1D5 costs **61,017** and is author-declared solvent with prior carry-in; no zero-start Kira solvency is asserted. illi’s 28 reserve entries remain nonnegative chronologically. Failed Blue partial awards and actual discretionary transactions are excluded/OPEN. Reward tables and 55% HALF_UP package pricing are unchanged.
