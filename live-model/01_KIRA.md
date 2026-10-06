@@ -401,11 +401,11 @@ Other participants use the fixed geography strategically.
 
 ## Kira Black acquisition economics — current
 
-Armor of the Abyss remains the approximately 1,000-credit anomalous starter. CSR → Genesis Orbs → Halo → Domain remain the other four foundations. Their final acquisition prices are **OPEN / recalibration**. The former flat 61,000 each and derived 244,000/245,000 totals are historical, superseded final-price claims. No replacement values are assigned.
+Armor of the Abyss remains the approximately 1,000-credit anomalous starter. Checkpoint 19 locks CSR → Genesis Orbs → Halo → Domain at **61,017 credits each**, in that acquisition order. This character-specific post-Armor Black tier reflects Valnak/Elara realization burden and does not use the ordinary five-class Binding matrix. The former 61,000 figure remains superseded; Armor is not repriced. Acquisition, affordability and later competency remain distinct.
 
 Armor's anomaly arose because Valnak/Elara did not yet know how to price Black. Later acquisitions remain meaningful economic objectives: Kira can farm Solo independently, and her later architecture makes her an exceptional credit generator; Elara is not giving the other foundations away.
 
-Availability/admissibility, affordability, and competency/discovery/integration after acquisition are separate. Black foundations do not use ordinary paid rank ladders. Ordinary registry prices cannot supply replacement character-specific prices. See [Checkpoint 14](21_CHECKPOINT_14_FULL_RECONCILIATION.md).
+Availability/admissibility, affordability, and competency/discovery/integration after acquisition are separate. Black foundations do not use ordinary paid rank ladders. Ordinary registry prices cannot supply replacement character-specific prices. See [Checkpoint 19](26_CHECKPOINT_19_ARC_THREE.md) and the [Black acquisition prices](../economy/KIRA_BLACK_ACQUISITION_PRICES.json).
 
 ## Checkpoint 13 coupled progression
 
@@ -476,3 +476,7 @@ Mature blender scenes may include Kira and illi remaining near the Central Basin
 [Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN.
 
 Current Checkpoint 14 behavior: meaningful free time without overriding recovery, training or social plans commonly becomes Solo Trials. Kira stays primarily with illi/friends after early Green graduation. Project Princess Carry becomes late-cycle Trial-heavy while illi retains independent choices. The public understands Armor/CSR much better than post-Orb architecture; highlights may show the pair apparently idle at the center. Literal Orb velocity/energy stays OPEN. Full current [partnership](PARTNERSHIP_AND_CARRY.md) and [illi schedule](ILLI_PROGRESSION.md).
+
+## Checkpoint 19 — Arc Three capability and choices
+
+CSR is held by O2D3 and immediately enables Green Solo/Duo Trial territory. Mobility/repositioning solves lock-down without mass-clear/distributed offense; the later Genesis Orbs discontinuity remains. The [Arc Three scaffold](../world-clock/ARC3_ORANGE_CALENDAR.md) locks nine Duo and six Kira-only Solo runs, no Yellow Dungeon completions, and ten OPEN days. Card collecting (especially Fireball Genesis Cards) and new-cycle raeon decks dominate discretionary choices; no meaningful Auction purchases are assigned. Gross 83,915 less the 61,017 Orbs reserve leaves 22,898 headroom before OPEN domai awards and exact spending. Reserves do not establish a new acquisition timestamp or automatic mastery.

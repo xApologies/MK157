@@ -107,3 +107,7 @@ Genesis Cards range from accessible thousands to rare/cycle-exclusive million-cr
 raeon specialty/cycle cards can also become expensive.
 Auction is a top-end sink for rare equipment, Creator originals, materials, cards, Dimensional Rings and one-offs.
 Illustrative White Fireball 1.3M/3M, Dimensional Ring 2M, and Valnak-made princess tiara are examples only unless later locked.
+
+## Checkpoint 19 — Arc Three collecting
+
+Genesis Cards and new-cycle raeon cards/decks are the primary discretionary sinks during Arc Three. Kira particularly collects **Fireball Genesis Cards**. Exact inventory, purchase dates, prices, rarity mix and spending totals remain OPEN; no meaningful Auction purchasing is assigned in this arc. The two card ecosystems and their color/physical firewalls remain distinct. See [Arc Three economy](../world-clock/ARC3_ORANGE_CALENDAR.md#reserves-and-spending).

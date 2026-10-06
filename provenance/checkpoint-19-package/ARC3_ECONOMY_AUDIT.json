@@ -1,0 +1,48 @@
+{
+  "scope": "Orange W2D4 through W7D7",
+  "days": 39,
+  "duo_green_runs": 9,
+  "duo_progression": [
+    "W13",
+    "W14",
+    "W14",
+    "W15",
+    "W15",
+    "W16",
+    "W16",
+    "W17",
+    "W17"
+  ],
+  "orange_dungeon_clears": 7,
+  "yellow_dungeon_attempts": 2,
+  "yellow_dungeon_completions": 0,
+  "normal_raid": {
+    "Red": "clear +2500",
+    "Orange": "clear +3750"
+  },
+  "hard_raid": {
+    "Red": "clear +3750",
+    "Orange": "fail +0"
+  },
+  "raeon_personal_tournament": [
+    "O5D1 qualification",
+    "O5D6 elimination progression / eliminated"
+  ],
+  "raeon_world_championship": "O7D5; girls watch/recover, no combat conflict",
+  "domai": {
+    "O7D3": "active",
+    "O7D4": "active/exit",
+    "O7D5": "mandatory recovery",
+    "contribution_payout": "OPEN and excluded from deterministic total"
+  },
+  "kira_solo_green_runs": 6,
+  "shared_deterministic_income_each": 58885,
+  "kira_deterministic_income_including_solo": 83915,
+  "illi_terminal_binding_requirement": {
+    "Genesis Beam Red": 6050
+  },
+  "kira_terminal_binding_requirement": {
+    "Genesis Orbs": "OPEN; working provisioning target ~50k\u201360k, not canonized"
+  },
+  "card_spending": "OPEN by design; Arc Three explicitly allows/encourages spending surplus on new-cycle raeon decks and Genesis Cards."
+}

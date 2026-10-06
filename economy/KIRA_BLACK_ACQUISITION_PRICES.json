@@ -1,0 +1,17 @@
+{
+  "checkpoint": 19,
+  "status": "LOCKED",
+  "character": "Kira",
+  "currency": "Valnak credits",
+  "post_armor_acquisition_prices": {
+    "CSR": 61017,
+    "Genesis Orbs": 61017,
+    "Halo": 61017,
+    "Domain": 61017
+  },
+  "ordinary_binding_class_matrix_applies": false,
+  "armor_of_the_abyss": "Approximately 1000-credit anomalous starter; unchanged",
+  "scope": "Character-specific post-Armor Black acquisition tier; no ordinary paid rank ladder",
+  "acquisition_dates": "No new exact purchase date assigned; Arc Three endpoint requires reserves, not automatic purchases",
+  "source": "../provenance/checkpoint-19-package/ARC3_FINAL_AUTHOR_LOCKS.md"
+}

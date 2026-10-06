@@ -1,12 +1,12 @@
 # MK157 — Economy and purchase-schedule handoff
 
-Current authority: Checkpoint 18, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
+Current authority: Checkpoint 19, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
 ## Kira Black acquisition economics — current
 
-Armor of the Abyss remains the approximately 1,000-credit anomalous starter. CSR → Genesis Orbs → Halo → Domain follow in that order, with all four final acquisition prices OPEN for recalibration. Checkpoint 14 supersedes the former flat-price lock and derived totals; no replacement numbers are assigned.
+Armor of the Abyss remains the approximately 1,000-credit anomalous starter. Checkpoint 19 locks CSR → Genesis Orbs → Halo → Domain at **61,017 credits each**, in that acquisition order. This character-specific post-Armor Black tier reflects Valnak/Elara realization burden and does not use the ordinary five-class Binding matrix. The former 61,000 figure remains superseded; Armor is not repriced. Acquisition, affordability and later competency remain distinct.
 
-Availability/admissibility, affordability, and competency/discovery/integration after acquisition are separate. Black foundations do not use ordinary paid rank ladders. Ordinary registry prices cannot supply replacement character-specific prices. See [Checkpoint 14](21_CHECKPOINT_14_FULL_RECONCILIATION.md).
+Availability/admissibility, affordability, and competency/discovery/integration after acquisition are separate. Black foundations do not use ordinary paid rank ladders. Ordinary registry prices cannot supply replacement character-specific prices. See [Checkpoint 19](26_CHECKPOINT_19_ARC_THREE.md) and the [Black acquisition prices](../economy/KIRA_BLACK_ACQUISITION_PRICES.json).
 
 ## 4. illi Red-season economic objective / White Legacy gate
 
@@ -123,7 +123,7 @@ Track:
 - story/arc purpose.
 
 Immediate economic goals:
-- Recalibrate Kira's four post-Armor Black prices; ordinary registry prices do not substitute for them.
+- Preserve Kira's four 61,017-credit post-Armor Black acquisition locks; ordinary registry prices do not substitute for them.
 - Model illi's supplied milestone dates, including Blue Persistent Coherence qualification and White Legacy acceptance.
 - Solve the remaining income, spending and purchase schedule without inventing post-Violet-W2 rank dates.
 
@@ -143,7 +143,7 @@ Do not silently decide:
 
 Current ordinary prices are in the [Binding registry](../bindings/BINDINGS.json), [summon price atlas](../summons/SUMMON_PRICING.json) and [Prime price atlas](../summons/PRIME_ELEMENTAL_PRICING.json). Checkpoint 18 prices Persistent Coherence by its Foundational class: B=1700, R 1700/O 2720/Y 4896/G 10282/B 25705; cumulative R-through-Blue **45,303**, or **43,603** after Red. The above B=1000 calculation remains historical illustration only. Absorption Shield and all Primes are Exceptional B=17000; Genesis Beam is Powerful B=11000; White Legacy access compression is separate from the Checkpoint 13 45% package deduction; illi pays 55% after acceptance.
 
-Kira's CSR/Genesis Orbs/Halo/Domain final prices are OPEN for recalibration under Checkpoint 14. The old flat-price claim is SUPERSEDED; Armor remains approximately 1,000. Ordinary list prices and all unrelated canon remain governed by their existing rules.
+Checkpoint 19 locks Kira's CSR/Genesis Orbs/Halo/Domain acquisitions at 61,017 each. The old 61,000 claim is SUPERSEDED; Armor remains approximately 1,000. Ordinary list prices and all unrelated canon remain governed by their existing rules.
 
 ## Checkpoint 13 list prices, Legacy subsidy and Trial target
 
@@ -248,3 +248,9 @@ White Valnak Normal Dungeon successful-completion base is **34,455 = 26,955 + 7,
 The World Clock + character + economy calendar is ready for authored content placement. Purchases must be economically plausible against the ledger's progression-capital breakpoints, without micro-accounting every discretionary purchase. No new income schedule, encounter placement or post-Violet-W2 rank date is invented here.
 
 [Checkpoint 18 combat calendar](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) governs the 59 supplied Red→O2D3 rows, retaining 21 NO REQUIRED COMBAT days and all milestone dates. Starter grant 2,000; illi combat income 52,695 through O2D2; PC Blue/Legacy leaves 952 at O1D4 and Absorption Red leaves 42 at O2D3. Discretionary spending and later income remain separate/OPEN.
+
+## Checkpoint 19 — Arc Three economy
+
+The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. Kira's **61,017 Orbs reserve** leaves **22,898** headroom from arc income; this is not her actual final balance. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability.
+
+Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. The endpoint reserves do not move Kira's existing acquisition/development timing. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18.

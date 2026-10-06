@@ -91,3 +91,9 @@ Kira's advantage does not mean Trial runtime becomes trivial. Deep Solo/Duo/Trio
 ## Exact Trial reward schedule — Checkpoint 14
 
 Checkpoint 18 recalibrates the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 26,955 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 and Checkpoint 14's 53,910 are historical pre-recalibration values; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
+
+## Checkpoint 19 — Arc Three combat direction
+
+After CSR, Green Trial territory is immediate: nine shared clears W13/14/14/15/15/16/16/17/17 and six Kira Solo clears W13/14/14/15/15/16. CSR solves lock-down/repositioning, not population-clearing throughput. Green juggernaut melee adds to Red/Orange melee and Yellow ranged/Transductionist pressure; no new basin-domain rule follows.
+
+The [exact calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) supplies seven Orange Dungeon clears, two failed Yellow attempts with zero Yellow completions, no Red Dungeons, Normal Red+Orange Raid clear, Hard Red clear/Orange attrition failure, and a successful late domai block. O4D2's paid Normal Red is constrained to an unpaid boss distinct from O1D6; exact identity remains OPEN. Hard attempt elimination/no replacement, general partial-progress OPENs and contextual domai scoring remain. O7D5 full recovery and tournament appointments have no scheduled combat. Ten OPEN days are protected; repeat rows do not mandate chapters. Earlier Yellow W8–10 working ceilings describe pre-CSR behavior, not this new architectural stage.

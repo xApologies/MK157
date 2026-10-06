@@ -1,8 +1,8 @@
 # OPEN ledger
 
-Current numeric prices/rewards and the supplied early combat calendar are resolved by Checkpoint 18 below. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks.
+Current numeric ordinary prices/rewards are resolved by Checkpoint 18; Checkpoint 19 additionally resolves Kira's 61,017 post-Armor acquisition tier and the supplied Arc Three calendar below. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks.
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -123,4 +123,12 @@ Domai scoring and core-break bonus amount/formula remain **OPEN BY DESIGN**, not
 
 Node domai recruiting direction is supplied; exact UI/rating/matchmaking and gear-score-like formulas are not assigned. aithren/vaelum/Accord doctrine is inherited; exact governance, boards, arbitration, reputation scoring, tax rates/categories and broader Registry authority remain OPEN. Excluded upstream systems stay excluded.
 
-W36+ rewards, final standings, W96 NONCANON, post-Violet-W2 dates, Kira Black final prices, later income/discretionary spending, Dungeon distribution/partial-progress/extra bonuses, exact encounters/placements, Hard runtimes, extreme recovery physiology, planetary month arithmetic and other unrelated OPENs remain. Early Solo/Duo W8–10 and inefficient mid-Orange Trio ceilings are WORKING, not final records.
+W36+ rewards, final standings, W96 NONCANON, post-Violet-W2 dates, unsupplied later income/discretionary spending (Checkpoint 19 resolves Arc Three gross income and Kira Black prices), Dungeon distribution/partial-progress/extra bonuses, exact encounters/placements, Hard runtimes, extreme recovery physiology, planetary month arithmetic and other unrelated OPENs remain. Early Solo/Duo W8–10 and inefficient mid-Orange Trio ceilings are WORKING, not final records.
+
+## Checkpoint 19 current resolutions and protected OPENs
+
+Resolved: CSR/Genesis Orbs/Halo/Domain each cost **61,017**, separate from ordinary class pricing; Armor remains its anomaly. The source package's earlier ~50k–60k/Orbs-OPEN draft text is superseded by its final author locks. The exact O2D4–O7D7 calendar supplies 58,885/83,915 deterministic illi/Kira gross, a 61,017 Orbs reserve and 22,898 Kira headroom. illi retains 6,050 for Y1D2 Beam; no earlier automatic purchase. R5D4 and O5D1/O5D6 tournament participation and O7D5 recovery/viewing are supplied.
+
+Still OPEN: domai contextual contribution payout/scoring/core-break amount, exact conquest timing/death count; card inventory, prices, dates, total discretionary spend and actual ending balances; unsupplied acquisition timestamps; exact intraday run durations/recovery physiology; raid boss identities (O4D2 paid Red must be distinct from O1D6); and later unsupplied income. The 10 Arc Three OPEN days stay slice-of-life space. No meaningful Auction purchasing is assigned.
+
+All unrelated OPENs survive: W36+ rewards, final standings/W96 NONCANON, post-Violet-W2 illi dates, Dungeon partial-progress/distribution/bonuses, exact encounters/Hard runtimes, Node/institutional specifics, and planetary month arithmetic. Source zero-credit domai rows mean excluded from deterministic gross, not a locked zero payout. See [Checkpoint 19](26_CHECKPOINT_19_ARC_THREE.md).

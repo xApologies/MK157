@@ -238,7 +238,7 @@ Track:
 - story/arc purpose.
 
 Immediate economic goals:
-- Kira accumulates toward each OPEN (recalibration) Black acquisition. Checkpoint 14 supersedes the former flat-price lock; no replacement numbers are assigned.
+- Kira accumulates toward each 61,017-credit post-Armor Black acquisition under Checkpoint 19; actual acquisition and later mastery remain distinct.
 - illi accumulates/ranks Persistent Coherence to Blue to unlock White Legacy access.
 - model the supplied illi milestone dates and solve the remaining ledger; do not invent post-Violet-W2 rank dates.
 
@@ -312,10 +312,16 @@ Mature blender scenes may include Kira and illi remaining near the Central Basin
 
 [Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies the 17 locked milestones; other purchase dates and post-Violet-W2 ranks remain OPEN.
 
-Checkpoint 14 current state: [illi milestones](ILLI_PROGRESSION.md) lock the supplied dates through Violet W2 D2; Coherence Prime is late Green and Resonance Prime early Violet. Later rank dates remain OPEN, with PC/Absorption/three Primes targeted toward White and Beam potentially remaining Green. [Project Princess Carry and independent schedules](PARTNERSHIP_AND_CARRY.md) govern broad Red–Violet content and intentionally Trial-heavy White. Kira Black final prices are OPEN; W96 and low-40s records remain illustrative/noncanonical.
+Checkpoint 14 current state: [illi milestones](ILLI_PROGRESSION.md) lock the supplied dates through Violet W2 D2; Coherence Prime is late Green and Resonance Prime early Violet. Later rank dates remain OPEN, with PC/Absorption/three Primes targeted toward White and Beam potentially remaining Green. [Project Princess Carry and independent schedules](PARTNERSHIP_AND_CARRY.md) govern broad Red–Violet content and intentionally Trial-heavy White. Checkpoint 19 now locks the post-Armor Black acquisition tier at 61,017; W96 and low-40s records remain illustrative/noncanonical.
 
 ## Checkpoint 16 calendar handoff
 
 The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 250,884 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. Checkpoint 18 now supplies the separate 59-day combat scaffold; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged.
 
 [Checkpoint 18 combat calendar](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) governs the 59 supplied Red→O2D3 rows, retaining 21 NO REQUIRED COMBAT days and all milestone dates. Starter grant 2,000; illi combat income 52,695 through O2D2; PC Blue/Legacy leaves 952 at O1D4 and Absorption Red leaves 42 at O2D3. Discretionary spending and later income remain separate/OPEN.
+
+## Checkpoint 19 — Arc Three economy
+
+The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. Kira's **61,017 Orbs reserve** leaves **22,898** headroom from arc income; this is not her actual final balance. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability.
+
+Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. The endpoint reserves do not move Kira's existing acquisition/development timing. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18.

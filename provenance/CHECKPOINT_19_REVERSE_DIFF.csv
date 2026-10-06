@@ -1,0 +1,32 @@
+id,decision,before_status,after_status,resolution,evidence
+CP19-01,39-day continuation,MISSING,PRESENT,Exact O2D4–O7D7 CSV/JSON; 98 consecutive combined days,world-clock/ARC3_ORANGE_CALENDAR.csv
+CP19-02,Entry state,PARTIAL,PRESENT,CSR held by O2D3; PC Blue/Absorption Red/White Legacy already held,live-model/26_CHECKPOINT_19_ARC_THREE.md
+CP19-03,Immediate Green topology,MISSING,PRESENT,No Yellow warm-up; Green juggernauts and mobility without mass-clear,live-model/COMBAT_ECOLOGY.md
+CP19-04,Nine Duo clears,MISSING,PRESENT,W13/14/14/15/15/16/16/17/17,world-clock/ARC3_ORANGE_CALENDAR.csv
+CP19-05,Orange Dungeons,MISSING,PRESENT,Seven clears over five dates,world-clock/ARC3_ECONOMY_AUDIT.json
+CP19-06,Yellow Dungeons,OPEN,PRESENT,Two FAILs; zero completions and zero deterministic credit,world-clock/ARC3_ORANGE_CALENDAR.csv
+CP19-07,No Red Dungeons,MISSING,PRESENT,No Red Dungeon runs in this arc,world-clock/ARC3_ECONOMY_AUDIT.json
+CP19-08,Normal Raid,MISSING,PRESENT,O4D2 Red+Orange; paid Red distinct from O1D6 under unchanged per-boss rule,world-clock/ARC3_ORANGE_CALENDAR.md
+CP19-09,Hard Raid,MISSING,PRESENT,O6D5 Red clear/Orange attrition fail; no replacement,world-clock/ARC3_ORANGE_CALENDAR.csv
+CP19-10,Independent Solo topology,PARTIAL,PRESENT,Six Kira Green Solo runs; no illi Solo,live-model/PARTNERSHIP_AND_CARRY.md
+CP19-11,Successful domai block,MISSING,PRESENT,O7D3–D4 active/exit; O7D5 full recovery; no invented award,world-clock/ARC3_ORANGE_CALENDAR.md
+CP19-12,Red tournament,OPEN,PRESENT,R5D4 participation/eliminated with NO REQUIRED COMBAT preserved,world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json
+CP19-13,Orange personal tournament,OPEN,PRESENT,O5D1 qualification; O5D6 elimination/eliminated,live-model/RAEON.md
+CP19-14,Championship/recovery,PARTIAL,PRESENT,"O7D5 optional viewing, no combat or personal bracket; standing tracks preserved",world-clock/WORLD_CLOCK.md
+CP19-15,Genesis Orbs acquisition price,OPEN,PRESENT,Exactly 61017 character-specific Black acquisition,economy/KIRA_BLACK_ACQUISITION_PRICES.json
+CP19-16,Post-Armor tier,OPEN,PRESENT,CSR/Orbs/Halo/Domain each 61017; Armor anomaly unchanged; ordinary pricing separate,economy/KIRA_BLACK_ACQUISITION_PRICES.json
+CP19-17,Gross deterministic income,MISSING,PRESENT,"illi 58885 / Kira 83915, of which Solo 25030",world-clock/ARC3_ECONOMY_AUDIT.json
+CP19-18,Kira reserve/headroom,OPEN,PRESENT,"61017 reserve; 22898 headroom, not ending balance; CSR not recharged",world-clock/ARC3_ORANGE_CALENDAR.md
+CP19-19,illi Beam reserve/date,PRESENT,PRESENT,6050 at Y1D2; no auto-purchase; all 17 costs/dates preserved,live-model/ILLI_PROGRESSION.md
+CP19-20,Arc Three spending doctrine,PARTIAL,PRESENT,New-cycle raeon cards/decks and Genesis Cards dominate; not forced savings,live-model/ECONOMY_PURCHASE_SCHEDULE.md
+CP19-21,Fireball collecting,MISSING,PRESENT,Kira particularly collects Fireball Genesis Cards,live-model/GENESIS_CARDS.md
+CP19-22,Auction scope,PARTIAL,PRESENT,No meaningful Arc Three Auction purchases or invented luxury sinks; world Auctions unchanged,live-model/PARTNERSHIP_AND_CARRY.md
+CP19-23,Slice-of-life protection,PARTIAL,PRESENT,"Ten OPEN rows; royal/family, celebrity, relationships, card shop, restaurants, Highlights, recovery/city",world-clock/ARC3_ORANGE_CALENDAR.md
+CP19-24,Checkpoint 18 preservation,PRESENT,PRESENT,Grant/classes/rewards/domai rules/inheritance/sandbox retained,provenance/CHECKPOINT_19_AUDIT.json
+CP19-25,Narrative progression,PRESENT,PRESENT,"Marathon, affordability separate from acquisition/mastery; future Orbs distributed-offense direction",live-model/26_CHECKPOINT_19_ARC_THREE.md
+CP19-26,Package draft Orbs price,WORKING-ILLUSTRATIVE,SUPERSEDED,Final author lock supersedes OPEN/~50k–60k planning text; sources archived exact,provenance/CHECKPOINT_19_CONFLICTS.md
+CP19-27,domai formula and award,OPEN,OPEN,Contextual payout/scoring/core-break/deaths/exact conquest timing unassigned; not halved,live-model/OPEN.md
+CP19-28,Card inventory and balances,OPEN,OPEN,Exact card prices/purchases/totals and actual closing balances unassigned,live-model/OPEN.md
+CP19-29,Unsupplied timestamps,OPEN,OPEN,Exact Kira purchase dates and intraday run/recovery timing not invented,live-model/OPEN.md
+CP19-30,Raid identities,OPEN,OPEN,Unpaid distinct Red eligibility constraint; exact boss identities unassigned,world-clock/ARC3_ORANGE_CALENDAR.md
+CP19-31,Unrelated canon gaps,OPEN,OPEN,W36+/final standings/later illi/planetary calendar/Node/institutions/encounter and partial-progress gaps preserved,live-model/OPEN.md

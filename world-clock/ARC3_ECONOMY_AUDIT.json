@@ -1,0 +1,350 @@
+{
+  "checkpoint": 19,
+  "result": "PASS",
+  "errors": [],
+  "baseline_commit": "4982fd6ff43faaf1bf0e5fdd289d0831951e1ef4",
+  "calendar_rows": 39,
+  "combined_consecutive_days": 98,
+  "csv_json_source_bytes": "PASS",
+  "event_rows_by_kind": {
+    "Duo Trial": 9,
+    "Kira Solo": 6,
+    "Dungeon": 7,
+    "OPEN": 10,
+    "Raid": 1,
+    "Tournament": 2,
+    "Hard Raid": 1,
+    "domai": 2,
+    "Recovery / Tournament": 1
+  },
+  "duo_waves": [
+    13,
+    14,
+    14,
+    15,
+    15,
+    16,
+    16,
+    17,
+    17
+  ],
+  "kira_solo_waves": [
+    13,
+    14,
+    14,
+    15,
+    15,
+    16
+  ],
+  "orange_dungeon_clears": 7,
+  "yellow_attempts": 2,
+  "yellow_completions": 0,
+  "red_dungeons": 0,
+  "income_by_kind": {
+    "Duo Trial": {
+      "illi": 41745,
+      "kira": 41745
+    },
+    "Kira Solo": {
+      "illi": 0,
+      "kira": 25030
+    },
+    "Dungeon": {
+      "illi": 7140,
+      "kira": 7140
+    },
+    "OPEN": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Raid": {
+      "illi": 6250,
+      "kira": 6250
+    },
+    "Tournament": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Hard Raid": {
+      "illi": 3750,
+      "kira": 3750
+    },
+    "domai": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Recovery / Tournament": {
+      "illi": 0,
+      "kira": 0
+    }
+  },
+  "deterministic_gross": {
+    "illi": 58885,
+    "kira": 83915
+  },
+  "kira_solo_income": 25030,
+  "kira_orbs_reserve": 61017,
+  "kira_deterministic_headroom": 22898,
+  "illi_beam_reserve": 6050,
+  "illi_beam_date": "Yellow W1 D2",
+  "illi_arc_income_minus_reserve": 52835,
+  "gross_is_not_ending_balance": true,
+  "domai_payout": "OPEN; excluded, not canonically zero",
+  "protected_open_days": 10,
+  "tournament_dates": [
+    "R5D4 participation/eliminated",
+    "O5D1 qualification",
+    "O5D6 eliminated",
+    "O7D5 recovery/optional viewing"
+  ],
+  "scheduling_scope": "Day-level conflicts checked; intraday timings/qualitative durations remain OPEN",
+  "raid_eligibility_constraint": "O4D2 Normal Red must be distinct from paid O1D6 boss; exact identities OPEN",
+  "weekly_character_rows_updated": 7,
+  "standing_social_tracks_preserved": true,
+  "all_17_illi_dates_and_costs_preserved": true,
+  "daily_cumulative_gross": [
+    {
+      "week": 2,
+      "day": 4,
+      "cumulative_illi_gross": 3305,
+      "cumulative_kira_gross": 3305
+    },
+    {
+      "week": 2,
+      "day": 5,
+      "cumulative_illi_gross": 3305,
+      "cumulative_kira_gross": 6610
+    },
+    {
+      "week": 2,
+      "day": 6,
+      "cumulative_illi_gross": 5345,
+      "cumulative_kira_gross": 8650
+    },
+    {
+      "week": 2,
+      "day": 7,
+      "cumulative_illi_gross": 5345,
+      "cumulative_kira_gross": 8650
+    },
+    {
+      "week": 3,
+      "day": 1,
+      "cumulative_illi_gross": 9200,
+      "cumulative_kira_gross": 12505
+    },
+    {
+      "week": 3,
+      "day": 2,
+      "cumulative_illi_gross": 9200,
+      "cumulative_kira_gross": 12505
+    },
+    {
+      "week": 3,
+      "day": 3,
+      "cumulative_illi_gross": 9200,
+      "cumulative_kira_gross": 12505
+    },
+    {
+      "week": 3,
+      "day": 4,
+      "cumulative_illi_gross": 9200,
+      "cumulative_kira_gross": 16360
+    },
+    {
+      "week": 3,
+      "day": 5,
+      "cumulative_illi_gross": 10220,
+      "cumulative_kira_gross": 17380
+    },
+    {
+      "week": 3,
+      "day": 6,
+      "cumulative_illi_gross": 10220,
+      "cumulative_kira_gross": 17380
+    },
+    {
+      "week": 3,
+      "day": 7,
+      "cumulative_illi_gross": 14075,
+      "cumulative_kira_gross": 21235
+    },
+    {
+      "week": 4,
+      "day": 1,
+      "cumulative_illi_gross": 14075,
+      "cumulative_kira_gross": 25090
+    },
+    {
+      "week": 4,
+      "day": 2,
+      "cumulative_illi_gross": 20325,
+      "cumulative_kira_gross": 31340
+    },
+    {
+      "week": 4,
+      "day": 3,
+      "cumulative_illi_gross": 20325,
+      "cumulative_kira_gross": 31340
+    },
+    {
+      "week": 4,
+      "day": 4,
+      "cumulative_illi_gross": 24780,
+      "cumulative_kira_gross": 35795
+    },
+    {
+      "week": 4,
+      "day": 5,
+      "cumulative_illi_gross": 24780,
+      "cumulative_kira_gross": 35795
+    },
+    {
+      "week": 4,
+      "day": 6,
+      "cumulative_illi_gross": 26820,
+      "cumulative_kira_gross": 37835
+    },
+    {
+      "week": 4,
+      "day": 7,
+      "cumulative_illi_gross": 26820,
+      "cumulative_kira_gross": 37835
+    },
+    {
+      "week": 5,
+      "day": 1,
+      "cumulative_illi_gross": 26820,
+      "cumulative_kira_gross": 37835
+    },
+    {
+      "week": 5,
+      "day": 2,
+      "cumulative_illi_gross": 31275,
+      "cumulative_kira_gross": 42290
+    },
+    {
+      "week": 5,
+      "day": 3,
+      "cumulative_illi_gross": 31275,
+      "cumulative_kira_gross": 46745
+    },
+    {
+      "week": 5,
+      "day": 4,
+      "cumulative_illi_gross": 31275,
+      "cumulative_kira_gross": 46745
+    },
+    {
+      "week": 5,
+      "day": 5,
+      "cumulative_illi_gross": 31275,
+      "cumulative_kira_gross": 46745
+    },
+    {
+      "week": 5,
+      "day": 6,
+      "cumulative_illi_gross": 31275,
+      "cumulative_kira_gross": 46745
+    },
+    {
+      "week": 5,
+      "day": 7,
+      "cumulative_illi_gross": 31275,
+      "cumulative_kira_gross": 46745
+    },
+    {
+      "week": 6,
+      "day": 1,
+      "cumulative_illi_gross": 36380,
+      "cumulative_kira_gross": 51850
+    },
+    {
+      "week": 6,
+      "day": 2,
+      "cumulative_illi_gross": 36380,
+      "cumulative_kira_gross": 51850
+    },
+    {
+      "week": 6,
+      "day": 3,
+      "cumulative_illi_gross": 37400,
+      "cumulative_kira_gross": 52870
+    },
+    {
+      "week": 6,
+      "day": 4,
+      "cumulative_illi_gross": 37400,
+      "cumulative_kira_gross": 57325
+    },
+    {
+      "week": 6,
+      "day": 5,
+      "cumulative_illi_gross": 41150,
+      "cumulative_kira_gross": 61075
+    },
+    {
+      "week": 6,
+      "day": 6,
+      "cumulative_illi_gross": 41150,
+      "cumulative_kira_gross": 61075
+    },
+    {
+      "week": 6,
+      "day": 7,
+      "cumulative_illi_gross": 46255,
+      "cumulative_kira_gross": 66180
+    },
+    {
+      "week": 7,
+      "day": 1,
+      "cumulative_illi_gross": 52060,
+      "cumulative_kira_gross": 71985
+    },
+    {
+      "week": 7,
+      "day": 2,
+      "cumulative_illi_gross": 52060,
+      "cumulative_kira_gross": 77090
+    },
+    {
+      "week": 7,
+      "day": 3,
+      "cumulative_illi_gross": 52060,
+      "cumulative_kira_gross": 77090
+    },
+    {
+      "week": 7,
+      "day": 4,
+      "cumulative_illi_gross": 52060,
+      "cumulative_kira_gross": 77090
+    },
+    {
+      "week": 7,
+      "day": 5,
+      "cumulative_illi_gross": 52060,
+      "cumulative_kira_gross": 77090
+    },
+    {
+      "week": 7,
+      "day": 6,
+      "cumulative_illi_gross": 57865,
+      "cumulative_kira_gross": 82895
+    },
+    {
+      "week": 7,
+      "day": 7,
+      "cumulative_illi_gross": 58885,
+      "cumulative_kira_gross": 83915
+    }
+  ],
+  "sha256": {
+    "world-clock/ARC3_ORANGE_CALENDAR.csv": "a987a98cec44b4b1c05af7381536de28ba345aada0c323ab315e8c35a137cdfc",
+    "world-clock/ARC3_ORANGE_CALENDAR.json": "38d17224a0e4a4400c72c446f79a9cf7b3d86e9ad926a342925830d24d242b5f",
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv": "95750b0b3c1c5f6f566b9ae102a6379dda79014c6ed4de266f0150ce52853b42",
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json": "1d1ba6c8cdd7c1b7d145e264a4254fdde3242319c17c5a895e12c33dc6d2b85a",
+    "world-clock/WORLD_CLOCK_TEMPLATE.csv": "308aa8ad41a43ba3806343031164da5ec03a4cb49961dc6879b0408001e4db93",
+    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "70dee81c0cadff7d0be046133d0ebfd44596c7674703e956f37ab871cc8dd40d",
+    "world-clock/validate_arc3.py": "728b0a567fdfa623382b5fa8c8c169b7faa63cd26ffc3116069feea9e148f6b2"
+  }
+}

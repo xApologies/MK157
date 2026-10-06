@@ -36,3 +36,7 @@ Green Solo grants early first-cycle sandbox graduation and veteran grouping acce
 Kira/illi gain a reputation for unusually persistent combat/death exposure and aggressive grinding. Valnak remains a marathon. Optimize narrative variety and plausible progression, not credits/hour. Dungeons build groups and future Raid/domai contacts; failure/recovery can consume time without income. Resurrection removes permanent death in Valnak, not pain, fear or psychological cost. Runs are clock facts, not chapter mandates. Project Princess Carry and independent lives remain.
 
 [Calendar audit](CALENDAR_AUDIT.json), [recomputed ledger](ILLI_AUTHOR_PROGRESSION_LEDGER.csv) and [Checkpoint 18](../live-model/25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) document validation and authority.
+
+## Checkpoint 19 continuation and cultural appointment
+
+R5D4 now explicitly records Kira + illi raeon participation/elimination in character/notes fields. NO REQUIRED COMBAT, combat duration, money and all 59 coordinates remain unchanged. The exact [Arc Three Orange continuation](ARC3_ORANGE_CALENDAR.md) starts O2D4 and ends O7D7; it does not retroactively add income to this ledger. Its O4D2 paid Red Raid must use a distinct previously unpaid boss from O1D6 under the existing two-Red first-cycle roster.

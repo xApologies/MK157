@@ -1,0 +1,18 @@
+{
+  "package": "MK157_ARC3_CODEX_PUSH",
+  "purpose": "Final Arc Three Orange calendar + Kira Black price + tournament synchronization",
+  "locked_kira_orbs_price": 61017,
+  "arc3_illi_deterministic_income": 58885,
+  "arc3_kira_deterministic_income": 83915,
+  "kira_pre_domai_discretionary_headroom": 22898,
+  "domai_payout": "OPEN",
+  "files": [
+    "ARC3_ECONOMY_AUDIT.json",
+    "ARC3_FINAL_AUTHOR_LOCKS.md",
+    "ARC3_LIVE_MODEL_DELTA.md",
+    "ARC3_ORANGE_CALENDAR.csv",
+    "ARC3_ORANGE_CALENDAR.json",
+    "EXECUTABLE.md",
+    "README.md"
+  ]
+}

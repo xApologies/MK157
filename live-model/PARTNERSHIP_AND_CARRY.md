@@ -47,3 +47,7 @@ Red→Violet uses broad Valnak content: Trials + Dungeons + Hard Dungeons + Raid
 White may become intentionally Trial-centric under Project Princess Carry.
 
 Checkpoint 18 preserves these partnership/carry rules. During Red Season, Kira/illi are unusually persistent grinders with repeated combat/death exposure, while illi makes rare weak Solo experiments. The new [combat scaffold](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) protects social/recovery negative space and optional failed Yellow Dungeon attempts without mandatory income. Working Solo/Duo Yellow W8–10 and inefficient mid-Orange Trio ceilings are calibration, not final standings. Valnak resurrection removes permanent death, not pain/fear/psychological cost.
+
+## Checkpoint 19 — Arc Three scope
+
+The [Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) gives Kira six independent Solo runs while illi does not meaningfully Solo. Ten OPEN days protect their relationships, royal/family and city lives. In this arc, discretionary spending emphasizes new-cycle raeon cards/decks and Genesis Cards (Kira particularly Fireball), with no meaningful Auction purchases assigned. Exact spending remains OPEN. illi deliberately retains 6,050 for Y1D2 Beam; affordability does not force earlier acquisition. Kira reserves 61,017 for Orbs. These arc-specific choices preserve the broader later economy and Project Princess Carry.

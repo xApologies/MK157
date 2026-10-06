@@ -30,7 +30,7 @@ Starter grant is **2,000 credits**. Full-price Foundational PC R→Blue costs **
 
 The [17-event ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) retains all dates and now totals **250,884** progression expenditure. This is not total income or bank balance. The [early combat calendar](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) supplies a separate progression balance scaffold.
 
-Kira's Black acquisition gates remain separate: Armor is the approximately 1,000-credit anomaly; CSR/Genesis Orbs/Halo/Domain final prices remain OPEN. The starter grant does not reprice Armor. Ordinary registry prices do not determine her Black gates.
+Kira's Black acquisition gates remain separate: Armor is the approximately 1,000-credit anomaly; Checkpoint 19 locks CSR/Genesis Orbs/Halo/Domain at 61,017 credits each in their character-specific post-Armor acquisition tier ([price record](../economy/KIRA_BLACK_ACQUISITION_PRICES.json)). The starter grant does not reprice Armor. Ordinary registry prices do not determine her Black gates.
 
 ## Mirrors and validation
 

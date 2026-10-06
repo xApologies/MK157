@@ -468,8 +468,8 @@
     "season": "Red",
     "week": 5,
     "day": 4,
-    "kira_combat": "OPEN / recovery-social",
-    "illi_combat": "OPEN / recovery-social",
+    "kira_combat": "No combat; raeon tournament participation / eliminated",
+    "illi_combat": "No combat; raeon tournament participation / eliminated",
     "combat_event": "NO REQUIRED COMBAT",
     "result": "",
     "illi_credits_earned": 0,
@@ -477,7 +477,7 @@
     "purchase_cost": 0,
     "illi_running_balance": 9609,
     "duration_block": "",
-    "author_notes": "Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+    "author_notes": "Checkpoint 19: Kira + illi participate in the Red-season raeon tournament and are eliminated. No required combat; other time remains recovery/social space."
   },
   {
     "season": "Red",

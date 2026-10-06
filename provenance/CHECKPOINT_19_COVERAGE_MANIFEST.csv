@@ -1,0 +1,17 @@
+step,status,requirement,evidence
+1,PASS,Read all eight package files; final locks govern earlier draft text,provenance/checkpoint-19-package/FINAL_MANIFEST.json
+2,PASS,Exact 39 CSV/JSON rows and combined 98-day coverage,world-clock/ARC3_ECONOMY_AUDIT.json
+3,PASS,All combat event counts/outcomes and immediate Green topology,world-clock/ARC3_ECONOMY_AUDIT.json
+4,PASS,R5D4/O5D1/O5D6/O7D5 synchronized; standing tracks retained,world-clock/ARC3_ECONOMY_AUDIT.json
+5,PASS,Genesis Orbs 61017,economy/KIRA_BLACK_ACQUISITION_PRICES.json
+6,PASS,Four post-Armor tier locks; Armor not repriced,economy/KIRA_BLACK_ACQUISITION_PRICES.json
+7,PASS,58885/83915 gross and 22898 Kira headroom,world-clock/ARC3_ECONOMY_AUDIT.json
+8,PASS,6050 Beam at Y1D2; milestone ledger unchanged,live-model/ILLI_PROGRESSION.md
+9,PASS,Card-focused spending/Fireball collecting; no meaningful Auction purchases,live-model/GENESIS_CARDS.md
+10,PASS,Ten OPEN days exact and protected,world-clock/ARC3_ORANGE_CALENDAR.md
+11,PASS,CP18 prices/rewards/structures/ontology preserved,provenance/CHECKPOINT_19_AUDIT.json
+12,PASS,domai award/formula OPEN and excluded from deterministic totals,live-model/OPEN.md
+13,PASS,Current domains/navigation/checkpoint/provenance updated,live-model/26_CHECKPOINT_19_ARC_THREE.md
+14,PASS,Independent row/event/reward/reserve/day-level schedule/preservation audits,provenance/CHECKPOINT_19_AUDIT.json
+15,POST_COMMIT_VERIFICATION,Commit/push followed by fetch and SHA equality verification,EXECUTION_REPORT
+16,EXECUTION_REPORT,Final report after remote verification,EXECUTION_REPORT
