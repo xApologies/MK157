@@ -1,0 +1,70 @@
+[
+  {
+    "path": "README.md",
+    "git_blob_sha": "141047cb3ded39b671299444f6d22aba7abc37ec",
+    "commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+    "requested_ranges": [
+      [
+        1,
+        80
+      ]
+    ],
+    "scope": "presentation truncated near end; navigation findings only",
+    "url": "https://github.com/xApologies/MK157/blob/3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31/README.md"
+  },
+  {
+    "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+    "git_blob_sha": "40e1c2593d20e0a32a1ec2a0b82db354c597209d",
+    "commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+    "requested_ranges": [
+      [
+        1,
+        80
+      ]
+    ],
+    "scope": "selected range",
+    "url": "https://github.com/xApologies/MK157/blob/3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31/THREAD_DEVELOPMENT_CONSTITUTION.md"
+  },
+  {
+    "path": "live-model/INDEX.md",
+    "git_blob_sha": "c7445fceab61f7c329b973928b190ee1f1912b39",
+    "commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+    "requested_ranges": [
+      [
+        70,
+        100
+      ]
+    ],
+    "scope": "selected range; current W36+ OPEN label observed",
+    "url": "https://github.com/xApologies/MK157/blob/3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31/live-model/INDEX.md"
+  },
+  {
+    "path": "live-model/SOURCE_BOUNDARIES.md",
+    "git_blob_sha": "f5db774ad27566e43e6b7b2fb7e8ed9fcc21eaab",
+    "commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+    "requested_ranges": null,
+    "scope": "full returned text",
+    "url": "https://github.com/xApologies/MK157/blob/3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31/live-model/SOURCE_BOUNDARIES.md"
+  },
+  {
+    "path": "world-clock/validate_arc7.py",
+    "git_blob_sha": "ca03f83bc64e4947b43609204d3f1619d74f409a",
+    "commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+    "requested_ranges": [
+      [
+        1,
+        100
+      ],
+      [
+        120,
+        140
+      ],
+      [
+        135,
+        240
+      ]
+    ],
+    "scope": "selected ranges; not executed",
+    "url": "https://github.com/xApologies/MK157/blob/3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31/world-clock/validate_arc7.py"
+  }
+]

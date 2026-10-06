@@ -1,0 +1,80 @@
+{
+  "package": "MK157_AUTHORING_CLEANUP_R1",
+  "prepared_date": "2026-10-06",
+  "package_file_count_including_manifest_and_audit": 24,
+  "instruction_entrypoint": "EXECUTABLE.md",
+  "observed_repository_commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "preparation_checks": {
+    "python_syntax": {
+      "result": "PASS",
+      "files": [
+        "scripts/cleanup_guard.py",
+        "scripts/verify_package.py",
+        "tests/test_cleanup_guard.py"
+      ]
+    },
+    "json_parse": {
+      "result": "PASS",
+      "files": [
+        "evidence/BASELINE.json",
+        "evidence/CRITICAL_INVARIANTS.json",
+        "evidence/REVIEWED_SOURCES.json",
+        "evidence/ROOT_TREE.json",
+        "schemas/authority_map.schema.json",
+        "schemas/coverage.schema.json"
+      ]
+    },
+    "json_schema_meta_validation": {
+      "result": "PASS",
+      "draft": "2020-12",
+      "schemas": 2
+    },
+    "fixture_unit_tests": {
+      "result": "PASS",
+      "tests": 19,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0,
+      "evidence": "evidence/HELPER_TEST_RESULTS.txt"
+    },
+    "required_entrypoint_and_instruction_files": {
+      "result": "PASS",
+      "files": [
+        "EXECUTABLE.md",
+        "README.md",
+        "docs/01_RECRAWL_REPORT.md",
+        "docs/02_NORMALIZATION_SPEC.md",
+        "docs/03_AUTHORITY_AND_CANON_GUARDS.md",
+        "docs/04_VALIDATION_AND_GIT_WORKFLOW.md",
+        "docs/05_ACCEPTANCE_CHECKLIST.md",
+        "docs/06_SOURCE_ROUTE_MAP.md",
+        "docs/07_RECOVERY_AND_ROLLBACK.md",
+        "scripts/cleanup_guard.py",
+        "scripts/verify_package.py",
+        "tests/test_cleanup_guard.py"
+      ]
+    },
+    "root_evidence_count": {
+      "result": "PASS",
+      "root_files": 4,
+      "root_directories": 11
+    },
+    "selected_invariant_spec": {
+      "result": "PARSED",
+      "assertions": 33,
+      "actual_repository_execution": "NOT RUN"
+    }
+  },
+  "boundaries": {
+    "actual_MK157_validators_run": false,
+    "actual_MK157_working_tree_modified": false,
+    "github_commit_created": false,
+    "github_push_performed": false,
+    "complete_recursive_file_census_claimed": false,
+    "complete_duplicate_census_claimed": false,
+    "semantic_equivalence_proved": false,
+    "local_clone_limitation": "Container could not resolve github.com; connector reads succeeded.",
+    "required_Codex_checks": "Full local recrawl, baseline and candidate validators, preservation, source coverage, links, schema and semantic review."
+  },
+  "manifest_rule": "SHA-256 and byte count of every package file except PACKAGE_MANIFEST.json itself. Verify with scripts/verify_package.py."
+}

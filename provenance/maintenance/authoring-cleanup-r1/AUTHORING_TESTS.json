@@ -1,0 +1,16 @@
+{
+  "command": [
+    "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-X",
+    "utf8",
+    "-m",
+    "unittest",
+    "discover",
+    "-s",
+    "tools/validation",
+    "-v"
+  ],
+  "returncode": 0,
+  "stdout": "",
+  "stderr": "test_balanced_destination_and_nested_label (test_authoring.AuthoringFixtures.test_balanced_destination_and_nested_label) ... ok\ntest_code_fences_comments_and_inline_code (test_authoring.AuthoringFixtures.test_code_fences_comments_and_inline_code) ... ok\ntest_coverage_folds_wrapped_prose_but_keeps_items (test_authoring.AuthoringFixtures.test_coverage_folds_wrapped_prose_but_keeps_items) ... ok\ntest_duplicate_and_unicode_anchors (test_authoring.AuthoringFixtures.test_duplicate_and_unicode_anchors) ... ok\ntest_mixed_open_enumeration (test_authoring.AuthoringFixtures.test_mixed_open_enumeration) ... ok\ntest_reference_forms_and_missing_definition (test_authoring.AuthoringFixtures.test_reference_forms_and_missing_definition) ... ok\ntest_schema_rejects_missing_invalid_and_unsupported (test_authoring.AuthoringFixtures.test_schema_rejects_missing_invalid_and_unsupported) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.001s\n\nOK\n"
+}

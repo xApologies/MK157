@@ -1,0 +1,25 @@
+{
+  "package": "MK157_AUTHORING_CLEANUP_R1",
+  "prepared_date_local": "2026-10-06",
+  "timezone": "America/Chicago",
+  "repository": "xApologies/MK157",
+  "branch": "main",
+  "observed_commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "observed_tree": "d2e80f13b3ea6a3e7a41754acb7897c9b479f29d",
+  "observed_commit_timestamp": "2026-10-06T21:48:57Z",
+  "checkpoint": "25 correction > compatible 25 master > 24 > earlier cumulative",
+  "purpose": "source-accounted authoring navigation; no new canon",
+  "authority_scope": "observed baseline, never a rollback target",
+  "remote_mutations_performed": false,
+  "source_review": "targeted connector recrawl; selected files/ranges; complete root listing",
+  "recursive_tree_presentation_truncated": true,
+  "local_clone_available": false,
+  "actual_repository_validators_run": false,
+  "permitted_existing_navigation_edits": [
+    "README.md",
+    "live-model/INDEX.md"
+  ],
+  "protected_existing_files": "all other tracked files, byte- and mode-preserved",
+  "physical_moves_authorized": false,
+  "upstream_writes_authorized": false
+}

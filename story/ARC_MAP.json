@@ -1,0 +1,209 @@
+{
+  "source_commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "maintenance_revision": "authoring-cleanup-r1",
+  "macro_closure": "AUTHORIALLY_CLOSED_ARCS_1_TO_7",
+  "new_chapters_created": 0,
+  "arcs": [
+    {
+      "id": "ARC_01",
+      "path": "story/ARC_01/ARC.md",
+      "title": "Arrival and foundational choice",
+      "macro_status": "AUTHORIALLY_CLOSED",
+      "entry": "Kira,22, genuinely Afflicted, an exceptional manual mail craftsperson expecting Creation; no combat career or Binding. illi begins her own first cycle.",
+      "exit": "illi Persistent Coherence Red / Kira Armor of the Abyss.",
+      "calendar_scope": "Initialization boundary; PC Red is R1D1. Exact early scene placement must respect the later R1D1 NO REQUIRED COMBAT scaffold.",
+      "chapter_state": "NOT_CREATED",
+      "chapter_count": null,
+      "owners": [
+        {
+          "path": "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md",
+          "section": "1. Arc architecture — LOCK"
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+          "section": "Kira First Combat Trial"
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "section": "Economy and purchase gates"
+        }
+      ],
+      "local_open": "Exact early scene-to-day and scene-to-arc allocation where old opening prose conflicts with CP18 is RECOVERY_GAP. Do not invent chapter boundaries, first meeting dialogue, minor names, combat dates or transformation microanatomy. Macro closure remains intact.",
+      "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
+    },
+    {
+      "id": "ARC_02",
+      "path": "story/ARC_02/ARC.md",
+      "title": "Early partnership and White Legacy",
+      "macro_status": "AUTHORIALLY_CLOSED",
+      "entry": "Armor and PC Red; the opening narrative reservoir remains subject to CP18 timing.",
+      "exit": "PC Blue and accepted White Legacy O1D4, Absorption Shield Red O2D3; Kira holds CSR by O2D3.",
+      "calendar_scope": "Early Red progression through O2D3; exact CSR purchase day and displaced opening-scene timing OPEN.",
+      "chapter_state": "NOT_CREATED",
+      "chapter_count": null,
+      "owners": [
+        {
+          "path": "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md",
+          "section": "1. Arc architecture — LOCK"
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+          "section": "whole record / document"
+        }
+      ],
+      "local_open": "RECOVERY_GAP: exact displaced Day-One/Day-Two scene placement. Exact CSR purchase date, discretionary spending, early minor identities and unsupplied failed-run awards stay OPEN. No new required combat fills negative space.",
+      "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
+    },
+    {
+      "id": "ARC_03",
+      "path": "story/ARC_03/ARC.md",
+      "title": "Green Trials and a personal purchase",
+      "macro_status": "AUTHORIALLY_CLOSED",
+      "entry": "O2D4: Kira already has Armor/CSR; illi has PC Blue, White Legacy and Absorption Red.",
+      "exit": "Y1D2: illi Genesis Beam Red6,050 and Kira’s specific Blue Fireball Genesis Card86,000.",
+      "calendar_scope": "O2D4–Y1D2 narrative scope; the exact Orange combat segment contains39 rows throughO7D7.",
+      "chapter_state": "NOT_CREATED",
+      "chapter_count": null,
+      "owners": [
+        {
+          "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "world-clock/ARC4_HANDOFF.md",
+          "section": "Calendar and funding boundaries"
+        },
+        {
+          "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+          "section": "Narrative boundaries"
+        }
+      ],
+      "local_open": "Domai amount/conquest timing/death count, Raid identities, card inventory and full cashflow remain OPEN. Orange table stopsO7D7; do not mislabel that as the narrative endpoint or add an inventedY1D1 event.",
+      "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
+    },
+    {
+      "id": "ARC_04",
+      "path": "story/ARC_04/ARC.md",
+      "title": "Beam development and entry into peer life",
+      "macro_status": "AUTHORIALLY_CLOSED",
+      "entry": "Y1D3: Beam Red acquired; Armor/CSR, PC Blue and Absorption Red.",
+      "exit": "Y6D3: Genesis Prime Red; Kira acquired Orbs the previous dayY6D2.",
+      "calendar_scope": "Y1D3–Y6D3; current CP22 Yellow director calendar supersedes CP21’s historical36-row version.",
+      "chapter_state": "NOT_CREATED",
+      "chapter_count": null,
+      "owners": [
+        {
+          "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "world-clock/ARC4_HANDOFF.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "live-model/ELDRIS_REFERENCE.md",
+          "section": "Arc Four application"
+        }
+      ],
+      "local_open": "Exact intraday timing, failure depths, first-Yellow group identity, cashflow and social placements beyond supplied dates remain OPEN. CP21 historical totals andY5D5 Trial are not current law.",
+      "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
+    },
+    {
+      "id": "ARC_05",
+      "path": "story/ARC_05/ARC.md",
+      "title": "Social launch and one-Orb application",
+      "macro_status": "AUTHORIALLY_CLOSED",
+      "entry": "Y6D4: Armor/CSR/new Orbs; illi PC Blue/Absorption Red/Beam Green/Genesis Prime Red.",
+      "exit": "G6D2: Coherence Prime Red9,350; Kira W19 Solo/W20 fail, illi W10/W11 fail, Duo W18/W19 fail.",
+      "calendar_scope": "48 locked daysY6D4–G6D2; all combat/progression insertions closed.",
+      "chapter_state": "NOT_CREATED",
+      "chapter_count": null,
+      "owners": [
+        {
+          "path": "world-clock/ARC5_DIRECTOR_CALENDAR.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "world-clock/ARC5_HANDOFF.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "live-model/30_CHECKPOINT_23_ARC5_COMBAT_CALENDAR.md",
+          "section": "Arc status"
+        }
+      ],
+      "local_open": "W20/W11 failure depths, Orange-domai amount, failed-Dungeon partials, exact matches/group identities and discretionary transactions remain OPEN. No combat insertion remains undated; retained SCAFFOLD strings do not reopen dates.",
+      "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
+    },
+    {
+      "id": "ARC_06",
+      "path": "story/ARC_06/ARC.md",
+      "title": "Graduation and the three-Prime foundation",
+      "macro_status": "AUTHORIALLY_CLOSED",
+      "entry": "G6D3 after Coherence Prime Red; Kira is veteran-eligible, illi is not yet graduated.",
+      "exit": "B6D3 Resonance Prime Red completes illi’s foundational triad; next arc opensB6D4.",
+      "calendar_scope": "50 locked daysG6D3–B6D3.",
+      "chapter_state": "NOT_CREATED",
+      "chapter_count": null,
+      "owners": [
+        {
+          "path": "world-clock/ARC6_DIRECTOR_CALENDAR.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "world-clock/ARC6_HANDOFF.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+          "section": "whole record / document"
+        }
+      ],
+      "local_open": "Failure depths, Halo mastery, Raid runtime, failedBlue partial rewards, actual spending/bank balances, veteran group identities and Blue personal raeon results remain OPEN. CP25 later resolves application stability anchors without altering this calendar.",
+      "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
+    },
+    {
+      "id": "ARC_07",
+      "path": "story/ARC_07/ARC.md",
+      "title": "Integrated applications and Valnak departure",
+      "macro_status": "AUTHORIALLY_CLOSED",
+      "entry": "B6D4 with Halo and two Orbs manifested/migration underway; illi’s three-Prime foundation complete.",
+      "exit": "Valnak departure afterWhiteW7; intended Solo/Duo standings100/100, no bookedTrio; first White Legacy direction complete without exact rank dates.",
+      "calendar_scope": "RemainingBlue→Violet→White; exact dailyBlue/Violet rows remainOPEN beyond authored anchors.",
+      "chapter_state": "NOT_CREATED",
+      "chapter_count": null,
+      "owners": [
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "world-clock/ARC7_HANDOFF.json",
+          "section": "whole record / document"
+        },
+        {
+          "path": "provenance/CHECKPOINT_25_CONFLICTS.md",
+          "section": "whole record / document"
+        }
+      ],
+      "local_open": "ExactBlue/Violetdailytraining,Domain day,rank/supportpurchase dates,Raid dates/runtimes,Blue invitation attempts,Ringprice,vaenspecies/cardinventory/Auctionlots,finalbalances anddeparturedayremainOPEN. NoTrioornewthirdperson; no completeOrbmastery.",
+      "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
+    }
+  ]
+}

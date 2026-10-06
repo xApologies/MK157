@@ -1,0 +1,2906 @@
+{
+  "active": {
+    "files": 38,
+    "links": 1509,
+    "broken": []
+  },
+  "historical": {
+    "files": 259,
+    "links": 1023,
+    "broken": [
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_AUTHORITY.md",
+        "line": 3,
+        "target": "../07_PROVENANCE/increment-001/EXPLICIT_UPDATE_REQUEST.txt",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_AUTHORITY.md",
+        "line": 3,
+        "target": "CONSTITUTION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_AUTHORITY.md",
+        "line": 3,
+        "target": "V2_CANON_AUTHORITY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_AUTHORITY.md",
+        "line": 13,
+        "target": "../02_DOMAINS/VAELUM_AND_ACCORD.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_AUTHORITY.md",
+        "line": 13,
+        "target": "../02_DOMAINS/HOSTILE_ORGANIZATIONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_AUTHORITY.md",
+        "line": 23,
+        "target": "../07_PROVENANCE/increment-001/package/02_PROVENANCE/DECISION_LEDGER.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_AUTHORITY.md",
+        "line": 23,
+        "target": "../07_PROVENANCE/INCREMENT_001_OPEN_QUESTIONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_OPEN_QUESTIONS.md",
+        "line": 3,
+        "target": "V2_OPEN_QUESTIONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_OPEN_QUESTIONS.md",
+        "line": 3,
+        "target": "../02_DOMAINS/VAELUM_AND_ACCORD.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_OPEN_QUESTIONS.md",
+        "line": 3,
+        "target": "../02_DOMAINS/HOSTILE_ORGANIZATIONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_001_OPEN_QUESTIONS.md",
+        "line": 17,
+        "target": "increment-001/package/02_PROVENANCE/DECISION_LEDGER.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_002_AUTHORITY.md",
+        "line": 3,
+        "target": "../07_PROVENANCE/increment-002/package/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_002_AUTHORITY.md",
+        "line": 3,
+        "target": "../07_PROVENANCE/increment-002/package/CODEX_UPDATE_PROMPT.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_002_AUTHORITY.md",
+        "line": 3,
+        "target": "CONSTITUTION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_002_AUTHORITY.md",
+        "line": 3,
+        "target": "V2_CANON_AUTHORITY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_002_AUTHORITY.md",
+        "line": 29,
+        "target": "../07_PROVENANCE/INCREMENT_002_OPEN_QUESTIONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/INCREMENT_002_AUTHORITY.md",
+        "line": 29,
+        "target": "../07_PROVENANCE/increment-002/CONFLICT_AUDIT.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md",
+        "line": 3,
+        "target": "../07_PROVENANCE/increment-001/package/01_CANON/VAELUM_AND_ACCORD.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md",
+        "line": 3,
+        "target": "../07_PROVENANCE/increment-001/EXPLICIT_UPDATE_REQUEST.txt",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md",
+        "line": 3,
+        "target": "../00_GOVERNANCE/INCREMENT_001_AUTHORITY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md",
+        "line": 50,
+        "target": "../05_CULTURE/V2_CULTURE_CANON.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md",
+        "line": 50,
+        "target": "../02_WORLD/V2_WORLD_CANON.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md",
+        "line": 50,
+        "target": "../04_SYSTEMS/V2_SYSTEMS_CANON.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md",
+        "line": 50,
+        "target": "HOSTILE_ORGANIZATIONS.md#bandits",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md",
+        "line": 50,
+        "target": "../07_PROVENANCE/INCREMENT_001_OPEN_QUESTIONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 7,
+        "target": "bindings/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 8,
+        "target": "summons/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 9,
+        "target": "builder/paths/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 10,
+        "target": "visual-references/INDEX.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 11,
+        "target": "live-model/SUPERSESSIONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 11,
+        "target": "live-model/OPEN.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 12,
+        "target": "provenance/checkpoint-06-package/EXECUTABLE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 16,
+        "target": "live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 16,
+        "target": "live-model/01_KIRA.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 16,
+        "target": "live-model/04_COMBAT_WORLD.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 16,
+        "target": "live-model/COMBAT_THRESHOLDS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 16,
+        "target": "provenance/checkpoint-07-package/EXECUTABLE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 18,
+        "target": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 18,
+        "target": "live-model/14_CHECKPOINT_07B_FINAL_GAP_PATCH.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 18,
+        "target": "live-model/03_VALNEK_PATHS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 20,
+        "target": "live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 20,
+        "target": "live-model/PRIME_ELEMENTALS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "live-model/16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "live-model/CREATOR_CRAFTSMAN.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "live-model/RAEON.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "live-model/COMBAT_ECOLOGY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "live-model/PRISM.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "live-model/STORY_CLOCK_STATE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "world-clock/WORLD_CLOCK.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "visual-references/CITY_LOCATION_REGISTRY.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "live-model/SOURCE_BOUNDARIES.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "provenance/CHECKPOINT_09_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 22,
+        "target": "provenance/CHECKPOINT_09_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 24,
+        "target": "live-model/17_CHECKPOINT_10_TRIAL_CALENDAR_DELTA.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 24,
+        "target": "live-model/PLANETARY_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 24,
+        "target": "live-model/TRIAL_ARENA.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 24,
+        "target": "provenance/CHECKPOINT_10_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 24,
+        "target": "provenance/CHECKPOINT_10_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 26,
+        "target": "live-model/18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 26,
+        "target": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 26,
+        "target": "live-model/GENESIS_CARDS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 26,
+        "target": "world-clock/WORLD_CLOCK.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 26,
+        "target": "provenance/CHECKPOINT_11_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 26,
+        "target": "provenance/CHECKPOINT_11_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 28,
+        "target": "live-model/19_CHECKPOINT_12_COMPLETE_PRICING.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 28,
+        "target": "bindings/PRICING_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 28,
+        "target": "summons/PRICING_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 28,
+        "target": "provenance/CHECKPOINT_12_PRICING_DECISIONS.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 28,
+        "target": "provenance/CHECKPOINT_12_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 30,
+        "target": "live-model/20_CHECKPOINT_13_THREAD_DELTA.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 30,
+        "target": "provenance/CHECKPOINT_13_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 30,
+        "target": "provenance/CHECKPOINT_13_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 30,
+        "target": "provenance/CHECKPOINT_13_TERM_CHANGES.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 32,
+        "target": "live-model/21_CHECKPOINT_14_FULL_RECONCILIATION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 32,
+        "target": "trial-rewards/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 32,
+        "target": "live-model/ILLI_PROGRESSION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 32,
+        "target": "live-model/PARTNERSHIP_AND_CARRY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 32,
+        "target": "provenance/CHECKPOINT_14_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 32,
+        "target": "provenance/CHECKPOINT_14_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 34,
+        "target": "live-model/22_CHECKPOINT_15_ELDRIS_ATOMIC_GROUP_LIBRARY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 34,
+        "target": "builder/encounters/eldris/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 34,
+        "target": "provenance/CHECKPOINT_15_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 34,
+        "target": "provenance/CHECKPOINT_15_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 34,
+        "target": "provenance/CHECKPOINT_15_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 36,
+        "target": "live-model/23_CHECKPOINT_16_MASTER_LIVE_MODEL_UPDATE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 36,
+        "target": "live-model/NORMAL_DUNGEONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 36,
+        "target": "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 36,
+        "target": "provenance/CHECKPOINT_16_REVERSE_DIFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 36,
+        "target": "provenance/CHECKPOINT_16_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 36,
+        "target": "provenance/CHECKPOINT_16_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 38,
+        "target": "live-model/24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 38,
+        "target": "combat-rewards/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 38,
+        "target": "provenance/CHECKPOINT_17_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 38,
+        "target": "provenance/CHECKPOINT_17_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 38,
+        "target": "provenance/CHECKPOINT_17_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 38,
+        "target": "provenance/CHECKPOINT_17_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 40,
+        "target": "live-model/25_CHECKPOINT_18_MASTER_LIVE_MODEL.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 40,
+        "target": "bindings/PRICING_MODEL.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 40,
+        "target": "trial-rewards/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 40,
+        "target": "combat-rewards/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 40,
+        "target": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 40,
+        "target": "live-model/DOMAI_PARTICIPATION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 40,
+        "target": "live-model/AITHREN_VAELUM_ACCORD.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 40,
+        "target": "provenance/CHECKPOINT_18_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 40,
+        "target": "provenance/CHECKPOINT_18_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 40,
+        "target": "provenance/CHECKPOINT_18_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 42,
+        "target": "live-model/26_CHECKPOINT_19_ARC_THREE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 42,
+        "target": "world-clock/ARC3_ORANGE_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 42,
+        "target": "provenance/CHECKPOINT_19_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 42,
+        "target": "provenance/CHECKPOINT_19_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 42,
+        "target": "provenance/CHECKPOINT_19_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 42,
+        "target": "provenance/CHECKPOINT_19_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 44,
+        "target": "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 44,
+        "target": "world-clock/ARC4_HANDOFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 44,
+        "target": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 44,
+        "target": "provenance/CHECKPOINT_20_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 44,
+        "target": "provenance/CHECKPOINT_20_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 44,
+        "target": "provenance/CHECKPOINT_20_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 44,
+        "target": "provenance/CHECKPOINT_20_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 46,
+        "target": "live-model/28_CHECKPOINT_21_ARC4_YELLOW.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 46,
+        "target": "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 46,
+        "target": "live-model/ELDRIS_REFERENCE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 46,
+        "target": "provenance/CHECKPOINT_21_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 46,
+        "target": "provenance/CHECKPOINT_21_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 46,
+        "target": "provenance/CHECKPOINT_21_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 46,
+        "target": "provenance/CHECKPOINT_21_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 46,
+        "target": "provenance/CHECKPOINT_21_BOUNDARY_SEARCH.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "live-model/29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "world-clock/ARC5_HANDOFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "live-model/TRAINING_YARD.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "live-model/BLACK_SYSTEMS_MASTERY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "builder/COMMUNITY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "combat-rewards/DOMAI_GROUP_ECONOMY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "provenance/CHECKPOINT_22_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "provenance/CHECKPOINT_22_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "provenance/CHECKPOINT_22_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "provenance/CHECKPOINT_22_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 48,
+        "target": "provenance/CHECKPOINT_22_BOUNDARY_SEARCH.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 50,
+        "target": "live-model/30_CHECKPOINT_23_ARC5_COMBAT_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 50,
+        "target": "world-clock/ARC5_DIRECTOR_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 50,
+        "target": "provenance/CHECKPOINT_23_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 50,
+        "target": "provenance/CHECKPOINT_23_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 50,
+        "target": "provenance/CHECKPOINT_23_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 50,
+        "target": "provenance/CHECKPOINT_23_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 50,
+        "target": "provenance/CHECKPOINT_23_BOUNDARY_SEARCH.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 52,
+        "target": "live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 52,
+        "target": "world-clock/ARC6_DIRECTOR_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 52,
+        "target": "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 52,
+        "target": "world-clock/ARC6_ILLI_CREDIT_LEDGER.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 52,
+        "target": "provenance/CHECKPOINT_24_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 52,
+        "target": "provenance/CHECKPOINT_24_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 52,
+        "target": "provenance/CHECKPOINT_24_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 52,
+        "target": "provenance/CHECKPOINT_24_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 52,
+        "target": "provenance/CHECKPOINT_24_BOUNDARY_SEARCH.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 54,
+        "target": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 54,
+        "target": "world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 54,
+        "target": "live-model/DIMENSIONAL_RINGS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 54,
+        "target": "provenance/CHECKPOINT_25_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 54,
+        "target": "provenance/CHECKPOINT_25_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 54,
+        "target": "provenance/CHECKPOINT_25_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 54,
+        "target": "provenance/CHECKPOINT_25_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/README.md",
+        "line": 54,
+        "target": "provenance/CHECKPOINT_25_BOUNDARY_SEARCH.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 5,
+        "target": "00_GOVERNANCE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 6,
+        "target": "01_KIRA.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 7,
+        "target": "02_COSMOLOGY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 8,
+        "target": "03_VALNEK_PATHS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 9,
+        "target": "04_COMBAT_WORLD.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 10,
+        "target": "05_VISUAL_CANON.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 11,
+        "target": "06_OPEN_PROVENANCE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 12,
+        "target": "07_CHECKPOINT_02_ADDENDUM.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 13,
+        "target": "08_CHECKPOINT_03_ADDENDUM.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 14,
+        "target": "09_CHECKPOINT_04_ADDENDUM.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 15,
+        "target": "COMBAT_THRESHOLDS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 16,
+        "target": "OPEN.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 17,
+        "target": "SUPERSESSIONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 18,
+        "target": "../visual-references/INDEX.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 19,
+        "target": "../provenance/checkpoint-04-package/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 20,
+        "target": "../prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 22,
+        "target": "10_CHECKPOINT_05_ADDENDUM.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 23,
+        "target": "../bindings/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 24,
+        "target": "../summons/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 25,
+        "target": "../builder/paths/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 26,
+        "target": "../provenance/checkpoint-05-package/MANIFEST.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 27,
+        "target": "../provenance/CHECKPOINT_05_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 29,
+        "target": "11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 30,
+        "target": "../provenance/CHECKPOINT_06_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 32,
+        "target": "13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 33,
+        "target": "../provenance/CHECKPOINT_07_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 35,
+        "target": "../THREAD_DEVELOPMENT_CONSTITUTION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 36,
+        "target": "14_CHECKPOINT_07B_FINAL_GAP_PATCH.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 37,
+        "target": "../provenance/CHECKPOINT_07B_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 39,
+        "target": "15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 40,
+        "target": "PRIME_ELEMENTALS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 41,
+        "target": "../provenance/CHECKPOINT_08_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 43,
+        "target": "COMBAT_ECOLOGY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 45,
+        "target": "CREATOR_CRAFTSMAN.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 47,
+        "target": "PRISM.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 49,
+        "target": "RAEON.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 51,
+        "target": "SOURCE_BOUNDARIES.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 53,
+        "target": "STORY_CLOCK_STATE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 55,
+        "target": "VALNAK_CITY_CULTURE_TRANSPORT.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 57,
+        "target": "WORLD_CLOCK.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 59,
+        "target": "16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 60,
+        "target": "../world-clock/WORLD_CLOCK_TEMPLATE.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 61,
+        "target": "../world-clock/PRISM_TEAM_TRACKER.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 62,
+        "target": "../visual-references/CITY_LOCATION_REGISTRY.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 63,
+        "target": "../provenance/CHECKPOINT_09_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 63,
+        "target": "../provenance/CHECKPOINT_09_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 65,
+        "target": "17_CHECKPOINT_10_TRIAL_CALENDAR_DELTA.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 66,
+        "target": "PLANETARY_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 67,
+        "target": "TRIAL_ARENA.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 68,
+        "target": "../provenance/CHECKPOINT_10_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 68,
+        "target": "../provenance/CHECKPOINT_10_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 70,
+        "target": "18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 71,
+        "target": "ECONOMY_PURCHASE_SCHEDULE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 72,
+        "target": "GENESIS_CARDS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 73,
+        "target": "../provenance/CHECKPOINT_11_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 73,
+        "target": "../provenance/CHECKPOINT_11_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 75,
+        "target": "19_CHECKPOINT_12_COMPLETE_PRICING.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 76,
+        "target": "../bindings/BINDINGS.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 76,
+        "target": "../summons/SUMMON_PRICING.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 76,
+        "target": "../summons/PRIME_ELEMENTAL_PRICING.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 77,
+        "target": "../provenance/CHECKPOINT_12_PRICING_DECISIONS.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 77,
+        "target": "../provenance/CHECKPOINT_12_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 77,
+        "target": "../provenance/CHECKPOINT_12_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 79,
+        "target": "20_CHECKPOINT_13_THREAD_DELTA.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 79,
+        "target": "../provenance/CHECKPOINT_13_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 79,
+        "target": "../provenance/CHECKPOINT_13_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 79,
+        "target": "../provenance/CHECKPOINT_13_TERM_CHANGES.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 81,
+        "target": "21_CHECKPOINT_14_FULL_RECONCILIATION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 82,
+        "target": "../trial-rewards/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 83,
+        "target": "ILLI_PROGRESSION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 84,
+        "target": "PARTNERSHIP_AND_CARRY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 85,
+        "target": "../provenance/CHECKPOINT_14_BEFORE_REVIEW.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 85,
+        "target": "../provenance/CHECKPOINT_14_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 85,
+        "target": "../provenance/CHECKPOINT_14_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 87,
+        "target": "22_CHECKPOINT_15_ELDRIS_ATOMIC_GROUP_LIBRARY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 88,
+        "target": "../builder/encounters/eldris/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 89,
+        "target": "../provenance/CHECKPOINT_15_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 89,
+        "target": "../provenance/CHECKPOINT_15_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 89,
+        "target": "../provenance/CHECKPOINT_15_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 91,
+        "target": "23_CHECKPOINT_16_MASTER_LIVE_MODEL_UPDATE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 92,
+        "target": "NORMAL_DUNGEONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 92,
+        "target": "../builder/encounters/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 93,
+        "target": "../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 93,
+        "target": "../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 94,
+        "target": "../provenance/CHECKPOINT_16_REVERSE_DIFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 94,
+        "target": "../provenance/CHECKPOINT_16_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 94,
+        "target": "../provenance/CHECKPOINT_16_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 94,
+        "target": "../provenance/CHECKPOINT_16_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 96,
+        "target": "24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 97,
+        "target": "../combat-rewards/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 98,
+        "target": "../provenance/CHECKPOINT_17_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 98,
+        "target": "../provenance/CHECKPOINT_17_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 98,
+        "target": "../provenance/CHECKPOINT_17_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 98,
+        "target": "../provenance/CHECKPOINT_17_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 100,
+        "target": "25_CHECKPOINT_18_MASTER_LIVE_MODEL.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 101,
+        "target": "../bindings/PRICING_CLASS_MATRIX.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 101,
+        "target": "../combat-rewards/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 101,
+        "target": "../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 102,
+        "target": "DOMAI_PARTICIPATION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 102,
+        "target": "AITHREN_VAELUM_ACCORD.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 103,
+        "target": "../provenance/CHECKPOINT_18_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 103,
+        "target": "../provenance/CHECKPOINT_18_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 103,
+        "target": "../provenance/CHECKPOINT_18_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 103,
+        "target": "../provenance/CHECKPOINT_18_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 103,
+        "target": "../provenance/CHECKPOINT_18_MK147_REVIEW.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 105,
+        "target": "26_CHECKPOINT_19_ARC_THREE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 106,
+        "target": "../world-clock/ARC3_ORANGE_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 106,
+        "target": "../world-clock/ARC3_ECONOMY_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 106,
+        "target": "../economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 107,
+        "target": "../provenance/CHECKPOINT_19_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 107,
+        "target": "../provenance/CHECKPOINT_19_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 107,
+        "target": "../provenance/CHECKPOINT_19_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 107,
+        "target": "../provenance/CHECKPOINT_19_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 109,
+        "target": "27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 110,
+        "target": "../world-clock/ARC4_HANDOFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 110,
+        "target": "../world-clock/ARC4_HANDOFF.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 111,
+        "target": "SOCIAL_LIFE_AND_FOUNDATIONS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 112,
+        "target": "../provenance/CHECKPOINT_20_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 112,
+        "target": "../provenance/CHECKPOINT_20_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 112,
+        "target": "../provenance/CHECKPOINT_20_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 112,
+        "target": "../provenance/CHECKPOINT_20_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 112,
+        "target": "../provenance/CHECKPOINT_20_BOUNDARY_SEARCH.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 114,
+        "target": "28_CHECKPOINT_21_ARC4_YELLOW.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 115,
+        "target": "../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 115,
+        "target": "../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 115,
+        "target": "../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 115,
+        "target": "../world-clock/ARC4_YELLOW_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 115,
+        "target": "../world-clock/validate_arc4_yellow.py",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 116,
+        "target": "ELDRIS_REFERENCE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 117,
+        "target": "../provenance/CHECKPOINT_21_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 117,
+        "target": "../provenance/CHECKPOINT_21_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 117,
+        "target": "../provenance/CHECKPOINT_21_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 117,
+        "target": "../provenance/CHECKPOINT_21_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 117,
+        "target": "../provenance/CHECKPOINT_21_BEFORE_REVIEW.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 119,
+        "target": "29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 120,
+        "target": "../world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 120,
+        "target": "../world-clock/YELLOW_DIRECTOR_CALENDAR.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 120,
+        "target": "../world-clock/YELLOW_DIRECTOR_CALENDAR.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 120,
+        "target": "../world-clock/YELLOW_DIRECTOR_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 120,
+        "target": "../world-clock/validate_yellow_director.py",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 121,
+        "target": "../world-clock/ARC5_HANDOFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 121,
+        "target": "../world-clock/ARC5_HANDOFF.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 122,
+        "target": "TRAINING_YARD.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 122,
+        "target": "BLACK_SYSTEMS_MASTERY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 122,
+        "target": "../builder/COMMUNITY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 122,
+        "target": "../combat-rewards/DOMAI_GROUP_ECONOMY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 122,
+        "target": "../combat-rewards/DOMAI_GROUP_ECONOMY.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 123,
+        "target": "../provenance/CHECKPOINT_22_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 123,
+        "target": "../provenance/CHECKPOINT_22_BEFORE_REVIEW.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 123,
+        "target": "../provenance/CHECKPOINT_22_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 123,
+        "target": "../provenance/CHECKPOINT_22_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 123,
+        "target": "../provenance/CHECKPOINT_22_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 123,
+        "target": "../provenance/CHECKPOINT_22_SOURCE_REVIEW.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 125,
+        "target": "30_CHECKPOINT_23_ARC5_COMBAT_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 126,
+        "target": "../world-clock/ARC5_DIRECTOR_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 127,
+        "target": "../world-clock/ARC5_HANDOFF.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 128,
+        "target": "../provenance/CHECKPOINT_23_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 129,
+        "target": "../provenance/CHECKPOINT_23_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 129,
+        "target": "../provenance/CHECKPOINT_23_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 129,
+        "target": "../provenance/CHECKPOINT_23_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 129,
+        "target": "../provenance/CHECKPOINT_23_SOURCE_REVIEW.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 131,
+        "target": "31_CHECKPOINT_24_ARC6_GRADUATION.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 132,
+        "target": "../world-clock/ARC6_DIRECTOR_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 132,
+        "target": "../world-clock/ARC6_HANDOFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 132,
+        "target": "../world-clock/ARC6_HANDOFF.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 133,
+        "target": "../world-clock/ARC6_ILLI_CREDIT_LEDGER.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 134,
+        "target": "../provenance/CHECKPOINT_24_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 134,
+        "target": "../provenance/CHECKPOINT_24_COVERAGE_MANIFEST.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 134,
+        "target": "../provenance/CHECKPOINT_24_REVERSE_DIFF.csv",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 134,
+        "target": "../provenance/CHECKPOINT_24_CONFLICTS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 134,
+        "target": "../provenance/CHECKPOINT_24_SOURCE_REVIEW.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 136,
+        "target": "32_CHECKPOINT_25_ARC7_FINALE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 137,
+        "target": "../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 137,
+        "target": "../world-clock/ARC7_HANDOFF.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 138,
+        "target": "DIMENSIONAL_RINGS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 138,
+        "target": "../economy/ILLI_REMAINING_WHITE_BILL.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 138,
+        "target": "../economy/ADVANCED_CARD_PRICES.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/maintenance/authoring-cleanup-r1/baseline/live-model/INDEX.md",
+        "line": 139,
+        "target": "../provenance/CHECKPOINT_25_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "byte-exact navigation backup with original relative base"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/README.md",
+        "line": 40,
+        "target": "bindings/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/README.md",
+        "line": 40,
+        "target": "summons/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/README.md",
+        "line": 40,
+        "target": "builder/paths/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/README.md",
+        "line": 42,
+        "target": "provenance/checkpoint-05-package/EXECUTABLE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/live-model/INDEX.md",
+        "line": 15,
+        "target": "COMBAT_THRESHOLDS.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/live-model/INDEX.md",
+        "line": 19,
+        "target": "../provenance/checkpoint-04-package/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/live-model/INDEX.md",
+        "line": 20,
+        "target": "../prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/live-model/INDEX.md",
+        "line": 23,
+        "target": "../bindings/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/live-model/INDEX.md",
+        "line": 24,
+        "target": "../summons/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/live-model/INDEX.md",
+        "line": 25,
+        "target": "../builder/paths/README.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/live-model/INDEX.md",
+        "line": 26,
+        "target": "../provenance/checkpoint-05-package/MANIFEST.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/live-model/INDEX.md",
+        "line": 27,
+        "target": "../provenance/CHECKPOINT_05_AUDIT.json",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/live-model/OPEN.md",
+        "line": 5,
+        "target": "../prior-checkpoint-source/OPEN_AND_PROVENANCE.md",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/visual-references/INDEX.md",
+        "line": 5,
+        "target": "ARMOR_OF_THE_ABYSS_REFERENCE.jpeg",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/visual-references/INDEX.md",
+        "line": 6,
+        "target": "KIRA_AFFLICTED_REFERENCE.jpeg",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/visual-references/INDEX.md",
+        "line": 7,
+        "target": "KIRA_GOLDEN_EYE_REFERENCE.png",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/visual-references/INDEX.md",
+        "line": 8,
+        "target": "KIRA_POST_VALNEK_CANON.png",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/visual-references/INDEX.md",
+        "line": 9,
+        "target": "VALNAK_AUTHOR_MAP_CURRENT.jpeg",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      },
+      {
+        "source": "provenance/pre-checkpoint-06/visual-references/INDEX.md",
+        "line": 10,
+        "target": "VALNEK_PATH_PLAQUES.jpeg",
+        "kind": "inline",
+        "error": "missing target",
+        "archive_class": "existing baseline source"
+      }
+    ],
+    "broken_by_class": {
+      "existing baseline source": 44,
+      "byte-exact navigation backup with original relative base": 317
+    }
+  },
+  "external_urls": "Not requested or checked over network; local path/anchor validation only."
+}

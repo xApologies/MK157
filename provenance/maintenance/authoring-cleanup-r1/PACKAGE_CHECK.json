@@ -1,0 +1,14 @@
+{
+  "id": "package-check",
+  "command": [
+    "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-X",
+    "utf8",
+    "C:\\Users\\rando\\AppData\\Local\\Temp\\mk157-authoring-r1-ihqbaj6v\\MK157_AUTHORING_CLEANUP_R1\\scripts\\verify_package.py",
+    "C:\\Users\\rando\\AppData\\Local\\Temp\\mk157-authoring-r1-ihqbaj6v\\MK157_AUTHORING_CLEANUP_R1"
+  ],
+  "cwd": "C:\\Users\\rando\\AppData\\Local\\Temp\\mk157-authoring-r1-ihqbaj6v",
+  "returncode": 0,
+  "stdout": "{\n  \"result\": \"PASS\",\n  \"verified_files\": 23,\n  \"errors\": [],\n  \"scope\": \"Package integrity only; not repository cleanup execution.\"\n}\n",
+  "stderr": ""
+}
