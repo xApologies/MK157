@@ -73,3 +73,18 @@ Current Duo remains W18 clear/W19 fail even after Kira’s one-Orb W19 Solo brea
 illi graduates independently **B1D1 W13 Green Solo clear/W14 fail** after Genesis Prime Yellow. Both may now enter progression-bearing veteran groups together, while PUG credibility still depends on experience/build fit/dossier and reputation. Green Dungeons bridge friendships; illi values enabling others, service/community and high-contact social content. Kira is more willing to grind Trials. This preference difference is character texture.
 
 Girls' Builder Night remains the social home: G6D5 and B1D5/B2D5/B3D5/B4D5/B5D5, with Halo on B1D5 and Green W7 Auction displacing D5. Higher income supports expensive Legacy ranks and discretionary cards/decks/clothes/social life; no general card-price table is locked. The later Project Princess Carry section is unchanged. Arc Six is the economic precursor as Trial throughput and illi’s rank costs rise, not early activation of late-cycle fanaticism.
+
+## Checkpoint 25 — current Arc Seven overlay
+
+[Reconciled finale](32_CHECKPOINT_25_ARC7_FINALE.md) and [corrected calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) govern later events. Earlier arc-specific outcomes remain historical at their dates.
+
+### Project Princess Carry
+
+From B6D3, remaining cost to intended first White-Legacy endpoint = **9,513,297**.
+Target: Persistent Coherence White / Absorption White / Genesis Prime White / Coherence Prime White / Resonance Prime White; Genesis Beam may remain Green.
+After completion a second White path becomes available: **Decoherence**.
+Elara asks illi not to accept/start it this cycle. illi agrees. No mechanical block and no stripping of her legitimate first White Legacy.
+
+## Checkpoint 25 funding and ethical closer program
+
+The preserved Project Princess Carry character doctrine remains. Its older Trial-heavy expectation is superseded by the corrected White W1 three-run payoff and mature Green closer program: 63.5M each in core awards. illi legitimately participates and spends earned credits toward White; she is not gifted Binding progression. Kira’s penetration and illi’s eligibility have distinct roles. No Trio carry/boosting-service scene is booked by this correction.

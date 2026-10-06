@@ -1,0 +1,67 @@
+[
+  {
+    "path": "ARC7_DOMAI_CORE_LEDGER.csv",
+    "bytes": 1665,
+    "sha256": "965ece27a53d36bc29aba57df089569ca6f5f76753610b2e83a0e142b4e1a355"
+  },
+  {
+    "path": "ARC7_ECONOMY_AUDIT.json",
+    "bytes": 876,
+    "sha256": "03a1d91888161a1d6ba3aac06f1d20eedeee5aa07f728c2a13592987407c96e1"
+  },
+  {
+    "path": "ARC7_HANDOFF.md",
+    "bytes": 1036,
+    "sha256": "a6c3337a9180023511fb392700760be98a3006cc14c8ce985a110f6806abc993"
+  },
+  {
+    "path": "ARC7_TRIAL_LEDGER.csv",
+    "bytes": 293,
+    "sha256": "4898cbd115ab6927005cfe9cf6ac721f2c83faf3aa88dc212a4f106805a5db8a"
+  },
+  {
+    "path": "BASELINE_AUDIT.md",
+    "bytes": 529,
+    "sha256": "81afc62970c8799ed627246282312ef0a6cea89458d09ddcb63c80f1b7b752bc"
+  },
+  {
+    "path": "CHECKPOINT25_AUDIT.json",
+    "bytes": 526,
+    "sha256": "7264e1e96a8b528cd71e3e5eeba02df17e8fd69bf3ecd670f3bf8faf084061df"
+  },
+  {
+    "path": "CHECKPOINT25_LIVE_MODEL_DELTA.md",
+    "bytes": 9625,
+    "sha256": "7cb95235fa5be174a021cf0239ea001aacdc0ca3602b996fc495a8b54f5955d7"
+  },
+  {
+    "path": "DOMAI_SPATIAL_METRIC.csv",
+    "bytes": 146,
+    "sha256": "0e732847e8aabdc5bd38c2fb5c68d26385c479983adb764eaa86692a5383fea7"
+  },
+  {
+    "path": "EXECUTABLE.md",
+    "bytes": 3580,
+    "sha256": "49ca2a4991eb473bbee89a0af9f60ae09e140b12b5b92b0ec2409579f584132c"
+  },
+  {
+    "path": "OPEN_ITEMS.md",
+    "bytes": 723,
+    "sha256": "bd5c44b671f76eca0f03b939b863fba7b36ad18b85183e2e47f377745fef8567"
+  },
+  {
+    "path": "README.md",
+    "bytes": 542,
+    "sha256": "26aab93f30ce52ebbb9e3896a112a3aaa77a5f66e75b790cd5db79684e909444"
+  },
+  {
+    "path": "WHITE_SEASON_ARC7_PROGRAM.csv",
+    "bytes": 629,
+    "sha256": "a68298a965470ec16d8f48f417b0caba535f4df724e86c4671e46f2cf2253eda"
+  },
+  {
+    "path": "source-material/DIMENSIONAL_RING_LOCKED_SOURCE.pdf",
+    "bytes": 98946,
+    "sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2"
+  }
+]

@@ -1,6 +1,6 @@
 # Retained Combat Trial thresholds
 
-Authority: Checkpoint 21 for the pre-Orb Yellow scaffold, cumulative with earlier non-conflicting rules. Baseline thresholds and prime-count escalation are retained. Exact final Eternal Standing wave numbers remain OPEN.
+Authority: Checkpoint 21 for the pre-Orb Yellow scaffold, cumulative with earlier non-conflicting rules. Baseline thresholds and prime-count escalation are retained. Checkpoint 25 locks final intended Solo/Duo standings at W100/W100; no Trio is booked.
 
 ## Endless Combat Trial and rank
 
@@ -90,7 +90,7 @@ Kira's advantage does not mean Trial runtime becomes trivial. Deep Solo/Duo/Trio
 
 ## Exact Trial reward schedule — Checkpoint 14
 
-Checkpoint 18 recalibrates the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 26,955 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 and Checkpoint 14's 53,910 are historical pre-recalibration values; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
+Checkpoint 18 recalibrates the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 26,955 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. Checkpoint 25 locks every completed W36+ at 1,600 credits per eligible participant. Earlier ~55,000 and Checkpoint 14's 53,910 are historical pre-recalibration values; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
 
 ## Checkpoint 19 — Arc Three combat direction
 
@@ -124,4 +124,22 @@ Yellow Normal is reliable/social; Green Normal is the primary veteran grind and 
 
 Normal **B2D3 R/O/Y clear, Green fail** pays 11,250 each. Hard **B3D2 R/O clear/Y fail** pays 9,375 each; **B4D3–D4 R/O repeats/Y deep fail** pays zero new major rewards; **B5D3 Hard Y clear** pays only 7,500 each. Same-season/mode/boss repeats never pay twice. No Hard Green clear or Trio is added; exact Raid runtimes remain OPEN.
 
-Duo advances **G6D7 W18/W19 fail → B2D1–D2 W19/W20 fail → B6D1–D2 W20/W21 fail**. W19/W20 are multi-day pushes; start rows earn no separate payout. Kira begins migration toward two-Orb competency, without a mature blender date. [Locked Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
+Duo advances **G6D7 W18/W19 fail → B2D1–D2 W19/W20 fail → B6D1–D2 W20/W21 fail**. W19/W20 are multi-day pushes; start rows earn no separate payout. Kira begins migration toward two-Orb competency, without achieving the mature two-Orb application inside Arc Six; Checkpoint 25 places operational stability by V2D3. [Locked Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
+
+## Checkpoint 25 — Arc Seven current lock
+
+Arc Six remains FULL LOCK through B6D3; Arc Seven opens B6D4 and ends with Valnak departure after White W7. Remaining Blue develops two-Orb control; **by V2D3** the blender is operationally stable; **V2D4** serious three-Orb training starts; **late V7** its blender application is operationally stable. These are application benchmarks, not Genesis Orbs mastery. Domain stays Late Violet for **61,017**, exact day OPEN.
+
+White W1 ordered blocks: **Solo96 → recovery → Duo100 → recovery → Solo100**, all voluntary termination. Final intended Solo/Duo standings: **100/100**. No Trio is booked. W36+ pays **1,600 per completed wave**; W96 **124,555**, W100 **130,955** to every eligible participant. W1–35 stays **26,955**; legitimate repeats pay and failed next waves pay zero. White W35+ population is capped; numeric cap and spawn configuration remain OPEN.
+
+Then illi’s question prompts **R/O/Y/G/G cores**, **8.5M each**. After the second Green, Elara’s ethical correction prompts mature-campaign-only closing. Blue core attempt fails/aborts, zero award; no Violet attempt. White W2–W6 each have **four mature Green closes**, **10M each/week**. W7 has Green closes **D1/D3 only**, **5M each**, otherwise vacation/finale. **Core total 63.5M each**. Ordinary contextual participation remains OPEN BY DESIGN and separate.
+
+White Normal R/O/Y/G first clears pay **18,750 each**, Hard R/O/Y/G **28,125 each**, combined **46,875 each**. Blue remains an access/credibility wall; no Blue/Violet Raid clear or required new Hard-Dungeon program is added. Exact Raid dates/runtimes remain OPEN.
+
+Fixed White gross: **Kira 63,933,340 / illi 63,677,830**. illi’s remaining first-White-Legacy bill is **9,513,297**; fixed gross after it is **54,164,533**, before discretion, carried reserve or contextual income. Purchases occur as liquidity arrives; exact rank dates remain OPEN. Beam can stay Green. Decoherence becomes available after the first White Legacy; illi voluntarily defers it at Elara’s request.
+
+White W7D5 championship and W7D5–D7 Final Auction retain standing infrastructure. Kira remains Black, buys a small voluntary support/interface package at **61,017 per one-off**, and a **White Dimensional Ring before departure**, price OPEN. Elara’s **999,999,999,999** price for the next Black node is temporary for this cycle; natural price and ontology remain OPEN. Advanced card rank prices are **5,700 / 9,120 / 16,416 / 34,474 / 86,185 / 258,555 / 1,034,220**. The specific Arc Three 86,000 Blue Fireball purchase remains preserved.
+
+No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase dates, card inventory, vaen species/lots/prices or discretionary final balances are invented. The prior draft’s 41M and Trio-based accounting is superseded.
+
+[Full reconciled canon](32_CHECKPOINT_25_ARC7_FINALE.md); [calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md); [audit](../world-clock/ARC7_ECONOMY_AUDIT.json); [remaining bill](../economy/ILLI_REMAINING_WHITE_BILL.json).

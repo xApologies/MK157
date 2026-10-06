@@ -555,7 +555,7 @@ Absorption remains economically valuable, but the locked Checkpoint 14 schedule 
 Phase III — Kira CARRIES after Orb blender maturation:
 Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
-Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. No replacement two-Orb date is supplied.
+Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. Checkpoint 25 now locks the two-Orb blender application as operationally stable by V2D3.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
 Kira's Trial-breaking throughput then accelerates illi's White-Legacy credit generation dramatically.
 
@@ -565,8 +565,8 @@ Orb exclusion → illi Absorption/prevention → Armor of the Abyss → Kira.
 This is a coupled positive feedback system, not generic veteran boosting.
 
 ## 5. Trial / Eternal Standing narrative direction
-Historical/Kira final numeric records remain OPEN.
-Wave 96 remains illustrative/noncanonical unless deliberately locked later.
+Historical other-participant records remain OPEN; Checkpoint 25 locks Kira’s intended Solo/Duo W100/W100.
+Checkpoint 25 deliberately locks W96 as the intermediate White W1 Solo benchmark before Solo100.
 A historical record around low-40s versus a vastly higher Kira record is a working magnitude concept only, not a numeric canon lock.
 
 Mature blender scenes may include Kira and illi remaining near the Central Basin, conversing/bored while the Orb geometry processes incoming eldris. This is lawful Trial behavior, not cheating or an aggro exploit. Elara's frustration is engineering/comedic frustration at Kira breaking intended scaling while obeying actual rules.
@@ -624,4 +624,30 @@ Yellow Normal is reliable/social; Green Normal is the primary veteran grind and 
 
 Normal **B2D3 R/O/Y clear, Green fail** pays 11,250 each. Hard **B3D2 R/O clear/Y fail** pays 9,375 each; **B4D3–D4 R/O repeats/Y deep fail** pays zero new major rewards; **B5D3 Hard Y clear** pays only 7,500 each. Same-season/mode/boss repeats never pay twice. No Hard Green clear or Trio is added; exact Raid runtimes remain OPEN.
 
-Duo advances **G6D7 W18/W19 fail → B2D1–D2 W19/W20 fail → B6D1–D2 W20/W21 fail**. W19/W20 are multi-day pushes; start rows earn no separate payout. Kira begins migration toward two-Orb competency, without a mature blender date. [Locked Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
+Duo advances **G6D7 W18/W19 fail → B2D1–D2 W19/W20 fail → B6D1–D2 W20/W21 fail**. W19/W20 are multi-day pushes; start rows earn no separate payout. Kira begins migration toward two-Orb competency, without achieving the mature two-Orb application inside Arc Six; Checkpoint 25 places operational stability by V2D3. [Locked Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
+
+## Checkpoint 25 — current Arc Seven overlay
+
+[Reconciled finale](32_CHECKPOINT_25_ARC7_FINALE.md) and [corrected calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) govern later events. Earlier arc-specific outcomes remain historical at their dates.
+
+### Author understory
+
+Do not explain this metaphor in prose. Valnak is rigorous; Elara is a highly competent Custodian/developer; Kira is a valid pathological edge case / hacker-by-existence. Kira's absurd outcomes are valid compositions, not cheating.
+After Domain the next Black node may be eligible/available. Elara temporarily sets its cycle price to **999,999,999,999 credits**. This is administrative mitigation for this visit, not the permanent natural price.
+
+### Kira remains BLACK
+
+White Season does not make Kira's abilities White.
+After Domain, one-off Black shop Bindings remain available at the existing 61,017 tier. Kira selects only a small support/interface package rather than loading out every offensive option.
+These are training wheels / validated manifolds for deeper Domain/Shaping capabilities.
+Direction: voluntary cognitive party integration, shared spatial/target resolution, tactical mapping, threat marking, command-intent distribution, allied state awareness, later distributed Orb/Domain interfaces.
+Exact names/count remain OPEN. No mind control; participants retain independent thought/action/Shaping and participation is voluntary.
+Long-term concept: Armor + CSR + Orbs + Halo + Domain + interfaces → integrated Black battlefield system.
+Kira's internal aspirational ego-image is Eternal Champion / "goddess of war": she wants her presence to enable her whole force. This is character aspiration, not a divine rank.
+
+### Project Princess Carry
+
+From B6D3, remaining cost to intended first White-Legacy endpoint = **9,513,297**.
+Target: Persistent Coherence White / Absorption White / Genesis Prime White / Coherence Prime White / Resonance Prime White; Genesis Beam may remain Green.
+After completion a second White path becomes available: **Decoherence**.
+Elara asks illi not to accept/start it this cycle. illi agrees. No mechanical block and no stripping of her legitimate first White Legacy.

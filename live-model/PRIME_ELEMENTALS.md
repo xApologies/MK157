@@ -50,3 +50,14 @@ Arc Six **G6D3→B6D3** follows the unchanged Arc Five close. Arc Seven opens **
 Absorption now ranks **B1D3 Orange 14,960 → B2D4 Yellow 26,928 → B5D6 Green 56,549**; **B6D3 Resonance Prime Red 9,350** completes the foundational triad. These replace the old G6D4/G7D2 Absorption and V1D3/V2D2 projections. The first 13 ledger events through G6D2 stay exact; six later events make **19 events / 292,772 cumulative spend**.
 
 Arc Six illi gross **157,065**, progression spend **149,675**, ending earmarked reserve **7,390**, starting at zero for this progression account only. Her bank account is not assumed zero; discretionary life remains separate. At B6D3: PC Blue / Absorption Green / Beam Green / Genesis Prime Yellow / Coherence Prime Red / Resonance Prime Red. Offense / restoration / frontline-persistence now all exist; later progression deepens them rather than acquiring the triad. Later Arc Seven dates remain OPEN. [Calendar and audit](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
+
+## Checkpoint 25 — current Arc Seven overlay
+
+[Reconciled finale](32_CHECKPOINT_25_ARC7_FINALE.md) and [corrected calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) govern later events. Earlier arc-specific outcomes remain historical at their dates.
+
+### Project Princess Carry
+
+From B6D3, remaining cost to intended first White-Legacy endpoint = **9,513,297**.
+Target: Persistent Coherence White / Absorption White / Genesis Prime White / Coherence Prime White / Resonance Prime White; Genesis Beam may remain Green.
+After completion a second White path becomes available: **Decoherence**.
+Elara asks illi not to accept/start it this cycle. illi agrees. No mechanical block and no stripping of her legitimate first White Legacy.

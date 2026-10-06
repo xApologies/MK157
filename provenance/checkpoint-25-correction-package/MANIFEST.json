@@ -1,0 +1,32 @@
+[
+  {
+    "path": "ARC7_REVISED_DIRECTOR_CALENDAR.csv",
+    "bytes": 1144,
+    "sha256": "273e6249ea08c8537417e9508f8599dfe4473881aba68c7f4852869c16fa3a7a"
+  },
+  {
+    "path": "ARC7_REVISED_DIRECTOR_CALENDAR.md",
+    "bytes": 3861,
+    "sha256": "b14ae31df5463018b47d552c693a4bbcdaa7fd7f97a6039fb33cf9acc12d4d14"
+  },
+  {
+    "path": "ARC7_REVISED_ECONOMY_AUDIT.json",
+    "bytes": 1017,
+    "sha256": "c39b9afce6e852bf425031b296a97a8395abbfd4e645f248f38481293469e215"
+  },
+  {
+    "path": "CORRECTION_NOTICE.md",
+    "bytes": 752,
+    "sha256": "48ffa01c70e38a8a96ef17d10552f37bff0f046bd541c19dc1c1a88d5e56f280"
+  },
+  {
+    "path": "EXECUTABLE.md",
+    "bytes": 2513,
+    "sha256": "15018f1aadc5b0087f57637c9c8d43775d963cd4cc78cd2446f0eb6bc5817b0d"
+  },
+  {
+    "path": "NEXT_THREAD_HANDOFF.md",
+    "bytes": 686,
+    "sha256": "15ca202c8dba56860abcdd81272a2739e64b0961ba865b6a7160fb8690e86975"
+  }
+]

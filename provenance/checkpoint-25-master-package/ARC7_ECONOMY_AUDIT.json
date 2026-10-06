@@ -1,0 +1,39 @@
+{
+  "baseline_head": "e540b07afd6d231c771e5e744e5a0ee3d5aabcf8",
+  "trial": {
+    "W96_each": 124555,
+    "W100_each": 130955,
+    "kira_total": 517420,
+    "illi_total": 261910
+  },
+  "domai_core": {
+    "per_girl_total": 41000000,
+    "collective_total": 82000000
+  },
+  "raid": {
+    "normal_ROYG_each": 18750,
+    "hard_ROYG_each": 28125,
+    "combined_each": 46875
+  },
+  "white_fixed_gross": {
+    "kira": 41564295,
+    "illi": 41308785
+  },
+  "illi": {
+    "remaining_first_white_legacy_bill": 9513297,
+    "arc6_earmarked_reserve": 7390,
+    "white_gross_after_bill": 31795488,
+    "after_bill_plus_arc6_reserve": 31802878
+  },
+  "advanced_card_ladder": {
+    "Red": 5700,
+    "Orange": 9120,
+    "Yellow": 16416,
+    "Green": 34474,
+    "Blue": 86185,
+    "Violet": 258555,
+    "White": 1034220
+  },
+  "black_one_off_tier": 61017,
+  "dimensional_ring_price": "OPEN"
+}

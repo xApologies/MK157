@@ -1,0 +1,14 @@
+# Protected OPEN items
+- Exact B6D4→V7 day-by-day Arc Seven calendar.
+- Exact Domain date in Late Violet.
+- Exact two-Orb→three-Orb competency dates before White set pieces.
+- Exact Black support Binding names/count and purchase dates.
+- Exact next Black node ontology/natural price.
+- Exact illi rank-up dates on the road to White.
+- Exact Raid dates/runtimes and Blue invitation attempts.
+- Exact Dimensional Ring credit price.
+- Exact `vaen` species, Auction lots and prices.
+- Exact `raeon`/Genesis Card identities and quantities.
+- Exact final discretionary balances.
+- Exact recurring Trio friend's identity unless already recovered from another authoritative source.
+- Blue/Violet successful domai core bonuses.

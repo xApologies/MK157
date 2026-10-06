@@ -1,0 +1,25 @@
+{
+  "checkpoint": 25,
+  "currency": "Valnak credits",
+  "price_class": "ADVANCED",
+  "scope": [
+    "raeon",
+    "Genesis Cards"
+  ],
+  "rank_prices": {
+    "Red": 5700,
+    "Orange": 9120,
+    "Yellow": 16416,
+    "Green": 34474,
+    "Blue": 86185,
+    "Violet": 258555,
+    "White": 1034220
+  },
+  "specific_prior_exception": {
+    "item": "Arc Three specific Blue Fireball Genesis Card",
+    "price": 86000,
+    "preserved": true
+  },
+  "identities_quantities_purchase_dates": null,
+  "rare_auction_lot_prices": null
+}

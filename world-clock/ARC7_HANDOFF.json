@@ -1,0 +1,119 @@
+{
+  "checkpoint": 25,
+  "arc6_close": "B6D3",
+  "arc7_open": "B6D4",
+  "arc7_close": "Valnak departure after White W7",
+  "exact_departure_date": null,
+  "exact_blue_violet_daily_calendar": null,
+  "two_orb_operational_by": "V2D3",
+  "three_orb_training_begins": "V2D4",
+  "three_orb_operational_window": "late V7",
+  "genesis_orb_mastery_asserted": false,
+  "domain": {
+    "window": "Late Violet",
+    "date": null,
+    "cost": 61017
+  },
+  "trial_sequence": [
+    {
+      "white_week": 1,
+      "sequence": 1,
+      "mode": "Solo",
+      "wave": 96,
+      "termination": "voluntary",
+      "date": null
+    },
+    {
+      "white_week": 1,
+      "sequence": 2,
+      "mode": "Duo",
+      "wave": 100,
+      "termination": "voluntary",
+      "date": null
+    },
+    {
+      "white_week": 1,
+      "sequence": 3,
+      "mode": "Solo",
+      "wave": 100,
+      "termination": "voluntary",
+      "date": null
+    }
+  ],
+  "recovery_between_trial_runs": true,
+  "trio_booked": false,
+  "final_standings": {
+    "Solo": 100,
+    "Duo": 100
+  },
+  "blue_core_attempt": {
+    "white_week": 1,
+    "result": "fails/aborts",
+    "award": 0,
+    "date": null
+  },
+  "violet_core_attempt": false,
+  "closer_doctrine": "After second Green in White W1, mature established campaigns only; voluntary ethical correction by Elara",
+  "white_raid_first_clear_ranks": {
+    "normal": [
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green"
+    ],
+    "hard": [
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green"
+    ]
+  },
+  "blue_raid_access": "credibility wall",
+  "blue_violet_raid_clear": false,
+  "required_hard_dungeon_program": false,
+  "white_raid_dates": null,
+  "white_raid_runtimes": null,
+  "illi_rank_purchase_dates": null,
+  "illi_beam_endpoint": "Green permitted",
+  "decoherence": {
+    "available_after": "first White Legacy completion",
+    "deferred_this_cycle": true,
+    "reason": "illi voluntarily agrees to Elara request",
+    "mechanical_block": false
+  },
+  "white_ring": {
+    "acquired_before_departure": true,
+    "price": null
+  },
+  "kira_rank": "Black",
+  "support_binding_names": null,
+  "support_binding_count": null,
+  "support_one_off_each": 61017,
+  "next_black_node": {
+    "ontology": null,
+    "natural_price": null,
+    "temporary_cycle_price": 999999999999
+  },
+  "finale": {
+    "W7D1": "mature Green close",
+    "W7D2": "social/vacation",
+    "W7D3": "mature Green close",
+    "W7D4": "shopping/friends/final preparation",
+    "W7D5": "raeon Championship; Final Auction begins",
+    "W7D6": "Final Auction/social",
+    "W7D7": "Final Auction conclusion; spending/goodbyes/departure preparation"
+  },
+  "fixed_white_gross": {
+    "kira": 63933340,
+    "illi": 63677830
+  },
+  "illi_remaining_bill": 9513297,
+  "illi_fixed_gross_after_bill": 54164533,
+  "fixed_gross_exclusions": [
+    "ordinary contextual domai contribution awards",
+    "routine Blue/Violet training income",
+    "discretionary spending",
+    "Arc Six carried reserve"
+  ],
+  "discretionary_final_balances": null
+}

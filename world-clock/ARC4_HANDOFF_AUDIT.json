@@ -64,8 +64,6 @@
     "world-clock/PRISM_TEAM_TRACKER.csv",
     "trial-rewards/TRIAL_WAVE_CREDITS.csv",
     "trial-rewards/TRIAL_WAVE_CREDITS.json",
-    "combat-rewards/COMBAT_REWARD_TABLES.json",
-    "combat-rewards/DOMAI_PARTICIPATION_RULES.json",
     "bindings/PRICING_CLASS_MATRIX.json",
     "live-model/AITHREN_VAELUM_ACCORD.md"
   ],
@@ -373,16 +371,16 @@
   ],
   "sha256": {
     "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "056532016144fa8f1afccbc6a03c8f4853fecb128cf67c86e317795c2dfdd440",
-    "live-model/01_KIRA.md": "f6e60d398ae7f591992375448e150d278ee1322433928a757876e2939646130a",
+    "live-model/01_KIRA.md": "1551a64bdd8c537ac5a4b144780dff6387c77d679bb49f9da839c452d230e1f1",
     "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md": "686a9461fd24c885596bc8f364774f006903ec5448011de1fa4e9a734b996a41",
-    "live-model/DOMAI_PARTICIPATION.md": "f426aaa4dcfe7034a88b2fff3bba61e0f6b086cd11e99df2235b5be6158d03d4",
-    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "359b0cc8e1c1ca39390b096459a4e3162387572ac14b3d2bc1dee5b46760ff11",
-    "live-model/GENESIS_CARDS.md": "b6639f9cdd246144bd0a03d26edbc008d5a5afb9ac143225438fb9c05e63f513",
-    "live-model/ILLI_PROGRESSION.md": "c507b9928ae4b45f7162f07d390f8eb3e52573607b6fa60517cb454b784100f7",
-    "live-model/OPEN.md": "55b0769c5c1bcd18fec01fd69f9d3a1d5d59c94a1075ebb4efab51eedc95cf58",
+    "live-model/DOMAI_PARTICIPATION.md": "b28a41bd98d68c386b29cc7d57d410a8b8fce9fb07f67024344e8b3fab70a075",
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "25205373ca9fab3339316957e75f97f42b0ff021a2fdb733cc98f497484a61f4",
+    "live-model/GENESIS_CARDS.md": "2fbcbe4dcddc359a5aae2dc6fcd9a80af8c0561d138c84be454a5c9615ef2fc1",
+    "live-model/ILLI_PROGRESSION.md": "93684951f551c99638cbaa22c5d681c35e9c1c510cde5e5d2e8630167e9c335d",
+    "live-model/OPEN.md": "5c62421942698d46c12455c60ed9cf6d3467847829ae4ba55845eed04d64d854",
     "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "a90f44de5acf9cada1e92a7efe51f52d5aedd4b2291a3febe45afb3784cb0d0d",
     "world-clock/ARC4_HANDOFF.json": "0e459f5558607438858e301a518c534aac5fcc78a2d286ea87794593a0f7a5ec",
     "world-clock/ARC4_HANDOFF.md": "4fdb065feadff65c33301b2750629fe6262545d595353c474dfd00c07cf0833f",
-    "world-clock/validate_arc4_handoff.py": "2751cb5cd638dd52067602b5937ae73b61cef5974692f43c9a4379131587e265"
+    "world-clock/validate_arc4_handoff.py": "b4efb1ee1bc0b43944043fe02df5b5ed897831e9f9bf6f5e791d359cf335c03a"
   }
 }

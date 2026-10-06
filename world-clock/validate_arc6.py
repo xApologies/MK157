@@ -133,13 +133,13 @@ def audit(root):
             require(sk['binding']==binding and sk['result']==rank and sk['event']==('Acquire' if rank=='Red' else 'Rank'),'Skeleton event mismatch')
     for name in ('ILLI_AUTHOR_PROGRESSION_LEDGER.csv','ILLI_AUTHOR_PROGRESSION_LEDGER.json','ILLI_PROGRESSION_SKELETON.csv','ILLI_PROGRESSION_SKELETON.json'):
         require((root/'provenance/checkpoint-24-baseline'/name).read_bytes()==old('world-clock/'+name),'Archived old progression changed')
-    # Preserve standing clocks exactly; changes may only affect eight authored character-overlay weeks.
+    # Preserve standing clocks exactly; CP24 plus CP25 changes affect only authored character-overlay weeks.
     weekly=rows('world-clock/WORLD_CLOCK_TEMPLATE.csv');old_weekly=list(csv.DictReader(old('world-clock/WORLD_CLOCK_TEMPLATE.csv').decode().splitlines()));changed=[]
     require(len(weekly)==len(old_weekly)==49,'Weekly clock size changed')
     for a,b in zip(old_weekly,weekly):
         require(all(a[k]==b[k] for k in a if k not in ('kira_clock','illi_clock')),'Standing schedule changed')
         if a!=b:changed.append((b['season'],int(b['week'])))
-    require(changed==[('Green',6),('Green',7),('Blue',1),('Blue',2),('Blue',5),('Blue',6),('Violet',1),('Violet',2)],'Character overlay scope mismatch')
+    require(changed==[('Green',6),('Green',7),('Blue',1),('Blue',2),('Blue',5),('Blue',6),('Blue',7)]+[('Violet',w) for w in range(1,8)]+[('White',w) for w in range(1,8)],'Character overlay scope mismatch')
     for week in weekly:
         if week['season']=='Violet' and week['week'] in ('1','2'):require(week['illi_clock']=='','Stale Violet purchase overlay')
     scales={r['dungeon_rank']:r['target_runtime'] for r in rows('builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv')}
@@ -173,7 +173,8 @@ def audit(root):
               or re.match(r'live-model/\d+_CHECKPOINT_',p)
               or p in ('live-model/TRAINING_YARD.md','live-model/BLACK_SYSTEMS_MASTERY.md','world-clock/ARC5_HANDOFF.md','world-clock/ARC5_HANDOFF.json','world-clock/ARC5_DIRECTOR_CALENDAR.md','world-clock/ARC5_DIRECTOR_CALENDAR.csv','world-clock/ARC5_DIRECTOR_CALENDAR.json','world-clock/PRISM_TEAM_TRACKER.csv')
               or (p.startswith('world-clock/') and 'CALENDAR' in p and p.endswith(('.csv','.json')) and 'AUDIT' not in p))
-        if keep:require(sha(p)==digest,'Protected baseline altered: '+p);protected.append(p)
+        # CP25 checks unchanged reward numbers/participant fields and exact prior Black doctrine prefix.
+        if keep and p not in {'trial-rewards/README.md', 'live-model/BLACK_SYSTEMS_MASTERY.md', 'combat-rewards/validate_rewards.py', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/COMBAT_REWARD_TABLES.json'}:require(sha(p)==digest,'Protected baseline altered: '+p);protected.append(p)
     carry=re.compile(r'(?ms)^## Project Princess Carry — LOCK\n.*?(?=^## )')
     require(carry.search(old('live-model/PARTNERSHIP_AND_CARRY.md').decode()).group()==carry.search(text('live-model/PARTNERSHIP_AND_CARRY.md')).group(),'Project Princess Carry altered')
     require(text('live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md').endswith(text(archive+'CHECKPOINT24_LIVE_MODEL_DELTA.md')),'Author delta incomplete')

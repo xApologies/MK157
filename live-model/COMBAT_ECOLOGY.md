@@ -112,7 +112,7 @@ R->V with cumulative `eldris` palette.
 Military/vaelum/noble-house/cross-org collaboration.
 Localized participation ledger.
 Contextual credits per incursion/per participant for validated contribution: eldris kills, healing/support, control, operational contribution, core assault and other validated participation; core-break bonus concept preserved.
-Reward formula OPEN BY DESIGN: no fixed rank table or deterministic formula; exact core-break amount/formula remains OPEN.
+Reward formula OPEN BY DESIGN: no fixed rank table or deterministic formula; Checkpoint 25 locks separate Kira+illi R/O/Y/G core awards; successful Blue/Violet amounts remain OPEN.
 High credit potential.
 Valnak version ends as completed encounter when the main White Crystal breaks.
 
@@ -509,7 +509,7 @@ Breaking the central White Crystal earns a special/core-break bonus.
 
 Unlike the outside-world natural `domai`, the Valnak training incursion terminates as a completed encounter when the main White Crystal is broken rather than requiring a prolonged natural unraveling/harvest window.
 
-**Valnak domai rewards are OPEN BY DESIGN:** no fixed rank reward table and no deterministic formula. Awards may be assigned contextually per incursion and per participant against validated contribution to support story/economic pacing. The core-break bonus concept remains; its exact amount/formula remains OPEN. This flexibility is deliberate rather than missing data.
+**Valnak domai rewards are OPEN BY DESIGN:** no fixed rank reward table and no deterministic formula. Awards may be assigned contextually per incursion and per participant against validated contribution to support story/economic pacing. Checkpoint 25 separately locks registered Kira+illi core awards for R/O/Y/G; Blue/Violet successful core amounts remain OPEN. This flexibility is deliberate rather than missing data.
 
 ## Checkpoint 15 atomic encounter authoring
 
@@ -525,7 +525,7 @@ Reliable clears should generally outperform equivalent Trial farming, with failu
 
 ## Checkpoint 18 domai and first-cycle direction
 
-[Valnak domai participation](DOMAI_PARTICIPATION.md): awards remain OPEN BY DESIGN and are not halved. First validated kill starts a 7-day eligibility window; conquest within it pays contextual contribution even after departure. No conquest within it means no conquest contribution payout from that window. Voluntary exit or death locks the participant out of that domai for one full day. Death multiplies eventual payout cumulatively by 0.8^deaths. Exact validated scoring/core-break amount remains OPEN. Node recruiting uses active domai panels, formations/rosters and authenticated dossier facts; exact UI/rating/matchmaking remains OPEN.
+[Valnak domai participation](DOMAI_PARTICIPATION.md): awards remain OPEN BY DESIGN and are not halved. First validated kill starts a 7-day eligibility window; conquest within it pays contextual contribution even after departure. No conquest within it means no conquest contribution payout from that window. Voluntary exit or death locks the participant out of that domai for one full day. Death multiplies eventual payout cumulatively by 0.8^deaths. Validated contribution scoring remains OPEN; Checkpoint 25 separately locks R/O/Y/G core awards for Kira+illi. Node recruiting uses active domai panels, formations/rosters and authenticated dossier facts; exact UI/rating/matchmaking remains OPEN.
 
 Red Season cohort combat is overwhelmingly Red/Orange; Yellow Dungeon groups are scarce and generally underprepared. Kira/illi are outliers with repeatable Yellow Duo Trial capability. Kira's early limit is population/spatial saturation despite high melee throughput and no mass-clear/area-control architecture. WORKING ceilings are Solo/Duo Yellow roughly W8–10 and inefficient Trio potentially mid-Orange. illi rarely experiments with Solo. Green Solo still grants early sandbox graduation/veteran grouping.
 
@@ -620,4 +620,38 @@ Yellow Normal is reliable/social; Green Normal is the primary veteran grind and 
 
 Normal **B2D3 R/O/Y clear, Green fail** pays 11,250 each. Hard **B3D2 R/O clear/Y fail** pays 9,375 each; **B4D3–D4 R/O repeats/Y deep fail** pays zero new major rewards; **B5D3 Hard Y clear** pays only 7,500 each. Same-season/mode/boss repeats never pay twice. No Hard Green clear or Trio is added; exact Raid runtimes remain OPEN.
 
-Duo advances **G6D7 W18/W19 fail → B2D1–D2 W19/W20 fail → B6D1–D2 W20/W21 fail**. W19/W20 are multi-day pushes; start rows earn no separate payout. Kira begins migration toward two-Orb competency, without a mature blender date. [Locked Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
+Duo advances **G6D7 W18/W19 fail → B2D1–D2 W19/W20 fail → B6D1–D2 W20/W21 fail**. W19/W20 are multi-day pushes; start rows earn no separate payout. Kira begins migration toward two-Orb competency, without achieving the mature two-Orb application inside Arc Six; Checkpoint 25 places operational stability by V2D3. [Locked Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
+
+## Checkpoint 25 — current Arc Seven overlay
+
+[Reconciled finale](32_CHECKPOINT_25_ARC7_FINALE.md) and [corrected calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) govern later events. Earlier arc-specific outcomes remain historical at their dates.
+
+### domai ontology / metric
+
+Real domai: Genesis storm/collapse → nucleation → temporary bounded Genesis-event landscape with non-isometric interior, Genesis expression, eldris and superposed White structural core. Core break forces progressive unraveling. R→V only; no White domai.
+
+Exterior radius: R 3 mi / O 5 / Y 7 / G 11 / B 13 / V 17.
+Equivalent interior radius = 1.7× exterior: R 5.1 / O 8.5 / Y 11.9 / G 18.7 / B 22.1 / V 28.9 mi.
+Equivalent radius is author traversal scale, not a local conversion law. Internal distance varies by direction/location; exterior center does not guarantee a straight internal route.
+
+Sensory/ecology target: ~70% ordinary/unexpressed biology, ~30% Genesis-expressed biology (not an exact census).
+Expression may show R→V luminous/neon channels with variable intensity/morphology. Most animals remain ordinary; plants express more frequently.
+Local depth is reasonably coherent only ~5–7 ft. Beyond: depth rapidly degrades; objects become blurry layered/flattened projections; parallax fails to reconcile; sound/light give imperfect spatial information. Ordinary + luminous structures create author-described "tiger striping."
+
+### Crack-team doctrine
+
+Crack teams are specialized core-penetration/destruction elements normally supported by larger formations.
+Ordinary flyers spend fatigue reaching the core. Kira's CSR is exceptionally efficient; Halo supports sustain; Orbs provide core-impact capability.
+CSR solves movement efficiency, not non-isometric navigation.
+Kira discovers an Orb can crack the White core. Escalation R→O→Y→G.
+Green remains favorable because Juggernaut addition is melee and can largely be overflown.
+Kira attempts Blue and fails/aborts because Blue ranged/Transductionist pressure attacks aerial penetration. No Violet attempt.
+
+### White Raid endpoint
+
+Successful first major boss clears:
+Normal R/O/Y/G = **18,750 each**.
+Hard/Expedition R/O/Y/G = **28,125 each**.
+Blue remains an access/credibility wall; no Blue/Violet clear is locked.
+No-clear != raw incapability. Kira's Trial record is topology-specific; veteran leaders prefer proven Raid execution. Dungeon caverns constrain the giant blender but Kira remains strong via CSR, Orb cannonballs/short trajectories, isolated-group disruption and reverse pincer.
+No new required Hard Dungeon program.

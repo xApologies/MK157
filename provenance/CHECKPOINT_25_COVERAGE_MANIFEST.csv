@@ -1,0 +1,47 @@
+id,author_decision,status,resolution,evidence
+CP25-01,Fresh Git reconciliation,PRESENT,CP24 HEAD equals fetched origin/main; no newer changes,provenance/CHECKPOINT_25_BEFORE_REVIEW.json
+CP25-02,Arc boundaries,PRESENT,Arc Six through B6D3 byte-preserved; Arc Seven B6D4 to departure after White W7,world-clock/ARC7_HANDOFF.json
+CP25-03,Calendar source,PRESENT,"12 source blocks, MD/CSV exact, JSON mirror; no invented daily rows",world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.csv; world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.json
+CP25-04,Remaining Blue,PRESENT,Two-Orb synchronization/movement/recovery/combat; no required record or fixed routine income,world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md
+CP25-05,Two-Orb application,PRESENT,Operationally stable by V2D3; not total mastery,world-clock/ARC7_HANDOFF.json
+CP25-06,Three-Orb training,PRESENT,"Serious work V2D4, cognitive wall V3–5, operational application late V7",world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md
+CP25-07,Domain,PRESENT,Late Violet 61017; exact day OPEN,economy/KIRA_ARC7_PURCHASE_DIRECTION.json
+CP25-08,Exact training dates,OPEN,No exact B6D4→V7 daily expansion beyond anchors,world-clock/ARC7_HANDOFF.json
+CP25-09,W36+ payout,PRESENT,1600/wave after unchanged W1–35 cumulative26955; W96124555/W100130955,trial-rewards/TRIAL_EXTENDED_REWARDS.json; world-clock/ARC7_ECONOMY_AUDIT.json
+CP25-10,White population,PRESENT,"W35+ count capped; variable encounter configuration, numeric cap OPEN",trial-rewards/TRIAL_EXTENDED_REWARDS.json
+CP25-11,Trial allocation,PRESENT,Every eligible participant full payout; repeats pay; failed wave zero,trial-rewards/TRIAL_EXTENDED_REWARDS.json
+CP25-12,White W1 Trials,PRESENT,"Ordered Solo96/recovery/Duo100/recovery/Solo100, voluntary; no Trio",world-clock/ARC7_TRIAL_LEDGER.json
+CP25-13,Old draft Trial schedule,SUPERSEDED,W2 Duo/W3 Solo/W4 Trio and final Trio100 not booked; post-Trio boosting scene unplaced,provenance/CHECKPOINT_25_CONFLICTS.md
+CP25-14,White W1 core discovery,PRESENT,"illi question, R/O/Y/G/G =8.5M each",world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md; world-clock/ARC7_DOMAI_CORE_LEDGER.json
+CP25-15,Blue core attempt,PRESENT,Fails/aborts no payout; no Violet attempt,world-clock/ARC7_HANDOFF.json
+CP25-16,Ethical closer doctrine,PRESENT,After second Green Elara admonishes premature closures; mature campaigns only,live-model/DOMAI_PARTICIPATION.md
+CP25-17,White W2–W6,PRESENT,"4 mature Green/week,10M each/week,50M each total",world-clock/ARC7_DOMAI_CORE_LEDGER.json
+CP25-18,White W7,PRESENT,"D1/D3 Green only,5M each; vacation and finale",world-clock/ARC7_HANDOFF.json
+CP25-19,Core total,PRESENT,27 successes including24Green;63.5M each,world-clock/ARC7_ECONOMY_AUDIT.json
+CP25-20,Old core economy,SUPERSEDED,41M and W2–W6 O/Y/G plus dependent old gross/remainder replaced,provenance/CHECKPOINT_25_CONFLICTS.md
+CP25-21,Raid endpoint,PRESENT,Normal/Hard R/O/Y/G=18750+28125=46875 each; dates/runtime OPEN,world-clock/ARC7_ECONOMY_AUDIT.json; world-clock/ARC7_HANDOFF.json
+CP25-22,Content limits,PRESENT,Blue Raid access/credibility wall; no Blue/Violet Raid clear or required Hard-Dungeon program,live-model/COMBAT_ECOLOGY.md
+CP25-23,White gross,PRESENT,Kira63933340/illi63677830; contextual/routine/carry/discretion excluded,world-clock/ARC7_ECONOMY_AUDIT.json
+CP25-24,Remaining White bill,PRESENT,Registry-derived55%-HALF_UP cost9513297; separate untimed ledger,economy/ILLI_REMAINING_WHITE_BILL.json; world-clock/ARC7_ECONOMY_AUDIT.json
+CP25-25,After-bill fixed remainder,PRESENT,54164533; not actual bank balance,world-clock/ARC7_ECONOMY_AUDIT.json
+CP25-26,First White Legacy,PRESENT,PC/Absorption/three Primes White; Beam may stay Green; spend as liquidity arrives; exact dates OPEN,live-model/ILLI_PROGRESSION.md
+CP25-27,Decoherence,PRESENT,Available after first White completion; voluntarily deferred at Elara request; no mechanical block,world-clock/ARC7_HANDOFF.json
+CP25-28,domai ontology,PRESENT,Storm/collapse/nucleation/non-isometric landscape; superposed White structural core; R–V only; progressive unraveling,live-model/DOMAI_PARTICIPATION.md
+CP25-29,domai metric,PRESENT,"Exterior3/5/7/11/13/17mi; equivalent1.7x, not local conversion law",combat-rewards/DOMAI_SPATIAL_METRIC.json; live-model/DOMAI_PARTICIPATION.md
+CP25-30,domai sensory ecology,PRESENT,Approx70/30 biology; plant expression;5–7ft coherence then flattened layers/parallax failure/tiger striping,live-model/DOMAI_PARTICIPATION.md
+CP25-31,Crack team,PRESENT,"Formation-supported specialization; CSR efficiency not navigation; Halo sustain/Orb impact; Green favorable, Blue ranged wall",live-model/COMBAT_ECOLOGY.md
+CP25-32,Core ladder,PRESENT,Registered two-person collective1M/2.3M/3.7M/5M; equal shares; separate from contextual contributions,combat-rewards/DOMAI_CORE_AWARDS.json
+CP25-33,Core OPENs,OPEN,Successful Blue/Violet awards; unprovided modifier interaction/death counts not inferred,combat-rewards/DOMAI_CORE_AWARDS.json; combat-rewards/DOMAI_PARTICIPATION_RULES.json
+CP25-34,Participation preservation,PRESENT,First kill7days; conquest;1full-day same-domai exit/death recovery;0.8^deaths preserved,world-clock/ARC7_ECONOMY_AUDIT.json
+CP25-35,Author understory,PRESENT,"Elara competent Custodian/developer; Kira valid pathological edge case, not cheating; metaphor not prose exposition",live-model/32_CHECKPOINT_25_ARC7_FINALE.md
+CP25-36,Next Black node,PRESENT,Temporarily999999999999 this visit; natural price/ontology OPEN,economy/KIRA_ARC7_PURCHASE_DIRECTION.json
+CP25-37,Black support,PRESENT,Kira stays Black;small61017one-offs;voluntary cognition/spatial/target/maps/intent/allied-state;no mind control,economy/KIRA_ARC7_PURCHASE_DIRECTION.json; live-model/01_KIRA.md
+CP25-38,Orb knowledge firewall,PRESENT,Cannonball/one/two/three application not purpose/full remote-anchor knowledge; no divine rank,live-model/BLACK_SYSTEMS_MASTERY.md
+CP25-39,Advanced cards,PRESENT,5700/9120/16416/34474/86185/258555/1034220; preserve specific86000 earlier card,economy/ADVANCED_CARD_PRICES.json
+CP25-40,Dimensional Ring,PRESENT,"Explicit source promotion;recursive topology/conservation/inheritance/conscious recognition;not inventory UI;White acquired before departure,priceOPEN",live-model/DIMENSIONAL_RINGS.md; provenance/checkpoint-25-master-package/source-material/DIMENSIONAL_RING_LOCKED_SOURCE.pdf
+CP25-41,Ring projection,WORKING-ILLUSTRATIVE,R3/O5/Y7/G11/B17/V23/W31+ft adjustable; principle locked;2.5Mprice rejected,live-model/DIMENSIONAL_RINGS.md
+CP25-42,Discretionary spending,OPEN,"Card identities/counts,support names/counts,rare living vaen species/lots/prices,actual balances",economy/KIRA_ARC7_PURCHASE_DIRECTION.json; live-model/OPEN.md
+CP25-43,Finale schedules,PRESENT,W7D5championship/D5–D7FinalAuction;nightlyHighlights and Prism tracks unchanged,world-clock/WORLD_CLOCK_TEMPLATE.csv; world-clock/ARC7_HANDOFF.json
+CP25-44,Prior locked state,PRESENT,"Arc Six/Prior calendars,19datedevents292772,7390reserve,all registry rows and prices retained",world-clock/ARC7_ECONOMY_AUDIT.json
+CP25-45,Next creative phase,PRESENT,Recorded Arc One recursive chapter-outline handoff without executing new creative work,world-clock/ARC7_HANDOFF.md
+CP25-46,Source provenance,PRESENT,"21 files across2packages verified,20pagePDF extracted/read/rendered; prior provenance immutable",provenance/CHECKPOINT_25_BEFORE_REVIEW.json

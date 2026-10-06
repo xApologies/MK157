@@ -1,0 +1,42 @@
+{
+  "baseline_head": "e540b07afd6d231c771e5e744e5a0ee3d5aabcf8",
+  "supersedes_prior_draft": {
+    "prior_core_each": 41000000,
+    "status": "SUPERSEDED"
+  },
+  "trial_rule": {
+    "W1_35_cumulative": 26955,
+    "W36_plus_each_wave": 1600,
+    "W96_each": 124555,
+    "W100_each": 130955
+  },
+  "white_trials": {
+    "kira": 386465,
+    "illi": 130955
+  },
+  "white_core_breaks": {
+    "W1_each": 8500000,
+    "W2_W6_each": 50000000,
+    "W7_each": 5000000,
+    "total_each": 63500000
+  },
+  "white_raids": {
+    "normal_ROYG_each": 18750,
+    "hard_ROYG_each": 28125,
+    "total_each": 46875
+  },
+  "fixed_white_gross": {
+    "kira": 63933340,
+    "illi": 63677830
+  },
+  "illi": {
+    "remaining_first_white_legacy_bill": 9513297,
+    "fixed_white_gross_after_bill": 54164533
+  },
+  "notes": [
+    "ordinary contextual domai contribution awards excluded",
+    "routine Blue/Violet training income excluded",
+    "discretionary spending excluded",
+    "Arc Six carried reserve excluded from fixed White gross"
+  ]
+}

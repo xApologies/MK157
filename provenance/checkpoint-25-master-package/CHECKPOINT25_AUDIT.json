@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "baseline": "e540b07afd6d231c771e5e744e5a0ee3d5aabcf8",
+  "arc7_start": "B6D4",
+  "white_trial": {
+    "W96_each": 124555,
+    "W100_each": 130955,
+    "kira": 517420,
+    "illi": 261910
+  },
+  "core_bonus_each": 41000000,
+  "raid_each": 46875,
+  "fixed_white_gross": {
+    "kira": 41564295,
+    "illi": 41308785
+  },
+  "illi_remaining_bill": 9513297,
+  "checks": {
+    "core_schedule_total": true,
+    "kira_total": true,
+    "illi_total": true,
+    "W96_formula": true,
+    "W100_formula": true
+  }
+}

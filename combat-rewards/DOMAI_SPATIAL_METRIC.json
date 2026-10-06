@@ -1,0 +1,32 @@
+[
+  {
+    "rank": "Red",
+    "exterior_radius_miles": 3,
+    "equivalent_interior_radius_miles": 5.1
+  },
+  {
+    "rank": "Orange",
+    "exterior_radius_miles": 5,
+    "equivalent_interior_radius_miles": 8.5
+  },
+  {
+    "rank": "Yellow",
+    "exterior_radius_miles": 7,
+    "equivalent_interior_radius_miles": 11.9
+  },
+  {
+    "rank": "Green",
+    "exterior_radius_miles": 11,
+    "equivalent_interior_radius_miles": 18.7
+  },
+  {
+    "rank": "Blue",
+    "exterior_radius_miles": 13,
+    "equivalent_interior_radius_miles": 22.1
+  },
+  {
+    "rank": "Violet",
+    "exterior_radius_miles": 17,
+    "equivalent_interior_radius_miles": 28.9
+  }
+]

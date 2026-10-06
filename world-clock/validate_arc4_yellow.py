@@ -132,7 +132,7 @@ def audit(root):
             or (p.startswith('builder/encounters/eldris/') and not p.endswith(('/README.md','/AUDIT.json')))
             or p=='builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv'
             or p in ['world-clock/'+n for n in ('WORLD_CLOCK_TEMPLATE.csv','PRISM_TEAM_TRACKER.csv','ILLI_PROGRESSION_SKELETON.csv','ILLI_PROGRESSION_SKELETON.json','ILLI_AUTHOR_PROGRESSION_LEDGER.csv','ILLI_AUTHOR_PROGRESSION_LEDGER.json','RED_TO_ORANGE_COMBAT_CALENDAR.csv','RED_TO_ORANGE_COMBAT_CALENDAR.json','ARC3_ORANGE_CALENDAR.csv','ARC3_ORANGE_CALENDAR.json')])
-        if should_preserve and p not in {'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'bindings/PRICING_MODEL.md', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}:
+        if should_preserve and p not in {'trial-rewards/README.md', 'combat-rewards/COMBAT_REWARD_TABLES.json', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/validate_rewards.py', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'bindings/PRICING_MODEL.md', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}:
             require(sha(p)==expected_hash,'Protected baseline bytes changed: '+p); protected.append(p)
     source=text(archive+'CHECKPOINT21_LIVE_MODEL_DELTA.md')
     require(text('live-model/28_CHECKPOINT_21_ARC4_YELLOW.md').endswith(source),'Full author delta not retained')

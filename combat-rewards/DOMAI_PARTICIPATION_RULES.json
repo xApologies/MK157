@@ -15,6 +15,6 @@
   "recovery_scope": "same domai",
   "death_multiplier_per_death": 0.8,
   "eventual_payout_rule": "validated contribution award * 0.8^deaths",
-  "core_break_bonus": "concept preserved; exact amount/formula OPEN",
+  "core_break_bonus": "CP25 registered Kira+illi R/O/Y/G awards in DOMAI_CORE_AWARDS.json; Blue/Violet successful bonuses and unsupplied modifier interactions OPEN; separate from ordinary contextual contribution",
   "scoring_and_fractional_credit_rounding": "OPEN; no deterministic scoring formula supplied"
 }

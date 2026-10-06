@@ -1,10 +1,12 @@
 # Authority and supersessions
 
+> **Current Checkpoint 25:** the correction governs Arc Seven from B6D4 through departure after White W7. It resolves W36+ rewards, Solo96/Duo100/Solo100 in White W1, V2D3/V2D4/late-V7 application anchors, capped White wave population, R/O/Y/G core awards, 63.5M core income each and the Advanced card ladder. Earlier checkpoint sections below are historical resolution snapshots. [Current complete canon](32_CHECKPOINT_25_ARC7_FINALE.md). Exact daily training beyond anchors, Domain day, rank purchases, Raid dates/runtimes, support identities, Ring price and discretionary balances remain OPEN.
+
 > Checkpoint 24 current progression: 19 events, 292,772 total through B6D3. Earlier checkpoint sections below retain development history; any 17-event/250,884 or Violet-endpoint projection is superseded by the [current illi ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json). Arc Five dates/outcomes through G6D2 remain locked.
 
 Checkpoint 24 locks Arc Six G6D3–B6D3, the revised 19-event illi ledger and exact Halo B1D5. Checkpoint 23 fully locks Arc Five combat/progression dates Y6D4–G6D2. Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs and preserved social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries and the specific Blue Fireball card purchase. Checkpoint 19 governs the unchanged Orange combat calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections.
 
-Checkpoint 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 25 correction > 25 master > 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -48,7 +50,7 @@ Checkpoint 05's per-wave timing-unresolved statement is superseded by the ranges
 
 **BLACKOUT** is current terminology for Kira's major Valnak power-loss event. Older brownout wording is historical analogy/provenance. Orb blender, Duo recursion, Trio consequence and Eternal Standings are promoted into active Kira/combat summaries. Checkpoint 06 biology remains unchanged in substance; registries remain infrastructure rather than character canon.
 
-Exact final record waves, Elara-through-Orb identity semantics, indefinite two/three-Orb sustainment, final Halo coloration and the eventual Trio third friend remain OPEN.
+**Historical OPEN snapshot; Checkpoint 25 resolves W36+ payout, Solo/Duo records and R/O/Y/G core awards; other listed questions retain their scope.** Exact final record waves, Elara-through-Orb identity semantics, indefinite two/three-Orb sustainment, final Halo coloration and the eventual Trio third friend remain OPEN.
 
 ## 07B final gap patch — authority remains Checkpoint 07
 
@@ -71,7 +73,7 @@ Older Checkpoint 03 Signature first Binding absorption wording is superseded by 
 
 ## Checkpoint 09 governing continuation
 
-Checkpoint 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+Checkpoint 25 correction > 25 master > 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 Lowercase `eldris` supersedes Checkpoint 08 uppercase typography. `raeon`, `domai`, `vaen`, `maege`, `maegi` are lowercase; spelling-by-letter capitals are transcription artifacts.
 The current carriage supersedes historical Open Blank transport. Schedule PDFs supply methodology only. MK157 explicit canon governs approved upstream inheritance. Outside persistent Dungeons are distinct from Valnak procedural training; outside `domai` unravel progressively after core break, while Valnak incursions terminate as completed encounters.
 Checkpoint 08 Green Solo graduation and Black/White progression remain. No new registry records are requested. The exact Checkpoint 09 master retains its original pending-integration header and quoted uppercase transcription example; current status is integrated and its authority is active.
@@ -79,9 +81,9 @@ See [full master](16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md), [source boundar
 
 ## Checkpoint 10 Trial/calendar delta
 
-Checkpoint 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
+Checkpoint 25 correction > 25 master > 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
 
-Wave totals describe delivered population, not simultaneous population. Solo/Duo/Trio share fixed 3×3-mile geography; Dungeon realization remains procedural. W35 pressure saturation is WORKING; post-W35 total population, numeric caps and exact spawn laws remain OPEN. W96 is noncanonical.
+Wave totals describe delivered population, not simultaneous population. Solo/Duo/Trio share fixed 3×3-mile geography; Dungeon realization remains procedural. W35 pressure saturation is WORKING; Checkpoint 25 locks a capped post-W35 White count; numeric caps and exact spawn laws remain OPEN. Checkpoint 25 locks White W1 Solo96 as an intermediate benchmark.
 
 Calendar conflict: supplied months sum to 353 rather than 360; 360 days/60 weeks implies six-day planetary weeks, while Trial prose mentions seven days. These remain CONFLICT/OPEN without fabricated corrections. Exact master retains its package PENDING header as provenance; integration is complete with these exceptions disclosed.
 
@@ -101,7 +103,7 @@ See [Checkpoint 12](19_CHECKPOINT_12_COMPLETE_PRICING.md) and [pricing policy](.
 
 Checkpoint 13: Absorption Shield GE-0537 B=3000 is superseded by 10000/Exceptional; other prices remain. White Legacy has both prerequisite compression and 45% package deduction (pay55%); full-price prequalification Persistent Coherence remains. GF-0018/GF-0038/GF-0088 use Expanded Intercept Resolve/Focused Intercept Resolve/Shared Intercept Resolve with stable IDs/mechanisms. Forced cooldown is expressed as fatigue/recovery/sustainable capacity. Orbs late Yellow; the older approximate mid-Green mature two-Orb timing yields to CP22/23’s one-Orb Arc Five stage. Later multi-Orb capability and carry regimes remain, with no replacement exact date supplied. ~55000 W1–35 macro target does not approve wave reward rows; rejected high-output tables remain quarantined.
 
-Checkpoint 14 full reconciliation governs: exact rewards 53910 supersede rounded ~55000 and erroneous 55030; W36+ stays OPEN. The supplied 17-event illi skeleton supersedes Early Blue Coherence/White Resonance windows and arbitrary failed calendars. Early deepening of Absorption is deferred in the locked skeleton until after late-Green Coherence Prime. Black flat 61000 finality is SUPERSEDED/OPEN for recalibration. Project Princess Carry, independent schedules, information gap and discretionary/commodity doctrine are active. Earlier checkpoint masters remain source history subject to these explicit corrections.
+Checkpoint 14 full reconciliation governs: exact rewards 53910 supersede rounded ~55000 and erroneous 55030; W36+ was OPEN at that checkpoint; Checkpoint 25 now locks 1,600 per completed wave. The supplied 17-event illi skeleton supersedes Early Blue Coherence/White Resonance windows and arbitrary failed calendars. Early deepening of Absorption is deferred in the locked skeleton until after late-Green Coherence Prime. Black flat 61000 finality is SUPERSEDED/OPEN for recalibration. Project Princess Carry, independent schedules, information gap and discretionary/commodity doctrine are active. Earlier checkpoint masters remain source history subject to these explicit corrections.
 
 ## Checkpoint 15 atomic eldris tooling
 
@@ -201,3 +203,21 @@ The supplied FULL LOCK package supersedes any provisional CP23 package; none was
 | Arc Six unplaced | 50 days G6D3–B6D3 fully locked; Arc Seven opens B6D4 |
 
 Arc Five remains exactly locked through G6D2. Its old references to 17 future milestones and an undated future Halo describe CP23 history; current post-Arc-Five authority is the [19-event ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) and [Arc Six](../world-clock/ARC6_DIRECTOR_CALENDAR.md). The specific incursion awards do not fix Y7D4’s earlier Orange payout or create rank tables. Exact Domain day, mature two-Orb timing, failed-run partial rewards, real bank balances and unrelated OPENs remain.
+
+## Checkpoint 25 — Arc Seven current lock
+
+Arc Six remains FULL LOCK through B6D3; Arc Seven opens B6D4 and ends with Valnak departure after White W7. Remaining Blue develops two-Orb control; **by V2D3** the blender is operationally stable; **V2D4** serious three-Orb training starts; **late V7** its blender application is operationally stable. These are application benchmarks, not Genesis Orbs mastery. Domain stays Late Violet for **61,017**, exact day OPEN.
+
+White W1 ordered blocks: **Solo96 → recovery → Duo100 → recovery → Solo100**, all voluntary termination. Final intended Solo/Duo standings: **100/100**. No Trio is booked. W36+ pays **1,600 per completed wave**; W96 **124,555**, W100 **130,955** to every eligible participant. W1–35 stays **26,955**; legitimate repeats pay and failed next waves pay zero. White W35+ population is capped; numeric cap and spawn configuration remain OPEN.
+
+Then illi’s question prompts **R/O/Y/G/G cores**, **8.5M each**. After the second Green, Elara’s ethical correction prompts mature-campaign-only closing. Blue core attempt fails/aborts, zero award; no Violet attempt. White W2–W6 each have **four mature Green closes**, **10M each/week**. W7 has Green closes **D1/D3 only**, **5M each**, otherwise vacation/finale. **Core total 63.5M each**. Ordinary contextual participation remains OPEN BY DESIGN and separate.
+
+White Normal R/O/Y/G first clears pay **18,750 each**, Hard R/O/Y/G **28,125 each**, combined **46,875 each**. Blue remains an access/credibility wall; no Blue/Violet Raid clear or required new Hard-Dungeon program is added. Exact Raid dates/runtimes remain OPEN.
+
+Fixed White gross: **Kira 63,933,340 / illi 63,677,830**. illi’s remaining first-White-Legacy bill is **9,513,297**; fixed gross after it is **54,164,533**, before discretion, carried reserve or contextual income. Purchases occur as liquidity arrives; exact rank dates remain OPEN. Beam can stay Green. Decoherence becomes available after the first White Legacy; illi voluntarily defers it at Elara’s request.
+
+White W7D5 championship and W7D5–D7 Final Auction retain standing infrastructure. Kira remains Black, buys a small voluntary support/interface package at **61,017 per one-off**, and a **White Dimensional Ring before departure**, price OPEN. Elara’s **999,999,999,999** price for the next Black node is temporary for this cycle; natural price and ontology remain OPEN. Advanced card rank prices are **5,700 / 9,120 / 16,416 / 34,474 / 86,185 / 258,555 / 1,034,220**. The specific Arc Three 86,000 Blue Fireball purchase remains preserved.
+
+No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase dates, card inventory, vaen species/lots/prices or discretionary final balances are invented. The prior draft’s 41M and Trio-based accounting is superseded.
+
+[Full reconciled canon](32_CHECKPOINT_25_ARC7_FINALE.md); [calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md); [audit](../world-clock/ARC7_ECONOMY_AUDIT.json); [remaining bill](../economy/ILLI_REMAINING_WHITE_BILL.json).

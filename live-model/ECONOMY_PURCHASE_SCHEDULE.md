@@ -2,7 +2,7 @@
 
 > Checkpoint 24 current progression: 19 events, 292,772 total through B6D3. Earlier checkpoint sections below retain development history; any 17-event/250,884 or Violet-endpoint projection is superseded by the [current illi ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json). Arc Five dates/outcomes through G6D2 remain locked.
 
-Current authority: Checkpoint 24, cumulative with earlier non-conflicting rules. The 19 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
+Current authority: Checkpoint 25, cumulative with earlier non-conflicting rules. The 19 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
 ## Kira Black acquisition economics — current
 
@@ -217,7 +217,7 @@ Absorption remains economically valuable, but the locked Checkpoint 14 schedule 
 Phase III — Kira CARRIES after Orb blender maturation:
 Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
-Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. No replacement two-Orb date is supplied.
+Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. Checkpoint 25 now locks the two-Orb blender application as operationally stable by V2D3.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
 Kira's Trial-breaking throughput then accelerates illi's White-Legacy credit generation dramatically.
 
@@ -228,7 +228,7 @@ This is a coupled positive feedback system, not generic veteran boosting.
 
 ## Exact Trial reward schedule
 
-Checkpoint 18 recalibrates the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 26,955 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. W36+ remains OPEN. Earlier ~55,000 and Checkpoint 14's 53,910 are historical pre-recalibration values; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
+Checkpoint 18 recalibrates the exact [W1–35 reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv), totaling 26,955 per eligible participant. Completed waves pay; the failed next wave does not. Solo/Duo/Trio share the schedule; legitimate repeats pay again. Checkpoint 25 locks every completed W36+ at 1,600 credits per eligible participant. Earlier ~55,000 and Checkpoint 14's 53,910 are historical pre-recalibration values; the rejected high-output table stays rejected. [Reward economy context](../trial-rewards/README.md) preserves the ~156-hour estimate and career/multi-cycle White-mastery design.
 
 
 ## Commodity economy — LOCK doctrine; prices mostly OPEN
@@ -245,7 +245,7 @@ Illustrative White Fireball 1.3M/3M, Dimensional Ring 2M, and Valnak-made prince
 
 The [illi author ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) preserves all 17 milestone dates and totals **250,884 credits** in progression expenditure by Violet W2 D2. Full-price prequalification Persistent Coherence and independent 55%-of-list package purchases match the established pricing rules. This is not literal bank balance or gross earnings; discretionary spending remains separate.
 
-White Valnak Normal Dungeon successful-completion base is **34,455 = 26,955 + 7,500 credits**. Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour, with failure/procedural/coordination risk preserving Trial value. Checkpoint 18 recalibrates the [complete Normal/Hard Dungeon completion and Raid major-boss payouts](../combat-rewards/README.md). Hard rewards are 1.5× Normal rounded HALF_UP; Hard Dungeon average areas match Normal and pressure increases through density/deployed groups. Raid rewards remain once per participant per boss per season; Expedition elimination persists for the attempt with no mid-run replacement. Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN. Valnak domai awards are contextual per incursion/per participant and OPEN BY DESIGN; no rank table or deterministic formula is assigned, and the core-break amount/formula remains OPEN. The [Normal Dungeon scale](../builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv) supplies authored runtime targets, not fixed stopwatch laws.
+White Valnak Normal Dungeon successful-completion base is **34,455 = 26,955 + 7,500 credits**. Reliable Dungeon clears should generally outperform equivalent Trial farming in credits/hour, with failure/procedural/coordination risk preserving Trial value. Checkpoint 18 recalibrates the [complete Normal/Hard Dungeon completion and Raid major-boss payouts](../combat-rewards/README.md). Hard rewards are 1.5× Normal rounded HALF_UP; Hard Dungeon average areas match Normal and pressure increases through density/deployed groups. Raid rewards remain once per participant per boss per season; Expedition elimination persists for the attempt with no mid-run replacement. Dungeon distribution, partial-progress, boss/contribution and first-clear bonus formulas remain OPEN. Valnak domai awards are contextual per incursion/per participant and OPEN BY DESIGN; no rank table or deterministic formula is assigned, and Checkpoint 25 separately locks Kira+illi R/O/Y/G core awards; Blue/Violet successful amounts remain OPEN. The [Normal Dungeon scale](../builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv) supplies authored runtime targets, not fixed stopwatch laws.
 
 The World Clock + character + economy calendar is ready for authored content placement. Purchases must be economically plausible against the ledger's progression-capital breakpoints, without micro-accounting every discretionary purchase. No new income schedule, encounter placement or post-Violet-W2 rank date is invented here.
 
@@ -329,3 +329,21 @@ Absorption now ranks **B1D3 Orange 14,960 → B2D4 Yellow 26,928 → B5D6 Green 
 Arc Six illi gross **157,065**, progression spend **149,675**, ending earmarked reserve **7,390**, starting at zero for this progression account only. Her bank account is not assumed zero; discretionary life remains separate. At B6D3: PC Blue / Absorption Green / Beam Green / Genesis Prime Yellow / Coherence Prime Red / Resonance Prime Red. Offense / restoration / frontline-persistence now all exist; later progression deepens them rather than acquiring the triad. Later Arc Seven dates remain OPEN. [Calendar and audit](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
 
 Kira gross is **148,600**, including the two specific domai shares 30,000 + 15,000. Halo B1D5 costs **61,017** and is author-declared solvent with prior carry-in; no zero-start Kira solvency is asserted. illi’s 28 reserve entries remain nonnegative chronologically. Failed Blue partial awards and actual discretionary transactions are excluded/OPEN. Reward tables and 55% HALF_UP package pricing are unchanged.
+
+## Checkpoint 25 — Arc Seven current lock
+
+Arc Six remains FULL LOCK through B6D3; Arc Seven opens B6D4 and ends with Valnak departure after White W7. Remaining Blue develops two-Orb control; **by V2D3** the blender is operationally stable; **V2D4** serious three-Orb training starts; **late V7** its blender application is operationally stable. These are application benchmarks, not Genesis Orbs mastery. Domain stays Late Violet for **61,017**, exact day OPEN.
+
+White W1 ordered blocks: **Solo96 → recovery → Duo100 → recovery → Solo100**, all voluntary termination. Final intended Solo/Duo standings: **100/100**. No Trio is booked. W36+ pays **1,600 per completed wave**; W96 **124,555**, W100 **130,955** to every eligible participant. W1–35 stays **26,955**; legitimate repeats pay and failed next waves pay zero. White W35+ population is capped; numeric cap and spawn configuration remain OPEN.
+
+Then illi’s question prompts **R/O/Y/G/G cores**, **8.5M each**. After the second Green, Elara’s ethical correction prompts mature-campaign-only closing. Blue core attempt fails/aborts, zero award; no Violet attempt. White W2–W6 each have **four mature Green closes**, **10M each/week**. W7 has Green closes **D1/D3 only**, **5M each**, otherwise vacation/finale. **Core total 63.5M each**. Ordinary contextual participation remains OPEN BY DESIGN and separate.
+
+White Normal R/O/Y/G first clears pay **18,750 each**, Hard R/O/Y/G **28,125 each**, combined **46,875 each**. Blue remains an access/credibility wall; no Blue/Violet Raid clear or required new Hard-Dungeon program is added. Exact Raid dates/runtimes remain OPEN.
+
+Fixed White gross: **Kira 63,933,340 / illi 63,677,830**. illi’s remaining first-White-Legacy bill is **9,513,297**; fixed gross after it is **54,164,533**, before discretion, carried reserve or contextual income. Purchases occur as liquidity arrives; exact rank dates remain OPEN. Beam can stay Green. Decoherence becomes available after the first White Legacy; illi voluntarily defers it at Elara’s request.
+
+White W7D5 championship and W7D5–D7 Final Auction retain standing infrastructure. Kira remains Black, buys a small voluntary support/interface package at **61,017 per one-off**, and a **White Dimensional Ring before departure**, price OPEN. Elara’s **999,999,999,999** price for the next Black node is temporary for this cycle; natural price and ontology remain OPEN. Advanced card rank prices are **5,700 / 9,120 / 16,416 / 34,474 / 86,185 / 258,555 / 1,034,220**. The specific Arc Three 86,000 Blue Fireball purchase remains preserved.
+
+No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase dates, card inventory, vaen species/lots/prices or discretionary final balances are invented. The prior draft’s 41M and Trio-based accounting is superseded.
+
+[Full reconciled canon](32_CHECKPOINT_25_ARC7_FINALE.md); [calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md); [audit](../world-clock/ARC7_ECONOMY_AUDIT.json); [remaining bill](../economy/ILLI_REMAINING_WHITE_BILL.json).

@@ -70,7 +70,7 @@ def audit(root):
        'trial-rewards/TRIAL_WAVE_CREDITS.csv','trial-rewards/TRIAL_WAVE_CREDITS.json',
        'combat-rewards/COMBAT_REWARD_TABLES.json','combat-rewards/DOMAI_PARTICIPATION_RULES.json',
        'bindings/PRICING_CLASS_MATRIX.json','live-model/AITHREN_VAELUM_ACCORD.md']
-    protected=[p for p in protected if p not in {'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}]
+    protected=[p for p in protected if p not in {'trial-rewards/README.md', 'combat-rewards/COMBAT_REWARD_TABLES.json', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/validate_rewards.py', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}]
     for path in protected: require((root/path).read_bytes()==old(path), 'Protected file changed: '+path)
     source=read('provenance/checkpoint-20-package/CHECKPOINT20_LIVE_MODEL_DELTA.md')
     require(read('live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md').endswith(source), 'Exhaustive author delta not retained')

@@ -75,7 +75,7 @@ def audit(directory, repository):
     require(domai['reward_formula'] == 'OPEN BY DESIGN', 'domai formula must remain OPEN BY DESIGN')
     for concept in ('contextual validated-contribution', 'no fixed rank table', 'eldris kills',
                     'healing/support', 'control', 'operational contribution', 'core assault',
-                    'other validated participation', 'Core-break bonus concept preserved; exact amount OPEN'):
+                    'other validated participation', 'CP25 R/O/Y/G core-break awards are a separate layer in DOMAI_CORE_AWARDS.json; Blue/Violet successful core amounts OPEN'):
         require(concept in domai['rule'], f'domai contribution boundary missing: {concept}')
 
     manifest_path = repository / 'builder/encounters/eldris/MANIFEST.json'

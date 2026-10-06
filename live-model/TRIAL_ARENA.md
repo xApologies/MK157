@@ -134,7 +134,7 @@ Beyond the saturation boundary, White progression increasingly tests:
 - legal White encounter composition/geometry;
 - total delivered population / duration where appropriate.
 
-Exact post-W35 population law remains OPEN. It is not yet decided whether total population continues to grow, eventually flattens, or follows another bounded rule.
+Checkpoint 25 locks capped White W35+ population/count with variable configuration and organization; the numeric cap and exact spawn laws remain OPEN.
 
 Maximum concurrent/inflow pressure is the important saturation concept.
 
@@ -150,11 +150,11 @@ As Kira develops, her combat throughput can exceed the Trial's intended encounte
 
 Eventually the limiting factor increasingly becomes **Trial encounter-delivery throughput and elapsed time**, rather than Kira's ability to survive the incoming population.
 
-This does NOT lock Kira's final Eternal Standing wave.
+This earlier throughput model alone did not set a record; Checkpoint 25 subsequently locks intended final Solo/Duo W100/W100.
 
-Wave 96 remains explicitly NONCANON / illustrative until deliberately chosen.
+Checkpoint 25 deliberately chooses White W1 Solo96 before Duo100 and Solo100.
 
-Kira may eventually stop a record push voluntarily because of boredom/time commitment rather than being defeated. This is a working character direction, not yet a locked final record scene.
+Checkpoint 25 locks voluntary termination of White W1 Solo96, Duo100 and Solo100. Exact subjective motivation and intraday scene details remain flexible.
 
 # 10. Kira's preferred mature-blender position
 
@@ -213,3 +213,21 @@ Voluntary termination is available during the short inter-wave break/timer, with
 ## Checkpoint 23 — paid practice and standings
 
 The [Arc Five calendar](../world-clock/ARC5_DIRECTOR_CALENDAR.md) locks five shared W18 clears/W19 failures. Kira's six paid Solo outings clear W3, W5, W7, W10, W14, then **W19 Blue at G5D1 / W20 reached-fails**. Low-wave stops are voluntary practice, not loss of previously established standing. illi clears W8 at G1D4, W9 at G3D2 and **W10 Yellow at G5D2 / W11 reached-fails**. Normal paid runs begin W1; no failed next-wave credit is awarded. Training Yard remains unpaid. No Trio outing or finite Black mastery cap is added.
+
+## Checkpoint 25 — Arc Seven current lock
+
+Arc Six remains FULL LOCK through B6D3; Arc Seven opens B6D4 and ends with Valnak departure after White W7. Remaining Blue develops two-Orb control; **by V2D3** the blender is operationally stable; **V2D4** serious three-Orb training starts; **late V7** its blender application is operationally stable. These are application benchmarks, not Genesis Orbs mastery. Domain stays Late Violet for **61,017**, exact day OPEN.
+
+White W1 ordered blocks: **Solo96 → recovery → Duo100 → recovery → Solo100**, all voluntary termination. Final intended Solo/Duo standings: **100/100**. No Trio is booked. W36+ pays **1,600 per completed wave**; W96 **124,555**, W100 **130,955** to every eligible participant. W1–35 stays **26,955**; legitimate repeats pay and failed next waves pay zero. White W35+ population is capped; numeric cap and spawn configuration remain OPEN.
+
+Then illi’s question prompts **R/O/Y/G/G cores**, **8.5M each**. After the second Green, Elara’s ethical correction prompts mature-campaign-only closing. Blue core attempt fails/aborts, zero award; no Violet attempt. White W2–W6 each have **four mature Green closes**, **10M each/week**. W7 has Green closes **D1/D3 only**, **5M each**, otherwise vacation/finale. **Core total 63.5M each**. Ordinary contextual participation remains OPEN BY DESIGN and separate.
+
+White Normal R/O/Y/G first clears pay **18,750 each**, Hard R/O/Y/G **28,125 each**, combined **46,875 each**. Blue remains an access/credibility wall; no Blue/Violet Raid clear or required new Hard-Dungeon program is added. Exact Raid dates/runtimes remain OPEN.
+
+Fixed White gross: **Kira 63,933,340 / illi 63,677,830**. illi’s remaining first-White-Legacy bill is **9,513,297**; fixed gross after it is **54,164,533**, before discretion, carried reserve or contextual income. Purchases occur as liquidity arrives; exact rank dates remain OPEN. Beam can stay Green. Decoherence becomes available after the first White Legacy; illi voluntarily defers it at Elara’s request.
+
+White W7D5 championship and W7D5–D7 Final Auction retain standing infrastructure. Kira remains Black, buys a small voluntary support/interface package at **61,017 per one-off**, and a **White Dimensional Ring before departure**, price OPEN. Elara’s **999,999,999,999** price for the next Black node is temporary for this cycle; natural price and ontology remain OPEN. Advanced card rank prices are **5,700 / 9,120 / 16,416 / 34,474 / 86,185 / 258,555 / 1,034,220**. The specific Arc Three 86,000 Blue Fireball purchase remains preserved.
+
+No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase dates, card inventory, vaen species/lots/prices or discretionary final balances are invented. The prior draft’s 41M and Trio-based accounting is superseded.
+
+[Full reconciled canon](32_CHECKPOINT_25_ARC7_FINALE.md); [calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md); [audit](../world-clock/ARC7_ECONOMY_AUDIT.json); [remaining bill](../economy/ILLI_REMAINING_WHITE_BILL.json).

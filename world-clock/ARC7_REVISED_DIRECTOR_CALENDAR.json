@@ -1,0 +1,98 @@
+[
+  {
+    "season": "Blue",
+    "week": "6",
+    "day_or_range": "4-7",
+    "activity": "Two-Orb development",
+    "fixed_income": "No fixed major payout",
+    "notes": "Arc Seven opens; routine training"
+  },
+  {
+    "season": "Blue",
+    "week": "7",
+    "day_or_range": "1-7",
+    "activity": "Two-Orb development / Blue close",
+    "fixed_income": "No fixed major payout",
+    "notes": "No record chase required"
+  },
+  {
+    "season": "Violet",
+    "week": "1-2",
+    "day_or_range": "through V2D3",
+    "activity": "Two-Orb blender operationally stable",
+    "fixed_income": "No fixed major payout",
+    "notes": "Three-Orb work begins V2D4"
+  },
+  {
+    "season": "Violet",
+    "week": "3-5",
+    "day_or_range": "all",
+    "activity": "Three-Orb cognitive/stability training",
+    "fixed_income": "No fixed major payout",
+    "notes": "No record chase"
+  },
+  {
+    "season": "Violet",
+    "week": "6-7",
+    "day_or_range": "late",
+    "activity": "Three-Orb stabilization + Domain late Violet",
+    "fixed_income": "Domain costs Kira 61,017",
+    "notes": "Exact Domain day OPEN"
+  },
+  {
+    "season": "White",
+    "week": "1",
+    "day_or_range": "ordered blocks",
+    "activity": "Solo W96; Duo W100; Solo W100; R/O/Y/G/G core sequence",
+    "fixed_income": "Kira Trial 386,465; illi Trial 130,955; core 8.5M each",
+    "notes": "Elara admonishes after second Green"
+  },
+  {
+    "season": "White",
+    "week": "2",
+    "day_or_range": "week",
+    "activity": "4 mature Green closes",
+    "fixed_income": "10M each",
+    "notes": "Closer doctrine"
+  },
+  {
+    "season": "White",
+    "week": "3",
+    "day_or_range": "week",
+    "activity": "4 mature Green closes",
+    "fixed_income": "10M each",
+    "notes": "Closer doctrine"
+  },
+  {
+    "season": "White",
+    "week": "4",
+    "day_or_range": "week",
+    "activity": "4 mature Green closes",
+    "fixed_income": "10M each",
+    "notes": "Closer doctrine"
+  },
+  {
+    "season": "White",
+    "week": "5",
+    "day_or_range": "week",
+    "activity": "4 mature Green closes",
+    "fixed_income": "10M each",
+    "notes": "Closer doctrine"
+  },
+  {
+    "season": "White",
+    "week": "6",
+    "day_or_range": "week",
+    "activity": "4 mature Green closes",
+    "fixed_income": "10M each",
+    "notes": "Closer doctrine / Prism social emphasis"
+  },
+  {
+    "season": "White",
+    "week": "7",
+    "day_or_range": "D1/D3",
+    "activity": "2 mature Green closes; otherwise vacation/finale",
+    "fixed_income": "5M each",
+    "notes": "Final Auction W7D5-D7"
+  }
+]

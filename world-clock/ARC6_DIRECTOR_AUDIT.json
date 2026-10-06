@@ -538,12 +538,64 @@
       6
     ],
     [
+      "Blue",
+      7
+    ],
+    [
       "Violet",
       1
     ],
     [
       "Violet",
       2
+    ],
+    [
+      "Violet",
+      3
+    ],
+    [
+      "Violet",
+      4
+    ],
+    [
+      "Violet",
+      5
+    ],
+    [
+      "Violet",
+      6
+    ],
+    [
+      "Violet",
+      7
+    ],
+    [
+      "White",
+      1
+    ],
+    [
+      "White",
+      2
+    ],
+    [
+      "White",
+      3
+    ],
+    [
+      "White",
+      4
+    ],
+    [
+      "White",
+      5
+    ],
+    [
+      "White",
+      6
+    ],
+    [
+      "White",
+      7
     ]
   ],
   "standing_clock_fields_unchanged": true,
@@ -617,13 +669,10 @@
     "builder/paths/PATH_SCHEMA.md",
     "builder/paths/README.md",
     "combat-rewards/AUDIT.json",
-    "combat-rewards/COMBAT_REWARD_TABLES.json",
     "combat-rewards/DOMAI_GROUP_ECONOMY.json",
     "combat-rewards/DOMAI_GROUP_ECONOMY.md",
-    "combat-rewards/DOMAI_PARTICIPATION_RULES.json",
     "combat-rewards/DUNGEON_REWARDS.csv",
     "combat-rewards/RAID_BOSS_REWARDS.csv",
-    "combat-rewards/validate_rewards.py",
     "live-model/07_CHECKPOINT_02_ADDENDUM.md",
     "live-model/08_CHECKPOINT_03_ADDENDUM.md",
     "live-model/09_CHECKPOINT_04_ADDENDUM.md",
@@ -647,7 +696,6 @@
     "live-model/28_CHECKPOINT_21_ARC4_YELLOW.md",
     "live-model/29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md",
     "live-model/30_CHECKPOINT_23_ARC5_COMBAT_CALENDAR.md",
-    "live-model/BLACK_SYSTEMS_MASTERY.md",
     "live-model/TRAINING_YARD.md",
     "prior-checkpoint-source/EXECUTABLE.md",
     "prior-checkpoint-source/LIVE_MODEL_01_CANON.md",
@@ -952,7 +1000,6 @@
     "summons/SUMMON_PRICING.csv",
     "summons/SUMMON_PRICING.json",
     "summons/SUMMON_PRICING.jsonl",
-    "trial-rewards/README.md",
     "trial-rewards/TRIAL_WAVE_CREDITS.csv",
     "trial-rewards/TRIAL_WAVE_CREDITS.json",
     "world-clock/ARC3_ORANGE_CALENDAR.csv",
@@ -972,19 +1019,19 @@
   ],
   "sha256": {
     "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "056532016144fa8f1afccbc6a03c8f4853fecb128cf67c86e317795c2dfdd440",
-    "live-model/01_KIRA.md": "f6e60d398ae7f591992375448e150d278ee1322433928a757876e2939646130a",
-    "live-model/COMBAT_ECOLOGY.md": "8d0e37bb983293b2522c97bcd7bab066380f7a4cc2b5a602e824f52820d925cc",
-    "live-model/DOMAI_PARTICIPATION.md": "f426aaa4dcfe7034a88b2fff3bba61e0f6b086cd11e99df2235b5be6158d03d4",
-    "live-model/ILLI_PROGRESSION.md": "c507b9928ae4b45f7162f07d390f8eb3e52573607b6fa60517cb454b784100f7",
-    "live-model/OPEN.md": "55b0769c5c1bcd18fec01fd69f9d3a1d5d59c94a1075ebb4efab51eedc95cf58",
-    "live-model/PARTNERSHIP_AND_CARRY.md": "a970903e3b4a9a99fa71d3c40db2018a27a7cf7f03a636c0616fde7e9a31eed5",
-    "live-model/PRIME_ELEMENTALS.md": "02d41c3c2e55fc283e9891ed03583992420e622698c43d5c5314e042610006a3",
+    "live-model/01_KIRA.md": "1551a64bdd8c537ac5a4b144780dff6387c77d679bb49f9da839c452d230e1f1",
+    "live-model/COMBAT_ECOLOGY.md": "f346dde405b76e9916968e529e3631a6109dc33278581d04b9d66a8a9e2fc8d7",
+    "live-model/DOMAI_PARTICIPATION.md": "b28a41bd98d68c386b29cc7d57d410a8b8fce9fb07f67024344e8b3fab70a075",
+    "live-model/ILLI_PROGRESSION.md": "93684951f551c99638cbaa22c5d681c35e9c1c510cde5e5d2e8630167e9c335d",
+    "live-model/OPEN.md": "5c62421942698d46c12455c60ed9cf6d3467847829ae4ba55845eed04d64d854",
+    "live-model/PARTNERSHIP_AND_CARRY.md": "6d142da91cf75183959572b7bea9e57d05705b43b158974172221038cd8963d7",
+    "live-model/PRIME_ELEMENTALS.md": "bf2c11190d87e2413e464c77d311cb9711f6fbe6b0e545d3ba611f2e4fd579dd",
     "world-clock/ARC6_DIRECTOR_CALENDAR.json": "3560ba99bad46d32b88991030befe30922f17204f245986d5a71f8031a7001fe",
     "world-clock/ARC6_HANDOFF.json": "d70458734c4527ed81ee975bb4af5c73809015c17eb441c3d44600bc5d9206fc",
     "world-clock/ARC6_ILLI_CREDIT_LEDGER.json": "3af956722b1be78ac511ec7192caddabe83bf35fb43e772380b44c3aabfbac68",
     "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json": "0414425a6d94461fc2ea81c905bde475cf67a42a7ac0d0ea6ae41646ea7129e0",
     "world-clock/ILLI_PROGRESSION_SKELETON.json": "3e9f335ffc6f5ae80af8f3571e22465eb369b9481cdfa23edc31857061454223",
-    "world-clock/WORLD_CLOCK_TEMPLATE.csv": "f1419e7912542bfb8e8490bed6434691b089db04de9c398d6f93ed3f1bd73340",
-    "world-clock/validate_arc6.py": "c692ec4e9c2fa62e111126fdf183e47281ef887f87e09eb7393b46f574045467"
+    "world-clock/WORLD_CLOCK_TEMPLATE.csv": "a93a1318c24260508cdf55fc61d80527f878da54da69caccac38457df6e9c699",
+    "world-clock/validate_arc6.py": "b32a8d2e4351b346d09eb6c06f61f0bb8f6342c0132dc953faf19ad6ed0fdcc2"
   }
 }

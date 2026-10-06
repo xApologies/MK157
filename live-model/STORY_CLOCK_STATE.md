@@ -296,7 +296,7 @@ Absorption remains economically valuable, but the locked Checkpoint 14 schedule 
 Phase III — Kira CARRIES after Orb blender maturation:
 Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
-Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. No replacement two-Orb date is supplied.
+Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. Checkpoint 25 now locks the two-Orb blender application as operationally stable by V2D3.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
 Kira's Trial-breaking throughput then accelerates illi's White-Legacy credit generation dramatically.
 
@@ -306,15 +306,15 @@ Orb exclusion → illi Absorption/prevention → Armor of the Abyss → Kira.
 This is a coupled positive feedback system, not generic veteran boosting.
 
 ## 5. Trial / Eternal Standing narrative direction
-Historical/Kira final numeric records remain OPEN.
-Wave 96 remains illustrative/noncanonical unless deliberately locked later.
+Historical other-participant records remain OPEN; Checkpoint 25 locks Kira’s intended Solo/Duo W100/W100.
+Checkpoint 25 deliberately locks W96 as the intermediate White W1 Solo benchmark before Solo100.
 A historical record around low-40s versus a vastly higher Kira record is a working magnitude concept only, not a numeric canon lock.
 
 Mature blender scenes may include Kira and illi remaining near the Central Basin, conversing/bored while the Orb geometry processes incoming eldris. This is lawful Trial behavior, not cheating or an aggro exploit. Elara's frustration is engineering/comedic frustration at Kira breaking intended scaling while obeying actual rules.
 
 [Economy](ECONOMY_PURCHASE_SCHEDULE.md) contains canonical list/subsidized costs and exact Trial rewards. [illi progression](ILLI_PROGRESSION.md) supplies 19 locked milestones through B6D3 under Checkpoint 24; later unsupplied purchase/rank dates remain OPEN.
 
-Checkpoint 14 historical projection (post-G6D2 tail superseded by Checkpoint 24): [illi milestones](ILLI_PROGRESSION.md) lock the supplied dates through Violet W2 D2; Coherence Prime is late Green and Resonance Prime early Violet. Later rank dates remain OPEN, with PC/Absorption/three Primes targeted toward White and Beam potentially remaining Green. [Project Princess Carry and independent schedules](PARTNERSHIP_AND_CARRY.md) govern broad Red–Violet content and intentionally Trial-heavy White. Checkpoint 19 now locks the post-Armor Black acquisition tier at 61,017; W96 and low-40s records remain illustrative/noncanonical.
+Checkpoint 14 historical projection (post-G6D2 tail superseded by Checkpoint 24): [illi milestones](ILLI_PROGRESSION.md) lock the supplied dates through Violet W2 D2; Coherence Prime is late Green and Resonance Prime early Violet. Later rank dates remain OPEN, with PC/Absorption/three Primes targeted toward White and Beam potentially remaining Green. [Project Princess Carry and independent schedules](PARTNERSHIP_AND_CARRY.md) govern character agency across Red–Violet; Checkpoint 25 replaces the older Trial-heavy White projection with the three-run W1 payoff and mature Green closer program. Checkpoint 19 now locks the post-Armor Black acquisition tier at 61,017; W96 is now locked by Checkpoint 25; unsupplied low-40s examples remain illustrative.
 
 ## Checkpoint 16 calendar handoff
 
@@ -418,3 +418,21 @@ Arc Six **G6D3→B6D3** follows the unchanged Arc Five close. Arc Seven opens **
 Absorption now ranks **B1D3 Orange 14,960 → B2D4 Yellow 26,928 → B5D6 Green 56,549**; **B6D3 Resonance Prime Red 9,350** completes the foundational triad. These replace the old G6D4/G7D2 Absorption and V1D3/V2D2 projections. The first 13 ledger events through G6D2 stay exact; six later events make **19 events / 292,772 cumulative spend**.
 
 Arc Six illi gross **157,065**, progression spend **149,675**, ending earmarked reserve **7,390**, starting at zero for this progression account only. Her bank account is not assumed zero; discretionary life remains separate. At B6D3: PC Blue / Absorption Green / Beam Green / Genesis Prime Yellow / Coherence Prime Red / Resonance Prime Red. Offense / restoration / frontline-persistence now all exist; later progression deepens them rather than acquiring the triad. Later Arc Seven dates remain OPEN. [Calendar and audit](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
+
+## Checkpoint 25 — Arc Seven current lock
+
+Arc Six remains FULL LOCK through B6D3; Arc Seven opens B6D4 and ends with Valnak departure after White W7. Remaining Blue develops two-Orb control; **by V2D3** the blender is operationally stable; **V2D4** serious three-Orb training starts; **late V7** its blender application is operationally stable. These are application benchmarks, not Genesis Orbs mastery. Domain stays Late Violet for **61,017**, exact day OPEN.
+
+White W1 ordered blocks: **Solo96 → recovery → Duo100 → recovery → Solo100**, all voluntary termination. Final intended Solo/Duo standings: **100/100**. No Trio is booked. W36+ pays **1,600 per completed wave**; W96 **124,555**, W100 **130,955** to every eligible participant. W1–35 stays **26,955**; legitimate repeats pay and failed next waves pay zero. White W35+ population is capped; numeric cap and spawn configuration remain OPEN.
+
+Then illi’s question prompts **R/O/Y/G/G cores**, **8.5M each**. After the second Green, Elara’s ethical correction prompts mature-campaign-only closing. Blue core attempt fails/aborts, zero award; no Violet attempt. White W2–W6 each have **four mature Green closes**, **10M each/week**. W7 has Green closes **D1/D3 only**, **5M each**, otherwise vacation/finale. **Core total 63.5M each**. Ordinary contextual participation remains OPEN BY DESIGN and separate.
+
+White Normal R/O/Y/G first clears pay **18,750 each**, Hard R/O/Y/G **28,125 each**, combined **46,875 each**. Blue remains an access/credibility wall; no Blue/Violet Raid clear or required new Hard-Dungeon program is added. Exact Raid dates/runtimes remain OPEN.
+
+Fixed White gross: **Kira 63,933,340 / illi 63,677,830**. illi’s remaining first-White-Legacy bill is **9,513,297**; fixed gross after it is **54,164,533**, before discretion, carried reserve or contextual income. Purchases occur as liquidity arrives; exact rank dates remain OPEN. Beam can stay Green. Decoherence becomes available after the first White Legacy; illi voluntarily defers it at Elara’s request.
+
+White W7D5 championship and W7D5–D7 Final Auction retain standing infrastructure. Kira remains Black, buys a small voluntary support/interface package at **61,017 per one-off**, and a **White Dimensional Ring before departure**, price OPEN. Elara’s **999,999,999,999** price for the next Black node is temporary for this cycle; natural price and ontology remain OPEN. Advanced card rank prices are **5,700 / 9,120 / 16,416 / 34,474 / 86,185 / 258,555 / 1,034,220**. The specific Arc Three 86,000 Blue Fireball purchase remains preserved.
+
+No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase dates, card inventory, vaen species/lots/prices or discretionary final balances are invented. The prior draft’s 41M and Trio-based accounting is superseded.
+
+[Full reconciled canon](32_CHECKPOINT_25_ARC7_FINALE.md); [calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md); [audit](../world-clock/ARC7_ECONOMY_AUDIT.json); [remaining bill](../economy/ILLI_REMAINING_WHITE_BILL.json).

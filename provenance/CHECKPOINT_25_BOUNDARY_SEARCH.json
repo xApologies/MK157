@@ -1,0 +1,51 @@
+{
+  "checkpoint": 25,
+  "result": "PASS",
+  "authority": "correction > compatible master > CP24 on explicit conflict",
+  "master_package_recovered": true,
+  "prior_master_was_integrated": false,
+  "current_baseline": "e540b07afd6d231c771e5e744e5a0ee3d5aabcf8",
+  "source_reading": "All21packagefiles,20PDFpages;text extraction and contact-sheet visual inspection",
+  "current_structured_checks": {
+    "no_trio": true,
+    "core_each": 63500000,
+    "trial_sequence": [
+      "White W1 Solo96",
+      "White W1 Duo100",
+      "White W1 Solo100"
+    ],
+    "milestones": [
+      "V2D3",
+      "V2D4",
+      "late V7"
+    ],
+    "dated_illi_ledger": "19events unchanged; remaining bill separate and untimed"
+  },
+  "resolved": [
+    "W36+ credits",
+    "Solo/Duo final100/100 and intermediateSolo96",
+    "White W35+ count capped",
+    "Orb application anchors",
+    "R/O/Y/G core awards and mature closer schedule",
+    "Advanced card ladder",
+    "White ring acquisition, not price",
+    "Decoherence voluntary deferral"
+  ],
+  "open": [
+    "Exact B6D4→V7 daily calendar beyond supplied anchors",
+    "Domain exact day",
+    "Genesis Orbs full mastery/ontology",
+    "Support Binding names/count/dates",
+    "Next Black node ontology/natural price",
+    "illi exact White rank dates",
+    "Raid exact dates/runtimes/Blue invitation attempts",
+    "Dimensional Ring exact credit price",
+    "Rare living vaen species/lots/prices",
+    "Card identities/quantities/exceptional auction prices",
+    "Discretionary final balances",
+    "Successful Blue/Violet core bonuses",
+    "Numeric White population cap/exact spawn laws",
+    "Earlier unrelated OPENs including Y7D4 context award/failure depth/planetary arithmetic"
+  ],
+  "historical_scope": "Numbered earlier checkpoint masters and all provenance remain immutable; earlier OPEN snapshots are explicitly historical. Arc Six boundary handoff keeps old future-OPEN wording; current CP25 addendum/calendar supersede only later explicit details. No prior draft accounting is promoted into current ledgers."
+}

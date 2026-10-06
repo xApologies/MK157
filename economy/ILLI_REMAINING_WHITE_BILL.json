@@ -1,0 +1,170 @@
+[
+  {
+    "binding": "Persistent Coherence",
+    "from_B6D3_rank": "Blue",
+    "purchase_rank": "Violet",
+    "base_price": 77115,
+    "illi_cost": 42413,
+    "purchase_date": null
+  },
+  {
+    "binding": "Persistent Coherence",
+    "from_B6D3_rank": "Blue",
+    "purchase_rank": "White",
+    "base_price": 308460,
+    "illi_cost": 169653,
+    "purchase_date": null
+  },
+  {
+    "binding": "Absorption Shield",
+    "from_B6D3_rank": "Green",
+    "purchase_rank": "Blue",
+    "base_price": 257040,
+    "illi_cost": 141372,
+    "purchase_date": null
+  },
+  {
+    "binding": "Absorption Shield",
+    "from_B6D3_rank": "Green",
+    "purchase_rank": "Violet",
+    "base_price": 771120,
+    "illi_cost": 424116,
+    "purchase_date": null
+  },
+  {
+    "binding": "Absorption Shield",
+    "from_B6D3_rank": "Green",
+    "purchase_rank": "White",
+    "base_price": 3084480,
+    "illi_cost": 1696464,
+    "purchase_date": null
+  },
+  {
+    "binding": "Genesis Prime Elemental",
+    "from_B6D3_rank": "Yellow",
+    "purchase_rank": "Green",
+    "base_price": 102816,
+    "illi_cost": 56549,
+    "purchase_date": null
+  },
+  {
+    "binding": "Genesis Prime Elemental",
+    "from_B6D3_rank": "Yellow",
+    "purchase_rank": "Blue",
+    "base_price": 257040,
+    "illi_cost": 141372,
+    "purchase_date": null
+  },
+  {
+    "binding": "Genesis Prime Elemental",
+    "from_B6D3_rank": "Yellow",
+    "purchase_rank": "Violet",
+    "base_price": 771120,
+    "illi_cost": 424116,
+    "purchase_date": null
+  },
+  {
+    "binding": "Genesis Prime Elemental",
+    "from_B6D3_rank": "Yellow",
+    "purchase_rank": "White",
+    "base_price": 3084480,
+    "illi_cost": 1696464,
+    "purchase_date": null
+  },
+  {
+    "binding": "Coherence Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "Orange",
+    "base_price": 27200,
+    "illi_cost": 14960,
+    "purchase_date": null
+  },
+  {
+    "binding": "Coherence Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "Yellow",
+    "base_price": 48960,
+    "illi_cost": 26928,
+    "purchase_date": null
+  },
+  {
+    "binding": "Coherence Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "Green",
+    "base_price": 102816,
+    "illi_cost": 56549,
+    "purchase_date": null
+  },
+  {
+    "binding": "Coherence Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "Blue",
+    "base_price": 257040,
+    "illi_cost": 141372,
+    "purchase_date": null
+  },
+  {
+    "binding": "Coherence Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "Violet",
+    "base_price": 771120,
+    "illi_cost": 424116,
+    "purchase_date": null
+  },
+  {
+    "binding": "Coherence Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "White",
+    "base_price": 3084480,
+    "illi_cost": 1696464,
+    "purchase_date": null
+  },
+  {
+    "binding": "Resonance Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "Orange",
+    "base_price": 27200,
+    "illi_cost": 14960,
+    "purchase_date": null
+  },
+  {
+    "binding": "Resonance Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "Yellow",
+    "base_price": 48960,
+    "illi_cost": 26928,
+    "purchase_date": null
+  },
+  {
+    "binding": "Resonance Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "Green",
+    "base_price": 102816,
+    "illi_cost": 56549,
+    "purchase_date": null
+  },
+  {
+    "binding": "Resonance Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "Blue",
+    "base_price": 257040,
+    "illi_cost": 141372,
+    "purchase_date": null
+  },
+  {
+    "binding": "Resonance Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "Violet",
+    "base_price": 771120,
+    "illi_cost": 424116,
+    "purchase_date": null
+  },
+  {
+    "binding": "Resonance Prime Elemental",
+    "from_B6D3_rank": "Red",
+    "purchase_rank": "White",
+    "base_price": 3084480,
+    "illi_cost": 1696464,
+    "purchase_date": null
+  }
+]

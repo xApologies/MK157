@@ -1,0 +1,19 @@
+{
+  "checkpoint": 25,
+  "base_completed_wave": 35,
+  "base_cumulative": 26955,
+  "extension_starts": 36,
+  "credits_per_completed_wave": 1600,
+  "upper_wave_limit": null,
+  "formula": "C(N) = 26955 + 1600 * (N - 35), N >= 35",
+  "failed_next_wave_credits": 0,
+  "party_size_divisor": 1,
+  "eligible_modes": [
+    "Solo",
+    "Duo",
+    "Trio"
+  ],
+  "legitimate_repeats_pay": true,
+  "white_population": "W35+ count capped; configuration/organization varies",
+  "numeric_population_cap": null
+}

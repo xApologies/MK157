@@ -1,0 +1,28 @@
+{
+  "checkpoint": 25,
+  "registered_unit": "Kira + illi",
+  "eligible_members": 2,
+  "collective": {
+    "Red": 1000000,
+    "Orange": 2300000,
+    "Yellow": 3700000,
+    "Green": 5000000,
+    "Blue": null,
+    "Violet": null
+  },
+  "each": {
+    "Red": 500000,
+    "Orange": 1150000,
+    "Yellow": 1850000,
+    "Green": 2500000,
+    "Blue": null,
+    "Violet": null
+  },
+  "separate_from": "ordinary contextual participant contribution awards",
+  "ordinary_contribution_formula": "OPEN BY DESIGN",
+  "eligibility_and_death_rules": "DOMAI_PARTICIPATION_RULES.json unchanged except core bonus reference",
+  "illi_participates_legitimately": true,
+  "core_penetration_by": "Kira",
+  "white_domai_exist": false,
+  "scope": "Authored successful awards for this registered two-person unit; do not infer absent death counts, modifier ordering or general group awards"
+}

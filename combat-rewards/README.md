@@ -61,3 +61,7 @@ Checkpoint 18 does **not** halve Valnak domai awards. [Participation rules](../l
 ## Checkpoint 22 domai allocation clarification
 
 [Group economy](DOMAI_GROUP_ECONOMY.md) / [structured clarification](DOMAI_GROUP_ECONOMY.json) governs aggregate group contribution → equal eligible base shares → individual death multipliers. The CP18 participant rule’s validated award is that participant’s base share under CP22. Its first-kill seven-day eligibility, same-domai one-day lockout and ×0.8^deaths are unchanged. Optional bonuses and fractional rounding remain OPEN. Trial/Dungeon/Raid tables are byte-identical; Y7D4 domai amount is OPEN and excluded from fixed Yellow gross.
+
+## Checkpoint 25 separate core layer
+
+Ordinary domai contributions remain contextual OPEN BY DESIGN. [Registered two-person core awards](DOMAI_CORE_AWARDS.json) now lock R/O/Y/G collective 1M/2.3M/3.7M/5M, split equally. Blue/Violet successful core awards remain OPEN. Existing participant eligibility, recovery, death multiplier and fixed Dungeon/Raid tables are preserved. [Spatial metric](DOMAI_SPATIAL_METRIC.csv) uses equivalent radius only as author traversal scale; [doctrine](../live-model/DOMAI_PARTICIPATION.md).

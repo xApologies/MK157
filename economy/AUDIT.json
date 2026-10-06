@@ -210,9 +210,9 @@
     "sha256": {
       "DUNGEON_REWARDS.csv": "9ec5ec8bc647733127d0b6ee513af0e8563fd35630616e740757ab691e860419",
       "RAID_BOSS_REWARDS.csv": "df6044fac5e0651eaf89adcef7f75a30cf9088afbf28b6085d98a227a51531a1",
-      "COMBAT_REWARD_TABLES.json": "e746deb0e4dec78578733906436329770e661f5efd88db46fb27e8a78ef64643",
-      "README.md": "2aa33286bea2eff9ec5bfe5e4c229a6d3007f545c4523b6850a165b7f8844ad7",
-      "validate_rewards.py": "12086f480b159943608872ece3dbf739569cd12a299a023c3a8ce8c049fda999",
+      "COMBAT_REWARD_TABLES.json": "b0f7850d00bb2ca95508e0d527a5173213a2c54d7ed42524a2a9d246d888c02f",
+      "README.md": "4d5c998a8d18fcc5647f6451484f38adc8665e4770733fbaf0932e3f7eaa709d",
+      "validate_rewards.py": "68585569734a26b258850749660216231ca5210cbb1d34f447187e40c91adb0b",
       "builder/encounters/eldris/MANIFEST.json": "75f7c3f114b7001ea16044e3c99f3b693bf4271df542519cf40bbb98a284186f"
     }
   },
@@ -460,7 +460,7 @@
     "recovery_scope": "same domai",
     "death_multiplier_per_death": 0.8,
     "eventual_payout_rule": "validated contribution award * 0.8^deaths",
-    "core_break_bonus": "concept preserved; exact amount/formula OPEN",
+    "core_break_bonus": "CP25 registered Kira+illi R/O/Y/G awards in DOMAI_CORE_AWARDS.json; Blue/Violet successful bonuses and unsupplied modifier interactions OPEN; separate from ordinary contextual contribution",
     "scoring_and_fractional_credit_rounding": "OPEN; no deterministic scoring formula supplied"
   },
   "sha256": {
@@ -480,7 +480,7 @@
     "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json": "0414425a6d94461fc2ea81c905bde475cf67a42a7ac0d0ea6ae41646ea7129e0",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv": "95750b0b3c1c5f6f566b9ae102a6379dda79014c6ed4de266f0150ce52853b42",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json": "1d1ba6c8cdd7c1b7d145e264a4254fdde3242319c17c5a895e12c33dc6d2b85a",
-    "combat-rewards/DOMAI_PARTICIPATION_RULES.json": "967a625f54b03c9f761ffbdc93c7a59d05c887c1dfa1c53bfd2b3368734d1735",
-    "economy/validate_economy.py": "f356e55feba17cad6c208186c746b8ba00445a952312a45fba7d8a539208c220"
+    "combat-rewards/DOMAI_PARTICIPATION_RULES.json": "f568dd9fc1a2c83d79368cee1e12be7b42786abbe4e8254e2eb4878fec4a4c0d",
+    "economy/validate_economy.py": "fc393bea5adaedfda27bded051c4dc71937ce6c47bc56f1128b72d783ec7a014"
   }
 }

@@ -1,0 +1,35 @@
+[
+  {
+    "white_week": 1,
+    "sequence": 1,
+    "mode": "Solo",
+    "wave": 96,
+    "termination": "voluntary",
+    "date": null,
+    "credits_each": 124555,
+    "kira": 124555,
+    "illi": 0
+  },
+  {
+    "white_week": 1,
+    "sequence": 2,
+    "mode": "Duo",
+    "wave": 100,
+    "termination": "voluntary",
+    "date": null,
+    "credits_each": 130955,
+    "kira": 130955,
+    "illi": 130955
+  },
+  {
+    "white_week": 1,
+    "sequence": 3,
+    "mode": "Solo",
+    "wave": 100,
+    "termination": "voluntary",
+    "date": null,
+    "credits_each": 130955,
+    "kira": 130955,
+    "illi": 0
+  }
+]

@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
+Authority: 25 correction > 25 master > 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -132,3 +132,8 @@ Authority: 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 >
 - [Arc Six calendar](../world-clock/ARC6_DIRECTOR_CALENDAR.md) / [handoff](../world-clock/ARC6_HANDOFF.md) / [structured state](../world-clock/ARC6_HANDOFF.json) — 50 locked dates, Arc Seven opens B6D4.
 - [illi Arc Six reserve](../world-clock/ARC6_ILLI_CREDIT_LEDGER.json) — 157,065 income, 149,675 spend, 7,390 earmarked remainder; separate from real bank balance.
 - [Checkpoint 24 audit](../provenance/CHECKPOINT_24_AUDIT.json), [coverage](../provenance/CHECKPOINT_24_COVERAGE_MANIFEST.csv), [reverse diff](../provenance/CHECKPOINT_24_REVERSE_DIFF.csv), [conflicts](../provenance/CHECKPOINT_24_CONFLICTS.md) and [source review](../provenance/CHECKPOINT_24_SOURCE_REVIEW.json).
+
+- [Checkpoint 25 current canon](32_CHECKPOINT_25_ARC7_FINALE.md) — correction governs schedule/accounting; compatible master retained.
+- [Arc Seven calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) and [handoff](../world-clock/ARC7_HANDOFF.md).
+- [Dimensional Rings](DIMENSIONAL_RINGS.md), [remaining White bill](../economy/ILLI_REMAINING_WHITE_BILL.json), [Advanced cards](../economy/ADVANCED_CARD_PRICES.json).
+- [Checkpoint 25 audit/file list](../provenance/CHECKPOINT_25_AUDIT.json).

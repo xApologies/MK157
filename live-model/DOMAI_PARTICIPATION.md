@@ -18,7 +18,7 @@ An optional individual bonus layer, its interaction with this share and rounding
 
 This lockout is scoped to the same domai. Voluntary departure alone adds no death. Validated scoring and fractional-credit rounding remain OPEN. No eligibility renewal/stacking or additional clock/UI mechanics are inferred.
 
-Validated contribution includes eldris kills, healing/support, control, operational contribution, core assault and other validated participation. The local ledger and core-break bonus concept remain; exact bonus amount/formula remains OPEN. The first-kill eligibility trigger does not replace broader contribution with kill-only scoring.
+Validated contribution includes eldris kills, healing/support, control, operational contribution, core assault and other validated participation. The local ledger remains; Checkpoint 25 adds separate registered Kira+illi R/O/Y/G core awards. Successful Blue/Violet core amounts remain OPEN. The first-kill eligibility trigger does not replace broader contribution with kill-only scoring.
 
 These are **Valnak domai** rules. Expedition Raid attempt-long elimination/no mid-run replacement remains separate. Valnak domai ranks remain R→V with cumulative legal eldris and no White eldris. Main White Crystal break ends the training encounter. Outside domai retain their existing core and progressive-unraveling ontology.
 
@@ -43,3 +43,42 @@ Valnak evaluates validated group/formation contribution, then divides the contex
 ## Checkpoint 24 — two specific realized awards
 
 **G6D3 Orange success:** registered Kira+illi two-person contribution unit receives **60,000 collective / 30,000 each**. **B5D4 Yellow success:** **30,000 collective / 15,000 each**. These are authored incursion outcomes, not general rank reward tables. They do not resolve the earlier Y7D4 award. Existing 7-day eligibility, same-domai one full day exit/death lockout and ×0.8^deaths remain; no death count or optional bonus is inferred to change the booked awards. Global contribution formula/optional bonus remain OPEN BY DESIGN. `domai = Elastic Economic Actuator` remains AUTHOR ONLY. [Arc Six accounting](../world-clock/ARC6_DIRECTOR_CALENDAR.md).
+
+## Checkpoint 25 — current Arc Seven overlay
+
+[Reconciled finale](32_CHECKPOINT_25_ARC7_FINALE.md) and [corrected calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) govern later events. Earlier arc-specific outcomes remain historical at their dates.
+
+### domai ontology / metric
+
+Real domai: Genesis storm/collapse → nucleation → temporary bounded Genesis-event landscape with non-isometric interior, Genesis expression, eldris and superposed White structural core. Core break forces progressive unraveling. R→V only; no White domai.
+
+Exterior radius: R 3 mi / O 5 / Y 7 / G 11 / B 13 / V 17.
+Equivalent interior radius = 1.7× exterior: R 5.1 / O 8.5 / Y 11.9 / G 18.7 / B 22.1 / V 28.9 mi.
+Equivalent radius is author traversal scale, not a local conversion law. Internal distance varies by direction/location; exterior center does not guarantee a straight internal route.
+
+Sensory/ecology target: ~70% ordinary/unexpressed biology, ~30% Genesis-expressed biology (not an exact census).
+Expression may show R→V luminous/neon channels with variable intensity/morphology. Most animals remain ordinary; plants express more frequently.
+Local depth is reasonably coherent only ~5–7 ft. Beyond: depth rapidly degrades; objects become blurry layered/flattened projections; parallax fails to reconcile; sound/light give imperfect spatial information. Ordinary + luminous structures create author-described "tiger striping."
+
+### Crack-team doctrine
+
+Crack teams are specialized core-penetration/destruction elements normally supported by larger formations.
+Ordinary flyers spend fatigue reaching the core. Kira's CSR is exceptionally efficient; Halo supports sustain; Orbs provide core-impact capability.
+CSR solves movement efficiency, not non-isometric navigation.
+Kira discovers an Orb can crack the White core. Escalation R→O→Y→G.
+Green remains favorable because Juggernaut addition is melee and can largely be overflown.
+Kira attempts Blue and fails/aborts because Blue ranged/Transductionist pressure attacks aerial penetration. No Violet attempt.
+
+### Core-break bonus — NEW LOCK
+
+Registered Kira+illi two-person crack unit:
+R = 1,000,000 collective / 500,000 each
+O = 2,300,000 / 1,150,000 each
+Y = 3,700,000 / 1,850,000 each
+G = 5,000,000 / 2,500,000 each
+Blue/Violet successful core bonus remains OPEN.
+
+Core-break bonus is separate from ordinary contextual participant contribution awards.
+Existing first-kill seven-day eligibility, one-day same-domai exit/death lockout and ×0.8^deaths remain.
+illi establishes legitimate participation; Kira performs penetration/core break.
+After Kira prematurely resolves fresh domai, Elara admonishes her for depriving others of contribution opportunity. Kira voluntarily changes doctrine: crack only mature established campaigns. She becomes a closer.

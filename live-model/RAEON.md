@@ -209,7 +209,7 @@ FIREWALL:
 
 Do not merge these semantics.
 
-[Genesis Cards](GENESIS_CARDS.md) are a separate collectible culture. Seasonal raeon championship is W7 D5; late bracket/semifinals occupy W7 D1–D4. Bracket size and individual card prices remain OPEN.
+[Genesis Cards](GENESIS_CARDS.md) are a separate collectible culture. Seasonal raeon championship is W7 D5; late bracket/semifinals occupy W7 D1–D4. Bracket size, individual card identities/quantities and exceptional lot prices remain OPEN; Checkpoint 25 supplies the Advanced rank ladder.
 
 Checkpoint 14: veteran discretionary economics include expensive specialty/cycle cards alongside Genesis Cards, equipment and leisure. Exact individual prices remain OPEN. Collecting and games are legitimate relationship/personality activity even when they delay an affordable progression purchase. See [partnership/economy](PARTNERSHIP_AND_CARRY.md).
 
@@ -230,3 +230,26 @@ Y5D1 is qualification, Y5D6 protected tournament availability. Exact Yellow pers
 ## Checkpoint 22 — Yellow personal block refined
 
 The personal Yellow block is **Y7D1–D3**, ending by D3; Kira/illi have no Y7D5 championship obligation. They remain comparatively mediocre at raeon relative to combat. Exact match-by-match results and the precise elimination day within this block remain OPEN. Y5D1 qualification/Y5D6 availability and standing world W6/W7 progression remain. Y6D1 Hard Raid stays pre-Orb with no conflict from this supplied block; Auction W7D5–D7 overlaps the world championship as before.
+
+## Checkpoint 25 — current Arc Seven overlay
+
+[Reconciled finale](32_CHECKPOINT_25_ARC7_FINALE.md) and [corrected calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) govern later events. Earlier arc-specific outcomes remain historical at their dates.
+
+### Cards / spending
+
+`raeon` and Genesis Cards use the **Advanced** ladder:
+R 5,700 / O 9,120 / Y 16,416 / G 34,474 / B 86,185 / V 258,555 / W 1,034,220.
+Violet/White cards are major sinks.
+Kira spends selectively on premium `raeon`, Genesis Cards, a few Black support Bindings, rare Auction lots, clothes/gifts/social purchases and rare living `vaen`.
+Exact card identities/counts and final balances remain OPEN.
+
+### White W7 finale
+
+D1 mature Green close.
+D2 social/vacation.
+D3 mature Green close.
+D4 shopping/friends/final preparation.
+D5 White `raeon` Championship + Final Auction begins.
+D6 Final Auction/social.
+D7 Final Auction conclusion / spending / goodbyes / departure preparation.
+Nightly Highlights remain implicit.

@@ -79,7 +79,7 @@ Exact:
 - rarity;
 - release cadence;
 - print/production quantities;
-- pricing;
+- exceptional collector/auction lot pricing (Checkpoint 25 supplies the Advanced rank ladder);
 - shop location;
 - auction integration
 remain OPEN until needed by story/calendar work.
@@ -117,3 +117,23 @@ Genesis Cards and new-cycle raeon cards/decks are the primary discretionary sink
 Kira's small Fireball-focused collection reflects her childhood dream of being a blacksmith who wields fire. Across earlier visits she repeatedly wants a particular **Blue Fireball Genesis Card** at the **Genesis Card flagship**, distinct from the raeon flagship; she previously prioritizes CSR responsibly. At Arc Three's illi Beam Red boundary she chooses this card for **86,000 credits**, instead of immediately buying Orbs. She is delighted; it is a personal milestone, not moralized financial failure. She rebuilds the 61,017 Orb fund during Arc Four.
 
 **86,000 prices only this collectible**, not all Blue cards and not a Binding. The card does not grant Fireball; existing transparent maege-glass and structural basin-color rules remain. Other inventory/prices and detailed funding remain OPEN. Genesis Card collecting/trading gatherings and card-shop life are available social events with no newly assigned dates. Social/civic gifts may buy cards, but no actual donor is assigned and no direct/indirect progression-financing loophole follows. [Arc Four handoff](../world-clock/ARC4_HANDOFF.md); [transfer doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md#valnak-social-credit-transfer-firewall).
+
+## Checkpoint 25 — current Arc Seven overlay
+
+[Reconciled finale](32_CHECKPOINT_25_ARC7_FINALE.md) and [corrected calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) govern later events. Earlier arc-specific outcomes remain historical at their dates.
+
+### Cards / spending
+
+`raeon` and Genesis Cards use the **Advanced** ladder:
+R 5,700 / O 9,120 / Y 16,416 / G 34,474 / B 86,185 / V 258,555 / W 1,034,220.
+Violet/White cards are major sinks.
+Kira spends selectively on premium `raeon`, Genesis Cards, a few Black support Bindings, rare Auction lots, clothes/gifts/social purchases and rare living `vaen`.
+Exact card identities/counts and final balances remain OPEN.
+
+### Dimensional Ring
+
+Promote supplied locked MK147 Dimensional Ring canon into MK157 unless an explicit source firewall conflicts:
+not a pocket dimension/infinite inventory/UI/database; recursive-topology conservation device; storage changes inheritance through configuration-space expansion/selection/collapse; retrieval uses conscious recognition; object persists; user organization governs retrieval; expedition-standard infrastructure; high quality is a major investment.
+Working projection radii: R~3 ft / O~5 / Y~7 / G~11 / B~17 / V~23 / W~31+; exact values adjustable, principle locked.
+Kira acquires a **White Dimensional Ring** before departure. Exact credit price remains OPEN. Do not canonize the conversational 2.5M placeholder.
+It solves post-Valnak logistics, including rare living `vaen`.

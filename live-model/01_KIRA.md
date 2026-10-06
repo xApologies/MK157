@@ -141,7 +141,7 @@ Mature Kira in an open Trial:
 
 As long as control/sustain/geometry remain favorable, wave quantity no longer scales against her normally. Later progression can become limited more by time, cognitive load, fatigue, boredom, or willingness to continue than immediate defeat.
 
-Exact final Eternal Standing wave numbers remain OPEN. Do not canonize Wave 96 merely because it was used conversationally as an example.
+Checkpoint 25 locks White W1 Solo W96, Duo W100, Solo W100, all voluntarily terminated; intended final Solo/Duo standings are 100/100. No Trio is booked.
 
 
 ## Orb mastery
@@ -184,7 +184,7 @@ Black growth is competency/discovery/integration, not ordinary rank grinding.
 
 Genesis Orbs are INTENTIONALLY ANOMALOUS; do not classify them as literal singularities/black holes/etc. They are persistent externalized extensions of Kira and her Genesis interface, respond to her consciousness, interact physically/Transductively, become remote Transductive interfaces, and after Domain can project/exert Kira's Domain. Distributed Domain use matters to the end-book Genesis Collapse solution. Elara later discovers capabilities, not a mandatory ontology.
 
-Orb competency: late Yellow one Orb/crude cannonball → one-Orb orbit/mini-blender and G5D1 Blue Solo breakthrough → later two-Orb competency and mature patterned blender (exact date OPEN; older approximate mid-Green timing yields to the locked Arc Five one-Orb stage) → late Violet three-Orb competency. Three Orbs is the currently authored late-Valnak operating stage, not an intrinsic mastery ceiling (Checkpoint 22).
+Orb competency: late Yellow one Orb/crude cannonball → one-Orb orbit/mini-blender and G5D1 Blue Solo breakthrough → later two-Orb competency and mature patterned blender (operationally stable by V2D3 under Checkpoint 25; older approximate mid-Green timing yields to the locked Arc Five one-Orb stage) → late Violet three-Orb competency. Three Orbs is the currently authored late-Valnak operating stage, not an intrinsic mastery ceiling (Checkpoint 22).
 Orbital weapons are not invented by Kira; ordinary multi-object shaping is cognitively/fatigue expensive. Summons offload local behavior into autonomy. Kira is a brute-force brawler/improviser, not a finesse swordfighter.
 After Valnak, one continuously sustained Orb can host/project Elara's external presence; exact identity/instancing semantics remain OPEN.
 
@@ -371,11 +371,11 @@ As Kira develops, her combat throughput can exceed the Trial's intended encounte
 
 Eventually the limiting factor increasingly becomes **Trial encounter-delivery throughput and elapsed time**, rather than Kira's ability to survive the incoming population.
 
-This does NOT lock Kira's final Eternal Standing wave.
+This earlier throughput model alone did not set a record; Checkpoint 25 subsequently locks intended final Solo/Duo W100/W100.
 
-Wave 96 remains explicitly NONCANON / illustrative until deliberately chosen.
+Checkpoint 25 deliberately chooses White W1 Solo96 before Duo100 and Solo100.
 
-Kira may eventually stop a record push voluntarily because of boredom/time commitment rather than being defeated. This is a working character direction, not yet a locked final record scene.
+Checkpoint 25 locks voluntary termination of White W1 Solo96, Duo100 and Solo100. Exact subjective motivation and intraday scene details remain flexible.
 
 # 10. Kira's preferred mature-blender position
 
@@ -395,7 +395,7 @@ This is a Kira-specific tactic, not a universally optimal Trial strategy.
 
 Other participants use the fixed geography strategically.
 
-[Trial arena](TRIAL_ARENA.md) governs fixed terrain and throughput-responsive ingress. Exact final records and White+ wave durations remain OPEN.
+[Trial arena](TRIAL_ARENA.md) governs fixed terrain and throughput-responsive ingress. Checkpoint 25 locks intended Solo/Duo W100/W100; exact White+ wave durations remain OPEN.
 
 ## Checkpoint 11 acquisition economy
 
@@ -457,7 +457,7 @@ Absorption remains economically valuable, but the locked Checkpoint 14 schedule 
 Phase III — Kira CARRIES after Orb blender maturation:
 Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
-Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. No replacement two-Orb date is supplied.
+Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. Checkpoint 25 now locks the two-Orb blender application as operationally stable by V2D3.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
 Kira's Trial-breaking throughput then accelerates illi's White-Legacy credit generation dramatically.
 
@@ -467,8 +467,8 @@ Orb exclusion → illi Absorption/prevention → Armor of the Abyss → Kira.
 This is a coupled positive feedback system, not generic veteran boosting.
 
 ## 5. Trial / Eternal Standing narrative direction
-Historical/Kira final numeric records remain OPEN.
-Wave 96 remains illustrative/noncanonical unless deliberately locked later.
+Historical other-participant records remain OPEN; Checkpoint 25 locks Kira’s intended Solo/Duo W100/W100.
+Checkpoint 25 deliberately locks W96 as the intermediate White W1 Solo benchmark before Solo100.
 A historical record around low-40s versus a vastly higher Kira record is a working magnitude concept only, not a numeric canon lock.
 
 Mature blender scenes may include Kira and illi remaining near the Central Basin, conversing/bored while the Orb geometry processes incoming eldris. This is lawful Trial behavior, not cheating or an aggro exploit. Elara's frustration is engineering/comedic frustration at Kira breaking intended scaling while obeying actual rules.
@@ -518,3 +518,32 @@ Arc Five develops one Orb through cannonball/controlled flight/crude orbit into 
 **B1D5 Halo costs 61,017**, with Girls' Builder Night preserved. The author declares the purchase solvent with prior carry-in allowed; Arc Six gross **148,600** is not a zero-start proof or actual bank balance. Acquisition opens a Black system with no ordinary rank ladder or defined mastery ceiling; exact Halo mastery/capabilities remain within existing doctrine. **Domain stays Late Violet, exact day OPEN**.
 
 Arc Six begins migration toward two-Orb competency; neither competency day nor mature two-Orb blender is locked. Duo advances to W19 clear/W20 fail B2D1–D2 and W20 clear/W21 fail B6D1–D2, both multi-day. Kira’s Trial celebrity does not establish veteran Dungeon/Raid credibility; PUG rejection remains normal after illi graduates B1D1. Later Project Princess Carry stays later; surplus increasingly supports collecting/social wealth after Halo. [Arc Six](../world-clock/ARC6_HANDOFF.md).
+
+## Checkpoint 25 — current Arc Seven overlay
+
+[Reconciled finale](32_CHECKPOINT_25_ARC7_FINALE.md) and [corrected calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) govern later events. Earlier arc-specific outcomes remain historical at their dates.
+
+### Author understory
+
+Do not explain this metaphor in prose. Valnak is rigorous; Elara is a highly competent Custodian/developer; Kira is a valid pathological edge case / hacker-by-existence. Kira's absurd outcomes are valid compositions, not cheating.
+After Domain the next Black node may be eligible/available. Elara temporarily sets its cycle price to **999,999,999,999 credits**. This is administrative mitigation for this visit, not the permanent natural price.
+
+### Kira remains BLACK
+
+White Season does not make Kira's abilities White.
+After Domain, one-off Black shop Bindings remain available at the existing 61,017 tier. Kira selects only a small support/interface package rather than loading out every offensive option.
+These are training wheels / validated manifolds for deeper Domain/Shaping capabilities.
+Direction: voluntary cognitive party integration, shared spatial/target resolution, tactical mapping, threat marking, command-intent distribution, allied state awareness, later distributed Orb/Domain interfaces.
+Exact names/count remain OPEN. No mind control; participants retain independent thought/action/Shaping and participation is voluntary.
+Long-term concept: Armor + CSR + Orbs + Halo + Domain + interfaces → integrated Black battlefield system.
+Kira's internal aspirational ego-image is Eternal Champion / "goddess of war": she wants her presence to enable her whole force. This is character aspiration, not a divine rank.
+
+### Genesis Orbs knowledge firewall
+
+Orbs remain intentionally anomalous. Nobody fully knows what they are. Capability demonstrated != purpose understood.
+Valnak application: cannonball → 1-Orb mini-blender → 2-Orb patterned blender → 3-Orb open-arena blender.
+Do not prematurely give Kira complete remote-anchor/Domain/Transduction knowledge.
+
+## Checkpoint 25 application benchmarks
+
+Two-Orb blender operationally stable by V2D3; serious three-Orb training begins V2D4; three-Orb blender operationally stable late V7. Application competence does not explain the Orbs’ ultimate purpose or give complete remote-anchor/Domain/Transduction knowledge. White W1 Solo96 → Duo100 → Solo100, voluntary termination, no Trio. No defined mastery ceiling is imposed. Domain stays Late Violet, 61,017, exact day OPEN.

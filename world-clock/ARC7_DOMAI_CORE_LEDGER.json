@@ -1,0 +1,272 @@
+[
+  {
+    "white_week": 1,
+    "sequence": 1,
+    "day": null,
+    "rank": "Red",
+    "collective_bonus": 1000000,
+    "kira_share": 500000,
+    "illi_share": 500000,
+    "doctrine": "exploration; Elara correction after second Green"
+  },
+  {
+    "white_week": 1,
+    "sequence": 2,
+    "day": null,
+    "rank": "Orange",
+    "collective_bonus": 2300000,
+    "kira_share": 1150000,
+    "illi_share": 1150000,
+    "doctrine": "exploration; Elara correction after second Green"
+  },
+  {
+    "white_week": 1,
+    "sequence": 3,
+    "day": null,
+    "rank": "Yellow",
+    "collective_bonus": 3700000,
+    "kira_share": 1850000,
+    "illi_share": 1850000,
+    "doctrine": "exploration; Elara correction after second Green"
+  },
+  {
+    "white_week": 1,
+    "sequence": 4,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "exploration; Elara correction after second Green"
+  },
+  {
+    "white_week": 1,
+    "sequence": 5,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "exploration; Elara correction after second Green"
+  },
+  {
+    "white_week": 2,
+    "sequence": 1,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 2,
+    "sequence": 2,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 2,
+    "sequence": 3,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 2,
+    "sequence": 4,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 3,
+    "sequence": 1,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 3,
+    "sequence": 2,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 3,
+    "sequence": 3,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 3,
+    "sequence": 4,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 4,
+    "sequence": 1,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 4,
+    "sequence": 2,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 4,
+    "sequence": 3,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 4,
+    "sequence": 4,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 5,
+    "sequence": 1,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 5,
+    "sequence": 2,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 5,
+    "sequence": 3,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 5,
+    "sequence": 4,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 6,
+    "sequence": 1,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 6,
+    "sequence": 2,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 6,
+    "sequence": 3,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 6,
+    "sequence": 4,
+    "day": null,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 7,
+    "sequence": 1,
+    "day": 1,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  },
+  {
+    "white_week": 7,
+    "sequence": 2,
+    "day": 3,
+    "rank": "Green",
+    "collective_bonus": 5000000,
+    "kira_share": 2500000,
+    "illi_share": 2500000,
+    "doctrine": "mature established campaign only"
+  }
+]

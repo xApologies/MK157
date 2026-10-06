@@ -149,7 +149,8 @@ def audit(root):
             'recovery_full_days','recovery_scope','death_multiplier_per_death','eventual_payout_rule',
             'core_break_bonus','scoring_and_fractional_credit_rounding'}, 'Unexpected domai fields or invented scoring table')
     require(domai['scoring_and_fractional_credit_rounding'].startswith('OPEN')
-            and 'OPEN' in domai['core_break_bonus'], 'domai scoring/core-break OPEN lost')
+            and 'DOMAI_CORE_AWARDS.json' in domai['core_break_bonus'] and 'Blue/Violet' in domai['core_break_bonus']
+            and 'OPEN' in domai['core_break_bonus'], 'domai scoring or CP25 core-layer boundary lost')
     require(domai['reward_formula'] == 'OPEN BY DESIGN' and domai['awards_halved'] is False, 'domai scoring/halving boundary changed')
     require(domai['eligibility_starts'] == 'first validated eldris kill' and domai['eligibility_days'] == 7
             and domai['conquest_required_within_window'] is True and domai['eligible_after_leaving'] is True,

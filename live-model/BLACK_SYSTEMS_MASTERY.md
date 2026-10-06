@@ -123,3 +123,27 @@ The later mature blender is a different scale:
 
 That mature geometry is intentionally Trial-breaking.
 Do not back-port mature performance into Arc Five.
+
+## Checkpoint 25 — current Arc Seven overlay
+
+[Reconciled finale](32_CHECKPOINT_25_ARC7_FINALE.md) and [corrected calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) govern later events. Earlier arc-specific outcomes remain historical at their dates.
+
+### Kira remains BLACK
+
+White Season does not make Kira's abilities White.
+After Domain, one-off Black shop Bindings remain available at the existing 61,017 tier. Kira selects only a small support/interface package rather than loading out every offensive option.
+These are training wheels / validated manifolds for deeper Domain/Shaping capabilities.
+Direction: voluntary cognitive party integration, shared spatial/target resolution, tactical mapping, threat marking, command-intent distribution, allied state awareness, later distributed Orb/Domain interfaces.
+Exact names/count remain OPEN. No mind control; participants retain independent thought/action/Shaping and participation is voluntary.
+Long-term concept: Armor + CSR + Orbs + Halo + Domain + interfaces → integrated Black battlefield system.
+Kira's internal aspirational ego-image is Eternal Champion / "goddess of war": she wants her presence to enable her whole force. This is character aspiration, not a divine rank.
+
+### Genesis Orbs knowledge firewall
+
+Orbs remain intentionally anomalous. Nobody fully knows what they are. Capability demonstrated != purpose understood.
+Valnak application: cannonball → 1-Orb mini-blender → 2-Orb patterned blender → 3-Orb open-arena blender.
+Do not prematurely give Kira complete remote-anchor/Domain/Transduction knowledge.
+
+## Checkpoint 25 application benchmarks
+
+Two-Orb blender operationally stable by V2D3; serious three-Orb training begins V2D4; three-Orb blender operationally stable late V7. Application competence does not explain the Orbs’ ultimate purpose or give complete remote-anchor/Domain/Transduction knowledge. White W1 Solo96 → Duo100 → Solo100, voluntary termination, no Trio. No defined mastery ceiling is imposed. Domain stays Late Violet, 61,017, exact day OPEN.

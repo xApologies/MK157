@@ -45,6 +45,6 @@
   },
   "domai": {
     "reward_formula": "OPEN BY DESIGN",
-    "rule": "Valnak awards contextual validated-contribution credits; no fixed rank table. Contribution may include eldris kills, healing/support, control, operational contribution, core assault, and other validated participation. Core-break bonus concept preserved; exact amount OPEN. Awards are not halved. Participation windows, recovery and death deductions follow DOMAI_PARTICIPATION_RULES.json; validated contribution scoring remains OPEN."
+    "rule": "Valnak awards contextual validated-contribution credits; no fixed rank table. Contribution may include eldris kills, healing/support, control, operational contribution, core assault, and other validated participation. CP25 R/O/Y/G core-break awards are a separate layer in DOMAI_CORE_AWARDS.json; Blue/Violet successful core amounts OPEN. Awards are not halved. Participation windows, recovery and death deductions follow DOMAI_PARTICIPATION_RULES.json; validated contribution scoring remains OPEN."
   }
 }
