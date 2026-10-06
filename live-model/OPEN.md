@@ -1,8 +1,8 @@
 # OPEN ledger
 
-Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs, Arc Five and social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries, the specific 86,000-credit card and social/civic direction. Ordinary pricing/rewards remain Checkpoint 18; the 61,017 Black acquisition tier and Orange combat rows remain Checkpoint 19. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks.
+Checkpoint 23 fully locks Arc Five combat/progression dates Y6D4–G6D2. Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs and preserved social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries, the specific 86,000-credit card and social/civic direction. Ordinary pricing/rewards remain Checkpoint 18; the 61,017 Black acquisition tier and Orange combat rows remain Checkpoint 19. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks.
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -147,17 +147,14 @@ Domai scoring remains OPEN BY DESIGN. Existing W36+ rewards/final standings, pos
 
 Resolved: Late Yellow Orbs / Early Blue Halo / Late Violet Domain; exact 36-day Yellow combat scaffold; W18 clear/W19 entry-fail; independent first Yellow clear Y4D2; shared Yellow clears Y5D3; deterministic gross 64,725 illi / 73,585 Kira. The 73,044 progression spend, 61,017 post-Armor prices and 86,000 specific card remain unchanged.
 
-Resolved by Checkpoint 22: exact Late Yellow Orb purchase day is Y6D2, with the personal raeon block Y7D1–D3. Still OPEN: exact match results and elimination day within that block; illi exact Solo standing without a Green clear; cohort headcount/group identities; failed-Dungeon partial awards and contextual domai amounts; carry-in, card/life spending and final balances; general card prices; Tea Parties, Gala, Builder/deck/Genesis gatherings and other exact social placements. Existing foundation/legal/IP/transfer enforcement and unrelated OPENs persist. The conditional 8,319 illi funding gap is not canonical debt. Future Coherence Prime G6D2, Absorption G6D4/G7D2/V1D3 and Resonance Prime V2D2 remain locked.
+Resolved by Checkpoint 22: exact Late Yellow Orb purchase day is Y6D2, with the personal raeon block Y7D1–D3. Still OPEN: exact match results and elimination day within that block; illi exact Arc-Four Solo standing without a Green clear (Arc Five endpoint now fixed at G5D2 W10 clear/W11 failure); cohort headcount/group identities; failed-Dungeon partial awards and contextual domai amounts; carry-in, card/life spending and final balances; general card prices; Tea Parties, Gala, Builder/deck/Genesis gatherings and other exact social placements. Existing foundation/legal/IP/transfer enforcement and unrelated OPENs persist. The conditional 8,319 illi funding gap is not canonical debt. Future Coherence Prime G6D2, Absorption G6D4/G7D2/V1D3 and Resonance Prime V2D2 remain locked.
 
-## Checkpoint 22 — current resolutions and protected OPENs
+## Checkpoint 22 — retained resolutions and OPENs after Checkpoint 23
 
 Resolved: exact Orbs **Y6D2**; Builder invitation **Y5D3** / first party **Y5D5**; full 49-day Yellow calendar; personal raeon block **Y7D1–D3** ending by D3; successful **Y7D4 domai** with award OPEN; Arc Five **Y6D4→G6D2**, Coherence Prime Red 9,350. Fixed Yellow income excluding domai is **71,280 illi / 80,140 Kira**, revised Arc Four **58,170 / 67,030**. Training Yard and group base split rules are supplied; old Orb-day and Y5D5-Trial statements are superseded.
 
 Do not fill these during integration:
 
-- Exact date inside Arc Five when Kira first clears W19 Blue Solo.
-- Exact date of first Green Dungeon attempt/clear.
-- Exact illi Solo standing/rank during Arc Five.
 - Exact Trio partner and first meaningful Trio date.
 - Exact Y7D1–D3 raeon match-by-match results.
 - Exact Y7D4 domai aggregate payout.
@@ -166,7 +163,7 @@ Do not fill these during integration:
 - Exact Tiara Fund savings percentage.
 - Exact Builder book-facing in-world name, ranking algorithm and any future comment/forum system.
 - Exact Genesis-longevity biology/rate/lifespan effect.
-- Exact one-Orb Blue-clear day and exact W20 failure depth.
+- Exact W20 failure depth after the locked G5D1 Blue clear; exact W11 failure depth after illi’s locked G5D2 W10 clear.
 - Exact mini-blender velocity.
 - Exact practical maximum Orb range at any mastery stage.
 - Exact first two-Orb / three-Orb daily dates; preserve the broader existing mastery direction unless later authored.
@@ -175,3 +172,9 @@ Do not fill these during integration:
 
 
 Also OPEN: Training Yard official-standing/unlocking effects beyond selectable prior-completed waves; full cashflow and card/life spending; all unrelated earlier OPENs. Mini-blender ~11-foot radius, demographic center/envelope, ~23,000 fitted dresses/two per girl, Tiara Fund idea and roughly-first-third Book One scale retain their WORKING author scope. No date, purchase or numeric award is inferred from those examples.
+
+## Checkpoint 23 — Arc Five combat calendar resolved
+
+The entire Y6D4–G6D2 combat/progression structure is locked. Kira W19 Blue Solo clear/W20 reached-fails is G5D1; illi W10 Yellow clear/W11 reached-fails is G5D2. Green attempts fail G4D2/G4D6 and clear G5D3/G5D4/G5D7. Five shared Duos, six Kira Solos, three illi Solos, eight Yellow clears, five Green attempts and three Normal Raid outings are fully placed. No fourth Raid, Green domai or Trio is added. G6D2 Coherence Prime Red 9,350 remains unchanged. There are no pending Arc Five combat insertions; next structural work is Arc Six.
+
+Y7D4 Orange domai success and G6D1 Yellow domai failure are dated outcomes. Only the Orange numeric award is contextual OPEN BY DESIGN; the Yellow failure has no conquest payout. Failed-Dungeon partial credits, exact raeon matches, intraday timing, encounter/group identities, discretionary transactions and final balances remain OPEN. Five Green D5 Girls' Builder Nights are locked, while prose may fill established social/open blocks without moving combat/progression. Training Yard standing semantics, Black capability details, future acquisition days and all unrelated inherited OPENs remain as scoped above. See [current calendar](../world-clock/ARC5_DIRECTOR_CALENDAR.md).

@@ -1,0 +1,26 @@
+{
+  "status": "FULLY LOCKED \u2014 no unresolved Arc Five combat insertions",
+  "decisions": [
+    {
+      "date": "G5D2",
+      "lock": "illi Solo W10 clear / W11 reached-fails; Kira retains recovery/highlights"
+    },
+    {
+      "date": "G5D4",
+      "lock": "Green Dungeon clear #2; replaces proposed fourth Normal Raid outing"
+    },
+    {
+      "date": "G5D7",
+      "lock": "Green Dungeon clear #3"
+    }
+  ],
+  "final_fixed_gross": {
+    "Kira": 88595,
+    "illi": 78430
+  },
+  "domai": {
+    "Y7D4": "Orange success; payout contextual OPEN by system doctrine",
+    "G6D1": "Yellow failure; no payout"
+  },
+  "arc_endpoint": "G6D2 Coherence Prime Red"
+}

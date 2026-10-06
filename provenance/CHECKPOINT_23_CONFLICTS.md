@@ -1,0 +1,23 @@
+# Checkpoint 23 reconciliation and boundaries
+
+Fetched origin/main and local main were both `452d1e8f266e11422a7b738a76b35b096b1d3fcc`, completed Checkpoint 22, with a clean working tree. The before-review snapshot records every tracked file hash. No provisional Checkpoint 23 or newer upstream commit was present.
+
+| Topic | Resolution |
+| --- | --- |
+| FULL LOCK versus row labels | The supplied EXECUTABLE, summary, AUDIT and LOCKED_DECISIONS explicitly freeze all Arc Five combat/progression. Retain exact source SCAFFOLD/status strings, but do not interpret them as provisional. The G1D7 Open row is established home/cards/recovery, not a pending combat insertion. Social prose remains possible inside existing blocks. |
+| Package integrity | All eight files were read and archived exactly. All seven FILE_INVENTORY entries match size/hash. CSV and JSON contain the same 48 records; numeric strings are intentionally preserved. |
+| Previous undated milestones | Kira W19 clear/W20 reached-fails is G5D1; illi W10 clear/W11 reached-fails is G5D2. Green failures G4D2/G4D6 precede G5D3/G5D4/G5D7 clears. Active OPEN/direction files are revised; old checkpoint masters and source/audit evidence retain their historical bytes. Exact failure depth is still unspecified. |
+| Provisional fourth Raid | The package replaces that proposal with G5D4 Green clear #2. It was not present in reviewed Git. Three Normal Raid outings are booked; no fourth Raid is carried over. |
+| Yellow overlap | Y6D4–Y7D7 appears in both CP22 Yellow and CP23 Arc Five. Keep all existing Yellow CSV/JSON bytes. Cross-check all 11 overlapping dates and per-person income. The two Duos pay 13,110 each across the overlap; never book them twice. Y7D4 is now explicitly Orange domai, consistent with the earlier generic success. |
+| Fixed income versus cashflow | Reward-table derivation gives 88,595 Kira / 78,430 illi. Orange-domai and failed-Dungeon partial amounts are excluded, not set to zero. Yellow domai G6D1 fails/no conquest payout. Coherence Prime 9,350 is expenditure at G6D2. No opening balance, discretionary spending or solvency is invented. |
+| Raid identities | Green-season Normal Red A, Red B and Orange A each clear once on their supplied dates. Distinct Red bosses legitimately pay separately under per-boss/per-season rules. Names, encounter mechanics and failed-boss rewards are not invented. |
+| Paid practice versus Training Yard | Six Kira Solo outings use the existing W1-start cumulative schedule through their supplied completed wave. Lower voluntary stops do not regress standing. Y6D4 familiarization and independent Orb work have no extra paid run inferred. Training Yard remains unpaid and byte-identical. |
+| Mastery chronology | Earlier approximate mid-Green mature two-Orb wording conflicts with the newer one-Orb Arc Five stage and G5D1 breakthrough. Active summaries mark that older timing as historical. All later multi-Orb/Trial-breaking capabilities remain; no new two/three-Orb date or paid Black rank is supplied. |
+| Dense scheduling and runtime | Dates are author locks. Preserve W18 21–38-hour range, 29.5 central and 31-hour days. Consecutive dates and dense G5 combat do not authorize shortened runtime, invented sleep physiology or added/moved recovery rows. Exact intraday execution remains OPEN. |
+| Social continuity | Five Green D5 Girls' Builder Nights are locked, with Yellow D5 displaced by Trial/Auction. Kira retains G5D2 recovery/Highlights while illi runs Solo. Personal raeon dates, Auction, social launch, Elara friendship, illi agency and later Project Princess Carry remain. The later carry section is verified identical. |
+| Existing validators | CP22 Yellow calendar remains current and byte-identical; its validator now accepts explicit CP23 Arc Five dates while verifying original source archives and non-conflicting paragraphs. Current audit hashes refresh for edited documentation. Prior provenance audit files are immutable. |
+| Continuation | No Arc Five combat insertion is OPEN. Only explicit author reopening moves combat/progression. Continue structural planning with Arc Six; this integration assigns no new Arc Six dates. |
+
+No blocking conflict remains. Contextual scoring/payout, failed-Dungeon partial rewards, detailed raeon matches, individual failure depths, encounter identities, discretionary transaction ledger, future purchase days and unrelated OPENs remain. All 17 illi ledger entries, registry contents and reward tables are preserved.
+
+[Coverage](CHECKPOINT_23_COVERAGE_MANIFEST.csv), [reverse diff](CHECKPOINT_23_REVERSE_DIFF.csv), [boundary search](CHECKPOINT_23_BOUNDARY_SEARCH.json), [source review](CHECKPOINT_23_SOURCE_REVIEW.json) and [integration audit](CHECKPOINT_23_AUDIT.json).

@@ -1,0 +1,864 @@
+{
+  "before_pattern": "Arc Five|Blue Solo|Green Dungeon|illi Solo|W10|W19|checkpoint 22",
+  "before_matches": [
+    {
+      "path": "README.md",
+      "line": 1,
+      "text": "# MK157 — Current through Checkpoint 22"
+    },
+    {
+      "path": "README.md",
+      "line": 3,
+      "text": "Authority: **Checkpoint 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01** on explicit conflicts; otherwise cumulative. All OPEN questions remain OPEN unless explicitly answered by a supplied checkpoint."
+    },
+    {
+      "path": "README.md",
+      "line": 44,
+      "text": "[Checkpoint 20 — social life / Arc Four](live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md) closes Arc Three with illi Beam Red and Kira's **86,000-credit specific Blue Fireball Genesis Card**. Orbs remain **61,017**, acquired inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2. [Arc Four handoff](world-clock/ARC4_HANDOFF.md) preserves **73,044** illi spend after Beam Red and the Y6D3 Prime endpoint. [Social life/foundations](live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md) locks abecca, Tea House/Party/charity culture, social-credit gifts with a progression-financing firewall, and undated social/recovery options. [Audit/file list](provenance/CHECKPOINT_20_AUDIT.json), [reverse diff](provenance/CHECKPOINT_20_REVERSE_DIFF.csv), [coverage](provenance/CHECKPOINT_20_COVERAGE_MANIFEST.csv) and [conflicts](provenance/CHECKPOINT_20_CONFLICTS.md) provide evidence."
+    },
+    {
+      "path": "README.md",
+      "line": 46,
+      "text": "[Checkpoint 21 — Arc Four / Yellow](live-model/28_CHECKPOINT_21_ARC4_YELLOW.md) added the now-historical [36-day combat calendar](world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md): five shared W18 clears, one Kira Solo W18, 17 Orange clears, four Yellow attempts (Kira three clears / illi two), three Normal PUG attempts and one Hard Red clear/Orange fail. Its historical gross was **64,725 illi / 73,585 Kira**, superseded by Checkpoint 22 below. Kira’s **Late Yellow Orbs → Early Blue Halo → Late Violet Domain** scaffold is restored; Checkpoint 22 subsequently locks the exact Orb day to Y6D2. The [eldris reference](live-model/ELDRIS_REFERENCE.md) imports compatible source behavior, preserving all 209 groups. All 17 illi milestones remain. [Audit/file list](provenance/CHECKPOINT_21_AUDIT.json), [coverage](provenance/CHECKPOINT_21_COVERAGE_MANIFEST.csv), [reverse diff](provenance/CHECKPOINT_21_REVERSE_DIFF.csv), [conflicts](provenance/CHECKPOINT_21_CONFLICTS.md) and [boundary search](provenance/CHECKPOINT_21_BOUNDARY_SEARCH.json) record reconciliation."
+    },
+    {
+      "path": "README.md",
+      "line": 48,
+      "text": "[Checkpoint 22 — Arc Five / social mastery](live-model/29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md) supersedes the prior Yellow scaffold with the [49-day director calendar](world-clock/YELLOW_DIRECTOR_CALENDAR.md): Orbs **Y6D2**, first Builder party **Y5D5**, six shared W18 Duos and successful **Y7D4 domai** with payout OPEN. Fixed full-Yellow gross is **71,280 illi / 80,140 Kira**; Arc Four gross is **58,170 / 67,030**. [Arc Five roadmap](world-clock/ARC5_HANDOFF.md) spans Y6D4→G6D2. [Training Yard](live-model/TRAINING_YARD.md), [Black systems/mastery](live-model/BLACK_SYSTEMS_MASTERY.md), [Builder community](builder/COMMUNITY.md) and [domai group economy](combat-rewards/DOMAI_GROUP_ECONOMY.md) are active references. Registries, fixed rewards, illi dates and later Project Princess Carry remain. [Audit/file list](provenance/CHECKPOINT_22_AUDIT.json), [coverage](provenance/CHECKPOINT_22_COVERAGE_MANIFEST.csv), [reverse diff](provenance/CHECKPOINT_22_REVERSE_DIFF.csv), [conflicts](provenance/CHECKPOINT_22_CONFLICTS.md) and [boundary search](provenance/CHECKPOINT_22_BOUNDARY_SEARCH.json) record reconciliation."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 9,
+      "text": "3. Current authority is Checkpoint 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 220,
+      "text": "Checkpoint 20 uses illi's Binding progression as the primary arc clock. Arc Three closes with Y1D2 Beam Red and Kira's specific 86,000 Blue Fireball Genesis Card; Orbs remain 61,017 inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2. Arc Four ends structurally at Y6D3 Genesis Prime Red after 73,044 post-Beam-Red spend. Preserve CP18/19 combat calendars; prior endpoint Orb-reserve annotations are historical planning. `abecca` is the lowercase coffee-equivalent; home/nothing days are deliberate calendar state. Tea House/Party/foundation doctrine grants independent household/network/civic capital. Social/civic gifts are allowed, direct or indirect progression financing is prohibited, and enforcement/legal/IP details stay OPEN. Social palette and Kira's independent first Yellow Normal clear supply direction, not fabricated dates. [Checkpoint 20](live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md) governs."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 222,
+      "text": "Checkpoint 21 restores Orbs Late Yellow, Halo Early Blue and Domain Late Violet; Checkpoint 22 subsequently locks the exact Orb day to Y6D2. The [36-day Yellow scaffold](world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md) is retained CP21 history; Checkpoint 22 supersedes its Y5D5 Trial, Orb-date OPEN and 64,725/73,585 gross. Preserve the entire illi ledger, CP18/19 rewards/calendars and CP20 non-conflicting social/card authority. W18 clear/W19 fail is pre-Orb scope. Import only compatible [eldris ontology/behavior](live-model/ELDRIS_REFERENCE.md), preserving architecture-dependent capability and all 209 atomic groups. Later social authoring and conditional cashflow gaps do not authorize invented dates, rewards or early purchases."
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "line": 224,
+      "text": "Checkpoint 22 locks Y6D2 Orbs and the [49-day Yellow director calendar](world-clock/YELLOW_DIRECTOR_CALENDAR.md), replacing Y5D5 Trial with the first Builder party. Arc Five is Y6D4→G6D2. Black systems have no ordinary rank ladder or defined mastery ceiling; the one-Orb stage and later integrated battle system remain distinct. Training Yard practice pays no credits and normal Trials allow termination only between waves. Builder community overlays the unchanged 200 trajectories. Contextual domai group awards split equally among eligible members before individual death deductions; exact payouts/bonuses remain OPEN. Preserve all 17 illi milestones, fixed rewards, registry contents and the later Project Princess Carry section."
+    },
+    {
+      "path": "builder/COMMUNITY.md",
+      "line": 1,
+      "text": "> Checkpoint 22 active reference. Supplied author text is promoted cumulatively; unrelated prior canon and OPENs remain."
+    },
+    {
+      "path": "builder/paths/README.md",
+      "line": 15,
+      "text": "[Checkpoint 22 Builder community](../COMMUNITY.md) adds Node create/save/share/publish/search, reactions and dynamic discovery over these unchanged 200 candidates. It does not regenerate, reclassify or promote generated trajectories into character canon."
+    },
+    {
+      "path": "combat-rewards/DOMAI_GROUP_ECONOMY.md",
+      "line": 1,
+      "text": "> Checkpoint 22 active reference. Supplied author text is promoted cumulatively; unrelated prior canon and OPENs remain."
+    },
+    {
+      "path": "combat-rewards/README.md",
+      "line": 59,
+      "text": "## Checkpoint 22 domai allocation clarification"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE.md",
+      "line": 108,
+      "text": "Checkpoint 21 restores seasonal Black placement and supplies the Yellow combat scaffold. Checkpoint 22 subsequently locks the exact Orb day to Y6D2. Its eldris source import is limited by [source boundaries](SOURCE_BOUNDARIES.md); all 17 illi dates/costs, atomic group IDs and non-conflicting prior authority remain. Gross combat income is not a final balance."
+    },
+    {
+      "path": "live-model/00_GOVERNANCE.md",
+      "line": 110,
+      "text": "Checkpoint 22 distinguishes LOCKED calendar/boundary rules, WORKING one-Orb ~11-foot radius/demographic/wardrobe models and OPEN dates/algorithms/payouts. Black systems have no ordinary rank ladder and no defined mastery ceiling; existing authored stages are not intrinsic maximums. “Elastic Economic Actuator” is author-only domai shorthand. The Builder community is added over unchanged registries. [Current addendum](29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md)."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 160,
+      "text": "- Late Yellow inside Arc Four: Genesis Orbs at Y6D2, not Y1D2 (Checkpoint 22)"
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 182,
+      "text": "Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (Late Yellow inside Arc Four; Y6D2 under Checkpoint 22) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 187,
+      "text": "Orb competency: late Yellow one Orb/crude cannonball → one-orb orbit → around mid-Green two-Orb competency and mature patterned blender → late Violet three-Orb competency. Three Orbs is the currently authored late-Valnak operating stage, not an intrinsic mastery ceiling (Checkpoint 22)."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 458,
+      "text": "Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 486,
+      "text": "Kira's childhood Fireball fascination comes from imagining herself as a blacksmith wielding fire; her small Genesis Card collection is Fireball-focused. She repeatedly sees a particular Blue Fireball card at the Genesis Card flagship and previously prioritizes CSR. At Arc Three's Beam Red boundary she joyfully buys **that card for 86,000**, choosing it instead of immediate Orbs. This unnecessary object is a human milestone, not moralized failure. She later rebuilds **61,017** and acquires Orbs inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 503,
+      "text": "Checkpoint 20's weaker \"Orbs anywhere inside Arc Four / seasonal placement OPEN\" language is superseded. The **late-Yellow window is restored**. Checkpoint 22 now fixes the exact day to Y6D2; do not place Orbs at Y1D2."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 506,
+      "text": "Kira reliably clears W18 Solo or with illi, enters/fails W19 Blue, and farms upper Green without Blue competence. CSR shifts her from pseudo-Guardian to premium damage/hammer while retaining emergency frontline resilience. She voluntarily remains socially centered on the first-cycle ecosystem with her sister-level partner; illi’s helkir Solo formation still saturates. Kira’s independent first Yellow Dungeon clear is Y4D2; shared Yellow farming follows Y5D3. No Green Dungeon run is scheduled. [Calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md); [eldris tactics](ELDRIS_REFERENCE.md)."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 508,
+      "text": "## Checkpoint 22 — system mastery and Arc Five"
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 510,
+      "text": "Orbs are acquired **Y6D2 for 61,017**, distinct from competence. All five Black acquisitions are systems: **no ordinary rank ladder and no defined mastery ceiling**. Acquisition opens the system; discovery/competency/integration/mastery develops it. Do not invent Armor II, paid Orb/Halo ranks or a finite C_max. No intrinsic Orb range cutoff is defined; useful control becomes harder with distance, velocity, count and trajectory complexity. Beyond control, an Orb may slow, drift, hover or settle while manifestation persists. Existing late capabilities remain, without unlocking mature integration in Arc Five."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 512,
+      "text": "Arc Five develops one Orb through cannonball/controlled flight/crude orbit into a Kira-anchored mini-blender: working **~11-foot radius**, moderate velocity, semi-stable displacement/damage rather than mature annihilation. It translates with CSR; hits/distraction/overload can break synchronization. “Kinetic shield” describes physical Orb motion, not a force-field Binding. At an **OPEN date**, Kira clears **W19 Blue Solo and reaches W20**; exact W20 failure depth remains OPEN. Duo stays W18 clear/W19 fail; no meaningful Trio push. The jumping-spider tactic prioritizes Blue ranged threats, then dangerous Yellow ranged, then melee; execution can fail."
+    },
+    {
+      "path": "live-model/01_KIRA.md",
+      "line": 514,
+      "text": "[Black systems doctrine](BLACK_SYSTEMS_MASTERY.md) preserves the full tactical, control and mature-future model. [Training Yard](TRAINING_YARD.md) allows no-credit selectable prior-wave practice; Kira often chooses paid W1 practice, falls back to Armor/CSR/claws to finish the wave, then stops between waves. Arc Five’s [social launch](../world-clock/ARC5_HANDOFF.md) follows Elara’s burnout warning and illi’s social leadership; the later Project Princess Carry fanaticism remains later."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 556,
+      "text": "Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 611,
+      "text": "Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery."
+    },
+    {
+      "path": "live-model/03_VALNEK_PATHS.md",
+      "line": 613,
+      "text": "## Checkpoint 22 — Builder culture and first-cycle distribution"
+    },
+    {
+      "path": "live-model/04_COMBAT_WORLD.md",
+      "line": 127,
+      "text": "Red W1–3; Orange W4–7; Yellow W8–12; Green W13–18; Blue W19–25; Violet W26–34; White W35+."
+    },
+    {
+      "path": "live-model/04_COMBAT_WORLD.md",
+      "line": 686,
+      "text": "The [active eldris reference](ELDRIS_REFERENCE.md) expands compatible behavior and collapse ontology while preserving all atomic IDs, palettes and architecture rules. [Arc Four](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md) supplies W18 clear/W19 fail, Orange farming, Yellow top-cohort progression/farming, three Normal PUG attempts and Hard Red clear/Orange fail. No Green Dungeon run, Yellow Raid boss clear or scheduled domai income is assigned. Broad veteran content remains available under existing eligibility rules."
+    },
+    {
+      "path": "live-model/04_COMBAT_WORLD.md",
+      "line": 688,
+      "text": "## Checkpoint 22 — practice and one-Orb combat"
+    },
+    {
+      "path": "live-model/04_COMBAT_WORLD.md",
+      "line": 692,
+      "text": "[Arc Five](../world-clock/ARC5_HANDOFF.md) develops a one-Orb mini-blender, not mature Trial-breaking throughput. Kira clears W19 Solo/reaches W20 at an OPEN date; Duo stays W18/W19 and Trio is not meaningfully pursued. Her priority-target CSR pounce, Orb disruption and claws carry into five-person Dungeons: degrade roughly 3–4 groups as topology allows, let the four-person formation follow, then backtrack into a pincer. This is forward disruption/mobile damage, not soloing the Dungeon; corridors/ceilings can constrain it. Green attempts become credible; exact attempt/first-clear dates remain OPEN. [Black systems](BLACK_SYSTEMS_MASTERY.md) retains mature future capabilities. [domai group economy](../combat-rewards/DOMAI_GROUP_ECONOMY.md) clarifies eligible shares without changing fixed rewards."
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 1,
+      "text": "> Checkpoint 22 active reference. Supplied author text is promoted cumulatively; unrelated prior canon and OPENs remain."
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 3,
+      "text": "# KIRA BLACK SYSTEMS — mastery doctrine and Arc Five Orb stage"
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 23,
+      "text": "Do not prematurely unlock that mature integration in Arc Five. It continues developing after Valnak and through the rest of the book."
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 36,
+      "text": "## Arc Five — one-Orb mini-blender"
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 38,
+      "text": "Arc Five develops **one-Orb competency**, not mature Orb mastery."
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 55,
+      "text": "## Arc Five Trial standings"
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 58,
+      "text": "- Kira Solo: W18 clear; W19 Blue fail."
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 59,
+      "text": "- Kira+illi Duo: W18 clear; W19 Blue fail."
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 62,
+      "text": "- **Kira Solo: W19 Blue clear; W20 reached.**"
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 64,
+      "text": "- Kira+illi Duo remains **W18 clear / W19 Blue fail**, though later attempts can get much closer."
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 65,
+      "text": "- illi Solo exact standing remains OPEN."
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 68,
+      "text": "## Blue Solo tactic — \"jumping spider\""
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 91,
+      "text": "The Duo therefore stays at W18/W19 through this stage."
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 111,
+      "text": "Arc Five implication:"
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 113,
+      "text": "- **Green Dungeon attempts become credible** with a capable progression-cohort composition."
+    },
+    {
+      "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+      "line": 125,
+      "text": "Do not back-port mature performance into Arc Five."
+    },
+    {
+      "path": "live-model/COMBAT_ECOLOGY.md",
+      "line": 558,
+      "text": "illi Solo remains the hard sandbox lock: she is a helkir and her Solo NPC formation suffers population saturation. Exact Arc-Four Solo standing remains OPEN, but she does NOT clear Green Solo during this scaffold. Kira therefore voluntarily remains socially centered on the first-cycle ecosystem with her sister despite Kira's own Green Solo graduation."
+    },
+    {
+      "path": "live-model/COMBAT_ECOLOGY.md",
+      "line": 564,
+      "text": "- **No Green Dungeon runs in this sandbox scaffold.** Green Solo is the early-graduation threshold; Green Dungeon participation belongs to the broader veteran-access ecology, not the girls' current first-cycle routine."
+    },
+    {
+      "path": "live-model/COMBAT_ECOLOGY.md",
+      "line": 607,
+      "text": "## Checkpoint 22 — Arc Five ecology and friendship"
+    },
+    {
+      "path": "live-model/COMBAT_ECOLOGY.md",
+      "line": 609,
+      "text": "Arc Four’s lack of Green Dungeon rows is scoped to its old pre-mastery stage. During Arc Five, one-Orb mini-blender competency makes **Green Dungeon attempts credible** with capable peers; exact attempt/first-clear dates remain OPEN. Kira disrupts Blue/Yellow ranged centers, breaks 3–4 groups where topology permits, the four-person trailing formation advances, and Kira reverses into a pincer. Tight corridors/ceilings constrain control and escape. This is mobile assault/forward disruption, not soloing the Dungeon. Solo reaches W19 clear/W20; Duo remains W18 clear/W19 fail because population pressure pulls Kira defensive to protect illi. No meaningful Trio push is assigned."
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 11,
+      "text": "primes: W1 1 W2 3 W3 5 W4 7 W5 11 W6 13 W7 17 W8 19 W9 23 W10 29 W11 31"
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 12,
+      "text": "W12 37 W13 41 W14 43 W15 47 W16 53 W17 59 W18 61 W19 67 W20 71 W21 73"
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 44,
+      "text": "- Blue W19–25: **3.5–6 hours**"
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 60,
+      "text": "- Blue W19–25: 3.5–6 h/wave"
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 105,
+      "text": "- Blue entry = W19."
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 106,
+      "text": "- Kira Solo can reliably clear full Green through **W18** and enter W19, but Blue is too difficult to operate in."
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 107,
+      "text": "- Kira+illi Duo can reliably clear full Green through **W18** and enter W19, but fails in Blue."
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 108,
+      "text": "- W18 is the reliable credit-farming depth; W19 is record/reconnaissance and the Blue Wall."
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 113,
+      "text": "Existing bands give W1–18 minimum 3×20/60 + 4×45/60 + 5×1 + 6×2 = 21 hours; maximum 3×40/60 + 4×75/60 + 5×2 + 6×3.5 = 38 hours; midpoint 29.5. W19 failure has no completion reward and no invented stopwatch allowance. Recovery rows protect spillover. illi does not clear Green Solo in this scaffold; her exact Solo standing stays OPEN. [Yellow calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md); [eldris tactics](ELDRIS_REFERENCE.md)."
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 115,
+      "text": "## Checkpoint 22 — mastery stages and practice"
+    },
+    {
+      "path": "live-model/COMBAT_THRESHOLDS.md",
+      "line": 117,
+      "text": "After one-Orb mini-blender competency in Arc Five, Kira clears **W19 Blue Solo and reaches W20**, exact breakthrough date and W20 failure depth OPEN. Duo remains W18 clear/W19 fail; no meaningful Trio push. This supersedes the pre-Orb Solo ceiling only at the later competency stage. [Training Yard](TRAINING_YARD.md) may start at prior completed/unlocked waves with no Trial credits; normal paid runs start W1, stop only between waves and keep the reward schedule. Exact Training Yard standing/unlock effects beyond selectable starts remain OPEN. The consecutive Y6D5/Y6D6 full-day Duos preserve the 21–38-hour range and Y6D7 recovery; no shortened duration is implied."
+    },
+    {
+      "path": "live-model/DOMAI_PARTICIPATION.md",
+      "line": 11,
+      "text": "Checkpoint 22 clarifies the participant award as the equal eligible base share of a contextual group award:"
+    },
+    {
+      "path": "live-model/DOMAI_PARTICIPATION.md",
+      "line": 33,
+      "text": "## Checkpoint 22 — group award and discretionary liquidity"
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 3,
+      "text": "Current authority: Checkpoint 22, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 216,
+      "text": "Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 256,
+      "text": "Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. Checkpoint 20 makes illi Beam Red plus the Blue Fireball card the Arc Three close; Genesis Orbs occur inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 260,
+      "text": "illi's Binding progression is the primary arc clock. Arc 1 closes PC Red/Armor; Arc 2 closes White Legacy + Absorption Red/CSR. **Arc Three closes with illi Beam Red at Y1D2 and Kira's specific 86,000-credit Blue Fireball Genesis Card.** Genesis Orbs remain **61,017**, acquired **inside Arc Four at Y6D2** under Checkpoint 22, **not Y1D2**. Arc Four closes structurally at **Genesis Prime Red Y6D3**. The old Orb endpoint reserve and after-Orbs Arc Four framing are superseded; existing Orange combat rows remain."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 272,
+      "text": "## Checkpoint 21 — Yellow gross and discretionary economy (historical totals; superseded by Checkpoint 22)"
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 305,
+      "text": "Kira’s zero-carry-in illustration is 73,585 − 61,017 = 12,568 before cards/life spending, not an ending balance. No gift, domai amount, extra paid row or altered reward is invented to balance the model. Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery. [Calendar and audit](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md)."
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 307,
+      "text": "## Checkpoint 22 — current Yellow accounting and spending scope"
+    },
+    {
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+      "line": 311,
+      "text": "**Orbs Y6D2 cost 61,017**. Arc Four still costs illi 73,044 after Beam Red; Arc Five’s next locked purchase is G6D2 Coherence Prime Red **9,350**, with no PC prerequisite purchase or invented Genesis Prime upgrades. Affordability never forces earlier purchase. The 86,000 Blue Fireball card remains the sole specific locked card price here."
+    },
+    {
+      "path": "live-model/ELDRIS_REFERENCE.md",
+      "line": 34,
+      "text": "- Kira Solo: W18 Green clear; can enter W19 Blue and fail."
+    },
+    {
+      "path": "live-model/ELDRIS_REFERENCE.md",
+      "line": 35,
+      "text": "- Kira+illi Duo: W18 Green clear; can enter W19 Blue and fail."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 55,
+      "text": "illi Solo remains the hard sandbox lock: she is a helkir and her Solo NPC formation suffers population saturation. Exact Arc-Four Solo standing remains OPEN, but she does NOT clear Green Solo during this scaffold. Kira therefore voluntarily remains socially centered on the first-cycle ecosystem with her sister despite Kira's own Green Solo graduation."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 67,
+      "text": "Two Yellow clears at Y5D3 follow Kira’s independent Y4D2 first clear. Checkpoint 21’s historical gross was 64,725. The current Checkpoint 22 calendar revises Arc Four gross to 58,170 and full Yellow gross to 71,280; neither establishes solvency or alters the 17-event ledger. See [current calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md)."
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 69,
+      "text": "## Checkpoint 22 — Arc Five opening and Coherence Prime motivation"
+    },
+    {
+      "path": "live-model/ILLI_PROGRESSION.md",
+      "line": 71,
+      "text": "Arc Five is **Y6D4→G6D2**. illi opens with **Persistent Coherence Blue, Absorption Shield Red, Genesis Beam Green, Genesis Prime Elemental Red**. PC already exceeds the Green Coherence Prime gate; no intermediate PC purchase is required and no Genesis Prime rank dates are invented. G6D2 **Coherence Prime Red costs 9,350**, unchanged with every other entry in the 17-event ledger."
+    },
+    {
+      "path": "live-model/INDEX.md",
+      "line": 119,
+      "text": "- [Checkpoint 22 — Arc Five / social mastery](29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md) — full author delta and current authority."
+    },
+    {
+      "path": "live-model/INDEX.md",
+      "line": 121,
+      "text": "- [Arc Five handoff/roadmap](../world-clock/ARC5_HANDOFF.md) / [structured locks](../world-clock/ARC5_HANDOFF.json)."
+    },
+    {
+      "path": "live-model/INDEX.md",
+      "line": 123,
+      "text": "- [Checkpoint 22 audit/file list](../provenance/CHECKPOINT_22_AUDIT.json), [before review](../provenance/CHECKPOINT_22_BEFORE_REVIEW.json), [coverage](../provenance/CHECKPOINT_22_COVERAGE_MANIFEST.csv), [reverse diff](../provenance/CHECKPOINT_22_REVERSE_DIFF.csv), [conflicts](../provenance/CHECKPOINT_22_CONFLICTS.md), [source review](../provenance/CHECKPOINT_22_SOURCE_REVIEW.json)."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 3,
+      "text": "Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs, Arc Five and social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries, the specific 86,000-credit card and social/civic direction. Ordinary pricing/rewards remain Checkpoint 18; the 61,017 Black acquisition tier and Orange combat rows remain Checkpoint 19. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 142,
+      "text": "After Checkpoint 22 fixes Orbs to Y6D2, still OPEN: Kira first-Yellow-clear group identity (day resolved to Y4D2); exact Arc Four social overlay; Gala and gathering dates/attendance; actual card funding/ending balances, opening capital and prior spending; successful domai payout and later gross income; all other card prices/inventories and exact card intraday timestamp; Tea House ownership/charity identities; patent statutes/legal mechanisms/terms/royalty rates/investment regulation; credit-transfer UI/limits/tracking/anti-circumvention implementation. Social gifts do not supply a particular donor or progression-financing loophole. The conditional 86,000 − 83,915 = 2,085 gap is not an invented debt or award."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 146,
+      "text": "## Checkpoint 21 — historical resolutions, superseded where noted by Checkpoint 22"
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 148,
+      "text": "Resolved: Late Yellow Orbs / Early Blue Halo / Late Violet Domain; exact 36-day Yellow combat scaffold; W18 clear/W19 entry-fail; independent first Yellow clear Y4D2; shared Yellow clears Y5D3; deterministic gross 64,725 illi / 73,585 Kira. The 73,044 progression spend, 61,017 post-Armor prices and 86,000 specific card remain unchanged."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 150,
+      "text": "Resolved by Checkpoint 22: exact Late Yellow Orb purchase day is Y6D2, with the personal raeon block Y7D1–D3. Still OPEN: exact match results and elimination day within that block; illi exact Solo standing without a Green clear; cohort headcount/group identities; failed-Dungeon partial awards and contextual domai amounts; carry-in, card/life spending and final balances; general card prices; Tea Parties, Gala, Builder/deck/Genesis gatherings and other exact social placements. Existing foundation/legal/IP/transfer enforcement and unrelated OPENs persist. The conditional 8,319 illi funding gap is not canonical debt. Future Coherence Prime G6D2, Absorption G6D4/G7D2/V1D3 and Resonance Prime V2D2 remain locked."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 152,
+      "text": "## Checkpoint 22 — current resolutions and protected OPENs"
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 154,
+      "text": "Resolved: exact Orbs **Y6D2**; Builder invitation **Y5D3** / first party **Y5D5**; full 49-day Yellow calendar; personal raeon block **Y7D1–D3** ending by D3; successful **Y7D4 domai** with award OPEN; Arc Five **Y6D4→G6D2**, Coherence Prime Red 9,350. Fixed Yellow income excluding domai is **71,280 illi / 80,140 Kira**, revised Arc Four **58,170 / 67,030**. Training Yard and group base split rules are supplied; old Orb-day and Y5D5-Trial statements are superseded."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 158,
+      "text": "- Exact date inside Arc Five when Kira first clears W19 Blue Solo."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 159,
+      "text": "- Exact date of first Green Dungeon attempt/clear."
+    },
+    {
+      "path": "live-model/OPEN.md",
+      "line": 160,
+      "text": "- Exact illi Solo standing/rank during Arc Five."
+    },
+    {
+      "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+      "line": 65,
+      "text": "## Checkpoint 22 — Arc Five social launch, later carry preserved"
+    },
+    {
+      "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+      "line": 67,
+      "text": "The Project Princess Carry section above remains unchanged and later in the cycle. Arc Five is social-forward decompression: Elara warns against burnout; illi leads Kira into society while Kira pulls illi into combat. Dungeon repeats form organic overlapping cliques; Raids broaden acquaintances. No recurring Trio partner is invented. First Builder invitation Y5D3, first party Y5D5; [Builder culture](../builder/COMMUNITY.md), cards, royal dinners, Galas, clothing, Champion life and Elara’s genuine friendship develop without forcing every fight on-page."
+    },
+    {
+      "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+      "line": 69,
+      "text": "Current Duo remains W18 clear/W19 fail even after Kira’s one-Orb W19 Solo breakthrough at an OPEN date. The [Arc Five roadmap](../world-clock/ARC5_HANDOFF.md) ends at G6D2 Coherence Prime, motivated by group damage/healer fatigue; no early purchase is forced. Mature multi-Orb Trial-breaking throughput later drives the existing White-Legacy fanaticism, while illi retains autonomy."
+    },
+    {
+      "path": "live-model/RAEON.md",
+      "line": 230,
+      "text": "## Checkpoint 22 — Yellow personal block refined"
+    },
+    {
+      "path": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+      "line": 62,
+      "text": "## Checkpoint 21 — recursive social overlay (historical totals; superseded by Checkpoint 22)"
+    },
+    {
+      "path": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+      "line": 70,
+      "text": "## Checkpoint 22 — dated peer entry and social liberty"
+    },
+    {
+      "path": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+      "line": 74,
+      "text": "Arc Five is social launch/decompression: Elara cautions burnout, illi increasingly navigates society, Kira learns to inhabit Champion status, and Elara appears as a genuine friend. Cards, fitted clothing, meals, Galas, Auction, savings and future luxury are deliberate social liberty, not excess-income errors. Successful Y7D4 domai precedes the Auction W7D5–D7. Premium fitted dresses around **23,000 each, two per girl**, are a WORKING story-specific wardrobe idea; actual designs/store/NPC/visits and booking remain OPEN. Exact Tiara Fund savings percentage is OPEN. Existing transfer/foundation rules and later Project Princess Carry remain. [Arc Five roadmap](../world-clock/ARC5_HANDOFF.md)."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 8,
+      "text": "Late Yellow inside Arc Four — Genesis Orbs at Y6D2, not Y1D2 (Checkpoint 22)"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 295,
+      "text": "Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 327,
+      "text": "Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. Checkpoint 20 makes illi Beam Red plus the Blue Fireball card the Arc Three close; Genesis Orbs occur inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 331,
+      "text": "illi's Binding progression is the primary arc clock. Arc 1 closes PC Red/Armor; Arc 2 closes White Legacy + Absorption Red/CSR. **Arc Three closes with illi Beam Red at Y1D2 and Kira's specific 86,000-credit Blue Fireball Genesis Card.** Genesis Orbs remain **61,017**, acquired **inside Arc Four at Y6D2** under Checkpoint 22, **not Y1D2**. Arc Four closes structurally at **Genesis Prime Red Y6D3**. The old Orb endpoint reserve and after-Orbs Arc Four framing are superseded; existing Orange combat rows remain."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 337,
+      "text": "## Checkpoint 21 — Yellow scaffold (historical totals; superseded by Checkpoint 22)"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 346,
+      "text": "Checkpoint 20's weaker \"Orbs anywhere inside Arc Four / seasonal placement OPEN\" language is superseded. The **late-Yellow window is restored**. Checkpoint 22 now fixes the exact day to Y6D2; do not place Orbs at Y1D2."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 395,
+      "text": "## Checkpoint 22 — current Arc Four/Five state"
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 397,
+      "text": "**Y5D3**: two Yellow clears plus unnamed female-peer Builder invitation. **Y5D5**: first Builder party, no Trial credit. **Y6D1**: Hard Red clear/Orange fail, pre-Orb. **Y6D2**: Orbs acquired for 61,017. **Y6D3**: Genesis Prime Red/Arc Four close. **Y6D4**: Arc Five opens. **Y6D5/Y6D6**: W18 Duos/W19 fail; **Y6D7** recovery. **Y7D1–D3**: personal raeon block, out by D3. **Y7D4**: successful domai/OPEN award. **Y7D5–D7**: Auction/social."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 399,
+      "text": "The [current Yellow calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md) fixes gross at 58,170 illi / 67,030 Kira through Arc Four, 71,280 / 80,140 for all Yellow excluding domai. Older CP21 totals and unsupplied-date statements are historical. [Arc Five](../world-clock/ARC5_HANDOFF.md) ends G6D2 Coherence Prime Red, 9,350. Opening PC Blue/Absorption Red/Beam Green/Genesis Prime Red remains; no new Prime rank dates. One-Orb mini-blender leads to W19 Solo clear/W20 reached at an OPEN date; Duo remains W18/W19 and Green Dungeon attempts become credible without dated clears."
+    },
+    {
+      "path": "live-model/STORY_CLOCK_STATE.md",
+      "line": 401,
+      "text": "Social launch and Black-system discovery share the foreground; no rank ladder or defined mastery ceiling is imposed. Valnak is roughly the first third of Book One in the current author model; late-Valnak integrated battle-system reveals continue after Valnak. Do not exhaust Black systems or move later Project Princess Carry fanaticism into Arc Five."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 3,
+      "text": "Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs, Arc Five and social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries and the specific Blue Fireball card purchase. Checkpoint 19 governs the unchanged Orange combat calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 5,
+      "text": "Checkpoint 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 72,
+      "text": "Checkpoint 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 80,
+      "text": "Checkpoint 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 148,
+      "text": "illi's Binding milestones govern the arc clock. Arc Three closes at the Yellow opening with illi Beam Red (Y1D2) and Kira's 86,000 specific Blue Fireball Genesis Card, not Genesis Orbs. Genesis Orbs remain 61,017 and occur inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2. Arc Four closes structurally at Y6D3 Genesis Prime Red. Prior language implying Arc Four begins after Orbs, or that an Orb reserve defines Arc Three's endpoint, is superseded. Earlier broad late-Yellow acquisition placement does not assign a timestamp. Later competency direction remains separate."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 160,
+      "text": "Only CP20’s generic/season-OPEN Orb placement is superseded: **Late Yellow** is restored, with its then-exact-day OPEN resolved by Checkpoint 22 to Y6D2; Halo Early Blue and Domain Late Violet remain. No pre-CP22 provenance supplied that exact day; the old Y6D3 window label was not an acquisition record. CP20 first-Yellow-date OPEN and unsupplied-combat-calendar wording is superseded by the 36-day author calendar, including Y4D2 Kira-only first clear and Y5D3 two shared clears. Other CP20 social, card, arc-boundary and transfer rules persist."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 162,
+      "text": "Pre-Orb W18 clear/W19 failure supersedes only earlier working ceiling language at this architectural stage. No Green Dungeon routine or Yellow Raid clear is added. The PDF import expands compatible eldris behavior; no universal color→domain mapping, new White eldris, changed atomic records, payouts or source-illustration populations follow. The Zero-carry-in calculations remain conditional and no domai payout fills them. Every illi milestone and prior source archive remains intact. [Checkpoint 21](28_CHECKPOINT_21_ARC4_YELLOW.md); [conflicts](../provenance/CHECKPOINT_21_CONFLICTS.md)."
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 164,
+      "text": "## Checkpoint 22 — current Yellow and Arc Five reconciliation"
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 168,
+      "text": "Arc Five opens Y6D4 and closes G6D2 Coherence Prime Red. W19 Solo clear/W20 reached follows one-Orb competency at an OPEN date; Duo stays W18/W19 and no Trio push is forced. Green Dungeon attempts become credible in this later stage; exact attempts/first clear stay OPEN. Three-Orb late-Valnak direction is an authored operating stage, not a finite intrinsic mastery ceiling. No paid Black ranks or premature late-system unlocks are added."
+    },
+    {
+      "path": "live-model/TRAINING_YARD.md",
+      "line": 1,
+      "text": "> Checkpoint 22 active reference. Supplied author text is promoted cumulatively; unrelated prior canon and OPENs remain."
+    },
+    {
+      "path": "live-model/TRAINING_YARD.md",
+      "line": 30,
+      "text": "Early Arc Five she repeatedly starts ordinary Solo Trials at W1 while learning Genesis Orbs:"
+    },
+    {
+      "path": "live-model/TRIAL_ARENA.md",
+      "line": 209,
+      "text": "## Checkpoint 22 — voluntary termination and Training Yard"
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 275,
+      "text": "The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. Checkpoint 21 supplies the Yellow combat scaffold separately; social dates beyond existing appointments remain OPEN. Consult [Arc Four handoff](../world-clock/ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically."
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 285,
+      "text": "Y6D3 closes Arc Four with illi Genesis Prime Red; Checkpoint 22 dates the Late Yellow Orb purchase to the previous day, Y6D2. Full cashflow and exact social overlay stay OPEN."
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 287,
+      "text": "## Checkpoint 22 — current full-Yellow director overlay"
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 289,
+      "text": "Use the [49-day calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md) over the retained historical CP21 scaffold. Y5D3 adds the first Builder invitation; Y5D5 is the first party with zero Trial credits. Orbs are acquired Y6D2; Arc Four closes Y6D3 and [Arc Five](../world-clock/ARC5_HANDOFF.md) opens Y6D4, ending G6D2 Coherence Prime Red. Y6D5/Y6D6 supply W18 Duos, followed by Y6D7 recovery. Each W18 remains a full-day 21–38-hour block; consecutive upper-range runs can spill into recovery, with exact intraday timings OPEN."
+    },
+    {
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+      "line": 20,
+      "text": "No Red Dungeons or illi Solo runs are scheduled. Failed Yellow rows book no deterministic income; they do not repeal the general OPEN partial-progress credit doctrine. No unsupplied failed-run award is added."
+    },
+    {
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+      "line": 45,
+      "text": "The Orange combat CSV/JSON stops at O7D7; this is not the corrected narrative Arc Three endpoint. Arc Three closes at the illi Beam Red boundary (Y1D2) with the Blue Fireball card. Genesis Orbs are acquired inside Arc Four at Y6D2 under Checkpoint 22, explicitly not Y1D2. Arc Four closes structurally at Genesis Prime Red Y6D3. See the [current handoff](ARC4_HANDOFF.md)."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF.md",
+      "line": 1,
+      "text": "# Arc boundaries and Arc Four handoff — Checkpoint 22"
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF.md",
+      "line": 3,
+      "text": "Use illi's more granular Binding progression as the primary book-arc clock. Kira's acquisitions can occur inside arcs. [Structured locks](ARC4_HANDOFF.json) and the [current author delta](../live-model/29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md) govern this handoff; the [49-day Yellow director calendar](YELLOW_DIRECTOR_CALENDAR.md) supersedes the old CP21 scaffold. Arc Four remains Y1D3–Y6D3; Arc Five opens Y6D4 and closes G6D2."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF.md",
+      "line": 13,
+      "text": "**Genesis Orbs are not the Arc Three endpoint purchase and are not acquired at Y1D2.** Their price remains **61,017**; acquisition occurs **Y6D2, Late Yellow inside Arc Four**, locked by Checkpoint 22. Y6D1 Hard Raid is pre-Orb; Y6D3 is illi’s closing milestone, not Kira’s acquisition day. Halo remains Early Blue; Domain remains Late Violet. Orb acquisition and later competency/mastery remain distinct; unrelated later architecture is preserved."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF.md",
+      "line": 56,
+      "text": "The Checkpoint 22 calendar supplies **58,170 illi / 67,030 Kira gross through Y6D3**, and **71,280 illi / 80,140 Kira for full Yellow**, excluding domai; these are not balances. Four shared W18 clears occur in Arc Four, with two more at Y6D5/Y6D6; Kira has one W18 Solo. Y5D5 is the first Builder party with zero Trial credit. All these paid runs end at the W19 Blue wall. Orange is farm content; the emerging peer cohort can farm Yellow, with no Green Dungeon or Yellow Raid boss clear booked. The [active eldris reference](../live-model/ELDRIS_REFERENCE.md) explains projected-force, juggernaut and secondary-effect pressure and illi's Beam/Absorption fatigue allocation. All 17 illi milestones and future Coherence/Absorption/Resonance dates remain unchanged."
+    },
+    {
+      "path": "world-clock/ARC4_HANDOFF.md",
+      "line": 62,
+      "text": "Checkpoint 22 locks the first Builder invitation after the Y5D3 shared clears and attendance at Y5D5. The Y7D1–D3 personal raeon block ends before championship; exact matches/elimination remain OPEN. A successful Y7D4 domai provides contextual discretionary liquidity before Auction W7D5–D7; payout and actual purchases remain OPEN/WORKING. [Arc Five](ARC5_HANDOFF.md) develops one-Orb mastery and social life while preserving later Project Princess Carry."
+    },
+    {
+      "path": "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md",
+      "line": 3,
+      "text": "**SUPERSEDED CURRENT CALENDAR:** use the [Checkpoint 22 Yellow director calendar](YELLOW_DIRECTOR_CALENDAR.md). This file and its exact 36 CSV/JSON rows document CP21 history. Its Y5D5 Trial, exact-Orb-day OPEN, five-Duo count and income totals are superseded; Y6D2 now locks Orbs. The retained calculations below are not current income or purchase-date authority."
+    },
+    {
+      "path": "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md",
+      "line": 9,
+      "text": "| Five shared W18 Duo clears / W19 failures | Y1D3, Y2D2, Y3D3, Y4D4, Y5D5 | 32,775 | 32,775 |"
+    },
+    {
+      "path": "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md",
+      "line": 10,
+      "text": "| One Kira W18 Solo clear / W19 failure | Y1D6 | 6,555 | 0 |"
+    },
+    {
+      "path": "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md",
+      "line": 21,
+      "text": "Four Yellow attempts mean one failure, one independent clear, and two shared clears; three rows are not three attempts. No Green Dungeon run or Yellow Raid boss clear is supplied. Normal major Raid rewards pay once per participant per boss per season; Hard Red is a distinct mode reward. Failed-Dungeon partial rewards and domai awards remain OPEN and excluded."
+    },
+    {
+      "path": "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md",
+      "line": 25,
+      "text": "W1→W18 takes approximately **21–38 hours**, **29.5 hours central**, derived from the existing per-wave bands. Protect a full **31-hour day** with spillover risk into the following day without required combat. Y5D6 retains protected tournament availability; exact intraday placement remains OPEN. W19 entry/failure and regrouping can add pressure; no stopwatch duration or second paid activity is inferred. Orange Normal takes **3–5 hours** per clear; Yellow **5–10 hours**. The longest supplied Dungeon session is 12–20 hours or 10–20 hours, not a license to fill the remaining day. Social/recovery/open rows are deliberate negative space."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 1,
+      "text": "> Checkpoint 22 active reference. Supplied author text is promoted cumulatively; unrelated prior canon and OPENs remain."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 3,
+      "text": "# ARC FIVE HANDOFF / ROADMAP"
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 8,
+      "text": "**Arc Five begins:** Yellow W6 D4."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 9,
+      "text": "**Arc Five closes:** Green W6 D2 — illi acquires Coherence Prime Elemental Red for **9,350 credits**."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 11,
+      "text": "Seasons remain world-clock background. Arc boundaries are character/architecture boundaries; Arc Five intentionally crosses the Yellow→Green season boundary."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 19,
+      "text": "- Orbs are almost completely unmastered at Arc Five opening"
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 20,
+      "text": "- Halo remains Early Blue and therefore outside this Arc Five endpoint"
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 30,
+      "text": "There is no new Persistent Coherence rank requirement in Arc Five."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 31,
+      "text": "There is no newly invented Genesis Prime rank ladder scheduled inside Arc Five."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 36,
+      "text": "Arc Five makes a group-healing limitation visible."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 59,
+      "text": "Arc Five therefore does NOT need to be organized around scraping together that sum."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 73,
+      "text": "## Kira Arc Five technical track"
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 75,
+      "text": "Arc Five begins with repeated low-wave Solo Trial practice."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 79,
+      "text": "**Kira clears W19 Blue Solo and reaches W20.**"
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 84,
+      "text": "**W18 clear / W19 Blue fail**, though attempts can approach completion more closely."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 94,
+      "text": "Green Dungeon attempts become credible for strong first-cycle/progression-cohort groups."
+    },
+    {
+      "path": "world-clock/ARC5_HANDOFF.md",
+      "line": 102,
+      "text": "Arc Five is the major **social launch / decompression arc**."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 275,
+      "text": "The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. Checkpoint 21 supplies the Yellow combat scaffold separately; social dates beyond existing appointments remain OPEN. Consult [Arc Four handoff](ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 285,
+      "text": "Y6D3 closes Arc Four with illi Genesis Prime Red; Checkpoint 22 dates the Late Yellow Orb purchase to the previous day, Y6D2. Full cashflow and exact social overlay stay OPEN."
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 287,
+      "text": "## Checkpoint 22 — current full-Yellow director overlay"
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 289,
+      "text": "Use the [49-day calendar](YELLOW_DIRECTOR_CALENDAR.md) over the retained historical CP21 scaffold. Y5D3 adds the first Builder invitation; Y5D5 is the first party with zero Trial credits. Orbs are acquired Y6D2; Arc Four closes Y6D3 and [Arc Five](ARC5_HANDOFF.md) opens Y6D4, ending G6D2 Coherence Prime Red. Y6D5/Y6D6 supply W18 Duos, followed by Y6D7 recovery. Each W18 remains a full-day 21–38-hour block; consecutive upper-range runs can spill into recovery, with exact intraday timings OPEN."
+    },
+    {
+      "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+      "line": 1,
+      "text": "# Current Yellow director calendar — Checkpoint 22"
+    },
+    {
+      "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+      "line": 7,
+      "text": "| Shared W18 Duo / W19 fail | 6 | 39,330 | 39,330 |"
+    },
+    {
+      "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+      "line": 8,
+      "text": "| Kira W18 Solo / W19 fail | 1 | 6,555 | 0 |"
+    },
+    {
+      "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+      "line": 20,
+      "text": "Y1D2 keeps the 86,000-credit specific Blue Fireball card and illi Beam Red. **Y6D2 fixes Genesis Orbs at 61,017**; Y6D1 Hard Raid stays pre-Orb. **Y6D3** closes Arc Four with Genesis Prime Red; **Y6D4** opens Arc Five. [Arc Five](ARC5_HANDOFF.md) closes at **G6D2 Coherence Prime Red, 9,350**, without a new PC rank purchase or invented Genesis Prime rank date."
+    },
+    {
+      "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+      "line": 26,
+      "text": "Each W18 run remains approximately **21–38 hours**, **29.5 central**, in a **31-hour day**. The consecutive Y6D5/Y6D6 runs span 42–76 hours (59 central) before unsupplied W19-failure/reset time; their upper range can spill into protected **Y6D7 recovery**. Exact start/end times remain OPEN. Preserve the authored consecutive dates; do not invent a short Trial duration or fill recovery with extra required combat. Orange remains 3–5 hours; Yellow 5–10 hours per clear."
+    },
+    {
+      "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+      "line": 30,
+      "text": "No exact Blue Solo breakthrough date, W20 failure depth, Green Dungeon attempt/clear date or new Trio push is added. These are [Arc Five directions](ARC5_HANDOFF.json), not additional paid calendar rows. Practice in the [Training Yard](../live-model/TRAINING_YARD.md) awards no Trial credits; ordinary runs start at W1 and may end between waves."
+    }
+  ],
+  "after_active_search": {
+    "pattern": "at an (?:\\*\\*)?OPEN date|exact (?:breakthrough date|first Green clear/date|attempt/first-clear dates|attempts/first clear).{0,25}(?:OPEN|undated)|illi Solo exact standing remains OPEN|Exact date inside Arc Five|Exact illi Solo standing/rank during Arc Five",
+    "scope": "Active live-model/world-clock Markdown; immutable numbered checkpoint masters excluded; historical source/provenance retained",
+    "matches": [],
+    "result": "PASS"
+  },
+  "resolved": {
+    "arc5_combat_insertions": "NONE OPEN; all 48 dates locked",
+    "Kira_W19_Blue": "G5D1 clear / W20 reached-fails",
+    "illi_W10": "G5D2 clear / W11 reached-fails",
+    "Green_failures": [
+      "G4D2",
+      "G4D6"
+    ],
+    "Green_clears": [
+      "G5D3",
+      "G5D4",
+      "G5D7"
+    ],
+    "normal_raids": 3
+  },
+  "preserved_open_items": [
+    "Contextual Y7D4 Orange award/scoring",
+    "Failed-Dungeon partial reward amounts",
+    "Discretionary transactions/opening funds/balances",
+    "Exact W20/W11 failure depth",
+    "Exact raeon matches/elimination within Y7D1–D3",
+    "Intraday timing/reset/recovery physiology",
+    "Trio partner/future dates; no Trio in Arc Five",
+    "Future Halo/Domain exact days",
+    "Training Yard standing effects beyond selectable starts",
+    "Later multi-Orb dates/velocity/control capabilities",
+    "Unrelated inherited OPENs"
+  ]
+}

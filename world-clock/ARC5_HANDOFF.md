@@ -1,4 +1,4 @@
-> Checkpoint 22 active reference. Supplied author text is promoted cumulatively; unrelated prior canon and OPENs remain.
+> Checkpoint 22 roadmap reconciled by Checkpoint 23 FULL LOCK. The [48-day calendar](ARC5_DIRECTOR_CALENDAR.md) governs all combat/progression dates; unrelated prior canon and OPENs remain. Original source text is preserved in provenance.
 
 # ARC FIVE HANDOFF / ROADMAP
 
@@ -75,8 +75,8 @@ Cards remain major credit sinks; do not lock a general card price table here.
 Arc Five begins with repeated low-wave Solo Trial practice.
 Kira develops one Orb from brute-force cannonball into the mini-blender.
 
-Major competency milestone, exact date OPEN:
-**Kira clears W19 Blue Solo and reaches W20.**
+Major competency milestone, locked **G5D1**:
+**Kira clears W19 Blue Solo and reaches/fails W20.**
 
 The first Blue clear attracts unusual first-cycle/veteran attention and can propagate through Highlights/Builder discussion.
 
@@ -92,7 +92,7 @@ She becomes a true mobile damage/interdiction role rather than pseudo-Guardian:
 break ranged centers, disperse 3–4 groups when possible, let the party advance through degraded encounters, then reverse into a pincer.
 
 Green Dungeon attempts become credible for strong first-cycle/progression-cohort groups.
-Exact first Green clear/date remains OPEN.
+Green attempts fail **G4D2/G4D6**; the first clear is **G5D3**, followed by clears **G5D4/G5D7**. No Arc Five combat insertion remains undated.
 
 This increased group difficulty exposes illi's distributed-healing/fatigue problem and motivates the G6D2 Coherence Prime purchase.
 
@@ -146,3 +146,11 @@ Valnak is only the first major domain/setting of Book One — roughly the first 
 Do not exhaust Kira's Black systems here.
 
 The Armor/system integration that later resembles a full integrated battle system only begins to reveal itself near the end of the Valnak cycle and continues developing afterward.
+
+## Checkpoint 23 — Arc Five fully locked
+
+The [48-day director calendar](ARC5_DIRECTOR_CALENDAR.md) fixes all combat/progression Y6D4–G6D2: five W18 Duos, six Kira Solo/Orb-practice outings, three illi Solos, eight Yellow clears, five Green attempts (three clears/two failures) and three Normal Raids. Kira clears W19 Blue/reaches-fails W20 G5D1; illi clears W10/reaches-fails W11 G5D2 while Kira retains recovery/Highlights. Green failures G4D2/G4D6 precede G5D3 first clear, G5D4 second and G5D7 third. G5D4 replaces the provisional fourth Raid. Y7D4 Orange domai succeeds with contextual award OPEN BY DESIGN; G6D1 Yellow domai fails with no conquest payout. No Green domai or Trio is scheduled.
+
+Fixed Arc Five gross is **88,595 Kira / 78,430 illi**, excluding Orange-domai payout and failed-Dungeon partial rewards. These are earnings, not balances. Do not double-count the two Yellow Duos already in the full-Yellow calendar. G6D2 Coherence Prime Red **9,350** remains expenditure and closes the arc; all 17 illi ledger entries stay unchanged.
+
+Girls' Builder Night recurs G1D5–G5D5, with Yellow D5 displaced by Y6D5 Trial and Y7D5 Auction. Keep social/recovery blocks and Kira's G5D2 recovery. Black mastery, Training Yard, Builder culture and later Project Princess Carry survive. Source SCAFFOLD labels do not reopen fixed dates. Social prose may develop within established blocks; combat/progression moves require explicit author reopening. Move structural development to Arc Six. Exact intraday timings, W20/W11 failure depths, contextual awards and discretionary cashflow remain OPEN.

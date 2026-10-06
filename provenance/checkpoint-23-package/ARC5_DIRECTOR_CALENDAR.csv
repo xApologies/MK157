@@ -1,0 +1,49 @@
+season,week,day,kira_activity,illi_activity,event,result,kira_fixed_credits,illi_fixed_credits,notes,status
+Yellow,6,4,Orb familiarization / low-wave practice,Recovery / social,Arc Five opening,Post-Arc-Four transition,0,0,Kira owns Genesis Orbs; acquisition is not mastery.,LOCKED FRAME
+Yellow,6,5,Duo Trial W18,Duo Trial W18,Shared Duo Trial,W18 clear; W19 Blue fail,6555,6555,Full-day Trial; Builder Night displaced this week.,SCAFFOLD
+Yellow,6,6,Duo Trial W18,Duo Trial W18,Shared Duo Trial,W18 clear; W19 Blue fail,6555,6555,,SCAFFOLD
+Yellow,6,7,Recovery / cards / social,Recovery / cards / social,Recovery,No required combat,0,0,Elara may caution Kira against burnout.,SCAFFOLD
+Yellow,7,1,raeon tournament personal block,raeon tournament personal block,raeon,Personal participation; eliminated by D3; exact matches OPEN,0,0,,SCAFFOLD
+Yellow,7,2,raeon tournament personal block,raeon tournament personal block,raeon,Personal participation; eliminated by D3; exact matches OPEN,0,0,,SCAFFOLD
+Yellow,7,3,raeon tournament personal block,raeon tournament personal block,raeon,Personal participation; eliminated by D3; exact matches OPEN,0,0,,SCAFFOLD
+Yellow,7,4,Orange domai with illi,Orange domai with Kira,Orange domai,SUCCESS; contextual contribution award,0,0,Payout OPEN; excluded from fixed total.,SCAFFOLD
+Yellow,7,5,Yellow Auction Day 1 / social,Yellow Auction Day 1 / social,Seasonal Auction,Auction Day 1,0,0,Primarily late-day/evening; daytime flexible.,SCAFFOLD
+Yellow,7,6,Yellow Auction Day 2 / social,Yellow Auction Day 2 / social,Seasonal Auction,Auction Day 2,0,0,Primarily late-day/evening; daytime flexible.,SCAFFOLD
+Yellow,7,7,Yellow Auction Day 3 / social,Yellow Auction Day 3 / social,Seasonal Auction,Auction Day 3,0,0,Primarily late-day/evening; daytime flexible.,SCAFFOLD
+Green,1,1,Solo Orb practice; W3 stop,Independent/social,Kira Solo Trial,W3 clear; voluntary stop,255,0,Paid W1-start run used as practice.,SCAFFOLD
+Green,1,2,Yellow Dungeon ×2,Yellow Dungeon ×2,Dungeon session,2 Yellow clears,4610,4610,,SCAFFOLD
+Green,1,3,Recovery / ordinary life,Recovery / ordinary life,Recovery,No required combat,0,0,,SCAFFOLD
+Green,1,4,Independent / Orb work,Solo Trial,illi Solo Trial,W8 clear; W9 reached,0,1275,,SCAFFOLD
+Green,1,5,Girls' Builder Night,Girls' Builder Night,Builder Night,Recurring friend-group social night,0,0,D5 usual Friday-equivalent Builder night when not displaced.,SCAFFOLD
+Green,1,6,Yellow Dungeon ×2,Yellow Dungeon ×2,Dungeon session,2 Yellow clears,4610,4610,,SCAFFOLD
+Green,1,7,Home / cards / recovery,Home / cards / recovery,Open,No required combat,0,0,,SCAFFOLD
+Green,2,1,Solo Orb practice; W5 stop,Independent/social,Kira Solo Trial,W5 clear; voluntary stop,565,0,,SCAFFOLD
+Green,2,2,Duo Trial W18,Duo Trial W18,Shared Duo Trial,W18 clear; deeper W19 fail,6555,6555,,SCAFFOLD
+Green,2,3,Yellow Dungeon ×2,Yellow Dungeon ×2,Dungeon session,2 Yellow clears,4610,4610,,SCAFFOLD
+Green,2,4,Normal Raid,Normal Raid,Raid outing #1,Standalone Red boss A clear; Red boss B fail,2500,2500,,SCAFFOLD
+Green,2,5,Girls' Builder Night,Girls' Builder Night,Builder Night,Raid/build analysis,0,0,,SCAFFOLD
+Green,2,6,Solo Orb practice; W7 stop,Independent/social,Kira Solo Trial,W7 clear; primitive orbit emerging,1000,0,,SCAFFOLD
+Green,2,7,Recovery,Recovery,Recovery,No required combat,0,0,,SCAFFOLD
+Green,3,1,Yellow Dungeon ×2,Yellow Dungeon ×2,Dungeon session,2 Yellow clears,4610,4610,,SCAFFOLD
+Green,3,2,Independent / Orb work,Solo Trial,illi Solo Trial,W9 clear; W10 reached,0,1590,,SCAFFOLD
+Green,3,3,Normal Raid,Normal Raid,Raid outing #2,Standalone Red boss B clear; Orange boss A fail,2500,2500,,SCAFFOLD
+Green,3,4,Solo Orb practice; W10 stop,Independent/social,Kira Solo Trial,W10 clear; localized orbit developing,1950,0,,SCAFFOLD
+Green,3,5,Girls' Builder Night,Girls' Builder Night,Builder Night,Orb technique / theorycrafting,0,0,,SCAFFOLD
+Green,3,6,Duo Trial W18,Duo Trial W18,Shared Duo Trial,W18 clear; W19 close failure,6555,6555,,SCAFFOLD
+Green,3,7,Recovery / social,Recovery / social,Recovery,No required combat,0,0,,SCAFFOLD
+Green,4,1,Solo Orb practice; W14 stop,Independent/social,Kira Solo Trial,W14 clear; mini-blender stabilizing,3855,0,,SCAFFOLD
+Green,4,2,Green Dungeon attempt,Green Dungeon attempt,Green Dungeon #1,FAIL,0,0,Partial-progress reward OPEN/excluded.,SCAFFOLD
+Green,4,3,Recovery / postmortem,Recovery / postmortem,Recovery,No required combat,0,0,illi distributed-healing fatigue becomes obvious.,SCAFFOLD
+Green,4,4,Normal Raid,Normal Raid,Raid outing #3,Orange boss A clear; Orange boss B fail,3750,3750,,SCAFFOLD
+Green,4,5,Girls' Builder Night,Girls' Builder Night,Builder Night,Green-Dungeon failure analysis,0,0,,SCAFFOLD
+Green,4,6,Green Dungeon attempt,Green Dungeon attempt,Green Dungeon #2,"FAIL, deeper",0,0,Partial-progress reward OPEN/excluded.,SCAFFOLD
+Green,4,7,Home / recovery,Home / recovery,Recovery,No required combat,0,0,,SCAFFOLD
+Green,5,1,Solo Trial — Blue breakthrough,Independent/social,Kira Solo Trial,W19 Blue CLEAR; W20 reached/fails,7355,0,First Blue Solo clear; mini-blender milestone.,LOCKED MILESTONE
+Green,5,2,Recovery / Highlights / social after Blue breakthrough,Solo Trial,illi Solo Trial + Kira recovery,illi W10 Yellow CLEAR; W11 reached/fails,0,1950,Locks illi's Arc-Five Solo endpoint at solid mid-Yellow while preserving Kira's post-Blue recovery/social consequence.,LOCKED
+Green,5,3,Green Dungeon,Green Dungeon,Green Dungeon #3,FIRST GREEN CLEAR,4550,4550,Blue Solo tactic ported into Dungeon.,LOCKED MILESTONE
+Green,5,4,Green Dungeon,Green Dungeon,Green Dungeon #4,GREEN CLEAR,4550,4550,Second Green clear; replaces the previously proposed fourth Normal Raid outing to lock the Arc Five Green progression without consuming Builder/recovery space.,LOCKED
+Green,5,5,Girls' Builder Night,Girls' Builder Night,Builder Night,Celebrate/refine Green composition,0,0,,SCAFFOLD
+Green,5,6,Duo Trial W18,Duo Trial W18,Shared Duo Trial,W18 clear; W19 very deep failure,6555,6555,,SCAFFOLD
+Green,5,7,Green Dungeon,Green Dungeon,Green Dungeon #5,GREEN CLEAR,4550,4550,Third successful Green clear; establishes repeatability before the G6D1 Yellow domai failure and G6D2 arc endpoint.,LOCKED
+Green,6,1,Yellow domai with illi,Yellow domai with Kira,Yellow domai,FAIL / no conquest payout,0,0,No Green domai; sandbox ceiling respected.,SCAFFOLD
+Green,6,2,Arc close / social,Coherence Prime Elemental → Red,Arc Five endpoint,"illi purchases Coherence Prime Red for 9,350",0,0,"Expenditure, not gross income.",LOCKED ENDPOINT

@@ -1,0 +1,24 @@
+{
+  "arc": "Y6D4\u2192G6D2",
+  "status": "FULLY LOCKED",
+  "final_fixed_gross": {
+    "Kira": 88595,
+    "illi": 78430
+  },
+  "counts": {
+    "duo_W18": 5,
+    "kira_solo": 6,
+    "illi_solo": 3,
+    "yellow_dungeon_clears": 8,
+    "green_dungeon_attempts": 5,
+    "green_dungeon_clears": 3,
+    "normal_raid_outings": 3,
+    "domai_events": 2
+  },
+  "milestones": {
+    "Kira_Blue": "G5D1 W19 clear / W20 reached-fails",
+    "illi_Solo": "G5D2 W10 clear / W11 reached-fails",
+    "Arc_end": "G6D2 Coherence Prime Red"
+  },
+  "domai_numeric_payout": "contextual OPEN BY DESIGN; event/date locked"
+}

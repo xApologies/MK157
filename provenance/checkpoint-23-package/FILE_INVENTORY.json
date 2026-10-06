@@ -1,0 +1,37 @@
+[
+  {
+    "path": "ARC5_CALENDAR_SUMMARY.md",
+    "bytes": 1886,
+    "sha256": "6755fcdd936fc3cf2a3a45c8b4039caf180ab65b527914631e96d3679726b2c3"
+  },
+  {
+    "path": "ARC5_DIRECTOR_CALENDAR.csv",
+    "bytes": 6579,
+    "sha256": "edbbd34e63314bc8efdcf68b62c6deda657650268ef6d680b21c0f0e8af57215"
+  },
+  {
+    "path": "ARC5_DIRECTOR_CALENDAR.json",
+    "bytes": 17304,
+    "sha256": "541fc0f48caf14bde9f024598c9569181b4d5e05bd2faf9403dbe16366d9c122"
+  },
+  {
+    "path": "AUDIT.json",
+    "bytes": 598,
+    "sha256": "2f0afcdc0493625cf5ed150336738e8ac4d9a06aa9e666f361cee155007f7ad1"
+  },
+  {
+    "path": "EXECUTABLE.md",
+    "bytes": 1642,
+    "sha256": "0b117a35df34d51c7d8293841b91bc320fc8d49142c55a606c432fc229b8c6a4"
+  },
+  {
+    "path": "LOCKED_DECISIONS.json",
+    "bytes": 661,
+    "sha256": "238756d6b10c1b973283a302bb1c8f327ff7699766798f5646a477323f39ee51"
+  },
+  {
+    "path": "README.md",
+    "bytes": 309,
+    "sha256": "8a207716bdcae872d68261b051123f15be9f01da2ea9990fc91119a64b190250"
+  }
+]

@@ -1,6 +1,6 @@
 {
-  "checkpoint": 22,
-  "status": "LOCKED boundaries and direction; unsupplied milestone days OPEN",
+  "checkpoint": 23,
+  "status": "FULLY LOCKED combat/progression calendar; contextual rewards and unsupplied prose details remain OPEN",
   "start": "Y6D4",
   "close": {
     "date": "G6D2",
@@ -23,9 +23,18 @@
   "kira_solo": {
     "cleared_wave": 19,
     "reached_wave": 20,
-    "first_blue_clear_date": null,
+    "first_blue_clear_date": "G5D1",
     "w20_failure_depth": null,
-    "condition": "After one-Orb mini-blender competency; not deep-Blue farming"
+    "condition": "After one-Orb mini-blender competency; not deep-Blue farming",
+    "failed_wave": 20,
+    "paid_dates": [
+      "G1D1",
+      "G2D1",
+      "G2D6",
+      "G3D4",
+      "G4D1",
+      "G5D1"
+    ]
   },
   "duo": {
     "cleared_wave": 18,
@@ -34,9 +43,18 @@
   "meaningful_trio_push": false,
   "trio_partner": null,
   "green_dungeon": {
-    "direction": "Attempts become credible with capable peers",
-    "first_attempt_date": null,
-    "first_clear_date": null
+    "direction": "Five locked attempts with capable peers; three clears after two failures",
+    "first_attempt_date": "G4D2",
+    "first_clear_date": "G5D3",
+    "failed_dates": [
+      "G4D2",
+      "G4D6"
+    ],
+    "clear_dates": [
+      "G5D3",
+      "G5D4",
+      "G5D7"
+    ]
   },
   "one_orb_stage": {
     "orbs": 1,
@@ -75,5 +93,66 @@
   "future_halo": "Early Blue; exact day OPEN",
   "future_domain": "Late Violet; exact day OPEN",
   "project_princess_carry": "Preserve later cycle/White direction; not advanced into Arc Five",
-  "source": "../provenance/checkpoint-22-package/ARC5_HANDOFF_ROADMAP.md"
+  "source": "../provenance/checkpoint-22-package/ARC5_HANDOFF_ROADMAP.md",
+  "calendar": "ARC5_DIRECTOR_CALENDAR.json",
+  "calendar_rows": 48,
+  "next_structural_development": "Arc Six; no new dates supplied",
+  "reopen_requires_explicit_author": true,
+  "illi_solo": {
+    "outings": [
+      {
+        "date": "G1D4",
+        "cleared_wave": 8,
+        "reached_wave": 9
+      },
+      {
+        "date": "G3D2",
+        "cleared_wave": 9,
+        "reached_wave": 10
+      },
+      {
+        "date": "G5D2",
+        "cleared_wave": 10,
+        "reached_wave": 11,
+        "failed_wave": 11
+      }
+    ],
+    "w11_failure_depth": null,
+    "green_solo_graduation": false
+  },
+  "fixed_gross_excluding_contextual_awards": {
+    "kira": 88595,
+    "illi": 78430
+  },
+  "gross_is_balance": false,
+  "domai_events": [
+    {
+      "date": "Y7D4",
+      "rank": "Orange",
+      "result": "success",
+      "contextual_award": null,
+      "included_in_fixed_gross": false
+    },
+    {
+      "date": "G6D1",
+      "rank": "Yellow",
+      "result": "failure",
+      "conquest_payout": 0
+    }
+  ],
+  "green_domai": false,
+  "girls_builder_nights": {
+    "dates": [
+      "G1D5",
+      "G2D5",
+      "G3D5",
+      "G4D5",
+      "G5D5"
+    ],
+    "displaced": {
+      "Y6D5": "Duo Trial",
+      "Y7D5": "Auction"
+    }
+  },
+  "schedule_source": "../provenance/checkpoint-23-package/ARC5_DIRECTOR_CALENDAR.json"
 }

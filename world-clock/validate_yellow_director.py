@@ -1,4 +1,4 @@
-"""Validate the current CP22 Yellow director calendar, Arc Five and preserved canon."""
+"""Validate CP22 Yellow dates/income with CP23 Arc Five resolutions and preserved canon."""
 import argparse
 from collections import Counter, defaultdict
 import csv
@@ -119,9 +119,9 @@ def audit(root):
     require(arc5['illi_opening']=={'Persistent Coherence':'Blue','Absorption Shield':'Red','Genesis Beam':'Green','Genesis Prime Elemental':'Red'},'illi opening ranks changed')
     require(arc5['genesis_prime_rank_dates'] is None and arc5['new_persistent_coherence_purchase_required'] is False,'Invented rank/purchase requirement')
     require(arc5['kira_solo']['cleared_wave']==19 and arc5['kira_solo']['reached_wave']==20
-            and arc5['kira_solo']['first_blue_clear_date'] is None and arc5['kira_solo']['w20_failure_depth'] is None,'Blue Solo direction/date boundary lost')
+            and arc5['kira_solo']['first_blue_clear_date']=='G5D1' and arc5['kira_solo']['w20_failure_depth'] is None,'CP23 Blue Solo lock/depth boundary lost')
     require(arc5['duo']=={'cleared_wave':18,'failed_wave':19} and arc5['meaningful_trio_push'] is False and arc5['trio_partner'] is None,'Duo/Trio scope changed')
-    require(arc5['green_dungeon']['first_attempt_date'] is None and arc5['green_dungeon']['first_clear_date'] is None,'Invented Green Dungeon date')
+    require(arc5['green_dungeon']['first_attempt_date']=='G4D2' and arc5['green_dungeon']['first_clear_date']=='G5D3','CP23 Green Dungeon dates missing')
     require(arc5['mastery']=={'ordinary_paid_rank_ladder':False,'defined_mastery_ceiling':None,'intrinsic_orb_range_cutoff':None,'late_integrated_system_unlocked_in_arc5':False},'Black mastery boundary lost')
     require(arc5['one_orb_stage']['orbs']==1 and arc5['one_orb_stage']['working_radius_feet']==11
             and arc5['one_orb_stage']['radius_status'].startswith('WORKING'),'One-Orb stage changed')
@@ -159,7 +159,21 @@ def audit(root):
     promotions={'TRAINING_YARD.md':'live-model/TRAINING_YARD.md','BUILDER_COMMUNITY.md':'builder/COMMUNITY.md',
       'KIRA_BLACK_SYSTEMS_ARC5.md':'live-model/BLACK_SYSTEMS_MASTERY.md','ARC5_HANDOFF_ROADMAP.md':'world-clock/ARC5_HANDOFF.md',
       'DOMAI_GROUP_ECONOMY.md':'combat-rewards/DOMAI_GROUP_ECONOMY.md','CHECKPOINT22_LIVE_MODEL_DELTA.md':'live-model/29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md'}
-    for source,target in promotions.items(): require(text(target).endswith(text(archive+source)),'Incomplete promoted author source: '+source)
+    for source,target in promotions.items():
+        original=text(archive+source)
+        if source in ('KIRA_BLACK_SYSTEMS_ARC5.md','ARC5_HANDOFF_ROADMAP.md'):
+            # CP23 resolves exactly these earlier undated milestone paragraphs.
+            superseded={
+                'After one-Orb mini-blender competency:\n- **Kira Solo: W19 Blue clear; W20 reached.**\n- Blue remains difficult and execution-sensitive; Kira is not casually farming deep Blue.\n- Kira+illi Duo remains **W18 clear / W19 Blue fail**, though later attempts can get much closer.\n- illi Solo exact standing remains OPEN.\n- Trio is not meaningfully pursued yet because a substantially weaker third would increase encounter load and become an anchor.',
+                'Arc Five implication:\n- Yellow becomes increasingly comfortable for strong groups.\n- **Green Dungeon attempts become credible** with a capable progression-cohort composition.\n- Exact first Green clear/date remains OPEN.',
+                'Major competency milestone, exact date OPEN:\n**Kira clears W19 Blue Solo and reaches W20.**',
+                'Green Dungeon attempts become credible for strong first-cycle/progression-cohort groups.\nExact first Green clear/date remains OPEN.',
+            }
+            for paragraph in original.strip().split('\n\n'):
+                if paragraph not in superseded: require(paragraph in text(target),'Non-conflicting CP22 paragraph lost: '+source+': '+paragraph[:70])
+        else:
+            require(original in text(target),'Incomplete promoted author source: '+source)
+
     content={
       'live-model/TRAINING_YARD.md':['inter-wave break','no voluntary mid-combat exit','already completed/unlocked','do **not** award Trial credits','official standing/unlocking','start at W1'],
       'builder/COMMUNITY.md':['200','create a hypothetical build','save multiple builds','publish/share','like/dislike','Trending','Valnak Recommended','No mandatory','Elara publishes','Y5D3','Y5D5','female peer'],
@@ -167,21 +181,21 @@ def audit(root):
       'world-clock/ARC5_HANDOFF.md':['Y6D2','9,350','distributed damage','not automatically','second autonomous helkir','Tiara Fund','20–40','17–45','50s/60s','Exact biology','first third','burnout'],
       'live-model/DOMAI_PARTICIPATION.md':['group_award / eligible_members','AUTHOR ONLY','Y7D4','0.8^deaths','OPEN'],
       'live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md':['female peer','Y5D5','23,000 each, two per girl','WORKING','booking remain OPEN'],
-      'live-model/OPEN.md':['W19 Blue Solo','first Green Dungeon attempt/clear','official-standing/unlocking','Tiara Fund','Exact Halo day','Y6D2'],
+      'live-model/OPEN.md':['G5D1','G5D2','G5D3/G5D4/G5D7','official-standing/unlocking','Tiara Fund','Exact Halo day','Y6D2'],
     }
     for p,phrases in content.items():
         s=text(p).lower()
         for phrase in phrases: require(phrase.lower() in s,'Content missing: '+p+': '+phrase)
     inputs=['world-clock/YELLOW_DIRECTOR_CALENDAR.csv','world-clock/YELLOW_DIRECTOR_CALENDAR.json','world-clock/ARC4_HANDOFF.json',
       'world-clock/ARC5_HANDOFF.json','combat-rewards/DOMAI_GROUP_ECONOMY.json','world-clock/validate_yellow_director.py',*content]
-    return {'checkpoint':22,'scope':'Current full Yellow director calendar and Arc Five direction','result':'FAIL' if errors else 'PASS','errors':errors,
+    return {'checkpoint':22,'scope':'CP22 full Yellow calendar remains current; Arc Five milestones resolved by CP23','result':'FAIL' if errors else 'PASS','errors':errors,
       'baseline_commit':before['baseline_commit'],'calendar_rows':len(calendar),'counts':dict(counts),'shared_duo_dates':duo_dates,
       'fixed_full_yellow_income_excluding_domai':totals,'revised_arc4_income_through_Y6D3':arc4,'daily_fixed_gross':daily,'income_by_event':dict(by_kind),
       'raid_bookings':raid_bookings,'changed_cp21_dates':[f'Y{w}D{d}' for w,d in changed],'gross_is_not_balance':True,
       'exact_orbs':'Y6D2','arc4_close':'Y6D3','arc5_open':'Y6D4','arc5_close':'G6D2 Coherence Prime Red, 9350',
       'personal_raeon_block':'Y7D1–D3; run ends by D3; exact matches/elimination OPEN','domai_award':'Y7D4 successful; exact group award OPEN and excluded',
       'registry_counts':registry_counts,'builder_role_counts':dict(families),'illi_events':len(ledger),'illi_total':250884,
-      'project_princess_carry_section_byte_identical':True,'open_blue_solo_date':None,'open_green_dungeon_dates':None,
+      'project_princess_carry_section_byte_identical':True,'blue_solo_date':'G5D1','green_first_attempt':'G4D2','green_first_clear':'G5D3',
       'source_inventory_exception':'Supplied MANIFEST inventory entry is stale; all 16 actual ZIP members archived exactly',
       'protected_baseline_files':protected,'sha256':{p:sha(p) for p in inputs}}
 

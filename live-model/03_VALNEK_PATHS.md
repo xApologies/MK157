@@ -555,7 +555,7 @@ Absorption remains economically valuable, but the locked Checkpoint 14 schedule 
 Phase III — Kira CARRIES after Orb blender maturation:
 Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
-Around mid-Green, mature two-Orb blender is the major economic inversion.
+Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. No replacement two-Orb date is supplied.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
 Kira's Trial-breaking throughput then accelerates illi's White-Legacy credit generation dramatically.
 

@@ -1,6 +1,6 @@
 # MK157 Live-Model Index
 
-Authority: 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
+Authority: 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; otherwise cumulative. Begin with SUPERSESSIONS.md and the newest addendum. Original checkpoint text remains exhaustive; no canon is invented by navigation. Earlier checkpoint masters preserve source history: their old 61,000-price locks, OPEN reward rows and superseded illi windows do not override the explicit corrections in Checkpoint 14 and subsequent checkpoints.
 
 - [00_GOVERNANCE.md](00_GOVERNANCE.md) — Governance and terminology.
 - [01_KIRA.md](01_KIRA.md) — Kira --- Affliction, evolution, transformation, design.
@@ -121,3 +121,9 @@ Authority: 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 >
 - [Arc Five handoff/roadmap](../world-clock/ARC5_HANDOFF.md) / [structured locks](../world-clock/ARC5_HANDOFF.json).
 - [Training Yard](TRAINING_YARD.md), [Black systems/mastery](BLACK_SYSTEMS_MASTERY.md), [Builder community](../builder/COMMUNITY.md), [domai group economy](../combat-rewards/DOMAI_GROUP_ECONOMY.md) / [structured rules](../combat-rewards/DOMAI_GROUP_ECONOMY.json).
 - [Checkpoint 22 audit/file list](../provenance/CHECKPOINT_22_AUDIT.json), [before review](../provenance/CHECKPOINT_22_BEFORE_REVIEW.json), [coverage](../provenance/CHECKPOINT_22_COVERAGE_MANIFEST.csv), [reverse diff](../provenance/CHECKPOINT_22_REVERSE_DIFF.csv), [conflicts](../provenance/CHECKPOINT_22_CONFLICTS.md), [source review](../provenance/CHECKPOINT_22_SOURCE_REVIEW.json).
+
+- [Checkpoint 23 full lock](30_CHECKPOINT_23_ARC5_COMBAT_CALENDAR.md) — Current Arc Five combat/progression authority, superseding undated CP22 milestones.
+- [48-day Arc Five calendar](../world-clock/ARC5_DIRECTOR_CALENDAR.md) — Exact dates, independent income calculation, overlap and OPEN boundaries.
+- [Arc Five structured handoff](../world-clock/ARC5_HANDOFF.json) — Current milestones, social/mastery preservation and Arc Six continuation.
+- [Checkpoint 23 integration audit](../provenance/CHECKPOINT_23_AUDIT.json) — Validation results and complete changed-file list.
+- [Checkpoint 23 coverage](../provenance/CHECKPOINT_23_COVERAGE_MANIFEST.csv), [reverse diff](../provenance/CHECKPOINT_23_REVERSE_DIFF.csv), [conflicts](../provenance/CHECKPOINT_23_CONFLICTS.md) and [source review](../provenance/CHECKPOINT_23_SOURCE_REVIEW.json).

@@ -1,6 +1,6 @@
 # MK157 — Economy and purchase-schedule handoff
 
-Current authority: Checkpoint 22, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
+Current authority: Checkpoint 23, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
 ## Kira Black acquisition economics — current
 
@@ -215,7 +215,7 @@ Absorption remains economically valuable, but the locked Checkpoint 14 schedule 
 Phase III — Kira CARRIES after Orb blender maturation:
 Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
-Around mid-Green, mature two-Orb blender is the major economic inversion.
+Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. No replacement two-Orb date is supplied.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
 Kira's Trial-breaking throughput then accelerates illi's White-Legacy credit generation dramatically.
 
@@ -311,3 +311,9 @@ The [49-day director calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md) super
 **Orbs Y6D2 cost 61,017**. Arc Four still costs illi 73,044 after Beam Red; Arc Five’s next locked purchase is G6D2 Coherence Prime Red **9,350**, with no PC prerequisite purchase or invented Genesis Prime upgrades. Affordability never forces earlier purchase. The 86,000 Blue Fireball card remains the sole specific locked card price here.
 
 [domai group economy](../combat-rewards/DOMAI_GROUP_ECONOMY.md) assigns contextual group award → equal eligible base shares → individual death deductions. Award received before the later social purchase is revealed; exact Y7D4 amount and bonus layer stay OPEN. “Elastic Economic Actuator” is author-only shorthand. WORKING premium dresses ~23,000 each/two per girl are a specific wardrobe idea, not booked expenses or a general apparel table. Exact Tiara Fund percentage and card prices remain OPEN. Training Yard starts award no Trial credits; ordinary W1 runs preserve the reward table.
+
+## Checkpoint 23 — locked Arc Five gross
+
+[Arc Five Y6D4–G6D2](../world-clock/ARC5_DIRECTOR_CALENDAR.md) supplies **88,595 Kira / 78,430 illi** fixed gross. Per person: five W18 Duos 32,775; eight Yellow clears 18,440; three Green clears 13,650; three distinct Normal Raid bosses 8,750. Solo adds 14,980 Kira / 4,815 illi. Failed-Dungeon partial credits and the successful Y7D4 Orange-domai contextual award remain excluded, not fixed at zero. G6D1 Yellow domai fails/no conquest payout. Coherence Prime Red **G6D2, 9,350** is expenditure and unchanged.
+
+Y6D5/Y6D6's 13,110 per person is already included in full Yellow: never sum full Yellow and Arc Five without removing this overlap. Combined full-Yellow→G6D2 fixed gross is 155,625 Kira / 136,600 illi. These scopes are earnings, not balances or funding proofs. Discretionary cards/decks/clothing/social spending, opening cash and transaction dates remain for the writing-stage ledger. All prior fixed reward tables, acquisition prices and 17 illi purchase dates/costs remain unchanged.

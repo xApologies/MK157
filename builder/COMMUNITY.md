@@ -57,3 +57,7 @@ Dungeon and Raid acquaintances become repeat partners; repeat partners become Bu
 - **Y5D5:** Kira and illi attend their first Builder party as invitees.
 
 The inviter is deliberately a female peer to keep this first peer-social invitation uncomplicated; exact identity/name remains OPEN.
+
+## Checkpoint 23 — recurring Girls' Builder Night
+
+Girls' Builder Night uses the usual D5 Friday-equivalent slot when not displaced. The locked Arc Five calendar places it **G1D5, G2D5, G3D5, G4D5, G5D5** for ordinary social life, Raid/build analysis, Orb theorycrafting, Green-failure analysis and celebration/refinement. Yellow Y6D5 is displaced by the shared Trial; Y7D5 is Auction Day 1. First invitation Y5D3 and first party Y5D5 remain. G5D2 preserves Kira's post-Blue recovery/Highlights/social consequences while illi runs Solo. Prose may fill established social/open blocks without relocating combat or requiring new paid events.

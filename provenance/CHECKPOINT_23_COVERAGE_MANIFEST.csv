@@ -1,0 +1,33 @@
+id,status,requirement,evidence,resolution
+CP23-01,PRESENT,Remote reconciliation,provenance/CHECKPOINT_23_BEFORE_REVIEW.json,Fetched clean main matches completed CP22; no provisional CP23 present
+CP23-02,PRESENT,Source completeness,provenance/CHECKPOINT_23_SOURCE_REVIEW.json,All 8 read and archived byte-identically; all 7 inventoried hashes/sizes pass
+CP23-03,PRESENT,Author finality,world-clock/ARC5_DIRECTOR_CALENDAR.md; world-clock/ARC5_DIRECTOR_CALENDAR.json,Y6D4–G6D2 fully locked; 48 consecutive dates; author reopening required to move combat/progression
+CP23-04,PRESENT,Source row statuses,world-clock/ARC5_DIRECTOR_CALENDAR.md,FULL LOCK directive governs every placement; social/open prose detail is not a combat insertion
+CP23-05,PRESENT,Kira breakthrough,live-model/01_KIRA.md; live-model/BLACK_SYSTEMS_MASTERY.md; world-clock/ARC5_HANDOFF.json,G5D1 W19 Blue clear / W20 reached-fails; exact failure depth OPEN
+CP23-06,PRESENT,Kira paid practice,live-model/TRIAL_ARENA.md; world-clock/ARC5_DIRECTOR_CALENDAR.json,G1D1 W3; G2D1 W5; G2D6 W7; G3D4 W10; G4D1 W14; G5D1 W19; six W1-start paid runs
+CP23-07,PRESENT,illi Solo progression,live-model/ILLI_PROGRESSION.md; world-clock/ARC5_HANDOFF.json,G1D4 W8/W9; G3D2 W9/W10; G5D2 W10 clear/W11 reached-fails; no Green Solo graduation
+CP23-08,PRESENT,G5D2 independent schedules,world-clock/ARC5_DIRECTOR_CALENDAR.json; live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md,illi Solo endpoint; Kira post-Blue recovery/Highlights/social preserved
+CP23-09,PRESENT,Shared Duo,world-clock/ARC5_DIRECTOR_CALENDAR.json,Five outings Y6D5/Y6D6/G2D2/G3D6/G5D6; W18 clear/W19 fail
+CP23-10,PRESENT,Yellow Dungeons,world-clock/ARC5_DIRECTOR_CALENDAR.json,G1D2/G1D6/G2D3/G3D1 two clears each; eight total
+CP23-11,PRESENT,Green failed attempts,live-model/COMBAT_ECOLOGY.md; world-clock/ARC5_DIRECTOR_CALENDAR.json,G4D2/G4D6 failures; partial rewards OPEN/excluded
+CP23-12,PRESENT,First Green clear,live-model/04_COMBAT_WORLD.md; world-clock/ARC5_DIRECTOR_CALENDAR.json,G5D3 first Green clear
+CP23-13,PRESENT,G5D4,world-clock/ARC5_DIRECTOR_CALENDAR.json; live-model/SUPERSESSIONS.md,Green clear #2; fourth Raid not booked
+CP23-14,PRESENT,G5D7,world-clock/ARC5_DIRECTOR_CALENDAR.json,Green clear #3; establishes repeatability
+CP23-15,PRESENT,Normal Raids,world-clock/ARC5_DIRECTOR_CALENDAR.md,G2D4 Red A clear/Red B fail; G3D3 Red B clear/Orange A fail; G4D4 Orange A clear/Orange B fail
+CP23-16,PRESENT,Raid payout identity,world-clock/validate_arc5.py; combat-rewards/COMBAT_REWARD_TABLES.json,Distinct Red A/Red B first clears pay separately; no repeated boss or failed-boss income
+CP23-17,PRESENT,Y7D4,live-model/DOMAI_PARTICIPATION.md; world-clock/ARC5_HANDOFF.json,"Orange success; numeric award contextual OPEN BY DESIGN, excluded from fixed gross"
+CP23-18,PRESENT,G6D1,world-clock/ARC5_HANDOFF.json; world-clock/ARC5_DIRECTOR_CALENDAR.json,Yellow domai failure/no conquest payout; no Green domai
+CP23-19,PRESENT,Income,live-model/ECONOMY_PURCHASE_SCHEDULE.md; world-clock/ARC5_DIRECTOR_AUDIT.json,Kira 88595 / illi 78430 fixed gross excluding contextual Orange-domai and failed-Dungeon partials
+CP23-20,PRESENT,Calendar overlap,world-clock/ARC5_DIRECTOR_CALENDAR.md; world-clock/ARC5_DIRECTOR_AUDIT.json,11 shared Yellow dates preserved; 13110 each counted once; combined 155625 Kira / 136600 illi
+CP23-21,PRESENT,Arc endpoint,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json; world-clock/ARC5_HANDOFF.json,Same date/cost and all 17 illi ledger entries; expenditure not income
+CP23-22,PRESENT,Builder Night,builder/COMMUNITY.md; live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md,G1D5–G5D5 recurring Girls Builder Night; Y6D5 Trial/Y7D5 Auction displace D5
+CP23-23,PRESENT,Mastery timing,live-model/01_KIRA.md; live-model/03_VALNEK_PATHS.md; live-model/SUPERSESSIONS.md,"Explicit CP22/23 one-Orb Arc Five stage governs; later multi-Orb capability intact, no replacement date"
+CP23-24,PRESENT,Black doctrine,live-model/BLACK_SYSTEMS_MASTERY.md; world-clock/ARC5_HANDOFF.json,No ordinary paid rank ladder or defined ceiling; 11-foot stage working; later integration preserved
+CP23-25,PRESENT,Training Yard,live-model/TRAINING_YARD.md; live-model/TRIAL_ARENA.md,Selectable prior-completed/unlocked waves unpaid; ordinary paid runs start W1/stop between waves; other standing effects OPEN
+CP23-26,PRESENT,Social and later carry,live-model/PARTNERSHIP_AND_CARRY.md; world-clock/ARC5_HANDOFF.md,Later carry section exact; independent schedules/recovery/social details kept
+CP23-27,PRESENT,No Trio,world-clock/ARC5_HANDOFF.json; world-clock/ARC5_DIRECTOR_CALENDAR.json,No Trio outing/partner forced
+CP23-28,PRESENT,Registries/rewards,provenance/CHECKPOINT_23_BEFORE_REVIEW.json; world-clock/validate_arc5.py,All registry/reward/price files and earlier calendars byte-identical
+CP23-29,PRESENT,Continuing OPENs,live-model/OPEN.md,"Orange award, partials, discretionary ledger, exact matches, intraday timing, failure depths and unrelated OPENs remain"
+CP23-30,PRESENT,Active navigation,README.md; live-model/INDEX.md; live-model/30_CHECKPOINT_23_ARC5_COMBAT_CALENDAR.md,"CP23 newest checkpoint/addendum; current active milestones updated, immutable prior source history retained"
+CP23-31,PRESENT,Continuation,live-model/STORY_CLOCK_STATE.md; world-clock/ARC5_HANDOFF.md,No pending combat insertions; proceed to Arc Six without inventing Arc Six dates
+CP23-32,PRESENT,Validation,world-clock/validate_yellow_director.py; world-clock/validate_arc5.py,Current Yellow audit accepts explicit CP23 dates; source archive and non-conflicting paragraph preservation retained

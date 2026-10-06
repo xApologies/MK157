@@ -1,4 +1,4 @@
-> Checkpoint 22 active reference. Supplied author text is promoted cumulatively; unrelated prior canon and OPENs remain.
+> Checkpoint 22 mastery doctrine reconciled by Checkpoint 23 FULL LOCK. The [Arc Five calendar](../world-clock/ARC5_DIRECTOR_CALENDAR.md) supplies the dated milestones; original source text remains in provenance and all non-conflicting capability doctrine remains.
 
 # KIRA BLACK SYSTEMS — mastery doctrine and Arc Five Orb stage
 
@@ -59,10 +59,10 @@ Pre-Orb / Arc Four:
 - Kira+illi Duo: W18 clear; W19 Blue fail.
 
 After one-Orb mini-blender competency:
-- **Kira Solo: W19 Blue clear; W20 reached.**
+- **Kira Solo: G5D1 W19 Blue clear; W20 reached/fails.**
 - Blue remains difficult and execution-sensitive; Kira is not casually farming deep Blue.
 - Kira+illi Duo remains **W18 clear / W19 Blue fail**, though later attempts can get much closer.
-- illi Solo exact standing remains OPEN.
+- illi Solo: G1D4 W8 clear/W9 reached; G3D2 W9 clear/W10 reached; G5D2 W10 clear/W11 reached-fails. Her final career standing remains OPEN.
 - Trio is not meaningfully pursued yet because a substantially weaker third would increase encounter load and become an anchor.
 
 ## Blue Solo tactic — "jumping spider"
@@ -111,7 +111,7 @@ Dungeon topology matters: open regions favor her; tight corridors/ceilings can t
 Arc Five implication:
 - Yellow becomes increasingly comfortable for strong groups.
 - **Green Dungeon attempts become credible** with a capable progression-cohort composition.
-- Exact first Green clear/date remains OPEN.
+- Green failures: G4D2/G4D6. First clear: G5D3. Second/third clears: G5D4/G5D7.
 
 ## Mature future blender — preserve
 

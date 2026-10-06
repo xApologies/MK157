@@ -1,0 +1,23 @@
+{
+  "files_read": [
+    "ARC5_CALENDAR_SUMMARY.md",
+    "ARC5_DIRECTOR_CALENDAR.csv",
+    "ARC5_DIRECTOR_CALENDAR.json",
+    "AUDIT.json",
+    "EXECUTABLE.md",
+    "FILE_INVENTORY.json",
+    "LOCKED_DECISIONS.json",
+    "README.md"
+  ],
+  "inventory_result": "PASS: all 7 listed entries match; inventory itself is not self-listed",
+  "csv_json_equal": true,
+  "calendar_rows": 48,
+  "fixed_gross": {
+    "kira": 88595,
+    "illi": 78430
+  },
+  "source_status_resolution": "EXECUTABLE, SUMMARY, AUDIT and LOCKED_DECISIONS declare the entire schedule fully locked. SCAFFOLD row labels and event Open are preserved source text, not authorization to move combat dates. Social detail in established social/open blocks remains writable.",
+  "provisional_cp23_present": false,
+  "baseline_review": "Current fetched main is completed CP22. No provisional CP23 or newer remote change exists. Integrate this FULL LOCK cumulatively.",
+  "overlap": "Y6D4–Y7D7 repeats 11 CP22 Yellow dates; keep prior exact calendar bytes and check event/income consistency. Never add the shared Y6D5/Y6D6 credits twice."
+}

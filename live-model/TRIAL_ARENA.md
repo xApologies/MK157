@@ -209,3 +209,7 @@ Remain OPEN:
 ## Checkpoint 22 — voluntary termination and Training Yard
 
 Voluntary termination is available during the short inter-wave break/timer, with no voluntary exit during committed wave combat. Victory/death and existing re-instancing resolve a started wave. [Training Yard](TRAINING_YARD.md) supports Solo/Duo/Trio starting at a wave already completed/unlocked by the relevant participant/formation, with no Trial credits. Other official-standing/unlock semantics remain OPEN. Normal credit runs start W1. Kira’s repeated early-Arc-Five W1 practice and fallback to Armor/CSR/claws are skill learning, not loss of established capability.
+
+## Checkpoint 23 — paid practice and standings
+
+The [Arc Five calendar](../world-clock/ARC5_DIRECTOR_CALENDAR.md) locks five shared W18 clears/W19 failures. Kira's six paid Solo outings clear W3, W5, W7, W10, W14, then **W19 Blue at G5D1 / W20 reached-fails**. Low-wave stops are voluntary practice, not loss of previously established standing. illi clears W8 at G1D4, W9 at G3D2 and **W10 Yellow at G5D2 / W11 reached-fails**. Normal paid runs begin W1; no failed next-wave credit is awarded. Training Yard remains unpaid. No Trio outing or finite Black mastery cap is added.

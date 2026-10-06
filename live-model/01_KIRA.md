@@ -184,7 +184,7 @@ Black growth is competency/discovery/integration, not ordinary rank grinding.
 
 Genesis Orbs are INTENTIONALLY ANOMALOUS; do not classify them as literal singularities/black holes/etc. They are persistent externalized extensions of Kira and her Genesis interface, respond to her consciousness, interact physically/Transductively, become remote Transductive interfaces, and after Domain can project/exert Kira's Domain. Distributed Domain use matters to the end-book Genesis Collapse solution. Elara later discovers capabilities, not a mandatory ontology.
 
-Orb competency: late Yellow one Orb/crude cannonball → one-orb orbit → around mid-Green two-Orb competency and mature patterned blender → late Violet three-Orb competency. Three Orbs is the currently authored late-Valnak operating stage, not an intrinsic mastery ceiling (Checkpoint 22).
+Orb competency: late Yellow one Orb/crude cannonball → one-Orb orbit/mini-blender and G5D1 Blue Solo breakthrough → later two-Orb competency and mature patterned blender (exact date OPEN; older approximate mid-Green timing yields to the locked Arc Five one-Orb stage) → late Violet three-Orb competency. Three Orbs is the currently authored late-Valnak operating stage, not an intrinsic mastery ceiling (Checkpoint 22).
 Orbital weapons are not invented by Kira; ordinary multi-object shaping is cognitively/fatigue expensive. Summons offload local behavior into autonomy. Kira is a brute-force brawler/improviser, not a finesse swordfighter.
 After Valnak, one continuously sustained Orb can host/project Elara's external presence; exact identity/instancing semantics remain OPEN.
 
@@ -457,7 +457,7 @@ Absorption remains economically valuable, but the locked Checkpoint 14 schedule 
 Phase III — Kira CARRIES after Orb blender maturation:
 Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
-Around mid-Green, mature two-Orb blender is the major economic inversion.
+Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. No replacement two-Orb date is supplied.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
 Kira's Trial-breaking throughput then accelerates illi's White-Legacy credit generation dramatically.
 
@@ -509,6 +509,6 @@ Kira reliably clears W18 Solo or with illi, enters/fails W19 Blue, and farms upp
 
 Orbs are acquired **Y6D2 for 61,017**, distinct from competence. All five Black acquisitions are systems: **no ordinary rank ladder and no defined mastery ceiling**. Acquisition opens the system; discovery/competency/integration/mastery develops it. Do not invent Armor II, paid Orb/Halo ranks or a finite C_max. No intrinsic Orb range cutoff is defined; useful control becomes harder with distance, velocity, count and trajectory complexity. Beyond control, an Orb may slow, drift, hover or settle while manifestation persists. Existing late capabilities remain, without unlocking mature integration in Arc Five.
 
-Arc Five develops one Orb through cannonball/controlled flight/crude orbit into a Kira-anchored mini-blender: working **~11-foot radius**, moderate velocity, semi-stable displacement/damage rather than mature annihilation. It translates with CSR; hits/distraction/overload can break synchronization. “Kinetic shield” describes physical Orb motion, not a force-field Binding. At an **OPEN date**, Kira clears **W19 Blue Solo and reaches W20**; exact W20 failure depth remains OPEN. Duo stays W18 clear/W19 fail; no meaningful Trio push. The jumping-spider tactic prioritizes Blue ranged threats, then dangerous Yellow ranged, then melee; execution can fail.
+Arc Five develops one Orb through cannonball/controlled flight/crude orbit into a Kira-anchored mini-blender: working **~11-foot radius**, moderate velocity, semi-stable displacement/damage rather than mature annihilation. It translates with CSR; hits/distraction/overload can break synchronization. “Kinetic shield” describes physical Orb motion, not a force-field Binding. On **G5D1**, Kira clears **W19 Blue Solo and reaches/fails W20**; exact W20 failure depth remains OPEN. Duo stays W18 clear/W19 fail; no meaningful Trio push. The jumping-spider tactic prioritizes Blue ranged threats, then dangerous Yellow ranged, then melee; execution can fail.
 
 [Black systems doctrine](BLACK_SYSTEMS_MASTERY.md) preserves the full tactical, control and mature-future model. [Training Yard](TRAINING_YARD.md) allows no-credit selectable prior-wave practice; Kira often chooses paid W1 practice, falls back to Armor/CSR/claws to finish the wave, then stops between waves. Arc Five’s [social launch](../world-clock/ARC5_HANDOFF.md) follows Elara’s burnout warning and illi’s social leadership; the later Project Princess Carry fanaticism remains later.

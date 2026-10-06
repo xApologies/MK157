@@ -49,3 +49,7 @@ provenance/checkpoint-20-package/*.csv whitespace=cr-at-eol
 provenance/checkpoint-21-package/*.csv whitespace=cr-at-eol
 
 provenance/checkpoint-22-package/*.csv whitespace=cr-at-eol
+
+provenance/checkpoint-23-package/*.csv whitespace=cr-at-eol
+provenance/checkpoint-23-package/*.md whitespace=-blank-at-eol
+live-model/30_CHECKPOINT_23_ARC5_COMBAT_CALENDAR.md whitespace=-blank-at-eol

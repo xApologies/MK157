@@ -294,7 +294,7 @@ Absorption remains economically valuable, but the locked Checkpoint 14 schedule 
 Phase III — Kira CARRIES after Orb blender maturation:
 Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
-Around mid-Green, mature two-Orb blender is the major economic inversion.
+Mature two-Orb blender remains the later major economic inversion. The older approximate mid-Green timing is historical direction: Checkpoints 22/23 now explicitly keep Arc Five through G6D2 at the one-Orb competency stage, with the Blue Solo breakthrough G5D1. No replacement two-Orb date is supplied.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
 Kira's Trial-breaking throughput then accelerates illi's White-Legacy credit generation dramatically.
 
@@ -396,6 +396,14 @@ Preserve Kira Halo Early Blue and Domain Late Violet seasonal scaffold.
 
 **Y5D3**: two Yellow clears plus unnamed female-peer Builder invitation. **Y5D5**: first Builder party, no Trial credit. **Y6D1**: Hard Red clear/Orange fail, pre-Orb. **Y6D2**: Orbs acquired for 61,017. **Y6D3**: Genesis Prime Red/Arc Four close. **Y6D4**: Arc Five opens. **Y6D5/Y6D6**: W18 Duos/W19 fail; **Y6D7** recovery. **Y7D1–D3**: personal raeon block, out by D3. **Y7D4**: successful domai/OPEN award. **Y7D5–D7**: Auction/social.
 
-The [current Yellow calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md) fixes gross at 58,170 illi / 67,030 Kira through Arc Four, 71,280 / 80,140 for all Yellow excluding domai. Older CP21 totals and unsupplied-date statements are historical. [Arc Five](../world-clock/ARC5_HANDOFF.md) ends G6D2 Coherence Prime Red, 9,350. Opening PC Blue/Absorption Red/Beam Green/Genesis Prime Red remains; no new Prime rank dates. One-Orb mini-blender leads to W19 Solo clear/W20 reached at an OPEN date; Duo remains W18/W19 and Green Dungeon attempts become credible without dated clears.
+The [current Yellow calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md) fixes gross at 58,170 illi / 67,030 Kira through Arc Four, 71,280 / 80,140 for all Yellow excluding domai. Older CP21 totals and unsupplied-date statements are historical. [Arc Five](../world-clock/ARC5_HANDOFF.md) ends G6D2 Coherence Prime Red, 9,350. Opening PC Blue/Absorption Red/Beam Green/Genesis Prime Red remains; no new Prime rank dates. One-Orb mini-blender leads to W19 Solo clear/W20 reached-fails on G5D1; Duo remains W18/W19. Green Dungeon failures are G4D2/G4D6; clears are G5D3/G5D4/G5D7 under the Checkpoint 23 full lock.
 
 Social launch and Black-system discovery share the foreground; no rank ladder or defined mastery ceiling is imposed. Valnak is roughly the first third of Book One in the current author model; late-Valnak integrated battle-system reveals continue after Valnak. Do not exhaust Black systems or move later Project Princess Carry fanaticism into Arc Five.
+
+## Checkpoint 23 — Arc Five fully locked
+
+The [48-day director calendar](../world-clock/ARC5_DIRECTOR_CALENDAR.md) fixes all combat/progression Y6D4–G6D2: five W18 Duos, six Kira Solo/Orb-practice outings, three illi Solos, eight Yellow clears, five Green attempts (three clears/two failures) and three Normal Raids. Kira clears W19 Blue/reaches-fails W20 G5D1; illi clears W10/reaches-fails W11 G5D2 while Kira retains recovery/Highlights. Green failures G4D2/G4D6 precede G5D3 first clear, G5D4 second and G5D7 third. G5D4 replaces the provisional fourth Raid. Y7D4 Orange domai succeeds with contextual award OPEN BY DESIGN; G6D1 Yellow domai fails with no conquest payout. No Green domai or Trio is scheduled.
+
+Fixed Arc Five gross is **88,595 Kira / 78,430 illi**, excluding Orange-domai payout and failed-Dungeon partial rewards. These are earnings, not balances. Do not double-count the two Yellow Duos already in the full-Yellow calendar. G6D2 Coherence Prime Red **9,350** remains expenditure and closes the arc; all 17 illi ledger entries stay unchanged.
+
+Girls' Builder Night recurs G1D5–G5D5, with Yellow D5 displaced by Y6D5 Trial and Y7D5 Auction. Keep social/recovery blocks and Kira's G5D2 recovery. Black mastery, Training Yard, Builder culture and later Project Princess Carry survive. Source SCAFFOLD labels do not reopen fixed dates. Social prose may develop within established blocks; combat/progression moves require explicit author reopening. Move structural development to Arc Six. Exact intraday timings, W20/W11 failure depths, contextual awards and discretionary cashflow remain OPEN.

@@ -1,717 +1,604 @@
 {
-  "checkpoint": 22,
-  "scope": "CP22 full Yellow calendar remains current; Arc Five milestones resolved by CP23",
+  "checkpoint": 23,
   "result": "PASS",
   "errors": [],
-  "baseline_commit": "47c412e2e25acaf0bbaf5341e270e52b49d00009",
-  "calendar_rows": 49,
+  "baseline_commit": "452d1e8f266e11422a7b738a76b35b096b1d3fcc",
+  "calendar_rows": 48,
+  "arc": "Y6D4–G6D2",
+  "status": "FULLY LOCKED",
   "counts": {
-    "noncombat_rows": 29,
-    "shared_W18_duo": 6,
-    "orange_clears": 17,
-    "orange_sessions": 5,
-    "kira_W18_solo": 1,
-    "yellow_attempts": 4,
-    "yellow_failures": 1,
+    "noncombat_rows": 20,
+    "shared_W18_duo": 5,
+    "orange_domai_success": 1,
+    "kira_paid_solo": 6,
+    "yellow_clears": 8,
+    "illi_solo": 3,
     "normal_raid_outings": 3,
-    "kira_yellow_clears": 3,
-    "illi_yellow_clears": 2,
-    "hard_raid_outings": 1,
-    "successful_domai_events": 1
+    "green_attempts": 5,
+    "green_failures": 2,
+    "green_clears": 3,
+    "yellow_domai_failure": 1
   },
-  "shared_duo_dates": [
-    "Y1D3",
-    "Y2D2",
-    "Y3D3",
-    "Y4D4",
-    "Y6D5",
-    "Y6D6"
-  ],
-  "fixed_full_yellow_income_excluding_domai": {
-    "illi": 71280,
-    "kira": 80140
+  "fixed_gross_excluding_contextual_awards": {
+    "kira": 88595,
+    "illi": 78430
   },
-  "revised_arc4_income_through_Y6D3": {
-    "illi": 58170,
-    "kira": 67030
+  "income_by_category": {
+    "noncombat": {
+      "kira": 0,
+      "illi": 0
+    },
+    "duo": {
+      "kira": 32775,
+      "illi": 32775
+    },
+    "domai_excluded": {
+      "kira": 0,
+      "illi": 0
+    },
+    "solo": {
+      "kira": 14980,
+      "illi": 4815
+    },
+    "yellow_dungeon": {
+      "kira": 18440,
+      "illi": 18440
+    },
+    "normal_raid": {
+      "kira": 8750,
+      "illi": 8750
+    },
+    "green_dungeon": {
+      "kira": 13650,
+      "illi": 13650
+    }
   },
   "daily_fixed_gross": [
     {
-      "date": "Y1D1",
-      "event": "Season transition",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 0,
-        "kira": 0
-      }
-    },
-    {
-      "date": "Y1D2",
-      "event": "Arc Three close / Arc Four boundary",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 0,
-        "kira": 0
-      }
-    },
-    {
-      "date": "Y1D3",
-      "event": "Shared Duo Trial",
-      "illi": 6555,
-      "kira": 6555,
-      "cumulative_fixed_gross": {
-        "illi": 6555,
-        "kira": 6555
-      }
-    },
-    {
-      "date": "Y1D4",
-      "event": "Recovery / open",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 6555,
-        "kira": 6555
-      }
-    },
-    {
-      "date": "Y1D5",
-      "event": "Orange Dungeon session",
-      "illi": 3060,
-      "kira": 3060,
-      "cumulative_fixed_gross": {
-        "illi": 9615,
-        "kira": 9615
-      }
-    },
-    {
-      "date": "Y1D6",
-      "event": "Kira Solo Trial",
-      "illi": 0,
-      "kira": 6555,
-      "cumulative_fixed_gross": {
-        "illi": 9615,
-        "kira": 16170
-      }
-    },
-    {
-      "date": "Y1D7",
-      "event": "Recovery / open",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 9615,
-        "kira": 16170
-      }
-    },
-    {
-      "date": "Y2D1",
-      "event": "Orange Dungeon session",
-      "illi": 4080,
-      "kira": 4080,
-      "cumulative_fixed_gross": {
-        "illi": 13695,
-        "kira": 20250
-      }
-    },
-    {
-      "date": "Y2D2",
-      "event": "Shared Duo Trial",
-      "illi": 6555,
-      "kira": 6555,
-      "cumulative_fixed_gross": {
-        "illi": 20250,
-        "kira": 26805
-      }
-    },
-    {
-      "date": "Y2D3",
-      "event": "Recovery / open",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 20250,
-        "kira": 26805
-      }
-    },
-    {
-      "date": "Y2D4",
-      "event": "illi progression purchase",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 20250,
-        "kira": 26805
-      }
-    },
-    {
-      "date": "Y2D5",
-      "event": "Yellow Dungeon push",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 20250,
-        "kira": 26805
-      }
-    },
-    {
-      "date": "Y2D6",
-      "event": "Orange Dungeon session",
-      "illi": 3060,
-      "kira": 3060,
-      "cumulative_fixed_gross": {
-        "illi": 23310,
-        "kira": 29865
-      }
-    },
-    {
-      "date": "Y2D7",
-      "event": "Open",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 23310,
-        "kira": 29865
-      }
-    },
-    {
-      "date": "Y3D1",
-      "event": "Normal Raid attempt",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 23310,
-        "kira": 29865
-      }
-    },
-    {
-      "date": "Y3D2",
-      "event": "Recovery / open",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 23310,
-        "kira": 29865
-      }
-    },
-    {
-      "date": "Y3D3",
-      "event": "Shared Duo Trial",
-      "illi": 6555,
-      "kira": 6555,
-      "cumulative_fixed_gross": {
-        "illi": 29865,
-        "kira": 36420
-      }
-    },
-    {
-      "date": "Y3D4",
-      "event": "Recovery / open",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 29865,
-        "kira": 36420
-      }
-    },
-    {
-      "date": "Y3D5",
-      "event": "illi progression purchase",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 29865,
-        "kira": 36420
-      }
-    },
-    {
-      "date": "Y3D6",
-      "event": "Normal Raid attempt",
-      "illi": 2500,
-      "kira": 2500,
-      "cumulative_fixed_gross": {
-        "illi": 32365,
-        "kira": 38920
-      }
-    },
-    {
-      "date": "Y3D7",
-      "event": "Recovery / open",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 32365,
-        "kira": 38920
-      }
-    },
-    {
-      "date": "Y4D1",
-      "event": "Orange Dungeon session",
-      "illi": 3060,
-      "kira": 3060,
-      "cumulative_fixed_gross": {
-        "illi": 35425,
-        "kira": 41980
-      }
-    },
-    {
-      "date": "Y4D2",
-      "event": "Yellow Dungeon — Kira independent",
-      "illi": 0,
-      "kira": 2305,
-      "cumulative_fixed_gross": {
-        "illi": 35425,
-        "kira": 44285
-      }
-    },
-    {
-      "date": "Y4D3",
-      "event": "Recovery / social beat",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 35425,
-        "kira": 44285
-      }
-    },
-    {
-      "date": "Y4D4",
-      "event": "Shared Duo Trial",
-      "illi": 6555,
-      "kira": 6555,
-      "cumulative_fixed_gross": {
-        "illi": 41980,
-        "kira": 50840
-      }
-    },
-    {
-      "date": "Y4D5",
-      "event": "Recovery / open",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 41980,
-        "kira": 50840
-      }
-    },
-    {
-      "date": "Y4D6",
-      "event": "Normal Raid attempt",
-      "illi": 3750,
-      "kira": 3750,
-      "cumulative_fixed_gross": {
-        "illi": 45730,
-        "kira": 54590
-      }
-    },
-    {
-      "date": "Y4D7",
-      "event": "Open",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 45730,
-        "kira": 54590
-      }
-    },
-    {
-      "date": "Y5D1",
-      "event": "raeon tournament",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 45730,
-        "kira": 54590
-      }
-    },
-    {
-      "date": "Y5D2",
-      "event": "illi progression purchase",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 45730,
-        "kira": 54590
-      }
-    },
-    {
-      "date": "Y5D3",
-      "event": "Progression-cohort Yellow farm",
-      "illi": 4610,
-      "kira": 4610,
-      "cumulative_fixed_gross": {
-        "illi": 50340,
-        "kira": 59200
-      }
-    },
-    {
-      "date": "Y5D4",
-      "event": "Recovery / open",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 50340,
-        "kira": 59200
-      }
-    },
-    {
-      "date": "Y5D5",
-      "event": "First Builder party",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 50340,
-        "kira": 59200
-      }
-    },
-    {
-      "date": "Y5D6",
-      "event": "raeon tournament window",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 50340,
-        "kira": 59200
-      }
-    },
-    {
-      "date": "Y5D7",
-      "event": "Orange Dungeon session",
-      "illi": 4080,
-      "kira": 4080,
-      "cumulative_fixed_gross": {
-        "illi": 54420,
-        "kira": 63280
-      }
-    },
-    {
-      "date": "Y6D1",
-      "event": "Hard Raid attempt",
-      "illi": 3750,
-      "kira": 3750,
-      "cumulative_fixed_gross": {
-        "illi": 58170,
-        "kira": 67030
-      }
-    },
-    {
-      "date": "Y6D2",
-      "event": "Kira Black acquisition — Genesis Orbs",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 58170,
-        "kira": 67030
-      }
-    },
-    {
-      "date": "Y6D3",
-      "event": "Arc Four endpoint",
-      "illi": 0,
-      "kira": 0,
-      "cumulative_fixed_gross": {
-        "illi": 58170,
-        "kira": 67030
-      }
-    },
-    {
       "date": "Y6D4",
       "event": "Arc Five opening",
-      "illi": 0,
       "kira": 0,
+      "illi": 0,
       "cumulative_fixed_gross": {
-        "illi": 58170,
-        "kira": 67030
+        "kira": 0,
+        "illi": 0
       }
     },
     {
       "date": "Y6D5",
       "event": "Shared Duo Trial",
-      "illi": 6555,
       "kira": 6555,
+      "illi": 6555,
       "cumulative_fixed_gross": {
-        "illi": 64725,
-        "kira": 73585
+        "kira": 6555,
+        "illi": 6555
       }
     },
     {
       "date": "Y6D6",
       "event": "Shared Duo Trial",
-      "illi": 6555,
       "kira": 6555,
+      "illi": 6555,
       "cumulative_fixed_gross": {
-        "illi": 71280,
-        "kira": 80140
+        "kira": 13110,
+        "illi": 13110
       }
     },
     {
       "date": "Y6D7",
       "event": "Recovery",
-      "illi": 0,
       "kira": 0,
+      "illi": 0,
       "cumulative_fixed_gross": {
-        "illi": 71280,
-        "kira": 80140
+        "kira": 13110,
+        "illi": 13110
       }
     },
     {
       "date": "Y7D1",
-      "event": "raeon tournament",
-      "illi": 0,
+      "event": "raeon",
       "kira": 0,
+      "illi": 0,
       "cumulative_fixed_gross": {
-        "illi": 71280,
-        "kira": 80140
+        "kira": 13110,
+        "illi": 13110
       }
     },
     {
       "date": "Y7D2",
-      "event": "raeon tournament",
-      "illi": 0,
+      "event": "raeon",
       "kira": 0,
+      "illi": 0,
       "cumulative_fixed_gross": {
-        "illi": 71280,
-        "kira": 80140
+        "kira": 13110,
+        "illi": 13110
       }
     },
     {
       "date": "Y7D3",
-      "event": "raeon tournament",
-      "illi": 0,
+      "event": "raeon",
       "kira": 0,
+      "illi": 0,
       "cumulative_fixed_gross": {
-        "illi": 71280,
-        "kira": 80140
+        "kira": 13110,
+        "illi": 13110
       }
     },
     {
       "date": "Y7D4",
-      "event": "domai excursion",
-      "illi": 0,
+      "event": "Orange domai",
       "kira": 0,
+      "illi": 0,
       "cumulative_fixed_gross": {
-        "illi": 71280,
-        "kira": 80140
+        "kira": 13110,
+        "illi": 13110
       }
     },
     {
       "date": "Y7D5",
-      "event": "Yellow seasonal Auction Day 1",
-      "illi": 0,
+      "event": "Seasonal Auction",
       "kira": 0,
+      "illi": 0,
       "cumulative_fixed_gross": {
-        "illi": 71280,
-        "kira": 80140
+        "kira": 13110,
+        "illi": 13110
       }
     },
     {
       "date": "Y7D6",
-      "event": "Yellow seasonal Auction Day 2",
-      "illi": 0,
+      "event": "Seasonal Auction",
       "kira": 0,
+      "illi": 0,
       "cumulative_fixed_gross": {
-        "illi": 71280,
-        "kira": 80140
+        "kira": 13110,
+        "illi": 13110
       }
     },
     {
       "date": "Y7D7",
-      "event": "Yellow seasonal Auction Day 3",
-      "illi": 0,
+      "event": "Seasonal Auction",
       "kira": 0,
+      "illi": 0,
       "cumulative_fixed_gross": {
-        "illi": 71280,
-        "kira": 80140
+        "kira": 13110,
+        "illi": 13110
+      }
+    },
+    {
+      "date": "G1D1",
+      "event": "Kira Solo Trial",
+      "kira": 255,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 13365,
+        "illi": 13110
+      }
+    },
+    {
+      "date": "G1D2",
+      "event": "Dungeon session",
+      "kira": 4610,
+      "illi": 4610,
+      "cumulative_fixed_gross": {
+        "kira": 17975,
+        "illi": 17720
+      }
+    },
+    {
+      "date": "G1D3",
+      "event": "Recovery",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 17975,
+        "illi": 17720
+      }
+    },
+    {
+      "date": "G1D4",
+      "event": "illi Solo Trial",
+      "kira": 0,
+      "illi": 1275,
+      "cumulative_fixed_gross": {
+        "kira": 17975,
+        "illi": 18995
+      }
+    },
+    {
+      "date": "G1D5",
+      "event": "Builder Night",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 17975,
+        "illi": 18995
+      }
+    },
+    {
+      "date": "G1D6",
+      "event": "Dungeon session",
+      "kira": 4610,
+      "illi": 4610,
+      "cumulative_fixed_gross": {
+        "kira": 22585,
+        "illi": 23605
+      }
+    },
+    {
+      "date": "G1D7",
+      "event": "Open",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 22585,
+        "illi": 23605
+      }
+    },
+    {
+      "date": "G2D1",
+      "event": "Kira Solo Trial",
+      "kira": 565,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 23150,
+        "illi": 23605
+      }
+    },
+    {
+      "date": "G2D2",
+      "event": "Shared Duo Trial",
+      "kira": 6555,
+      "illi": 6555,
+      "cumulative_fixed_gross": {
+        "kira": 29705,
+        "illi": 30160
+      }
+    },
+    {
+      "date": "G2D3",
+      "event": "Dungeon session",
+      "kira": 4610,
+      "illi": 4610,
+      "cumulative_fixed_gross": {
+        "kira": 34315,
+        "illi": 34770
+      }
+    },
+    {
+      "date": "G2D4",
+      "event": "Raid outing #1",
+      "kira": 2500,
+      "illi": 2500,
+      "cumulative_fixed_gross": {
+        "kira": 36815,
+        "illi": 37270
+      }
+    },
+    {
+      "date": "G2D5",
+      "event": "Builder Night",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 36815,
+        "illi": 37270
+      }
+    },
+    {
+      "date": "G2D6",
+      "event": "Kira Solo Trial",
+      "kira": 1000,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 37815,
+        "illi": 37270
+      }
+    },
+    {
+      "date": "G2D7",
+      "event": "Recovery",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 37815,
+        "illi": 37270
+      }
+    },
+    {
+      "date": "G3D1",
+      "event": "Dungeon session",
+      "kira": 4610,
+      "illi": 4610,
+      "cumulative_fixed_gross": {
+        "kira": 42425,
+        "illi": 41880
+      }
+    },
+    {
+      "date": "G3D2",
+      "event": "illi Solo Trial",
+      "kira": 0,
+      "illi": 1590,
+      "cumulative_fixed_gross": {
+        "kira": 42425,
+        "illi": 43470
+      }
+    },
+    {
+      "date": "G3D3",
+      "event": "Raid outing #2",
+      "kira": 2500,
+      "illi": 2500,
+      "cumulative_fixed_gross": {
+        "kira": 44925,
+        "illi": 45970
+      }
+    },
+    {
+      "date": "G3D4",
+      "event": "Kira Solo Trial",
+      "kira": 1950,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 46875,
+        "illi": 45970
+      }
+    },
+    {
+      "date": "G3D5",
+      "event": "Builder Night",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 46875,
+        "illi": 45970
+      }
+    },
+    {
+      "date": "G3D6",
+      "event": "Shared Duo Trial",
+      "kira": 6555,
+      "illi": 6555,
+      "cumulative_fixed_gross": {
+        "kira": 53430,
+        "illi": 52525
+      }
+    },
+    {
+      "date": "G3D7",
+      "event": "Recovery",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 53430,
+        "illi": 52525
+      }
+    },
+    {
+      "date": "G4D1",
+      "event": "Kira Solo Trial",
+      "kira": 3855,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 57285,
+        "illi": 52525
+      }
+    },
+    {
+      "date": "G4D2",
+      "event": "Green Dungeon #1",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 57285,
+        "illi": 52525
+      }
+    },
+    {
+      "date": "G4D3",
+      "event": "Recovery",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 57285,
+        "illi": 52525
+      }
+    },
+    {
+      "date": "G4D4",
+      "event": "Raid outing #3",
+      "kira": 3750,
+      "illi": 3750,
+      "cumulative_fixed_gross": {
+        "kira": 61035,
+        "illi": 56275
+      }
+    },
+    {
+      "date": "G4D5",
+      "event": "Builder Night",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 61035,
+        "illi": 56275
+      }
+    },
+    {
+      "date": "G4D6",
+      "event": "Green Dungeon #2",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 61035,
+        "illi": 56275
+      }
+    },
+    {
+      "date": "G4D7",
+      "event": "Recovery",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 61035,
+        "illi": 56275
+      }
+    },
+    {
+      "date": "G5D1",
+      "event": "Kira Solo Trial",
+      "kira": 7355,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 68390,
+        "illi": 56275
+      }
+    },
+    {
+      "date": "G5D2",
+      "event": "illi Solo Trial + Kira recovery",
+      "kira": 0,
+      "illi": 1950,
+      "cumulative_fixed_gross": {
+        "kira": 68390,
+        "illi": 58225
+      }
+    },
+    {
+      "date": "G5D3",
+      "event": "Green Dungeon #3",
+      "kira": 4550,
+      "illi": 4550,
+      "cumulative_fixed_gross": {
+        "kira": 72940,
+        "illi": 62775
+      }
+    },
+    {
+      "date": "G5D4",
+      "event": "Green Dungeon #4",
+      "kira": 4550,
+      "illi": 4550,
+      "cumulative_fixed_gross": {
+        "kira": 77490,
+        "illi": 67325
+      }
+    },
+    {
+      "date": "G5D5",
+      "event": "Builder Night",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 77490,
+        "illi": 67325
+      }
+    },
+    {
+      "date": "G5D6",
+      "event": "Shared Duo Trial",
+      "kira": 6555,
+      "illi": 6555,
+      "cumulative_fixed_gross": {
+        "kira": 84045,
+        "illi": 73880
+      }
+    },
+    {
+      "date": "G5D7",
+      "event": "Green Dungeon #5",
+      "kira": 4550,
+      "illi": 4550,
+      "cumulative_fixed_gross": {
+        "kira": 88595,
+        "illi": 78430
+      }
+    },
+    {
+      "date": "G6D1",
+      "event": "Yellow domai",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 88595,
+        "illi": 78430
+      }
+    },
+    {
+      "date": "G6D2",
+      "event": "Arc Five endpoint",
+      "kira": 0,
+      "illi": 0,
+      "cumulative_fixed_gross": {
+        "kira": 88595,
+        "illi": 78430
       }
     }
   ],
-  "income_by_event": {
-    "Season transition": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Arc Three close / Arc Four boundary": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Shared Duo Trial": {
-      "illi": 39330,
-      "kira": 39330
-    },
-    "Recovery / open": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Orange Dungeon session": {
-      "illi": 17340,
-      "kira": 17340
-    },
-    "Kira Solo Trial": {
-      "illi": 0,
-      "kira": 6555
-    },
-    "illi progression purchase": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Yellow Dungeon push": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Open": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Normal Raid attempt": {
-      "illi": 6250,
-      "kira": 6250
-    },
-    "Yellow Dungeon — Kira independent": {
-      "illi": 0,
-      "kira": 2305
-    },
-    "Recovery / social beat": {
-      "illi": 0,
-      "kira": 0
-    },
-    "raeon tournament": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Progression-cohort Yellow farm": {
-      "illi": 4610,
-      "kira": 4610
-    },
-    "First Builder party": {
-      "illi": 0,
-      "kira": 0
-    },
-    "raeon tournament window": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Hard Raid attempt": {
-      "illi": 3750,
-      "kira": 3750
-    },
-    "Kira Black acquisition — Genesis Orbs": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Arc Four endpoint": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Arc Five opening": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Recovery": {
-      "illi": 0,
-      "kira": 0
-    },
-    "domai excursion": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Yellow seasonal Auction Day 1": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Yellow seasonal Auction Day 2": {
-      "illi": 0,
-      "kira": 0
-    },
-    "Yellow seasonal Auction Day 3": {
-      "illi": 0,
-      "kira": 0
-    }
-  },
   "raid_bookings": [
     {
-      "date": "Y3D1",
+      "date": "G2D4",
+      "season": "Green",
       "mode": "normal",
-      "cleared": [],
-      "failed": [
-        "Red"
-      ]
+      "cleared_boss": "Red A",
+      "failed_boss": "Red boss B",
+      "each": 2500
     },
     {
-      "date": "Y3D6",
+      "date": "G3D3",
+      "season": "Green",
       "mode": "normal",
-      "cleared": [
-        {
-          "boss": "Red",
-          "credits_each": 2500
-        }
-      ],
-      "failed": [
-        "Orange"
-      ]
+      "cleared_boss": "Red B",
+      "failed_boss": "Orange boss A",
+      "each": 2500
     },
     {
-      "date": "Y4D6",
+      "date": "G4D4",
+      "season": "Green",
       "mode": "normal",
-      "cleared": [
-        {
-          "boss": "Red",
-          "credits_each": 0
-        },
-        {
-          "boss": "Orange",
-          "credits_each": 3750
-        }
-      ],
-      "failed": []
-    },
-    {
-      "date": "Y6D1",
-      "mode": "hard",
-      "cleared": [
-        {
-          "boss": "Red",
-          "credits_each": 3750
-        }
-      ],
-      "failed": [
-        "Orange"
-      ]
+      "cleared_boss": "Orange A",
+      "failed_boss": "Orange boss B",
+      "each": 3750
     }
   ],
-  "changed_cp21_dates": [
-    "Y5D3",
-    "Y5D5",
-    "Y6D2",
-    "Y6D3"
+  "overlapping_yellow_dates": [
+    "Y6D4",
+    "Y6D5",
+    "Y6D6",
+    "Y6D7",
+    "Y7D1",
+    "Y7D2",
+    "Y7D3",
+    "Y7D4",
+    "Y7D5",
+    "Y7D6",
+    "Y7D7"
   ],
-  "gross_is_not_balance": true,
-  "exact_orbs": "Y6D2",
-  "arc4_close": "Y6D3",
-  "arc5_open": "Y6D4",
-  "arc5_close": "G6D2 Coherence Prime Red, 9350",
-  "personal_raeon_block": "Y7D1–D3; run ends by D3; exact matches/elimination OPEN",
-  "domai_award": "Y7D4 successful; exact group award OPEN and excluded",
+  "overlap_fixed_gross": {
+    "kira": 13110,
+    "illi": 13110
+  },
+  "combined_full_yellow_through_G6D2_fixed_gross": {
+    "kira": 155625,
+    "illi": 136600
+  },
+  "girls_builder_nights": [
+    "G1D5",
+    "G2D5",
+    "G3D5",
+    "G4D5",
+    "G5D5"
+  ],
   "registry_counts": {
     "bindings": 1016,
     "summons": 229,
     "builder_paths": 200
   },
-  "builder_role_counts": {
-    "Combat Medic": 30,
-    "Augmenter": 45,
-    "Maege": 65,
-    "Summoner": 60
-  },
-  "illi_events": 17,
-  "illi_total": 250884,
+  "illi_milestones": 17,
+  "illi_progression_total": 250884,
   "project_princess_carry_section_byte_identical": true,
-  "blue_solo_date": "G5D1",
-  "green_first_attempt": "G4D2",
-  "green_first_clear": "G5D3",
-  "source_inventory_exception": "Supplied MANIFEST inventory entry is stale; all 16 actual ZIP members archived exactly",
-  "protected_baseline_files": [
+  "baseline_files_required_byte_identical": [
+    ".gitignore",
     "bindings/AUDIT.json",
     "bindings/BINDINGS.csv",
     "bindings/BINDINGS.json",
@@ -741,11 +628,21 @@
     "builder/paths/PATHS.jsonl",
     "builder/paths/PATH_CATALOG.md",
     "builder/paths/PATH_SCHEMA.md",
+    "builder/paths/README.md",
     "combat-rewards/AUDIT.json",
     "combat-rewards/COMBAT_REWARD_TABLES.json",
+    "combat-rewards/DOMAI_GROUP_ECONOMY.json",
     "combat-rewards/DOMAI_PARTICIPATION_RULES.json",
     "combat-rewards/DUNGEON_REWARDS.csv",
     "combat-rewards/RAID_BOSS_REWARDS.csv",
+    "combat-rewards/README.md",
+    "combat-rewards/validate_rewards.py",
+    "economy/AUDIT.json",
+    "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+    "economy/validate_economy.py",
+    "live-model/02_COSMOLOGY.md",
+    "live-model/05_VISUAL_CANON.md",
+    "live-model/06_OPEN_PROVENANCE.md",
     "live-model/07_CHECKPOINT_02_ADDENDUM.md",
     "live-model/08_CHECKPOINT_03_ADDENDUM.md",
     "live-model/09_CHECKPOINT_04_ADDENDUM.md",
@@ -767,7 +664,19 @@
     "live-model/26_CHECKPOINT_19_ARC_THREE.md",
     "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md",
     "live-model/28_CHECKPOINT_21_ARC4_YELLOW.md",
+    "live-model/29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md",
+    "live-model/AITHREN_VAELUM_ACCORD.md",
+    "live-model/CREATOR_CRAFTSMAN.md",
     "live-model/ELDRIS_REFERENCE.md",
+    "live-model/GENESIS_CARDS.md",
+    "live-model/NORMAL_DUNGEONS.md",
+    "live-model/PLANETARY_CALENDAR.md",
+    "live-model/PRIME_ELEMENTALS.md",
+    "live-model/PRISM.md",
+    "live-model/RAEON.md",
+    "live-model/SOURCE_BOUNDARIES.md",
+    "live-model/TRAINING_YARD.md",
+    "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
     "prior-checkpoint-source/EXECUTABLE.md",
     "prior-checkpoint-source/LIVE_MODEL_01_CANON.md",
     "prior-checkpoint-source/LIVE_MODEL_02_VALNAK.md",
@@ -836,6 +745,13 @@
     "provenance/CHECKPOINT_21_CONFLICTS.md",
     "provenance/CHECKPOINT_21_COVERAGE_MANIFEST.csv",
     "provenance/CHECKPOINT_21_REVERSE_DIFF.csv",
+    "provenance/CHECKPOINT_22_AUDIT.json",
+    "provenance/CHECKPOINT_22_BEFORE_REVIEW.json",
+    "provenance/CHECKPOINT_22_BOUNDARY_SEARCH.json",
+    "provenance/CHECKPOINT_22_CONFLICTS.md",
+    "provenance/CHECKPOINT_22_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_22_REVERSE_DIFF.csv",
+    "provenance/CHECKPOINT_22_SOURCE_REVIEW.json",
     "provenance/checkpoint-04-package/README.md",
     "provenance/checkpoint-04-package/live-model/00_GOVERNANCE.md",
     "provenance/checkpoint-04-package/live-model/01_KIRA.md",
@@ -990,6 +906,22 @@
     "provenance/checkpoint-21-package/MANIFEST.json",
     "provenance/checkpoint-21-package/README.md",
     "provenance/checkpoint-21-package/source/MK147_MASTER_ELDRIS_LRS.pdf",
+    "provenance/checkpoint-22-package/ARC5_HANDOFF_ROADMAP.md",
+    "provenance/checkpoint-22-package/BASELINE_AUDIT.md",
+    "provenance/checkpoint-22-package/BUILDER_COMMUNITY.md",
+    "provenance/checkpoint-22-package/CHECKPOINT22_AUDIT.json",
+    "provenance/checkpoint-22-package/CHECKPOINT22_LIVE_MODEL_DELTA.md",
+    "provenance/checkpoint-22-package/CHECKPOINT22_REVERSE_DIFF.csv",
+    "provenance/checkpoint-22-package/DOMAI_GROUP_ECONOMY.md",
+    "provenance/checkpoint-22-package/EXECUTABLE.md",
+    "provenance/checkpoint-22-package/FILE_INVENTORY.json",
+    "provenance/checkpoint-22-package/KIRA_BLACK_SYSTEMS_ARC5.md",
+    "provenance/checkpoint-22-package/MANIFEST.json",
+    "provenance/checkpoint-22-package/OPEN_ITEMS.md",
+    "provenance/checkpoint-22-package/README.md",
+    "provenance/checkpoint-22-package/TRAINING_YARD.md",
+    "provenance/checkpoint-22-package/YELLOW_DIRECTOR_CALENDAR.csv",
+    "provenance/checkpoint-22-package/YELLOW_DIRECTOR_CALENDAR.json",
     "provenance/historical-root-handoffs/EXECUTABLE.md",
     "provenance/historical-root-handoffs/EXECUTABLE_CHECKPOINT_01.md",
     "provenance/historical-root-handoffs/EXECUTABLE_CHECKPOINT_02.md",
@@ -1036,10 +968,27 @@
     "trial-rewards/README.md",
     "trial-rewards/TRIAL_WAVE_CREDITS.csv",
     "trial-rewards/TRIAL_WAVE_CREDITS.json",
+    "visual-references/ARMOR_OF_THE_ABYSS_REFERENCE.jpeg",
+    "visual-references/CITY_LOCATION_REGISTRY.csv",
+    "visual-references/INDEX.md",
+    "visual-references/KIRA_AFFLICTED_REFERENCE.jpeg",
+    "visual-references/KIRA_GOLDEN_EYE_REFERENCE.png",
+    "visual-references/KIRA_POST_VALNEK_CANON.png",
+    "visual-references/VALNAK_AUTHOR_MAP_CURRENT.jpeg",
+    "visual-references/VALNAK_CITY_MAP_001_RAEON_FLAGSHIP.png",
+    "visual-references/VALNAK_DUNGEON_DOMAI_BASE_MAP.jpeg",
+    "visual-references/VALNAK_TRIAL_ARENA_3X3.png",
+    "visual-references/VALNEK_PATH_PLAQUES.jpeg",
+    "world-clock/ARC3_ECONOMY_AUDIT.json",
     "world-clock/ARC3_ORANGE_CALENDAR.csv",
     "world-clock/ARC3_ORANGE_CALENDAR.json",
+    "world-clock/ARC3_ORANGE_CALENDAR.md",
+    "world-clock/ARC4_HANDOFF.json",
+    "world-clock/ARC4_HANDOFF.md",
     "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.csv",
     "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json",
+    "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md",
+    "world-clock/CALENDAR_AUDIT.json",
     "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv",
     "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
     "world-clock/ILLI_PROGRESSION_SKELETON.csv",
@@ -1047,21 +996,33 @@
     "world-clock/PRISM_TEAM_TRACKER.csv",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json",
-    "world-clock/WORLD_CLOCK_TEMPLATE.csv"
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+    "world-clock/WORLD_CLOCK_TEMPLATE.csv",
+    "world-clock/YELLOW_DIRECTOR_CALENDAR.csv",
+    "world-clock/YELLOW_DIRECTOR_CALENDAR.json",
+    "world-clock/validate_arc3.py",
+    "world-clock/validate_arc4_handoff.py",
+    "world-clock/validate_arc4_yellow.py"
   ],
+  "stale_pattern": "at an (?:\\*\\*)?OPEN date|exact (?:breakthrough date|first Green clear/date|attempt/first-clear dates|attempts/first clear).{0,25}(?:OPEN|undated)|illi Solo exact standing remains OPEN|Exact date inside Arc Five|Exact illi Solo standing/rank during Arc Five",
+  "stale_active_matches": [],
+  "gross_is_not_balance": true,
+  "contextual_orange_domai_award": null,
+  "failed_dungeon_partial_credits": "OPEN/excluded",
+  "intraday_timing_and_failure_depth": "OPEN; dates and completed waves locked",
   "sha256": {
-    "world-clock/YELLOW_DIRECTOR_CALENDAR.csv": "2dd1d473bc26a627413555b2fa0f30b05cb5b263d4644e60fda27f5adcb4888e",
-    "world-clock/YELLOW_DIRECTOR_CALENDAR.json": "fc489b039e7662a67bf47837a95bf8c793ef493f278276ea64086b2dce130c1d",
-    "world-clock/ARC4_HANDOFF.json": "0e459f5558607438858e301a518c534aac5fcc78a2d286ea87794593a0f7a5ec",
-    "world-clock/ARC5_HANDOFF.json": "7779aab751c4785970ea6204d4a061175a700887f2fdbfbc4d2aefe5a749b934",
-    "combat-rewards/DOMAI_GROUP_ECONOMY.json": "2261342854c93431c6776556912c6a4f1afdc56d2805d3d7202a19a73efc302b",
-    "world-clock/validate_yellow_director.py": "4d9cf6d9e8f1998d1a8eb6ae70c8e21d7ef98fcfd9527cdcb97470383d3b9427",
-    "live-model/TRAINING_YARD.md": "49d0a894349de88d5c883f1f1194ac0eb693c4de0a878d2e11a2b4ccbee2e68d",
     "builder/COMMUNITY.md": "b3ee56f89b495972aafa646d13c9176f1c19b92ae236e93570aa092fd7f6cb35",
+    "combat-rewards/COMBAT_REWARD_TABLES.json": "e746deb0e4dec78578733906436329770e661f5efd88db46fb27e8a78ef64643",
+    "live-model/01_KIRA.md": "52e57d4c347476e31706e5c9af9bbe45bd8b515a58951d9477e169aa6ec117af",
     "live-model/BLACK_SYSTEMS_MASTERY.md": "420ac953bd7df16b01a2e58948aa8723879aa3458eea725a22e2f0f500812288",
-    "world-clock/ARC5_HANDOFF.md": "d760e264d39ee6be856df99356627c936fe0130b6c1d697ca37c9aad4f64a28c",
     "live-model/DOMAI_PARTICIPATION.md": "f0207c94718aef8a7293934575f957d47e18c3f83002ee4f94784b39bf16cc64",
-    "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "a90f44de5acf9cada1e92a7efe51f52d5aedd4b2291a3febe45afb3784cb0d0d",
-    "live-model/OPEN.md": "8d59fcae31b0546e84520f412866aaacb3b121fe5423a57234f7a13859a93c73"
+    "live-model/ILLI_PROGRESSION.md": "40b4d1f881d3a9c60bee594b262e01b15c304ca8cf3b0f5050dbd21b3e0f4ec5",
+    "live-model/OPEN.md": "8d59fcae31b0546e84520f412866aaacb3b121fe5423a57234f7a13859a93c73",
+    "trial-rewards/TRIAL_WAVE_CREDITS.json": "d3139b9821d315c2d7e00c4e07838571cd654df14d8fe7f1be9b497b9169a7b0",
+    "world-clock/ARC5_DIRECTOR_CALENDAR.csv": "edbbd34e63314bc8efdcf68b62c6deda657650268ef6d680b21c0f0e8af57215",
+    "world-clock/ARC5_DIRECTOR_CALENDAR.json": "541fc0f48caf14bde9f024598c9569181b4d5e05bd2faf9403dbe16366d9c122",
+    "world-clock/ARC5_DIRECTOR_CALENDAR.md": "59da5aa744d988270ea2567c6a0733f453ddf7357da123363fdd1c229e2d598d",
+    "world-clock/ARC5_HANDOFF.json": "7779aab751c4785970ea6204d4a061175a700887f2fdbfbc4d2aefe5a749b934",
+    "world-clock/validate_arc5.py": "98f734808d3b9af1447e40c14acac8da23ddf6a29bc98dec3a74d46fce35ca09"
   }
 }

@@ -1,8 +1,8 @@
 # Authority and supersessions
 
-Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs, Arc Five and social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries and the specific Blue Fireball card purchase. Checkpoint 19 governs the unchanged Orange combat calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections.
+Checkpoint 23 fully locks Arc Five combat/progression dates Y6D4–G6D2. Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs and preserved social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries and the specific Blue Fireball card purchase. Checkpoint 19 governs the unchanged Orange combat calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections.
 
-Checkpoint 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
+Checkpoint 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
 | Earlier statement | Governing correction | Source |
 | --- | --- | --- |
@@ -69,7 +69,7 @@ Older Checkpoint 03 Signature first Binding absorption wording is superseded by 
 
 ## Checkpoint 09 governing continuation
 
-Checkpoint 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
+Checkpoint 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 on explicit conflicts; non-conflicting detail accumulates.
 Lowercase `eldris` supersedes Checkpoint 08 uppercase typography. `raeon`, `domai`, `vaen`, `maege`, `maegi` are lowercase; spelling-by-letter capitals are transcription artifacts.
 The current carriage supersedes historical Open Blank transport. Schedule PDFs supply methodology only. MK157 explicit canon governs approved upstream inheritance. Outside persistent Dungeons are distinct from Valnak procedural training; outside `domai` unravel progressively after core break, while Valnak incursions terminate as completed encounters.
 Checkpoint 08 Green Solo graduation and Black/White progression remain. No new registry records are requested. The exact Checkpoint 09 master retains its original pending-integration header and quoted uppercase transcription example; current status is integrated and its authority is active.
@@ -77,7 +77,7 @@ See [full master](16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md), [source boundar
 
 ## Checkpoint 10 Trial/calendar delta
 
-Checkpoint 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
+Checkpoint 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 governs explicit conflicts. Checkpoint 09 continuity remains intact. Checkpoint 10 explicitly promotes the 31-hour day and applicable calendar infrastructure; the earlier source-quarantine prohibition on importing that day is superseded only for this promoted infrastructure. Unrelated PDF plot, classes, astronomy and cosmology remain quarantined.
 
 Wave totals describe delivered population, not simultaneous population. Solo/Duo/Trio share fixed 3×3-mile geography; Dungeon realization remains procedural. W35 pressure saturation is WORKING; post-W35 total population, numeric caps and exact spawn laws remain OPEN. W96 is noncanonical.
 
@@ -97,7 +97,7 @@ Checkpoint 12 replaces pre-convention numeric scaffolding and gas base-cost OPEN
 illi's B=1000 example is historical illustration; actual Persistent Coherence B=700 cumulative through Blue is 18655. Blue entry qualification and individual Prime gates remain. White Legacy access does not waive Prime acquisition. Kira's character-specific Black acquisition gates and Checkpoint 11 calendar/card rules remain separate; the four post-Armor prices reopened by Checkpoint 14 are resolved by Checkpoint 19 at 61,017 each. The former 61,000 lock remains superseded.
 See [Checkpoint 12](19_CHECKPOINT_12_COMPLETE_PRICING.md) and [pricing policy](../bindings/PRICING_MODEL.md). Unrelated OPEN items stay OPEN.
 
-Checkpoint 13: Absorption Shield GE-0537 B=3000 is superseded by 10000/Exceptional; other prices remain. White Legacy has both prerequisite compression and 45% package deduction (pay55%); full-price prequalification Persistent Coherence remains. GF-0018/GF-0038/GF-0088 use Expanded Intercept Resolve/Focused Intercept Resolve/Shared Intercept Resolve with stable IDs/mechanisms. Forced cooldown is expressed as fatigue/recovery/sustainable capacity. Orbs late Yellow, mature two-Orb blender around mid-Green; carry regimes govern without purchase dates. ~55000 W1–35 macro target does not approve wave reward rows; rejected high-output tables remain quarantined.
+Checkpoint 13: Absorption Shield GE-0537 B=3000 is superseded by 10000/Exceptional; other prices remain. White Legacy has both prerequisite compression and 45% package deduction (pay55%); full-price prequalification Persistent Coherence remains. GF-0018/GF-0038/GF-0088 use Expanded Intercept Resolve/Focused Intercept Resolve/Shared Intercept Resolve with stable IDs/mechanisms. Forced cooldown is expressed as fatigue/recovery/sustainable capacity. Orbs late Yellow; the older approximate mid-Green mature two-Orb timing yields to CP22/23’s one-Orb Arc Five stage. Later multi-Orb capability and carry regimes remain, with no replacement exact date supplied. ~55000 W1–35 macro target does not approve wave reward rows; rejected high-output tables remain quarantined.
 
 Checkpoint 14 full reconciliation governs: exact rewards 53910 supersede rounded ~55000 and erroneous 55030; W36+ stays OPEN. The supplied 17-event illi skeleton supersedes Early Blue Coherence/White Resonance windows and arbitrary failed calendars. Early deepening of Absorption is deferred in the locked skeleton until after late-Green Coherence Prime. Black flat 61000 finality is SUPERSEDED/OPEN for recalibration. Project Princess Carry, independent schedules, information gap and discretionary/commodity doctrine are active. Earlier checkpoint masters remain source history subject to these explicit corrections.
 
@@ -165,6 +165,21 @@ Pre-Orb W18 clear/W19 failure supersedes only earlier working ceiling language a
 
 Y6D2 fixes the previously OPEN Late Yellow Orb date at 61,017; Y6D1 Hard Raid is pre-Orb and Y6D3 remains Arc Four close. Y5D5’s W18 Trial is replaced by the first Builder party, invited after Y5D3’s two Yellow clears. Added Y6D5/Y6D6 Duos produce six total shared Yellow W18 runs. The current 49-day calendar yields 58,170/67,030 illi/Kira Arc Four gross and 71,280/80,140 full Yellow gross excluding domai. Old CP21 rows/audits remain historical, never current payout authority.
 
-Arc Five opens Y6D4 and closes G6D2 Coherence Prime Red. W19 Solo clear/W20 reached follows one-Orb competency at an OPEN date; Duo stays W18/W19 and no Trio push is forced. Green Dungeon attempts become credible in this later stage; exact attempts/first clear stay OPEN. Three-Orb late-Valnak direction is an authored operating stage, not a finite intrinsic mastery ceiling. No paid Black ranks or premature late-system unlocks are added.
+Arc Five opens Y6D4 and closes G6D2 Coherence Prime Red. W19 Solo clear/W20 reached-fails follows one-Orb competency on G5D1 under Checkpoint 23; Duo stays W18/W19 and no Trio push is forced. Green Dungeon failures are G4D2/G4D6 and clears G5D3/G5D4/G5D7. These explicit dates supersede CP22’s undated milestones. Three-Orb late-Valnak direction is an authored operating stage, not a finite intrinsic mastery ceiling. No paid Black ranks or premature late-system unlocks are added.
 
 Training Yard selectable prior waves pay no credits; ordinary Trials may terminate between waves only. Builder community overlays all 200 unchanged trajectories. domai aggregate group contribution is split equally among eligible members, then individual death deductions; CP18 participant awards mean those base shares, with eligibility/lockout preserved. Bonus layer, scoring, rounding and Y7D4 amount stay OPEN. Personal raeon Y7D1–D3 ends before championship without exact match results. Auction W7D5–D7 and other standing world schedules remain. WORKING wardrobe/demographics/longevity direction is not a price/eligibility/biology law. Later Project Princess Carry remains unchanged. [Full addendum](29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md); [conflict log](../provenance/CHECKPOINT_22_CONFLICTS.md).
+
+## Checkpoint 23 — full Arc Five lock
+
+| Earlier statement | Current correction |
+| --- | --- |
+| Kira W19 Blue Solo day OPEN | G5D1 W19 clear / W20 reached-fails; detailed failure depth still OPEN |
+| illi Arc Five Solo standing OPEN | G1D4 W8, G3D2 W9, G5D2 W10 clear / W11 reached-fails |
+| Green attempt/clear dates OPEN | Fail G4D2/G4D6; clear G5D3/G5D4/G5D7 |
+| Provisional fourth Normal Raid at G5D4 | Replaced by Green Dungeon clear #2; only three Normal Raid outings |
+| Additional Arc Five combat insertions proposed | All 48 dates Y6D4–G6D2 structurally locked; author must explicitly reopen to move combat/progression |
+| Generic Y7D4 successful domai | Orange success; contextual numeric award OPEN BY DESIGN |
+| Arc Five later domai unspecified | G6D1 Yellow failure/no conquest payout; no Green domai |
+| Builder night cadence undated | Recurring G1D5–G5D5; Yellow D5 displaced by Trial/Auction |
+
+The supplied FULL LOCK package supersedes any provisional CP23 package; none was present in the reviewed repository. Fixed gross is 88,595 Kira / 78,430 illi excluding contextual awards/failed-Dungeon partials. G6D2 Coherence Prime Red 9,350 and all previous milestone costs/dates remain. Full-Yellow and Arc Five calendars overlap at 11 dates; the two paid Yellow Duos are not extra income. Original CP22 source/master/audit records retain historical date-OPEN text; current active docs and structured handoff apply these explicit resolutions. [Calendar](../world-clock/ARC5_DIRECTOR_CALENDAR.md); [conflict log](../provenance/CHECKPOINT_23_CONFLICTS.md).

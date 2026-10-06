@@ -65,3 +65,7 @@ Current working wardrobe beat:
 - this is NOT a general apparel price table.
 
 Money enters before the purchase.
+
+## Checkpoint 23 calendar clarification
+
+The dated Y7D4 success is **Orange domai**; its contextual numeric award remains OPEN BY DESIGN, excluded from deterministic gross rather than fixed at zero. G6D1 is **Yellow domai failure/no conquest payout**. No Green domai occurs in Arc Five. Group allocation and participation mechanics above are unchanged; see [locked calendar](../world-clock/ARC5_DIRECTOR_CALENDAR.md).
