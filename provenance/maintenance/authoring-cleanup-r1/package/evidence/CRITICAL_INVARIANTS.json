@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "repository": "xApologies/MK157",
+  "observed_commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "scope": "selected machine-checkable anchors recovered from current validator; not complete canon proof",
+  "source": "https://github.com/xApologies/MK157/blob/3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31/world-clock/validate_arc7.py",
+  "drift_policy": "Revise explicitly with later authoritative source evidence; never revert later canon to satisfy this snapshot",
+  "assertions": [
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/arc6_close",
+      "equals": "B6D3",
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/arc7_open",
+      "equals": "B6D4",
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/arc7_close",
+      "equals": "Valnak departure after White W7",
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/two_orb_operational_by",
+      "equals": "V2D3",
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/three_orb_training_begins",
+      "equals": "V2D4",
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/three_orb_operational_window",
+      "equals": "late V7",
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/domain",
+      "equals": {
+        "window": "Late Violet",
+        "date": null,
+        "cost": 61017
+      },
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/trio_booked",
+      "equals": false,
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/genesis_orb_mastery_asserted",
+      "equals": false,
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/exact_blue_violet_daily_calendar",
+      "equals": null,
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/final_standings",
+      "equals": {
+        "Solo": 100,
+        "Duo": 100
+      },
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/recovery_between_trial_runs",
+      "equals": true,
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/blue_violet_raid_clear",
+      "equals": false,
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/required_hard_dungeon_program",
+      "equals": false,
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/fixed_white_gross",
+      "equals": {
+        "kira": 63933340,
+        "illi": 63677830
+      },
+      "reason": "Observed current Arc Seven validator assertion"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/exact_departure_date",
+      "equals": null,
+      "reason": "Protected unprovided exact detail"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/white_raid_dates",
+      "equals": null,
+      "reason": "Protected unprovided exact detail"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/white_raid_runtimes",
+      "equals": null,
+      "reason": "Protected unprovided exact detail"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/illi_rank_purchase_dates",
+      "equals": null,
+      "reason": "Protected unprovided exact detail"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/support_binding_names",
+      "equals": null,
+      "reason": "Protected unprovided exact detail"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/support_binding_count",
+      "equals": null,
+      "reason": "Protected unprovided exact detail"
+    },
+    {
+      "path": "world-clock/ARC7_HANDOFF.json",
+      "pointer": "/discretionary_final_balances",
+      "equals": null,
+      "reason": "Protected unprovided exact detail"
+    },
+    {
+      "path": "trial-rewards/TRIAL_WAVE_CREDITS.json",
+      "pointer": "/34/cumulative",
+      "equals": 26955,
+      "reason": "Preserve current 35-wave base cumulative"
+    },
+    {
+      "path": "trial-rewards/TRIAL_EXTENDED_REWARDS.json",
+      "pointer": "/extension_starts",
+      "equals": 36,
+      "reason": "Checkpoint 25 extension; not historical OPEN"
+    },
+    {
+      "path": "trial-rewards/TRIAL_EXTENDED_REWARDS.json",
+      "pointer": "/credits_per_completed_wave",
+      "equals": 1600,
+      "reason": "Checkpoint 25 extension; not historical OPEN"
+    },
+    {
+      "path": "trial-rewards/TRIAL_EXTENDED_REWARDS.json",
+      "pointer": "/base_cumulative",
+      "equals": 26955,
+      "reason": "Checkpoint 25 extension; not historical OPEN"
+    },
+    {
+      "path": "trial-rewards/TRIAL_EXTENDED_REWARDS.json",
+      "pointer": "/party_size_divisor",
+      "equals": 1,
+      "reason": "Checkpoint 25 extension; not historical OPEN"
+    },
+    {
+      "path": "trial-rewards/TRIAL_EXTENDED_REWARDS.json",
+      "pointer": "/failed_next_wave_credits",
+      "equals": 0,
+      "reason": "Checkpoint 25 extension; not historical OPEN"
+    },
+    {
+      "path": "trial-rewards/TRIAL_EXTENDED_REWARDS.json",
+      "pointer": "/legitimate_repeats_pay",
+      "equals": true,
+      "reason": "Checkpoint 25 extension; not historical OPEN"
+    },
+    {
+      "path": "combat-rewards/DOMAI_CORE_AWARDS.json",
+      "pointer": "/collective",
+      "equals": {
+        "Red": 1000000,
+        "Orange": 2300000,
+        "Yellow": 3700000,
+        "Green": 5000000,
+        "Blue": null,
+        "Violet": null
+      },
+      "reason": "Specific authored two-person core unit; preserve ontology"
+    },
+    {
+      "path": "combat-rewards/DOMAI_CORE_AWARDS.json",
+      "pointer": "/eligible_members",
+      "equals": 2,
+      "reason": "Specific authored two-person core unit; preserve ontology"
+    },
+    {
+      "path": "combat-rewards/DOMAI_CORE_AWARDS.json",
+      "pointer": "/illi_participates_legitimately",
+      "equals": true,
+      "reason": "Specific authored two-person core unit; preserve ontology"
+    },
+    {
+      "path": "combat-rewards/DOMAI_CORE_AWARDS.json",
+      "pointer": "/white_domai_exist",
+      "equals": false,
+      "reason": "Specific authored two-person core unit; preserve ontology"
+    }
+  ]
+}

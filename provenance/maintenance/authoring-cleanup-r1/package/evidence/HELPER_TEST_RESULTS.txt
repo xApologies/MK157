@@ -1,0 +1,24 @@
+test_allowed_addition_and_unexpected_addition (test_cleanup_guard.GuardTests.test_allowed_addition_and_unexpected_addition) ... ok
+test_allowed_navigation_needs_backup (test_cleanup_guard.GuardTests.test_allowed_navigation_needs_backup) ... ok
+test_committed_candidate_preserved (test_cleanup_guard.GuardTests.test_committed_candidate_preserved) ... ok
+test_deletion_rejected (test_cleanup_guard.GuardTests.test_deletion_rejected) ... ok
+test_dirty_snapshot_rejected (test_cleanup_guard.GuardTests.test_dirty_snapshot_rejected) ... ok
+test_guard_output_must_be_external_and_new (test_cleanup_guard.GuardTests.test_guard_output_must_be_external_and_new) ... ok
+test_identity_and_clean_snapshot (test_cleanup_guard.GuardTests.test_identity_and_clean_snapshot) ... ok
+test_invariants_and_strict_types (test_cleanup_guard.GuardTests.test_invariants_and_strict_types) ... ok
+test_mode_change_rejected (test_cleanup_guard.GuardTests.test_mode_change_rejected) ... ok
+test_origin_rejection (test_cleanup_guard.GuardTests.test_origin_rejection) ... ok
+test_path_traversal_rejected (test_cleanup_guard.GuardTests.test_path_traversal_rejected) ... ok
+test_preexisting_untracked_preserved (test_cleanup_guard.GuardTests.test_preexisting_untracked_preserved) ... ok
+test_protected_source_change_rejected (test_cleanup_guard.GuardTests.test_protected_source_change_rejected) ... ok
+test_staged_delete_even_if_working_file_restored (test_cleanup_guard.GuardTests.test_staged_delete_even_if_working_file_restored) ... ok
+test_staged_protected_change_detected_even_if_working_restored (test_cleanup_guard.GuardTests.test_staged_protected_change_detected_even_if_working_restored) ... ok
+test_staging_user_untracked_rejected (test_cleanup_guard.GuardTests.test_staging_user_untracked_rejected) ... ok
+test_symlink_replacement_rejected (test_cleanup_guard.GuardTests.test_symlink_replacement_rejected) ... ok
+test_wrong_backup_rejected (test_cleanup_guard.GuardTests.test_wrong_backup_rejected) ... ok
+test_wrong_expected_head_rejected (test_cleanup_guard.GuardTests.test_wrong_expected_head_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.532s
+
+OK

@@ -1,0 +1,1751 @@
+{
+  "source_commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "view_status": "resolved_authoring_view",
+  "rule": "Explicit later correction wins only on its stated conflict; all compatible earlier locks and qualifications accumulate. Topic pages are views, never a new canon legislature.",
+  "topics": [
+    {
+      "id": "kira",
+      "view_paths": [
+        "canon/characters/KIRA.md"
+      ],
+      "owners": [
+        {
+          "path": "live-model/01_KIRA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+          "section": "Current post-transformation biology",
+          "anchor": "current-post-transformation-biology",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+          "section": "Source firewall",
+          "anchor": "source-firewall",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+          "section": "Biology versus Black architecture",
+          "anchor": "biology-versus-black-architecture",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SUPERSESSIONS.md",
+          "section": "Checkpoint 06 normalization",
+          "anchor": "checkpoint-06-normalization",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "Valnak draw / infinitely deep well metaphor",
+          "anchor": "valnak-draw--infinitely-deep-well-metaphor",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+          "section": "Black Legacy economics",
+          "anchor": "black-legacy-economics",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SUPERSESSIONS.md",
+          "section": "Checkpoint 05 supersessions",
+          "anchor": "checkpoint-05-supersessions",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+          "section": "Narrative boundaries",
+          "anchor": "narrative-boundaries",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md",
+          "section": "8. Halo",
+          "anchor": "8-halo",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "Violet W6–W7 — three-Orb stabilization / Domain",
+          "anchor": "violet-w6w7--three-orb-stabilization--domain",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+          "section": "Kira First Combat Trial",
+          "anchor": "kira-first-combat-trial",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+          "section": "Rival first-trial Yellow",
+          "anchor": "rival-first-trial-yellow",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+          "section": "Genesis Orb persistent sustainment",
+          "anchor": "genesis-orb-persistent-sustainment",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC5_HANDOFF.md",
+          "section": "Kira Arc Five technical track",
+          "anchor": "kira-arc-five-technical-track",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC5_HANDOFF.md",
+          "section": "Dungeon track",
+          "anchor": "dungeon-track",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "Violet W1–W2 — two-Orb maturity",
+          "anchor": "violet-w1w2--two-orb-maturity",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "White W1 — Trial payoff and core-cracking discovery",
+          "anchor": "white-w1--trial-payoff-and-core-cracking-discovery",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+          "section": "Relationship geometry",
+          "anchor": "relationship-geometry",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/GENESIS_CARDS.md",
+          "section": "Checkpoint 20 — specific Blue Fireball purchase",
+          "anchor": "checkpoint-20--specific-blue-fireball-purchase",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "section": "Kira remains BLACK",
+          "anchor": "kira-remains-black",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+          "section": "Domain outside Valnak",
+          "anchor": "domain-outside-valnak",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+          "section": "Elara can leave Valnak through an Orb",
+          "anchor": "elara-can-leave-valnak-through-an-orb",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "OPEN: exact anatomy, CSR/Domain timestamps, support names/count, Halo final visual, Orb ontology and full mastery, indefinite multi-Orb sustainment and Elara identity semantics."
+    },
+    {
+      "id": "illi",
+      "view_paths": [
+        "canon/characters/ILLI.md"
+      ],
+      "owners": [
+        {
+          "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+          "section": "Independent schedules / income topology — LOCK",
+          "anchor": "independent-schedules--income-topology--lock",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+          "section": "Relationship geometry",
+          "anchor": "relationship-geometry",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md",
+          "section": "12. social / Builder continuity",
+          "anchor": "12-social--builder-continuity",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "bindings/PRICING_MODEL.md",
+          "section": "Entry and White Legacy",
+          "anchor": "entry-and-white-legacy",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "3. White Legacy",
+          "anchor": "3-white-legacy",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "section": "illi corrected progression skeleton — LOCK",
+          "anchor": "illi-corrected-progression-skeleton--lock",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SUPERSESSIONS.md",
+          "section": "Checkpoint 08 governing corrections",
+          "anchor": "checkpoint-08-governing-corrections",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/PRIME_ELEMENTALS.md",
+          "section": "Locked ordinary recipes for illi's three Primes — all listed prerequisites WHITE",
+          "anchor": "locked-ordinary-recipes-for-illis-three-primes--all-listed-prerequisites-white",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "summons/ILLI_WHITE_LEGACY_GATES.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ILLI_PROGRESSION_SKELETON.csv",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC4_HANDOFF.md",
+          "section": "illi progression after Beam Red",
+          "anchor": "illi-progression-after-beam-red",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC5_HANDOFF.md",
+          "section": "Why illi chooses Coherence Prime",
+          "anchor": "why-illi-chooses-coherence-prime",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC5_DIRECTOR_CALENDAR.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md",
+          "section": "3. Why Genesis Prime ranks first",
+          "anchor": "3-why-genesis-prime-ranks-first",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC6_DIRECTOR_CALENDAR.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC6_ILLI_CREDIT_LEDGER.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "economy/ILLI_REMAINING_WHITE_BILL.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/PARTNERSHIP_AND_CARRY.md",
+          "section": "Checkpoint 25 funding and ethical closer program",
+          "anchor": "checkpoint-25-funding-and-ethical-closer-program",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "Fixed White gross",
+          "anchor": "fixed-white-gross",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC5_HANDOFF.md",
+          "section": "Spending / social liberty",
+          "anchor": "spending--social-liberty",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "OPEN: rank-up dates after B6D3, final discretionary balances, future Solo standing beyond demonstrated milestones, specific social purchases and later Decoherence details."
+    },
+    {
+      "id": "elara",
+      "view_paths": [
+        "canon/characters/ELARA.md"
+      ],
+      "owners": [
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "Valnak / Elara",
+          "anchor": "valnak--elara",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "Developer/runtime model",
+          "anchor": "developerruntime-model",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "Valnak draw / infinitely deep well metaphor",
+          "anchor": "valnak-draw--infinitely-deep-well-metaphor",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+          "section": "Elara comedy engine",
+          "anchor": "elara-comedy-engine",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+          "section": "Relationship geometry",
+          "anchor": "relationship-geometry",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC5_HANDOFF.md",
+          "section": "Social thesis",
+          "anchor": "social-thesis",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "builder/COMMUNITY.md",
+          "section": "Elara comedy/culture",
+          "anchor": "elara-comedyculture",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "5. First-Cycle sandbox / Green graduation",
+          "anchor": "5-first-cycle-sandbox--green-graduation",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "White W1 — Trial payoff and core-cracking discovery",
+          "anchor": "white-w1--trial-payoff-and-core-cracking-discovery",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+          "section": "Elara can leave Valnak through an Orb",
+          "anchor": "elara-can-leave-valnak-through-an-orb",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "OPEN: Orb-hosted identity/instancing, next-node ontology/natural price and unsupplied social placements."
+    },
+    {
+      "id": "valnak",
+      "view_paths": [
+        "canon/VALNAK.md"
+      ],
+      "owners": [
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "Valnak / Elara",
+          "anchor": "valnak--elara",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "8. Node credential / persistent dossier",
+          "anchor": "8-node-credential--persistent-dossier",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/CREATOR_CRAFTSMAN.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "9. Permanent vs Seasonal Valnak energy",
+          "anchor": "9-permanent-vs-seasonal-valnak-energy",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "Legacies",
+          "anchor": "legacies",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "Legacy tiers / packages",
+          "anchor": "legacy-tiers--packages",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "bindings/PRICING_MODEL.md",
+          "section": "Entry and White Legacy",
+          "anchor": "entry-and-white-legacy",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "3. White Legacy",
+          "anchor": "3-white-legacy",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "5. First-Cycle sandbox / Green graduation",
+          "anchor": "5-first-cycle-sandbox--green-graduation",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md",
+          "section": "4. Graduation consequence",
+          "anchor": "4-graduation-consequence",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "Residences / city instancing",
+          "anchor": "residences--city-instancing",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+          "section": "Local/macro transport",
+          "anchor": "localmacro-transport",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+          "section": "Valnak carriages",
+          "anchor": "valnak-carriages",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "Checkpoint 11 calendar clarification",
+          "anchor": "checkpoint-11-calendar-clarification",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+          "section": "Valnak",
+          "anchor": "valnak",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/WORLD_CLOCK.md",
+          "section": "Nightly Highlight Reels",
+          "anchor": "nightly-highlight-reels",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+          "section": "abecca and ordinary days",
+          "anchor": "abecca-and-ordinary-days",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "OPEN: planet name, exact external time conversion, population/routing implementation, credential synchronization, generic Legacy discounts and unsupplied calendars."
+    },
+    {
+      "id": "transduction",
+      "view_paths": [
+        "canon/TRANSDUCTION.md"
+      ],
+      "owners": [
+        {
+          "path": "prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+          "section": "Transduction core",
+          "anchor": "transduction-core",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "4. Color culture / basin firewall",
+          "anchor": "4-color-culture--basin-firewall",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+          "section": "Six Transduction domains",
+          "anchor": "six-transduction-domains",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "bindings/CANON_LOCKS.md",
+          "section": "Absolute energy-basin rule",
+          "anchor": "absolute-energy-basin-rule",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+          "section": "Binding economy",
+          "anchor": "binding-economy",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+          "section": "Fatigue",
+          "anchor": "fatigue",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SUPERSESSIONS.md",
+          "section": "Checkpoint 12 complete pricing",
+          "anchor": "checkpoint-12-complete-pricing",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "bindings/CANON_LOCKS.md",
+          "section": "Coherence / Decoherence lock",
+          "anchor": "coherence--decoherence-lock",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "bindings/CANON_LOCKS.md",
+          "section": "Architect",
+          "anchor": "architect",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "bindings/CANON_LOCKS.md",
+          "section": "Chirality",
+          "anchor": "chirality",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "summons/README.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/PRIME_ELEMENTALS.md",
+          "section": "12. Prime Elementals",
+          "anchor": "12-prime-elementals",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/PRIME_ELEMENTALS.md",
+          "section": "Locked ordinary recipes for illi's three Primes — all listed prerequisites WHITE",
+          "anchor": "locked-ordinary-recipes-for-illis-three-primes--all-listed-prerequisites-white",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/PRIME_ELEMENTALS.md",
+          "section": "Integrated graphs",
+          "anchor": "integrated-graphs",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+          "section": "13. New gas Bindings / Atmospheric Prime seed",
+          "anchor": "13-new-gas-bindings--atmospheric-prime-seed",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "bindings/PRICING_MODEL.md",
+          "section": "Semantics and protected fields",
+          "anchor": "semantics-and-protected-fields",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/CREATOR_CRAFTSMAN.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+          "section": "Creation",
+          "anchor": "creation",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "builder/COMMUNITY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "OPEN: topology-derived basin combinations, candidate mechanism/White details, PE-004–009 selection finality, Creator assessment rates/property succession and Builder implementation."
+    },
+    {
+      "id": "combat",
+      "view_paths": [
+        "canon/COMBAT.md"
+      ],
+      "owners": [
+        {
+          "path": "live-model/TRIAL_ARENA.md",
+          "section": "5. Trial arena geography",
+          "anchor": "5-trial-arena-geography",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/TRIAL_ARENA.md",
+          "section": "12. Visual canon",
+          "anchor": "12-visual-canon",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/COMBAT_THRESHOLDS.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "Trial W36+ — NEW LOCK",
+          "anchor": "trial-w36--new-lock",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "trial-rewards/README.md",
+          "section": "Checkpoint 25 W36+ lock",
+          "anchor": "checkpoint-25-w36-lock",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/TRAINING_YARD.md",
+          "section": "Trial exit rule",
+          "anchor": "trial-exit-rule",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/TRAINING_YARD.md",
+          "section": "Training Yard",
+          "anchor": "training-yard",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/ELDRIS_REFERENCE.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "builder/encounters/eldris/BUILDER_CONTRACT.md",
+          "section": "Hard constraints",
+          "anchor": "hard-constraints",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "builder/encounters/eldris/BUILDER_CONTRACT.md",
+          "section": "Example",
+          "anchor": "example",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/NORMAL_DUNGEONS.md",
+          "section": "Rank, basin and environment",
+          "anchor": "rank-basin-and-environment",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/NORMAL_DUNGEONS.md",
+          "section": "Average areas and author runtime targets",
+          "anchor": "average-areas-and-author-runtime-targets",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/NORMAL_DUNGEONS.md",
+          "section": "Nine environmental domains",
+          "anchor": "nine-environmental-domains",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/README.md",
+          "section": "Raid major-boss rewards",
+          "anchor": "raid-major-boss-rewards",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/DOMAI_PARTICIPATION.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/DOMAI_SPATIAL_METRIC.csv",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/DOMAI_GROUP_ECONOMY.md",
+          "section": "Group contribution award",
+          "anchor": "group-contribution-award",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/DOMAI_GROUP_ECONOMY.md",
+          "section": "Preserve participant eligibility / death rules",
+          "anchor": "preserve-participant-eligibility--death-rules",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/DOMAI_CORE_AWARDS.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "White W1 — Trial payoff and core-cracking discovery",
+          "anchor": "white-w1--trial-payoff-and-core-cracking-discovery",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "OPEN: exact cap/inflow, extreme recovery physiology, encounter maps/populations, Hard/Raid runtimes, contribution/bonus formulas and unprovided core outcomes."
+    },
+    {
+      "id": "economy",
+      "view_paths": [
+        "canon/ECONOMY.md"
+      ],
+      "owners": [
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "section": "8. Node credential / persistent dossier",
+          "anchor": "8-node-credential--persistent-dossier",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md",
+          "section": "6. Consumer economy — LOCK direction",
+          "anchor": "6-consumer-economy--lock-direction",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "bindings/PRICING_MODEL.md",
+          "section": "Fixed class matrix",
+          "anchor": "fixed-class-matrix",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "bindings/PRICING_MODEL.md",
+          "section": "Semantics and protected fields",
+          "anchor": "semantics-and-protected-fields",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "bindings/PRICING_MODEL.md",
+          "section": "Entry and White Legacy",
+          "anchor": "entry-and-white-legacy",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "trial-rewards/TRIAL_WAVE_CREDITS.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "trial-rewards/TRIAL_EXTENDED_REWARDS.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/README.md",
+          "section": "Dungeon completion rewards",
+          "anchor": "dungeon-completion-rewards",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/README.md",
+          "section": "Raid major-boss rewards",
+          "anchor": "raid-major-boss-rewards",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/DOMAI_GROUP_ECONOMY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/DOMAI_CORE_AWARDS.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "section": "Economy and purchase gates",
+          "anchor": "economy-and-purchase-gates",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC3_ORANGE_CALENDAR.md",
+          "section": "Locked combat and income",
+          "anchor": "locked-combat-and-income",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/YELLOW_DIRECTOR_CALENDAR.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC5_DIRECTOR_CALENDAR.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC6_DIRECTOR_CALENDAR.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "Fixed White gross",
+          "anchor": "fixed-white-gross",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC6_ILLI_CREDIT_LEDGER.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC7_DOMAI_CORE_LEDGER.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC7_TRIAL_LEDGER.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "economy/ILLI_REMAINING_WHITE_BILL.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "economy/ADVANCED_CARD_PRICES.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC4_HANDOFF.md",
+          "section": "Calendar and funding boundaries",
+          "anchor": "calendar-and-funding-boundaries",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+          "section": "Valnak social-credit transfer firewall",
+          "anchor": "valnak-social-credit-transfer-firewall",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/DIMENSIONAL_RINGS.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "OPEN: actual cashflows, unsupplied contextual awards, partial/bonus formulas, discretionary inventory and Ring price. Historical numeric snapshots are not current balances."
+    },
+    {
+      "id": "world_culture",
+      "view_paths": [
+        "canon/WORLD_AND_CULTURE.md"
+      ],
+      "owners": [
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "Genesis Log",
+          "anchor": "genesis-log",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "White superposition",
+          "anchor": "white-superposition",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "Möbius structure",
+          "anchor": "möbius-structure",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "Kira's starscape / Yellow defect",
+          "anchor": "kiras-starscape--yellow-defect",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SOURCE_BOUNDARIES.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/PLANETARY_CALENDAR.md",
+          "section": "1. Planetary calendar inheritance",
+          "anchor": "1-planetary-calendar-inheritance",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "Checkpoint 11 calendar clarification",
+          "anchor": "checkpoint-11-calendar-clarification",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+          "section": "Shaping rank and longevity",
+          "anchor": "shaping-rank-and-longevity",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC5_HANDOFF.md",
+          "section": "First-cycle demographic / longevity direction",
+          "anchor": "first-cycle-demographic--longevity-direction",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+          "section": "Vaelle working hierarchy",
+          "anchor": "vaelle-working-hierarchy",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/AITHREN_VAELUM_ACCORD.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/CHECKPOINT_18_MK147_REVIEW.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+          "section": "Major mapped anchors",
+          "anchor": "major-mapped-anchors",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/CITY_LOCATION_REGISTRY.csv",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/CREATOR_CRAFTSMAN.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+          "section": "Champion rooftop restaurant",
+          "anchor": "champion-rooftop-restaurant",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+          "section": "10. Nightly highlight reels",
+          "anchor": "10-nightly-highlight-reels",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/WORLD_CLOCK.md",
+          "section": "Nightly Highlight Reels",
+          "anchor": "nightly-highlight-reels",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+          "section": "abecca and ordinary days",
+          "anchor": "abecca-and-ordinary-days",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/ARC5_HANDOFF.md",
+          "section": "Friendship/group ecology",
+          "anchor": "friendshipgroup-ecology",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+          "section": "Tea House, Tea Party, charity",
+          "anchor": "tea-house-tea-party-charity",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+          "section": "Research, protected implementations and recurring income",
+          "anchor": "research-protected-implementations-and-recurring-income",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/PRISM.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/WORLD_CLOCK.md",
+          "section": "2. Standing World Clock schedule",
+          "anchor": "2-standing-world-clock-schedule",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+          "section": "World / dungeon culture",
+          "anchor": "world--dungeon-culture",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/DIMENSIONAL_RINGS.md",
+          "section": "Operations and conservation",
+          "anchor": "operations-and-conservation",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/DIMENSIONAL_RINGS.md",
+          "section": "User experience and expedition role",
+          "anchor": "user-experience-and-expedition-role",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "OPEN: planetary arithmetic, exact cosmology correspondence, legal/governance implementation, demographics/aging rates, sport details, map serials and Ring price."
+    },
+    {
+      "id": "cards",
+      "view_paths": [
+        "canon/CARDS.md"
+      ],
+      "owners": [
+        {
+          "path": "live-model/GENESIS_CARDS.md",
+          "section": "7. Two distinct card ecosystems",
+          "anchor": "7-two-distinct-card-ecosystems",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/GENESIS_CARDS.md",
+          "section": "8. Shared physical card form",
+          "anchor": "8-shared-physical-card-form",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/GENESIS_CARDS.md",
+          "section": "9. Genesis Cards — direct MK-147 inheritance plus MK157 elaboration",
+          "anchor": "9-genesis-cards--direct-mk-147-inheritance-plus-mk157-elaboration",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/GENESIS_CARDS.md",
+          "section": "Genesis Card color semantics",
+          "anchor": "genesis-card-color-semantics",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/GENESIS_CARDS.md",
+          "section": "Visual behavior",
+          "anchor": "visual-behavior",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/GENESIS_CARDS.md",
+          "section": "11. `raeon` card visual/color semantics",
+          "anchor": "11-raeon-card-visualcolor-semantics",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/RAEON.md",
+          "section": "Physical story implementation",
+          "anchor": "physical-story-implementation",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/RAEON.md",
+          "section": "Origin and publishing",
+          "anchor": "origin-and-publishing",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/RAEON.md",
+          "section": "Node module",
+          "anchor": "node-module",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/RAEON.md",
+          "section": "8. Location 001 — `raeon` flagship",
+          "anchor": "8-location-001--raeon-flagship",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/WORLD_CLOCK.md",
+          "section": "`raeon` tournament",
+          "anchor": "raeon-tournament",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/RAEON.md",
+          "section": "Checkpoint 19 — character tournament synchronization",
+          "anchor": "checkpoint-19--character-tournament-synchronization",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/RAEON.md",
+          "section": "Checkpoint 22 — Yellow personal block refined",
+          "anchor": "checkpoint-22--yellow-personal-block-refined",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/GENESIS_CARDS.md",
+          "section": "Checkpoint 20 — specific Blue Fireball purchase",
+          "anchor": "checkpoint-20--specific-blue-fireball-purchase",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "economy/ADVANCED_CARD_PRICES.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+          "section": "Valnak social-credit transfer firewall",
+          "anchor": "valnak-social-credit-transfer-firewall",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "OPEN: exact card/set inventory, print quantities, exceptional lots, publisher legal identity, tournament details and personal spending."
+    },
+    {
+      "id": "visuals",
+      "view_paths": [
+        "canon/VISUALS.md"
+      ],
+      "owners": [
+        {
+          "path": "live-model/11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/05_VISUAL_CANON.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/KIRA_AFFLICTED_REFERENCE.jpeg",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/ARMOR_OF_THE_ABYSS_REFERENCE.jpeg",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/KIRA_GOLDEN_EYE_REFERENCE.png",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/KIRA_POST_VALNEK_CANON.png",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/VALNEK_PATH_PLAQUES.jpeg",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/INDEX.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/VALNAK_AUTHOR_MAP_CURRENT.jpeg",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/VALNAK_CITY_MAP_001_RAEON_FLAGSHIP.png",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/CITY_LOCATION_REGISTRY.csv",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/VALNAK_DUNGEON_DOMAI_BASE_MAP.jpeg",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SOURCE_BOUNDARIES.md",
+          "section": "Visuals",
+          "anchor": "visuals",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/NORMAL_DUNGEONS.md",
+          "section": "Nine environmental domains",
+          "anchor": "nine-environmental-domains",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/VALNAK_TRIAL_ARENA_3X3.png",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "visual-references/INDEX.md",
+          "section": "Checkpoint 10 Trial base map",
+          "anchor": "checkpoint-10-trial-base-map",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/GENESIS_CARDS.md",
+          "section": "Visual behavior",
+          "anchor": "visual-behavior",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/ELDRIS_REFERENCE.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/DOMAI_PARTICIPATION.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "OPEN: Halo color, unapproved overlays/serials, exact biological mechanism and unsupplied designs. Historical assets remain accessible but do not reinstate obsolete phenotypes."
+    },
+    {
+      "id": "open",
+      "view_paths": [
+        "canon/OPEN.md"
+      ],
+      "owners": [
+        {
+          "path": "live-model/OPEN.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SUPERSESSIONS.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+          "section": "Authority",
+          "anchor": "authority",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/BLACK_SYSTEMS_MASTERY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+          "section": "Current post-transformation biology",
+          "anchor": "current-post-transformation-biology",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+          "section": "Elara can leave Valnak through an Orb",
+          "anchor": "elara-can-leave-valnak-through-an-orb",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "Protected OPEN items",
+          "anchor": "protected-open-items",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/TRIAL_ARENA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/NORMAL_DUNGEONS.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/DOMAI_GROUP_ECONOMY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "combat-rewards/DOMAI_CORE_AWARDS.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/GENESIS_CARDS.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/DIMENSIONAL_RINGS.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/AITHREN_VAELUM_ACCORD.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/PRISM.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/PLANETARY_CALENDAR.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/02_COSMOLOGY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/PRIME_ELEMENTALS.md",
+          "section": "Integrated graphs",
+          "anchor": "integrated-graphs",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/CREATOR_CRAFTSMAN.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "builder/COMMUNITY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/32_CHECKPOINT_25_ARC7_FINALE.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "live-model/WORLD_CLOCK.md",
+          "section": "2. Standing World Clock schedule",
+          "anchor": "2-standing-world-clock-schedule",
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "economy/ADVANCED_CARD_PRICES.json",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        }
+      ],
+      "open_status": "Local OPENs are protected canon states, not unfinished maintenance. Source review completeness is reported independently in coverage and completion evidence."
+    }
+  ]
+}

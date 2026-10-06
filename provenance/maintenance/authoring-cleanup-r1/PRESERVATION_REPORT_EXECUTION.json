@@ -1,0 +1,19 @@
+{
+  "command": [
+    "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "-X",
+    "utf8",
+    "C:\\Users\\rando\\_MK157\\provenance\\maintenance\\authoring-cleanup-r1\\package\\scripts\\cleanup_guard.py",
+    "check",
+    "--repo",
+    "C:\\Users\\rando\\_MK157",
+    "--baseline",
+    "C:\\Users\\rando\\_MK157\\provenance\\maintenance\\authoring-cleanup-r1\\BASELINE.json",
+    "--out",
+    "C:\\Users\\rando\\AppData\\Local\\Temp\\mk157-authoring-r1-ihqbaj6v\\check-staged-final.json"
+  ],
+  "returncode": 0,
+  "stdout": "{\n  \"result\": \"PASS\",\n  \"report\": \"C:\\\\Users\\\\rando\\\\AppData\\\\Local\\\\Temp\\\\mk157-authoring-r1-ihqbaj6v\\\\check-staged-final.json\",\n  \"failures\": 0\n}\n",
+  "stderr": "",
+  "output": "C:\\Users\\rando\\AppData\\Local\\Temp\\mk157-authoring-r1-ihqbaj6v\\check-staged-final.json"
+}

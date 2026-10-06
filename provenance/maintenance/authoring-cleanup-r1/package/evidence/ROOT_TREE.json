@@ -1,0 +1,104 @@
+{
+  "repository": "xApologies/MK157",
+  "commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "tree_sha": "d2e80f13b3ea6a3e7a41754acb7897c9b479f29d",
+  "scope": "complete non-recursive root tree only",
+  "entries": [
+    {
+      "path": ".gitattributes",
+      "type": "blob",
+      "mode": "100644",
+      "git_blob_sha": "a116f669b702a575341303ac0553bfe7aecb1147",
+      "bytes": 2895
+    },
+    {
+      "path": ".gitignore",
+      "type": "blob",
+      "mode": "100644",
+      "git_blob_sha": "634f43d5be14f5ec925fa71672d15ab1616a4d74",
+      "bytes": 52
+    },
+    {
+      "path": "README.md",
+      "type": "blob",
+      "mode": "100644",
+      "git_blob_sha": "141047cb3ded39b671299444f6d22aba7abc37ec",
+      "bytes": 14987
+    },
+    {
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "type": "blob",
+      "mode": "100644",
+      "git_blob_sha": "40e1c2593d20e0a32a1ec2a0b82db354c597209d",
+      "bytes": 20556
+    },
+    {
+      "path": "bindings",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "1f6379f1baf581e7cc5176449348dd0e30039a6d"
+    },
+    {
+      "path": "builder",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "66da50154cefaf1e6a3beca0b934f46822145cbc"
+    },
+    {
+      "path": "combat-rewards",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "8997642a6012ac4fc5536a640174b0b7151cef03"
+    },
+    {
+      "path": "economy",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "70ff0aa632117a5158d5ca061395d919274bb1cb"
+    },
+    {
+      "path": "live-model",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "1a44c0b686e0cc1c0a4b8ebc7b31993ea0fdb9c6"
+    },
+    {
+      "path": "prior-checkpoint-source",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "527143c4dfb122a98288862c0f82436ae5d0d039"
+    },
+    {
+      "path": "provenance",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "8e022cb1004368a47d2588cabfdc4e7e68f50343"
+    },
+    {
+      "path": "summons",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "91eb49ea06f41b35fefc4e01bede50555df1128a"
+    },
+    {
+      "path": "trial-rewards",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "7e1a12114dce06469ae0c4e429ee33f663f9a744"
+    },
+    {
+      "path": "visual-references",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "6343dae15a1ff20c7c9d26f636ab14abc65035e0"
+    },
+    {
+      "path": "world-clock",
+      "type": "tree",
+      "mode": "040000",
+      "git_tree_sha": "322192182e78921c8cf27b79b49477ad6b927532"
+    }
+  ],
+  "root_response_truncated": false,
+  "full_recursive_inventory_included": false
+}

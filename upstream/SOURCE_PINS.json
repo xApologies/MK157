@@ -1,0 +1,79 @@
+{
+  "source_commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "verified_upstream_heads": {
+    "xApologies/Mk-147": null,
+    "xApologies/_raeon": null,
+    "xApologies/_bricked": null
+  },
+  "verification_scope": "No upstream network checkout audited during R1; historical recorded review pins are evidence, not fresh HEADs. Exact paths below are recovered from committed MK157 review metadata.",
+  "repositories": [
+    {
+      "repository": "xApologies/Mk-147",
+      "role": "Applicable inherited world/culture",
+      "freshly_verified_head": null,
+      "historical_recorded_commit": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "record_owner": "provenance/CHECKPOINT_18_MK147_REVIEW.json",
+      "sources": [
+        {
+          "path": "live-model/02_DOMAINS/VAELUM_AND_ACCORD.md",
+          "blob_sha": "d946c15cb352a67a9ddc0ebfc8f9b3a18576a0ae",
+          "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_DOMAINS/VAELUM_AND_ACCORD.md",
+          "snapshot": "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md"
+        },
+        {
+          "path": "live-model/00_GOVERNANCE/INCREMENT_001_AUTHORITY.md",
+          "blob_sha": "463e7a9fa988e14ee02c48eee8b7dd718a200593",
+          "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/00_GOVERNANCE/INCREMENT_001_AUTHORITY.md",
+          "snapshot": "provenance/checkpoint-18-mk147/INCREMENT_001_AUTHORITY.md"
+        },
+        {
+          "path": "live-model/00_GOVERNANCE/INCREMENT_002_AUTHORITY.md",
+          "blob_sha": "6b7143704012f7c3610b3eb920b4337bc4960fef",
+          "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/00_GOVERNANCE/INCREMENT_002_AUTHORITY.md",
+          "snapshot": "provenance/checkpoint-18-mk147/INCREMENT_002_AUTHORITY.md"
+        },
+        {
+          "path": "live-model/05_CULTURE/V2_CULTURE_CANON.md",
+          "blob_sha": "5d58b35becee583db868e7005e7a5237dfb42fcf",
+          "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/05_CULTURE/V2_CULTURE_CANON.md",
+          "snapshot": "provenance/checkpoint-18-mk147/V2_CULTURE_CANON.md"
+        },
+        {
+          "path": "live-model/07_PROVENANCE/INCREMENT_001_OPEN_QUESTIONS.md",
+          "blob_sha": "1d526dbac0393977f6c1f3b50cb7780e9a3ac7dc",
+          "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/07_PROVENANCE/INCREMENT_001_OPEN_QUESTIONS.md",
+          "snapshot": "provenance/checkpoint-18-mk147/INCREMENT_001_OPEN_QUESTIONS.md"
+        }
+      ],
+      "permitted_scope": "MK157 explicitly accepted aithren/vaelum/Accord/cultural doctrine; separate CP21 eldris and CP25 Ring promotion have local source artifacts.",
+      "exclusions": [
+        "Kira/Enix identity",
+        "Binding-circle causality",
+        "old plot/currencies/progression",
+        "guild-ELN",
+        "Kings Highway",
+        "permanent Domai Heart",
+        "Chimera",
+        "Sanctuary suppression architecture"
+      ]
+    },
+    {
+      "repository": "xApologies/_raeon",
+      "role": "Detailed raeon game mechanics",
+      "freshly_verified_head": null,
+      "historical_recorded_commit": null,
+      "exact_upstream_path": null,
+      "mk157_owner": "live-model/RAEON.md",
+      "permitted_scope": "Relevant mechanics through physical maege-glass implementation; no literal video-game-only UI."
+    },
+    {
+      "repository": "xApologies/_bricked",
+      "role": "Layer-0 mathematics and physics",
+      "freshly_verified_head": null,
+      "historical_recorded_commit": null,
+      "exact_upstream_path": null,
+      "mk157_owner": "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "permitted_scope": "Relevant foundations; no fabricated release attribution or proof for MK157 neon/Mobius author model."
+    }
+  ]
+}

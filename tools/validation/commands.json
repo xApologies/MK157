@@ -1,0 +1,238 @@
+{
+  "source_commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "discovery": "All ten active tracked Python validators were inspected. Archived executable/generation scripts are historical, not active maintenance commands.",
+  "commands": [
+    {
+      "id": "validate_library",
+      "script": "builder/encounters/eldris/validate_library.py",
+      "portable_argv": [
+        "python",
+        "-X",
+        "utf8",
+        "builder/encounters/eldris/validate_library.py",
+        "--directory",
+        "${REPO}\\builder\\encounters\\eldris"
+      ],
+      "cwd": "repository root",
+      "category": "current invariant validator",
+      "dependencies": [
+        "Python standard library",
+        "Git full local history"
+      ],
+      "read_only": true,
+      "omitted_write_flags": [
+        "parser.add_argument('--output', type=Path, help='Optional JSON audit file; default is read-only stdout.')"
+      ],
+      "scope_note": "Existing validator assertions only; preserved baseline artifacts are not regenerated."
+    },
+    {
+      "id": "validate_rewards",
+      "script": "combat-rewards/validate_rewards.py",
+      "portable_argv": [
+        "python",
+        "-X",
+        "utf8",
+        "combat-rewards/validate_rewards.py",
+        "--directory",
+        "${REPO}\\combat-rewards",
+        "--repository",
+        "${REPO}"
+      ],
+      "cwd": "repository root",
+      "category": "current invariant validator",
+      "dependencies": [
+        "Python standard library",
+        "Git full local history"
+      ],
+      "read_only": true,
+      "omitted_write_flags": [
+        "parser.add_argument('--output', type=Path, help='Save the JSON audit; otherwise read-only stdout.')"
+      ],
+      "scope_note": "Existing validator assertions only; preserved baseline artifacts are not regenerated."
+    },
+    {
+      "id": "validate_economy",
+      "script": "economy/validate_economy.py",
+      "portable_argv": [
+        "python",
+        "-X",
+        "utf8",
+        "economy/validate_economy.py",
+        "--repository",
+        "${REPO}"
+      ],
+      "cwd": "repository root",
+      "category": "current invariant validator",
+      "dependencies": [
+        "Python standard library",
+        "Git full local history"
+      ],
+      "read_only": true,
+      "omitted_write_flags": [
+        "parser.add_argument('--write-audits',action='store_true')"
+      ],
+      "scope_note": "Existing validator assertions only; preserved baseline artifacts are not regenerated."
+    },
+    {
+      "id": "validate_arc3",
+      "script": "world-clock/validate_arc3.py",
+      "portable_argv": [
+        "python",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc3.py",
+        "--repository",
+        "${REPO}"
+      ],
+      "cwd": "repository root",
+      "category": "current invariant validator",
+      "dependencies": [
+        "Python standard library",
+        "Git full local history"
+      ],
+      "read_only": true,
+      "omitted_write_flags": [
+        "parser.add_argument('--write-audit',action='store_true')"
+      ],
+      "scope_note": "Existing validator assertions only; preserved baseline artifacts are not regenerated."
+    },
+    {
+      "id": "validate_arc4_handoff",
+      "script": "world-clock/validate_arc4_handoff.py",
+      "portable_argv": [
+        "python",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc4_handoff.py",
+        "--repository",
+        "${REPO}"
+      ],
+      "cwd": "repository root",
+      "category": "current invariant validator",
+      "dependencies": [
+        "Python standard library",
+        "Git full local history"
+      ],
+      "read_only": true,
+      "omitted_write_flags": [
+        "parser.add_argument('--write-audit',action='store_true')"
+      ],
+      "scope_note": "Existing validator assertions only; preserved baseline artifacts are not regenerated."
+    },
+    {
+      "id": "validate_arc4_yellow",
+      "script": "world-clock/validate_arc4_yellow.py",
+      "portable_argv": [
+        "python",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc4_yellow.py",
+        "--repository",
+        "${REPO}"
+      ],
+      "cwd": "repository root",
+      "category": "historical CP21 calendar on current tree",
+      "dependencies": [
+        "Python standard library",
+        "Git full local history"
+      ],
+      "read_only": true,
+      "omitted_write_flags": [
+        "parser.add_argument('--write-audit',action='store_true')"
+      ],
+      "scope_note": "Existing validator assertions only; preserved baseline artifacts are not regenerated."
+    },
+    {
+      "id": "validate_arc5",
+      "script": "world-clock/validate_arc5.py",
+      "portable_argv": [
+        "python",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc5.py",
+        "--repository",
+        "${REPO}"
+      ],
+      "cwd": "repository root",
+      "category": "current invariant validator",
+      "dependencies": [
+        "Python standard library",
+        "Git full local history"
+      ],
+      "read_only": true,
+      "omitted_write_flags": [
+        "parser.add_argument('--write-audit', action='store_true')"
+      ],
+      "scope_note": "Existing validator assertions only; preserved baseline artifacts are not regenerated."
+    },
+    {
+      "id": "validate_arc6",
+      "script": "world-clock/validate_arc6.py",
+      "portable_argv": [
+        "python",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc6.py",
+        "--repository",
+        "${REPO}"
+      ],
+      "cwd": "repository root",
+      "category": "current invariant validator",
+      "dependencies": [
+        "Python standard library",
+        "Git full local history"
+      ],
+      "read_only": true,
+      "omitted_write_flags": [
+        "parser.add_argument('--write-audit',action='store_true')"
+      ],
+      "scope_note": "Existing validator assertions only; preserved baseline artifacts are not regenerated."
+    },
+    {
+      "id": "validate_arc7",
+      "script": "world-clock/validate_arc7.py",
+      "portable_argv": [
+        "python",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc7.py",
+        "--repository",
+        "${REPO}"
+      ],
+      "cwd": "repository root",
+      "category": "current invariant validator",
+      "dependencies": [
+        "Python standard library",
+        "Git full local history"
+      ],
+      "read_only": true,
+      "omitted_write_flags": [
+        "parser.add_argument('--write',action='store_true')"
+      ],
+      "scope_note": "Existing validator assertions only; preserved baseline artifacts are not regenerated."
+    },
+    {
+      "id": "validate_yellow_director",
+      "script": "world-clock/validate_yellow_director.py",
+      "portable_argv": [
+        "python",
+        "-X",
+        "utf8",
+        "world-clock/validate_yellow_director.py",
+        "--repository",
+        "${REPO}"
+      ],
+      "cwd": "repository root",
+      "category": "current invariant validator",
+      "dependencies": [
+        "Python standard library",
+        "Git full local history"
+      ],
+      "read_only": true,
+      "omitted_write_flags": [
+        "parser.add_argument('--write-audit',action='store_true')"
+      ],
+      "scope_note": "Existing validator assertions only; preserved baseline artifacts are not regenerated."
+    }
+  ]
+}
