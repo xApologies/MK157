@@ -205,3 +205,7 @@ Remain OPEN:
 - exact numeric concurrent population cap;
 - exact spawn/inflow algorithm;
 - exact names, if any, that participants culturally give individual Trial terrain features beyond current author labels.
+
+## Checkpoint 22 — voluntary termination and Training Yard
+
+Voluntary termination is available during the short inter-wave break/timer, with no voluntary exit during committed wave combat. Victory/death and existing re-instancing resolve a started wave. [Training Yard](TRAINING_YARD.md) supports Solo/Duo/Trio starting at a wave already completed/unlocked by the relevant participant/formation, with no Trial credits. Other official-standing/unlock semantics remain OPEN. Normal credit runs start W1. Kira’s repeated early-Arc-Five W1 practice and fallback to Armor/CSR/claws are skill learning, not loss of established capability.

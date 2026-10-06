@@ -1,0 +1,38 @@
+id,topic,before,source_action,after,disposition,targets
+CP22-01,Remote baseline,47c412e2e25acaf0bbaf5341e270e52b49d00009,AUDIT,Checkpoint 21 current during crawl,PRESENT,provenance/CHECKPOINT_22_BEFORE_REVIEW.json
+CP22-02,Kira Genesis Orbs exact date,Late Yellow / exact OPEN,SUPERSEDE,"Y6D2, 61,017",PRESENT,world-clock/ARC4_HANDOFF.json
+CP22-03,Y5D5,W18 Duo Trial,SUPERSEDE,First Builder party,PRESENT,world-clock/YELLOW_DIRECTOR_CALENDAR.json
+CP22-04,Y5D3 social,Yellow Dungeon ×2 only,ADD,Yellow ×2 + female-peer Builder invitation,PRESENT,builder/COMMUNITY.md
+CP22-05,Yellow Duo W18 total,5 in CP21,SUPERSEDE,6 total after delete one/add Y6D5+Y6D6,PRESENT,world-clock/YELLOW_DIRECTOR_CALENDAR.json
+CP22-06,Y7D4,OPEN,ADD,"Successful domai, payout OPEN",PRESENT / OPEN as scoped,combat-rewards/DOMAI_GROUP_ECONOMY.json
+CP22-07,Training Yard,not active current Git,ADD,wave-select practice / no credits,PRESENT,live-model/TRAINING_YARD.md
+CP22-08,Black progression,competency/discovery/integration,CLARIFY,explicit no rank ladder / no defined mastery ceiling,PRESENT,live-model/BLACK_SYSTEMS_MASTERY.md
+CP22-09,One-Orb Arc5,broad one-orb direction,ADD,~11-ft mini-blender / Blue Solo W19 clear,PRESENT / OPEN as scoped,world-clock/ARC5_HANDOFF.json
+CP22-10,Duo Arc5,W18/W19 wall,PRESERVE,preserve; deeper failures only,PRESENT,world-clock/ARC5_HANDOFF.json
+CP22-11,Trio,not focus,PRESERVE/CLARIFY,no meaningful push yet,PRESENT,world-clock/ARC5_HANDOFF.json
+CP22-12,Green Dungeon,none in Arc4,ADD DIRECTION,credible Arc5 attempts after mini-blender,PRESENT / OPEN as scoped,world-clock/ARC5_HANDOFF.json
+CP22-13,Coherence Prime,G6D2,PRESERVE + MOTIVATION,"unchanged, 9,350",PRESENT,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json
+CP22-14,Builder,registry + undated parties,EXPAND,dynamic community + first party Y5D5,PRESENT,builder/COMMUNITY.md
+CP22-15,domai payout model,per-participant contextual ledger language,CLARIFY,group contribution award / equal base split + individual death modifier,PRESENT,combat-rewards/DOMAI_GROUP_ECONOMY.json
+CP22-16,Project Princess Carry,locked current Git,PRESERVE,unchanged,PRESENT,live-model/PARTNERSHIP_AND_CARRY.md
+CP22-17,Full calendar and income scopes,CP21 36-row scaffold,SUPERSEDE,49 rows; Arc Four58170/67030; fullYellow71280/80140 excluding domai,PRESENT,world-clock/YELLOW_DIRECTOR_CALENDAR.md
+CP22-18,Arc Five boundaries/opening,Next ledger purchase already G6D2,LOCK / PRESERVE,Y6D4→G6D2; PCBlue/AbsRed/BeamGreen/GenesisPrimeRed; no PC prerequisite purchase/new Prime ranks,PRESENT,world-clock/ARC5_HANDOFF.json
+CP22-19,Coherence Prime motivation,Existing purchase/date/cost,CLARIFY,Distributed group damage/healer fatigue; second specialized restorative actor; affordability does not advance date,PRESENT,world-clock/ARC5_HANDOFF.md
+CP22-20,Trial termination,Record termination existed without exact exit rule,LOCK,Only inter-wave voluntary exit; committed wave resolves victory/death,PRESENT,live-model/TRAINING_YARD.md
+CP22-21,Training Yard standing,No explicit practice rules,LOCK / OPEN,Solo/Duo/Trio prior-completed wave selection; no credits; other standing/unlock semantics OPEN,PRESENT / OPEN,live-model/TRAINING_YARD.md
+CP22-22,Practice behavior,General Kira Solo habit,ADD,Repeated paid W1 practice; fallback Armor/CSR/claws then inter-wave stop; not regression,PRESENT,live-model/TRAINING_YARD.md
+CP22-23,Control envelope,Broad Orb control direction,CLARIFY,No intrinsic range cutoff; distance/speed/count/complexity tax control; manifestation may persist while motion degrades,PRESENT / OPEN,live-model/BLACK_SYSTEMS_MASTERY.md
+CP22-24,Mini-blender and future integration,Broad one/two/three-Orb direction,WORKING / PRESERVE,OneOrb~11ft/moderate/semi-stable/displacement; CSRanchored; mature hundreds-of-yards/meters future preserved,WORKING-ILLUSTRATIVE / PRESENT,live-model/BLACK_SYSTEMS_MASTERY.md
+CP22-25,Priority tactic and topology,CSR mobility/upperGreen saturation,ADD DIRECTION,Blue ranged then dangerousYellow then melee; 3–4 groups when topology permits; four-person follow and pincer; no solo-Dungeon claim,PRESENT,live-model/BLACK_SYSTEMS_MASTERY.md
+CP22-26,Female peer and identity,Undated party palette,LOCK / OPEN,Female-peer invitation after Y5D3 clears; Y5D5 invitees; identity OPEN,PRESENT / OPEN,builder/COMMUNITY.md
+CP22-27,Builder UI/culture scope,200-registry data backbone,EXPAND,Create/save/search/share/publish/reactions/dynamic surfaces; Elara and veteran retrospective builds; no mandatory forum/algorithm,PRESENT / OPEN,builder/COMMUNITY.md
+CP22-28,Friendship ecology,Loose progression cohort,CLARIFY,Five-person Dungeons primary peer engine; overlapping cliques; Raids broaden; no forced Trio partner,PRESENT / OPEN,world-clock/ARC5_HANDOFF.md
+CP22-29,Demography and longevity,17–45 author envelope,WORKING,Center20–40/envelope17–45/outliers50s60s; earlier Genesis adaptation; no eligibility/physiology law,WORKING-ILLUSTRATIVE / OPEN,world-clock/ARC5_HANDOFF.md
+CP22-30,Social launch and macro scale,Later Project Princess Carry already present,ADD / PRESERVE,Arc5 decompression/burnout warning/illi leadership/Champion status; Valnak~firstthird BookOne; later integration preserved,PRESENT / WORKING,world-clock/ARC5_HANDOFF.md
+CP22-31,domai eligibility and bonus scope,CP18 participant rules,PRESERVE / OPEN,7day firstkill; same-domai1day; per-share0.8^deaths; optional bonus/rounding OPEN,PRESENT / OPEN,combat-rewards/DOMAI_GROUP_ECONOMY.json
+CP22-32,Author liquidity and wardrobe,Unpriced social life,WORKING / OPEN,Award before purchase reveal; EEAauthoronly; dresses~23000/twopergirl working; exactaward/visits/Tiara% OPEN,WORKING-ILLUSTRATIVE / OPEN,combat-rewards/DOMAI_GROUP_ECONOMY.md
+CP22-33,Tournament/Auction overlays,Y5D1/Y5D6 and worldW5–7,ADD / PRESERVE,Y7D1–3 personaloutbyD3; matchesOPEN; AuctionW7D5–7 late-daydirection/hoursOPEN; no championship obligation,PRESENT / OPEN,world-clock/YELLOW_DIRECTOR_CALENDAR.md
+CP22-34,Consecutive full-day Trials,Full-day W18 model,PRESERVE,Y6D5/6 exact withY6D7recovery;21–38each/29.5central;intraday/W19overheadOPEN,PRESENT / OPEN,world-clock/YELLOW_DIRECTOR_CALENDAR.md
+CP22-35,All registries/rewards/eldris and future milestones,Current Git authority,PRESERVE,1016Bindings/229summons/200paths; fixedrewardbytes;209groups;17events;HaloEarlyBlue/DomainLateViolet,PRESENT,world-clock/validate_yellow_director.py
+CP22-36,Source inventory and JSON types,Supplied package metadata,RECONCILE,StaleMANIFEST inventory entry recorded;16sourcefilesexact;numericstringJSONmatchesCSV,PRESENT,provenance/CHECKPOINT_22_SOURCE_REVIEW.json
+CP22-37,Protected OPEN list,Earlier OPENs cumulative,PRESERVE,BlueSolo/Greenattemptclear/illiSolo/Trio/matches/payout/bonuses/wardrobe/Tiara/Builder/biology/velocity/range/laterdays,OPEN as specified,live-model/OPEN.md

@@ -553,7 +553,7 @@ Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit gene
 Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
-Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
+Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
 Around mid-Green, mature two-Orb blender is the major economic inversion.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
@@ -608,4 +608,10 @@ Node group postings can evaluate validated public capability such as:
 
 Do not expose arbitrary videogame item-level scoring or assume private inventory is visible.
 
-Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
+Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
+
+## Checkpoint 22 — Builder culture and first-cycle distribution
+
+The [Builder community](../builder/COMMUNITY.md) overlays the existing 200 Legacy candidates with dynamic discovery, multiple saved hypothetical builds, sharing/publishing, search and like/dislike reactions. It is not a mandatory forum or strategy-guide system; ranking algorithm and final prose-facing name stay OPEN. Elara publishes builds and cares about their social reception without automatic correctness. Y5D3 invitation/Y5D5 first party are locked.
+
+First-cycle demographics center around 20–40 with a working 17–45 envelope and older 50s/60s outliers. Earlier entry begins Genesis adaptation/longevity benefits earlier; exact biology/rate/lifespan stays OPEN. This is not an eligibility law or a bar to later entrants’ excellence.

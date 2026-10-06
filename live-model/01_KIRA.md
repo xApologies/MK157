@@ -157,7 +157,7 @@ Orbs can eventually become remote Transductive/Domain anchors.
 ## Kira seasonal Black scaffold
 - Entry / early cycle: Armor of the Abyss
 - Early Orange: CSR
-- Late Yellow inside Arc Four: Genesis Orbs; exact day OPEN, not Y1D2 (Checkpoint 21)
+- Late Yellow inside Arc Four: Genesis Orbs at Y6D2, not Y1D2 (Checkpoint 22)
 - Early Blue: Halo
 - Late Violet: Domain
 - White: smaller support/interface/battlefield-integration acquisitions
@@ -179,12 +179,12 @@ Examples: starter pricing anomaly; Orb cannonballs; Orb blender; Trial-credit ex
 ## Checkpoint 08 Orb interpretation and competency
 
 ## 10. Kira progression / Orbs
-Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (Late Yellow inside Arc Four; exact day OPEN under Checkpoint 21) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation.
+Foundation: Armor of the Abyss (Entry/Red) → CSR / Continuous Spatial Resolution (early Orange) → Genesis Orbs (Late Yellow inside Arc Four; Y6D2 under Checkpoint 22) → Halo (early Blue) → Domain (late Violet). White emphasizes integration/support/interface rather than a sixth foundation.
 Black growth is competency/discovery/integration, not ordinary rank grinding.
 
 Genesis Orbs are INTENTIONALLY ANOMALOUS; do not classify them as literal singularities/black holes/etc. They are persistent externalized extensions of Kira and her Genesis interface, respond to her consciousness, interact physically/Transductively, become remote Transductive interfaces, and after Domain can project/exert Kira's Domain. Distributed Domain use matters to the end-book Genesis Collapse solution. Elara later discovers capabilities, not a mandatory ontology.
 
-Orb competency: late Yellow one Orb/crude cannonball → one-orb orbit → around mid-Green two-Orb competency and mature patterned blender → late Violet three-Orb competency. Current mature ceiling THREE.
+Orb competency: late Yellow one Orb/crude cannonball → one-orb orbit → around mid-Green two-Orb competency and mature patterned blender → late Violet three-Orb competency. Three Orbs is the currently authored late-Valnak operating stage, not an intrinsic mastery ceiling (Checkpoint 22).
 Orbital weapons are not invented by Kira; ordinary multi-object shaping is cognitively/fatigue expensive. Summons offload local behavior into autonomy. Kira is a brute-force brawler/improviser, not a finesse swordfighter.
 After Valnak, one continuously sustained Orb can host/project Elara's external presence; exact identity/instancing semantics remain OPEN.
 
@@ -455,7 +455,7 @@ Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit gene
 Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
-Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
+Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
 Around mid-Green, mature two-Orb blender is the major economic inversion.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
@@ -483,7 +483,7 @@ CSR is held by O2D3 and immediately enables Green Solo/Duo Trial territory. Mobi
 
 ## Checkpoint 20 — human milestone, abecca and independent Arc Four
 
-Kira's childhood Fireball fascination comes from imagining herself as a blacksmith wielding fire; her small Genesis Card collection is Fireball-focused. She repeatedly sees a particular Blue Fireball card at the Genesis Card flagship and previously prioritizes CSR. At Arc Three's Beam Red boundary she joyfully buys **that card for 86,000**, choosing it instead of immediate Orbs. This unnecessary object is a human milestone, not moralized failure. She later rebuilds **61,017** and acquires Orbs inside Arc Four, exact date OPEN and not Y1D2.
+Kira's childhood Fireball fascination comes from imagining herself as a blacksmith wielding fire; her small Genesis Card collection is Fireball-focused. She repeatedly sees a particular Blue Fireball card at the Genesis Card flagship and previously prioritizes CSR. At Arc Three's Beam Red boundary she joyfully buys **that card for 86,000**, choosing it instead of immediate Orbs. This unnecessary object is a human milestone, not moralized failure. She later rebuilds **61,017** and acquires Orbs inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2.
 
 Kira is strongly/comically attached to **abecca** (lowercase coffee-equivalent). Her flexible circuit includes combat/social obligations, meals, both distinct flagships, frequent Champion Table/Highlights and home. Decompression and genuine nothing days remain valid.
 
@@ -500,7 +500,15 @@ The older preserved Black scaffold remains governing:
 - **Early Blue: Halo**
 - **Late Violet: Domain**
 
-Checkpoint 20's weaker "Orbs anywhere inside Arc Four / seasonal placement OPEN" language is superseded. The **late-Yellow window is restored**. Exact day remains unresolved until deliberately fixed; do not place Orbs at Y1D2.
+Checkpoint 20's weaker "Orbs anywhere inside Arc Four / seasonal placement OPEN" language is superseded. The **late-Yellow window is restored**. Checkpoint 22 now fixes the exact day to Y6D2; do not place Orbs at Y1D2.
 Post-Armor Black acquisition price remains **61,017 each**.
 
 Kira reliably clears W18 Solo or with illi, enters/fails W19 Blue, and farms upper Green without Blue competence. CSR shifts her from pseudo-Guardian to premium damage/hammer while retaining emergency frontline resilience. She voluntarily remains socially centered on the first-cycle ecosystem with her sister-level partner; illi’s helkir Solo formation still saturates. Kira’s independent first Yellow Dungeon clear is Y4D2; shared Yellow farming follows Y5D3. No Green Dungeon run is scheduled. [Calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md); [eldris tactics](ELDRIS_REFERENCE.md).
+
+## Checkpoint 22 — system mastery and Arc Five
+
+Orbs are acquired **Y6D2 for 61,017**, distinct from competence. All five Black acquisitions are systems: **no ordinary rank ladder and no defined mastery ceiling**. Acquisition opens the system; discovery/competency/integration/mastery develops it. Do not invent Armor II, paid Orb/Halo ranks or a finite C_max. No intrinsic Orb range cutoff is defined; useful control becomes harder with distance, velocity, count and trajectory complexity. Beyond control, an Orb may slow, drift, hover or settle while manifestation persists. Existing late capabilities remain, without unlocking mature integration in Arc Five.
+
+Arc Five develops one Orb through cannonball/controlled flight/crude orbit into a Kira-anchored mini-blender: working **~11-foot radius**, moderate velocity, semi-stable displacement/damage rather than mature annihilation. It translates with CSR; hits/distraction/overload can break synchronization. “Kinetic shield” describes physical Orb motion, not a force-field Binding. At an **OPEN date**, Kira clears **W19 Blue Solo and reaches W20**; exact W20 failure depth remains OPEN. Duo stays W18 clear/W19 fail; no meaningful Trio push. The jumping-spider tactic prioritizes Blue ranged threats, then dangerous Yellow ranged, then melee; execution can fail.
+
+[Black systems doctrine](BLACK_SYSTEMS_MASTERY.md) preserves the full tactical, control and mature-future model. [Training Yard](TRAINING_YARD.md) allows no-credit selectable prior-wave practice; Kira often chooses paid W1 practice, falls back to Armor/CSR/claws to finish the wave, then stops between waves. Arc Five’s [social launch](../world-clock/ARC5_HANDOFF.md) follows Elara’s burnout warning and illi’s social leadership; the later Project Princess Carry fanaticism remains later.

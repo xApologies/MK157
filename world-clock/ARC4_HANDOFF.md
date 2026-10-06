@@ -1,6 +1,6 @@
-# Arc boundaries and Arc Four handoff — Checkpoint 21
+# Arc boundaries and Arc Four handoff — Checkpoint 22
 
-Use illi's more granular Binding progression as the primary book-arc clock. Kira's acquisitions can occur inside arcs. [Structured locks](ARC4_HANDOFF.json) and the [current author delta](../live-model/28_CHECKPOINT_21_ARC4_YELLOW.md) govern this handoff; the [36-day Yellow calendar](ARC4_YELLOW_COMBAT_CALENDAR.md) supplies Y1D3–Y6D3 combat.
+Use illi's more granular Binding progression as the primary book-arc clock. Kira's acquisitions can occur inside arcs. [Structured locks](ARC4_HANDOFF.json) and the [current author delta](../live-model/29_CHECKPOINT_22_ARC5_SOCIAL_MASTERY.md) govern this handoff; the [49-day Yellow director calendar](YELLOW_DIRECTOR_CALENDAR.md) supersedes the old CP21 scaffold. Arc Four remains Y1D3–Y6D3; Arc Five opens Y6D4 and closes G6D2.
 
 | Arc | Closing milestone |
 |---|---|
@@ -8,8 +8,9 @@ Use illi's more granular Binding progression as the primary book-arc clock. Kira
 | 2 | illi White Legacy + Absorption Shield Red / Kira CSR |
 | 3 | Yellow-opening boundary: illi Genesis Beam Red at **Y1D2** and Kira's specific **Blue Fireball Genesis Card** |
 | 4 | illi Genesis Prime Elemental Red at **Y6D3** |
+| 5 | illi Coherence Prime Elemental Red at **G6D2**, 9,350 credits |
 
-**Genesis Orbs are not the Arc Three endpoint purchase and are not acquired at Y1D2.** Their price remains **61,017**; acquisition occurs **Late Yellow inside Arc Four**, exact day **OPEN**. Checkpoint 21 restores that seasonal lock; the Y6D3 row labels the window and does not fix purchase to that day. Halo remains Early Blue; Domain remains Late Violet. Orb acquisition and later competency/mastery remain distinct; unrelated later architecture is preserved.
+**Genesis Orbs are not the Arc Three endpoint purchase and are not acquired at Y1D2.** Their price remains **61,017**; acquisition occurs **Y6D2, Late Yellow inside Arc Four**, locked by Checkpoint 22. Y6D1 Hard Raid is pre-Orb; Y6D3 is illi’s closing milestone, not Kira’s acquisition day. Halo remains Early Blue; Domain remains Late Violet. Orb acquisition and later competency/mastery remain distinct; unrelated later architecture is preserved.
 
 ## Specific Blue Fireball card
 
@@ -52,8 +53,10 @@ Inside Arc Four she joins a competent **Yellow Normal Dungeon** group while illi
 
 ## Social authoring and continuing OPENs
 
-The Checkpoint 21 calendar supplies **64,725 illi / 73,585 Kira gross**, not balances. Five shared W18 clears and one Kira Solo W18 each end at the W19 Blue wall. Orange is farm content; the emerging peer cohort can farm Yellow, with no Green Dungeon or Yellow Raid boss clear booked. The [active eldris reference](../live-model/ELDRIS_REFERENCE.md) explains projected-force, juggernaut and secondary-effect pressure and illi's Beam/Absorption fatigue allocation. All 17 illi milestones and future Coherence/Absorption/Resonance dates remain unchanged.
+The Checkpoint 22 calendar supplies **58,170 illi / 67,030 Kira gross through Y6D3**, and **71,280 illi / 80,140 Kira for full Yellow**, excluding domai; these are not balances. Four shared W18 clears occur in Arc Four, with two more at Y6D5/Y6D6; Kira has one W18 Solo. Y5D5 is the first Builder party with zero Trial credit. All these paid runs end at the W19 Blue wall. Orange is farm content; the emerging peer cohort can farm Yellow, with no Green Dungeon or Yellow Raid boss clear booked. The [active eldris reference](../live-model/ELDRIS_REFERENCE.md) explains projected-force, juggernaut and secondary-effect pressure and illi's Beam/Absorption fatigue allocation. All 17 illi milestones and future Coherence/Absorption/Resonance dates remain unchanged.
 
 [Social life](../live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md) adds lowercase **abecca**, Kira's strong habit, the flexible daily circuit, Tea Houses/Parties/foundations, one Gala per season, peer gatherings and deliberate home/recovery/nothing days. Event dates remain OPEN beyond existing World Clock appointments; neither an OPEN day nor a moment of free time is an automatic event or farm slot.
 
-Keep the exact Late Yellow Orb day, first-Yellow group identity, unsupplied social dates, full cashflow/spending/funding, other card prices, social event dates, foundation legal/IP/royalty/investment implementation, credit-transfer enforcement, domai payout and unrelated canon gaps OPEN.
+Keep first-Yellow group identity, social dates beyond the supplied invitation/party and personal tournament/Auction overlays, full cashflow/spending/funding, other card prices, social event dates, foundation legal/IP/royalty/investment implementation, credit-transfer enforcement, domai payout and unrelated canon gaps OPEN.
+
+Checkpoint 22 locks the first Builder invitation after the Y5D3 shared clears and attendance at Y5D5. The Y7D1–D3 personal raeon block ends before championship; exact matches/elimination remain OPEN. A successful Y7D4 domai provides contextual discretionary liquidity before Auction W7D5–D7; payout and actual purchases remain OPEN/WORKING. [Arc Five](ARC5_HANDOFF.md) develops one-Orb mastery and social life while preserving later Project Princess Carry.

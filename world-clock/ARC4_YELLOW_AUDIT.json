@@ -1,5 +1,6 @@
 {
   "checkpoint": 21,
+  "scope": "Historical 36-row CP21 source calendar; superseded for current events/income by CP22 YELLOW_DIRECTOR_CALENDAR",
   "result": "PASS",
   "errors": [],
   "baseline_commit": "8502c19617d2086a97490366baf82b7471e4c4d9",
@@ -559,8 +560,9 @@
     "Halo": "Early Blue",
     "Domain": "Late Violet"
   },
-  "exact_orb_day": "OPEN; Y6D3 labels the window only",
-  "personal_yellow_elimination": "OPEN; reschedule Hard Raid only if a later actual bracket date conflicts",
+  "historical_cp21_orb_day": "OPEN in CP21; superseded by CP22 Y6D2",
+  "current_orb_day": "Y6D2",
+  "personal_yellow_elimination": "Exact day OPEN within CP22 Y7D1–D3 block; no championship obligation",
   "source_files": [
     "ARC4_YELLOW_AUDIT.json",
     "ARC4_YELLOW_COMBAT_CALENDAR.csv",
@@ -599,7 +601,6 @@
     "combat-rewards/DOMAI_PARTICIPATION_RULES.json",
     "combat-rewards/DUNGEON_REWARDS.csv",
     "combat-rewards/RAID_BOSS_REWARDS.csv",
-    "combat-rewards/README.md",
     "combat-rewards/validate_rewards.py",
     "live-model/07_CHECKPOINT_02_ADDENDUM.md",
     "live-model/08_CHECKPOINT_03_ADDENDUM.md",
@@ -887,13 +888,13 @@
   "sha256": {
     "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.csv": "7e899fa721b72d6a024d6959886e1a24faa41c8c1143a82183705cd1acbe7552",
     "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json": "f716baded0d2c77cc9ed04847d5da4523365c5a6ff04a0afd9a71f62198c1a5d",
-    "world-clock/ARC4_HANDOFF.json": "85edc298f3f2a8b29daa546cd01c3df13337a908afb480c8f6a307fdd198fc09",
-    "world-clock/validate_arc4_yellow.py": "66529943be474cff94059ed696c0ce29f3a00878392f30affbacfa1fb383ec60",
+    "world-clock/ARC4_HANDOFF.json": "0e459f5558607438858e301a518c534aac5fcc78a2d286ea87794593a0f7a5ec",
+    "world-clock/validate_arc4_yellow.py": "08d425e4f00db4db24948375df80cfb9ad67ce5fb7f99b35cb4a1289a45ace53",
     "live-model/ELDRIS_REFERENCE.md": "b87ec267952a7a70516d08d857b7667f9b3f61fb4b4e587aa94ee3486282c702",
-    "live-model/COMBAT_ECOLOGY.md": "1ead0821523977bbc740dd3acb780b23f3a834ca9fe083f79e7b8f820fda14a2",
-    "live-model/COMBAT_THRESHOLDS.md": "179f1e201e92c4e12e6490f89de3f349c5c92ce14987265a64448aa2408106f8",
-    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "c84872b661b861763a722bc65964461d117ac28b318114583bf39c56ba479cce",
-    "live-model/OPEN.md": "22706d8e877d587f00acf9a2864ecdcdbd06abcf0db4b7b020b2f97dd82dd536",
-    "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "6d0c58aacad23e585250a110aa134b85694fa4efbe769c6db812945720754f94"
+    "live-model/COMBAT_ECOLOGY.md": "1ee45f8cdf536e4fdea2b0cdc63f7b7b2926a9a1bb287a94fbbe7294c09d6f68",
+    "live-model/COMBAT_THRESHOLDS.md": "3da8dc4cd7e107dfb5a5c2fda4eab946a6581fd0107dc24c3fe233cc1a659be6",
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "85dd0100e4e224f11dee16d3b03ba06a9a80988a51892f60acf01dee9bb4d302",
+    "live-model/OPEN.md": "9cbfea61e2ded8ee5630a4f165a7ca7d6e9c5dd587f58ab44eb1c8945c194b80",
+    "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "af7f0cf2bb5e29d3e913bf6499420ace6268ca82a76f0dfa7d8154241fb234af"
   }
 }

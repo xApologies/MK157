@@ -1,0 +1,24 @@
+{
+  "package": "MK157_CHECKPOINT22_ARC5_SOCIAL_MASTERY_LIVE_MODEL",
+  "observed_git_head": "47c412e2e25acaf0bbaf5341e270e52b49d00009",
+  "checkpoint": 22,
+  "calendar": "YELLOW_DIRECTOR_CALENDAR.csv",
+  "files": [
+    "ARC5_HANDOFF_ROADMAP.md",
+    "BASELINE_AUDIT.md",
+    "BUILDER_COMMUNITY.md",
+    "CHECKPOINT22_AUDIT.json",
+    "CHECKPOINT22_LIVE_MODEL_DELTA.md",
+    "CHECKPOINT22_REVERSE_DIFF.csv",
+    "DOMAI_GROUP_ECONOMY.md",
+    "EXECUTABLE.md",
+    "FILE_INVENTORY.json",
+    "KIRA_BLACK_SYSTEMS_ARC5.md",
+    "MANIFEST.json",
+    "OPEN_ITEMS.md",
+    "README.md",
+    "TRAINING_YARD.md",
+    "YELLOW_DIRECTOR_CALENDAR.csv",
+    "YELLOW_DIRECTOR_CALENDAR.json"
+  ]
+}

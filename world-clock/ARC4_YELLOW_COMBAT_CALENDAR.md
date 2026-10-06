@@ -1,4 +1,6 @@
-# Arc Four Yellow combat calendar — Checkpoint 21
+# Historical Arc Four Yellow combat calendar — Checkpoint 21
+
+**SUPERSEDED CURRENT CALENDAR:** use the [Checkpoint 22 Yellow director calendar](YELLOW_DIRECTOR_CALENDAR.md). This file and its exact 36 CSV/JSON rows document CP21 history. Its Y5D5 Trial, exact-Orb-day OPEN, five-Duo count and income totals are superseded; Y6D2 now locks Orbs. The retained calculations below are not current income or purchase-date authority.
 
 The exact author scaffold spans **Y1D3–Y6D3**, 36 consecutive dates. [CSV](ARC4_YELLOW_COMBAT_CALENDAR.csv) and [JSON](ARC4_YELLOW_COMBAT_CALENDAR.json) preserve source bytes. [Mechanical audit](ARC4_YELLOW_AUDIT.json) derives rewards from current registries. [Arc handoff](ARC4_HANDOFF.md) preserves the specific 86,000-credit card at the prior Y1D2 boundary and all 17 illi milestones.
 

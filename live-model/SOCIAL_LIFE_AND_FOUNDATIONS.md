@@ -59,10 +59,16 @@ Existing tournament, Auction, Prism and Highlights schedules remain. The palette
 
 Current consumer priorities are raeon cards/decks and Genesis Cards. Serious Auction goods remain beyond their current purchasing tier; do not invent trinkets or Auction spending to absorb surplus. Author in this order: **world events → organic combat → gross income → card/life spending → terminal progression check**. Affordability does not force immediate acquisition; Valnak remains a marathon.
 
-## Checkpoint 21 — recursive social overlay
+## Checkpoint 21 — recursive social overlay (historical totals; superseded by Checkpoint 22)
 
 Combat/progression skeleton first. Exact Tea Parties, Yellow Gala, Builder parties, deck nights, Genesis-card gatherings, abecca routines, royal-family scenes, Champion Table life and home/recovery prose can be overlaid recursively later.
 World Clock `raeon` tournament infrastructure remains authoritative. Y5D1 is reserved for qualification; Y5D6 is protected tournament availability, but exact Yellow-season personal elimination day remains OPEN.
 If a later personal bracket assignment conflicts with the Hard Raid date, move the Raid within available Arc-Four calendar space rather than overriding the tournament.
 
 The dated combat scaffold does not book undated social attendance or purchases. Clothing/social presentation, ordinary savings and future luxury goals can use organic excess income; 64,725 illi / 73,585 Kira are gross, not balances. Transfer and foundation boundaries above remain unchanged.
+
+## Checkpoint 22 — dated peer entry and social liberty
+
+After Y5D3’s two Yellow clears, an **unnamed female peer** invites Kira+illi to their first Builder party; they attend as invitees at **Y5D5**, replacing the former Trial. [Builder community](../builder/COMMUNITY.md) is dynamic theorycrafting culture over the unchanged 200 candidates, with Elara publishing builds and caring about reactions without guaranteed correctness. Food, cards, arguments, jokes and later Training Yard tests turn repeated combat acquaintances into friends.
+
+Arc Five is social launch/decompression: Elara cautions burnout, illi increasingly navigates society, Kira learns to inhabit Champion status, and Elara appears as a genuine friend. Cards, fitted clothing, meals, Galas, Auction, savings and future luxury are deliberate social liberty, not excess-income errors. Successful Y7D4 domai precedes the Auction W7D5–D7. Premium fitted dresses around **23,000 each, two per girl**, are a WORKING story-specific wardrobe idea; actual designs/store/NPC/visits and booking remain OPEN. Exact Tiara Fund savings percentage is OPEN. Existing transfer/foundation rules and later Project Princess Carry remain. [Arc Five roadmap](../world-clock/ARC5_HANDOFF.md).

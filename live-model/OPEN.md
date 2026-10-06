@@ -1,8 +1,8 @@
 # OPEN ledger
 
-Checkpoint 21 governs the Yellow combat scaffold and restored seasonal Black placement. Checkpoint 20 retains arc boundaries, the specific 86,000-credit card and social/civic direction. Ordinary pricing/rewards remain Checkpoint 18; the 61,017 Black acquisition tier and Orange combat rows remain Checkpoint 19. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks.
+Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs, Arc Five and social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries, the specific 86,000-credit card and social/civic direction. Ordinary pricing/rewards remain Checkpoint 18; the 61,017 Black acquisition tier and Orange combat rows remain Checkpoint 19. Older sections retain the chronology of resolution; superseded numeric values are historical, not current OPENs or locks.
 
-No OPEN question was resolved by repository import. Read all source ledgers with authority 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
+No OPEN question was resolved by repository import. Read all source ledgers with authority 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01; an older question is answered only where a supplied newer checkpoint explicitly answers it.
 
 - [Baseline OPEN ledger](../prior-checkpoint-source/OPEN_AND_PROVENANCE.md): original unanswered questions and provenance.
 - [Checkpoint 01 OPEN ledger](06_OPEN_PROVENANCE.md): equations, neon, bandwidth, city, interfaces, trials, abilities, identity/persistence, cast and world details.
@@ -139,12 +139,39 @@ Resolved: Arc 1 PC Red/Armor; Arc 2 White Legacy + Absorption Red/CSR; Arc 3 Yel
 
 Resolved direction: lowercase abecca and Kira's habit; flexible daily circuit and two distinct flagships; home/lounge/recovery/nothing days; Tea House/Tea Party/charity independence-network-agency doctrine; foundation research/protected implementation/licensing/royalty direction; social/civic gifts allowed but direct or indirect progression financing prohibited; one Gala per season and peer social palette; Kira's high-demand group access subject to eligibility and her first Yellow Normal completion without illi.
 
-After Checkpoint 21, still OPEN: exact Orbs day within Late Yellow inside Arc Four; Kira first-Yellow-clear group identity (day resolved to Y4D2); exact Arc Four social overlay; Gala and gathering dates/attendance; actual card funding/ending balances, opening capital and prior spending; successful domai payout and later gross income; all other card prices/inventories and exact card intraday timestamp; Tea House ownership/charity identities; patent statutes/legal mechanisms/terms/royalty rates/investment regulation; credit-transfer UI/limits/tracking/anti-circumvention implementation. Social gifts do not supply a particular donor or progression-financing loophole. The conditional 86,000 − 83,915 = 2,085 gap is not an invented debt or award.
+After Checkpoint 22 fixes Orbs to Y6D2, still OPEN: Kira first-Yellow-clear group identity (day resolved to Y4D2); exact Arc Four social overlay; Gala and gathering dates/attendance; actual card funding/ending balances, opening capital and prior spending; successful domai payout and later gross income; all other card prices/inventories and exact card intraday timestamp; Tea House ownership/charity identities; patent statutes/legal mechanisms/terms/royalty rates/investment regulation; credit-transfer UI/limits/tracking/anti-circumvention implementation. Social gifts do not supply a particular donor or progression-financing loophole. The conditional 86,000 − 83,915 = 2,085 gap is not an invented debt or award.
 
 Domai scoring remains OPEN BY DESIGN. Existing W36+ rewards/final standings, post-Violet-W2 dates, institutional details, partial-progress/distribution/bonus formulas, encounter layouts/physiology and planetary reconciliation remain OPEN. No new combat or social event is silently placed into a protected OPEN day. [Current handoff](../world-clock/ARC4_HANDOFF.md).
 
-## Checkpoint 21 — resolved and still OPEN
+## Checkpoint 21 — historical resolutions, superseded where noted by Checkpoint 22
 
 Resolved: Late Yellow Orbs / Early Blue Halo / Late Violet Domain; exact 36-day Yellow combat scaffold; W18 clear/W19 entry-fail; independent first Yellow clear Y4D2; shared Yellow clears Y5D3; deterministic gross 64,725 illi / 73,585 Kira. The 73,044 progression spend, 61,017 post-Armor prices and 86,000 specific card remain unchanged.
 
-Still OPEN: exact Late Yellow Orb purchase day (Y6D3 is a window label); personal Yellow raeon elimination/bracket dates; illi exact Solo standing without a Green clear; cohort headcount/group identities; failed-Dungeon partial awards and contextual domai amounts; carry-in, card/life spending and final balances; general card prices; Tea Parties, Gala, Builder/deck/Genesis gatherings and other exact social placements. Existing foundation/legal/IP/transfer enforcement and unrelated OPENs persist. The conditional 8,319 illi funding gap is not canonical debt. Future Coherence Prime G6D2, Absorption G6D4/G7D2/V1D3 and Resonance Prime V2D2 remain locked.
+Resolved by Checkpoint 22: exact Late Yellow Orb purchase day is Y6D2, with the personal raeon block Y7D1–D3. Still OPEN: exact match results and elimination day within that block; illi exact Solo standing without a Green clear; cohort headcount/group identities; failed-Dungeon partial awards and contextual domai amounts; carry-in, card/life spending and final balances; general card prices; Tea Parties, Gala, Builder/deck/Genesis gatherings and other exact social placements. Existing foundation/legal/IP/transfer enforcement and unrelated OPENs persist. The conditional 8,319 illi funding gap is not canonical debt. Future Coherence Prime G6D2, Absorption G6D4/G7D2/V1D3 and Resonance Prime V2D2 remain locked.
+
+## Checkpoint 22 — current resolutions and protected OPENs
+
+Resolved: exact Orbs **Y6D2**; Builder invitation **Y5D3** / first party **Y5D5**; full 49-day Yellow calendar; personal raeon block **Y7D1–D3** ending by D3; successful **Y7D4 domai** with award OPEN; Arc Five **Y6D4→G6D2**, Coherence Prime Red 9,350. Fixed Yellow income excluding domai is **71,280 illi / 80,140 Kira**, revised Arc Four **58,170 / 67,030**. Training Yard and group base split rules are supplied; old Orb-day and Y5D5-Trial statements are superseded.
+
+Do not fill these during integration:
+
+- Exact date inside Arc Five when Kira first clears W19 Blue Solo.
+- Exact date of first Green Dungeon attempt/clear.
+- Exact illi Solo standing/rank during Arc Five.
+- Exact Trio partner and first meaningful Trio date.
+- Exact Y7D1–D3 raeon match-by-match results.
+- Exact Y7D4 domai aggregate payout.
+- Exact formula for domai validated contribution and any optional individual bonus.
+- Exact dress design/store/NPC and whether both fitted dresses are bought in one visit; ~23,000 each is working story-specific pricing.
+- Exact Tiara Fund savings percentage.
+- Exact Builder book-facing in-world name, ranking algorithm and any future comment/forum system.
+- Exact Genesis-longevity biology/rate/lifespan effect.
+- Exact one-Orb Blue-clear day and exact W20 failure depth.
+- Exact mini-blender velocity.
+- Exact practical maximum Orb range at any mastery stage.
+- Exact first two-Orb / three-Orb daily dates; preserve the broader existing mastery direction unless later authored.
+- Exact integrated Black battle-system capabilities; late-Valnak reveal only.
+- Exact Halo day in Early Blue and Domain day in Late Violet.
+
+
+Also OPEN: Training Yard official-standing/unlocking effects beyond selectable prior-completed waves; full cashflow and card/life spending; all unrelated earlier OPENs. Mini-blender ~11-foot radius, demographic center/envelope, ~23,000 fitted dresses/two per girl, Tiara Fund idea and roughly-first-third Book One scale retain their WORKING author scope. No date, purchase or numeric award is inferred from those examples.

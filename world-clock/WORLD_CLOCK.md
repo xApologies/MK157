@@ -272,7 +272,7 @@ Available palette: Tea Parties; **one seasonal Gala per season**; residence Buil
 
 ## Checkpoint 20 — narrative overlay on preserved schedules
 
-The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four, date OPEN and not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. Checkpoint 21 supplies the Yellow combat scaffold separately; social dates beyond existing appointments remain OPEN. Consult [Arc Four handoff](ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically.
+The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. Checkpoint 21 supplies the Yellow combat scaffold separately; social dates beyond existing appointments remain OPEN. Consult [Arc Four handoff](ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically.
 
 ## Checkpoint 21 — Yellow calendar overlay
 
@@ -282,4 +282,10 @@ Combat/progression skeleton first. Exact Tea Parties, Yellow Gala, Builder parti
 World Clock `raeon` tournament infrastructure remains authoritative. Y5D1 is reserved for qualification; Y5D6 is protected tournament availability, but exact Yellow-season personal elimination day remains OPEN.
 If a later personal bracket assignment conflicts with the Hard Raid date, move the Raid within available Arc-Four calendar space rather than overriding the tournament.
 
-Y6D3 closes Arc Four with illi Genesis Prime Red; its Orb-window label does not date the Late Yellow purchase. Full cashflow and exact social overlay stay OPEN.
+Y6D3 closes Arc Four with illi Genesis Prime Red; Checkpoint 22 dates the Late Yellow Orb purchase to the previous day, Y6D2. Full cashflow and exact social overlay stay OPEN.
+
+## Checkpoint 22 — current full-Yellow director overlay
+
+Use the [49-day calendar](YELLOW_DIRECTOR_CALENDAR.md) over the retained historical CP21 scaffold. Y5D3 adds the first Builder invitation; Y5D5 is the first party with zero Trial credits. Orbs are acquired Y6D2; Arc Four closes Y6D3 and [Arc Five](ARC5_HANDOFF.md) opens Y6D4, ending G6D2 Coherence Prime Red. Y6D5/Y6D6 supply W18 Duos, followed by Y6D7 recovery. Each W18 remains a full-day 21–38-hour block; consecutive upper-range runs can spill into recovery, with exact intraday timings OPEN.
+
+Y7D1–D3 is personal raeon participation, out by D3 with match details OPEN. Y7D4 successful domai has an OPEN contextual award. Auction W7D5–D7 remains; late-day/evening attendance is author direction, exact hours OPEN. Standing tournament, 25:00 Highlights, Auctions and Prism schedule remain unchanged; no personal championship obligation. The weekly template is infrastructure, while the director calendar carries exact current character overlays. [Training Yard](../live-model/TRAINING_YARD.md) and [Builder community](../builder/COMMUNITY.md) add practice/social direction without fabricated paid events.

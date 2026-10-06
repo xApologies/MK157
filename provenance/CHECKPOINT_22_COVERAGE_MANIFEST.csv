@@ -1,0 +1,38 @@
+id,status,requirement,evidence,resolution
+CP22-01,PRESENT,Remote baseline,provenance/CHECKPOINT_22_BEFORE_REVIEW.json,Checkpoint 21 current during crawl
+CP22-02,PRESENT,Kira Genesis Orbs exact date,world-clock/ARC4_HANDOFF.json,"Y6D2, 61,017"
+CP22-03,PRESENT,Y5D5,world-clock/YELLOW_DIRECTOR_CALENDAR.json,First Builder party
+CP22-04,PRESENT,Y5D3 social,builder/COMMUNITY.md,Yellow ×2 + female-peer Builder invitation
+CP22-05,PRESENT,Yellow Duo W18 total,world-clock/YELLOW_DIRECTOR_CALENDAR.json,6 total after delete one/add Y6D5+Y6D6
+CP22-06,PRESENT / OPEN as scoped,Y7D4,combat-rewards/DOMAI_GROUP_ECONOMY.json,"Successful domai, payout OPEN"
+CP22-07,PRESENT,Training Yard,live-model/TRAINING_YARD.md,wave-select practice / no credits
+CP22-08,PRESENT,Black progression,live-model/BLACK_SYSTEMS_MASTERY.md,explicit no rank ladder / no defined mastery ceiling
+CP22-09,PRESENT / OPEN as scoped,One-Orb Arc5,world-clock/ARC5_HANDOFF.json,~11-ft mini-blender / Blue Solo W19 clear
+CP22-10,PRESENT,Duo Arc5,world-clock/ARC5_HANDOFF.json,preserve; deeper failures only
+CP22-11,PRESENT,Trio,world-clock/ARC5_HANDOFF.json,no meaningful push yet
+CP22-12,PRESENT / OPEN as scoped,Green Dungeon,world-clock/ARC5_HANDOFF.json,credible Arc5 attempts after mini-blender
+CP22-13,PRESENT,Coherence Prime,world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json,"unchanged, 9,350"
+CP22-14,PRESENT,Builder,builder/COMMUNITY.md,dynamic community + first party Y5D5
+CP22-15,PRESENT,domai payout model,combat-rewards/DOMAI_GROUP_ECONOMY.json,group contribution award / equal base split + individual death modifier
+CP22-16,PRESENT,Project Princess Carry,live-model/PARTNERSHIP_AND_CARRY.md,unchanged
+CP22-17,PRESENT,Full calendar and income scopes,world-clock/YELLOW_DIRECTOR_CALENDAR.md,49 rows; Arc Four58170/67030; fullYellow71280/80140 excluding domai
+CP22-18,PRESENT,Arc Five boundaries/opening,world-clock/ARC5_HANDOFF.json,Y6D4→G6D2; PCBlue/AbsRed/BeamGreen/GenesisPrimeRed; no PC prerequisite purchase/new Prime ranks
+CP22-19,PRESENT,Coherence Prime motivation,world-clock/ARC5_HANDOFF.md,Distributed group damage/healer fatigue; second specialized restorative actor; affordability does not advance date
+CP22-20,PRESENT,Trial termination,live-model/TRAINING_YARD.md,Only inter-wave voluntary exit; committed wave resolves victory/death
+CP22-21,PRESENT / OPEN,Training Yard standing,live-model/TRAINING_YARD.md,Solo/Duo/Trio prior-completed wave selection; no credits; other standing/unlock semantics OPEN
+CP22-22,PRESENT,Practice behavior,live-model/TRAINING_YARD.md,Repeated paid W1 practice; fallback Armor/CSR/claws then inter-wave stop; not regression
+CP22-23,PRESENT / OPEN,Control envelope,live-model/BLACK_SYSTEMS_MASTERY.md,No intrinsic range cutoff; distance/speed/count/complexity tax control; manifestation may persist while motion degrades
+CP22-24,WORKING-ILLUSTRATIVE / PRESENT,Mini-blender and future integration,live-model/BLACK_SYSTEMS_MASTERY.md,OneOrb~11ft/moderate/semi-stable/displacement; CSRanchored; mature hundreds-of-yards/meters future preserved
+CP22-25,PRESENT,Priority tactic and topology,live-model/BLACK_SYSTEMS_MASTERY.md,Blue ranged then dangerousYellow then melee; 3–4 groups when topology permits; four-person follow and pincer; no solo-Dungeon claim
+CP22-26,PRESENT / OPEN,Female peer and identity,builder/COMMUNITY.md,Female-peer invitation after Y5D3 clears; Y5D5 invitees; identity OPEN
+CP22-27,PRESENT / OPEN,Builder UI/culture scope,builder/COMMUNITY.md,Create/save/search/share/publish/reactions/dynamic surfaces; Elara and veteran retrospective builds; no mandatory forum/algorithm
+CP22-28,PRESENT / OPEN,Friendship ecology,world-clock/ARC5_HANDOFF.md,Five-person Dungeons primary peer engine; overlapping cliques; Raids broaden; no forced Trio partner
+CP22-29,WORKING-ILLUSTRATIVE / OPEN,Demography and longevity,world-clock/ARC5_HANDOFF.md,Center20–40/envelope17–45/outliers50s60s; earlier Genesis adaptation; no eligibility/physiology law
+CP22-30,PRESENT / WORKING,Social launch and macro scale,world-clock/ARC5_HANDOFF.md,Arc5 decompression/burnout warning/illi leadership/Champion status; Valnak~firstthird BookOne; later integration preserved
+CP22-31,PRESENT / OPEN,domai eligibility and bonus scope,combat-rewards/DOMAI_GROUP_ECONOMY.json,7day firstkill; same-domai1day; per-share0.8^deaths; optional bonus/rounding OPEN
+CP22-32,WORKING-ILLUSTRATIVE / OPEN,Author liquidity and wardrobe,combat-rewards/DOMAI_GROUP_ECONOMY.md,Award before purchase reveal; EEAauthoronly; dresses~23000/twopergirl working; exactaward/visits/Tiara% OPEN
+CP22-33,PRESENT / OPEN,Tournament/Auction overlays,world-clock/YELLOW_DIRECTOR_CALENDAR.md,Y7D1–3 personaloutbyD3; matchesOPEN; AuctionW7D5–7 late-daydirection/hoursOPEN; no championship obligation
+CP22-34,PRESENT / OPEN,Consecutive full-day Trials,world-clock/YELLOW_DIRECTOR_CALENDAR.md,Y6D5/6 exact withY6D7recovery;21–38each/29.5central;intraday/W19overheadOPEN
+CP22-35,PRESENT,All registries/rewards/eldris and future milestones,world-clock/validate_yellow_director.py,1016Bindings/229summons/200paths; fixedrewardbytes;209groups;17events;HaloEarlyBlue/DomainLateViolet
+CP22-36,PRESENT,Source inventory and JSON types,provenance/CHECKPOINT_22_SOURCE_REVIEW.json,StaleMANIFEST inventory entry recorded;16sourcefilesexact;numericstringJSONmatchesCSV
+CP22-37,OPEN as specified,Protected OPEN list,live-model/OPEN.md,BlueSolo/Greenattemptclear/illiSolo/Trio/matches/payout/bonuses/wardrobe/Tiara/Builder/biology/velocity/range/laterdays

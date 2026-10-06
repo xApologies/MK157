@@ -603,3 +603,11 @@ Kira+illi are not domai specialists. Dedicated military/guard/vaelum/noble forma
 Arc Four combat calendar does not require a domai payout. Contextual domai income remains an author slack variable under existing seven-day eligibility/recovery/death rules.
 
 See [the exact Yellow calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md) for dates and reward booking, and [eldris](ELDRIS_REFERENCE.md) for the combat reference. Kira first clears Yellow independently at Y4D2; illi receives no clear or income then. Two shared clears follow at Y5D3.
+
+## Checkpoint 22 — Arc Five ecology and friendship
+
+Arc Four’s lack of Green Dungeon rows is scoped to its old pre-mastery stage. During Arc Five, one-Orb mini-blender competency makes **Green Dungeon attempts credible** with capable peers; exact attempt/first-clear dates remain OPEN. Kira disrupts Blue/Yellow ranged centers, breaks 3–4 groups where topology permits, the four-person trailing formation advances, and Kira reverses into a pincer. Tight corridors/ceilings constrain control and escape. This is mobile assault/forward disruption, not soloing the Dungeon. Solo reaches W19 clear/W20; Duo remains W18 clear/W19 fail because population pressure pulls Kira defensive to protect illi. No meaningful Trio push is assigned.
+
+Five-person Dungeons are Kira’s main peer-social engine: Kira+illi repeatedly meet three participants and re-invite good fits, forming overlapping friendships/cliques rather than a rigid team. Raids broaden the graph; a future Trio friend must emerge organically. Working first-cycle demographic center is ~20–40, envelope ~17–45, with older 50s/60s outliers. This is a distribution, not eligibility law. Earlier entry begins Genesis-related adaptation/slower-aging benefit earlier; exact physiology/rates/lifespan remain OPEN.
+
+The first female-peer Builder invitation follows Y5D3’s Yellow clears; Y5D5 is their first party, not a Trial. [Builder community](../builder/COMMUNITY.md) turns repeat groups into friendships. Successful Y7D4 domai supplies an OPEN contextual **group award divided equally among eligible members**, then individual death deductions. Small groups are not paid more intrinsically. See [group economy](../combat-rewards/DOMAI_GROUP_ECONOMY.md) and [current calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md).

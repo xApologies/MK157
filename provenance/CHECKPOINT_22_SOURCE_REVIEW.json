@@ -1,0 +1,16 @@
+{
+  "source_files": 16,
+  "all_files_read": true,
+  "csv_json_equivalent_after_type_normalization": true,
+  "json_numeric_representation": "strings; retained exactly as supplied",
+  "inventory_mismatches": [
+    {
+      "path": "MANIFEST.json",
+      "listed_bytes": 630,
+      "actual_bytes": 678,
+      "listed_sha256": "a12adaa6140e23012178cdb417d46eb33597b3325cf1f8f35878fae0aa244de4",
+      "actual_sha256": "c203d01bb3059f73fe33df4893bd6b3a42a7ce841be11dfd17696b75a8f5eab3"
+    }
+  ],
+  "resolution": "Preserve all ZIP members byte-for-byte. Use actual uploaded bytes for integration hashes. MANIFEST lists all 16 supplied members; its inventory entry predates its final file-list update."
+}

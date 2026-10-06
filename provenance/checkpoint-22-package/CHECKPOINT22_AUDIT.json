@@ -1,0 +1,56 @@
+{
+  "checkpoint": 22,
+  "git_crawl": {
+    "repository": "xApologies/MK157",
+    "observed_head": "47c412e2e25acaf0bbaf5341e270e52b49d00009",
+    "observed_head_message": "Checkpoint 21 \u2014 Integrate Checkpoint 21 Arc Four Yellow live model",
+    "cp21a_seen_on_remote": false
+  },
+  "existing_canon_confirmed": {
+    "project_princess_carry": true,
+    "black_growth_competency_discovery_integration": true,
+    "orb_blender_trial_breaking": true,
+    "builder_paths_count": 200,
+    "builder_parties_palette": true,
+    "illi_coherence_prime_date": "Green W6 D2",
+    "illi_coherence_prime_cost": 9350
+  },
+  "yellow_calendar": {
+    "rows": 49,
+    "shared_W18_duo": 6,
+    "kira_W18_solo": 1,
+    "orange_dungeon_clears": 17,
+    "yellow_dungeon_attempts": 4,
+    "kira_yellow_clears": 3,
+    "illi_yellow_clears": 2,
+    "normal_raid_outings": 3,
+    "hard_raid_outings": 1,
+    "successful_domai_events": 1,
+    "first_builder_party": "Y5D5",
+    "genesis_orbs": "Y6D2",
+    "arc4_close": "Y6D3",
+    "arc5_open": "Y6D4"
+  },
+  "fixed_income_excluding_domai": {
+    "full_yellow_illi": 71280,
+    "full_yellow_kira": 80140,
+    "arc4_through_Y6D3_illi": 58170,
+    "arc4_through_Y6D3_kira": 67030
+  },
+  "arc5": {
+    "close": "Green W6 D2 \u2014 Coherence Prime Red",
+    "coherence_prime_cost": 9350,
+    "kira_blue_solo_milestone": "W19 clear / W20 reached, date OPEN",
+    "duo": "W18 clear / W19 fail",
+    "trio": "not meaningfully pursued",
+    "green_dungeon": "credible attempts; first clear date OPEN"
+  },
+  "protected": [
+    "fixed reward tables",
+    "registry counts",
+    "Project Princess Carry",
+    "Halo early Blue",
+    "Domain late Violet"
+  ],
+  "status": "PASS \u2014 cumulative package; reconcile against newest origin/main at execution time"
+}

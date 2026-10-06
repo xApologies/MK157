@@ -64,4 +64,10 @@ Preserve illi's full 17-event projected calendar through Resonance Prime, includ
 
 Preserve Kira Halo Early Blue and Domain Late Violet seasonal scaffold.
 
-Two Yellow clears at Y5D3 follow Kira’s independent Y4D2 first clear. Exact calendar gross is 64,725; this does not establish solvency or alter the 17-event ledger. See [calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md).
+Two Yellow clears at Y5D3 follow Kira’s independent Y4D2 first clear. Checkpoint 21’s historical gross was 64,725. The current Checkpoint 22 calendar revises Arc Four gross to 58,170 and full Yellow gross to 71,280; neither establishes solvency or alters the 17-event ledger. See [current calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md).
+
+## Checkpoint 22 — Arc Five opening and Coherence Prime motivation
+
+Arc Five is **Y6D4→G6D2**. illi opens with **Persistent Coherence Blue, Absorption Shield Red, Genesis Beam Green, Genesis Prime Elemental Red**. PC already exceeds the Green Coherence Prime gate; no intermediate PC purchase is required and no Genesis Prime rank dates are invented. G6D2 **Coherence Prime Red costs 9,350**, unchanged with every other entry in the 17-event ledger.
+
+Harder Dungeons/Raids distribute injuries across the group, exposing her fatigue limit across PC, Absorption, Beam and emergency reserve. Poor positioning/execution can create excessive healing demand; it is not automatically the healer’s fault. Coherence Prime supplies a second specialized restorative actor and distributes sustain burden. The need is meaningful without forcing an early purchase. Cards, clothing, social life and a WORKING Tiara Fund idea remain legitimate choices; savings percentage and exact Solo standing stay OPEN. [Roadmap](../world-clock/ARC5_HANDOFF.md).

@@ -1,6 +1,6 @@
 {
-  "checkpoint": 21,
-  "status": "LOCKED Y1D3–Y6D3 combat scaffold; exact Orb day and social overlay OPEN",
+  "checkpoint": 22,
+  "status": "LOCKED full Yellow director calendar and Y6D2 Orbs; unsupplied social/technical dates OPEN",
   "arc_clock": "illi Binding progression; Kira acquisitions may fall inside arcs",
   "arc_closures": {
     "1": [
@@ -17,6 +17,9 @@
     ],
     "4": [
       "illi Genesis Prime Elemental Red at Yellow W6 D3"
+    ],
+    "5": [
+      "illi Coherence Prime Elemental Red at Green W6 D2"
     ]
   },
   "kira_card": {
@@ -32,8 +35,8 @@
   "kira_orbs": {
     "price": 61017,
     "arc": 4,
-    "date": null,
-    "date_status": "Late Yellow inside Arc Four; exact day OPEN",
+    "date": "Y6D2",
+    "date_status": "LOCKED exact day; acquisition is not mastery",
     "excluded_date": "Yellow W1 D2",
     "arc_three_endpoint_purchase": false,
     "fund_rebuilt_after_card": true,
@@ -91,7 +94,7 @@
     "competent_group": true,
     "eligibility_rules_preserved": true
   },
-  "new_daily_combat_schedule": "ARC4_YELLOW_COMBAT_CALENDAR.json",
+  "new_daily_combat_schedule": "YELLOW_DIRECTOR_CALENDAR.json",
   "preserved_orange_gross": {
     "illi": 58885,
     "kira": 83915
@@ -112,7 +115,7 @@
   },
   "foundation_patent_royalty_rules": "Direction only; statutes, rates, terms and investment regulation OPEN",
   "domai_payout": "OPEN BY DESIGN",
-  "source": "../provenance/checkpoint-21-package/CHECKPOINT21_LIVE_MODEL_DELTA.md",
+  "source": "../provenance/checkpoint-22-package/CHECKPOINT22_LIVE_MODEL_DELTA.md",
   "kira_black_scaffold": {
     "Armor of the Abyss": "Entry/Red",
     "CSR": "Early Orange",
@@ -121,9 +124,22 @@
     "Domain": "Late Violet"
   },
   "yellow_deterministic_gross": {
-    "illi": 64725,
-    "kira": 73585
+    "illi": 71280,
+    "kira": 80140
   },
   "yellow_personal_elimination_day": null,
-  "hard_raid_date_policy": "Y6D1; if a later personal Yellow raeon bracket conflicts, move the event within available Arc Four space, preserving outcome and payout."
+  "hard_raid_date_policy": "Y6D1 remains locked and pre-Orb. The Y7D1–D3 personal tournament block does not conflict. If a later explicit personal bracket date conflicts, move the event within available Arc Four space, preserving outcome and payout.",
+  "arc4_deterministic_gross": {
+    "illi": 58170,
+    "kira": 67030
+  },
+  "arc5_open": "Y6D4",
+  "first_builder_invitation": "Y5D3",
+  "first_builder_party": "Y5D5",
+  "yellow_personal_tournament_block": [
+    "Y7D1",
+    "Y7D2",
+    "Y7D3"
+  ],
+  "yellow_personal_run_ends_by": "Y7D3"
 }

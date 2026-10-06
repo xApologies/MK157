@@ -1,0 +1,79 @@
+{
+  "checkpoint": 22,
+  "status": "LOCKED boundaries and direction; unsupplied milestone days OPEN",
+  "start": "Y6D4",
+  "close": {
+    "date": "G6D2",
+    "purchase": "Coherence Prime Elemental Red",
+    "cost": 9350
+  },
+  "kira_opening": [
+    "Armor of the Abyss",
+    "CSR",
+    "Genesis Orbs acquired Y6D2; almost unmastered"
+  ],
+  "illi_opening": {
+    "Persistent Coherence": "Blue",
+    "Absorption Shield": "Red",
+    "Genesis Beam": "Green",
+    "Genesis Prime Elemental": "Red"
+  },
+  "new_persistent_coherence_purchase_required": false,
+  "genesis_prime_rank_dates": null,
+  "kira_solo": {
+    "cleared_wave": 19,
+    "reached_wave": 20,
+    "first_blue_clear_date": null,
+    "w20_failure_depth": null,
+    "condition": "After one-Orb mini-blender competency; not deep-Blue farming"
+  },
+  "duo": {
+    "cleared_wave": 18,
+    "failed_wave": 19
+  },
+  "meaningful_trio_push": false,
+  "trio_partner": null,
+  "green_dungeon": {
+    "direction": "Attempts become credible with capable peers",
+    "first_attempt_date": null,
+    "first_clear_date": null
+  },
+  "one_orb_stage": {
+    "orbs": 1,
+    "working_radius_feet": 11,
+    "radius_status": "WORKING practical stage, not intrinsic range cap",
+    "speed": "Moderate; exact velocity OPEN",
+    "stability": "Semi-stable; hit/distraction/overload can disrupt",
+    "effect": "Displacement/knockback and damage, not mature annihilation",
+    "translates_with_csr": true
+  },
+  "mastery": {
+    "ordinary_paid_rank_ladder": false,
+    "defined_mastery_ceiling": null,
+    "intrinsic_orb_range_cutoff": null,
+    "late_integrated_system_unlocked_in_arc5": false
+  },
+  "coherence_prime_motivation": "Distributed party damage/healer fatigue; second specialized restorative actor distributes sustain burden",
+  "social_direction": "Social launch/decompression; Elara burnout warning, illi social leadership, Dungeon friendships and Builder parties",
+  "demographics": {
+    "status": "WORKING author distribution, not eligibility/biology law",
+    "center": [
+      20,
+      40
+    ],
+    "ordinary_envelope": [
+      17,
+      45
+    ],
+    "older_outliers": "Including 50s/60s",
+    "exact_longevity_physiology": null
+  },
+  "tiara_fund": {
+    "status": "WORKING character idea",
+    "savings_percentage": null
+  },
+  "future_halo": "Early Blue; exact day OPEN",
+  "future_domain": "Late Violet; exact day OPEN",
+  "project_princess_carry": "Preserve later cycle/White direction; not advanced into Arc Five",
+  "source": "../provenance/checkpoint-22-package/ARC5_HANDOFF_ROADMAP.md"
+}

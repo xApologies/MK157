@@ -1,6 +1,6 @@
 # MK157 — Economy and purchase-schedule handoff
 
-Current authority: Checkpoint 21, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
+Current authority: Checkpoint 22, cumulative with earlier non-conflicting rules. The 17 illi milestones, their exact progression-cost ledger and W1–35 reward rows are locked; remaining purchase dates and the full income/spending ledger remain OPEN.
 
 ## Kira Black acquisition economics — current
 
@@ -213,7 +213,7 @@ Kira's CSR mobility + Armor + illi prevention increase Duo depth and credit gene
 Absorption remains economically valuable, but the locked Checkpoint 14 schedule intentionally defers its ranks until after late-Green Coherence Prime; prerequisite availability does not force immediate purchase.
 
 Phase III — Kira CARRIES after Orb blender maturation:
-Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
+Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery.
 One-Orb crude/orbit use develops toward two-Orb patterned control.
 Around mid-Green, mature two-Orb blender is the major economic inversion.
 Most incoming eldris are destroyed before reaching the center; attacks that penetrate Orb exclusion meet illi Absorption, then Armor.
@@ -253,11 +253,11 @@ The World Clock + character + economy calendar is ready for authored content pla
 
 The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. The former 61,017 Orb-reserve / 22,898-headroom calculation is CP19 planning history. CP20 closes Arc Three with the 86,000-credit Blue Fireball card and defers Orbs into Arc Four; actual funding/balance remains OPEN. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability.
 
-Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. Checkpoint 20 makes illi Beam Red plus the Blue Fireball card the Arc Three close; Genesis Orbs occur inside Arc Four at an OPEN date, not Y1D2. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18.
+Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. Checkpoint 20 makes illi Beam Red plus the Blue Fireball card the Arc Three close; Genesis Orbs occur inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18.
 
 ## Checkpoint 20 — corrected arc clock and Arc Four handoff
 
-illi's Binding progression is the primary arc clock. Arc 1 closes PC Red/Armor; Arc 2 closes White Legacy + Absorption Red/CSR. **Arc Three closes with illi Beam Red at Y1D2 and Kira's specific 86,000-credit Blue Fireball Genesis Card.** Genesis Orbs remain **61,017**, acquired **inside Arc Four** at an **OPEN date, not Y1D2**. Arc Four closes structurally at **Genesis Prime Red Y6D3**. The old Orb endpoint reserve and after-Orbs Arc Four framing are superseded; existing Orange combat rows remain.
+illi's Binding progression is the primary arc clock. Arc 1 closes PC Red/Armor; Arc 2 closes White Legacy + Absorption Red/CSR. **Arc Three closes with illi Beam Red at Y1D2 and Kira's specific 86,000-credit Blue Fireball Genesis Card.** Genesis Orbs remain **61,017**, acquired **inside Arc Four at Y6D2** under Checkpoint 22, **not Y1D2**. Arc Four closes structurally at **Genesis Prime Red Y6D3**. The old Orb endpoint reserve and after-Orbs Arc Four framing are superseded; existing Orange combat rows remain.
 
 After Beam Red's 6,050 is already paid, unchanged illi milestones are **Y2D4 Beam Orange 9,680; Y3D5 Beam Yellow 17,424; Y5D2 Beam Green 36,590; Y6D3 Genesis Prime Red 9,350**. Beam ranks total **63,694**, and Arc Four totals **73,044**. All 17 dates/costs remain; affordability does not force earlier purchase.
 
@@ -269,7 +269,7 @@ Cards/decks and Genesis Cards remain the primary discretionary sinks; serious Au
 
 Foundations may manage donations/endowments and mathematics research, own/license protected mathematical/sigil implementations and earn/reinvest royalties. The woman/foundation retains independent productive capital through marriage; exact legal/IP/royalty/investment mechanisms remain OPEN. Valnak gifts/transfers may fund civic/social consumption including residences/cards; **Binding/rank/combat progression and indirect shortcuts are prohibited**. UI/limits/enforcement/anti-circumvention remain OPEN. [Full conceptual doctrine](SOCIAL_LIFE_AND_FOUNDATIONS.md) supplies no actual sponsor, gift or payout for Kira's card.
 
-## Checkpoint 21 — Yellow gross and discretionary economy
+## Checkpoint 21 — Yellow gross and discretionary economy (historical totals; superseded by Checkpoint 22)
 
 The combat calendar is NOT constrained to stop once Binding progression is funded.
 Baseline progression income can be exceeded naturally through additional Trials/Dungeons/Raids.
@@ -302,4 +302,12 @@ Exact deterministic gross from this scaffold:
 These are gross combat earnings, not final bank balances. Failed-Dungeon partial-progress credits, card spending, prior carry-in and any future contextual income remain OPEN.
 From a zero carry-in hypothetical only, illi would be 8,319 short of the 73,044 progression spend; this is NOT a canonical deficit because her carry-in/card cashflow is intentionally unresolved. Kira's scaffold gross exceeds the 61,017 Orb price before discretionary spending.
 
-Kira’s zero-carry-in illustration is 73,585 − 61,017 = 12,568 before cards/life spending, not an ending balance. No gift, domai amount, extra paid row or altered reward is invented to balance the model. Checkpoint 21 restores Genesis Orbs to **Late Yellow inside Arc Four**, exact acquisition day OPEN and not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery. [Calendar and audit](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md).
+Kira’s zero-carry-in illustration is 73,585 − 61,017 = 12,568 before cards/life spending, not an ending balance. No gift, domai amount, extra paid row or altered reward is invented to balance the model. Checkpoint 22 fixes Genesis Orbs at **Y6D2, Late Yellow inside Arc Four**, not Y1D2; Halo remains **Early Blue**, Domain **Late Violet**. Acquisition is not mastery. [Calendar and audit](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md).
+
+## Checkpoint 22 — current Yellow accounting and spending scope
+
+The [49-day director calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md) supersedes CP21’s Y5D5 Trial with the first Builder party. **Arc Four Y1D3–Y6D3 gross is 58,170 illi / 67,030 Kira**. Two added Y6D5/Y6D6 Duos bring **full Yellow gross to 71,280 illi / 80,140 Kira**, excluding Y7D4 domai and failed-Dungeon partial awards. CP21’s 64,725/73,585 and 8,319/12,568 zero-carry illustrations are historical, not current balances. Full funding, opening cash, cards/life spending and domai amounts remain OPEN; no invented liquidity closes a gap.
+
+**Orbs Y6D2 cost 61,017**. Arc Four still costs illi 73,044 after Beam Red; Arc Five’s next locked purchase is G6D2 Coherence Prime Red **9,350**, with no PC prerequisite purchase or invented Genesis Prime upgrades. Affordability never forces earlier purchase. The 86,000 Blue Fireball card remains the sole specific locked card price here.
+
+[domai group economy](../combat-rewards/DOMAI_GROUP_ECONOMY.md) assigns contextual group award → equal eligible base shares → individual death deductions. Award received before the later social purchase is revealed; exact Y7D4 amount and bonus layer stay OPEN. “Elastic Economic Actuator” is author-only shorthand. WORKING premium dresses ~23,000 each/two per girl are a specific wardrobe idea, not booked expenses or a general apparel table. Exact Tiara Fund percentage and card prices remain OPEN. Training Yard starts award no Trial credits; ordinary W1 runs preserve the reward table.

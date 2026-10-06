@@ -47,3 +47,5 @@ economy/*.csv whitespace=cr-at-eol
 provenance/checkpoint-20-package/*.csv whitespace=cr-at-eol
 
 provenance/checkpoint-21-package/*.csv whitespace=cr-at-eol
+
+provenance/checkpoint-22-package/*.csv whitespace=cr-at-eol

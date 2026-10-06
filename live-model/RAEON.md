@@ -226,3 +226,7 @@ The raeon flagship remains distinct from the Genesis Card flagship. New-cycle de
 ## Checkpoint 21 — Yellow personal availability
 
 Y5D1 is qualification, Y5D6 protected tournament availability. Exact Yellow personal elimination remains OPEN; do not copy Orange’s elimination date. Standing W6 progression persists. If a later personal bracket date conflicts with the Y6D1 Hard Raid, relocate that Raid within available Arc Four space while preserving Hard Red clear/Hard Orange failure. No such conflict is established yet.
+
+## Checkpoint 22 — Yellow personal block refined
+
+The personal Yellow block is **Y7D1–D3**, ending by D3; Kira/illi have no Y7D5 championship obligation. They remain comparatively mediocre at raeon relative to combat. Exact match-by-match results and the precise elimination day within this block remain OPEN. Y5D1 qualification/Y5D6 availability and standing world W6/W7 progression remain. Y6D1 Hard Raid stays pre-Orb with no conflict from this supplied block; Auction W7D5–D7 overlaps the world championship as before.

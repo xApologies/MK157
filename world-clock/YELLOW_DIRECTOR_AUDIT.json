@@ -1,0 +1,1066 @@
+{
+  "checkpoint": 22,
+  "scope": "Current full Yellow director calendar and Arc Five direction",
+  "result": "PASS",
+  "errors": [],
+  "baseline_commit": "47c412e2e25acaf0bbaf5341e270e52b49d00009",
+  "calendar_rows": 49,
+  "counts": {
+    "noncombat_rows": 29,
+    "shared_W18_duo": 6,
+    "orange_clears": 17,
+    "orange_sessions": 5,
+    "kira_W18_solo": 1,
+    "yellow_attempts": 4,
+    "yellow_failures": 1,
+    "normal_raid_outings": 3,
+    "kira_yellow_clears": 3,
+    "illi_yellow_clears": 2,
+    "hard_raid_outings": 1,
+    "successful_domai_events": 1
+  },
+  "shared_duo_dates": [
+    "Y1D3",
+    "Y2D2",
+    "Y3D3",
+    "Y4D4",
+    "Y6D5",
+    "Y6D6"
+  ],
+  "fixed_full_yellow_income_excluding_domai": {
+    "illi": 71280,
+    "kira": 80140
+  },
+  "revised_arc4_income_through_Y6D3": {
+    "illi": 58170,
+    "kira": 67030
+  },
+  "daily_fixed_gross": [
+    {
+      "date": "Y1D1",
+      "event": "Season transition",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 0,
+        "kira": 0
+      }
+    },
+    {
+      "date": "Y1D2",
+      "event": "Arc Three close / Arc Four boundary",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 0,
+        "kira": 0
+      }
+    },
+    {
+      "date": "Y1D3",
+      "event": "Shared Duo Trial",
+      "illi": 6555,
+      "kira": 6555,
+      "cumulative_fixed_gross": {
+        "illi": 6555,
+        "kira": 6555
+      }
+    },
+    {
+      "date": "Y1D4",
+      "event": "Recovery / open",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 6555,
+        "kira": 6555
+      }
+    },
+    {
+      "date": "Y1D5",
+      "event": "Orange Dungeon session",
+      "illi": 3060,
+      "kira": 3060,
+      "cumulative_fixed_gross": {
+        "illi": 9615,
+        "kira": 9615
+      }
+    },
+    {
+      "date": "Y1D6",
+      "event": "Kira Solo Trial",
+      "illi": 0,
+      "kira": 6555,
+      "cumulative_fixed_gross": {
+        "illi": 9615,
+        "kira": 16170
+      }
+    },
+    {
+      "date": "Y1D7",
+      "event": "Recovery / open",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 9615,
+        "kira": 16170
+      }
+    },
+    {
+      "date": "Y2D1",
+      "event": "Orange Dungeon session",
+      "illi": 4080,
+      "kira": 4080,
+      "cumulative_fixed_gross": {
+        "illi": 13695,
+        "kira": 20250
+      }
+    },
+    {
+      "date": "Y2D2",
+      "event": "Shared Duo Trial",
+      "illi": 6555,
+      "kira": 6555,
+      "cumulative_fixed_gross": {
+        "illi": 20250,
+        "kira": 26805
+      }
+    },
+    {
+      "date": "Y2D3",
+      "event": "Recovery / open",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 20250,
+        "kira": 26805
+      }
+    },
+    {
+      "date": "Y2D4",
+      "event": "illi progression purchase",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 20250,
+        "kira": 26805
+      }
+    },
+    {
+      "date": "Y2D5",
+      "event": "Yellow Dungeon push",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 20250,
+        "kira": 26805
+      }
+    },
+    {
+      "date": "Y2D6",
+      "event": "Orange Dungeon session",
+      "illi": 3060,
+      "kira": 3060,
+      "cumulative_fixed_gross": {
+        "illi": 23310,
+        "kira": 29865
+      }
+    },
+    {
+      "date": "Y2D7",
+      "event": "Open",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 23310,
+        "kira": 29865
+      }
+    },
+    {
+      "date": "Y3D1",
+      "event": "Normal Raid attempt",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 23310,
+        "kira": 29865
+      }
+    },
+    {
+      "date": "Y3D2",
+      "event": "Recovery / open",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 23310,
+        "kira": 29865
+      }
+    },
+    {
+      "date": "Y3D3",
+      "event": "Shared Duo Trial",
+      "illi": 6555,
+      "kira": 6555,
+      "cumulative_fixed_gross": {
+        "illi": 29865,
+        "kira": 36420
+      }
+    },
+    {
+      "date": "Y3D4",
+      "event": "Recovery / open",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 29865,
+        "kira": 36420
+      }
+    },
+    {
+      "date": "Y3D5",
+      "event": "illi progression purchase",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 29865,
+        "kira": 36420
+      }
+    },
+    {
+      "date": "Y3D6",
+      "event": "Normal Raid attempt",
+      "illi": 2500,
+      "kira": 2500,
+      "cumulative_fixed_gross": {
+        "illi": 32365,
+        "kira": 38920
+      }
+    },
+    {
+      "date": "Y3D7",
+      "event": "Recovery / open",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 32365,
+        "kira": 38920
+      }
+    },
+    {
+      "date": "Y4D1",
+      "event": "Orange Dungeon session",
+      "illi": 3060,
+      "kira": 3060,
+      "cumulative_fixed_gross": {
+        "illi": 35425,
+        "kira": 41980
+      }
+    },
+    {
+      "date": "Y4D2",
+      "event": "Yellow Dungeon — Kira independent",
+      "illi": 0,
+      "kira": 2305,
+      "cumulative_fixed_gross": {
+        "illi": 35425,
+        "kira": 44285
+      }
+    },
+    {
+      "date": "Y4D3",
+      "event": "Recovery / social beat",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 35425,
+        "kira": 44285
+      }
+    },
+    {
+      "date": "Y4D4",
+      "event": "Shared Duo Trial",
+      "illi": 6555,
+      "kira": 6555,
+      "cumulative_fixed_gross": {
+        "illi": 41980,
+        "kira": 50840
+      }
+    },
+    {
+      "date": "Y4D5",
+      "event": "Recovery / open",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 41980,
+        "kira": 50840
+      }
+    },
+    {
+      "date": "Y4D6",
+      "event": "Normal Raid attempt",
+      "illi": 3750,
+      "kira": 3750,
+      "cumulative_fixed_gross": {
+        "illi": 45730,
+        "kira": 54590
+      }
+    },
+    {
+      "date": "Y4D7",
+      "event": "Open",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 45730,
+        "kira": 54590
+      }
+    },
+    {
+      "date": "Y5D1",
+      "event": "raeon tournament",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 45730,
+        "kira": 54590
+      }
+    },
+    {
+      "date": "Y5D2",
+      "event": "illi progression purchase",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 45730,
+        "kira": 54590
+      }
+    },
+    {
+      "date": "Y5D3",
+      "event": "Progression-cohort Yellow farm",
+      "illi": 4610,
+      "kira": 4610,
+      "cumulative_fixed_gross": {
+        "illi": 50340,
+        "kira": 59200
+      }
+    },
+    {
+      "date": "Y5D4",
+      "event": "Recovery / open",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 50340,
+        "kira": 59200
+      }
+    },
+    {
+      "date": "Y5D5",
+      "event": "First Builder party",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 50340,
+        "kira": 59200
+      }
+    },
+    {
+      "date": "Y5D6",
+      "event": "raeon tournament window",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 50340,
+        "kira": 59200
+      }
+    },
+    {
+      "date": "Y5D7",
+      "event": "Orange Dungeon session",
+      "illi": 4080,
+      "kira": 4080,
+      "cumulative_fixed_gross": {
+        "illi": 54420,
+        "kira": 63280
+      }
+    },
+    {
+      "date": "Y6D1",
+      "event": "Hard Raid attempt",
+      "illi": 3750,
+      "kira": 3750,
+      "cumulative_fixed_gross": {
+        "illi": 58170,
+        "kira": 67030
+      }
+    },
+    {
+      "date": "Y6D2",
+      "event": "Kira Black acquisition — Genesis Orbs",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 58170,
+        "kira": 67030
+      }
+    },
+    {
+      "date": "Y6D3",
+      "event": "Arc Four endpoint",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 58170,
+        "kira": 67030
+      }
+    },
+    {
+      "date": "Y6D4",
+      "event": "Arc Five opening",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 58170,
+        "kira": 67030
+      }
+    },
+    {
+      "date": "Y6D5",
+      "event": "Shared Duo Trial",
+      "illi": 6555,
+      "kira": 6555,
+      "cumulative_fixed_gross": {
+        "illi": 64725,
+        "kira": 73585
+      }
+    },
+    {
+      "date": "Y6D6",
+      "event": "Shared Duo Trial",
+      "illi": 6555,
+      "kira": 6555,
+      "cumulative_fixed_gross": {
+        "illi": 71280,
+        "kira": 80140
+      }
+    },
+    {
+      "date": "Y6D7",
+      "event": "Recovery",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 71280,
+        "kira": 80140
+      }
+    },
+    {
+      "date": "Y7D1",
+      "event": "raeon tournament",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 71280,
+        "kira": 80140
+      }
+    },
+    {
+      "date": "Y7D2",
+      "event": "raeon tournament",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 71280,
+        "kira": 80140
+      }
+    },
+    {
+      "date": "Y7D3",
+      "event": "raeon tournament",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 71280,
+        "kira": 80140
+      }
+    },
+    {
+      "date": "Y7D4",
+      "event": "domai excursion",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 71280,
+        "kira": 80140
+      }
+    },
+    {
+      "date": "Y7D5",
+      "event": "Yellow seasonal Auction Day 1",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 71280,
+        "kira": 80140
+      }
+    },
+    {
+      "date": "Y7D6",
+      "event": "Yellow seasonal Auction Day 2",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 71280,
+        "kira": 80140
+      }
+    },
+    {
+      "date": "Y7D7",
+      "event": "Yellow seasonal Auction Day 3",
+      "illi": 0,
+      "kira": 0,
+      "cumulative_fixed_gross": {
+        "illi": 71280,
+        "kira": 80140
+      }
+    }
+  ],
+  "income_by_event": {
+    "Season transition": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Arc Three close / Arc Four boundary": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Shared Duo Trial": {
+      "illi": 39330,
+      "kira": 39330
+    },
+    "Recovery / open": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Orange Dungeon session": {
+      "illi": 17340,
+      "kira": 17340
+    },
+    "Kira Solo Trial": {
+      "illi": 0,
+      "kira": 6555
+    },
+    "illi progression purchase": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Yellow Dungeon push": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Open": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Normal Raid attempt": {
+      "illi": 6250,
+      "kira": 6250
+    },
+    "Yellow Dungeon — Kira independent": {
+      "illi": 0,
+      "kira": 2305
+    },
+    "Recovery / social beat": {
+      "illi": 0,
+      "kira": 0
+    },
+    "raeon tournament": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Progression-cohort Yellow farm": {
+      "illi": 4610,
+      "kira": 4610
+    },
+    "First Builder party": {
+      "illi": 0,
+      "kira": 0
+    },
+    "raeon tournament window": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Hard Raid attempt": {
+      "illi": 3750,
+      "kira": 3750
+    },
+    "Kira Black acquisition — Genesis Orbs": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Arc Four endpoint": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Arc Five opening": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Recovery": {
+      "illi": 0,
+      "kira": 0
+    },
+    "domai excursion": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Yellow seasonal Auction Day 1": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Yellow seasonal Auction Day 2": {
+      "illi": 0,
+      "kira": 0
+    },
+    "Yellow seasonal Auction Day 3": {
+      "illi": 0,
+      "kira": 0
+    }
+  },
+  "raid_bookings": [
+    {
+      "date": "Y3D1",
+      "mode": "normal",
+      "cleared": [],
+      "failed": [
+        "Red"
+      ]
+    },
+    {
+      "date": "Y3D6",
+      "mode": "normal",
+      "cleared": [
+        {
+          "boss": "Red",
+          "credits_each": 2500
+        }
+      ],
+      "failed": [
+        "Orange"
+      ]
+    },
+    {
+      "date": "Y4D6",
+      "mode": "normal",
+      "cleared": [
+        {
+          "boss": "Red",
+          "credits_each": 0
+        },
+        {
+          "boss": "Orange",
+          "credits_each": 3750
+        }
+      ],
+      "failed": []
+    },
+    {
+      "date": "Y6D1",
+      "mode": "hard",
+      "cleared": [
+        {
+          "boss": "Red",
+          "credits_each": 3750
+        }
+      ],
+      "failed": [
+        "Orange"
+      ]
+    }
+  ],
+  "changed_cp21_dates": [
+    "Y5D3",
+    "Y5D5",
+    "Y6D2",
+    "Y6D3"
+  ],
+  "gross_is_not_balance": true,
+  "exact_orbs": "Y6D2",
+  "arc4_close": "Y6D3",
+  "arc5_open": "Y6D4",
+  "arc5_close": "G6D2 Coherence Prime Red, 9350",
+  "personal_raeon_block": "Y7D1–D3; run ends by D3; exact matches/elimination OPEN",
+  "domai_award": "Y7D4 successful; exact group award OPEN and excluded",
+  "registry_counts": {
+    "bindings": 1016,
+    "summons": 229,
+    "builder_paths": 200
+  },
+  "builder_role_counts": {
+    "Combat Medic": 30,
+    "Augmenter": 45,
+    "Maege": 65,
+    "Summoner": 60
+  },
+  "illi_events": 17,
+  "illi_total": 250884,
+  "project_princess_carry_section_byte_identical": true,
+  "open_blue_solo_date": null,
+  "open_green_dungeon_dates": null,
+  "source_inventory_exception": "Supplied MANIFEST inventory entry is stale; all 16 actual ZIP members archived exactly",
+  "protected_baseline_files": [
+    "bindings/AUDIT.json",
+    "bindings/BINDINGS.csv",
+    "bindings/BINDINGS.json",
+    "bindings/BINDINGS.jsonl",
+    "bindings/CANON_LOCKS.md",
+    "bindings/COMPENDIUM.md",
+    "bindings/PRICING_AUDIT.json",
+    "bindings/PRICING_CLASS_MATRIX.csv",
+    "bindings/PRICING_CLASS_MATRIX.json",
+    "bindings/PRICING_MODEL.md",
+    "bindings/README.md",
+    "builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv",
+    "builder/encounters/README.md",
+    "builder/encounters/eldris/AUDIT.json",
+    "builder/encounters/eldris/BASIN_REFERENCE.csv",
+    "builder/encounters/eldris/BUILDER_CONTRACT.md",
+    "builder/encounters/eldris/ELDRIS_ATOMIC_GROUPS.csv",
+    "builder/encounters/eldris/ELDRIS_ATOMIC_GROUPS.json",
+    "builder/encounters/eldris/MANIFEST.json",
+    "builder/encounters/eldris/README.md",
+    "builder/encounters/eldris/TIER_AVAILABILITY.json",
+    "builder/encounters/eldris/validate_library.py",
+    "builder/paths/AUDIT.json",
+    "builder/paths/CANON_GUARDRAILS.md",
+    "builder/paths/PATHS.csv",
+    "builder/paths/PATHS.json",
+    "builder/paths/PATHS.jsonl",
+    "builder/paths/PATH_CATALOG.md",
+    "builder/paths/PATH_SCHEMA.md",
+    "combat-rewards/AUDIT.json",
+    "combat-rewards/COMBAT_REWARD_TABLES.json",
+    "combat-rewards/DOMAI_PARTICIPATION_RULES.json",
+    "combat-rewards/DUNGEON_REWARDS.csv",
+    "combat-rewards/RAID_BOSS_REWARDS.csv",
+    "live-model/07_CHECKPOINT_02_ADDENDUM.md",
+    "live-model/08_CHECKPOINT_03_ADDENDUM.md",
+    "live-model/09_CHECKPOINT_04_ADDENDUM.md",
+    "live-model/10_CHECKPOINT_05_ADDENDUM.md",
+    "live-model/11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+    "live-model/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+    "live-model/14_CHECKPOINT_07B_FINAL_GAP_PATCH.md",
+    "live-model/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+    "live-model/16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md",
+    "live-model/17_CHECKPOINT_10_TRIAL_CALENDAR_DELTA.md",
+    "live-model/18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md",
+    "live-model/19_CHECKPOINT_12_COMPLETE_PRICING.md",
+    "live-model/20_CHECKPOINT_13_THREAD_DELTA.md",
+    "live-model/21_CHECKPOINT_14_FULL_RECONCILIATION.md",
+    "live-model/22_CHECKPOINT_15_ELDRIS_ATOMIC_GROUP_LIBRARY.md",
+    "live-model/23_CHECKPOINT_16_MASTER_LIVE_MODEL_UPDATE.md",
+    "live-model/24_CHECKPOINT_17_COMBAT_REWARD_ECONOMY.md",
+    "live-model/25_CHECKPOINT_18_MASTER_LIVE_MODEL.md",
+    "live-model/26_CHECKPOINT_19_ARC_THREE.md",
+    "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md",
+    "live-model/28_CHECKPOINT_21_ARC4_YELLOW.md",
+    "live-model/ELDRIS_REFERENCE.md",
+    "prior-checkpoint-source/EXECUTABLE.md",
+    "prior-checkpoint-source/LIVE_MODEL_01_CANON.md",
+    "prior-checkpoint-source/LIVE_MODEL_02_VALNAK.md",
+    "prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md",
+    "prior-checkpoint-source/OPEN_AND_PROVENANCE.md",
+    "provenance/AUDIT.md",
+    "provenance/CHECKPOINT_05_AUDIT.json",
+    "provenance/CHECKPOINT_06_AUDIT.json",
+    "provenance/CHECKPOINT_07B_AUDIT.json",
+    "provenance/CHECKPOINT_07_AUDIT.json",
+    "provenance/CHECKPOINT_08_AUDIT.json",
+    "provenance/CHECKPOINT_09_AUDIT.json",
+    "provenance/CHECKPOINT_09_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_10_AUDIT.json",
+    "provenance/CHECKPOINT_10_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_11_AUDIT.json",
+    "provenance/CHECKPOINT_11_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_12_AUDIT.json",
+    "provenance/CHECKPOINT_12_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_12_PRICING_DECISIONS.csv",
+    "provenance/CHECKPOINT_13_AUDIT.json",
+    "provenance/CHECKPOINT_13_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_13_REWARD_TABLE_QUARANTINE.md",
+    "provenance/CHECKPOINT_13_TERM_CHANGES.csv",
+    "provenance/CHECKPOINT_14_AUDIT.json",
+    "provenance/CHECKPOINT_14_BEFORE_REVIEW.json",
+    "provenance/CHECKPOINT_14_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_14_FAILED_CALENDAR_QUARANTINE.md",
+    "provenance/CHECKPOINT_14_REVERSE_DIFF.csv",
+    "provenance/CHECKPOINT_14_REVERSE_DIFF.md",
+    "provenance/CHECKPOINT_15_AUDIT.json",
+    "provenance/CHECKPOINT_15_CONFLICTS.md",
+    "provenance/CHECKPOINT_15_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_16_AUDIT.json",
+    "provenance/CHECKPOINT_16_BEFORE_REVIEW.json",
+    "provenance/CHECKPOINT_16_CONFLICTS.md",
+    "provenance/CHECKPOINT_16_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_16_REVERSE_DIFF.csv",
+    "provenance/CHECKPOINT_16_REVERSE_DIFF.md",
+    "provenance/CHECKPOINT_17_AUDIT.json",
+    "provenance/CHECKPOINT_17_BEFORE_REVIEW.json",
+    "provenance/CHECKPOINT_17_CONFLICTS.md",
+    "provenance/CHECKPOINT_17_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_17_REVERSE_DIFF.csv",
+    "provenance/CHECKPOINT_18_AUDIT.json",
+    "provenance/CHECKPOINT_18_BEFORE_REVIEW.json",
+    "provenance/CHECKPOINT_18_CONFLICTS.md",
+    "provenance/CHECKPOINT_18_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_18_MK147_REVIEW.json",
+    "provenance/CHECKPOINT_18_REPRICING.csv",
+    "provenance/CHECKPOINT_18_REVERSE_DIFF.csv",
+    "provenance/CHECKPOINT_19_AUDIT.json",
+    "provenance/CHECKPOINT_19_BEFORE_REVIEW.json",
+    "provenance/CHECKPOINT_19_CONFLICTS.md",
+    "provenance/CHECKPOINT_19_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_19_REVERSE_DIFF.csv",
+    "provenance/CHECKPOINT_20_AUDIT.json",
+    "provenance/CHECKPOINT_20_BEFORE_REVIEW.json",
+    "provenance/CHECKPOINT_20_BOUNDARY_SEARCH.json",
+    "provenance/CHECKPOINT_20_CONFLICTS.md",
+    "provenance/CHECKPOINT_20_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_20_REVERSE_DIFF.csv",
+    "provenance/CHECKPOINT_21_AUDIT.json",
+    "provenance/CHECKPOINT_21_BEFORE_REVIEW.json",
+    "provenance/CHECKPOINT_21_BOUNDARY_SEARCH.json",
+    "provenance/CHECKPOINT_21_CONFLICTS.md",
+    "provenance/CHECKPOINT_21_COVERAGE_MANIFEST.csv",
+    "provenance/CHECKPOINT_21_REVERSE_DIFF.csv",
+    "provenance/checkpoint-04-package/README.md",
+    "provenance/checkpoint-04-package/live-model/00_GOVERNANCE.md",
+    "provenance/checkpoint-04-package/live-model/01_KIRA.md",
+    "provenance/checkpoint-04-package/live-model/02_COSMOLOGY.md",
+    "provenance/checkpoint-04-package/live-model/03_VALNEK_PATHS.md",
+    "provenance/checkpoint-04-package/live-model/04_COMBAT_WORLD.md",
+    "provenance/checkpoint-04-package/live-model/05_VISUAL_CANON.md",
+    "provenance/checkpoint-04-package/live-model/06_OPEN_PROVENANCE.md",
+    "provenance/checkpoint-04-package/live-model/07_CHECKPOINT_02_ADDENDUM.md",
+    "provenance/checkpoint-04-package/live-model/08_CHECKPOINT_03_ADDENDUM.md",
+    "provenance/checkpoint-04-package/live-model/09_CHECKPOINT_04_ADDENDUM.md",
+    "provenance/checkpoint-05-package/EXECUTABLE.md",
+    "provenance/checkpoint-05-package/MANIFEST.json",
+    "provenance/checkpoint-05-package/PACKAGE_AUDIT.json",
+    "provenance/checkpoint-06-package/11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md",
+    "provenance/checkpoint-06-package/CLEAN_BUILD_PLAN.md",
+    "provenance/checkpoint-06-package/EXECUTABLE.md",
+    "provenance/checkpoint-06-package/MANIFEST.json",
+    "provenance/checkpoint-06-package/PACKAGE_AUDIT.json",
+    "provenance/checkpoint-07-package/13_CHECKPOINT_07_DEFINITIVE_THREAD_HANDOFF.md",
+    "provenance/checkpoint-07-package/EXECUTABLE.md",
+    "provenance/checkpoint-07-package/PACKAGE_AUDIT.json",
+    "provenance/checkpoint-07b-package/14_CHECKPOINT_07B_FINAL_GAP_PATCH.md",
+    "provenance/checkpoint-07b-package/EXECUTABLE.md",
+    "provenance/checkpoint-07b-package/PACKAGE_AUDIT.json",
+    "provenance/checkpoint-07b-package/THREAD_DEVELOPMENT_CONSTITUTION.md",
+    "provenance/checkpoint-08-package/15_CHECKPOINT_08_LIVE_MODEL_DELTA.md",
+    "provenance/checkpoint-08-package/BINDING_REGISTRY_DELTA.md",
+    "provenance/checkpoint-08-package/EXECUTABLE.md",
+    "provenance/checkpoint-08-package/LEXICAL_CONSTITUTION_PATCH.md",
+    "provenance/checkpoint-08-package/MANIFEST.json",
+    "provenance/checkpoint-08-package/PACKAGE_AUDIT.md",
+    "provenance/checkpoint-08-package/PRIME_ELEMENTAL_RECIPES.csv",
+    "provenance/checkpoint-08-package/PRIME_ELEMENTAL_TAXONOMY.csv",
+    "provenance/checkpoint-09-package/01_CREATOR_CRAFTSMAN_CONTINUITY.md",
+    "provenance/checkpoint-09-package/02_VALNAK_CITY_CULTURE_TRANSPORT.md",
+    "provenance/checkpoint-09-package/03_RAEON_FLAGSHIP_AND_TOURNAMENT.md",
+    "provenance/checkpoint-09-package/04_COMBAT_ECOLOGY.md",
+    "provenance/checkpoint-09-package/05_WORLD_CLOCK.md",
+    "provenance/checkpoint-09-package/06_PRISM_TRACKING_MODEL.md",
+    "provenance/checkpoint-09-package/07_STORY_CLOCK_STATE.md",
+    "provenance/checkpoint-09-package/08_SOURCE_BOUNDARIES.md",
+    "provenance/checkpoint-09-package/16_CHECKPOINT_09_WORLD_CLOCK_CONTINUATION.md",
+    "provenance/checkpoint-09-package/CITY_LOCATION_REGISTRY.csv",
+    "provenance/checkpoint-09-package/COVERAGE_MANIFEST.csv",
+    "provenance/checkpoint-09-package/EXECUTABLE.md",
+    "provenance/checkpoint-09-package/GIT_GAP_AUDIT.md",
+    "provenance/checkpoint-09-package/MANIFEST.json",
+    "provenance/checkpoint-09-package/PACKAGE_AUDIT.md",
+    "provenance/checkpoint-09-package/PRISM_TEAM_TRACKER.csv",
+    "provenance/checkpoint-09-package/README.md",
+    "provenance/checkpoint-09-package/WORLD_CLOCK_TEMPLATE.csv",
+    "provenance/checkpoint-09-package/upstream-snapshots/MK147_ELDRIS_DUNGEONS_DOMAI.md",
+    "provenance/checkpoint-09-package/upstream-snapshots/MK147_RAEON_EXCERPT.md",
+    "provenance/checkpoint-09-package/upstream-snapshots/MK147_STORMS_DOMAI.md",
+    "provenance/checkpoint-09-package/visual-references/VALNAK_CITY_MAP_001_RAEON_FLAGSHIP.png",
+    "provenance/checkpoint-09-package/visual-references/VALNAK_DUNGEON_DOMAI_BASE_MAP.jpeg",
+    "provenance/checkpoint-10-package/17_CHECKPOINT_10_TRIAL_CALENDAR_DELTA.md",
+    "provenance/checkpoint-10-package/COVERAGE_MANIFEST.csv",
+    "provenance/checkpoint-10-package/EXECUTABLE.md",
+    "provenance/checkpoint-10-package/MANIFEST.json",
+    "provenance/checkpoint-10-package/PLANETARY_CALENDAR_SOURCE_NOTE.md",
+    "provenance/checkpoint-10-package/README.md",
+    "provenance/checkpoint-10-package/visual-references/VALNAK_TRIAL_ARENA_3X3.png",
+    "provenance/checkpoint-11-package/18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md",
+    "provenance/checkpoint-11-package/COVERAGE_MANIFEST.csv",
+    "provenance/checkpoint-11-package/EXECUTABLE.md",
+    "provenance/checkpoint-11-package/MANIFEST.json",
+    "provenance/checkpoint-11-package/README.md",
+    "provenance/checkpoint-12-package/AUTHOR_DECISIONS.md",
+    "provenance/checkpoint-12-package/EXECUTABLE.md",
+    "provenance/checkpoint-12-package/MANIFEST.json",
+    "provenance/checkpoint-12-package/PRICING_POLICY.md",
+    "provenance/checkpoint-12-package/SEMANTIC_PRICING.ps1",
+    "provenance/checkpoint-12-package/VALIDATE_PRICING.ps1",
+    "provenance/checkpoint-13-package/EXECUTABLE.md",
+    "provenance/checkpoint-13-package/MANIFEST.json",
+    "provenance/checkpoint-13-package/THREAD_DELTA.md",
+    "provenance/checkpoint-14-package/EXECUTABLE.md",
+    "provenance/checkpoint-14-package/FULL_RECONCILIATION.md",
+    "provenance/checkpoint-14-package/ILLI_PROGRESSION_SKELETON.csv",
+    "provenance/checkpoint-14-package/ILLI_PROGRESSION_SKELETON.json",
+    "provenance/checkpoint-14-package/MANIFEST.json",
+    "provenance/checkpoint-14-package/REVERSE_DIFF_CHECKLIST.csv",
+    "provenance/checkpoint-14-package/TRIAL_WAVE_CREDITS.csv",
+    "provenance/checkpoint-14-package/TRIAL_WAVE_CREDITS.json",
+    "provenance/checkpoint-15-package/AUDIT.md",
+    "provenance/checkpoint-15-package/BASIN_REFERENCE.csv",
+    "provenance/checkpoint-15-package/BUILDER_CONTRACT.md",
+    "provenance/checkpoint-15-package/ELDRIS_ATOMIC_GROUPS.csv",
+    "provenance/checkpoint-15-package/ELDRIS_ATOMIC_GROUPS.json",
+    "provenance/checkpoint-15-package/EXECUTABLE.md",
+    "provenance/checkpoint-15-package/MANIFEST.json",
+    "provenance/checkpoint-15-package/README.md",
+    "provenance/checkpoint-15-package/TIER_AVAILABILITY.json",
+    "provenance/checkpoint-16-package/EXECUTABLE.md",
+    "provenance/checkpoint-16-package/ILLI_AUTHOR_PROGRESSION_LEDGER.csv",
+    "provenance/checkpoint-16-package/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+    "provenance/checkpoint-16-package/MANIFEST.json",
+    "provenance/checkpoint-16-package/MASTER_LIVE_MODEL_DELTA.md",
+    "provenance/checkpoint-16-package/MASTER_REVERSE_DIFF.csv",
+    "provenance/checkpoint-16-package/NORMAL_DUNGEON_AUTHOR_SCALE.csv",
+    "provenance/checkpoint-16-package/README.md",
+    "provenance/checkpoint-16-package/VERA_MASTER_AUDIT.json",
+    "provenance/checkpoint-17-package/COMBAT_REWARD_ECONOMY_DELTA.md",
+    "provenance/checkpoint-17-package/COMBAT_REWARD_TABLES.json",
+    "provenance/checkpoint-17-package/DUNGEON_REWARDS.csv",
+    "provenance/checkpoint-17-package/EXECUTABLE.md",
+    "provenance/checkpoint-17-package/MANIFEST.json",
+    "provenance/checkpoint-17-package/RAID_BOSS_REWARDS.csv",
+    "provenance/checkpoint-17-package/README.md",
+    "provenance/checkpoint-17-package/VERA_AUDIT.json",
+    "provenance/checkpoint-18-mk147/INCREMENT_001_AUTHORITY.md",
+    "provenance/checkpoint-18-mk147/INCREMENT_001_OPEN_QUESTIONS.md",
+    "provenance/checkpoint-18-mk147/INCREMENT_002_AUTHORITY.md",
+    "provenance/checkpoint-18-mk147/V2_CULTURE_CANON.md",
+    "provenance/checkpoint-18-mk147/VAELUM_AND_ACCORD.md",
+    "provenance/checkpoint-18-package/CALENDAR_AUDIT.json",
+    "provenance/checkpoint-18-package/EXECUTABLE.md",
+    "provenance/checkpoint-18-package/MANIFEST.json",
+    "provenance/checkpoint-18-package/MASTER_LIVE_MODEL_DELTA.md",
+    "provenance/checkpoint-18-package/MASTER_REVERSE_DIFF.csv",
+    "provenance/checkpoint-18-package/PRICING_CLASS_MATRIX.csv",
+    "provenance/checkpoint-18-package/PRICING_CLASS_MATRIX.json",
+    "provenance/checkpoint-18-package/README.md",
+    "provenance/checkpoint-18-package/RED_TO_ORANGE_COMBAT_CALENDAR.csv",
+    "provenance/checkpoint-18-package/RED_TO_ORANGE_COMBAT_CALENDAR.json",
+    "provenance/checkpoint-18-package/REWARD_RECALIBRATION.json",
+    "provenance/checkpoint-18-package/TRIAL_WAVE_CREDITS_RECALIBRATED.csv",
+    "provenance/checkpoint-18-package/VERA_MASTER_AUDIT.json",
+    "provenance/checkpoint-19-package/ARC3_ECONOMY_AUDIT.json",
+    "provenance/checkpoint-19-package/ARC3_FINAL_AUTHOR_LOCKS.md",
+    "provenance/checkpoint-19-package/ARC3_LIVE_MODEL_DELTA.md",
+    "provenance/checkpoint-19-package/ARC3_ORANGE_CALENDAR.csv",
+    "provenance/checkpoint-19-package/ARC3_ORANGE_CALENDAR.json",
+    "provenance/checkpoint-19-package/EXECUTABLE.md",
+    "provenance/checkpoint-19-package/FINAL_MANIFEST.json",
+    "provenance/checkpoint-19-package/README.md",
+    "provenance/checkpoint-20-package/CHECKPOINT20_DECISIONS.csv",
+    "provenance/checkpoint-20-package/CHECKPOINT20_LIVE_MODEL_DELTA.md",
+    "provenance/checkpoint-20-package/EXECUTABLE.md",
+    "provenance/checkpoint-20-package/MANIFEST.json",
+    "provenance/checkpoint-20-package/README.md",
+    "provenance/checkpoint-20-package/VERA_CHECKPOINT20_AUDIT.json",
+    "provenance/checkpoint-21-package/ARC4_YELLOW_AUDIT.json",
+    "provenance/checkpoint-21-package/ARC4_YELLOW_COMBAT_CALENDAR.csv",
+    "provenance/checkpoint-21-package/ARC4_YELLOW_COMBAT_CALENDAR.json",
+    "provenance/checkpoint-21-package/CHECKPOINT21_LIVE_MODEL_DELTA.md",
+    "provenance/checkpoint-21-package/CHECKPOINT21_REVERSE_DIFF.csv",
+    "provenance/checkpoint-21-package/ELDRIS_CANON_IMPORT.md",
+    "provenance/checkpoint-21-package/EXECUTABLE.md",
+    "provenance/checkpoint-21-package/MANIFEST.json",
+    "provenance/checkpoint-21-package/README.md",
+    "provenance/checkpoint-21-package/source/MK147_MASTER_ELDRIS_LRS.pdf",
+    "provenance/historical-root-handoffs/EXECUTABLE.md",
+    "provenance/historical-root-handoffs/EXECUTABLE_CHECKPOINT_01.md",
+    "provenance/historical-root-handoffs/EXECUTABLE_CHECKPOINT_02.md",
+    "provenance/historical-root-handoffs/EXECUTABLE_CHECKPOINT_03.md",
+    "provenance/historical-root-handoffs/FILE_INVENTORY.json",
+    "provenance/historical-root-handoffs/MANIFEST.json",
+    "provenance/historical-root-handoffs/MANIFEST_CHECKPOINT_02.json",
+    "provenance/historical-root-handoffs/MANIFEST_CHECKPOINT_03.json",
+    "provenance/historical-root-handoffs/MANIFEST_CHECKPOINT_04.json",
+    "provenance/pre-checkpoint-06/README.md",
+    "provenance/pre-checkpoint-06/live-model/00_GOVERNANCE.md",
+    "provenance/pre-checkpoint-06/live-model/01_KIRA.md",
+    "provenance/pre-checkpoint-06/live-model/02_COSMOLOGY.md",
+    "provenance/pre-checkpoint-06/live-model/03_VALNEK_PATHS.md",
+    "provenance/pre-checkpoint-06/live-model/04_COMBAT_WORLD.md",
+    "provenance/pre-checkpoint-06/live-model/05_VISUAL_CANON.md",
+    "provenance/pre-checkpoint-06/live-model/06_OPEN_PROVENANCE.md",
+    "provenance/pre-checkpoint-06/live-model/07_CHECKPOINT_02_ADDENDUM.md",
+    "provenance/pre-checkpoint-06/live-model/08_CHECKPOINT_03_ADDENDUM.md",
+    "provenance/pre-checkpoint-06/live-model/09_CHECKPOINT_04_ADDENDUM.md",
+    "provenance/pre-checkpoint-06/live-model/10_CHECKPOINT_05_ADDENDUM.md",
+    "provenance/pre-checkpoint-06/live-model/INDEX.md",
+    "provenance/pre-checkpoint-06/live-model/OPEN.md",
+    "provenance/pre-checkpoint-06/live-model/SUPERSESSIONS.md",
+    "provenance/pre-checkpoint-06/visual-references/INDEX.md",
+    "summons/AUDIT.json",
+    "summons/CATALOG.md",
+    "summons/ENTITY_SCHEMA.md",
+    "summons/ILLI_WHITE_LEGACY_GATES.json",
+    "summons/PRICING_AUDIT.json",
+    "summons/PRIME_ELEMENTAL_PRICING.csv",
+    "summons/PRIME_ELEMENTAL_PRICING.json",
+    "summons/PRIME_ELEMENTAL_RECIPES.csv",
+    "summons/PRIME_ELEMENTAL_RECIPES.json",
+    "summons/PRIME_ELEMENTAL_RECIPES.md",
+    "summons/PRIME_ELEMENTAL_TAXONOMY.csv",
+    "summons/README.md",
+    "summons/SUMMONED_ENTITIES.csv",
+    "summons/SUMMONED_ENTITIES.json",
+    "summons/SUMMONED_ENTITIES.jsonl",
+    "summons/SUMMON_PRICING.csv",
+    "summons/SUMMON_PRICING.json",
+    "summons/SUMMON_PRICING.jsonl",
+    "trial-rewards/README.md",
+    "trial-rewards/TRIAL_WAVE_CREDITS.csv",
+    "trial-rewards/TRIAL_WAVE_CREDITS.json",
+    "world-clock/ARC3_ORANGE_CALENDAR.csv",
+    "world-clock/ARC3_ORANGE_CALENDAR.json",
+    "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.csv",
+    "world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json",
+    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv",
+    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+    "world-clock/ILLI_PROGRESSION_SKELETON.csv",
+    "world-clock/ILLI_PROGRESSION_SKELETON.json",
+    "world-clock/PRISM_TEAM_TRACKER.csv",
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv",
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json",
+    "world-clock/WORLD_CLOCK_TEMPLATE.csv"
+  ],
+  "sha256": {
+    "world-clock/YELLOW_DIRECTOR_CALENDAR.csv": "2dd1d473bc26a627413555b2fa0f30b05cb5b263d4644e60fda27f5adcb4888e",
+    "world-clock/YELLOW_DIRECTOR_CALENDAR.json": "fc489b039e7662a67bf47837a95bf8c793ef493f278276ea64086b2dce130c1d",
+    "world-clock/ARC4_HANDOFF.json": "0e459f5558607438858e301a518c534aac5fcc78a2d286ea87794593a0f7a5ec",
+    "world-clock/ARC5_HANDOFF.json": "9b19330295e915c1886f482bc9c0204646db22ee572d007158bc8565772b94a5",
+    "combat-rewards/DOMAI_GROUP_ECONOMY.json": "2261342854c93431c6776556912c6a4f1afdc56d2805d3d7202a19a73efc302b",
+    "world-clock/validate_yellow_director.py": "ec9ba251d64e74f8d9f627e4bd1c5f4c77c73c9a11ee4f43527b9081c080739f",
+    "live-model/TRAINING_YARD.md": "49d0a894349de88d5c883f1f1194ac0eb693c4de0a878d2e11a2b4ccbee2e68d",
+    "builder/COMMUNITY.md": "6cb864e2987ab61942f5043909d7c2a8a4517c97b767b5db69b224d552ffeaaa",
+    "live-model/BLACK_SYSTEMS_MASTERY.md": "3e74d50c6547029223418d1be7ef5c2a905bb10ed0865844cecc2061aa404f6a",
+    "world-clock/ARC5_HANDOFF.md": "262ebce8716428ac0c50bbf645b74777ec11188787a0fb8bbdd6fb691a436642",
+    "live-model/DOMAI_PARTICIPATION.md": "c580b92d901dbf37c1d3334ffc98d3acc1f2b30b1551c2429f2002e4464b5297",
+    "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "af7f0cf2bb5e29d3e913bf6499420ace6268ca82a76f0dfa7d8154241fb234af",
+    "live-model/OPEN.md": "9cbfea61e2ded8ee5630a4f165a7ca7d6e9c5dd587f58ab44eb1c8945c194b80"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "checkpoint": 21,
-  "inherited_scope": "Checkpoint 20 social/card locks with Checkpoint 21 dated Yellow calendar and restored seasons",
+  "checkpoint": 22,
+  "inherited_scope": "Checkpoint 20 social/card locks, CP21 seasonal doctrine and CP22 exact Orb day/current Yellow calendar",
   "result": "PASS",
   "errors": [],
   "baseline_commit": "ca6481ec0bb0bd6baf7c9d6a63d53dfb6902c02d",
@@ -46,11 +46,11 @@
   "card_price": 86000,
   "universal_blue_card_price": false,
   "orbs_price": 61017,
-  "orbs_date": "Late Yellow inside Arc Four; exact day OPEN; not Y1D2",
+  "orbs_date": "Y6D2, Late Yellow inside Arc Four; not Y1D2",
   "arc4_close": "Genesis Prime Red Y6D3",
   "conditional_card_minus_orange_gross": 2085,
   "card_full_funding_audit": "OPEN; no full cashflow solvency assertion",
-  "new_daily_rows": 36,
+  "current_yellow_rows": 49,
   "abecca": "abecca",
   "galas_per_season": 1,
   "gala_dates": "OPEN",
@@ -72,8 +72,7 @@
     "combat-rewards/COMBAT_REWARD_TABLES.json",
     "combat-rewards/DOMAI_PARTICIPATION_RULES.json",
     "bindings/PRICING_CLASS_MATRIX.json",
-    "live-model/AITHREN_VAELUM_ACCORD.md",
-    "live-model/DOMAI_PARTICIPATION.md"
+    "live-model/AITHREN_VAELUM_ACCORD.md"
   ],
   "content_checks": [
     {
@@ -333,7 +332,7 @@
     },
     {
       "path": "live-model/01_KIRA.md",
-      "requirement": "exact day OPEN",
+      "requirement": "Y6D2",
       "result": "PASS"
     },
     {
@@ -348,21 +347,47 @@
     },
     {
       "path": "live-model/OPEN.md",
-      "requirement": "exact Orbs day within Late Yellow",
+      "requirement": "exact Orbs **Y6D2**",
+      "result": "PASS"
+    },
+    {
+      "path": "live-model/DOMAI_PARTICIPATION.md",
+      "requirement": "7-day",
+      "result": "PASS"
+    },
+    {
+      "path": "live-model/DOMAI_PARTICIPATION.md",
+      "requirement": "one full day",
+      "result": "PASS"
+    },
+    {
+      "path": "live-model/DOMAI_PARTICIPATION.md",
+      "requirement": "0.8^deaths",
+      "result": "PASS"
+    },
+    {
+      "path": "live-model/DOMAI_PARTICIPATION.md",
+      "requirement": "group_award / eligible_members",
+      "result": "PASS"
+    },
+    {
+      "path": "live-model/DOMAI_PARTICIPATION.md",
+      "requirement": "OPEN",
       "result": "PASS"
     }
   ],
   "sha256": {
-    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "6679037d860666310a6a2b94d19bb8c4bb2737b00f950f9d9912cd8900c2d09f",
-    "live-model/01_KIRA.md": "01883a1af64347bc4f1e62f8bea5d960a9fbe6625bb6f10666148056917c9ce5",
+    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "26ced96916327b0eaaf5443145b524825feafa62aa6618ac501e43c4fb42a554",
+    "live-model/01_KIRA.md": "67f0e133ed9b7c8f2605d76fe0ed112e9e4d43a7c33b2303a6f93b7155d280b2",
     "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md": "686a9461fd24c885596bc8f364774f006903ec5448011de1fa4e9a734b996a41",
-    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "c84872b661b861763a722bc65964461d117ac28b318114583bf39c56ba479cce",
+    "live-model/DOMAI_PARTICIPATION.md": "c580b92d901dbf37c1d3334ffc98d3acc1f2b30b1551c2429f2002e4464b5297",
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "85dd0100e4e224f11dee16d3b03ba06a9a80988a51892f60acf01dee9bb4d302",
     "live-model/GENESIS_CARDS.md": "b6639f9cdd246144bd0a03d26edbc008d5a5afb9ac143225438fb9c05e63f513",
-    "live-model/ILLI_PROGRESSION.md": "743428adea94fe715cf6e61bd29f34cf7328cf44dc7fd728bd7ddd09119af5b2",
-    "live-model/OPEN.md": "22706d8e877d587f00acf9a2864ecdcdbd06abcf0db4b7b020b2f97dd82dd536",
-    "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "6d0c58aacad23e585250a110aa134b85694fa4efbe769c6db812945720754f94",
-    "world-clock/ARC4_HANDOFF.json": "85edc298f3f2a8b29daa546cd01c3df13337a908afb480c8f6a307fdd198fc09",
-    "world-clock/ARC4_HANDOFF.md": "f8700eedc1059399bf45c0088d141adc49e2731720d8ea1ac53cb709a96ae4d4",
-    "world-clock/validate_arc4_handoff.py": "2c122ec093d0158ee79d7cefad4fbebdc14492a7c8fc269436e6424552befa34"
+    "live-model/ILLI_PROGRESSION.md": "63870b585b184741748ea66b682b6f1d4e8f7372754c40c718ad5d7f4c4252b3",
+    "live-model/OPEN.md": "9cbfea61e2ded8ee5630a4f165a7ca7d6e9c5dd587f58ab44eb1c8945c194b80",
+    "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "af7f0cf2bb5e29d3e913bf6499420ace6268ca82a76f0dfa7d8154241fb234af",
+    "world-clock/ARC4_HANDOFF.json": "0e459f5558607438858e301a518c534aac5fcc78a2d286ea87794593a0f7a5ec",
+    "world-clock/ARC4_HANDOFF.md": "53d9909b100ab7078ca340e282fef6cff28cda9d7db3e30854c63e753543510c",
+    "world-clock/validate_arc4_handoff.py": "80ea56563eb76f9b20288b0159fae2c65bd5ce21a60d3d4d251c4d3602edcade"
   }
 }

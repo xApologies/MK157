@@ -1,4 +1,4 @@
-"""Validate cumulative Checkpoint 20/21 handoff locks and preserved calendars."""
+"""Validate cumulative Checkpoint 20–22 handoff locks and preserved calendars."""
 import argparse
 import hashlib
 import json
@@ -33,22 +33,27 @@ def audit(root):
     require(card['price']==86000 and card['item']=='Specific Blue Fireball Genesis Card', 'Specific card price/identity changed')
     require(card['universal_blue_card_price'] is False and card['grants_binding'] is False, 'Collectible pricing/Binding firewall lost')
     require(card['exact_intraday_timestamp'] is None and card['funding_reconciliation'].startswith('OPEN'), 'Invented timestamp/funding')
-    require(orbs=={'price':61017,'arc':4,'date':None,'date_status':'Late Yellow inside Arc Four; exact day OPEN',
+    require(orbs=={'price':61017,'arc':4,'date':'Y6D2','date_status':'LOCKED exact day; acquisition is not mastery',
                   'seasonal_window':'Late Yellow',
                   'excluded_date':'Yellow W1 D2','arc_three_endpoint_purchase':False,'fund_rebuilt_after_card':True}, 'Orbs timing/price boundary changed')
     require(handoff['arc_closures']=={
         '1':['illi Persistent Coherence Red','Kira Armor of the Abyss'],
         '2':['illi White Legacy and Absorption Shield Red','Kira CSR'],
         '3':['illi Genesis Beam Red at Yellow W1 D2','Kira specific Blue Fireball Genesis Card at the Yellow-opening boundary'],
-        '4':['illi Genesis Prime Elemental Red at Yellow W6 D3']}, 'Arc closure mismatch')
+        '4':['illi Genesis Prime Elemental Red at Yellow W6 D3'],
+        '5':['illi Coherence Prime Elemental Red at Green W6 D2']}, 'Arc closure mismatch')
     price=js('economy/KIRA_BLACK_ACQUISITION_PRICES.json');old_price=json.loads(old('economy/KIRA_BLACK_ACQUISITION_PRICES.json'))
     require({k:v for k,v in price.items() if k!='acquisition_dates'}=={k:v for k,v in old_price.items() if k!='acquisition_dates'}, 'Black price data changed beyond timing note')
     require(price['post_armor_acquisition_prices']==dict.fromkeys(('CSR','Genesis Orbs','Halo','Domain'),61017), 'Black tier repriced')
-    require('not Yellow W1 D2' in price['acquisition_dates'] and 'OPEN' in price['acquisition_dates'], 'Active price record timing stale')
+    require('not Yellow W1 D2' in price['acquisition_dates'] and 'Yellow W6 D2 (Y6D2)' in price['acquisition_dates'], 'Active price record timing stale')
     first=handoff['kira_first_yellow_dungeon']
     require(first=={'arc':4,'mode':'Normal','day':'Y4D2','status':'LOCKED dated story beat and completion payout',
         'illi_present':False,'illi_clearance_at_event':'Orange','competent_group':True,'eligibility_rules_preserved':True}, 'Yellow clear scope/date/eligibility altered')
-    require(handoff['checkpoint']==21 and handoff['new_daily_combat_schedule']=='ARC4_YELLOW_COMBAT_CALENDAR.json', 'Checkpoint 21 supplied calendar missing')
+    require(handoff['checkpoint']==22 and handoff['new_daily_combat_schedule']=='YELLOW_DIRECTOR_CALENDAR.json', 'Checkpoint 22 supplied calendar missing')
+    require(handoff['yellow_deterministic_gross']=={'illi':71280,'kira':80140}
+            and handoff['arc4_deterministic_gross']=={'illi':58170,'kira':67030}, 'Current income scopes mismatch')
+    require(handoff['arc5_open']=='Y6D4' and handoff['first_builder_invitation']=='Y5D3'
+            and handoff['first_builder_party']=='Y5D5', 'New arc/social boundaries mismatch')
     require(handoff['social_cadence']=={'abecca':'abecca','gala_per_season':1,'gala_dates':None,
         'daily_circuit_mandatory':False,'highlights_attendance_every_night':False,'open_days_auto_filled':False}, 'Social cadence/spelling/negative space mismatch')
     require(handoff['credit_transfers']=={'social_civic_non_progression_gifts_allowed':True,
@@ -64,7 +69,7 @@ def audit(root):
        'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv','world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json',
        'trial-rewards/TRIAL_WAVE_CREDITS.csv','trial-rewards/TRIAL_WAVE_CREDITS.json',
        'combat-rewards/COMBAT_REWARD_TABLES.json','combat-rewards/DOMAI_PARTICIPATION_RULES.json',
-       'bindings/PRICING_CLASS_MATRIX.json','live-model/AITHREN_VAELUM_ACCORD.md','live-model/DOMAI_PARTICIPATION.md']
+       'bindings/PRICING_CLASS_MATRIX.json','live-model/AITHREN_VAELUM_ACCORD.md']
     for path in protected: require((root/path).read_bytes()==old(path), 'Protected file changed: '+path)
     source=read('provenance/checkpoint-20-package/CHECKPOINT20_LIVE_MODEL_DELTA.md')
     require(read('live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md').endswith(source), 'Exhaustive author delta not retained')
@@ -80,8 +85,9 @@ def audit(root):
       'live-model/ECONOMY_PURCHASE_SCHEDULE.md':['world events → organic combat → gross income → card/life spending → terminal progression',
         'progression and indirect shortcuts are prohibited','73,044'],
       'live-model/ILLI_PROGRESSION.md':['Y2D4','Y3D5','Y5D2','Y6D3','73,044','No clear or reward is credited to absent illi'],
-      'live-model/01_KIRA.md':['abecca','86,000','high-demand','fame never bypasses','exact day OPEN'],
-      'live-model/OPEN.md':['credit-transfer UI/limits/tracking/anti-circumvention','royalty rates','exact Orbs day within Late Yellow'],
+      'live-model/01_KIRA.md':['abecca','86,000','high-demand','fame never bypasses','Y6D2'],
+      'live-model/OPEN.md':['credit-transfer UI/limits/tracking/anti-circumvention','royalty rates','exact Orbs **Y6D2**'],
+      'live-model/DOMAI_PARTICIPATION.md':['7-day','one full day','0.8^deaths','group_award / eligible_members','OPEN'],
     }
     checks=[]
     for path,phrases in content.items():
@@ -92,12 +98,12 @@ def audit(root):
             checks.append({'path':path,'requirement':phrase,'result':'PASS' if ok else 'FAIL'})
     inputs=['world-clock/ARC4_HANDOFF.json','world-clock/ARC4_HANDOFF.md','world-clock/validate_arc4_handoff.py',
             'economy/KIRA_BLACK_ACQUISITION_PRICES.json','live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md',*content]
-    return {'checkpoint':21,'inherited_scope':'Checkpoint 20 social/card locks with Checkpoint 21 dated Yellow calendar and restored seasons','result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':BASELINE,
+    return {'checkpoint':22,'inherited_scope':'Checkpoint 20 social/card locks, CP21 seasonal doctrine and CP22 exact Orb day/current Yellow calendar','result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':BASELINE,
       'arc4_events':events,'beam_ranking_subtotal':63694,'post_beam_red_total':73044,'beam_red_already_paid':6050,
       'illi_milestones':17,'illi_total':250884,'card_price':card['price'],'universal_blue_card_price':False,
-      'orbs_price':orbs['price'],'orbs_date':'Late Yellow inside Arc Four; exact day OPEN; not Y1D2','arc4_close':'Genesis Prime Red Y6D3',
+      'orbs_price':orbs['price'],'orbs_date':'Y6D2, Late Yellow inside Arc Four; not Y1D2','arc4_close':'Genesis Prime Red Y6D3',
       'conditional_card_minus_orange_gross':card['price']-handoff['preserved_orange_gross']['kira'],
-      'card_full_funding_audit':'OPEN; no full cashflow solvency assertion','new_daily_rows':36,'abecca':'abecca',
+      'card_full_funding_audit':'OPEN; no full cashflow solvency assertion','current_yellow_rows':49,'abecca':'abecca',
       'galas_per_season':1,'gala_dates':'OPEN','credit_transfer_enforcement':'OPEN',
       'yellow_clear':'Kira independently first Y4D2; illi absent/Orange-cleared; payout 2305 Kira / 0 illi',
       'protected_files_byte_identical':protected,'content_checks':checks,

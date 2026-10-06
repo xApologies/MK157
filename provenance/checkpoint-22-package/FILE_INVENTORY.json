@@ -1,0 +1,77 @@
+[
+  {
+    "path": "ARC5_HANDOFF_ROADMAP.md",
+    "bytes": 5873,
+    "sha256": "bd09b73356d37dfda4f89c72a0de31413b72157a3f5263d029bb6c8067dfdc10"
+  },
+  {
+    "path": "BASELINE_AUDIT.md",
+    "bytes": 2734,
+    "sha256": "ea838cee006ae92ac6f480f192bced9a783ac4a079b7907232a6fc1efc1a7e55"
+  },
+  {
+    "path": "BUILDER_COMMUNITY.md",
+    "bytes": 2780,
+    "sha256": "453769919048432b89d18c7873ed4c23a55de5d44f7cfc387aa1941fe4142855"
+  },
+  {
+    "path": "CHECKPOINT22_AUDIT.json",
+    "bytes": 1778,
+    "sha256": "79913acf4b4b70fefcff79d85e13402044428ac0c747fd6cd0bb2649b1990c1d"
+  },
+  {
+    "path": "CHECKPOINT22_LIVE_MODEL_DELTA.md",
+    "bytes": 6596,
+    "sha256": "41cdde9d0f7c8ca3b1b1500e422b0d1993e5b61681d5ed6f44883685c2774379"
+  },
+  {
+    "path": "CHECKPOINT22_REVERSE_DIFF.csv",
+    "bytes": 1314,
+    "sha256": "38391d2640be86c22f605534bd0d394c1d268ed793c679d0dd495e250a76620f"
+  },
+  {
+    "path": "DOMAI_GROUP_ECONOMY.md",
+    "bytes": 2705,
+    "sha256": "8e8b92a9bfd50347dd71520b799aa3f3b639cf3a64ed85fa1186e9c9e75f148f"
+  },
+  {
+    "path": "EXECUTABLE.md",
+    "bytes": 4668,
+    "sha256": "1462464afad8b04319564b4c2f652d0bab2f86378ff08aa35951d1cf432bae5a"
+  },
+  {
+    "path": "KIRA_BLACK_SYSTEMS_ARC5.md",
+    "bytes": 5199,
+    "sha256": "9b852c5d191878a6bbb2cbb602f5f689a6f9889f794c4b663d313a7b94eb32e5"
+  },
+  {
+    "path": "MANIFEST.json",
+    "bytes": 630,
+    "sha256": "a12adaa6140e23012178cdb417d46eb33597b3325cf1f8f35878fae0aa244de4"
+  },
+  {
+    "path": "OPEN_ITEMS.md",
+    "bytes": 1206,
+    "sha256": "e82760be4f787e1018bda00d153c8f3b72aa2812ec8b3e34c8a429ee5b7ce1bd"
+  },
+  {
+    "path": "README.md",
+    "bytes": 869,
+    "sha256": "f7af89f868c3ed7bc3a61a93fa74412626da6ade8be763d85d9d642f1ee50ea8"
+  },
+  {
+    "path": "TRAINING_YARD.md",
+    "bytes": 1561,
+    "sha256": "e472ec87cb76bccb6d7a171891eb6bea7bcf7f6b4f8a69e178a307e65f133351"
+  },
+  {
+    "path": "YELLOW_DIRECTOR_CALENDAR.csv",
+    "bytes": 11697,
+    "sha256": "2dd1d473bc26a627413555b2fa0f30b05cb5b263d4644e60fda27f5adcb4888e"
+  },
+  {
+    "path": "YELLOW_DIRECTOR_CALENDAR.json",
+    "bytes": 25125,
+    "sha256": "fc489b039e7662a67bf47837a95bf8c793ef493f278276ea64086b2dce130c1d"
+  }
+]

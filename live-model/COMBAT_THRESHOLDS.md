@@ -111,3 +111,7 @@ Pre-Orb Arc Four:
 Genesis Beam does NOT auto-push the Duo into Blue competence. It improves upper-Green consistency/efficiency.
 
 Existing bands give W1–18 minimum 3×20/60 + 4×45/60 + 5×1 + 6×2 = 21 hours; maximum 3×40/60 + 4×75/60 + 5×2 + 6×3.5 = 38 hours; midpoint 29.5. W19 failure has no completion reward and no invented stopwatch allowance. Recovery rows protect spillover. illi does not clear Green Solo in this scaffold; her exact Solo standing stays OPEN. [Yellow calendar](../world-clock/ARC4_YELLOW_COMBAT_CALENDAR.md); [eldris tactics](ELDRIS_REFERENCE.md).
+
+## Checkpoint 22 — mastery stages and practice
+
+After one-Orb mini-blender competency in Arc Five, Kira clears **W19 Blue Solo and reaches W20**, exact breakthrough date and W20 failure depth OPEN. Duo remains W18 clear/W19 fail; no meaningful Trio push. This supersedes the pre-Orb Solo ceiling only at the later competency stage. [Training Yard](TRAINING_YARD.md) may start at prior completed/unlocked waves with no Trial credits; normal paid runs start W1, stop only between waves and keep the reward schedule. Exact Training Yard standing/unlock effects beyond selectable starts remain OPEN. The consecutive Y6D5/Y6D6 full-day Duos preserve the 21–38-hour range and Y6D7 recovery; no shortened duration is implied.

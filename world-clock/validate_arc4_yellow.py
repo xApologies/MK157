@@ -1,4 +1,4 @@
-"""Audit Checkpoint 21 source fidelity, daily rewards, event scope and preservation."""
+"""Audit the retained historical CP21 calendar; CP22 director calendar governs current state."""
 import argparse
 from collections import Counter, defaultdict
 import csv
@@ -117,13 +117,17 @@ def audit(root):
     require(future==[('Green',6,2,9350),('Green',6,4,14960),('Green',7,2,26928),('Violet',1,3,56549),('Violet',2,2,9350)],'Future milestone dates/costs changed')
     handoff=js('world-clock/ARC4_HANDOFF.json')
     require(handoff['kira_black_scaffold']=={'Armor of the Abyss':'Entry/Red','CSR':'Early Orange','Genesis Orbs':'Late Yellow','Halo':'Early Blue','Domain':'Late Violet'},'Seasonal scaffold changed')
-    require(handoff['kira_orbs']['date'] is None and handoff['kira_orbs']['price']==61017 and handoff['kira_card']['price']==86000,'Orb day invented or prices changed')
-    require(handoff['yellow_deterministic_gross']==totals and handoff['yellow_personal_elimination_day'] is None,'Handoff gross/bracket mismatch')
+    require(handoff['checkpoint']==22 and handoff['kira_orbs']['date']=='Y6D2' and handoff['kira_orbs']['price']==61017 and handoff['kira_card']['price']==86000,'Current CP22 Orb date/prices mismatch')
+    require(handoff['yellow_deterministic_gross']=={'illi':71280,'kira':80140}
+            and handoff['arc4_deterministic_gross']=={'illi':58170,'kira':67030}
+            and handoff['yellow_personal_elimination_day'] is None,'Current handoff gross/bracket mismatch')
     require('move' in handoff['hard_raid_date_policy'] and 'preserving' in handoff['hard_raid_date_policy'],'Future tournament conflict rule missing')
     # Preserve all earlier archived evidence, checkpoint masters, priced registries and dated data.
     protected=[]
     for p,expected_hash in before['sha256'].items():
-        should_preserve=(p.startswith(('provenance/','prior-checkpoint-source/','bindings/','summons/','combat-rewards/','trial-rewards/'))
+        should_preserve=(p.startswith(('provenance/','prior-checkpoint-source/','bindings/','summons/','trial-rewards/'))
+            # CP22 appends current group-allocation documentation; fixed reward/participant data stays exact.
+            or (p.startswith('combat-rewards/') and p!='combat-rewards/README.md')
             or bool(re.fullmatch(r'live-model/\d+_CHECKPOINT_.*\.md',p))
             or (p.startswith('builder/encounters/eldris/') and not p.endswith(('/README.md','/AUDIT.json')))
             or p=='builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv'
@@ -137,7 +141,7 @@ def audit(root):
       'live-model/COMBAT_ECOLOGY.md':['17–45','youth track','three-person peer nucleus','NOT a fixed guild/vaelum','private inventory','item-level','does NOT clear Green Solo','military/guard/vaelum/noble','pseudo-Guardian','No Yellow Raid boss clear'],
       'live-model/COMBAT_THRESHOLDS.md':['21–38','29.5','31-hour','spillover','W19','Blue competence'],
       'live-model/ECONOMY_PURCHASE_SCHEDULE.md':['8,319','12,568','NOT a canonical deficit','Affordability never auto-advances','clothing and social presentation','ordinary savings','future luxury goals'],
-      'live-model/OPEN.md':['exact Late Yellow Orb purchase day','personal Yellow raeon elimination','cohort headcount','carry-in','failed-Dungeon partial','G6D2','V2D2'],
+      'live-model/OPEN.md':['exact Late Yellow Orb purchase day','exact match results and elimination day','cohort headcount','carry-in','failed-Dungeon partial','G6D2','V2D2'],
       'live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md':['Tea Parties','Yellow Gala','Builder parties','deck nights','Genesis-card gatherings','abecca routines','royal-family scenes','Champion Table','home/recovery'],
     }
     for p,phrases in content.items():
@@ -145,15 +149,17 @@ def audit(root):
         for phrase in phrases: require(phrase.lower() in value,'Missing content: '+p+': '+phrase)
     inputs=['world-clock/ARC4_YELLOW_COMBAT_CALENDAR.csv','world-clock/ARC4_YELLOW_COMBAT_CALENDAR.json',
             'world-clock/ARC4_HANDOFF.json','world-clock/validate_arc4_yellow.py',*content]
-    return {'checkpoint':21,'result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':before['baseline_commit'],
+    return {'checkpoint':21,'scope':'Historical 36-row CP21 source calendar; superseded for current events/income by CP22 YELLOW_DIRECTOR_CALENDAR',
+      'result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':before['baseline_commit'],
       'calendar_rows':len(calendar),'counts':dict(counts),'deterministic_gross':totals,'income_by_event':dict(by_kind),
       'daily_gross':daily,'raid_bookings':raid_bookings,'no_green_dungeon_or_yellow_raid_clear':not errors,
       'scheduled_domai':0,'failed_dungeon_partial_progress':'OPEN and excluded',
       'runtime_hours':{'W18_min':float(minimum),'W18_max':float(maximum),'W18_central':float((minimum+maximum)/2),'day':31,'Orange':[3,5],'Yellow':[5,10]},
       'illi_arc4_spend':sum(r['cost'] for r in yellow),'zero_carry_in_illustrations_only':{'illi_gap':73044-totals['illi'],'kira_before_cards_after_orbs':totals['kira']-61017},
       'gross_is_not_balance':True,'illi_future_milestones':future,'all_17_illi_milestones_preserved':not errors,
-      'kira_black_scaffold':handoff['kira_black_scaffold'],'exact_orb_day':'OPEN; Y6D3 labels the window only',
-      'personal_yellow_elimination':'OPEN; reschedule Hard Raid only if a later actual bracket date conflicts',
+      'kira_black_scaffold':handoff['kira_black_scaffold'],'historical_cp21_orb_day':'OPEN in CP21; superseded by CP22 Y6D2',
+      'current_orb_day':handoff['kira_orbs']['date'],
+      'personal_yellow_elimination':'Exact day OPEN within CP22 Y7D1–D3 block; no championship obligation',
       'source_files':sorted(actual_sources),'source_pdf_sha256':sha(archive+'source/MK147_MASTER_ELDRIS_LRS.pdf'),
       'preserved_baseline_files':protected,'sha256':{p:sha(p) for p in inputs}}
 

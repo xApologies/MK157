@@ -1,0 +1,33 @@
+{
+  "checkpoint": 22,
+  "scope": "Valnak domai group contribution and participant share clarification",
+  "aggregate_award": "Contextual validated group contribution; OPEN BY DESIGN",
+  "base_member_share": "group_award / eligible_members",
+  "individual_share_after_deaths": "base_member_share * 0.8^deaths",
+  "small_group_size_bonus": false,
+  "optional_individual_bonus": null,
+  "bonus_status": "OPEN; no bonus layer booked",
+  "rounding_and_bonus_interaction": "OPEN",
+  "participant_rules": "DOMAI_PARTICIPATION_RULES.json",
+  "legacy_participant_award_interpretation": "The participant validated contribution award in CP18 eventual_payout_rule is the eligible base share of the contextual group award under CP22. All eligibility/recovery/death rules remain.",
+  "yellow_event": {
+    "date": "Y7D4",
+    "participants": [
+      "Kira",
+      "illi"
+    ],
+    "outcome": "Successful contribution",
+    "aggregate_award": null,
+    "payout_status": "OPEN BY DESIGN; excluded from deterministic income",
+    "base_split_each": 0.5
+  },
+  "author_only_shorthand": "Elastic Economic Actuator",
+  "purchase_order": "Legitimate event, award established/received, then reveal discretionary purchase; no earmarked quest reward",
+  "wardrobe": {
+    "status": "WORKING story-specific idea, not a price table or booked purchase",
+    "approximate_credits_per_dress": 23000,
+    "dresses_per_girl": 2,
+    "design_store_npc_visit_dates": null
+  },
+  "source": "../provenance/checkpoint-22-package/DOMAI_GROUP_ECONOMY.md"
+}

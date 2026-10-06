@@ -11,3 +11,5 @@ A Legacy is a curated developmental trajectory, not an ontological class or spel
 Architect is excluded: its core development is direct field-topology/manifold mathematics rather than conventional Binding packages.
 
 Checkpoint 08 nomenclature: Legacy/Legacies is canonical in-world. Historical PATHS filenames, IDs, schema keys and ALPHA candidate labels are stable provenance aliases. They do not override current terminology or define Kira/illi.
+
+[Checkpoint 22 Builder community](../COMMUNITY.md) adds Node create/save/share/publish/search, reactions and dynamic discovery over these unchanged 200 candidates. It does not regenerate, reclassify or promote generated trajectories into character canon.
