@@ -245,6 +245,20 @@
             "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
             "trial-rewards/TRIAL_WAVE_CREDITS.csv"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "OPEN: exact anatomy, CSR/Domain timestamps, support names/count, Halo final visual, Orb ontology and full mastery, indefinite multi-Orb sustainment and Elara identity semantics."
@@ -419,6 +433,27 @@
             "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings",
             "canon/characters/ELARA.md"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/06_ROYAL_FAMILY.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "WORKING",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "OPEN: rank-up dates after B6D3, final discretionary balances, future Solo standing beyond demonstrated milestones, specific social purchases and later Decoherence details."
@@ -545,6 +580,13 @@
             "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings",
             "canon/characters/ELARA.md"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "OPEN: Orb-hosted identity/instancing, next-node ontology/natural price and unsupplied social placements."
@@ -713,6 +755,27 @@
           "current_destinations": [
             "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/06_ROYAL_FAMILY.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "WORKING",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "OPEN: planet name, exact external time conversion, population/routing implementation, credential synchronization, generic Legacy discounts and unsupplied calendars."
@@ -887,6 +950,13 @@
           "current_destinations": [
             "live-model/01_KIRA.md#armor-of-the-abyss"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "OPEN: topology-derived basin combinations, candidate mechanism/White details, PE-004–009 selection finality, Creator assessment rates/property succession and Builder implementation."
@@ -1082,6 +1152,20 @@
             "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
             "trial-rewards/TRIAL_WAVE_CREDITS.csv"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/08_ECONOMY_AND_COMBAT_NOTES.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "OPEN: exact cap/inflow, extreme recovery physiology, encounter maps/populations, Hard/Raid runtimes, contribution/bonus formulas and unprovided core outcomes."
@@ -1308,6 +1392,20 @@
           "current_destinations": [
             "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/05_THREAD_CONSTITUTION_PATCH.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/08_ECONOMY_AND_COMBAT_NOTES.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "OPEN: actual cashflows, unsupplied contextual awards, partial/bonus formulas, discretionary inventory and Ring price. Historical numeric snapshots are not current balances."
@@ -1536,6 +1634,27 @@
           "current_destinations": [
             "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/06_ROYAL_FAMILY.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "WORKING",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/05_THREAD_CONSTITUTION_PATCH.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "OPEN: planetary arithmetic, exact cosmology correspondence, legal/governance implementation, demographics/aging rates, sport details, map serials and Ring price."
@@ -1667,6 +1786,20 @@
           "current_destinations": [
             "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "OPEN: exact card/set inventory, print quantities, exceptional lots, publisher legal identity, tournament details and personal spending."
@@ -1838,6 +1971,20 @@
           "current_destinations": [
             "live-model/01_KIRA.md#armor-of-the-abyss"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "OPEN: Halo color, unapproved overlays/serials, exact biological mechanism and unsupplied designs. Historical assets remain accessible but do not reinstate obsolete phenotypes."
@@ -2072,6 +2219,27 @@
           "current_destinations": [
             "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
           ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/06_ROYAL_FAMILY.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "WORKING",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md",
+          "section": "bounded R2 delta; see paragraph-level promotion coverage",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
         }
       ],
       "open_status": "Local OPENs are protected canon states, not unfinished maintenance. Source review completeness is reported independently in coverage and completion evidence."

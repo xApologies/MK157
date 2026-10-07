@@ -36,6 +36,10 @@ World, Kira and illi have synchronized but independent clocks. Highlights run at
 Kira's table, Builder friends, abecca, two card flagships, crafts, sport and foundations are part of lived civilization. The [world/culture view](WORLD_AND_CULTURE.md) retains institutional detail. The [seven arc dossiers](../story/INDEX.md) constrain selected events without converting every clock row into a chapter. Older Day-One Solo/Day-Two double-Duo timestamps yield to the CP18 combat scaffold; story beats survive with displaced timing OPEN.
 
 
+## Arc One R2 residence direction
+
+Grouped wipe/death recovery may designate a host residence with temporary private guest recovery rooms; this is WORKING, not permanent expansion, and successful exits need not re-instance. Kira's lush volcanic-island residence becomes the girls' base; exact layout, price and room count remain OPEN. Ordinary modules are comparatively cheap mature infrastructure. The royal estate houses only the King, Queen and six children when present, with Valnak-bound attendants; Crown staff have separate residences. [Residence and family owner](../live-model/03_VALNEK_PATHS.md#arc-one-r2--residences-and-ghost-base).
+
 ## Factual ownership
 
 This is a resolved authoring view of existing sources. Explicit later corrections govern conflicts; compatible earlier detail survives. The source sections below retain the full detail.

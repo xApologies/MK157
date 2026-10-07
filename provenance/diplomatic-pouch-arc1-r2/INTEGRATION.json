@@ -1,0 +1,909 @@
+{
+  "id": "diplomatic-pouch-arc1-r2",
+  "baseline_commit": "6c983477da9f5c66bef13bf56e4116d4d8ec1ab4",
+  "branch": "main",
+  "execution_scope": "Integrate and validate; current EXECUTABLE does not request commit or push. Prior local commit remains intact.",
+  "package_sha256": {
+    "provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md": "a4f391012bfdecf5933a66925abfe15df995e9552ecdbb6399a5302c729476d2",
+    "provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md": "2ca8ba83959e88c4f42db73100f070e65ab3299c19984bd739562a8879d6f6f4",
+    "provenance/diplomatic-pouch-arc1-r2/package/03_RED_WEEK2.md": "f51a0b78847650ce37f96b73996200f568baac6c14bf58a49bdfb6843bc1fcc2",
+    "provenance/diplomatic-pouch-arc1-r2/package/04_CITY_LOCATION_REGISTRY_PATCH.csv": "005c6a496ff52c06171479266d18f13cbeffa189645348b6c18e4efea1ee8750",
+    "provenance/diplomatic-pouch-arc1-r2/package/05_THREAD_CONSTITUTION_PATCH.md": "31f02c73aabc3c19665b851d093dfbf3accf5edeb6e328dd37e42df37239c89c",
+    "provenance/diplomatic-pouch-arc1-r2/package/06_ROYAL_FAMILY.md": "6bf1813bf69f3595cc9367983e49708ce4f64abb2c02441cc5eb4cffd7f4fd9e",
+    "provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md": "ddca6a0188909a3bdf6a5225dcfa489425f8e4711ca953069ce6ef3e913027af",
+    "provenance/diplomatic-pouch-arc1-r2/package/08_ECONOMY_AND_COMBAT_NOTES.md": "c1a643e249caea1dca02285b929988d36ad9d3163bfc40ac65178c9fe31d459a",
+    "provenance/diplomatic-pouch-arc1-r2/package/09_AUDIT_NOTES.md": "395827d68026071a00b9b69b1399a1bdfbc9af2eec667cf9ab5f88acc54008b6",
+    "provenance/diplomatic-pouch-arc1-r2/package/EXECUTABLE.md": "e72098902bccbb8ffacb0a6437d619487f7440a2e60173932ead06792a8a70ba"
+  },
+  "zip_sha256": "62e848e7e689e5cf9eaf1b36e3f5855f11b095df32ec1ff477cc86dd79ab6d4c",
+  "changed_paths": {
+    "CANON_STATUS.md": {
+      "before_sha256": "abebca033c1211879cda65e1eb0bdc29c97d510a116521dd12e86b0094fd3f1c",
+      "after_sha256": "415d728d12e1d69ae36ce5ab2a57a9d679e9c2e6dabb8f35016ce6a5a7a0d72c"
+    },
+    "README.md": {
+      "before_sha256": "a011812e50e1deefd9a5f8b58783500c211cad0f3a7e46abcbc53a8e0debc536",
+      "after_sha256": "c664cd2a8a1e9c2569ee76bb0e6de7dfa0c86a3a599a61cdce6fbd3af381813d"
+    },
+    "THREAD_DEVELOPMENT_CONSTITUTION.md": {
+      "before_sha256": "6cef918c1f798e7cdd5316cf2093afc96b9749bd6f11dfd1deab5a66c2b9ad1a",
+      "after_sha256": "8927075910ff740dcb64e3d98c2fd8b4c7ef5dc2e18ded3dfc418611d598f343"
+    },
+    "canon/AUTHORITY_MAP.json": {
+      "before_sha256": "62927e28d104357eeeb5d8afdb0db20dee12f8ec2f6dd0f50f4451e084d03993",
+      "after_sha256": "a6b02a9b6634bbf700c5777842be989979ab7a5da56f7fbea5f4952251d7b690"
+    },
+    "canon/CARDS.md": {
+      "before_sha256": "66a87e9903767db0af7f6bb83283e9a553f14baa52c33759c415315b1e22195c",
+      "after_sha256": "d25270f255afee35251b4101f41da22a62eaec911f6e47974b77dd9302694f43"
+    },
+    "canon/COMBAT.md": {
+      "before_sha256": "8d6950fef2663a7c9ce6d4fcf16c4647bb83a7452ba390739c6ad5271ce17d3a",
+      "after_sha256": "2210fb11563c2342304127709ee1358258499c8eeb6bc69a642e5e36babd830c"
+    },
+    "canon/ECONOMY.md": {
+      "before_sha256": "414b507cfdf4a04ff4da5a755a19e0de532abea4cfad127acfd8d35d61092be5",
+      "after_sha256": "f59dcde282e96e4be73cae270a9708e32b8e5a2776bcede53662069226ec0117"
+    },
+    "canon/INDEX.md": {
+      "before_sha256": "d57a2387106625eaf1ed83b56f83c619d4a8dab711f223356d19f48eae7d6c06",
+      "after_sha256": "79059865698ac3164fb6b44f925faa352f0cbba9512ee7481d9bd3482df4c2d8"
+    },
+    "canon/OPEN.md": {
+      "before_sha256": "1dbec1d16c65f7e4e3bf228e91f64854f4e46978880bd31f610115f2c17f9b15",
+      "after_sha256": "b55eb52ce2d34210e42ef5e47ff3e5e07ad7e8abf3760beee490462940465e78"
+    },
+    "canon/PROMOTIONS.json": {
+      "before_sha256": "3846ab537de42bbf5ef0469bbd4f35e13b4c1a4a2e982a203d20944fa3821210",
+      "after_sha256": "b9656e10163da18608acac2061b08d6be4b574492be67f21dc5d5435c3aa78a2"
+    },
+    "canon/VALNAK.md": {
+      "before_sha256": "ac505f720f208c5e192432579760ede8bbfd988688bd93230c72d94d3607baa1",
+      "after_sha256": "78ada78d025dc0e97858932c15ea22e67cc313369be0b00efd0abfec6897e3d8"
+    },
+    "canon/WORLD_AND_CULTURE.md": {
+      "before_sha256": "cfd6f8853c58f8ca173d1628ec069e5f9d2525e5cb5944ca05ee742e7821f5b2",
+      "after_sha256": "d147087d378f80b401a903affe2639c5441cae5d74198fd282461e94f42a7265"
+    },
+    "canon/characters/ELARA.md": {
+      "before_sha256": "c8534268e4ae792095e50375f050a7584487a9af70d6728d5446dfb4d7a37cb0",
+      "after_sha256": "c1914ca26711b08dcb75f2789e0f7dcf7b71d00766089f1e71783b9bb350308c"
+    },
+    "canon/characters/ILLI.md": {
+      "before_sha256": "8d792d0f6ca46f0dd292ae80181637a7cb2d34e72c51b4e9085dbd1840d5f6ee",
+      "after_sha256": "87567868d25d5bc1284d1557850d9dddfa977967463cc935320764dd1bca06ad"
+    },
+    "canon/characters/KIRA.md": {
+      "before_sha256": "4c6c9f35be50f160601fc37398f493af3767ddf0169dbeabc72cdac023c4ed5e",
+      "after_sha256": "a8228c756f2b8d85808717eec4003832a5bc62e66e088047307a9c36ada996e1"
+    },
+    "live-model/01_KIRA.md": {
+      "before_sha256": "654d1fed0019205d73af59f7c3b9980690b8981c3df8aa75cb62aabed15f57a4",
+      "after_sha256": "de0a05a62082e2f620dd9a8ce9d95e4a8957c62b308818e0f9069d48e203bfd4"
+    },
+    "live-model/03_VALNEK_PATHS.md": {
+      "before_sha256": "f85dda696022ede22243ab1497f105118b877999dc67a5cb6cd1407eb1eab0cb",
+      "after_sha256": "e84c1ece1a116d8292441cc64b1acacec0888e149fa8edd17424b64341b4969c"
+    },
+    "live-model/04_COMBAT_WORLD.md": {
+      "before_sha256": "c9203677dd7d0cbbf31ba9d9fbc3a5f89e869a6ea222584b5fd037b2b783d9f2",
+      "after_sha256": "65d47736eb45aea98de0543477785aac4511efd624c44feb6b1d7331f85d33c1"
+    },
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": {
+      "before_sha256": "25205373ca9fab3339316957e75f97f42b0ff021a2fdb733cc98f497484a61f4",
+      "after_sha256": "c8ffe94f15de17534b292538034e3fd43040c74d7e562028fdf8710daade239a"
+    },
+    "live-model/GENESIS_CARDS.md": {
+      "before_sha256": "2fbcbe4dcddc359a5aae2dc6fcd9a80af8c0561d138c84be454a5c9615ef2fc1",
+      "after_sha256": "a62215834f75af9ceb11d06484669c89ce89e8e72c1fb1a7439ac7b44ff97d12"
+    },
+    "live-model/INDEX.md": {
+      "before_sha256": "a6dc9ecd9104a6ab05fe22dc7a6f155e2340886170d0c9625e9c6e5a8baa2b51",
+      "after_sha256": "5544de5f78b6820d1e1a9a62f605d0d1fa8e91248d0255f515db56a66d3acc9f"
+    },
+    "live-model/OPEN.md": {
+      "before_sha256": "36f76242ee6d4a784d1d10d504151e1bb5f8a3efc0d335257efb10c1fa8946bb",
+      "after_sha256": "6e89f500bfdd2f5c561ead83bcb59df2ea6b39582eb8734456c52ca67b7a716d"
+    },
+    "live-model/RAEON.md": {
+      "before_sha256": "ce357d8c48d14846de964ba1c3a709380e1a2028689f33e486a04464e8a19ba0",
+      "after_sha256": "c1c1dc2abfe3f47ecc8abc3075a335529280253e98c402ce358338269ca9af18"
+    },
+    "live-model/STORY_CLOCK_STATE.md": {
+      "before_sha256": "d6d7ecc0b81937126c30a23895b9897ae1b5e191590a2f297e7b2d6cc2be1d27",
+      "after_sha256": "9bc8ae9b43bfba7d04f55d2e1e740e7fbf19a0deac50df16763e872d39d40571"
+    },
+    "live-model/SUPERSESSIONS.md": {
+      "before_sha256": "3adbc2b73fc0b57c71bab75cb0588d65cbf17902d42571e3c21af57356c07de5",
+      "after_sha256": "39017d26659bdf181fec4f0c347a32e7d6bc3d548bf3037e656e8f5df73a2a70"
+    },
+    "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md": {
+      "before_sha256": "c01d7eae409cdb3bcad9aaaa1f99395ed8b488d66cd5945d31b5e1b70292bdb5",
+      "after_sha256": "f21b15d5b72bc530c80d2bfdf3aa24655e79230692c5d0243d0491bd0f534782"
+    },
+    "live-model/WORLD_CLOCK.md": {
+      "before_sha256": "bc45a85ff7491532938e380b7eec7ace04c1275fd37af5f3dcda000b93c3fb59",
+      "after_sha256": "00e1fcbc3e8ebe78aac802b472d5eaa97c5f3b40c8c768419346acc6c5861dcf"
+    },
+    "story/ARC_01/ARC.md": {
+      "before_sha256": "8606a17b20a7fe569dee18d5563a616c52d13d8be1389cb84ad49d55b4f1d17b",
+      "after_sha256": "a5f0bdf18a5698e5ab24e71d981b964232fb1328db68e195d2c46d09c5a9b288"
+    },
+    "story/ARC_02/ARC.md": {
+      "before_sha256": "37db3c2539a822d48431029153f9f86d3f77cc20beaab86fde36aaf0674fe989",
+      "after_sha256": "5ecd74fbefd7830e902d7e36423872ba3e68d83979a747c6a0c6326ad4062573"
+    },
+    "story/ARC_MAP.json": {
+      "before_sha256": "05c360174ce288ea27dff51898a4cea026f284ac804f8c372b9ba271aecf6530",
+      "after_sha256": "de5f6691f85915907d5cc8310f8969f065bebfec037194a663c88afb7ba49f78"
+    },
+    "story/INDEX.md": {
+      "before_sha256": "96d36682a6e354523f21111d6c6299ada9b3845a81fa71d3735fe2e7bbe752b6",
+      "after_sha256": "2105e104d617e9ae39eeb5655f72827e0bc99af091ca323d1e1b4991e3228020"
+    },
+    "tools/validation/README.md": {
+      "before_sha256": "a8b4bcc4bdc081d54e7b6b14ed34d1964ae13a7f685f19e468cacd1290a0b9bc",
+      "after_sha256": "94121c380e2ebe65904872e7aec360097f475a943088e07cecab54260845ca25"
+    },
+    "tools/validation/test_authoring.py": {
+      "before_sha256": "dda0a656c1a265935af0940c589a261e95300fa2076171f167272b0f827dd011",
+      "after_sha256": "33867323c2d19022afdcbef7a74ee8c0822db3001a8ad06f38013e2bc06a1d90"
+    },
+    "tools/validation/validate_promotions.py": {
+      "before_sha256": "1ea05146c89c6843bb4d5769007be2876e26ebac88faad0ea0d92e73ca8558ec",
+      "after_sha256": "9a2aeaae235771d52423e29d72da0da6b0eeaecc6e5c97c46ce325b7f336f425"
+    },
+    "visual-references/CITY_LOCATION_REGISTRY.csv": {
+      "before_sha256": "06b3ada19da2a40ecf011db33488d4cf48aaf8d1426895af67403b4b74cd20dc",
+      "after_sha256": "6e786f8a8319bdab7e376116cbdc5ab27e65a2a3e90a2bd0ff4456a3915cf963"
+    },
+    "world-clock/validate_arc5.py": {
+      "before_sha256": "c7b51f9bd5c73a63e9d3c16c68b29b65ed9bdb2829d27aa55fa60668fe7566d5",
+      "after_sha256": "3a2b6e83c7ba6bd5cca6bcffb00250a3ff1843bfa0717f8f4574a650d4fc94a7"
+    },
+    "world-clock/validate_arc7.py": {
+      "before_sha256": "e14a5af3606e5c570017eca5e521190da9ce9ed90ce6261937e4c6294093f274",
+      "after_sha256": "3cdbad503010d12ab54d9183bbabf5cccddd1d629cce94e5e3ca4dba7bbdbdab"
+    }
+  },
+  "source_documents": [
+    {
+      "source": "provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Arc One handoff",
+          "body_sha256": "85dbab83db89ad3e0ea23498f05154b43b5763f199270c813fd979249b87265e",
+          "paragraphs": [
+            {
+              "sha256": "85dbab83db89ad3e0ea23498f05154b43b5763f199270c813fd979249b87265e",
+              "status": "MIXED_PARTIAL",
+              "reason": "Armor/self-restoration/claw geometry retained; physical amplification is observational, no ordinary Augmenter Binding. Rival public W8/deeper W9 current; ~3-kill best gap WORKING and unknown to him; exact totals OPEN.",
+              "destinations": [
+                "live-model/01_KIRA.md#arc-one-r2--armor-rival-and-family"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Group wipe / residence recovery — working rule",
+          "body_sha256": "c4d08568db0ea4f14f2bd8c0f5d5bf8a7887fc7e274b585f32a5bff6fe6cd45c",
+          "paragraphs": [
+            {
+              "sha256": "c4d08568db0ea4f14f2bd8c0f5d5bf8a7887fc7e274b585f32a5bff6fe6cd45c",
+              "status": "WORKING",
+              "reason": "Optional host residence and temporary guest recovery infrastructure; no fixed expansion or successful-exit rule.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#arc-one-r2--residences-and-ghost-base"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Kira residence / Ghost Base reservoir",
+          "body_sha256": "f3f74ec1e8e41128d232a56dd3beedf9e5b72b143c6ea47b0bb3cc59bbab274f",
+          "paragraphs": [
+            {
+              "sha256": "f3f74ec1e8e41128d232a56dd3beedf9e5b72b143c6ea47b0bb3cc59bbab274f",
+              "status": "MIXED_PARTIAL",
+              "reason": "Residence domain WORKING; family independence not rebellion. Reapers real/opaque, illi suspicion not known identity. Later pretend-Reaper joke and flag direction promoted; callsigns/date/layout/price remain OPEN.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#arc-one-r2--residences-and-ghost-base",
+                "story/ARC_02/ARC.md#developed-red-scene-clock--r2"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Residence economy",
+          "body_sha256": "f73d89de40e5ec6239bbbed6c922d9b3024ea81fc7a63dc27dfacfec3be4761d",
+          "paragraphs": [
+            {
+              "sha256": "f73d89de40e5ec6239bbbed6c922d9b3024ea81fc7a63dc27dfacfec3be4761d",
+              "status": "CURRENT",
+              "reason": "Ordinary modules cheap mature infrastructure; custom/luxury transductive work can cost more.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#arc-one-r2--residences-and-ghost-base",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#arc-one-r2--incidental-lifestyle-income"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "24cf9bc70aaf076f9d2d0b842600a21cd4c6b6689f522d0d5d84e5eb2a4618b3",
+          "paragraphs": [
+            {
+              "sha256": "24cf9bc70aaf076f9d2d0b842600a21cd4c6b6689f522d0d5d84e5eb2a4618b3",
+              "status": "MIXED_PARTIAL",
+              "reason": "Supplied scene direction layered over identical required rows. Approximate intraday clocks/conditional standings/optional activities remain WORKING. No extra income total, early card purchase or fixed OPEN price; opening chronology conflict remains explicit.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+                "story/ARC_02/ARC.md#developed-red-scene-clock--r2"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "R1D2 — first Duo + city circuit",
+          "body_sha256": "76b32b4c2893ee04cd3328db065fc9c4ae4a13f222aca442a6d349fb7b3813f5",
+          "paragraphs": [
+            {
+              "sha256": "76b32b4c2893ee04cd3328db065fc9c4ae4a13f222aca442a6d349fb7b3813f5",
+              "status": "MIXED_PARTIAL",
+              "reason": "Supplied scene direction layered over identical required rows. Approximate intraday clocks/conditional standings/optional activities remain WORKING. No extra income total, early card purchase or fixed OPEN price; opening chronology conflict remains explicit.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+                "story/ARC_02/ARC.md#developed-red-scene-clock--r2"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "R1D3 — Solo + card life",
+          "body_sha256": "c3a399a5c7bf983a97c976541c1ac3f84a9d05d19a979a3f559e185bbf39bcdc",
+          "paragraphs": [
+            {
+              "sha256": "c3a399a5c7bf983a97c976541c1ac3f84a9d05d19a979a3f559e185bbf39bcdc",
+              "status": "MIXED_PARTIAL",
+              "reason": "Supplied scene direction layered over identical required rows. Approximate intraday clocks/conditional standings/optional activities remain WORKING. No extra income total, early card purchase or fixed OPEN price; opening chronology conflict remains explicit.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+                "story/ARC_02/ARC.md#developed-red-scene-clock--r2"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "R1D4 — first Red Dungeon",
+          "body_sha256": "57cf41314b206765b652331308a41aa95eccc6b66d6aaf9528d462a6340c46be",
+          "paragraphs": [
+            {
+              "sha256": "57cf41314b206765b652331308a41aa95eccc6b66d6aaf9528d462a6340c46be",
+              "status": "MIXED_PARTIAL",
+              "reason": "Supplied scene direction layered over identical required rows. Approximate intraday clocks/conditional standings/optional activities remain WORKING. No extra income total, early card purchase or fixed OPEN price; opening chronology conflict remains explicit.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+                "story/ARC_02/ARC.md#developed-red-scene-clock--r2"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "R1D5 — royal-estate social day",
+          "body_sha256": "78d4f78005469d0a65881850ec4e476808af3af46e5f954181592e2aec72fd40",
+          "paragraphs": [
+            {
+              "sha256": "78d4f78005469d0a65881850ec4e476808af3af46e5f954181592e2aec72fd40",
+              "status": "MIXED_PARTIAL",
+              "reason": "Supplied scene direction layered over identical required rows. Approximate intraday clocks/conditional standings/optional activities remain WORKING. No extra income total, early card purchase or fixed OPEN price; opening chronology conflict remains explicit.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+                "story/ARC_02/ARC.md#developed-red-scene-clock--r2"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "R1D6 — second Duo + beach day",
+          "body_sha256": "b49e609c25044e06bf775a4e05f014d3596d985fd0355d682751380fb6c0c2c4",
+          "paragraphs": [
+            {
+              "sha256": "b49e609c25044e06bf775a4e05f014d3596d985fd0355d682751380fb6c0c2c4",
+              "status": "MIXED_PARTIAL",
+              "reason": "Supplied scene direction layered over identical required rows. Approximate intraday clocks/conditional standings/optional activities remain WORKING. No extra income total, early card purchase or fixed OPEN price; opening chronology conflict remains explicit.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+                "story/ARC_02/ARC.md#developed-red-scene-clock--r2"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "R1D7 — Opening Celebration",
+          "body_sha256": "331ca39d0c7c8f9316d1f3481c20672d6a1ba101cc3be514148d85aaeb16c5bc",
+          "paragraphs": [
+            {
+              "sha256": "331ca39d0c7c8f9316d1f3481c20672d6a1ba101cc3be514148d85aaeb16c5bc",
+              "status": "MIXED_PARTIAL",
+              "reason": "Supplied scene direction layered over identical required rows. Approximate intraday clocks/conditional standings/optional activities remain WORKING. No extra income total, early card purchase or fixed OPEN price; opening chronology conflict remains explicit.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+                "story/ARC_02/ARC.md#developed-red-scene-clock--r2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-arc1-r2/package/03_RED_WEEK2.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "6b699a6430e3714f1384729f40f1d1bf91c86c89cabc7c49cbd924c21964ff05",
+          "paragraphs": [
+            {
+              "sha256": "6b699a6430e3714f1384729f40f1d1bf91c86c89cabc7c49cbd924c21964ff05",
+              "status": "CURRENT",
+              "reason": "All seven exact scaffold rows and balances match. Only R2D1 scene direction developed; R2D2 onward awaits elaboration, no chapter count.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "R2D1 current scene direction",
+          "body_sha256": "28c6eb1a488898464420a7137af884d52626be824174d1b6cf60469d3ff7c1f2",
+          "paragraphs": [
+            {
+              "sha256": "a52e05193bdc8d8a898dad338ab0cf3eb77acd53dee49db067df1a1c62e83cd4",
+              "status": "CURRENT",
+              "reason": "All seven exact scaffold rows and balances match. Only R2D1 scene direction developed; R2D2 onward awaits elaboration, no chapter count.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv"
+              ]
+            },
+            {
+              "sha256": "84468de2865b7c3b033b4e4f04764f6c1e5d3cbb02f99ac0b8f204e375b95785",
+              "status": "CURRENT",
+              "reason": "All seven exact scaffold rows and balances match. Only R2D1 scene direction developed; R2D2 onward awaits elaboration, no chapter count.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-arc1-r2/package/05_THREAD_CONSTITUTION_PATCH.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Incidental Trial / lifestyle-credit doctrine",
+          "body_sha256": "196735fa09b02fcc605f3e45f0d52adcc22cb8d664a133e5c494347946762b25",
+          "paragraphs": [
+            {
+              "sha256": "041c84d649a89af2a2aedd3a7ce804f75b1172f93a1def4f40b9e14059e15c12",
+              "status": "CURRENT",
+              "reason": "Explicit lifestyle-credit and narrative-time doctrines, class-coded naming convention and lexical normalizations; no changed required combat/recovery or exact incidental accounting.",
+              "destinations": [
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#diplomatic-pouch-arc-one-r2--authoring-additions"
+              ]
+            },
+            {
+              "sha256": "5f7c53d78f37868c408b542e058f7f9772b5a8ba05d94486a9bbf32118383775",
+              "status": "CURRENT",
+              "reason": "Explicit lifestyle-credit and narrative-time doctrines, class-coded naming convention and lexical normalizations; no changed required combat/recovery or exact incidental accounting.",
+              "destinations": [
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#diplomatic-pouch-arc-one-r2--authoring-additions"
+              ]
+            },
+            {
+              "sha256": "6c2a2d79c3fd69bdfd969df1b5a239e9336a2e653eb3f63f3700702ab69ea14c",
+              "status": "CURRENT",
+              "reason": "Explicit lifestyle-credit and narrative-time doctrines, class-coded naming convention and lexical normalizations; no changed required combat/recovery or exact incidental accounting.",
+              "destinations": [
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#diplomatic-pouch-arc-one-r2--authoring-additions"
+              ]
+            },
+            {
+              "sha256": "99e76783ca8145ca183ff9f4f8e4b529614d5ba13625f71cf1e34446f5e2ab8a",
+              "status": "CURRENT",
+              "reason": "Explicit lifestyle-credit and narrative-time doctrines, class-coded naming convention and lexical normalizations; no changed required combat/recovery or exact incidental accounting.",
+              "destinations": [
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#diplomatic-pouch-arc-one-r2--authoring-additions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Narrative-time doctrine",
+          "body_sha256": "20227032dd5c24f7cd2c7e84816928780d6a8167355b9929762c25513a06328f",
+          "paragraphs": [
+            {
+              "sha256": "20227032dd5c24f7cd2c7e84816928780d6a8167355b9929762c25513a06328f",
+              "status": "CURRENT",
+              "reason": "Explicit lifestyle-credit and narrative-time doctrines, class-coded naming convention and lexical normalizations; no changed required combat/recovery or exact incidental accounting.",
+              "destinations": [
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#diplomatic-pouch-arc-one-r2--authoring-additions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Noble naming morphology",
+          "body_sha256": "27c8e57558639fcb5c990aa7e636412d17d00184be11b978253981907d4d1239",
+          "paragraphs": [
+            {
+              "sha256": "27c8e57558639fcb5c990aa7e636412d17d00184be11b978253981907d4d1239",
+              "status": "CURRENT",
+              "reason": "Explicit lifestyle-credit and narrative-time doctrines, class-coded naming convention and lexical normalizations; no changed required combat/recovery or exact incidental accounting.",
+              "destinations": [
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#diplomatic-pouch-arc-one-r2--authoring-additions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Lexical reinforcement",
+          "body_sha256": "987b52967786c6f3f464fb1b1d10a17e93cedb25ad7bc0a01f994cb888ed53ab",
+          "paragraphs": [
+            {
+              "sha256": "987b52967786c6f3f464fb1b1d10a17e93cedb25ad7bc0a01f994cb888ed53ab",
+              "status": "CURRENT",
+              "reason": "Explicit lifestyle-credit and narrative-time doctrines, class-coded naming convention and lexical normalizations; no changed required combat/recovery or exact incidental accounting.",
+              "destinations": [
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#diplomatic-pouch-arc-one-r2--authoring-additions"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-arc1-r2/package/06_ROYAL_FAMILY.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "a517a5b24569ec6e8decb95d02834286e01f91606841e6bab732b83b34d275a5",
+          "paragraphs": [
+            {
+              "sha256": "a517a5b24569ec6e8decb95d02834286e01f91606841e6bab732b83b34d275a5",
+              "status": "WORKING",
+              "reason": "Preserve the supplied royal-family working model, names/ages/roles/Queen toolkit and chosen career endpoint, mathematics/elicitation competence and family-only estate. No extra relatives, cycles or automatic capability from wealth.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#arc-one-r2--royal-family-working-canon",
+                "canon/characters/ILLI.md#royal-family-and-early-partnership"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Queen Sairenne",
+          "body_sha256": "951241b3b33bcaf59ccbce8ba81fce228691341940481c0286bddbf285a68939",
+          "paragraphs": [
+            {
+              "sha256": "951241b3b33bcaf59ccbce8ba81fce228691341940481c0286bddbf285a68939",
+              "status": "WORKING",
+              "reason": "Preserve the supplied royal-family working model, names/ages/roles/Queen toolkit and chosen career endpoint, mathematics/elicitation competence and family-only estate. No extra relatives, cycles or automatic capability from wealth.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#arc-one-r2--royal-family-working-canon",
+                "canon/characters/ILLI.md#royal-family-and-early-partnership"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Sibling exposure / cycles",
+          "body_sha256": "16871e8a636bdcbb9b5547760c9002911c955dadaadf3d98b9345ddcd450ca15",
+          "paragraphs": [
+            {
+              "sha256": "16871e8a636bdcbb9b5547760c9002911c955dadaadf3d98b9345ddcd450ca15",
+              "status": "WORKING",
+              "reason": "Preserve the supplied royal-family working model, names/ages/roles/Queen toolkit and chosen career endpoint, mathematics/elicitation competence and family-only estate. No extra relatives, cycles or automatic capability from wealth.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#arc-one-r2--royal-family-working-canon",
+                "canon/characters/ILLI.md#royal-family-and-early-partnership"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Private estate",
+          "body_sha256": "d4d7281d26fbadeabfba23593d712c53c6007863233f76a7ecf28969df523966",
+          "paragraphs": [
+            {
+              "sha256": "d4d7281d26fbadeabfba23593d712c53c6007863233f76a7ecf28969df523966",
+              "status": "WORKING",
+              "reason": "Preserve the supplied royal-family working model, names/ages/roles/Queen toolkit and chosen career endpoint, mathematics/elicitation competence and family-only estate. No extra relatives, cycles or automatic capability from wealth.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#arc-one-r2--royal-family-working-canon",
+                "canon/characters/ILLI.md#royal-family-and-early-partnership"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "001 — `raeon` Flagship",
+          "body_sha256": "696432f6eb86d07b98d60ca8af0e5be81e2bee07cf6bae8639e6e8f884b6b0bc",
+          "paragraphs": [
+            {
+              "sha256": "04ade3e599494f96ed3e26fd1d5fce6b2de486330fe0434d1e3c3e544e5fa2b3",
+              "status": "CURRENT",
+              "reason": "All supplied exterior/interior/display/testing/ownership/community behaviors promoted; temporary cards are store-limited and cannot enter sanctioned tournaments.",
+              "destinations": [
+                "live-model/RAEON.md#arc-one-r2--flagship-play-and-ownership"
+              ]
+            },
+            {
+              "sha256": "9357e71c7225fa0b89c28a88fa6d1bd32cef5be4872334e01134184aea976c9e",
+              "status": "CURRENT",
+              "reason": "All supplied exterior/interior/display/testing/ownership/community behaviors promoted; temporary cards are store-limited and cannot enter sanctioned tournaments.",
+              "destinations": [
+                "live-model/RAEON.md#arc-one-r2--flagship-play-and-ownership"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "`raeon` outside Valnak",
+          "body_sha256": "6a90e3fcce1d7e73496bc9cdb1694979dd1a226d9edfa312f5e7982b8fdbc98f",
+          "paragraphs": [
+            {
+              "sha256": "6a90e3fcce1d7e73496bc9cdb1694979dd1a226d9edfa312f5e7982b8fdbc98f",
+              "status": "CURRENT",
+              "reason": "Authorized external cards remain authentic; cycle windows restrict releases, not continued validity.",
+              "destinations": [
+                "live-model/RAEON.md#arc-one-r2--flagship-play-and-ownership"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "002 — Genesis Card Flagship",
+          "body_sha256": "729ccfd00f323c722126d751db86883611601bf78da93396e938a16c06199bdf",
+          "paragraphs": [
+            {
+              "sha256": "729ccfd00f323c722126d751db86883611601bf78da93396e938a16c06199bdf",
+              "status": "MIXED_PARTIAL",
+              "reason": "Gallery/display/attendant practice promoted; few-hundred scale WORKING, exact inventory OPEN; structural basin identity is not rarity.",
+              "destinations": [
+                "live-model/GENESIS_CARDS.md#arc-one-r2--location-002-and-early-fireball-interest"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Frosted abecca",
+          "body_sha256": "f4f42ec8ce17925ecd4586503357091601bc8963e791fd716cb001daabf80052",
+          "paragraphs": [
+            {
+              "sha256": "f4f42ec8ce17925ecd4586503357091601bc8963e791fd716cb001daabf80052",
+              "status": "CURRENT",
+              "reason": "Intensely chilled/supercooled smooth thick creamy drink; not solid, beads or slush.",
+              "destinations": [
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "003 / 006 distinction",
+          "body_sha256": "92daac4f9820b7bff067f619f2524c5a194d04334dcf9b6566290bd65572785f",
+          "paragraphs": [
+            {
+              "sha256": "92daac4f9820b7bff067f619f2524c5a194d04334dcf9b6566290bd65572785f",
+              "status": "CURRENT",
+              "reason": "General clothing versus formalwear remain distinct; exact shop names OPEN.",
+              "destinations": [
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "005 family smithy",
+          "body_sha256": "44d35cf127fb0be64ed886c6d001cba2497c10522fb3656b0c3698b2dd605b84",
+          "paragraphs": [
+            {
+              "sha256": "44d35cf127fb0be64ed886c6d001cba2497c10522fb3656b0c3698b2dd605b84",
+              "status": "CURRENT",
+              "reason": "Father owns permanent Valnak smithy and works with brothers; mother manages outside business, not a blacksmith; Transductive craft retained.",
+              "destinations": [
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations",
+                "live-model/01_KIRA.md#arc-one-r2--armor-rival-and-family"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-arc1-r2/package/08_ECONOMY_AND_COMBAT_NOTES.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Credit philosophy",
+          "body_sha256": "9b527131b3e2def3e285ea3bafab0016892ce961a69c7432bb0ef4ecf51e1b69",
+          "paragraphs": [
+            {
+              "sha256": "4f273e203971bdd91ef145743c96b8c1718468ae6ebdfbc23a7af113d3e6ac75",
+              "status": "CURRENT",
+              "reason": "Major progression exact; explicitly permitted incidental lifestyle income has no fabricated totals or changed milestone dates.",
+              "destinations": [
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#arc-one-r2--incidental-lifestyle-income",
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#diplomatic-pouch-arc-one-r2--authoring-additions"
+              ]
+            },
+            {
+              "sha256": "fcd57149492febb075479c1640e2cb517bc37f01bcfa609e13659eb3eff3c543",
+              "status": "CURRENT",
+              "reason": "Major progression exact; explicitly permitted incidental lifestyle income has no fabricated totals or changed milestone dates.",
+              "destinations": [
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#arc-one-r2--incidental-lifestyle-income",
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#diplomatic-pouch-arc-one-r2--authoring-additions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Trial timing",
+          "body_sha256": "11470b55c99b469e3ad984b6fd52de75fe91eb562399d66402fb50d83f7dcf94",
+          "paragraphs": [
+            {
+              "sha256": "11470b55c99b469e3ad984b6fd52de75fe91eb562399d66402fb50d83f7dcf94",
+              "status": "CURRENT",
+              "reason": "Existing wave bands and supplied calendar blocks retained; no recalculated schedule.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#arc-one-r2--early-formation-failure-and-recruitment"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Guardian doctrine",
+          "body_sha256": "5d47fca0a7bb7980c7f5b2f131f9cc65345f537e1362ac7db9ba8540bda25343",
+          "paragraphs": [
+            {
+              "sha256": "5d47fca0a7bb7980c7f5b2f131f9cc65345f537e1362ac7db9ba8540bda25343",
+              "status": "CURRENT",
+              "reason": "Physical formation control; no aggro/taunt or guaranteed interception.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#arc-one-r2--early-formation-failure-and-recruitment"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Kira early failure mode",
+          "body_sha256": "90edde3508aa1f72036ce218759fc0d7e43b480a15fdbf82ee127e7f29c0dfc2",
+          "paragraphs": [
+            {
+              "sha256": "90edde3508aa1f72036ce218759fc0d7e43b480a15fdbf82ee127e7f29c0dfc2",
+              "status": "CURRENT",
+              "reason": "Spatial saturation, local Armor breaches and dogpile death; no infinite persistence or early area-control architecture.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#arc-one-r2--early-formation-failure-and-recruitment"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "illi early healing lesson",
+          "body_sha256": "379a69b5bb9dc918e71c5dc78abd933d1a0e95ab1535df68dd3a044e9c04aabf",
+          "paragraphs": [
+            {
+              "sha256": "379a69b5bb9dc918e71c5dc78abd933d1a0e95ab1535df68dd3a044e9c04aabf",
+              "status": "CURRENT",
+              "reason": "Heal while recoverable; no prolonging irrecoverable death.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#arc-one-r2--early-formation-failure-and-recruitment"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-arc1-r2/package/09_AUDIT_NOTES.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "46349c348174db73138d3e1f8fa124b13918972216dd4697b45bb45beb173311",
+          "paragraphs": [
+            {
+              "sha256": "bd2efc579a343f066c2a12524249bceb9c162ac6288948eb2e75ae6dfcd5ba14",
+              "status": "MIXED_PARTIAL",
+              "reason": "Historical package preparation assertions, checked against local baseline; 001/001-A/001-B existed, 002–007 newly added. Existing lexical, clock, Guardian, Blue Fireball and Vaelle/Aithre authority preserved. Audit note is not fresh remote verification.",
+              "destinations": [
+                "canon/PROMOTIONS.json",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations"
+              ]
+            },
+            {
+              "sha256": "b93d558ddda25961d69ab3752eb79858e3403de41c56f60a155c3887eae60c9c",
+              "status": "MIXED_PARTIAL",
+              "reason": "Historical package preparation assertions, checked against local baseline; 001/001-A/001-B existed, 002–007 newly added. Existing lexical, clock, Guardian, Blue Fireball and Vaelle/Aithre authority preserved. Audit note is not fresh remote verification.",
+              "destinations": [
+                "canon/PROMOTIONS.json",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations"
+              ]
+            },
+            {
+              "sha256": "01882e8c34fed822c0edc0e9998268e1b4488847afded5e7def53d82b6269b63",
+              "status": "MIXED_PARTIAL",
+              "reason": "Historical package preparation assertions, checked against local baseline; 001/001-A/001-B existed, 002–007 newly added. Existing lexical, clock, Guardian, Blue Fireball and Vaelle/Aithre authority preserved. Audit note is not fresh remote verification.",
+              "destinations": [
+                "canon/PROMOTIONS.json",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations"
+              ]
+            },
+            {
+              "sha256": "c9feab5bdfe3fda5b0278de6681ee00dd120defcd9c1cf30c77b2b90db7a33a1",
+              "status": "MIXED_PARTIAL",
+              "reason": "Historical package preparation assertions, checked against local baseline; 001/001-A/001-B existed, 002–007 newly added. Existing lexical, clock, Guardian, Blue Fireball and Vaelle/Aithre authority preserved. Audit note is not fresh remote verification.",
+              "destinations": [
+                "canon/PROMOTIONS.json",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-arc1-r2/package/EXECUTABLE.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "35ca8a73f2c21912e87eed9bdd9d8f86968f0e39ce85f804815d5e92dfc5a6f6",
+          "paragraphs": [
+            {
+              "sha256": "27aa9c340c11ed34575f10628fb7103f3b5ce21e1f5e57dc5a8ea1f420409f46",
+              "status": "CURRENT",
+              "reason": "Task execution scope, not an independent canon fact: integrate delta/registry, preserve CP25 and exact combat, keep supplied OPENs, normalize voice drift, validate and report. No commit or push directive is present.",
+              "destinations": [
+                "canon/PROMOTIONS.json",
+                "live-model/SUPERSESSIONS.md#diplomatic-pouch-arc-one-r2"
+              ]
+            },
+            {
+              "sha256": "ee5ab546497f26f49cfcf16a2e872b059d5caf00a6f9a1508679a765a8793af9",
+              "status": "CURRENT",
+              "reason": "Task execution scope, not an independent canon fact: integrate delta/registry, preserve CP25 and exact combat, keep supplied OPENs, normalize voice drift, validate and report. No commit or push directive is present.",
+              "destinations": [
+                "canon/PROMOTIONS.json",
+                "live-model/SUPERSESSIONS.md#diplomatic-pouch-arc-one-r2"
+              ]
+            },
+            {
+              "sha256": "70cdb1fb964b5b6efe1530f94e3befe6ecd71184a49a7aa94f74d55767907487",
+              "status": "CURRENT",
+              "reason": "Task execution scope, not an independent canon fact: integrate delta/registry, preserve CP25 and exact combat, keep supplied OPENs, normalize voice drift, validate and report. No commit or push directive is present.",
+              "destinations": [
+                "canon/PROMOTIONS.json",
+                "live-model/SUPERSESSIONS.md#diplomatic-pouch-arc-one-r2"
+              ]
+            },
+            {
+              "sha256": "c0a508d045e42207189a8eb8fe9edae0854d8833909486a55d99e76e152a61bf",
+              "status": "CURRENT",
+              "reason": "Task execution scope, not an independent canon fact: integrate delta/registry, preserve CP25 and exact combat, keep supplied OPENs, normalize voice drift, validate and report. No commit or push directive is present.",
+              "destinations": [
+                "canon/PROMOTIONS.json",
+                "live-model/SUPERSESSIONS.md#diplomatic-pouch-arc-one-r2"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tabular_sources": [
+    {
+      "source": "provenance/diplomatic-pouch-arc1-r2/package/04_CITY_LOCATION_REGISTRY_PATCH.csv",
+      "destination": "visual-references/CITY_LOCATION_REGISTRY.csv",
+      "key": "serial",
+      "row_digests": [
+        "8ac32c80b935f94efe116856ec5f6fd101c76389741724e381ae216e0d84b2b2",
+        "dc894aa339d6242326b9802d506b2eb7b0ebe4d27647ee6326dd69d3434ead18",
+        "549e07d882a5688ab8ad97ff9347bb8157645a37e0eb9b10e239639ef3193bfa",
+        "2662c1ee28620df6659a4aa380fc3f9719b2a005dc681bdeaa66e858b509789d",
+        "233cb1b44f56c48ddc5e45456d4b8567d2ffd053816d2124650d32aa418dd9f9",
+        "9a14a377e15babddbab2284a4618810f926686982c42807cdc380272344eb687"
+      ]
+    }
+  ],
+  "supersessions": [
+    {
+      "scope": "Calendar as exhaustive activity log / blanket prohibition on all unscheduled paid activity",
+      "decision": "Explicit later incidental lifestyle-credit doctrine permits short/shallow runs in available time. Required combat, recovery, progression/standings milestones remain; no added modeled earnings or exact run dates.",
+      "destinations": [
+        "THREAD_DEVELOPMENT_CONSTITUTION.md#diplomatic-pouch-arc-one-r2--authoring-additions",
+        "live-model/ECONOMY_PURCHASE_SCHEDULE.md#arc-one-r2--incidental-lifestyle-income"
+      ]
+    },
+    {
+      "scope": "Generic Genesis Card shop location OPEN",
+      "decision": "002 is supplied LOCKED adjacent to 001; exact inventory/prices and named shop identities beyond the source remain OPEN.",
+      "destinations": [
+        "live-model/GENESIS_CARDS.md#arc-one-r2--location-002-and-early-fireball-interest",
+        "visual-references/CITY_LOCATION_REGISTRY.csv"
+      ]
+    },
+    {
+      "scope": "Unnamed royal family and early Arc Two social direction",
+      "decision": "Admit supplied WORKING family model and exact source scene directions; do not extrapolate cycle dates, household floorplans, extra relatives, formal adoption or chapter boundaries.",
+      "destinations": [
+        "live-model/03_VALNEK_PATHS.md#arc-one-r2--royal-family-working-canon",
+        "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock"
+      ]
+    },
+    {
+      "scope": "W9 result precision",
+      "decision": "Exact totals remain OPEN. Roughly three kills is a WORKING author best-gap example; rival is unaware of the gap. Both public W8 and Kira deeper W9 retained.",
+      "destinations": [
+        "live-model/01_KIRA.md#arc-one-r2--armor-rival-and-family"
+      ]
+    },
+    {
+      "scope": "R1D2/R1D3 opening and arc alignment",
+      "decision": "UNRESOLVED/RECOVERY_GAP. R2 presupposes partnership/standing on R1D2 and calls the same R1D3 Solo an Arc Two scene. Do not invent an earlier meeting, move a paid run, duplicate a Solo or silently reassign the prior opening close.",
+      "destinations": [
+        "live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock",
+        "story/ARC_01/ARC.md",
+        "story/ARC_02/ARC.md"
+      ]
+    },
+    {
+      "scope": "Arc Five/Seven historical city byte guard",
+      "decision": "Only city prose and registry are eligible for validated promotion replacement; all numerical assertions and all other historical preservation tests remain. Source/row digests and original registry prefix are checked.",
+      "destinations": [
+        "tools/validation/validate_promotions.py",
+        "tools/validation/README.md"
+      ]
+    }
+  ],
+  "open_items": [
+    "R1D2/R1D3 first-Solo/friendship/standing and arc-placement chronology",
+    "Exact rival W9 totals, name/appearance/build/reconciliation",
+    "Exact White Fireball identity/price and card inventory",
+    "Residence floorplan/room count/price and recovery mechanics beyond working rule",
+    "Exact clothing costs, shop/venue names, flag commission date and callsigns",
+    "Reaper identity/command/deployment; illi has suspicion only",
+    "Chapter count/boundaries and R2D2 onward scene elaboration"
+  ],
+  "working_items": [
+    "Royal family table and approximate capability bands",
+    "Host-residence temporary recovery rooms",
+    "Lush volcanic-island residence domain",
+    "Author-level ~3-kill best W9 gap",
+    "R1D3 intraday timing",
+    "R1D6 conditional #1 Duo standing",
+    "Few-hundred Genesis Card inventory scale; million-credit White Fireball desire; few-hundred formal dress cost"
+  ],
+  "preserved": "CP25 authority and exact progression/reward/calendar data; first paid Solo R1D3; no Trio booked or advanced early Kira kit; later arcs; inheritance firewall; all earlier package/audit bytes.",
+  "semantic_review": "All nine Markdown documents, including introduction/table material, and all six supplied CSV rows reviewed against destinations. Computed coverage proves accounting, not independent semantic truth."
+}

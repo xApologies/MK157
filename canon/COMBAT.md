@@ -50,6 +50,10 @@ First validated kill starts a participant's seven-day eligibility window; conque
 CP25 adds a separate authored Kira+illi core-award layer, R/O/Y/G collective 1M/2.3M/3.7M/5M with two equal eligible shares. This is not a universal ordinary contribution table; Blue/Violet success amounts and extension to other formations remain OPEN. Kira uses CSR penetration, Halo endurance and Orb impact; Green melee can be overflown, Blue projected pressure defeats/aborts the attempt with no payout, and no Violet success is booked. White W1 discovery becomes an ethical mature-campaign-only closer program after Elara's intervention. [Specific core layer](../combat-rewards/DOMAI_CORE_AWARDS.json); [Discovery and limits](../live-model/32_CHECKPOINT_25_ARC7_FINALE.md#white-w1--trial-payoff-and-core-cracking-discovery).
 
 
+## Arc One R2 combat direction
+
+Kira's Armor re-resolution can be overwhelmed locally, opening breaches under a dogpile. PC heals projected biology but should not prolong irrecoverable death. Guardian interception/position/denial stays physical; no aggro, taunt or gear score. Supplied Group Finder grammar and common Guardian + helkir + three flexible composition do not mandate a permanent party. [Combat owner](../live-model/04_COMBAT_WORLD.md#arc-one-r2--early-formation-failure-and-recruitment).
+
 ## Factual ownership
 
 This is a resolved authoring view of existing sources. Explicit later corrections govern conflicts; compatible earlier detail survives. The source sections below retain the full detail.

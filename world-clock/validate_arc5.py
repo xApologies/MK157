@@ -7,6 +7,10 @@ import json
 from pathlib import Path
 import re
 import subprocess
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools' / 'validation'))
+from validate_promotions import validated_city_replacements
 
 
 def audit(root):
@@ -155,6 +159,12 @@ def audit(root):
     allowed.update({'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/ARC3_ECONOMY_AUDIT.json', 'economy/validate_economy.py', 'combat-rewards/README.md', 'live-model/PRIME_ELEMENTALS.md', 'world-clock/validate_arc4_handoff.py', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'bindings/PRICING_MODEL.md', 'world-clock/validate_arc3.py', 'economy/AUDIT.json', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ARC4_HANDOFF.md', 'economy/KIRA_BLACK_ACQUISITION_PRICES.json', 'world-clock/validate_arc4_yellow.py', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'})
     # Explicit CP25 surfaces; field/prefix preservation is audited by validate_arc7.
     allowed.update({'live-model/RAEON.md', 'live-model/GENESIS_CARDS.md', 'trial-rewards/README.md', 'combat-rewards/validate_rewards.py', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/COMBAT_REWARD_TABLES.json'})
+    # R2 explicitly updates city prose and appends registry rows. Accounted
+    # replacement hashes are required; no reward/calendar assertion is relaxed.
+    try:
+        allowed.update(validated_city_replacements(root))
+    except (OSError, ValueError, KeyError) as exc:
+        require(False, 'City promotion preservation: ' + str(exc))
     protected = []
     for path, digest in before['sha256'].items():
         if path not in allowed:

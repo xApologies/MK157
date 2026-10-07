@@ -2,7 +2,7 @@
 
 | Field | Current state |
 |---|---|
-| Canon source | Checkpoint 25 correction and compatible cumulative authority; Diplomatic Pouch 01 supplies bounded Arc One opening additions |
+| Canon source | Checkpoint 25 correction and compatible cumulative authority; Diplomatic Pouches 01 and Arc One R2 supply bounded opening / early Arc Two additions |
 | R1 audited baseline | `3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31` |
 | R1 baseline tree | `d2e80f13b3ea6a3e7a41754acb7897c9b479f29d`; 543 tracked files; main and fetched origin/main agreed at preflight |
 | Historical maintenance | authoring-cleanup-r1; authoring/navigation revision, not Checkpoint 26 |
@@ -19,3 +19,5 @@ The [constitution](THREAD_DEVELOPMENT_CONSTITUTION.md) remains binding, with the
 The complete baseline inventory and byte/mode evidence are in [BASELINE.json](provenance/maintenance/authoring-cleanup-r1/BASELINE.json). [Section coverage](provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json) declares the selected semantic-review scope; preserving all 543 files does not imply every archived package or generated catalog row was semantically reread. Exact registry/calendar validation and historical navigation are separately recorded.
 
 Current [Arc One promotion](provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md) is integrated in place. Chapterization remains deferred. The linked R1 evidence describes the historical cleanup baseline; later source changes are accounted for by [author promotions](canon/PROMOTIONS.json), without rewriting that audit.
+
+Current [Arc One R2 source](provenance/diplomatic-pouch-arc1-r2/package/EXECUTABLE.md) adds the Red scene clock, WORKING family/residence model, recurring social spaces and incidental lifestyle-credit doctrine. CP25 and exact required calendars remain intact; the first-Solo/Duo/friendship RECOVERY_GAP persists. See [promotion accounting](canon/PROMOTIONS.json).

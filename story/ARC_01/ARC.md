@@ -49,3 +49,7 @@ Highlights close the arc. They may show Kira's inexperienced fighting, the rival
 The R1D2/R1D3 chronology conflict remains; the developed narrative close does not reopen later arcs or move their progression. Keep rival name/appearance/build/reconciliation, W9 kill counts, outfit purchase/price, microscopic biology, “Curious.” meaning and graphic-death editing OPEN. The source's rough lifespan and return interval are qualified examples. No chapters, named peers, extra dialogue or full bank balance is created.
 
 [Approved source](../../provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md) · [Chapter workspace](chapters/README.md) · [Arc Two transition](../ARC_02/ARC.md) · [Arc map](../INDEX.md) · [Local OPEN register](../../canon/OPEN.md)
+
+## R2 handoff continuity
+
+The [R2 handoff](../../live-model/01_KIRA.md#arc-one-r2--armor-rival-and-family) adds observed Augmenter-like amplification without an ordinary Binding and a WORKING rival best-gap of ~3 kills, unknown to him; exact totals remain OPEN. The [Arc Two scene clock](../ARC_02/ARC.md#developed-red-scene-clock--r2) supplies early partnership days, but does not repair the earlier R1D2/R1D3 chronology conflict or book another R1D3 Solo. No chapter boundaries follow.

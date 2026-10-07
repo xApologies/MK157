@@ -19,3 +19,5 @@ That coverage records the historical R1 revision. [Later author promotions](PROM
 | [Open](OPEN.md) | Protected unknowns, resolved old questions and working examples |
 
 [Authority map](AUTHORITY_MAP.json) · [Seven arcs](../story/INDEX.md) · [Data owners](../data/INDEX.md) · [Source firewall](../upstream/INHERITANCE.md) · [Historical corpus](../upstream/HISTORICAL_INDEX.md)
+
+[Arc One R2](../provenance/diplomatic-pouch-arc1-r2/package/EXECUTABLE.md) adds early Arc Two, family/city/card detail and qualified lifestyle-credit doctrine; current source accounting is in [promotions](PROMOTIONS.json).

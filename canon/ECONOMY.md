@@ -54,6 +54,10 @@ raeon and Genesis Cards use Advanced R5,700/O9,120/Y16,416/G34,474/B86,185/V258,
 Civic/social gifts may fund residences, clothes, amenities, meals and cards; they may not directly or indirectly fund Binding/rank progression. No donor or loophole is invented. Creator evaluation, Prism, raeon and other legitimate routes coexist with combat; unprovided rates are OPEN. Rare Auction lots, White Dimensional Ring, living vaen, clothing/gifts and social purchases are legitimate late discretionary sinks; Ring price and exact inventories remain OPEN, and the conversational 2.5M is rejected. [Transfers](../live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md#valnak-social-credit-transfer-firewall); [Ring limits](../live-model/DIMENSIONAL_RINGS.md).
 
 
+## Arc One R2 lifestyle-credit scope
+
+Explicit author doctrine permits shallow incidental paid Trials in available personal time with between-wave termination. Formal ledgers model progression, not literal every-credit balances. No off-page total, shifted milestone, new required combat or erased recovery block is implied. Ordinary living is cheap relative to cards/Bindings. The R1D7 conventional formal dress is a few-hundred-credit direction, exact cost OPEN. [Economy owner](../live-model/ECONOMY_PURCHASE_SCHEDULE.md#arc-one-r2--incidental-lifestyle-income).
+
 ## Factual ownership
 
 This is a resolved authoring view of existing sources. Explicit later corrections govern conflicts; compatible earlier detail survives. The source sections below retain the full detail.

@@ -48,6 +48,10 @@ After Domain she selects a small Black support/interface package at 61,017 each:
 
 The [developed Arc One](../../story/ARC_01/ARC.md) now continues through gentle residence re-instancing, a brief Node primer, free walkabout, both distinct flagships, optional inexpensive clothing, Champion dinner, illi/Elara friendship and Highlights. Kira/illi seeds sisterhood; Kira/Elara seeds closest friendship. Rough 100–200-credit clothing remains WORKING, not a booked purchase or a later premium dress. The earlier R1D2 shared Duo creates an explicit remaining calendar RECOVERY_GAP; no paid run is moved.
 
+## Arc One R2 additions
+
+Armor's early physical amplification is Augmenter-like, not an acquired ordinary Augmenter Binding. The rival does not know the exact W9 gap; roughly three kills is an author-side WORKING best-gap example and exact totals stay OPEN. Dark-neutral everyday taste and her family's 005 smithy are supplied. [Kira owner](../../live-model/01_KIRA.md#arc-one-r2--armor-rival-and-family).
+
 ## Factual ownership
 
 This is a resolved authoring view of existing sources. Explicit later corrections govern conflicts; compatible earlier detail survives. The source sections below retain the full detail.

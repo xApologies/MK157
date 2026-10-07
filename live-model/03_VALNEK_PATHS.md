@@ -669,3 +669,57 @@ From B6D3, remaining cost to intended first White-Legacy endpoint = **9,513,297*
 Target: Persistent Coherence White / Absorption White / Genesis Prime White / Coherence Prime White / Resonance Prime White; Genesis Beam may remain Green.
 After completion a second White path becomes available: **Decoherence**.
 Elara asks illi not to accept/start it this cycle. illi agrees. No mechanical block and no stripping of her legitimate first White Legacy.
+
+## Arc One R2 — residences and Ghost Base
+
+### Group recovery — WORKING
+
+Grouped progression content may designate host residence for wipe/death recovery. Valnak can append temporary private recovery rooms: calm room, bed, window/plant, short corridor to common space. Host wakes in own bedroom. Guest rooms are temporary recovery infrastructure, not permanent expansion. Successful exits need not use death-reinstancing.
+
+### Kira residence and later Arc Two reservoir
+
+- Kira's residence organically becomes Kira+illi base of operations and gives illi independence from royal-household gravity without rebellion.
+- Working domain: private instanced lush volcanic island; dark rock; geothermal/steam character; safely distant visible magma trace possible; beachfront; modern geometric house. Exact layout/room count/price OPEN.
+- Reapers are real but opaque Special Projects combatants associated with extreme eldris engagements. Battlefield history proves existence; command/deployment structure is obscure.
+- illi has deliberately probed military culture using royal access and information-elicitation training. She knows `Special Projects` exists and strongly suspects she once met a Reaper without knowing identity.
+- Later Arc Two: after dinner/Highlights and some alcohol, illi argues Reapers are real; joke escalates into calling Kira's residence `Ghost Base` and themselves pretend Reapers.
+- Giant pirate flag = **The Dread Rainbow**. Eventually commissioned and hung on a huge wall; exact date OPEN.
+- Callsigns emerge organically later; do not preassign.
+
+### Residence economy
+
+Ordinary residence modules/customization are mature Valnak infrastructure and cheap relative to Bindings/cards. Custom transductive/luxury features may cost more. No terrestrial housing-scarcity logic.
+
+[Supplied residence/relationship delta](../provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md). The island domain and recovery arrangement remain WORKING; no permanent rooms, layout, price, callsigns or flag commission date are invented.
+
+## Arc One R2 — royal family working canon
+
+The following supplied family model is **WORKING canon**, with approximate ages/bands qualified as shown. Names are author supplied, not generated; no extra relatives or historical cycle dates follow.
+
+
+| Role | Name | Age | Direction |
+|---|---|---:|---|
+| King | Vaelor | ~300 | high-Blue Solo veteran |
+| Queen | Sairenne | ~300 | veteran helkir; intellectually/mathematically literate |
+| Eldest son | Caedren | 238 | early-Violet combatant; friendly competitive tension with father |
+| Eldest daughter | Laira | 191 | professional mathematician |
+| Second daughter | Maiven | 143 | Architect |
+| Second son | Raethen | 87 | Green combatant; exact band can remain working |
+| Third son | Daevin | 51 | mid-Yellow combatant |
+| Youngest daughter | `illi` | 20 | first-cycle helkir |
+
+### Queen Sairenne
+- Narrow, deliberately completed helkir toolkit: Persistent Coherence, Directed Coherence, Coherence Field.
+- Once she acquired/developed the three healing tools she wanted, she stopped pursuing Trial/Dungeon/Raid progression as a personal objective. She came to Valnak to become a healer and considered that objective complete.
+- Outside Valnak, healing is a major source of practical public authority/service as Queen.
+- illi originally follows her mother's footsteps; her later White-Legacy architecture diverges beyond Sairenne's chosen endpoint.
+- Sairenne is mathematically literate rather than a professional mathematician: comfortable with logic, sets/relations, discrete reasoning, identities/inverses, combinatorial/network concepts, and ordinary mathematical language of Genesis civilization. Laira is the specialist mathematician.
+- Sairenne is a major source of illi's information-elicitation discipline: information is power; model what is known, missing, implied, withheld.
+
+### Sibling exposure / cycles
+Exact historical opening dates need not be over-specified. Age and repeated Valnak access explain accumulated capability. Royal wealth provides preparation/opportunity, not automatic competency.
+
+### Private estate
+The royal Valnak estate is a private family residence, not a barracks/court residence. Human permanent occupancy = royal family only. Valnak-bound NPC/personification attendants perform domestic service. The estate may nevertheless host large social events, receptions and galas.
+
+[Royal-family source](../provenance/diplomatic-pouch-arc1-r2/package/06_ROYAL_FAMILY.md). Naming follows the constitution's class-coded ae/ai convention, with lowercase illi the deliberate maternal exception. This does not change the existing Vaelle hierarchy or Aithre's landless civic status.

@@ -65,10 +65,18 @@
         {
           "path": "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
           "section": "whole record / document"
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md",
+          "section": "whole record / document"
+        },
+        {
+          "path": "provenance/diplomatic-pouch-arc1-r2/package/03_RED_WEEK2.md",
+          "section": "whole record / document"
         }
       ],
       "local_open": "R1D2 shared Duo versus post-R1D3-Solo friendship dinner; exact CSR purchase date, discretionary spending, minor identities and unsupplied failed-run awards remain OPEN.",
-      "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
+      "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources. R2 supplies scene direction over required calendar; no duplicate R1D3 Solo or newly resolved opening chronology."
     },
     {
       "id": "ARC_03",
@@ -211,6 +219,7 @@
     }
   ],
   "author_promotions": [
-    "diplomatic-pouch-01"
+    "diplomatic-pouch-01",
+    "diplomatic-pouch-arc1-r2"
   ]
 }

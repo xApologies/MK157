@@ -197,7 +197,7 @@ Working ranking/tie rule:
 
 The ranked participant controls the table access while they hold that position and can bring guests.
 
-Kira takes #1 on Day One and **never relinquishes #1 during the entire seven-season cycle**.
+Kira takes #1 with the R1D3 Solo result and **never relinquishes #1 during the entire seven-season cycle**.
 
 The center/prime #1 table therefore becomes socially known as **Kira's table**.
 
@@ -232,9 +232,9 @@ Highlight reels are a principal bridge from the World Clock into the character s
 
 # 11. Kira / illi / Elara public visibility
 
-By Day Two, Kira is unmistakably famous:
+After the first Solo and public Highlights, Kira becomes unmistakably famous:
 - only Black Legacy;
-- Day-One Yellow first-cycle Solo result;
+- R1D3 Yellow first-cycle Solo result;
 - #1 Champion Table;
 - first-night highlight exposure;
 - extraordinary transformed biology;
@@ -298,3 +298,24 @@ Foundations may fund mathematics/research, develop/own protected mathematical/si
 Valnak social/civic/non-progression gifts may fund residences, clothing, hospitality, amenities, raeon and Genesis Cards. **Binding/rank/combat progression financing is prohibited, directly or indirectly**; enforcement/UI/limits/anti-circumvention stay OPEN. No particular funding gift is assigned.
 
 Available palette: Tea Parties; **one seasonal Gala per season**; residence Builder/theorycrafting parties; raeon deck-building; Genesis Card collecting/trading; card shops/casual play; Champion Table/Highlights; home/recovery. Dates/attendance are unassigned beyond existing World Clock events. This does not fill OPEN rows or move tournament/Auction/Prism schedules.
+
+## Arc One R2 — recurring city locations
+
+The [registry](../visual-references/CITY_LOCATION_REGISTRY.csv) preserves 001/001-A/001-B and adds the supplied 002–007 rows. 002 is the LOCKED Genesis Card flagship adjacent to 001. WORKING locations: 003 general clothing north-central main island; 004 abecca immediately west of 002; 005 family smithy on Craftsman's Row island; 006 formalwear north-central dense district, distinct from 003; 007 principal festival grounds on the southern lobe. Unnamed shops/venues stay unnamed. These are place markers, not new map pixels or invented coordinates.
+
+### Frosted abecca
+
+Kira's preferred abecca preparation: intensely chilled/supercooled, smooth, creamy and unusually thick, roughly milkshake-like in body while remaining a drink; not frozen solid, not bead-like, not a granular slush.
+
+### Clothing and family smithy
+
+003 = Kira's preferred general/day-to-day clothing shop; dark-neutral taste.
+006 = recurring formal/event dressmaker for ceremonies/galas.
+
+Kira's father owns a permanent Valnak smithy on Craftsman's Row. Father + brothers work there during cycle. Smithing is Transduction/material manipulation rather than conventional soot/forge-only craft. Kira's mother is not a blacksmith; outside Valnak she manages the family smithy/business and in Valnak largely enjoys her own leisure/vacation.
+
+### Opening Celebration
+
+R1D7 fills an existing recovery/social OPEN row with the end-of-first-week celebration, not required combat. It is citywide, with 007 the principal outdoor hub: music/concerts, food/drinks/alcohol, dancing, performances, social areas, quiet gardens/edges and possible Transductive spectacle. Only a short formal welcome is required. Ordinary capacity-controlled tickets are desirable, sell quickly and are meaningful early-cycle expenses. Current Top 10 Solo, Duo and Trio standings receive invitations: Kira qualifies via Solo; Kira+illi via Duo. This does not book a Trio. illi guides Kira through her first major high-visibility formal event after BLACKOUT.
+
+[Flagship 001 operations](RAEON.md#arc-one-r2--flagship-play-and-ownership); [002 gallery](GENESIS_CARDS.md#arc-one-r2--location-002-and-early-fireball-interest); [supplied spaces](../provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md).

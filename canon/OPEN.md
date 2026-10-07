@@ -69,3 +69,7 @@ This is a resolved authoring view of existing sources. Explicit later correction
 | [economy/ADVANCED_CARD_PRICES.json — whole record / document](../economy/ADVANCED_CARD_PRICES.json) | Structured factual owner; preserve exact fields and nulls. |
 
 [Local OPEN register](OPEN.md) · [Authority map](AUTHORITY_MAP.json) · [Section and item coverage](../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json)
+
+## Arc One R2 qualifications
+
+Royal family model, group recovery rooms, volcanic-island residence, approximate W9 best-gap (~3 kills), R1D3 intraday rhythm, R1D6 #1 Duo condition and a few-hundred-card gallery scale remain WORKING. Exact rival kill totals, names/identities beyond the supplied family, Reaper structure/identity, callsigns, floorplans/room counts, residence prices, shop/venue names, card inventory/White Fireball price, dress costs, flag commission date and chapter count remain OPEN. The existing Duo/first-Solo/friendship chronology RECOVERY_GAP persists; two references to R1D3 do not create two Solos. [R2 sources](../provenance/diplomatic-pouch-arc1-r2/package/EXECUTABLE.md).

@@ -718,3 +718,17 @@ White W7D5 championship and W7D5–D7 Final Auction retain standing infrastructu
 No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase dates, card inventory, vaen species/lots/prices or discretionary final balances are invented. The prior draft’s 41M and Trio-based accounting is superseded.
 
 [Full reconciled canon](32_CHECKPOINT_25_ARC7_FINALE.md); [calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md); [audit](../world-clock/ARC7_ECONOMY_AUDIT.json); [remaining bill](../economy/ILLI_REMAINING_WHITE_BILL.json).
+
+## Arc One R2 — early formation, failure and recruitment
+
+Current timing bands remain repository authority: Red W1–3 20–40 min/wave; Orange W4–7 45–75 min/wave; Yellow W8–12 1–2 h/wave; later bands as persisted. Calendar duration blocks govern authored day planning where supplied.
+
+No aggro/threat/taunt statistic. Guardian protects formation through interception, positioning, funnels, denial, obstruction, mobility/control and occupying dangerous space. If an eldris gets past Guardian it remains a threat.
+
+Kira is an effective mobile brawler but lacks mass-clear/area-control architecture. Her early losses come from spatial saturation: too many bodies, no clean escape vector, concentrated Armor disruption, local breaches, dogpile, death. Armor persistence is exceptional but not infinite.
+
+Persistent Coherence can become counterproductive when Kira is irrecoverably pinned: it repairs biological injury while merely prolonging an unwinnable death. Their doctrine evolves from this.
+
+Sustain Kira while her position is recoverable; once she is irrecoverably pinned/dogpiled, do not prolong death through healing. Armor restoration remains distinct from biological healing. On R1D4 she is an improvised Red Guardian and illi a helkir with PC Red. Guardian + helkir + three flexible members is common, not mandatory. The other three first-cyclers can stay unnamed; a friendly clear/debrief need not become permanent friendship.
+
+Group Finder through Node/residence exposes Trial / Dungeon / Raid / domai panes, LFG browse/apply and LFM post/review applicants. Public visibility helps acceptance; there is no gear score or invisible aggro table. [Combat source](../provenance/diplomatic-pouch-arc1-r2/package/08_ECONOMY_AND_COMBAT_NOTES.md); [R1D4 scene source](../provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md#r1d4--first-red-dungeon).

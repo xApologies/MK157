@@ -38,6 +38,10 @@ Compatible earlier world detail survives: Hollowmere is a Green-level, four-stra
 Dimensional Rings conserve objects through recursive topology, configuration-space expansion/selection/collapse and inheritance reassignment. They are not pocket dimensions, physical storage volumes, infinite inventory or menu/database systems. Recognition and user organization govern retrieval; the Jenkins rope illustration is not a character/calendar import. Working projection radii R~3/O5/Y7/G11/B17/V23/W31+feet express quality/energy reach, not fixed immutable dimensions. Expedition-standard and major investments at high quality, rings remove bookkeeping without removing route/supply decisions. Kira acquires a White Ring before departure for logistics including living vaen; exact price and handling constraints remain OPEN, and 2.5M is not canon. [Ring mechanism](../live-model/DIMENSIONAL_RINGS.md#operations-and-conservation); [Ring experience](../live-model/DIMENSIONAL_RINGS.md#user-experience-and-expedition-role).
 
 
+## Arc One R2 family and city life
+
+Royal names and family roles follow the [WORKING family model](../live-model/03_VALNEK_PATHS.md#arc-one-r2--royal-family-working-canon). Conservative noble naming favors masculine ae and feminine ai; lowercase illi is her mother's deliberate exception, and commoners need not follow the pattern. [Locations 002–007](../visual-references/CITY_LOCATION_REGISTRY.csv) now identify the second flagship, clothing/abecca shops, family smithy, formalwear and festival hub. Kira prefers frosted abecca: smooth, thick, intensely chilled, not solid/slush/beads. [City owner](../live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations). Reapers exist but their command/deployment/identities remain opaque; Ghost Base/The Dread Rainbow are later Arc Two social direction, not assigned callsigns or dates.
+
 ## Factual ownership
 
 This is a resolved authoring view of existing sources. Explicit later corrections govern conflicts; compatible earlier detail survives. The source sections below retain the full detail.

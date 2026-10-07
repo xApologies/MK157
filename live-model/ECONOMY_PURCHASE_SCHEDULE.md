@@ -347,3 +347,13 @@ White W7D5 championship and W7D5–D7 Final Auction retain standing infrastructu
 No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase dates, card inventory, vaen species/lots/prices or discretionary final balances are invented. The prior draft’s 41M and Trio-based accounting is superseded.
 
 [Full reconciled canon](32_CHECKPOINT_25_ARC7_FINALE.md); [calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md); [audit](../world-clock/ARC7_ECONOMY_AUDIT.json); [remaining bill](../economy/ILLI_REMAINING_WHITE_BILL.json).
+
+## Arc One R2 — incidental lifestyle income
+
+Major progression income/purchases remain exact against the calendar/ledger. Minor lifestyle income can come from incidental shallow off-page Trials. This prevents food, abecca, cheap dresses, plants, ordinary residence changes, etc. from artificially breaking milestone math.
+
+Cards and Bindings are major discretionary/progression sinks. Rare one-off/transductive luxury goods can also be expensive. Ordinary food, entertainment, residences and conventional clothing are comparatively cheap.
+
+The [constitution](../THREAD_DEVELOPMENT_CONSTITUTION.md#incidental-trial--lifestyle-credit-doctrine) explicitly permits short/shallow paid Trials in available personal time, with voluntary exit between waves only. The formal illi ledger models progression, not every credit in her bank. Required combat, recovery blocks, milestone dates and major standings are not moved, replaced or financed by invented off-page totals. No extra event or numeric income is inserted into the locked calendars.
+
+R1D7 supplies a conventional formal-dress purchase direction of **a few hundred credits**, exact cost OPEN; it is distinct from Arc One's optional 100–200 outfit and later premium dress examples. White Fireball remains a coveted particular collectible in illustrative million-credit territory, exact item price OPEN; CP25 Advanced list prices and the specific Y1D2 Blue Fireball purchase for 86,000 remain unchanged. [Source](../provenance/diplomatic-pouch-arc1-r2/package/08_ECONOMY_AND_COMBAT_NOTES.md).

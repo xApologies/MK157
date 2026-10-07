@@ -137,3 +137,19 @@ not a pocket dimension/infinite inventory/UI/database; recursive-topology conser
 Working projection radii: R~3 ft / O~5 / Y~7 / G~11 / B~17 / V~23 / W~31+; exact values adjustable, principle locked.
 Kira acquires a **White Dimensional Ring** before departure. Exact credit price remains OPEN. Do not canonize the conversational 2.5M placeholder.
 It solves post-Valnak logistics, including rare living `vaen`.
+
+## Arc One R2 — location 002 and early Fireball interest
+
+- internally expanded but smaller/less socially sprawling than 001.
+- aesthetic = very high-end collectible-card shop × luxury boutique × collector gallery.
+- spacious, restrained, high negative space; not sterile and not ostentatious jewelry decor.
+- primary fixtures are large square glass display islands organized Red -> White.
+- Red cases relatively dense; higher ranks progressively sparse; White may have only a few cards with large presentation space.
+- cards are viewed through cases; attendants facilitate closer inspection/handling/purchase.
+- cycle collection may be on order of a few hundred total cards as a working scale; exact count OPEN.
+- Genesis Card color remains structural manifold/basin composition, not `raeon` rarity semantics.
+- Kira repeatedly window-shops Fireball Genesis Cards here.
+
+Location 002 is now locked immediately adjacent to 001 in the central commercial core; it resolves the former generic shop-location OPEN, without resolving exact inventory or collector lot pricing. See the [city registry](../visual-references/CITY_LOCATION_REGISTRY.csv).
+
+On R1D3, Kira's Fireball obsession begins/strengthens through window-shopping. She covets a White Fireball in illustrative million-credit territory; exact card identity/price remain OPEN. This does not replace the CP25 Advanced rank ladder or move the specific 86,000 Blue Fireball purchase from the Y1D2 Arc Three close. [Social/card source](../provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md); [scene source](../provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md#r1d3--solo--card-life).

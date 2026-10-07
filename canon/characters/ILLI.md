@@ -38,6 +38,10 @@ Project Princess Carry is affectionate, reciprocal and increasingly intense: ear
 Fixed White gross is 63,677,830; subtracting the remaining bill leaves 54,164,533 before discretionary purchases and any carried reserve/contextual income. Cards, dress ideas, friendships and possible Tiara Fund are meaningful choices; roughly 23,000 dresses are WORKING, not booked general prices, and savings percentage is OPEN. Neither gross earnings nor this remainder is a final bank balance. [White arithmetic](../../live-model/32_CHECKPOINT_25_ARC7_FINALE.md#fixed-white-gross); [Discretionary agency](../../world-clock/ARC5_HANDOFF.md#spending--social-liberty).
 
 
+## Royal family and early partnership
+
+The [WORKING family model](../../live-model/03_VALNEK_PATHS.md#arc-one-r2--royal-family-working-canon) names Vaelor, Sairenne, Caedren, Laira, Maiven, Raethen and Daevin; illi remains lowercase, 20 and a first-cycle helkir. Sairenne's deliberately completed three-tool helkir career is distinct from illi's later White Legacy. Royal access and her mother's elicitation discipline support illi's informed suspicion about opaque Reapers/Special Projects. Her independent base with Kira is not rebellion. [Residence/Ghost Base direction](../../live-model/03_VALNEK_PATHS.md#arc-one-r2--residences-and-ghost-base); [Red scene clock](../../live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock).
+
 ## Factual ownership
 
 This is a resolved authoring view of existing sources. Explicit later corrections govern conflicts; compatible earlier detail survives. The source sections below retain the full detail.

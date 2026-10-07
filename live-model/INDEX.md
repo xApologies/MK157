@@ -2,7 +2,7 @@
 
 For authoring, begin with the [constitution](../THREAD_DEVELOPMENT_CONSTITUTION.md), [current status](../CANON_STATUS.md), [subject views](../canon/INDEX.md) and [seven arc dossiers](../story/INDEX.md). The detailed sources below remain in place; they contain cumulative history and must be read through explicit later corrections.
 
-Current order on conflicts: Diplomatic Pouch 01 for its explicit Arc One additions; otherwise CP25 correction > compatible CP25 master > CP24 > earlier explicit checkpoints. Compatible earlier facts accumulate. See [supersessions](SUPERSESSIONS.md), [protected OPENs](../canon/OPEN.md), the [full historical OPEN ledger](OPEN.md), [source boundaries](SOURCE_BOUNDARIES.md), and [authority map](../canon/AUTHORITY_MAP.json).
+Current order on conflicts: Arc One R2 then Diplomatic Pouch 01 for their explicit bounded additions; otherwise CP25 correction > compatible CP25 master > CP24 > earlier explicit checkpoints. Compatible earlier facts accumulate. See [supersessions](SUPERSESSIONS.md), [protected OPENs](../canon/OPEN.md), the [full historical OPEN ledger](OPEN.md), [source boundaries](SOURCE_BOUNDARIES.md), and [authority map](../canon/AUTHORITY_MAP.json).
 
 | Current question | Factual-owner route |
 |---|---|
@@ -18,3 +18,5 @@ Current order on conflicts: Diplomatic Pouch 01 for its explicit Arc One additio
 [All retained originals and checkpoint chronology](../upstream/HISTORICAL_INDEX.md) · [Exact data/mirrors](../data/INDEX.md) · [Visual status](../canon/VISUALS.md) · [Validation](../tools/validation/README.md)
 
 Historical packages, baseline archives and audits remain evidence of their time. Their presence, old filenames, PENDING headers or old numeric examples do not independently override current author decisions. No original source is deleted or relocated by this navigation revision.
+
+[Arc One R2](../provenance/diplomatic-pouch-arc1-r2/package/EXECUTABLE.md) governs its explicit later additions: [Red scenes](STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock), [royal family](03_VALNEK_PATHS.md#arc-one-r2--royal-family-working-canon), [city](VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations). Required calendar rows and CP25 remain intact.

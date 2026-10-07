@@ -5,6 +5,10 @@
     {
       "id": "diplomatic-pouch-01",
       "manifest": "provenance/diplomatic-pouch-01/INTEGRATION.json"
+    },
+    {
+      "id": "diplomatic-pouch-arc1-r2",
+      "manifest": "provenance/diplomatic-pouch-arc1-r2/INTEGRATION.json"
     }
   ]
 }

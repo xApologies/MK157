@@ -26,6 +26,10 @@ Elara can host/project presence through Kira's persistently sustained Orb and ac
 At the finale the next Black node is temporarily priced at 999,999,999,999 until a later cycle under Elara's administration. This is not its natural price or a new ordinary rank. Preserve the author-understory/access boundary in the full Arc Seven source rather than giving characters automatic knowledge or inventing the node. [Next-node and author-understory owner](../../live-model/32_CHECKPOINT_25_ARC7_FINALE.md). Final Halo coloration, indefinite multi-Orb sustainment and Elara-through-Orb ontology remain unanswered; none follows merely from friendship or administrative power.
 
 
+## Arc One R2 knowledge limit
+
+Valnak runtime generated Black architecture; Elara observes, tests and learns rather than knowing it omnisciently. The BFF trajectory stays distinct from Kira/illi sisterhood. [Current handoff](../../live-model/01_KIRA.md#arc-one-r2--armor-rival-and-family).
+
 ## Factual ownership
 
 This is a resolved authoring view of existing sources. Explicit later corrections govern conflicts; compatible earlier detail survives. The source sections below retain the full detail.

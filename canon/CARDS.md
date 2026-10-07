@@ -24,6 +24,10 @@ Current general Advanced card ladder: R5,700/O9,120/Y16,416/G34,474/B86,185/V258
 Genesis cycle-set sizes, release cadence, quantities, rarity and exact Auction integration remain unassigned. Older universal-price OPEN statements are superseded only by the Advanced ladder and the single 86,000 exception; they do not resolve collectible identities or scarcity. [Data routes](../data/INDEX.md) keep source tables in place.
 
 
+## Arc One R2 flagship practice
+
+001 is an unsigned iconic continuous Red→White store with expanded interior, browsable orthogonal card matrices, Builder/test/play/lounge space and authenticated physical ownership. Temporary non-owned store test manifestations cannot leave, trade or enter sanctioned tournaments. External authorized cards remain legitimate, and physical cycle-exclusive cards remain valid after the release window closes. 002 is a separate quieter gallery with square glass cases Red→White; a few hundred cards is WORKING scale, inventory OPEN. [raeon owner](../live-model/RAEON.md#arc-one-r2--flagship-play-and-ownership); [Genesis Card owner](../live-model/GENESIS_CARDS.md#arc-one-r2--location-002-and-early-fireball-interest).
+
 ## Factual ownership
 
 This is a resolved authoring view of existing sources. Explicit later corrections govern conflicts; compatible earlier detail survives. The source sections below retain the full detail.

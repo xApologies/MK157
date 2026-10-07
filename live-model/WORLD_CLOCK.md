@@ -63,7 +63,9 @@ ILLI — what illi does.
 Story/prose chooses intersections worth showing.
 
 ## Current earliest story anchors
-Red Week 1:
+The following Day-One/Day-Two labels are historical and superseded; use the R2 scene-clock overlay below and preserve the explicit first-Solo/friendship chronology gap. They do not assign additional paid events.
+
+Historical Red Week 1 labels:
 - D1 Kira arrival / Black / Solo / #1 Champion / dinner / highlights.
 - D2 first Duo x2 / re-instancing trauma / lunch at Table #1 / flagship `raeon` / city exploration / celebrity & crew recruitment / optional highlights.
 
@@ -325,3 +327,9 @@ White W7D5 championship and W7D5–D7 Final Auction retain standing infrastructu
 No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase dates, card inventory, vaen species/lots/prices or discretionary final balances are invented. The prior draft’s 41M and Trio-based accounting is superseded.
 
 [Full reconciled canon](32_CHECKPOINT_25_ARC7_FINALE.md); [calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md); [audit](../world-clock/ARC7_ECONOMY_AUDIT.json); [remaining bill](../economy/ILLI_REMAINING_WHITE_BILL.json).
+
+## Arc One R2 — narrative time and Opening Celebration
+
+R1D7 now hosts the supplied Opening Celebration, citywide with principal hub 007. This fills its social/recovery direction without changing a combat row. Nightly Highlights remain 25:00; suggested R1D3 wake/Trial/recovery/lunch/dinner times remain WORKING. Consult the [developed Red scene clock](STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock).
+
+Calendar is significant macro progression time; the novel selects significant narrative time. OPEN days can pass off-page. The [incidental Trial doctrine](../THREAD_DEVELOPMENT_CONSTITUTION.md#incidental-trial--lifestyle-credit-doctrine) permits optional shallow lifestyle income in available time, not new required combat or overwritten recovery blocks. Older Day-One Solo/Day-Two double-Duo labels remain superseded and the earlier friendship chronology remains RECOVERY_GAP.

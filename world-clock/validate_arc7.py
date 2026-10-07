@@ -9,6 +9,10 @@ import json
 from pathlib import Path
 import re
 import subprocess
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools' / 'validation'))
+from validate_promotions import validated_city_replacements
 
 
 def audit(root):
@@ -129,6 +133,12 @@ def audit(root):
         *['live-model/'+p for p in ('01_KIRA.md','03_VALNEK_PATHS.md','04_COMBAT_WORLD.md','BLACK_SYSTEMS_MASTERY.md','COMBAT_ECOLOGY.md','COMBAT_THRESHOLDS.md','DOMAI_PARTICIPATION.md','ECONOMY_PURCHASE_SCHEDULE.md','GENESIS_CARDS.md','ILLI_PROGRESSION.md','INDEX.md','OPEN.md','PARTNERSHIP_AND_CARRY.md','PRIME_ELEMENTALS.md','RAEON.md','STORY_CLOCK_STATE.md','SUPERSESSIONS.md','TRIAL_ARENA.md','WORLD_CLOCK.md')],
         *['world-clock/'+p for p in ('WORLD_CLOCK.md','WORLD_CLOCK_TEMPLATE.csv','validate_arc3.py','validate_arc4_handoff.py','validate_arc4_yellow.py','validate_arc5.py','validate_arc6.py','validate_yellow_director.py','ARC3_ECONOMY_AUDIT.json','ARC4_HANDOFF_AUDIT.json','ARC4_YELLOW_AUDIT.json','ARC5_DIRECTOR_AUDIT.json','ARC6_DIRECTOR_AUDIT.json','YELLOW_DIRECTOR_AUDIT.json')],
         'trial-rewards/README.md','combat-rewards/README.md','combat-rewards/COMBAT_REWARD_TABLES.json','combat-rewards/DOMAI_PARTICIPATION_RULES.json','combat-rewards/validate_rewards.py','economy/validate_economy.py','economy/AUDIT.json'}
+    # Only the two explicitly promoted city surfaces may differ from this
+    # historical snapshot, and their complete promotion chain must validate.
+    try:
+        allowed.update(validated_city_replacements(root))
+    except (OSError, ValueError, KeyError) as exc:
+        require(False, 'City promotion preservation: ' + str(exc))
     protected = []
     for p, digest in before['sha256'].items():
         if p not in allowed:

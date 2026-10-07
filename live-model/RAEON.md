@@ -253,3 +253,30 @@ D5 White `raeon` Championship + Final Auction begins.
 D6 Final Auction/social.
 D7 Final Auction conclusion / spending / goodbyes / departure preparation.
 Nightly Highlights remain implicit.
+
+## Arc One R2 — flagship play and ownership
+
+Exterior:
+- iconic unsigned architecture; the building itself is the sign.
+- connected facade domains progress Red -> Orange -> Yellow -> Green -> Blue -> Violet -> White.
+- each color has its own boulevard entrance, but all enter one continuous interior.
+- no conventional signage required.
+
+Interior:
+- non-isometric / expanded interior geometry; much larger than exterior footprint.
+- enormous open volume; ceilings can recede dramatically.
+- card walls are orthogonal 2D matrices. Rows/columns can be swiped/cycled; cyclic browsing can wrap from end back to start.
+- search/interface points can reorganize/filter presentation.
+- central floor contains Builder consoles, play/testing tables, couches/lounge clusters, community space.
+- players can scan/authenticate owned physical decks/cards to profile.
+- flagship can instantiate temporary non-owned test cards/decks for casual testing inside store.
+- temporary flagship manifestations cannot be taken, sold, traded, or used in sanctioned tournaments.
+- sanctioned tournament deck requires authenticated ownership of all cards.
+- 001 functions as game store + clubhouse + tournament hall + deck laboratory + community third place.
+- Kira/illi spend extensive leisure time here and may buy nothing.
+
+### External cards and cycle releases
+
+`raeon` exists civilization-wide through an authorized external production ecosystem between Valnak openings. Outside-produced cards are legitimate property and can be brought into Valnak/authenticated. Valnak also releases cycle-exclusive sets available only during that cycle's release window; existing physical cards remain valid after cycle closes.
+
+These are physical-store operations, not imported videogame UI or new detailed game rules. Genesis Cards remain a separate ecosystem. [Source](../provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md).

@@ -1,6 +1,6 @@
 # Arc 02 — Early partnership and White Legacy
 
-Macro status: **AUTHORIALLY CLOSED**. This is a recovered authoring dossier, not new scenes or revised canon. Local OPENs and source-recovery qualifications remain. Chapter/scene/prose state: **not created in the discovered corpus**.
+Macro status: **AUTHORIALLY CLOSED**. This authoring dossier includes the supplied R2 scene directions; it is not a chapter outline or manuscript. Local OPENs and source-recovery qualifications remain. Chapter/scene/prose state: **not created in the discovered corpus**.
 
 ## Entry and exit
 
@@ -19,9 +19,15 @@ illi ranks PC Orange R2D3, Yellow R4D2, Green R6D4 and Blue O1D4. Blue grants Wh
 
 Other fixed scaffold anchors: R3D2 Normal Red clear/Orange failures; R5D1–2 domai with no conquest payout, R5D3 recovery; R5D4 raeon participation/elimination with no required combat; R6D6 repeated paid-before Red boss awards no new major credit, then Orange first clear; O1D6 a new-season Red clear. Repeated Orange Dungeons are legitimate early group ecology. Optional failed Yellow ideas are not additional required events.
 
+## Developed Red scene clock — R2
+
+The [full scene owner](../../live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock) layers the author's Red Week 1 and R2D1 scenes over the locked combat data. R1D2 breakfast/Duo→004 abecca→001 raeon→lunch→002 gallery→003 clothes→Champion dinner/25:00 Highlights; R1D3 the single existing Solo plus cards/window-shopping; R1D4 Red Dungeon via Group Finder; R1D5 private royal-estate breakfast; R1D6 Duo then beach-residence leisure; R1D7 dress shopping at distinct 006 then the citywide Opening Celebration centered on 007. R2D1 chains two Red clears for group fun; R2D2 onward remains to be thickened. Approximate intraday times are WORKING, no chapters are assigned and the prior opening chronology conflict remains explicit.
+
+The [WORKING royal cast](../../live-model/03_VALNEK_PATHS.md#arc-one-r2--royal-family-working-canon) enters gradually. Queen Sairenne, Laira and Daevin appear at the first breakfast; Daevin's fascination/crush and Laira's handling are supplied direction, not new dialogue. Later illi's Reaper discussion after dinner/Highlights/alcohol leads to Ghost Base and pretend-Reaper humor; The Dread Rainbow flag is eventually commissioned, date OPEN. Callsigns arise later, not here. [Residence reservoir](../../live-model/03_VALNEK_PATHS.md#arc-one-r2--residences-and-ghost-base).
+
 ## Capabilities, social growth and limits
 
-Before Orbs, population/spatial saturation constrains melee throughput. Working early Solo/Duo W8–10 and inefficient mid-Orange Trio ceilings are calibration, not final standings or a booked Trio. illi's PC support Trials use simulated combatants and remain weak experiments; only the supplied attempts are credited. A skilled equipped noble rival reaching Yellow is credible, not made incompetent to elevate Kira.
+Before Orbs, population/spatial saturation constrains melee throughput. Working early Solo/Duo W8–10 and inefficient mid-Orange Trio ceilings are calibration, not final standings or a booked Trio. illi's PC support Trials use simulated combatants and remain weak experiments; only supplied attempts enter the formal progression ledger. Optional incidental shallow runs now follow the explicit R2 lifestyle-credit doctrine, without invented totals or shifted milestones. A skilled equipped noble rival reaching Yellow is credible, not made incompetent to elevate Kira.
 
 illi chooses partnership while retaining royal/family ties and the original cohort. City exploration, card-shop discovery, food, friendships, fame, home and recovery are available surviving beats, not forced appointments. First-cycle sandbox restrictions concern progression groups, not ordinary travel or social access. There is no invented compulsory team or third partner.
 

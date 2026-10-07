@@ -570,3 +570,11 @@ Do not prematurely give Kira complete remote-anchor/Domain/Transduction knowledg
 ## Checkpoint 25 application benchmarks
 
 Two-Orb blender operationally stable by V2D3; serious three-Orb training begins V2D4; three-Orb blender operationally stable late V7. Application competence does not explain the Orbs’ ultimate purpose or give complete remote-anchor/Domain/Transduction knowledge. White W1 Solo96 → Duo100 → Solo100, voluntary termination, no Trio. No defined mastery ceiling is imposed. Domain stays Late Violet, 61,017, exact day OPEN.
+
+## Arc One R2 — Armor, rival and family
+
+Armor is responsive liquid-black abyss continuous with Kira's Black Binding/Genesis-field state, with subtle internal R→V/rainbow geometry. It locally re-resolves disruption while coherence can be maintained; concentrated repeated disruption may outrun restoration, open breaches and injure projected biology. The three-claw mapping remains thumb / index+middle / ring+pinky. Early physical amplification is **Augmenter-like observed behavior**, not an ordinary Augmenter Binding or a new early ability. Elara is not omniscient about Black architecture: Valnak runtime generated it and she observes, tests and learns.
+
+Kira/Elara follow the BFF trajectory; Kira/illi the sister-level bond. Both Kira and the legitimate Blue/Raelon-house rival publicly display W8 Solo clear. Kira retains #1 through deeper validated W9 progress; the rival does not know the exact gap. An author-level best gap of **roughly three kills is WORKING**, not an exact result; all exact W9 kill totals remain OPEN. His attempts are noisy and can end early, including in Orange, without making him incompetent.
+
+Kira favors black/charcoal/graphite/deep-gray everyday clothes; exact style stays OPEN. Her [family smithy at 005](VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations) belongs to her father; father and brothers work there. Mother is not a blacksmith: she manages the outside business and enjoys Valnak leisure. [Approved handoff](../provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md).

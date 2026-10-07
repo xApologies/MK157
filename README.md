@@ -13,3 +13,5 @@ The subject pages resolve the reading order; existing source files and data stil
 [Upstream inheritance](upstream/INHERITANCE.md) follows MK157's source firewall: compatible Mk-147 world/culture, _raeon mechanics and _bricked foundations; no imported Kira/Enix identity or Binding-circle causality. Candidate registries do not define character builds.
 
 [Cleanup evidence and delivery report](provenance/maintenance/authoring-cleanup-r1/COMPLETION_REPORT.md).
+
+R2 now develops early Arc Two, royal-family/residence direction and city locations 002–007; [current scene owner](live-model/STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock). Chapter boundaries and the opening chronology gap remain unresolved.

@@ -17,3 +17,5 @@ Read the [constitution](../THREAD_DEVELOPMENT_CONSTITUTION.md), [current status]
 Begin the next author-directed creative pass in [Arc One](ARC_01/ARC.md). The chapter folders explain bounded expansion without inventing counts, moving combat, filling recovery days or turning suggestions into accepted canon.
 
 Full Yellow and Arc Five overlap at Y6D4–Y7D7; their two paid Duos are the same events. Earlier CP21 Yellow and CP25 master schedules survive as history, not current alternatives. Use [data routes](../data/INDEX.md) for the existing exact calendars and ledgers, [protected OPENs](../canon/OPEN.md) for local decisions, and [history](../upstream/HISTORICAL_INDEX.md) for original evidence.
+
+[R2 early Arc Two scene direction](ARC_02/ARC.md#developed-red-scene-clock--r2) thickens the existing macro scaffold. The opening chronology conflict remains explicit, and no chapters are created.

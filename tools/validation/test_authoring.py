@@ -4,11 +4,32 @@ import json
 import subprocess
 import tempfile
 from pathlib import Path
+from unittest.mock import patch
 from validate_authoring import fragments, headings, markdown_links, schema_check
-from validate_promotions import audit_promotions, check_coverage, digest, historical_content, sections, safe_path
+from validate_promotions import audit_promotions, check_coverage, digest, historical_content, sections, safe_path, validated_city_replacements
 
 
 class AuthoringFixtures(unittest.TestCase):
+    def test_multifile_coverage_keeps_royal_table_before_first_subheading(self):
+        text = '# Family\n\n| Name | Age |\n| Vaelor | ~300 |\n\n## Role\nWORKING.'
+        rows = sections(text, include_preamble=True)
+        self.assertEqual([r['section'] for r in rows], ['Document introduction', 'Role'])
+        self.assertEqual(rows[0]['paragraphs'], [digest('| Name | Age |\n| Vaelor | ~300 |')])
+        errors = []
+        check_coverage(text, [], lambda ok, msg: errors.append(msg) if not ok else None, lambda _: None, include_preamble=True)
+        self.assertIn('promotion section count', errors)
+        self.assertEqual(len(sections('# Instructions\n\nRead owners.', True)), 1)
+
+    def test_city_exception_never_exempts_numeric_data(self):
+        with patch('validate_promotions.audit_promotions', return_value={'changed': {'visual-references/CITY_LOCATION_REGISTRY.csv', 'live-model/VALNAK_CITY_CULTURE_TRANSPORT.md', 'trial-rewards/TRIAL_WAVE_CREDITS.csv'}}):
+            self.assertEqual(validated_city_replacements(Path.cwd()), {'visual-references/CITY_LOCATION_REGISTRY.csv', 'live-model/VALNAK_CITY_CULTURE_TRANSPORT.md'})
+        def invalid(root, git, require, target):
+            require(False, 'source tampered')
+            return {'changed': {'visual-references/CITY_LOCATION_REGISTRY.csv'}}
+        with patch('validate_promotions.audit_promotions', side_effect=invalid):
+            with self.assertRaisesRegex(ValueError, 'source tampered'):
+                validated_city_replacements(Path.cwd())
+
     def test_promotion_snapshot_rejects_undeclared_drift_and_tampering(self):
         with tempfile.TemporaryDirectory(prefix='mk157-promotion-test-') as directory:
             root = Path(directory)
@@ -36,6 +57,17 @@ class AuthoringFixtures(unittest.TestCase):
             rows = sections(text)
             rows[0]['paragraphs'] = [{'sha256':h,'status':'CURRENT','reason':'Explicit author update','destinations':['owner.md']} for h in rows[0]['paragraphs']]
             manifest = {'id':'fixture', 'baseline_commit':revision, 'changed_paths':{'owner.md':{'before_sha256':original['owner.md']['sha256'], 'after_sha256':digest((root/'owner.md').read_bytes())}}, 'source':source, 'package_sha256':{source:digest(text)}, 'coverage':rows, 'supersessions':[]}
+            second = prefix+'package/family.md'; family = '# Family\n\nA supplied introduction.\n'
+            (root/second).write_text(family, encoding='utf-8', newline='\n')
+            family_rows = sections(family, True)
+            family_rows[0]['paragraphs'] = [{'sha256':h, 'status':'WORKING', 'reason':'Supplied working model', 'destinations':['owner.md']} for h in family_rows[0]['paragraphs']]
+            manifest['source_documents'] = [{'source':source, 'coverage':rows}, {'source':second, 'coverage':family_rows, 'include_preamble':True}]
+            manifest['package_sha256'][second] = digest(family)
+            csv_source = prefix+'package/places.csv'; csv_text = 'serial,name\n002,Gallery\n'
+            (root/csv_source).write_text(csv_text, encoding='utf-8', newline='\n')
+            (root/'places.csv').write_text(csv_text, encoding='utf-8', newline='\n')
+            manifest['package_sha256'][csv_source] = digest(csv_text)
+            manifest['tabular_sources'] = [{'source':csv_source, 'destination':'places.csv', 'key':'serial', 'row_digests':[digest(json.dumps({'serial':'002','name':'Gallery'}, sort_keys=True, ensure_ascii=False))]}]
             put(prefix+'INTEGRATION.json', manifest)
             put('canon/PROMOTIONS.json', {'promotions':[{'id':'fixture','manifest':prefix+'INTEGRATION.json'}]})
             def check():
@@ -43,6 +75,9 @@ class AuthoringFixtures(unittest.TestCase):
                 audit_promotions(root, git, lambda ok, message: errors.append(message) if not ok else None, lambda _: None)
                 return errors
             self.assertEqual(check(), [])
+            (root/'places.csv').write_text('serial,name\n002,Wrong\n', encoding='utf-8', newline='\n')
+            self.assertIn('supplied registry rows differ from current owner', check())
+            (root/'places.csv').write_text(csv_text, encoding='utf-8', newline='\n')
             (root/'untouched.md').write_bytes(b'Unexpected edit.\n')
             self.assertTrue(any('undeclared promotion drift' in e and 'untouched.md' in e for e in check()))
             (root/'untouched.md').write_bytes(b'Preserve.\n')
