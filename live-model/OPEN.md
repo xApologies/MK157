@@ -206,3 +206,13 @@ White W7D5 championship and W7D5–D7 Final Auction retain standing infrastructu
 No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase dates, card inventory, vaen species/lots/prices or discretionary final balances are invented. The prior draft’s 41M and Trio-based accounting is superseded.
 
 [Full reconciled canon](32_CHECKPOINT_25_ARC7_FINALE.md); [calendar](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md); [audit](../world-clock/ARC7_ECONOMY_AUDIT.json); [remaining bill](../economy/ILLI_REMAINING_WHITE_BILL.json).
+
+## Diplomatic Pouch 01 — Arc One promotion
+
+The author-approved [Arc One delta](../provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md) governs its explicit opening additions. It develops the existing Arc One narrative through the Champion Table evening/Highlights; the older Armor/PC-Red initialization description remains the mechanical state, not a limit on this supplied narrative. This is not Checkpoint 26 and does not change later checkpoint/calendar/economy authority.
+
+Resolved: opening emotional spine, personal primers, embodied Armor/claw learning, participant PSSP death/return, W8/W9 result and 1,275 payout with no standings bonus, the rival's #2 placement, free walkabout/both flagships and the dinner friendship/Highlights close. First paid Solo remains R1D3; stale Day-One Solo assertions are superseded throughout older records.
+
+Preserved OPEN/WORKING: exact W9 kills; rival name/appearance/build/reconciliation; Elara's unexplained eye observation; microscopic biology; exact cheap-outfit purchase/price (100–200 is WORKING); approximately 15 experiential seconds (not a timer); roughly 11–17 Afflicted lifespan (not a universal cutoff); death treatment in public Highlights; extra UI rules and chapter boundaries.
+
+**Chronology RECOVERY_GAP:** the locked R1D2 shared Duo precedes the R1D3 Solo and subsequent friendship dinner in the pouch. Preserve both the approved narrative and the unchanged calendar pending author reconciliation. No earlier meeting, replacement date, extra paid combat or retrospective financial adjustment is invented. [Current narrative](STORY_CLOCK_STATE.md#arc-one-developed-narrative--diplomatic-pouch-01).

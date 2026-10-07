@@ -1,0 +1,96 @@
+{
+  "result": "PASS_WITH_OPEN_CHRONOLOGY",
+  "baseline_commit": "329d73dfc9afd2aae28a6c8d91b776ac4cfeae58",
+  "branch": "main",
+  "requested_commit_message": "Arc One: promote opening through Champion evening",
+  "publication": "Package requests a local commit, not a push. Final commit SHA and actual clean status are reported after committing in the task response.",
+  "scope": "Author-approved Arc One promotion in existing live-model/canon/story owners; adjacent Arc Two handoff only. No chapters, new numbered checkpoint, paid events or later progression invented.",
+  "source_accounting": {
+    "sections": 15,
+    "paragraphs": 49,
+    "registry": "canon/PROMOTIONS.json",
+    "manifest": "provenance/diplomatic-pouch-01/INTEGRATION.json"
+  },
+  "validation": {
+    "original_validators_passed": 10,
+    "authoring_result": "PASS",
+    "authoring_tests_passed": 12,
+    "critical_assertions_passed": 33,
+    "active_links": 1695,
+    "active_broken": 0,
+    "historical_broken": 361,
+    "diff_check": "PASS"
+  },
+  "preservation": {
+    "result": "PASS",
+    "baseline_commit": "329d73dfc9afd2aae28a6c8d91b776ac4cfeae58",
+    "baseline_files": 628,
+    "unchanged_baseline_files": 605,
+    "changed_baseline_files": [
+      "CANON_STATUS.md",
+      "README.md",
+      "THREAD_DEVELOPMENT_CONSTITUTION.md",
+      "canon/AUTHORITY_MAP.json",
+      "canon/COMBAT.md",
+      "canon/INDEX.md",
+      "canon/OPEN.md",
+      "canon/VALNAK.md",
+      "canon/characters/ELARA.md",
+      "canon/characters/KIRA.md",
+      "live-model/01_KIRA.md",
+      "live-model/03_VALNEK_PATHS.md",
+      "live-model/INDEX.md",
+      "live-model/OPEN.md",
+      "live-model/STORY_CLOCK_STATE.md",
+      "live-model/SUPERSESSIONS.md",
+      "story/ARC_01/ARC.md",
+      "story/ARC_02/ARC.md",
+      "story/ARC_MAP.json",
+      "story/INDEX.md",
+      "tools/validation/README.md",
+      "tools/validation/test_authoring.py",
+      "tools/validation/validate_authoring.py"
+    ],
+    "files_deleted": [],
+    "files_renamed": [],
+    "git_modes_preserved": true,
+    "package_byte_exact": true,
+    "historical_provenance_byte_exact": true,
+    "all_numeric_calendar_data_and_ten_original_validators_byte_exact": true,
+    "arcs_3_through_7_byte_exact": true,
+    "cosmology_byte_exact": true,
+    "diff_check": {
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    }
+  },
+  "iteration_findings": [
+    {
+      "finding": "Original Arc Five and Arc Seven guards require exact cosmology bytes.",
+      "resolution": "Restored cosmology to its original bytes; promoted details remain in Kira owner and personal primer. Numeric validators and expected values unchanged."
+    },
+    {
+      "finding": "The new synthetic promotion fixture wrote CRLF on Windows but expected LF bytes.",
+      "resolution": "The synthetic source fixture now writes explicit LF. Actual repository/package source bytes were not normalized to satisfy it."
+    }
+  ],
+  "remaining_open": [
+    {
+      "id": "ARC01_R1D2_DUO_BEFORE_FRIENDSHIP",
+      "status": "RECOVERY_GAP",
+      "detail": "Locked R1D2 Kira+illi Duo precedes R1D3 first Solo and subsequent friendship dinner in approved narrative. User clarification requested; no correction supplied at integration. Both records preserved; no invented earlier meeting, shifted run or financial change."
+    },
+    {
+      "id": "ARC01_LOCAL_DETAILS",
+      "status": "OPEN",
+      "detail": "Rival name/appearance/build/reconciliation; exact W9 kills; outfit purchase/exact price; microscopic biology; Curious meaning; graphic-death Highlights editing; extra UI rules; chapter boundaries."
+    }
+  ],
+  "warnings": [
+    "R1 source coverage is pinned historical evidence; new author decisions have separate accounting.",
+    "Preserved historical broken references are inventoried separately from active authoring links.",
+    "The locked R1D2 shared Duo still precedes the approved post-R1D3 friendship dinner; explicit author reconciliation remains necessary."
+  ],
+  "execution_boundary": "No archived EXECUTABLE or generator was executed; only the current pouch directive and read-only validators/invariant function were used."
+}

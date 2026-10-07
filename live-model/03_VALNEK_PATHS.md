@@ -34,6 +34,10 @@ release.
 
 Thus Valnak can "surprise" Elara without being a separate mind.
 
+## Familiarity across cycles
+
+Valnak is a multigenerational civilization engine and collaboration, not unknown territory. Families, professions, militaries and veterans prepare before the approximately 23-year Seasonal opening. Planned builds, party compositions, equipment and military formations can precede entry. Kira's parents have prior experience, so her questions concern operation and her anomalous circumstances, not facts everyone culturally knows. Between cycles Elara may revise panels/interfaces, city organization, landscaping and implementation while the broad institution remains familiar. [Arc One source](../provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md#valnak-familiarity).
+
 ## Legacies
 
 A Legacy is a **Valnak-validated developmental trajectory**, not merely a
@@ -145,6 +149,20 @@ new instance for occupancy/grouping. Exact graph/VM math is author-side
 and not reader-essential.
 
 First-cycle sandboxing restricts progression-bearing grouping before qualification, not social or geographic access. Eligible first-cycle peers may group. Reaching GREEN Solo grants early graduation in the same cycle; Kira has no automatic exemption.
+
+## PSSP embodiment, death and re-instancing
+
+The lived Valnak embodiment is a phase-state shadow projection tied to an authoritative maintained participant body/state. Injury is phenomenologically real to the PSSP: pain, blood, proprioceptive loss, exhaustion and fear. Destruction of the projection does not destroy the authoritative outside body/state. This participant-embodiment use of PSSP does not replace the stored-Binding/projection grammar.
+
+When nonviable, the Trial projection terminates. Valnak re-instances Kira safely on a bed in her permanent residence. Consciousness returns gently over roughly **15 experiential seconds**, an approximate narrative target rather than a hard timer, allowing combat physiology/cognition to settle and intact proprioception to re-establish. She remembers dying but does not awaken in peak-combat panic. Microscopic implementation and extra reset rules are not supplied.
+
+Reversible death is not psychologically trivial. Some entrants die once and refuse further combat, choosing Creation, education, tourism, leisure or other Valnak life. [Approved embodiment/return source](../provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md#pssp-death-and-re-instancing).
+
+## Residence Node primer
+
+Elara waits while Kira reawakens, then personally gives the brief welcome/congratulations and interaction primer normally supplied by Valnak onboarding. Kira culturally knows what a Node is; she learns summon/dismiss, panel navigation and selection. Apparent touch and thought are cognitive interaction methods.
+
+Briefly expose existing categories: dossier/identity/credits; Bindings/build; standings/qualifications; map/travel; social/friends/grouping/messaging; Builder. This teaches interaction grammar, not an exhaustive menu or new UI rules. Elara also explains that Kira's current #1 first-cycle Solo standing grants the #1 Champion Table reservation. Entitlement is competitive/dynamic, not a permanent personal gift. Macro travel remains Node → major region/domain → central hub; local travel remains walking, personal movement or carriage. [Node source](../provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md#residence-node-primer); [Champion Tables](01_KIRA.md#champion-tables).
 
 ## City visual constitution
 

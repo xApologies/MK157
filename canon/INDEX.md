@@ -2,6 +2,8 @@
 
 Read the [constitution](../THREAD_DEVELOPMENT_CONSTITUTION.md) and [status](../CANON_STATUS.md) first. These are resolved authoring views; existing source sections/data remain factual owners. Explicit later corrections govern only their conflicts. Compatible earlier detail, qualifications and examples remain available through each ownership table and the full-detail section routes in [coverage](../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json).
 
+That coverage records the historical R1 revision. [Later author promotions](PROMOTIONS.json) account for current additions separately: Diplomatic Pouch 01 develops [Arc One](../story/ARC_01/ARC.md) through dinner/Highlights, with its calendar conflict retained in [OPEN](OPEN.md).
+
 | Subject | Scope |
 |---|---|
 | [Kira](characters/KIRA.md) | Biology, craft, Black systems, application benchmarks and knowledge limits |

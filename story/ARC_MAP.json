@@ -7,11 +7,11 @@
     {
       "id": "ARC_01",
       "path": "story/ARC_01/ARC.md",
-      "title": "Arrival and foundational choice",
+      "title": "Arrival, survival and the Champion evening",
       "macro_status": "AUTHORIALLY_CLOSED",
       "entry": "Kira,22, genuinely Afflicted, an exceptional manual mail craftsperson expecting Creation; no combat career or Binding. illi begins her own first cycle.",
-      "exit": "illi Persistent Coherence Red / Kira Armor of the Abyss.",
-      "calendar_scope": "Initialization boundary; PC Red is R1D1. Exact early scene placement must respect the later R1D1 NO REQUIRED COMBAT scaffold.",
+      "exit": "Champion Table evening/Highlights: healthy Kira, #1 first-cycle Solo, Armor + learned claws, beginnings of sisterhood with illi and closest friendship with Elara; PC Red remains illi’s foundational state.",
+      "calendar_scope": "First paid Solo R1D3; R1D1 NO REQUIRED COMBAT. Earlier R1D2 shared Duo versus subsequent friendship dinner remains RECOVERY_GAP.",
       "chapter_state": "NOT_CREATED",
       "chapter_count": null,
       "owners": [
@@ -30,17 +30,21 @@
         {
           "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
           "section": "Economy and purchase gates"
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "whole record / document"
         }
       ],
-      "local_open": "Exact early scene-to-day and scene-to-arc allocation where old opening prose conflicts with CP18 is RECOVERY_GAP. Do not invent chapter boundaries, first meeting dialogue, minor names, combat dates or transformation microanatomy. Macro closure remains intact.",
-      "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
+      "local_open": "R1D2/R1D3 chronology conflict; chapter boundaries; W9 kills; rival name/appearance/build/reconciliation; outfit purchase/exact price; microscopic biology; Curious meaning; graphic-death Highlights treatment.",
+      "status_basis": "Macro closure retained; Diplomatic Pouch 01 develops the opening narrative in place without chapterization."
     },
     {
       "id": "ARC_02",
       "path": "story/ARC_02/ARC.md",
       "title": "Early partnership and White Legacy",
       "macro_status": "AUTHORIALLY_CLOSED",
-      "entry": "Armor and PC Red; the opening narrative reservoir remains subject to CP18 timing.",
+      "entry": "Armor/PC Red and the Arc One friendship/Champion-evening handoff; R1D2/R1D3 calendar alignment remains RECOVERY_GAP.",
       "exit": "PC Blue and accepted White Legacy O1D4, Absorption Shield Red O2D3; Kira holds CSR by O2D3.",
       "calendar_scope": "Early Red progression through O2D3; exact CSR purchase day and displaced opening-scene timing OPEN.",
       "chapter_state": "NOT_CREATED",
@@ -63,7 +67,7 @@
           "section": "whole record / document"
         }
       ],
-      "local_open": "RECOVERY_GAP: exact displaced Day-One/Day-Two scene placement. Exact CSR purchase date, discretionary spending, early minor identities and unsupplied failed-run awards stay OPEN. No new required combat fills negative space.",
+      "local_open": "R1D2 shared Duo versus post-R1D3-Solo friendship dinner; exact CSR purchase date, discretionary spending, minor identities and unsupplied failed-run awards remain OPEN.",
       "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
     },
     {
@@ -205,5 +209,8 @@
       "local_open": "ExactBlue/Violetdailytraining,Domain day,rank/supportpurchase dates,Raid dates/runtimes,Blue invitation attempts,Ringprice,vaenspecies/cardinventory/Auctionlots,finalbalances anddeparturedayremainOPEN. NoTrioornewthirdperson; no completeOrbmastery.",
       "status_basis": "Authorial closure in the authorized cleanup instruction; narrative facts remain owned by existing MK157 sources."
     }
+  ],
+  "author_promotions": [
+    "diplomatic-pouch-01"
   ]
 }

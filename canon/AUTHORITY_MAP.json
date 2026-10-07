@@ -190,6 +190,61 @@
           "anchor": "elara-can-leave-valnak-through-an-orb",
           "status": "PARTIALLY_SUPERSEDED",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Entry and emotional spine",
+          "anchor": "entry-and-emotional-spine",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Promoted entry/emotional facts; rough 11–17 is an approximate author model, not universal mortality law.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#before-valnak",
+            "live-model/03_VALNEK_PATHS.md#familiarity-across-cycles",
+            "live-model/STORY_CLOCK_STATE.md#from-dying-armorsmith-to-a-future"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "BLACKOUT and Elara",
+          "anchor": "blackout-and-elara",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Mechanism/biology retained and sharpened; microscopic biology and meaning of Curious remain OPEN.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#blackout-transformation",
+            "live-model/01_KIRA.md#canonical-post-transformation-design",
+            "live-model/02_COSMOLOGY.md#valnak-draw--infinitely-deep-well-metaphor"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Personal Binding primer",
+          "anchor": "personal-binding-primer",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Embodied cognition grammar and unified Black access; no automatic mastery.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#personal-binding-primer"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Armor of the Abyss — early lock",
+          "anchor": "armor-of-the-abyss--early-lock",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Body-linked liquid Black, subtle field geometry, learned claw topology and restoration cost; Armor + claws only.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#armor-of-the-abyss"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Credits and rival",
+          "anchor": "credits-and-rival",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Exact 1,275 earned/no bonus; Kira #1, rival #2, both fail W9. Kill counts, name, build, appearance and reconciliation OPEN; no scoring formula invented.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "trial-rewards/TRIAL_WAVE_CREDITS.csv"
+          ]
         }
       ],
       "open_status": "OPEN: exact anatomy, CSR/Domain timestamps, support names/count, Halo final visual, Orb ontology and full mastery, indefinite multi-Orb sustainment and Elara identity semantics."
@@ -353,6 +408,17 @@
           "anchor": "spending--social-liberty",
           "status": "PARTIALLY_SUPERSEDED",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "illi and Elara relationship geometry",
+          "anchor": "illi-and-elara-relationship-geometry",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Sister-level illi and BFF Elara destinations, informal inclusion not adoption; Elara is not combat partner.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings",
+            "canon/characters/ELARA.md"
+          ]
         }
       ],
       "open_status": "OPEN: rank-up dates after B6D3, final discretionary balances, future Solo standing beyond demonstrated milestones, specific social purchases and later Decoherence details."
@@ -446,6 +512,39 @@
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "BLACKOUT and Elara",
+          "anchor": "blackout-and-elara",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Mechanism/biology retained and sharpened; microscopic biology and meaning of Curious remain OPEN.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#blackout-transformation",
+            "live-model/01_KIRA.md#canonical-post-transformation-design",
+            "live-model/02_COSMOLOGY.md#valnak-draw--infinitely-deep-well-metaphor"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Residence Node primer",
+          "anchor": "residence-node-primer",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Existing Node categories and travel grammar only; no extra UI rules.",
+          "current_destinations": [
+            "live-model/03_VALNEK_PATHS.md#residence-node-primer"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "illi and Elara relationship geometry",
+          "anchor": "illi-and-elara-relationship-geometry",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Sister-level illi and BFF Elara destinations, informal inclusion not adoption; Elara is not combat partner.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings",
+            "canon/characters/ELARA.md"
+          ]
         }
       ],
       "open_status": "OPEN: Orb-hosted identity/instancing, next-node ontology/natural price and unsupplied social placements."
@@ -574,6 +673,46 @@
           "anchor": "abecca-and-ordinary-days",
           "status": "PARTIALLY_SUPERSEDED",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "PSSP death and re-instancing",
+          "anchor": "pssp-death-and-re-instancing",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: PSSP/body separation and return promoted; roughly 15 experiential seconds is an approximate narrative target, not timer.",
+          "current_destinations": [
+            "live-model/03_VALNEK_PATHS.md#pssp-embodiment-death-and-re-instancing"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Residence Node primer",
+          "anchor": "residence-node-primer",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Existing Node categories and travel grammar only; no extra UI rules.",
+          "current_destinations": [
+            "live-model/03_VALNEK_PATHS.md#residence-node-primer"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Valnak familiarity",
+          "anchor": "valnak-familiarity",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Prepared groups and multicycle institution; Elara may revise implementation between cycles.",
+          "current_destinations": [
+            "live-model/03_VALNEK_PATHS.md#familiarity-across-cycles"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Champion Table evening",
+          "anchor": "champion-table-evening",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Dynamic Top-10 first-cycle Solo entitlement, restaurant above raeon and rival at #2; no permanent gift or cash bonus.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings"
+          ]
         }
       ],
       "open_status": "OPEN: planet name, exact external time conversion, population/routing implementation, credential synchronization, generic Legacy discounts and unsupplied calendars."
@@ -716,6 +855,38 @@
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "BLACKOUT and Elara",
+          "anchor": "blackout-and-elara",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Mechanism/biology retained and sharpened; microscopic biology and meaning of Curious remain OPEN.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#blackout-transformation",
+            "live-model/01_KIRA.md#canonical-post-transformation-design",
+            "live-model/02_COSMOLOGY.md#valnak-draw--infinitely-deep-well-metaphor"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Personal Binding primer",
+          "anchor": "personal-binding-primer",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Embodied cognition grammar and unified Black access; no automatic mastery.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#personal-binding-primer"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Armor of the Abyss — early lock",
+          "anchor": "armor-of-the-abyss--early-lock",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Body-linked liquid Black, subtle field geometry, learned claw topology and restoration cost; Armor + claws only.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#armor-of-the-abyss"
+          ]
         }
       ],
       "open_status": "OPEN: topology-derived basin combinations, candidate mechanism/White details, PE-004–009 selection finality, Creator assessment rates/property succession and Builder implementation."
@@ -879,6 +1050,38 @@
           "anchor": "white-w1--trial-payoff-and-core-cracking-discovery",
           "status": "PARTIALLY_SUPERSEDED",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "First Trial",
+          "anchor": "first-trial",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Existing arena/perimeter/throughput and rank behavior retained; clear W8, fail W9; no advanced kit.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "live-model/TRIAL_ARENA.md"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "PSSP death and re-instancing",
+          "anchor": "pssp-death-and-re-instancing",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: PSSP/body separation and return promoted; roughly 15 experiential seconds is an approximate narrative target, not timer.",
+          "current_destinations": [
+            "live-model/03_VALNEK_PATHS.md#pssp-embodiment-death-and-re-instancing"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Credits and rival",
+          "anchor": "credits-and-rival",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Exact 1,275 earned/no bonus; Kira #1, rival #2, both fail W9. Kill counts, name, build, appearance and reconciliation OPEN; no scoring formula invented.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "trial-rewards/TRIAL_WAVE_CREDITS.csv"
+          ]
         }
       ],
       "open_status": "OPEN: exact cap/inflow, extreme recovery physiology, encounter maps/populations, Hard/Raid runtimes, contribution/bonus formulas and unprovided core outcomes."
@@ -1084,6 +1287,27 @@
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Credits and rival",
+          "anchor": "credits-and-rival",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Exact 1,275 earned/no bonus; Kira #1, rival #2, both fail W9. Kill counts, name, build, appearance and reconciliation OPEN; no scoring formula invented.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "trial-rewards/TRIAL_WAVE_CREDITS.csv"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Flagships and shopping",
+          "anchor": "flagships-and-shopping",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Both distinct flagships fixed; ordinary outfit possible, 100–200 WORKING, purchase and exact price not booked; later premium dresses not imported.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
         }
       ],
       "open_status": "OPEN: actual cashflows, unsupplied contextual awards, partial/bonus formulas, discretionary inventory and Ring price. Historical numeric snapshots are not current balances."
@@ -1282,6 +1506,36 @@
           "anchor": "user-experience-and-expedition-role",
           "status": "PARTIALLY_SUPERSEDED",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Valnak familiarity",
+          "anchor": "valnak-familiarity",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Prepared groups and multicycle institution; Elara may revise implementation between cycles.",
+          "current_destinations": [
+            "live-model/03_VALNEK_PATHS.md#familiarity-across-cycles"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Kira's free walkabout — diegetic worldbuilding",
+          "anchor": "kiras-free-walkabout--diegetic-worldbuilding",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Choice to experience survival, approved scene palette and Afflicted social reaction; coffee normalized to abecca.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Champion Table evening",
+          "anchor": "champion-table-evening",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Dynamic Top-10 first-cycle Solo entitlement, restaurant above raeon and rival at #2; no permanent gift or cash bonus.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings"
+          ]
         }
       ],
       "open_status": "OPEN: planetary arithmetic, exact cosmology correspondence, legal/governance implementation, demographics/aging rates, sport details, map serials and Ring price."
@@ -1403,6 +1657,16 @@
           "anchor": "valnak-social-credit-transfer-firewall",
           "status": "PARTIALLY_SUPERSEDED",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Flagships and shopping",
+          "anchor": "flagships-and-shopping",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Both distinct flagships fixed; ordinary outfit possible, 100–200 WORKING, purchase and exact price not booked; later premium dresses not imported.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
         }
       ],
       "open_status": "OPEN: exact card/set inventory, print quantities, exceptional lots, publisher legal identity, tournament details and personal spending."
@@ -1552,6 +1816,28 @@
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "BLACKOUT and Elara",
+          "anchor": "blackout-and-elara",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Mechanism/biology retained and sharpened; microscopic biology and meaning of Curious remain OPEN.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#blackout-transformation",
+            "live-model/01_KIRA.md#canonical-post-transformation-design",
+            "live-model/02_COSMOLOGY.md#valnak-draw--infinitely-deep-well-metaphor"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Armor of the Abyss — early lock",
+          "anchor": "armor-of-the-abyss--early-lock",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Body-linked liquid Black, subtle field geometry, learned claw topology and restoration cost; Armor + claws only.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#armor-of-the-abyss"
+          ]
         }
       ],
       "open_status": "OPEN: Halo color, unapproved overlays/serials, exact biological mechanism and unsupplied designs. Historical assets remain accessible but do not reinstate obsolete phenotypes."
@@ -1743,9 +2029,54 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Current claims and exceptions are reconciled in the linked view and claim-level coverage. Explicit later author corrections override only their stated scope."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Scope",
+          "anchor": "scope",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Narrative content and close supplied; chronology remains separately unresolved; no chapter boundaries.",
+          "current_destinations": [
+            "story/ARC_01/ARC.md",
+            "live-model/OPEN.md#diplomatic-pouch-01--arc-one-promotion"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Highlights and Arc One close",
+          "anchor": "highlights-and-arc-one-close",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Dinner/Highlights closes supplied narrative; public graphic-death editorial practice remains OPEN. Preserve full sequence without assigning chapters/dates.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#highlights-and-developed-close",
+            "story/ARC_01/ARC.md"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Credits and rival",
+          "anchor": "credits-and-rival",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Exact 1,275 earned/no bonus; Kira #1, rival #2, both fail W9. Kill counts, name, build, appearance and reconciliation OPEN; no scoring formula invented.",
+          "current_destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "trial-rewards/TRIAL_WAVE_CREDITS.csv"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+          "section": "Flagships and shopping",
+          "anchor": "flagships-and-shopping",
+          "status": "CURRENT",
+          "authority_reason": "Diplomatic Pouch 01 explicit author promotion, with qualifications retained: Both distinct flagships fixed; ordinary outfit possible, 100–200 WORKING, purchase and exact price not booked; later premium dresses not imported.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
         }
       ],
       "open_status": "Local OPENs are protected canon states, not unfinished maintenance. Source review completeness is reported independently in coverage and completion evidence."
     }
-  ]
+  ],
+  "author_promotions": "canon/PROMOTIONS.json",
+  "source_commit_scope": "Historical R1 semantic-review baseline; current explicit additions are separately source-accounted in author_promotions."
 }

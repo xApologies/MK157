@@ -4,6 +4,44 @@
 
 Checkpoint 18 scheduling correction: the [59-day combat scaffold](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) governs required combat and progression income. Earlier Day-One Solo/Day-Two double-Duo timestamps below are retained historical chronology, superseded where they conflict. Story events/relationships remain; exact displaced placement is OPEN. Do not add required paid combat to NO REQUIRED COMBAT rows.
 
+## Arc One developed narrative — Diplomatic Pouch 01
+
+The [approved pouch](../provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md) thickens the existing scaffold in place. Arc One now narratively closes with the **Champion Table evening and Highlights**. Armor/PC Red remain the foundational mechanical state, not the complete narrative endpoint. Chapter boundaries and manuscript prose remain unassigned. The first paid Solo is R1D3; Day-One Solo labels are superseded. R1D1 remains NO REQUIRED COMBAT.
+
+**Chronology RECOVERY_GAP:** the unchanged early calendar books Kira+illi's shared Duo on R1D2, before the R1D3 first Solo and the pouch's subsequent friendship dinner. The pouch also requires that calendar to remain authoritative. Preserve both records explicitly pending an author reconciliation: do not relocate either paid run, invent an earlier meeting, or claim the remaining temporal conflict is solved. “Opening-night” expectation describes the rival's anticipated debut glory, not a newly fixed R1D1 dinner.
+
+### From dying armorsmith to a future
+
+Kira enters at 22 genuinely Afflicted, expecting Creation/Craftsman. Her exceptional manual mail craft and family familiarity with Valnak survive Combat redirection. The roughly 11–17 expected Afflicted lifespan is an approximate author model. Elara assesses her, Kira chooses Armor through her armorsmith identity, and BLACKOUT completes her transformation before cutoff. Elara's unexplained **“Curious.”** after studying her eyes remains an unresolved beat. The personal Binding primer and learned five-fingers→three-claws experimentation develop embodied control, not automatic mastery. [Kira and primer](01_KIRA.md#personal-binding-primer).
+
+Her first paid Solo clears W1–W8 and fails W9 through population/spatial saturation with Armor + claws only. It earns exactly 1,275; failed W9 pays zero and standings add no cash. The genuine noble prodigy also clears W8/fails W9, but Kira's greater validated W9 progress places her #1. Exact kill counts remain OPEN. [Combat and rival](01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01).
+
+She reawakens gently on a residence bed with Elara waiting. The approximate 15-second experiential return retains memory without peak-combat panic. A short Node primer makes interaction intuitive. The larger emotional realization is **she is no longer dying**. [PSSP and onboarding](03_VALNEK_PATHS.md#pssp-embodiment-death-and-re-instancing).
+
+### Free walkabout and both flagships
+
+Kira does not immediately requeue: she chooses to experience Valnak and move without rationing a terminally ill body. Approved palette includes beautiful manicured nature—garden/forest/park—cheap ordinary food and **abecca**, hubs/crowds/Nodes, prepared groups, veterans, first-cyclers, carriages and city movement as needed. Show familiarity and discovery through experience rather than a lecture. Some people stare, whisper or retain Afflicted taboo/superstition because Valnak normally cures that pathology. She recognizes it but largely does not care today because she is alive.
+
+She definitely visits **both distinct flagships**: playable `raeon` and collectible Genesis Cards/manifolds. The raeon flagship is a famous cultural destination with the Champion restaurant above/associated with it. At the Genesis Card flagship she window-shops; the approximately 1,275 earned Trial credits do not make desirable high-end cards practically affordable. This establishes fascination and supports the later Blue Fireball purchase without naming that exact card now or asserting a full bank balance.
+
+Ordinary shopping includes trying clothes on her transformed approximately 5'11" body. Remembering the dinner, she **may** buy a modest presentable outfit/dress. Roughly 100–200 credits is WORKING only; an actual purchase and exact price are not booked. Do not import later roughly 23,000-credit premium dresses or subtract invented discretionary spending from a ledger.
+
+### Champion evening and relationship beginnings
+
+Champion Tables are famous before entrants arrive: prestige, combat recognition and a place to see/be seen. Ten tables follow current Top-10 first-cycle Solo standings. Elara explains the #1 reservation during onboarding; standing, rather than a permanent personal gift, controls entitlement. The premier restaurant above the raeon flagship supplies exceptional views and nightly Highlights.
+
+The rival sits at #2 with his prepared friends/cohort. Kira has eclipsed the glory he expected and irritates him; he remains a talented arrogant competitive foil, not an incompetent villain. illi attends as princess/public figure to acknowledge the current champion, expecting a conventional prodigy. Kira's continued Afflicted-associated appearance and Black/spectral eyes surprise her.
+
+Kira and illi click quickly. illi accepts a person rather than a pathology/curiosity; Kira comes out of her shell. This seeds their eventual **sister-level bond**. illi's later inclusion of Kira in royal-family life is informal behavior, not a formal adoption decree. Elara joins later. Custodian authority operates on a different institutional axis from outside royalty, so even illi can be a little nervous; Kira does not yet appreciate how extraordinary Elara's presence is. Kira/Elara become **BFF/closest friends**: social life, conversation and theorycrafting, not Elara becoming Kira's combat partner. They eat, talk and laugh; dinner needs no extra plot event.
+
+### Highlights and developed close
+
+Nightly Highlights at the Champion restaurant close Arc One. They can show Kira her inexperienced fighting from outside, the rival's genuine performance and Armor's public emergence. She may notice tactical mistakes through her systems-oriented outlook; the ending need not become another training lecture. The cultural/editorial treatment of graphic participant death remains OPEN.
+
+Approved sequence: dying armorsmith → Valnak → Elara → BLACKOUT → healthy Kira → Armor/claws → first Trial → W8 clear → W9 death → gentle re-instance → Node primer → realization of survival → free walkabout → flagships/shopping → public curiosity → Champion Table → illi → Elara → friendship → Highlights. This supplies narrative order, not new day labels or chapters.
+
+She expected to become a better blacksmith before dying. She closes Arc One healthy, #1 first-cycle Solo, carrying unprecedented Black architecture, beginning sisterhood and closest friendship, and finally having a future. Rival name/appearance/build/reconciliation, exact W9 kill counts, outfit price/purchase, microscopic biology, the unexplained eye observation and death-editing conventions stay OPEN.
+
 ## Kira locked Black scaffold
 Entry/Red — Armor of the Abyss
 Early Orange — CSR
@@ -22,7 +60,7 @@ Late Green — Coherence Prime Elemental
 Blue B6D3 — Resonance Prime Elemental / Juggernaut
 
 ## Kira title / standing
-Kira becomes #1 First-Cycle Solo on Day One and never loses it.
+Kira becomes #1 First-Cycle Solo with the R1D3 Solo result and never loses it. Table entitlement follows the current standing, not a permanent personal gift.
 Center Champion Table remains hers throughout the cycle.
 Cultural title: **Eternal Champion**.
 
@@ -57,9 +95,9 @@ A combat anchor can be followed by dinner/highlights as a pacing/decompression v
 
 # 11. Kira / illi / Elara public visibility
 
-By Day Two, Kira is unmistakably famous:
+Following her first Solo and Highlights, Kira becomes unmistakably famous:
 - only Black Legacy;
-- Day-One Yellow first-cycle Solo result;
+- R1D3 Yellow first-cycle Solo result;
 - #1 Champion Table;
 - first-night highlight exposure;
 - extraordinary transformed biology;
@@ -97,7 +135,7 @@ This personal independence develops alongside illi's White-Legacy operational in
 # 13. Day One / Day Two story runtime
 
 ## Day One
-Current governing spine remains Checkpoint 08:
+Historical Day-One label; the paid Solo is R1D3. The current developed Arc One narrative above supersedes this list’s former day/arc allocation:
 - Kira enters Valnak;
 - Black restructuring / BLACKOUT;
 - Armor of the Abyss;
@@ -111,7 +149,7 @@ Current governing spine remains Checkpoint 08:
 - Kira becomes a public phenomenon.
 
 ## Day Two
-Arc Two opens with the Duo Trial.
+Historical Day-Two label; the old double-Duo timing is superseded. See the explicit R1D2/R1D3 chronology RECOVERY_GAP above. Arc Two keeps its partnership/progression scaffold without adding another paid run.
 
 Kira + illi:
 - first Duo attempt;

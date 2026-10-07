@@ -2,10 +2,11 @@
 
 For authoring, begin with the [constitution](../THREAD_DEVELOPMENT_CONSTITUTION.md), [current status](../CANON_STATUS.md), [subject views](../canon/INDEX.md) and [seven arc dossiers](../story/INDEX.md). The detailed sources below remain in place; they contain cumulative history and must be read through explicit later corrections.
 
-Current order on conflicts: CP25 correction > compatible CP25 master > CP24 > earlier explicit checkpoints. Compatible earlier facts accumulate. See [supersessions](SUPERSESSIONS.md), [protected OPENs](../canon/OPEN.md), the [full historical OPEN ledger](OPEN.md), [source boundaries](SOURCE_BOUNDARIES.md), and [authority map](../canon/AUTHORITY_MAP.json).
+Current order on conflicts: Diplomatic Pouch 01 for its explicit Arc One additions; otherwise CP25 correction > compatible CP25 master > CP24 > earlier explicit checkpoints. Compatible earlier facts accumulate. See [supersessions](SUPERSESSIONS.md), [protected OPENs](../canon/OPEN.md), the [full historical OPEN ledger](OPEN.md), [source boundaries](SOURCE_BOUNDARIES.md), and [authority map](../canon/AUTHORITY_MAP.json).
 
 | Current question | Factual-owner route |
 |---|---|
+| Developed Arc One | [Current opening narrative](STORY_CLOCK_STATE.md#arc-one-developed-narrative--diplomatic-pouch-01), [arc dossier](../story/ARC_01/ARC.md); calendar conflict remains explicit |
 | Final Valnak scaffold | [CP25 reconciliation](32_CHECKPOINT_25_ARC7_FINALE.md), [Arc Seven](../world-clock/ARC7_REVISED_DIRECTOR_CALENDAR.md) |
 | Trial extension | [W36+ reward owner](../trial-rewards/TRIAL_EXTENDED_REWARDS.json): 1,600 per completed wave; historical OPEN wording is superseded |
 | illi progression | [Current progression](ILLI_PROGRESSION.md), [19-event ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) |

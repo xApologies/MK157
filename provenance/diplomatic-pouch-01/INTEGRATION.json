@@ -1,0 +1,674 @@
+{
+  "id": "diplomatic-pouch-01",
+  "baseline_commit": "329d73dfc9afd2aae28a6c8d91b776ac4cfeae58",
+  "integration_branch": "main",
+  "publication": "Local commit requested; no push requested by this package.",
+  "author_authorization": "User requested executing EXECUTABLE.md; its step 2 identifies ARC_ONE_DELTA.md as the author-approved delta. No archived handoffs were executed.",
+  "source": "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md",
+  "zip_sha256": "08d29176d34ad9c2ebe97977c2d2fe4348366a4a39d601ff3942d26518113777",
+  "package_sha256": {
+    "provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md": "0a593f2da1fef92e4bdc8dd09b58334f5336ebaff4b9a7476d68a18f55ef47ea",
+    "provenance/diplomatic-pouch-01/package/EXECUTABLE.md": "3b897d434e3a29ab8f4c6852331117f2444972f4a68c528a84b946287d531bce",
+    "provenance/diplomatic-pouch-01/package/README.md": "7ce88e8eea104e02339499cef131a4bf3237efad9c9d672a71cc78a02737c97f",
+    "provenance/diplomatic-pouch-01/package/SOURCE_AUDIT.md": "65d363039696ebbb9498665f8537439d71f8f6f783d644cfb5b509a5867f096a"
+  },
+  "changed_paths": {
+    "CANON_STATUS.md": {
+      "before_sha256": "1e1946a4bbecf96d850b81e3ee997e532f4fc6810fcbf4753a80dda43dc7e8a5",
+      "after_sha256": "abebca033c1211879cda65e1eb0bdc29c97d510a116521dd12e86b0094fd3f1c"
+    },
+    "README.md": {
+      "before_sha256": "a9fc7e11db597f6e23b1f9a1c4f822f0a0b0c44f482fe7c9550e66a108942c6b",
+      "after_sha256": "a011812e50e1deefd9a5f8b58783500c211cad0f3a7e46abcbc53a8e0debc536"
+    },
+    "THREAD_DEVELOPMENT_CONSTITUTION.md": {
+      "before_sha256": "b8d6078e0c0219d299e23e3fe1f7a0389508fa1d90a172a2a5fb476d108da32c",
+      "after_sha256": "6cef918c1f798e7cdd5316cf2093afc96b9749bd6f11dfd1deab5a66c2b9ad1a"
+    },
+    "canon/AUTHORITY_MAP.json": {
+      "before_sha256": "0647f818ff885ae525496f4b31d67e13fb5aae3e07cd4d2fc385c4a980ccbb26",
+      "after_sha256": "62927e28d104357eeeb5d8afdb0db20dee12f8ec2f6dd0f50f4451e084d03993"
+    },
+    "canon/COMBAT.md": {
+      "before_sha256": "d73cd965a756970a26a6a9eac60f00b8dc082ef428b8d73cdda5fb725dfde43b",
+      "after_sha256": "8d6950fef2663a7c9ce6d4fcf16c4647bb83a7452ba390739c6ad5271ce17d3a"
+    },
+    "canon/INDEX.md": {
+      "before_sha256": "558b5a1f47383615d6561ef5ce7bd9659013a7f41bd7819c39df2a756a18861e",
+      "after_sha256": "d57a2387106625eaf1ed83b56f83c619d4a8dab711f223356d19f48eae7d6c06"
+    },
+    "canon/OPEN.md": {
+      "before_sha256": "4bc16783ba6c3ea69f28c6246acecce745163be3d37293b2bd798d6d54ba88e3",
+      "after_sha256": "1dbec1d16c65f7e4e3bf228e91f64854f4e46978880bd31f610115f2c17f9b15"
+    },
+    "canon/VALNAK.md": {
+      "before_sha256": "723ae544291dcf96e64a6363903cf07b0d93826c68b84f992284672deafc361d",
+      "after_sha256": "ac505f720f208c5e192432579760ede8bbfd988688bd93230c72d94d3607baa1"
+    },
+    "canon/characters/ELARA.md": {
+      "before_sha256": "6c240b8777d5dbe5f7d2d55b002875a93135ccf5bd207cd0f89a1e38f9a487fc",
+      "after_sha256": "c8534268e4ae792095e50375f050a7584487a9af70d6728d5446dfb4d7a37cb0"
+    },
+    "canon/characters/KIRA.md": {
+      "before_sha256": "779036507c639467265de4c3f821e288232f8cb1fe9a8c9bffd33d4e16bc70bd",
+      "after_sha256": "4c6c9f35be50f160601fc37398f493af3767ddf0169dbeabc72cdac023c4ed5e"
+    },
+    "live-model/01_KIRA.md": {
+      "before_sha256": "1551a64bdd8c537ac5a4b144780dff6387c77d679bb49f9da839c452d230e1f1",
+      "after_sha256": "654d1fed0019205d73af59f7c3b9980690b8981c3df8aa75cb62aabed15f57a4"
+    },
+    "live-model/03_VALNEK_PATHS.md": {
+      "before_sha256": "fbe3cd110e57a32cfe4623e055e53ba8e17ca2035630ea17339fad8aebca7ff2",
+      "after_sha256": "f85dda696022ede22243ab1497f105118b877999dc67a5cb6cd1407eb1eab0cb"
+    },
+    "live-model/INDEX.md": {
+      "before_sha256": "6094197665ba2fc5dd6989149ce90208739a25e4f5a2862828d9b4d3ba6e5b71",
+      "after_sha256": "a6dc9ecd9104a6ab05fe22dc7a6f155e2340886170d0c9625e9c6e5a8baa2b51"
+    },
+    "live-model/OPEN.md": {
+      "before_sha256": "5c62421942698d46c12455c60ed9cf6d3467847829ae4ba55845eed04d64d854",
+      "after_sha256": "36f76242ee6d4a784d1d10d504151e1bb5f8a3efc0d335257efb10c1fa8946bb"
+    },
+    "live-model/STORY_CLOCK_STATE.md": {
+      "before_sha256": "b03930ea11444ebc3794069f19e2c254e412a3330ac04440343773fd0095e5c7",
+      "after_sha256": "d6d7ecc0b81937126c30a23895b9897ae1b5e191590a2f297e7b2d6cc2be1d27"
+    },
+    "live-model/SUPERSESSIONS.md": {
+      "before_sha256": "32bd5f795153fd6d965d8f8082603f23212dc95ea1b3e1f23a507ae18138a7eb",
+      "after_sha256": "3adbc2b73fc0b57c71bab75cb0588d65cbf17902d42571e3c21af57356c07de5"
+    },
+    "story/ARC_01/ARC.md": {
+      "before_sha256": "192c6155887366f44f2acb7adc6ea319cd2b8b127aad719420dc82aba63693b8",
+      "after_sha256": "8606a17b20a7fe569dee18d5563a616c52d13d8be1389cb84ad49d55b4f1d17b"
+    },
+    "story/ARC_02/ARC.md": {
+      "before_sha256": "f26cba8589acd971302bf7fc514bfc02eb9eb94f14757fec771cf883dbc61cae",
+      "after_sha256": "37db3c2539a822d48431029153f9f86d3f77cc20beaab86fde36aaf0674fe989"
+    },
+    "story/ARC_MAP.json": {
+      "before_sha256": "ccaeaa8a5deb89329b4c28e487da45dfb2aaf0674ad2b9591685555385f8a652",
+      "after_sha256": "05c360174ce288ea27dff51898a4cea026f284ac804f8c372b9ba271aecf6530"
+    },
+    "story/INDEX.md": {
+      "before_sha256": "4a401078681c7960cb3b4a198b1f08ed2b3fdfb28a718f84b059fc142c6c6fe7",
+      "after_sha256": "96d36682a6e354523f21111d6c6299ada9b3845a81fa71d3735fe2e7bbe752b6"
+    },
+    "tools/validation/README.md": {
+      "before_sha256": "0db655e2ddce8b02c20509cbbb82442e17d0c282dc5df8a0e134e96aa90cc804",
+      "after_sha256": "a8b4bcc4bdc081d54e7b6b14ed34d1964ae13a7f685f19e468cacd1290a0b9bc"
+    },
+    "tools/validation/test_authoring.py": {
+      "before_sha256": "4d62837960a0a48f328aa5ab2bba5b9eeb1512bd7cb3d7611c2ebcc331f9058d",
+      "after_sha256": "dda0a656c1a265935af0940c589a261e95300fa2076171f167272b0f827dd011"
+    },
+    "tools/validation/validate_authoring.py": {
+      "before_sha256": "dff8334e5b2566b6333089c57f1970148c7547b3c4c944e9f5e86d2372fd494a",
+      "after_sha256": "72ec37c75a3d6198ade70b3a5c407fc7e41957b0fe09a2988149c7987d5168f5"
+    }
+  },
+  "coverage": [
+    {
+      "section": "Scope",
+      "body_sha256": "aaa094a51a8a719d03f66d1f14831825b58be634d69bdc6b3e64e6c4f5a68543",
+      "paragraphs": [
+        {
+          "sha256": "aaa094a51a8a719d03f66d1f14831825b58be634d69bdc6b3e64e6c4f5a68543",
+          "status": "CURRENT",
+          "reason": "Narrative content and close supplied; chronology remains separately unresolved; no chapter boundaries.",
+          "destinations": [
+            "story/ARC_01/ARC.md",
+            "live-model/OPEN.md#diplomatic-pouch-01--arc-one-promotion"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Entry and emotional spine",
+      "body_sha256": "def24fc1e550242c4faa84fbd6887627885be383e0e3fdc85b128e47d612c23b",
+      "paragraphs": [
+        {
+          "sha256": "289737bc2daa92d3e491480c2845d3c77a4e27129964e02b250ec8e262eb232e",
+          "status": "MIXED_PARTIAL",
+          "reason": "Promoted entry/emotional facts; rough 11–17 is an approximate author model, not universal mortality law.",
+          "destinations": [
+            "live-model/01_KIRA.md#before-valnak",
+            "live-model/03_VALNEK_PATHS.md#familiarity-across-cycles",
+            "live-model/STORY_CLOCK_STATE.md#from-dying-armorsmith-to-a-future"
+          ]
+        },
+        {
+          "sha256": "895d337e6d953dd98aafa60d8f140658441b8493642ff4c3ae02ca3d91f12b86",
+          "status": "MIXED_PARTIAL",
+          "reason": "Promoted entry/emotional facts; rough 11–17 is an approximate author model, not universal mortality law.",
+          "destinations": [
+            "live-model/01_KIRA.md#before-valnak",
+            "live-model/03_VALNEK_PATHS.md#familiarity-across-cycles",
+            "live-model/STORY_CLOCK_STATE.md#from-dying-armorsmith-to-a-future"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "BLACKOUT and Elara",
+      "body_sha256": "36ed809655c92e8485f62dbac756e275bea712d61ab5f86deefdc0c427ea9576",
+      "paragraphs": [
+        {
+          "sha256": "6b748f5dd45416515de0b65b6c5d46cd3a74fac0d2f171c693f44a630cc0fa60",
+          "status": "MIXED_PARTIAL",
+          "reason": "Mechanism/biology retained and sharpened; microscopic biology and meaning of Curious remain OPEN.",
+          "destinations": [
+            "live-model/01_KIRA.md#blackout-transformation",
+            "live-model/01_KIRA.md#canonical-post-transformation-design",
+            "live-model/02_COSMOLOGY.md#valnak-draw--infinitely-deep-well-metaphor"
+          ]
+        },
+        {
+          "sha256": "83ed8130665b2229e2f82ba5e98862acdc8b6281eb33ef4a036e4956dc181847",
+          "status": "MIXED_PARTIAL",
+          "reason": "Mechanism/biology retained and sharpened; microscopic biology and meaning of Curious remain OPEN.",
+          "destinations": [
+            "live-model/01_KIRA.md#blackout-transformation",
+            "live-model/01_KIRA.md#canonical-post-transformation-design",
+            "live-model/02_COSMOLOGY.md#valnak-draw--infinitely-deep-well-metaphor"
+          ]
+        },
+        {
+          "sha256": "0a843229c25badc6f30beb32992d2aaceca89b5a5973ccb74285393773f5e1e9",
+          "status": "MIXED_PARTIAL",
+          "reason": "Mechanism/biology retained and sharpened; microscopic biology and meaning of Curious remain OPEN.",
+          "destinations": [
+            "live-model/01_KIRA.md#blackout-transformation",
+            "live-model/01_KIRA.md#canonical-post-transformation-design",
+            "live-model/02_COSMOLOGY.md#valnak-draw--infinitely-deep-well-metaphor"
+          ]
+        },
+        {
+          "sha256": "4b2254034f36326aed8625c83a5cecbf437765e912d4f129aac00d33b13dd6c8",
+          "status": "MIXED_PARTIAL",
+          "reason": "Mechanism/biology retained and sharpened; microscopic biology and meaning of Curious remain OPEN.",
+          "destinations": [
+            "live-model/01_KIRA.md#blackout-transformation",
+            "live-model/01_KIRA.md#canonical-post-transformation-design",
+            "live-model/02_COSMOLOGY.md#valnak-draw--infinitely-deep-well-metaphor"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Personal Binding primer",
+      "body_sha256": "b9e67280e6bd3a755297ee39551c964ac3e6052e01eb54b79101d4d8bd704285",
+      "paragraphs": [
+        {
+          "sha256": "91f7cbebdac5615ce3f99063ab3dccc4f178c0dfef2a3465885d426c3fa6b733",
+          "status": "CURRENT",
+          "reason": "Embodied cognition grammar and unified Black access; no automatic mastery.",
+          "destinations": [
+            "live-model/01_KIRA.md#personal-binding-primer"
+          ]
+        },
+        {
+          "sha256": "052a8f1796745ed46d40fdbf30c3368fdccac15cecc4cfbd0c5ddcb2fb3b1502",
+          "status": "CURRENT",
+          "reason": "Embodied cognition grammar and unified Black access; no automatic mastery.",
+          "destinations": [
+            "live-model/01_KIRA.md#personal-binding-primer"
+          ]
+        },
+        {
+          "sha256": "1783e50166de4cf981e5f8519f15494d8c32d6b103eea807f5433a50f5810b76",
+          "status": "CURRENT",
+          "reason": "Embodied cognition grammar and unified Black access; no automatic mastery.",
+          "destinations": [
+            "live-model/01_KIRA.md#personal-binding-primer"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Armor of the Abyss — early lock",
+      "body_sha256": "06acb4e6141c6e8d007a4fad43b868802298fb152aa4880efec9cf4b02d67ad7",
+      "paragraphs": [
+        {
+          "sha256": "bf2d7f47a914f8869c17e96a0fffc8fa98f45d1d175b0c85d67066d84730d9d6",
+          "status": "CURRENT",
+          "reason": "Body-linked liquid Black, subtle field geometry, learned claw topology and restoration cost; Armor + claws only.",
+          "destinations": [
+            "live-model/01_KIRA.md#armor-of-the-abyss"
+          ]
+        },
+        {
+          "sha256": "30cbe4fdc1a0ac8a45c7faf0005c8d3ebdbaaea755e2b3e383fad65d722b8e9b",
+          "status": "CURRENT",
+          "reason": "Body-linked liquid Black, subtle field geometry, learned claw topology and restoration cost; Armor + claws only.",
+          "destinations": [
+            "live-model/01_KIRA.md#armor-of-the-abyss"
+          ]
+        },
+        {
+          "sha256": "6ccf6bed25b3d7ebd9abaa4eb650fc279e0277666ed8aec4dbcf9b33f18115e4",
+          "status": "CURRENT",
+          "reason": "Body-linked liquid Black, subtle field geometry, learned claw topology and restoration cost; Armor + claws only.",
+          "destinations": [
+            "live-model/01_KIRA.md#armor-of-the-abyss"
+          ]
+        },
+        {
+          "sha256": "58d63851bf26f31072471b68a391431cfe0333e8af89d780b0a1b917833df5a1",
+          "status": "CURRENT",
+          "reason": "Body-linked liquid Black, subtle field geometry, learned claw topology and restoration cost; Armor + claws only.",
+          "destinations": [
+            "live-model/01_KIRA.md#armor-of-the-abyss"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "First Trial",
+      "body_sha256": "26e108ea882ef0405ec49c168ca11c8b22e70c47d2a5a61dbd34ee6817eba970",
+      "paragraphs": [
+        {
+          "sha256": "affc181102dfc9c0c930ff7b7cf16208bdaf36852ba0fd851c108f3921e79d2f",
+          "status": "CURRENT",
+          "reason": "Existing arena/perimeter/throughput and rank behavior retained; clear W8, fail W9; no advanced kit.",
+          "destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "live-model/TRIAL_ARENA.md"
+          ]
+        },
+        {
+          "sha256": "359129f700f5938197410fa08c26aeb842a71ebe35f074c9403db5c5df901ba2",
+          "status": "CURRENT",
+          "reason": "Existing arena/perimeter/throughput and rank behavior retained; clear W8, fail W9; no advanced kit.",
+          "destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "live-model/TRIAL_ARENA.md"
+          ]
+        },
+        {
+          "sha256": "f1cbe68a0042dbc2930b847a4975b63cfcbfde3894b6477f677f7c7fbdaf054c",
+          "status": "CURRENT",
+          "reason": "Existing arena/perimeter/throughput and rank behavior retained; clear W8, fail W9; no advanced kit.",
+          "destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "live-model/TRIAL_ARENA.md"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "PSSP death and re-instancing",
+      "body_sha256": "e535e78a2b7080d7dd1ae014fc5676a53313e3d68f84f0d8a664019a0653a69e",
+      "paragraphs": [
+        {
+          "sha256": "7914e9d0dfc8c3c6c905fccf9488d41ea0970b29bc4dd19c9e8a9e3fb4915561",
+          "status": "MIXED_PARTIAL",
+          "reason": "PSSP/body separation and return promoted; roughly 15 experiential seconds is an approximate narrative target, not timer.",
+          "destinations": [
+            "live-model/03_VALNEK_PATHS.md#pssp-embodiment-death-and-re-instancing"
+          ]
+        },
+        {
+          "sha256": "7788147011bc60ce0324dae58e463eb0c9bf962e209272f1bd50028cdd39d47d",
+          "status": "MIXED_PARTIAL",
+          "reason": "PSSP/body separation and return promoted; roughly 15 experiential seconds is an approximate narrative target, not timer.",
+          "destinations": [
+            "live-model/03_VALNEK_PATHS.md#pssp-embodiment-death-and-re-instancing"
+          ]
+        },
+        {
+          "sha256": "7cd8da11b706d4357f1b4b044dc43bc26e5eb9805ea0d61e68cc7873c0a6ff63",
+          "status": "MIXED_PARTIAL",
+          "reason": "PSSP/body separation and return promoted; roughly 15 experiential seconds is an approximate narrative target, not timer.",
+          "destinations": [
+            "live-model/03_VALNEK_PATHS.md#pssp-embodiment-death-and-re-instancing"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Credits and rival",
+      "body_sha256": "1aa0f405a48977d75dc37ea8c92939df30440dfb8e0324370a63fa6412cadb85",
+      "paragraphs": [
+        {
+          "sha256": "745ffa724f00b739e25a16f3ff9a29920af614d3ecc0ef252d4a59c2f6216e14",
+          "status": "MIXED_PARTIAL",
+          "reason": "Exact 1,275 earned/no bonus; Kira #1, rival #2, both fail W9. Kill counts, name, build, appearance and reconciliation OPEN; no scoring formula invented.",
+          "destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "trial-rewards/TRIAL_WAVE_CREDITS.csv"
+          ]
+        },
+        {
+          "sha256": "98299b3d94cdd2d3974973a7b8a6e1d49cb2db96b7764e55693cec381d4198db",
+          "status": "MIXED_PARTIAL",
+          "reason": "Exact 1,275 earned/no bonus; Kira #1, rival #2, both fail W9. Kill counts, name, build, appearance and reconciliation OPEN; no scoring formula invented.",
+          "destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "trial-rewards/TRIAL_WAVE_CREDITS.csv"
+          ]
+        },
+        {
+          "sha256": "c05726e1bcb3664c4605dc457f0654b53ca012fc6d862c9c0633d31f141f8f2f",
+          "status": "MIXED_PARTIAL",
+          "reason": "Exact 1,275 earned/no bonus; Kira #1, rival #2, both fail W9. Kill counts, name, build, appearance and reconciliation OPEN; no scoring formula invented.",
+          "destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "trial-rewards/TRIAL_WAVE_CREDITS.csv"
+          ]
+        },
+        {
+          "sha256": "c2e7de95b01fc1133daf0ee7d83c932e81c032317c3360cef8d2ff20910c2bba",
+          "status": "MIXED_PARTIAL",
+          "reason": "Exact 1,275 earned/no bonus; Kira #1, rival #2, both fail W9. Kill counts, name, build, appearance and reconciliation OPEN; no scoring formula invented.",
+          "destinations": [
+            "live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01",
+            "trial-rewards/TRIAL_WAVE_CREDITS.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Residence Node primer",
+      "body_sha256": "228912c80ed55bd5bd29cd257d3548f5c8db9e72f72e15b613759af41469757b",
+      "paragraphs": [
+        {
+          "sha256": "cf9b65772d1ffddd8c6c166d36a236c5526b2223e32509b61e7540879beb9277",
+          "status": "CURRENT",
+          "reason": "Existing Node categories and travel grammar only; no extra UI rules.",
+          "destinations": [
+            "live-model/03_VALNEK_PATHS.md#residence-node-primer"
+          ]
+        },
+        {
+          "sha256": "f6786a138f8f660040a4e2de622d9795221c8ceccfe5a595d3f55c22b5121176",
+          "status": "CURRENT",
+          "reason": "Existing Node categories and travel grammar only; no extra UI rules.",
+          "destinations": [
+            "live-model/03_VALNEK_PATHS.md#residence-node-primer"
+          ]
+        },
+        {
+          "sha256": "884e36c7f35f652a8752c474d4435b490f9ddaa8a592e28543d03a0ca0de5808",
+          "status": "CURRENT",
+          "reason": "Existing Node categories and travel grammar only; no extra UI rules.",
+          "destinations": [
+            "live-model/03_VALNEK_PATHS.md#residence-node-primer"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Valnak familiarity",
+      "body_sha256": "9e12efcfe78ac608824416938996aeec70893eb418cd03ed7fc950aaab6f459f",
+      "paragraphs": [
+        {
+          "sha256": "9e12efcfe78ac608824416938996aeec70893eb418cd03ed7fc950aaab6f459f",
+          "status": "CURRENT",
+          "reason": "Prepared groups and multicycle institution; Elara may revise implementation between cycles.",
+          "destinations": [
+            "live-model/03_VALNEK_PATHS.md#familiarity-across-cycles"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Kira's free walkabout — diegetic worldbuilding",
+      "body_sha256": "33b1c242b02f3254e5eb7c05e7c96995af0cfd18c20468ed75a6427f988e77e6",
+      "paragraphs": [
+        {
+          "sha256": "95e24b7c5fca82347a1e2a66056f994c0c1e8e29551fa5b819af2cbf4a627f45",
+          "status": "CURRENT",
+          "reason": "Choice to experience survival, approved scene palette and Afflicted social reaction; coffee normalized to abecca.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
+        },
+        {
+          "sha256": "23d67d62d2a25f911fc7a552b6d44be8affbeeb5a439f1852beb75b34adb530f",
+          "status": "CURRENT",
+          "reason": "Choice to experience survival, approved scene palette and Afflicted social reaction; coffee normalized to abecca.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
+        },
+        {
+          "sha256": "6218fab62759d2b4ed03494e462e4f80d084e9f268575fb14fa9ef1ab45308f5",
+          "status": "CURRENT",
+          "reason": "Choice to experience survival, approved scene palette and Afflicted social reaction; coffee normalized to abecca.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
+        },
+        {
+          "sha256": "8fc6bc5718ec0f26058adc11cef91e949867bcd9626fe4e34550d4917634ba77",
+          "status": "CURRENT",
+          "reason": "Choice to experience survival, approved scene palette and Afflicted social reaction; coffee normalized to abecca.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Flagships and shopping",
+      "body_sha256": "742e19ecce94cf0094102e78eee496145da54282e1dc233c92317ddcdd02e1e1",
+      "paragraphs": [
+        {
+          "sha256": "915e78c1aaee71f6decfdb3025d1e2342988dcb4fa4afd9f47ceeb16063dccb7",
+          "status": "MIXED_PARTIAL",
+          "reason": "Both distinct flagships fixed; ordinary outfit possible, 100–200 WORKING, purchase and exact price not booked; later premium dresses not imported.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
+        },
+        {
+          "sha256": "6190ffd1bdf3daf549036ba7f28943fa84ba2fdc65da6245d18eb3ff816a1e8c",
+          "status": "MIXED_PARTIAL",
+          "reason": "Both distinct flagships fixed; ordinary outfit possible, 100–200 WORKING, purchase and exact price not booked; later premium dresses not imported.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
+        },
+        {
+          "sha256": "f03301766e01b477b07f4996ebe88c567824ea5b137f7c1df81845bfa933bc37",
+          "status": "MIXED_PARTIAL",
+          "reason": "Both distinct flagships fixed; ordinary outfit possible, 100–200 WORKING, purchase and exact price not booked; later premium dresses not imported.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
+        },
+        {
+          "sha256": "064d6f1c650007ef317a441572a529a93cb739bea91f10242cf7051e559a46b7",
+          "status": "MIXED_PARTIAL",
+          "reason": "Both distinct flagships fixed; ordinary outfit possible, 100–200 WORKING, purchase and exact price not booked; later premium dresses not imported.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Champion Table evening",
+      "body_sha256": "7418ffd9de61af45f16630753157a59765f560964b69dbd23143db74fb2b0f5d",
+      "paragraphs": [
+        {
+          "sha256": "ee8b15d6676d3514cfd806cd68941ecaf455917aadf7d4978b9cb35fa2db560f",
+          "status": "CURRENT",
+          "reason": "Dynamic Top-10 first-cycle Solo entitlement, restaurant above raeon and rival at #2; no permanent gift or cash bonus.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings"
+          ]
+        },
+        {
+          "sha256": "bc7c1fbb75f98ba63891320eee3396d8fe63a983ae582c3b50ab21529d7c558e",
+          "status": "CURRENT",
+          "reason": "Dynamic Top-10 first-cycle Solo entitlement, restaurant above raeon and rival at #2; no permanent gift or cash bonus.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings"
+          ]
+        },
+        {
+          "sha256": "19f31332dec41eda0d24492e690296e82eacdda344e27d5ead9163dfc13301af",
+          "status": "CURRENT",
+          "reason": "Dynamic Top-10 first-cycle Solo entitlement, restaurant above raeon and rival at #2; no permanent gift or cash bonus.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "illi and Elara relationship geometry",
+      "body_sha256": "0933be21ff8f480b3e6e66956ad8c57bde5c2e44e240bebbb5cad3ed35a7ea77",
+      "paragraphs": [
+        {
+          "sha256": "a2e73563da36c44b9d5a72570faa37e70e15137b01a0543363e1a393e571f29f",
+          "status": "CURRENT",
+          "reason": "Sister-level illi and BFF Elara destinations, informal inclusion not adoption; Elara is not combat partner.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings",
+            "canon/characters/ELARA.md"
+          ]
+        },
+        {
+          "sha256": "b4fd8834a8e9d32f0ced5e1f228dfff6acbdd454c6bb2e88d9b003643f086c93",
+          "status": "CURRENT",
+          "reason": "Sister-level illi and BFF Elara destinations, informal inclusion not adoption; Elara is not combat partner.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings",
+            "canon/characters/ELARA.md"
+          ]
+        },
+        {
+          "sha256": "93f4ba3b67494c5453c1d2730fb85e3c075edcc9f4626d53543fd3b2246cc5df",
+          "status": "CURRENT",
+          "reason": "Sister-level illi and BFF Elara destinations, informal inclusion not adoption; Elara is not combat partner.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings",
+            "canon/characters/ELARA.md"
+          ]
+        },
+        {
+          "sha256": "71897853169bebdcfd9fbf123ab6af28d3ff963f46dee1919b94ecd2cf0c10cd",
+          "status": "CURRENT",
+          "reason": "Sister-level illi and BFF Elara destinations, informal inclusion not adoption; Elara is not combat partner.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings",
+            "canon/characters/ELARA.md"
+          ]
+        },
+        {
+          "sha256": "3c3d286cc930074d5e2cb3e75be4a05ba61134cb1a6684241ec442bb45fcd3fb",
+          "status": "CURRENT",
+          "reason": "Sister-level illi and BFF Elara destinations, informal inclusion not adoption; Elara is not combat partner.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#champion-evening-and-relationship-beginnings",
+            "canon/characters/ELARA.md"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Highlights and Arc One close",
+      "body_sha256": "c26ad3c11955fc1054c5191cfe0525dbbf04f9e0030d469dac2acdd2f263cc32",
+      "paragraphs": [
+        {
+          "sha256": "90fc74cd2a5f6614771b85b81a69d791b9e3faed787a5372566018f043bd859e",
+          "status": "MIXED_PARTIAL",
+          "reason": "Dinner/Highlights closes supplied narrative; public graphic-death editorial practice remains OPEN. Preserve full sequence without assigning chapters/dates.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#highlights-and-developed-close",
+            "story/ARC_01/ARC.md"
+          ]
+        },
+        {
+          "sha256": "1c9ae84b885909c3fcde1bf4d6a7c6a2008ef1cbe553b091956bf6cbd75aed41",
+          "status": "MIXED_PARTIAL",
+          "reason": "Dinner/Highlights closes supplied narrative; public graphic-death editorial practice remains OPEN. Preserve full sequence without assigning chapters/dates.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#highlights-and-developed-close",
+            "story/ARC_01/ARC.md"
+          ]
+        },
+        {
+          "sha256": "ff3ffb12d7bc56420499f01dfff9e292605b24220a8049b6e94b1f8db5854f17",
+          "status": "MIXED_PARTIAL",
+          "reason": "Dinner/Highlights closes supplied narrative; public graphic-death editorial practice remains OPEN. Preserve full sequence without assigning chapters/dates.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#highlights-and-developed-close",
+            "story/ARC_01/ARC.md"
+          ]
+        },
+        {
+          "sha256": "da2ce16927befae793520f66098b9fd36f4d5fee0ac113d030d3fe2974b410d7",
+          "status": "MIXED_PARTIAL",
+          "reason": "Dinner/Highlights closes supplied narrative; public graphic-death editorial practice remains OPEN. Preserve full sequence without assigning chapters/dates.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#highlights-and-developed-close",
+            "story/ARC_01/ARC.md"
+          ]
+        },
+        {
+          "sha256": "8412fb5b4ca7c36a8c63b1100bc2c682ef8aa4cdef258b3e8d53adf4c0e3caee",
+          "status": "MIXED_PARTIAL",
+          "reason": "Dinner/Highlights closes supplied narrative; public graphic-death editorial practice remains OPEN. Preserve full sequence without assigning chapters/dates.",
+          "destinations": [
+            "live-model/STORY_CLOCK_STATE.md#highlights-and-developed-close",
+            "story/ARC_01/ARC.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "supersessions": [
+    {
+      "scope": "Historical Day-One paid Solo/#1 assertions",
+      "decision": "SUPERSEDED timing; first paid Solo remains R1D3. Compatible combat, social and emotional details survive. No paid events added.",
+      "destinations": [
+        "live-model/SUPERSESSIONS.md#diplomatic-pouch-01--arc-one-promotion",
+        "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv"
+      ]
+    },
+    {
+      "scope": "R1 Arc One initialization-only narrative exit / broad missing opening RECOVERY_GAP",
+      "decision": "Narrative content supplied through dinner/Highlights; Armor and PC Red remain mechanical anchors. Arc Two handoff wording reconciled only; later purchases, endpoints and all calendar rows unchanged.",
+      "destinations": [
+        "story/ARC_01/ARC.md",
+        "story/ARC_02/ARC.md"
+      ]
+    },
+    {
+      "scope": "Older five ordinary directions plus unprecedented Armor versus six Black offerings",
+      "decision": "Initial selection follows existing newer authority; correct the stale six-Black assertion in the edited Kira owner without reopening acquisitions.",
+      "destinations": [
+        "live-model/01_KIRA.md#what-valnak-sees"
+      ]
+    },
+    {
+      "scope": "R1 historical section/fragment coverage",
+      "decision": "Frozen 3a7a624 revision remains historical audit evidence. This manifest maps the new supplied decisions and pins replacement bytes. All compatible old authority and existing OPENs survive.",
+      "destinations": [
+        "canon/PROMOTIONS.json"
+      ]
+    }
+  ],
+  "remaining_open": [
+    {
+      "id": "ARC01_R1D2_DUO_BEFORE_FRIENDSHIP",
+      "status": "RECOVERY_GAP",
+      "detail": "Locked R1D2 Kira+illi Duo precedes R1D3 first Solo and subsequent friendship dinner in approved narrative. User clarification requested; no correction supplied at integration. Both records preserved; no invented earlier meeting, shifted run or financial change."
+    },
+    {
+      "id": "ARC01_LOCAL_DETAILS",
+      "status": "OPEN",
+      "detail": "Rival name/appearance/build/reconciliation; exact W9 kills; outfit purchase/exact price; microscopic biology; Curious meaning; graphic-death Highlights editing; extra UI rules; chapter boundaries."
+    }
+  ],
+  "working_qualifications": [
+    "Rough 11–17 Afflicted lifespan author model is not a universal mortality cutoff.",
+    "Approximately 15 experiential seconds is a narrative return target, not a hard timer.",
+    "100–200 cheap outfit budget is illustrative; no discretionary purchase booked."
+  ],
+  "preservation_scope": "Every pre-promotion file and Git mode preserved, except explicitly enumerated source/navigation/validation edits. Historical/provenance corpus, CP25, data and all ten original numeric/calendar validators unchanged. No chapters or new numbered checkpoint.",
+  "semantic_review": "All 15 source sections and their paragraphs reviewed against the linked destinations; qualifiers and unresolved chronology explicitly retained. Mechanical coverage is not a proof of factual equivalence."
+}

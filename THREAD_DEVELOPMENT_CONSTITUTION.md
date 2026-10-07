@@ -230,3 +230,7 @@ Checkpoint 24 governs post-G6D2 progression: **19 illi events / 292,772** throug
 ## Checkpoint 25 current authority
 
 Read [reconciled Arc Seven canon](live-model/32_CHECKPOINT_25_ARC7_FINALE.md), [current handoff](world-clock/ARC7_HANDOFF.md) and [conflict decisions](provenance/CHECKPOINT_25_CONFLICTS.md) before continuing. Correction supersedes the master’s schedule/accounting, while compatible non-calendar material survives. Arc Six stays FULL LOCK through B6D3. Arc Seven begins B6D4 and ends after White W7. Exact Blue/Violet daily rows remain OPEN beyond explicit competency anchors. The next creative phase is recursively outlining Arc One against this scaffold; this integration records the handoff and does not create new chapter canon.
+
+## Diplomatic Pouch 01 — bounded opening promotion
+
+The approved [Arc One promotion](provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md) supplies opening detail through Champion dinner/Highlights within the existing scaffold. Apply its explicit additions through the [current story owner](live-model/STORY_CLOCK_STATE.md#arc-one-developed-narrative--diplomatic-pouch-01). This is not a new numbered checkpoint; Checkpoint 25 correction and unchanged exact calendars/rewards still govern their scopes. First paid Solo is R1D3, 1,275 credits, failed W9 zero and no standings bonus. The earlier R1D2 shared Duo versus subsequent friendship dinner remains an explicit chronology RECOVERY_GAP. No chapter boundaries, moved paid events or resolved unrelated OPENs follow.

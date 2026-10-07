@@ -28,8 +28,12 @@ Do not reopen W36+ payouts (1,600), final Solo/Duo 100, White W1 Solo 96 interme
 
 Approximate city/Prism scales, population age center/envelope, average longevity, hair fullness, Halo size stages, one-Orb~11 ft orbit,~4-day mature W1–35,~23,000 dresses/two each, Tiara Fund idea, Blacksmiths' Row 64 premium addresses, ring projection radii and roughly first-third Book One Valnak scale retain their author-example status. A numeric example does not become a universal law or a booked purchase.
 
-The Arc One/Two boundary milestones are recovered, but their old opening-scene-to-day alignment has a **RECOVERY_GAP** after the later scheduling correction. This does not reopen their macro arcs. Chapter numbering/counts, scene breakdowns and prose remain unwritten in the discovered Git corpus. Future authoring can elaborate within the fixed framework; it needs an explicit author decision to move locks or fill an unknown with canon. The [source coverage ledger](../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json) records reviewed scope and any unresolved review separately from these intentional unknowns.
+Diplomatic Pouch 01 supplies the Arc One narrative through Champion dinner/Highlights. A narrower **RECOVERY_GAP** remains: the unchanged R1D2 shared Duo precedes the R1D3 first Solo and subsequent friendship dinner. Both records are preserved pending an author reconciliation; no prior meeting or replacement combat date is invented. This does not reopen their macro arcs. Chapter numbering/counts, scene breakdowns and prose remain unwritten in the discovered Git corpus. Future authoring can elaborate within the fixed framework; it needs an explicit author decision to move locks or fill an unknown with canon. The [source coverage ledger](../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json) records reviewed scope and any unresolved review separately from these intentional unknowns.
 
+
+## Arc One promotion — remaining precision
+
+Rival name/appearance/exact build/final reconciliation, W9 kill counts, Elara's “Curious.” meaning, microscopic biology, exact inexpensive outfit price and whether it is purchased, and public Highlights' treatment of graphic death remain OPEN. Rough 100–200-credit clothing, roughly 15 experiential seconds returning from death and the roughly 11–17 culturally expected Afflicted lifespan retain their approximate author scope. No new Node/UI rules or chapter boundaries are supplied. [Promotion and temporal conflict](../live-model/OPEN.md#diplomatic-pouch-01--arc-one-promotion).
 
 ## Factual ownership
 

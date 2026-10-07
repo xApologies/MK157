@@ -20,6 +20,8 @@ not necessarily the final evolutionary form.
 
 This does not grant knowledge, skill, or perfect control.
 
+Her entry age is already beyond the culturally expected Afflicted lifespan: roughly 11–17 is the author's approximate model, not an exact universal cutoff. Her parents have prior Valnak experience; Kira knows the institution and expected systems before arriving. She expects to become a better blacksmith before she dies. After BLACKOUT, the emotional center is **no longer dying**: healthy white skin/hair still evokes Affliction socially, but her future is finally open-ended. [Diplomatic Pouch 01 source](../provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md#entry-and-emotional-spine).
+
 ## Blacksmith identity
 
 Kira was raised in an armorsmith household and wants the
@@ -42,8 +44,7 @@ compatibility-pruning system does not find the expected ceiling. Elara
 tries to persuade Kira to try Combat rather than immediately choosing
 Craftsman.
 
-Kira is presented with six unprecedented Black offerings; **Armor of the
-Abyss** attracts her because she is an armorsmith.
+The current initial offer is five ordinary directions plus unprecedented Black **Armor of the Abyss**, correcting the historical six-Black-option description. Elara personally assesses Kira and redirects her toward Combat; Armor attracts Kira through her armorsmith identity.
 
 ## BLACKOUT transformation
 
@@ -66,6 +67,16 @@ realization → Black organization.
 The Afflicted pathology is gone afterward. Kira remains human, but her
 stable body is now a Genesis-energy realization pushing the bounds of
 human materiality.
+
+Restructuring/output into Kira exceeds local draw/intake/generation/throughput, so Valnak draws against its available energetic state/reserve and the environment dims and flickers. Enough transfer completes her transformation before Elara cuts it off; this is not depletion of the Abyss. [Energy owner](02_COSMOLOGY.md#valnak-draw--infinitely-deep-well-metaphor).
+
+Elara studies Kira's changed eyes and says only **“Curious.”** Kira asks what; Elara shrugs it off without explaining. The observation's meaning remains OPEN.
+
+## Personal Binding primer
+
+Elara personally supplies the primer normally handled by Valnak onboarding. Control is embodied cognition, like discovering a new muscle: attention makes the interface perceptible, intention moves energy through stored architecture. Valnak makes operation intuitive, not automatic or mastered.
+
+Author grammar: energy access → controlled movement → Binding architecture → expanded/projected Genesis-field realization → conscious collapse/resolution into Shaping. Kira's Black access is one unified domain, not six channels. Access ≠ throughput ≠ cognition ≠ control ≠ knowledge ≠ skill ≠ output.
 
 ## Canonical post-transformation design
 
@@ -119,6 +130,18 @@ Initial combat vocabulary remains small: armor + claws. Extraordinary
 access does not equal mature skill/control/output.
 
 Permanent pigmentation remains WHITE. Abyssal Black with buried R→V spectral depth principally belongs to body-linked battle/Genesis architecture; intrinsic Black-compatible geometry is Genesis resolution through her biological boundary, not ordinary pigment or tissue burrowing. Recovered source morphology does not import identity, potion causality, rank ladders, tattoo ontology, or unrelated mechanics.
+
+Full manifestation seamlessly encloses body and head and incorporates/reconfigures biological hair, so the armored form appears hairless. Kira feels Armor proprioceptively. The R→V field geometry is **very faint**, mainly visible up close or under deliberate focus: liquid Black/deep-water depth, never latex, conventional metal, bright RGB piping or decorative rainbow seams. Claws are thick-backed/rooted and converge to razor-sharp edges. Armor answers consciousness with a lifetime-scale mastery horizon. Re-resolving disrupted Armor costs throughput/fatigue and is not biological healing.
+
+## First Solo and rival — Diplomatic Pouch 01
+
+The first paid Solo is **R1D3** under the unchanged combat calendar, not Day One. Kira enters the fixed 3×3-mile Trial with Armor + learned claws only. She has no meaningful combat career, equipment or consumables. Smithing strength and dexterity do not make her a trained fighter. Red contact/melee, Orange intrusion and Yellow projected-force/Transductionist pressure develop the geometry problem; perimeter delivery responds to throughput rather than spawning an entire wave simultaneously.
+
+She clears W1–W8, then fails W9 under spatial/population saturation. W8/W9 are Yellow. Lacking CSR, ranged offense, Orbs, Halo and Domain, she is pinned/overrun and killed by accumulated pressure. Pain, blood, loss of balance/proprioception, penetrations or amputation can make the encounter physically real when appropriate, without gratuitous gore. [Arena](TRIAL_ARENA.md); [embodiment and return](03_VALNEK_PATHS.md#pssp-embodiment-death-and-re-instancing).
+
+The exact payout is **1,275 credits**: 50+90+115+140+170+200+235+275. Failed W9 pays zero; there is **no standings cash bonus**. This is earned Trial income, not an asserted complete bank balance. [Reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv).
+
+The unnamed rival is approximately 21, the son of a Blue/Raelon landed noble: a genuine prodigy prepared with elite armor, weapons, ru’ne, Alchemy, instructors and optimized planning. His cohort expected him to be champion. Both clear W8 and fail W9; Kira advances farther into W9 and takes #1, leaving him #2. Exact W9 kill counts stay OPEN. This fits the existing working highest-completed-wave/validated-next-wave-progress tiebreak direction without adding a scoring formula or new UI rule. He is pompous, snobbish and arrogant, but talented rather than evil or incompetent. Name, appearance, exact build and final reconciliation remain OPEN. He is a competitive foil, not a newly prescribed villain arc.
 
 ## Genesis-Orb blender — promote to active canon
 Kira's Genesis Orbs are persistent external Black Genesis-energy bodies, roughly cannonball-sized (~8 in / 20 cm), dense/solid in interaction and capable of acting as mobile Transducers.
@@ -214,7 +237,7 @@ Working ranking/tie rule:
 
 The ranked participant controls the table access while they hold that position and can bring guests.
 
-Kira takes #1 on Day One and **never relinquishes #1 during the entire seven-season cycle**.
+Kira takes #1 with the R1D3 Solo result and **never relinquishes #1 during the entire seven-season cycle**.
 
 The center/prime #1 table therefore becomes socially known as **Kira's table**.
 
@@ -226,9 +249,9 @@ This is an emergent title, not a Binding, Legacy or formal rank.
 
 # 11. Kira / illi / Elara public visibility
 
-By Day Two, Kira is unmistakably famous:
+Following her first Solo and public Highlights, Kira becomes unmistakably famous:
 - only Black Legacy;
-- Day-One Yellow first-cycle Solo result;
+- R1D3 Yellow first-cycle Solo result;
 - #1 Champion Table;
 - first-night highlight exposure;
 - extraordinary transformed biology;
@@ -250,7 +273,7 @@ illi has lifelong experience handling public attention. Kira does not.
 # 13. Day One / Day Two story runtime
 
 ## Day One
-Current governing spine remains Checkpoint 08:
+Historical Day-One label only: the paid Solo is R1D3. Diplomatic Pouch 01 now supplies the developed [Arc One sequence](STORY_CLOCK_STATE.md#arc-one-developed-narrative--diplomatic-pouch-01), ending with the Champion evening/Highlights. The older list below is not a calendar assignment:
 - Kira enters Valnak;
 - Black restructuring / BLACKOUT;
 - Armor of the Abyss;
@@ -264,7 +287,7 @@ Current governing spine remains Checkpoint 08:
 - Kira becomes a public phenomenon.
 
 ## Day Two
-Arc Two opens with the Duo Trial.
+Historical Day-Two sequence: the double-Duo timestamp is superseded. The locked R1D2 shared Duo and the pouch’s post-Solo friendship dinner have an explicit chronology RECOVERY_GAP; do not add or move paid runs. Arc Two retains the partnership/progression material below without a newly invented date:
 
 Kira + illi:
 - first Duo attempt;

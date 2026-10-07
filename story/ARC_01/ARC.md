@@ -1,40 +1,51 @@
-# Arc 01 — Arrival and foundational choice
+# Arc 01 — Arrival, survival and the Champion evening
 
-Macro status: **AUTHORIALLY CLOSED**. This is a recovered authoring dossier, not new scenes or revised canon. Local OPENs and source-recovery qualifications remain. Chapter/scene/prose state: **not created in the discovered corpus**.
+Macro status: **AUTHORIALLY CLOSED**. Diplomatic Pouch 01 develops the existing scaffold through the Champion Table evening/Highlights. This is the current author model, not a chapter outline or manuscript. Chapter boundaries, chapter counts and prose remain unassigned.
 
-## Entry and exit
+## Entry, exit and calendar
 
-- Entry: Kira, 22, genuinely Afflicted, an exceptional manual mail craftsperson expecting Creation; no combat career or Binding. illi begins her own first cycle.
-- Exit: illi Persistent Coherence Red / Kira Armor of the Abyss.
-- Calendar scope: Initialization boundary; PC Red is R1D1. Exact early scene placement must respect the later R1D1 NO REQUIRED COMBAT scaffold.
+- Entry: Kira, 22, genuinely Afflicted, an exceptional mail armorsmith expecting Creation before she dies; no meaningful combat career, equipment or consumables.
+- Developed narrative exit: healthy Kira is #1 first-cycle Solo, with Armor + learned claws, beginning sisterhood with illi and closest friendship with Elara at dinner/Highlights. Armor and illi's PC Red remain the foundational mechanical state.
+- First paid Solo: **R1D3**, W8 clear/W9 fail. R1D1 stays NO REQUIRED COMBAT. No additional paid run or intraday date is assigned.
 
+**Chronology RECOVERY_GAP:** the unchanged calendar books the pair's Duo on R1D2, before the R1D3 Solo and subsequent friendship dinner in the approved opening sequence. The narrative beats and Arc One close are now supplied; their remaining conflict with that earlier shared run is not silently solved. Preserve both records pending explicit author reconciliation. Do not invent an earlier meeting or move combat. [Current narrative owner](../../live-model/STORY_CLOCK_STATE.md#arc-one-developed-narrative--diplomatic-pouch-01); [calendar](../../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv).
 
-## Recovered narrative structure
+## Emotional spine and transformation
 
-Kira enters expecting the Creator/armorsmith route. Elara directs her toward Combat because her biology makes unprecedented Black architecture admissible. Initial evaluation presents five ordinary directions plus Black Armor; Kira chooses Armor through her armorsmith identity. The earlier six named Black-role options are superseded. Armor's~1,000 anomaly is separate from the current 2,000 starter grant. Black restructuring exceeds Valnak's finite local throughput and Elara emergency-cuts the BLACKOUT. Kira evolves beyond genuine Afflicted pathology into white biological skin/hair and black spectral eyes. These established events carry no new intraday timestamps. [Choice](../../live-model/09_CHECKPOINT_04_ADDENDUM.md#black-legacy-economics); [BLACKOUT](../../live-model/02_COSMOLOGY.md#valnak-draw--infinitely-deep-well-metaphor); [Biology](../../live-model/11_CHECKPOINT_06_KIRA_BIOLOGY_FIX.md).
+Kira's parents have prior Valnak experience. She knows the multigenerational institution, its approximately 23-year openings and broad systems; she is not a visitor to culturally unknown territory. The author's roughly 11–17 Afflicted lifespan model makes reaching 22 exceptional without creating an exact mortality rule. Her mail craft supplies identity, dexterity and strength, not trained fighting.
 
-The older opening account includes first Solo W8/W9 death, restoration at residence, friendship, dinner/Highlights and Champion recognition. Those are recovered story beats, but the later macro boundary closes Arc One at PC Red/Armor, while the current calendar places the paid Solo at R1D3. **RECOVERY_GAP: the exact allocation and timestamp of displaced opening scenes is not fully supplied.** Do not force the old Day-One Solo back into R1D1, or silently call all those beats locked Arc-One dated events. This dossier distinguishes the initialization boundary from the surviving early narrative reservoir. [Early story record](../../live-model/STORY_CLOCK_STATE.md); [Governing scheduling correction](../../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md).
+Elara personally assesses and redirects her to Combat. Kira chooses Armor through her armorsmith identity. BLACKOUT is a local-throughput brownout: output/restructuring into her exceeds draw/intake/generation, Valnak uses available state/reserve, lights/environment dim and flicker, and Elara cuts it off after enough transfer completes transformation. The Abyss is not depleted. Kira retains healthy white skin/hair, Black R→V eyes, effectively perfect symmetry, longer limbs and approximately 5'8"→5'11" Genesis-integrated biology. Microscopic detail stays OPEN. Studying her eyes, Elara says **“Curious.”** and shrugs off Kira's question without explanation. [Kira owner](../../live-model/01_KIRA.md#blackout-transformation).
 
-## Character state and capability
+The central change is **no longer dying**. Her healthy white appearance can still evoke Affliction socially, but she can finally imagine a future.
 
-Kira's smithy strength/dexterity is useful but she remains an inexperienced brawler. Armor is body-linked/reconfigurational, not conventional equipment, and restoration is not healing. Start with five armored fingers; learned three-claw geometry is later development, not a new biological hand. Access does not equal knowledge, capacity or control. illi's entry tool is PC Red, not Absorption or instant White-ranked power. No CSR, Orb, Halo or Domain competency is moved into this boundary.
+## Primer, Armor and first Trial
 
-## Economy, relationships and negative space
+Elara supplies the usual onboarding primer personally. Attention reveals an interface and intention operates stored architecture like a newly discovered muscle. Energy access → controlled movement → Binding architecture → projected Genesis-field realization → conscious collapse/resolution into Shaping. Operation is intuitive, not mastered; access, throughput, cognition, control, knowledge, skill and output remain distinct.
 
-PC Red costs 1,700 on R1D1, leaving 300 from illi's grant in the early progression scaffold. This is not a full discretionary bank ledger. Armor retains its approximate anomalous price. Kira's choice keeps her craft identity active rather than erasing Creation. Kira/Elara BFF and Kira/illi sister-level relationships are the established destination geometry, not license to invent a first-conversation scene.
+Armor is body-linked liquid Black, seamlessly including head and reconfigured biological hair. Buried R→V geometry is very faint, mostly visible up close or under focus—not bright rainbow seams, latex or metal. Five armored fingers precede learned thumb/index+middle/ring+pinky claws with thick roots and razor edges. Biological fingers remain. Conscious/proprioceptive control has a lifetime-scale horizon; restoring Armor topology costs throughput/fatigue and does not heal biology. Early combat is **Armor + claws only**. [Primer](../../live-model/01_KIRA.md#personal-binding-primer); [Armor](../../live-model/01_KIRA.md#armor-of-the-abyss).
 
-R1D1 has no required combat. Arrival, choice and transformation do not authorize an extra paid Trial. City/food/home/rest and later Highlights are lived continuity, with no new attendance requirement or invented chapter ending. The next workspace follows the pair toward PC Blue/White Legacy, Absorption and CSR.
+The fixed 3×3-mile arena uses obscured-perimeter ingress and throughput-responsive delivery; a wave total is not simultaneous population. Red melee, Orange intrusion and Yellow projected pressure lead into the melee/ranged geometry problem. The inexperienced brawler clears W1–W8 and is pinned/overrun in W9 through spatial/population saturation, without CSR, ranged offense, Orbs, Halo or Domain. Pain and injury can be visceral and real without gratuitous gore. [Arena](../../live-model/TRIAL_ARENA.md); [first Solo](../../live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01).
 
+## Return, earnings and foil
 
-## Protected local OPENs
+Valnak embodiment is a PSSP tied to an authoritative maintained outside body/state. Projection injury is lived pain/fear/proprioceptive loss; destroying it does not destroy that outside state. Valnak re-instances Kira safely on a residence bed. She returns gently over roughly 15 experiential seconds, a WORKING narrative target rather than a timer. She remembers death but does not awaken in peak-combat panic. Some entrants refuse further combat afterward and choose other Valnak life. Elara waits, welcomes/congratulates her and teaches brief Node interaction: summon/dismiss, navigate/select, apparent touch or thought. Categories remain dossier, credits, build, standings, travel, social and Builder; no new UI rules. [Return and Node owner](../../live-model/03_VALNEK_PATHS.md#pssp-embodiment-death-and-re-instancing).
 
-Exact early scene-to-day and scene-to-arc allocation where old opening prose conflicts with CP18 is RECOVERY_GAP. Do not invent chapter boundaries, first meeting dialogue, minor names, combat dates or transformation microanatomy. Macro closure remains intact.
+W1–W8 pays exactly **1,275** (50+90+115+140+170+200+235+275); failed W9 pays zero. **No standings cash bonus.** This is Trial income, not her complete bank balance. The approximately-21-year-old unnamed son of a Blue/Raelon landed noble also clears W8/fails W9. Elite equipment, ru’ne, Alchemy, instructors and planning support real prodigy talent. Kira's greater W9 progress makes her #1 and him #2; kill counts stay OPEN. He is arrogant/snobbish and disappointed, a competitive foil rather than an evil/incompetent villain. [Reward rows](../../trial-rewards/TRIAL_WAVE_CREDITS.csv).
 
-## Ownership and next use
+## Free walkabout, flagships and dinner
 
-- [live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md — 1. Arc architecture — LOCK](../../live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md#1-arc-architecture--lock)
-- [live-model/STORY_CLOCK_STATE.md — whole record / document](../../live-model/STORY_CLOCK_STATE.md)
-- [prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md — Kira First Combat Trial](../../prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md#kira-first-combat-trial)
-- [world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md — Economy and purchase gates](../../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md#economy-and-purchase-gates)
+Kira chooses living over immediately requeueing. Manicured nature, cheap ordinary food/abecca, hubs, crowds, Nodes, prepared groups, veterans and carriages can show Valnak through her experience. She moves without rationing a dying body. Stares, whispers and Afflicted taboo are familiar, but today being alive matters more.
 
-[Chapter workspace](chapters/README.md) · [Arc map](../INDEX.md) · [Current canon](../../canon/INDEX.md) · [Local OPEN register](../../canon/OPEN.md)
+She definitely visits both flagships: playable raeon and separate collectible Genesis Cards/manifolds. At the latter she window-shops beyond the practical budget of her Trial earnings, establishing fascination without naming the later Blue Fireball card. Ordinary shopping may include an inexpensive presentable outfit/dress for her changed body and dinner. Roughly 100–200 credits is WORKING, with no exact purchase/price booked and no imported premium 23,000-credit dress.
+
+Elara explains her current #1 Champion Table reservation during onboarding. Ten tables follow current Top-10 first-cycle Solo standing, competitively and dynamically. The famous premier restaurant above the raeon flagship supplies views, prestige and Highlights. The rival attends at #2 with his prepared cohort, irritated at losing anticipated debut glory.
+
+illi attends as princess/public figure to acknowledge the champion, expecting a conventional prodigy. Kira's white appearance and Black/spectral eyes surprise her. They click; illi accepts Kira as a person, and Kira opens up. This seeds sisterhood and later informal royal-family inclusion, not formal adoption. Elara joins later; Custodian authority is a different institutional axis from royalty and can make even illi nervous. Kira does not fully grasp that prestige. Elara is her BFF/social and theorycrafting companion, not combat partner. They eat, talk and laugh; no extra plot event is required.
+
+Highlights close the arc. They may show Kira's inexperienced fighting, the rival's genuine performance and Armor's public emergence. She may notice mistakes without ending on another lesson. Editorial treatment of graphic death remains OPEN. [Detailed walkabout/evening owner](../../live-model/STORY_CLOCK_STATE.md#free-walkabout-and-both-flagships).
+
+## Protected local OPENs and next use
+
+The R1D2/R1D3 chronology conflict remains; the developed narrative close does not reopen later arcs or move their progression. Keep rival name/appearance/build/reconciliation, W9 kill counts, outfit purchase/price, microscopic biology, “Curious.” meaning and graphic-death editing OPEN. The source's rough lifespan and return interval are qualified examples. No chapters, named peers, extra dialogue or full bank balance is created.
+
+[Approved source](../../provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md) · [Chapter workspace](chapters/README.md) · [Arc Two transition](../ARC_02/ARC.md) · [Arc map](../INDEX.md) · [Local OPEN register](../../canon/OPEN.md)

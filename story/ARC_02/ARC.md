@@ -4,10 +4,12 @@ Macro status: **AUTHORIALLY CLOSED**. This is a recovered authoring dossier, not
 
 ## Entry and exit
 
-- Entry: Armor and PC Red; the opening narrative reservoir remains subject to CP18 timing.
+- Entry: Armor/PC Red and the developed Arc One friendship/Champion-evening handoff. Exact transition-to-calendar mapping retains the R1D2/R1D3 chronology RECOVERY_GAP.
 - Exit: PC Blue and accepted White Legacy O1D4, Absorption Shield Red O2D3; Kira holds CSR by O2D3.
 - Calendar scope: Early Red progression through O2D3; exact CSR purchase day and displaced opening-scene timing OPEN.
 
+
+Diplomatic Pouch 01 now owns first Solo→return→walkabout→dinner/Highlights inside [Arc One](../ARC_01/ARC.md). The existing R1D2 Duo precedes that R1D3 Solo and subsequent friendship dinner; keep this conflict explicit rather than inventing an earlier meeting or changing either paid run. Arc Two's later purchases, required calendar and endpoint stay intact.
 
 ## Ordered anchors and recovered beats
 
@@ -32,7 +34,7 @@ Exit into Arc Three is O2D4 with Armor/CSR, PC Blue/Absorption Red and White Leg
 
 ## Protected local OPENs
 
-RECOVERY_GAP: exact displaced Day-One/Day-Two scene placement. Exact CSR purchase date, discretionary spending, early minor identities and unsupplied failed-run awards stay OPEN. No new required combat fills negative space.
+RECOVERY_GAP: R1D2 shared Duo versus the developed post-R1D3-Solo friendship dinner; exact remaining transition placement needs author reconciliation. Exact CSR purchase date, discretionary spending, early minor identities and unsupplied failed-run awards stay OPEN. No new required combat fills negative space.
 
 ## Ownership and next use
 

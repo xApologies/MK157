@@ -1,4 +1,4 @@
-"""Read-only R1 authoring audit. Python standard library; JSON on stdout.
+"""Read-only authoring audit. Python standard library; JSON on stdout.
 
 Validates the supplied schemas' explicit keyword subset (not a general JSON
 Schema engine), coverage partitions, local Markdown routes and source owners.
@@ -14,6 +14,7 @@ import json
 import re
 import subprocess
 import unicodedata
+from validate_promotions import audit_promotions, historical_content
 
 MAINT = 'provenance/maintenance/authoring-cleanup-r1'
 NAV = {'README.md', 'live-model/INDEX.md'}
@@ -167,7 +168,6 @@ def audit(root):
     untracked = subprocess.check_output(git + ['ls-files', '--others', '--exclude-standard', '-z']).decode().split('\0')
     files = sorted(set(tracked + untracked) - {''})
     added = set(files) - original
-    require(all(p in {'AGENTS.md', 'CANON_STATUS.md'} or p.startswith(PREFIXES) for p in added), 'new path outside allowed surfaces')
     parsed = []
     for p in files:
         if p in added and p.endswith('.json'):
@@ -196,12 +196,16 @@ def audit(root):
     def root_target(path):
         error = target_error('README.md', path)
         require(not error, f'owner/metadata target {path}: {error}')
+    promotions = audit_promotions(root, git, require, root_target)
+    require(all(p in {'AGENTS.md', 'CANON_STATUS.md'} or p.startswith(PREFIXES + promotions['prefixes']) for p in added), 'new path outside allowed surfaces')
+    checks['author_promotions'] = promotions['reports']
+    def git_read(revision_path): return subprocess.check_output(git + ['show', revision_path])
     for topic in authority['topics']:
         for p in topic['view_paths']: root_target(p)
         for owner in topic['owners']:
             root_target(owner['path'] + ('#' + owner['anchor'] if owner.get('anchor') else ''))
             if owner['path'].endswith('.md'):
-                require(owner['path'] in coverage['reviewed_scope'], f'admitted Markdown owner lacks section coverage: {owner["path"]}')
+                require(owner['path'] in coverage['reviewed_scope'] or owner['path'] in promotions['source_paths'], f'admitted Markdown owner lacks section coverage: {owner["path"]}')
     require(len({t['id'] for t in authority['topics']}) == 11, 'eleven unique canon topics required')
     require(authority['source_commit'] == baseline['baseline_commit'] == coverage['source_commit'], 'authority/coverage baseline mismatch')
     rowmap = {r['id']: r for r in coverage['rows']}; sectionmap = {s['id']: s for s in coverage['sections']}
@@ -209,7 +213,8 @@ def audit(root):
     expected_sections = set(); total_fragments = 0; status_counts = collections.Counter()
     for p in coverage['reviewed_scope']:
         require(p in original, f'coverage source not in baseline: {p}')
-        content = read(p); lines = content.splitlines(); byline = {i:(h,a) for h,a,i in headings(content)}
+        content = historical_content(p, read(p), coverage['source_commit'], promotions['changed'], git_read)
+        lines = content.splitlines(); byline = {i:(h,a) for h,a,i in headings(content)}
         starts = sorted({1, *byline})
         for index, start in enumerate(starts):
             end = starts[index+1]-1 if index+1 < len(starts) else len(lines)
@@ -235,7 +240,7 @@ def audit(root):
     require(coverage['section_count'] == len(expected_sections) and coverage['claim_count'] == total_fragments, 'coverage summary mismatch')
     require(dict(status_counts) == coverage['fragment_status_counts'], 'status counts mismatch')
     require(coverage['unresolved_review_count'] == status_counts['UNRESOLVED_REVIEW'] == 0, 'unresolved source review')
-    checks['coverage'] = {'sources': len(coverage['reviewed_scope']), 'sections': len(expected_sections), 'fragments': total_fragments, 'rows': len(rowmap), 'fragment_status_counts': dict(status_counts), 'semantic_limit': 'Partition/digests validate accounting, not factual truth. See SOURCE_STATUS_DECISIONS.md for the separate agent semantic review.'}
+    checks['coverage'] = {'sources': len(coverage['reviewed_scope']), 'sections': len(expected_sections), 'fragments': total_fragments, 'rows': len(rowmap), 'fragment_status_counts': dict(status_counts), 'historical_source_commit': coverage['source_commit'], 'promoted_sources_checked_at_historical_revision': sorted(set(coverage['reviewed_scope']) & promotions['changed']), 'semantic_limit': 'R1 partitions describe the pinned historical revision. Explicit promotions separately account for current replacement bytes and new author decisions; undeclared drift fails. Partition/digests do not establish factual truth.'}
     arcs = load('story/ARC_MAP.json'); require(len(arcs['arcs']) == 7 and arcs['new_chapters_created'] == 0, 'arc/chapter count')
     for n, arc in enumerate(arcs['arcs'], 1):
         require(arc['id'] == f'ARC_{n:02}' and arc['macro_status'] == 'AUTHORIALLY_CLOSED' and arc['chapter_count'] is None and arc['chapter_state'] == 'NOT_CREATED', f'arc state {n}')
@@ -254,7 +259,7 @@ def audit(root):
         for item in repo.get('sources', []):
             if item.get('snapshot'): root_target(item['snapshot'])
     checks['ownership_and_arcs'] = {'topics': len(authority['topics']), 'arcs': len(arcs['arcs']), 'chapter_files': 0, 'existing_validator_routes': len(entries)}
-    active = sorted((added | NAV) - {p for p in added if p.startswith((MAINT+'/package/', MAINT+'/baseline/'))})
+    active = sorted((added | NAV | promotions['changed']) - {p for p in added if p.startswith((MAINT+'/package/', MAINT+'/baseline/') + promotions['package_prefixes'])})
     active = [p for p in active if p.endswith('.md')]
     historical = sorted(p for p in files if p.endswith('.md') and p not in active)
     link_report = {'active': {'files': len(active), 'links': 0, 'broken': []}, 'historical': {'files': len(historical), 'links': 0, 'broken': []}, 'external_urls': 'Not requested or checked over network; local path/anchor validation only.'}

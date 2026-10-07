@@ -1,12 +1,12 @@
 # Seven-arc authoring map
 
-Arcs One–Seven / Valnak are authorially closed at macro level. Local OPENs, working examples and the early opening-scene recovery gap remain explicit. Chapter/scene/prose work has not been created by this maintenance revision. Arc boundaries follow character architecture, not automatic season boundaries.
+Arcs One–Seven / Valnak are authorially closed at macro level. Local OPENs, working examples and the early opening-scene recovery gap remain explicit. Diplomatic Pouch 01 develops Arc One through Champion dinner/Highlights; chapter boundaries and manuscript prose remain unassigned. Arc boundaries follow character architecture, not automatic season boundaries.
 
 Read the [constitution](../THREAD_DEVELOPMENT_CONSTITUTION.md), [current status](../CANON_STATUS.md), [canon topics](../canon/INDEX.md), relevant dossier and its factual owners. [ARC_MAP.json](ARC_MAP.json) is navigation metadata, not a new numeric/calendar mirror.
 
 | Arc | Recovered transition | Calendar scope |
 |---|---|---|
-| [ARC_01 — Arrival and foundational choice](ARC_01/ARC.md) | illi Persistent Coherence Red / Kira Armor of the Abyss. | Initialization boundary; PC Red is R1D1. Exact early scene placement must respect the later R1D1 NO REQUIRED COMBAT scaffold. |
+| [ARC_01 — Arrival, survival and the Champion evening](ARC_01/ARC.md) | Healthy Kira, #1 first-cycle Solo, Armor/claws and emerging illi/Elara bonds; closes at Champion dinner/Highlights. | First paid Solo R1D3; earlier R1D2 shared Duo versus later friendship dinner remains RECOVERY_GAP. No paid rows move. |
 | [ARC_02 — Early partnership and White Legacy](ARC_02/ARC.md) | PC Blue and accepted White Legacy O1D4, Absorption Shield Red O2D3; Kira holds CSR by O2D3. | Early Red progression through O2D3; exact CSR purchase day and displaced opening-scene timing OPEN. |
 | [ARC_03 — Green Trials and a personal purchase](ARC_03/ARC.md) | Y1D2: illi Genesis Beam Red 6,050 and Kira’s specific Blue Fireball Genesis Card 86,000. | O2D4–Y1D2 narrative scope; the exact Orange combat segment contains 39 rows through O7D7. |
 | [ARC_04 — Beam development and entry into peer life](ARC_04/ARC.md) | Y6D3: Genesis Prime Red; Kira acquired Orbs the previous day Y6D2. | Y1D3–Y6D3; current CP22 Yellow director calendar supersedes CP21’s historical 36-row version. |
