@@ -65,3 +65,13 @@ Checkpoint 18 does **not** halve Valnak domai awards. [Participation rules](../l
 ## Checkpoint 25 separate core layer
 
 Ordinary domai contributions remain contextual OPEN BY DESIGN. [Registered two-person core awards](DOMAI_CORE_AWARDS.json) now lock R/O/Y/G collective 1M/2.3M/3.7M/5M, split equally. Blue/Violet successful core awards remain OPEN. Existing participant eligibility, recovery, death multiplier and fixed Dungeon/Raid tables are preserved. [Spatial metric](DOMAI_SPATIAL_METRIC.csv) uses equivalent radius only as author traversal scale; [doctrine](../live-model/DOMAI_PARTICIPATION.md).
+
+## R2/R3 cumulative income and narrative doctrine
+
+The combat/purchase calendar is a **minimum guaranteed progression-income spine**, not a closed wallet or earnings ceiling. Extra legitimate income can come from optional Trials, Dungeons/Raids, `raeon`, Prism, crafting and other established activity. This broadens the earlier incidental shallow-Trial doctrine without inserting required events. Extra income does not automatically move locked Binding purchase dates earlier. Actual wallet bookkeeping is deferred to the later chapter-outline pass. Surplus may fund cards, clothes/formalwear, residence work, food/abecca, entertainment and gifts; existing progression-financing restrictions remain.
+
+Raid major payout remains once per participant per **specific boss per season**, with the existing Normal/Expedition opportunity distinction preserved. Distinct same-rank bosses can each pay once. If later story supplies an additional Red and an additional Orange Normal first-clear, each girl earns **2,500 + 3,750 = 6,250**, or **12,500 combined**, as wallet/social surplus. These additional clears are conditional, not booked events or present balances; do not erase surplus through the formal progression ledger or advance Binding dates.
+
+OPEN/recovery days may pass off-page. Calendar is macro time; narrative selects meaningful intersections. No chapter count is assigned.
+
+[Master source](../provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md); [conditional Raid scope](../provenance/diplomatic-pouch-r2-r3/package/R3_RAID_ROSTER.md#red-season-character-reward-handling). Checkpoint 25 and compatible earlier locks still govern their scopes; this is not a numbered checkpoint.

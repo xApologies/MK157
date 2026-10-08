@@ -1,0 +1,799 @@
+{
+  "id": "diplomatic-pouch-r2-r3",
+  "baseline_commit": "b7fef052b2f6f3855555be8ef0b9ae75cf0ce090",
+  "branch": "main",
+  "execution_scope": "Current user authorizes this EXECUTABLE: integrate, reverse-diff, validate, stage, commit, push and verify origin/main. Source prose is bounded author material, not permission to execute archived handoffs.",
+  "package_sha256": {
+    "provenance/diplomatic-pouch-r2-r3/package/CITY_STACK.md": "c81fdcaa03caa449d4c94814ded3891e310f7b0c3de459943e1ef5056617629c",
+    "provenance/diplomatic-pouch-r2-r3/package/EXECUTABLE.md": "72375b320251fc0beeb1e1cde1a0eb27d7ae7d97f98f189b0f1c67a9c4f25495",
+    "provenance/diplomatic-pouch-r2-r3/package/GHOST_BASE_BUILDER.md": "11f9db2c0ddc4a6fd864bd3d5e129e6a2637cac0765a160e77db46c6e43cb9f6",
+    "provenance/diplomatic-pouch-r2-r3/package/MANIFEST.json": "b39fc98ad379be7105a61dd70d087f1012526b07ab3453930074ed6ec23ac441",
+    "provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md": "b00077ba87a70d389f3f153946c25a50dbb179175a69add331695af4914533e1",
+    "provenance/diplomatic-pouch-r2-r3/package/PRISM_DELTA.md": "4dbd6ce0c95aeb513bab5473e46c9f30b95f16a5605c670266701394984a6ca9",
+    "provenance/diplomatic-pouch-r2-r3/package/R2_WEEK2_DELTA.md": "3224ed12eedef1c3483209bda9f2503483007f34a01aa35b10a8fe64af66007c",
+    "provenance/diplomatic-pouch-r2-r3/package/R3_RAID_ROSTER.md": "12c4aee71f2448a1182d8d9b653aad987703a0488cc8e895f38f7b0eeaec940f",
+    "provenance/diplomatic-pouch-r2-r3/package/RAEON_DAILY.md": "79ae6837df9f2937506de892a6d23b0870fb8d29465153c7dbc516aaf6cfe882",
+    "provenance/diplomatic-pouch-r2-r3/package/REVERSE_DIFF.csv": "de7476a413588d7702c159cb721d5b11958741181ee480739fef06ad3b858e1d"
+  },
+  "zip_sha256": "ea6e227856c742249a3e335d58d1382ae58bcf20ceca6d3dc3f131e7027f23fa",
+  "changed_paths": {
+    "CANON_STATUS.md": {
+      "before_sha256": "415d728d12e1d69ae36ce5ab2a57a9d679e9c2e6dabb8f35016ce6a5a7a0d72c",
+      "after_sha256": "00b8073b46ea59024c18afc59de632e98551d6942efc25b7af51fdc7017d8f54"
+    },
+    "README.md": {
+      "before_sha256": "c664cd2a8a1e9c2569ee76bb0e6de7dfa0c86a3a599a61cdce6fbd3af381813d",
+      "after_sha256": "0e23fc0889b33cb8b166efe12f2a6d76a1d0795f4b27d128b0f9b0607f67d5e3"
+    },
+    "THREAD_DEVELOPMENT_CONSTITUTION.md": {
+      "before_sha256": "8927075910ff740dcb64e3d98c2fd8b4c7ef5dc2e18ded3dfc418611d598f343",
+      "after_sha256": "a2dba6e79929f2be26573eb2dc0f986e72a938531c8b0e072ce012f29efee080"
+    },
+    "builder/COMMUNITY.md": {
+      "before_sha256": "b3ee56f89b495972aafa646d13c9176f1c19b92ae236e93570aa092fd7f6cb35",
+      "after_sha256": "dab6fb70d3b935732c02e5e367ac34e60d00ede3b039dd50029eadae0612959d"
+    },
+    "canon/AUTHORITY_MAP.json": {
+      "before_sha256": "a6b02a9b6634bbf700c5777842be989979ab7a5da56f7fbea5f4952251d7b690",
+      "after_sha256": "995d43766382508e9dfb06418e7e92cc9d5efd32306e8c970147592e6fcf18d6"
+    },
+    "canon/CARDS.md": {
+      "before_sha256": "d25270f255afee35251b4101f41da22a62eaec911f6e47974b77dd9302694f43",
+      "after_sha256": "4a04873ceb1f21d3db930e254f6baa2d638143fbbcbe404b6fc2ff830f17e020"
+    },
+    "canon/COMBAT.md": {
+      "before_sha256": "2210fb11563c2342304127709ee1358258499c8eeb6bc69a642e5e36babd830c",
+      "after_sha256": "3f6e2e4d5a52aecd18d9a3677140248132b9eeb4ab7fa62df03ac5f46761ca5a"
+    },
+    "canon/ECONOMY.md": {
+      "before_sha256": "f59dcde282e96e4be73cae270a9708e32b8e5a2776bcede53662069226ec0117",
+      "after_sha256": "956e1db1ba1f9580c0b216f4625197dacfc8c616101e5f63bd424e7476ca95d8"
+    },
+    "canon/INDEX.md": {
+      "before_sha256": "79059865698ac3164fb6b44f925faa352f0cbba9512ee7481d9bd3482df4c2d8",
+      "after_sha256": "7cbd217ea3b2772c9df27c4720e2990ecc360f8fe2a722f796c899205eec08c4"
+    },
+    "canon/OPEN.md": {
+      "before_sha256": "b55eb52ce2d34210e42ef5e47ff3e5e07ad7e8abf3760beee490462940465e78",
+      "after_sha256": "ca9edddd0095f608ddbf207cf0d959bdc38d67f01e58cdae44ca2c8bbc6bd4b0"
+    },
+    "canon/PROMOTIONS.json": {
+      "before_sha256": "b9656e10163da18608acac2061b08d6be4b574492be67f21dc5d5435c3aa78a2",
+      "after_sha256": "ac93b4f6f164fd5a22f811357f1d42601ef0337635c20b19bafd604033eddc52"
+    },
+    "canon/TRANSDUCTION.md": {
+      "before_sha256": "613ad61acead1fa170ca32228bbae69dd4a87d68d6dc71804fc8acf89822d87a",
+      "after_sha256": "eed1e55e3c691a65491cb5fb109ef67322dd0192a7803c2f49ababf24f747a84"
+    },
+    "canon/VALNAK.md": {
+      "before_sha256": "78ada78d025dc0e97858932c15ea22e67cc313369be0b00efd0abfec6897e3d8",
+      "after_sha256": "b589f64a178ae4b6cf2fa51196dbbdd21bb33b4d0563840c549246b4095bc0eb"
+    },
+    "canon/WORLD_AND_CULTURE.md": {
+      "before_sha256": "d147087d378f80b401a903affe2639c5441cae5d74198fd282461e94f42a7265",
+      "after_sha256": "a80867970be25daf71b737e3a5c550bc3f32e4c47259cdadd8aeb1ed3c85f20b"
+    },
+    "canon/characters/ILLI.md": {
+      "before_sha256": "87567868d25d5bc1284d1557850d9dddfa977967463cc935320764dd1bca06ad",
+      "after_sha256": "598a521d6a58ef6f0f55d7f135a9c5a9aa1c1052fda771a9ad042592e99e7faf"
+    },
+    "canon/characters/KIRA.md": {
+      "before_sha256": "a8228c756f2b8d85808717eec4003832a5bc62e66e088047307a9c36ada996e1",
+      "after_sha256": "310e8377575d36372fb28b2486d071e1182827d4c2eeb7514d5dd676e25b9730"
+    },
+    "combat-rewards/README.md": {
+      "before_sha256": "4d5c998a8d18fcc5647f6451484f38adc8665e4770733fbaf0932e3f7eaa709d",
+      "after_sha256": "1e77dd6e54809e8356373ed0cb67e5cbf70e378de04640ca0c5da55d6d382fcb"
+    },
+    "live-model/03_VALNEK_PATHS.md": {
+      "before_sha256": "e84c1ece1a116d8292441cc64b1acacec0888e149fa8edd17424b64341b4969c",
+      "after_sha256": "d4a3d09f04fa0c6dfb6c98cb5bd1971907291b932fe4a728623830084c9eed04"
+    },
+    "live-model/04_COMBAT_WORLD.md": {
+      "before_sha256": "65d47736eb45aea98de0543477785aac4511efd624c44feb6b1d7331f85d33c1",
+      "after_sha256": "d06eaaa13c2d183ccac43aa0a7951fbaf23f2fd64043ada7bfb6d2b76b79bed7"
+    },
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": {
+      "before_sha256": "c8ffe94f15de17534b292538034e3fd43040c74d7e562028fdf8710daade239a",
+      "after_sha256": "b0066631dba0621664995043b8a791adb35e3c9c94714146f7920f11ce9fc1e1"
+    },
+    "live-model/INDEX.md": {
+      "before_sha256": "5544de5f78b6820d1e1a9a62f605d0d1fa8e91248d0255f515db56a66d3acc9f",
+      "after_sha256": "af980f5b8c0b23901bcb3c6875d6c5358b35d6d335a418808027c4b36d138f9a"
+    },
+    "live-model/OPEN.md": {
+      "before_sha256": "6e89f500bfdd2f5c561ead83bcb59df2ea6b39582eb8734456c52ca67b7a716d",
+      "after_sha256": "228e9d60b57f123ea527a71fd3cf8c83ba210bcb0b2e804629dbf6d28dedb4c0"
+    },
+    "live-model/PRISM.md": {
+      "before_sha256": "8677774eec1fade8ed029aaab455904921e0d504eadcac0a2ac24436dba9b118",
+      "after_sha256": "d2da833422fbf54e046ac0577d3fe5df0d836bfff6d9cbab8e21901ec44ab7a4"
+    },
+    "live-model/RAEON.md": {
+      "before_sha256": "c1c1dc2abfe3f47ecc8abc3075a335529280253e98c402ce358338269ca9af18",
+      "after_sha256": "2e54d97183eca4c4c1dd71a7483b88edeb2f130473804cca727de4ff4fbaec7a"
+    },
+    "live-model/STORY_CLOCK_STATE.md": {
+      "before_sha256": "9bc8ae9b43bfba7d04f55d2e1e740e7fbf19a0deac50df16763e872d39d40571",
+      "after_sha256": "0d0a288858de0e0b9237b4a8e8d0a1fd9ff555b07029a317f49690cf02689772"
+    },
+    "live-model/SUPERSESSIONS.md": {
+      "before_sha256": "39017d26659bdf181fec4f0c347a32e7d6bc3d548bf3037e656e8f5df73a2a70",
+      "after_sha256": "a5a554a8493d33773043369a8d83f37af21484985627ccc2642b70677b0bca6a"
+    },
+    "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md": {
+      "before_sha256": "f21b15d5b72bc530c80d2bfdf3aa24655e79230692c5d0243d0491bd0f534782",
+      "after_sha256": "d9a277323c12d53c859f49be6c76732ab6c7713c49375ed4f9a06225b353d79c"
+    },
+    "live-model/WORLD_CLOCK.md": {
+      "before_sha256": "00e1fcbc3e8ebe78aac802b472d5eaa97c5f3b40c8c768419346acc6c5861dcf",
+      "after_sha256": "c15cc1198832c5b9c4d062aa4b17378a3324bc43b047a859f0c43e6c573b6036"
+    },
+    "story/ARC_02/ARC.md": {
+      "before_sha256": "5ecd74fbefd7830e902d7e36423872ba3e68d83979a747c6a0c6326ad4062573",
+      "after_sha256": "9ca09a04ae61ec1bdf5cc6233c215d90e5afa2a9194567ae7a8e87aab5ac8edb"
+    },
+    "story/INDEX.md": {
+      "before_sha256": "2105e104d617e9ae39eeb5655f72827e0bc99af091ca323d1e1b4991e3228020",
+      "after_sha256": "071060e0d7b443227b289958b9eda9d03e178160ff80c0aac36d173776c64e87"
+    },
+    "tools/validation/README.md": {
+      "before_sha256": "94121c380e2ebe65904872e7aec360097f475a943088e07cecab54260845ca25",
+      "after_sha256": "84f2adbc63a7b4f8afedbc4b7cd6034712abc79821888a0bc68715500bbb4d79"
+    },
+    "world-clock/ARC5_DIRECTOR_CALENDAR.md": {
+      "before_sha256": "59da5aa744d988270ea2567c6a0733f453ddf7357da123363fdd1c229e2d598d",
+      "after_sha256": "59ec08a14012aa178ab9d695c2a958b7becccc49e3611910610259113b08d1c5"
+    },
+    "world-clock/WORLD_CLOCK.md": {
+      "before_sha256": "634d8ce91ba5ae4f161e52a879dc1b5f5f6bc939c92efbb888eb1adf094a88c4",
+      "after_sha256": "2a7369f07773614cdddb06396257770840a984543056043a461b66becba4be57"
+    },
+    "world-clock/WORLD_CLOCK_TEMPLATE.csv": {
+      "before_sha256": "a93a1318c24260508cdf55fc61d80527f878da54da69caccac38457df6e9c699",
+      "after_sha256": "0aa1e85396c11c460a1981c26105c3ce5436c1da186188565ac2508c334e6ced"
+    },
+    "world-clock/validate_arc3.py": {
+      "before_sha256": "c29b2664ddaab72ab2edd333366f023805bfbbc32645e126042a51deb7a113c2",
+      "after_sha256": "1abca67b646cddf8dff95bcb78a557e2818c09194aa6898a0dc98ba5c7201c43"
+    },
+    "world-clock/validate_arc5.py": {
+      "before_sha256": "3a2b6e83c7ba6bd5cca6bcffb00250a3ff1843bfa0717f8f4574a650d4fc94a7",
+      "after_sha256": "ef69206bdb42edc17dff9c8108ea04609ab8b489d385c7b679ad93cfbb42e6f6"
+    },
+    "world-clock/validate_arc6.py": {
+      "before_sha256": "b32a8d2e4351b346d09eb6c06f61f0bb8f6342c0132dc953faf19ad6ed0fdcc2",
+      "after_sha256": "c861b5397b2542f8743094984a5ba78a96d394321e86cc8a880bd1d4be27bd54"
+    },
+    "world-clock/validate_arc7.py": {
+      "before_sha256": "3cdbad503010d12ab54d9183bbabf5cccddd1d629cce94e5e3ca4dba7bbdbdab",
+      "after_sha256": "7a245b09395d1a81902370598fd1b4457e0dcc3673c31028ef5ca1f105d8526f"
+    }
+  },
+  "source_documents": [
+    {
+      "source": "provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Social clock — LOCK",
+          "body_sha256": "f1a926ee5323bb17592d3c5852e560499e20d79c1c0d3d6b8be298e6418c304f",
+          "paragraphs": [
+            {
+              "sha256": "f1a926ee5323bb17592d3c5852e560499e20d79c1c0d3d6b8be298e6418c304f",
+              "status": "MIXED_PARTIAL",
+              "reason": "Social LOCK with cultural ranges/WORKING end; calendar minimum income; Raid surplus conditional per more-specific roster source. All existing mandatory rows preserved.",
+              "destinations": [
+                "live-model/WORLD_CLOCK.md#r2r3-cumulative-social-clock",
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Credits — LOCK",
+          "body_sha256": "57119825c5b711f549d6a609a7564764fde29a01b6b0b6088eff85d95ecd8693",
+          "paragraphs": [
+            {
+              "sha256": "6c7e8d25fdc9d7b6afc7791c15be117cff39870a3d016fc72772a08de5b47826",
+              "status": "MIXED_PARTIAL",
+              "reason": "Social LOCK with cultural ranges/WORKING end; calendar minimum income; Raid surplus conditional per more-specific roster source. All existing mandatory rows preserved.",
+              "destinations": [
+                "live-model/WORLD_CLOCK.md#r2r3-cumulative-social-clock",
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "78c0bc824bb38d800fdc9da65edce97647a59fe8cc5da83ce5eff4bfab1aff81",
+              "status": "MIXED_PARTIAL",
+              "reason": "Social LOCK with cultural ranges/WORKING end; calendar minimum income; Raid surplus conditional per more-specific roster source. All existing mandatory rows preserved.",
+              "destinations": [
+                "live-model/WORLD_CLOCK.md#r2r3-cumulative-social-clock",
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Narrative method",
+          "body_sha256": "67189e96b61efcddfe4d682f0a114e81d6c81d57814461fc5c2fe058f3e9083f",
+          "paragraphs": [
+            {
+              "sha256": "67189e96b61efcddfe4d682f0a114e81d6c81d57814461fc5c2fe058f3e9083f",
+              "status": "MIXED_PARTIAL",
+              "reason": "Social LOCK with cultural ranges/WORKING end; calendar minimum income; Raid surplus conditional per more-specific roster source. All existing mandatory rows preserved.",
+              "destinations": [
+                "live-model/WORLD_CLOCK.md#r2r3-cumulative-social-clock",
+                "THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-r2-r3/package/CITY_STACK.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "e0baa59a3ef6a1d8db28d69042dfe7fcf6ef3b5d1d12b522b68a0cdefad19ebd",
+          "paragraphs": [
+            {
+              "sha256": "47b77f3b401cf5e71518ac6f6c45a859adba53ab1ceb0b1cfc08cbf12994d2e0",
+              "status": "MIXED_PARTIAL",
+              "reason": "City geography/routing/property ownership promoted; permanent-death lifecycle WORKING with legal/auction OPEN; off-map residence retained.",
+              "destinations": [
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property"
+              ]
+            },
+            {
+              "sha256": "ec1dff2fd938d88512aebdb3affbf5197b30537d3a16323d62cfc502bc591cdc",
+              "status": "MIXED_PARTIAL",
+              "reason": "City geography/routing/property ownership promoted; permanent-death lifecycle WORKING with legal/auction OPEN; off-map residence retained.",
+              "destinations": [
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property"
+              ]
+            },
+            {
+              "sha256": "3c64603894d90e391363343399d8ddb42f347f9e7753c49aa9f3b0d295e61ee6",
+              "status": "MIXED_PARTIAL",
+              "reason": "City geography/routing/property ownership promoted; permanent-death lifecycle WORKING with legal/auction OPEN; off-map residence retained.",
+              "destinations": [
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property"
+              ]
+            },
+            {
+              "sha256": "ae790a149c61ee9dfd25741d502950fcafe2b85f0492846eedd70cb79d904f17",
+              "status": "MIXED_PARTIAL",
+              "reason": "City geography/routing/property ownership promoted; permanent-death lifecycle WORKING with legal/auction OPEN; off-map residence retained.",
+              "destinations": [
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property"
+              ]
+            },
+            {
+              "sha256": "67e952a50930d24af31f3d9a4867e02e5f9a7db48453bb8e4d014c23045d17a6",
+              "status": "MIXED_PARTIAL",
+              "reason": "City geography/routing/property ownership promoted; permanent-death lifecycle WORKING with legal/auction OPEN; off-map residence retained.",
+              "destinations": [
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property"
+              ]
+            },
+            {
+              "sha256": "81e1adbcdc09c0eca0220b0fe9df5050b594333cc8400bfd3ad55d9b9c692345",
+              "status": "MIXED_PARTIAL",
+              "reason": "City geography/routing/property ownership promoted; permanent-death lifecycle WORKING with legal/auction OPEN; off-map residence retained.",
+              "destinations": [
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-r2-r3/package/GHOST_BASE_BUILDER.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "6a3be7beecb7b454fb0924d603506e6756b285d5dc14ee108203c38c6ce24e3e",
+          "paragraphs": [
+            {
+              "sha256": "f30a4cf46d511007baa6d62f834d34d6793eb207f6cbb372e897a6bef047ebd8",
+              "status": "MIXED_PARTIAL",
+              "reason": "Residence/flag distinction, private character relationship and early Builder interest promoted; no callsigns, commission date or ranking/UI invented.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira",
+                "builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation"
+              ]
+            },
+            {
+              "sha256": "8849589a439500568c33d5058d60b81e92e133477eaf29368bab7a591ea033fa",
+              "status": "MIXED_PARTIAL",
+              "reason": "Residence/flag distinction, private character relationship and early Builder interest promoted; no callsigns, commission date or ranking/UI invented.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira",
+                "builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation"
+              ]
+            },
+            {
+              "sha256": "d64bb767ee193aa5e80eb2ef525fa7cfb355198526e460e51684ad22e7f48039",
+              "status": "MIXED_PARTIAL",
+              "reason": "Residence/flag distinction, private character relationship and early Builder interest promoted; no callsigns, commission date or ranking/UI invented.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira",
+                "builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation"
+              ]
+            },
+            {
+              "sha256": "191f7ab80e1a9beca1b7ccebc882e02eb59016de8f65260da2a10337e4cbcecc",
+              "status": "MIXED_PARTIAL",
+              "reason": "Residence/flag distinction, private character relationship and early Builder interest promoted; no callsigns, commission date or ranking/UI invented.",
+              "destinations": [
+                "live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira",
+                "builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-r2-r3/package/RAEON_DAILY.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "0fa89dfc2b5a28d1f90da5b7a7348f70fa2bd3d7e679db4cc5d94576d059c608",
+          "paragraphs": [
+            {
+              "sha256": "76be8d8350d03ba27ea4028d92ccdbde00db73f05c212d15235a81089d2d81d8",
+              "status": "MIXED_PARTIAL",
+              "reason": "Daily schedule/cohort routing promoted separately from seasonal circuit; top-six payout WORKING; inventor/history/bracket detail OPEN; card ownership rules retained.",
+              "destinations": [
+                "live-model/RAEON.md#r2r3-daily-raeon-tournament"
+              ]
+            },
+            {
+              "sha256": "9eb73f8dc4a8fc482d52071ec7dd7355e954d60b0fef8b7c13af05020ee5004e",
+              "status": "MIXED_PARTIAL",
+              "reason": "Daily schedule/cohort routing promoted separately from seasonal circuit; top-six payout WORKING; inventor/history/bracket detail OPEN; card ownership rules retained.",
+              "destinations": [
+                "live-model/RAEON.md#r2r3-daily-raeon-tournament"
+              ]
+            },
+            {
+              "sha256": "e569d4f817ed603bb195edaf16d04de03e8feb68f8da57d1fe4c48b2947cd098",
+              "status": "MIXED_PARTIAL",
+              "reason": "Daily schedule/cohort routing promoted separately from seasonal circuit; top-six payout WORKING; inventor/history/bracket detail OPEN; card ownership rules retained.",
+              "destinations": [
+                "live-model/RAEON.md#r2r3-daily-raeon-tournament"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-r2-r3/package/PRISM_DELTA.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "63742e2dbb36fbdda9b1a462c77ae69d05559a8ca87bcf337a5c05bc36307a75",
+          "paragraphs": [
+            {
+              "sha256": "e49238bb3f4774e3eb64ebfe42c0066e080f6232385b8307fa9f42dbdfd89ffc",
+              "status": "MIXED_PARTIAL",
+              "reason": "Field/career/spectator and Champion privilege promoted; city-stack schedule WORKING; payout/tickets/guests OPEN.",
+              "destinations": [
+                "live-model/PRISM.md#r2r3-prism-fields-and-spectators"
+              ]
+            },
+            {
+              "sha256": "0af362df10ca0d2e3f07e080febffa754bf985409a8c70a3f9d6af131e43601a",
+              "status": "MIXED_PARTIAL",
+              "reason": "Field/career/spectator and Champion privilege promoted; city-stack schedule WORKING; payout/tickets/guests OPEN.",
+              "destinations": [
+                "live-model/PRISM.md#r2r3-prism-fields-and-spectators"
+              ]
+            },
+            {
+              "sha256": "3bd9a3415831e17dee161b2a4e3b3bd7891331ac943d6c028c971e8c12158e40",
+              "status": "MIXED_PARTIAL",
+              "reason": "Field/career/spectator and Champion privilege promoted; city-stack schedule WORKING; payout/tickets/guests OPEN.",
+              "destinations": [
+                "live-model/PRISM.md#r2r3-prism-fields-and-spectators"
+              ]
+            },
+            {
+              "sha256": "5b5362ac2290329b7220ea988d52d4fc2ef2926aad3535e4e3d7c1236eef08d6",
+              "status": "MIXED_PARTIAL",
+              "reason": "Field/career/spectator and Champion privilege promoted; city-stack schedule WORKING; payout/tickets/guests OPEN.",
+              "destinations": [
+                "live-model/PRISM.md#r2r3-prism-fields-and-spectators"
+              ]
+            },
+            {
+              "sha256": "20224e0a8e6947ed986fe419979e17bce65f95a7047d400deb681076597c735c",
+              "status": "MIXED_PARTIAL",
+              "reason": "Field/career/spectator and Champion privilege promoted; city-stack schedule WORKING; payout/tickets/guests OPEN.",
+              "destinations": [
+                "live-model/PRISM.md#r2r3-prism-fields-and-spectators"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-r2-r3/package/R2_WEEK2_DELTA.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "7fd106387e199689d978628de445f4d058adab898bcfd3d148fc3f3f02549836",
+          "paragraphs": [
+            {
+              "sha256": "68abf0a153b74f2f2c49c88e314fefb51ec168c5e252faa6c1a5a21d26aa2124",
+              "status": "MIXED_PARTIAL",
+              "reason": "Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "85bee0e5a7d8fd93242fb34c5ecc4c16836e9b567a302f1876292abb6b7fc47c",
+              "status": "MIXED_PARTIAL",
+              "reason": "Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "4b33ab0cf319f29b04bc957938276ea0e4eb76c8d24e8cc3b20906c1a70a213c",
+              "status": "MIXED_PARTIAL",
+              "reason": "Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "a2eb2fdfa9ed86ea7499e626819d3762c949a22a3ef17cdf2884aedfb0456e59",
+              "status": "MIXED_PARTIAL",
+              "reason": "Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "7d221cb6c8aae4919cbc36e348fbd6568f91111ae34f1ba46909307251f5998c",
+              "status": "MIXED_PARTIAL",
+              "reason": "Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "292d4a97e46692802d3b7860be00b1662f3cad9d2ccb22c5ba2bd32a13ae9d51",
+              "status": "MIXED_PARTIAL",
+              "reason": "Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "94b9daf23ef7037b4c3d584801fe9fad5a935ff9fd1ca8a25922e66387300c4a",
+              "status": "MIXED_PARTIAL",
+              "reason": "Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "f63a5f532ba2c3f00666f9bdb1b8b7dbf46c4f1b62a3166d5e8b6e6aa510e354",
+              "status": "MIXED_PARTIAL",
+              "reason": "Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "321ea8138e6351c06946c83c42473a0799ca4a1cd7b45597f44d83038dd73605",
+              "status": "MIXED_PARTIAL",
+              "reason": "Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-r2-r3/package/R3_RAID_ROSTER.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "d403ac456b8fb2639ebaa0c78e2e96cc3dfeb068a6c9da4d40fc929b2e168475",
+          "paragraphs": [
+            {
+              "sha256": "d403ac456b8fb2639ebaa0c78e2e96cc3dfeb068a6c9da4d40fc929b2e168475",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Normal Raid environment — WORKING",
+          "body_sha256": "d7401e45073117914e707991abbc68127a71023915905329a41caa547e1b8f74",
+          "paragraphs": [
+            {
+              "sha256": "4cb1c090b218ba4be264938d48fa16a433c04e931974f6a274703acd1be8f4ca",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            },
+            {
+              "sha256": "3e2d48466a9502db6ccc008f1700c7bb5c5a39d56d6aa729774e0648217cfe4f",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Red A — Fire Dragon",
+          "body_sha256": "e0018afa480aed33b8aca1bac5bdc0ebed090c65e80bf5223ca7583d83d2fa5c",
+          "paragraphs": [
+            {
+              "sha256": "e0018afa480aed33b8aca1bac5bdc0ebed090c65e80bf5223ca7583d83d2fa5c",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Red B — Burrower",
+          "body_sha256": "bd50b1604b3e68ff4cc4bd9a61e92d0f99ad778c38aeba8a2a2b053a8a796c93",
+          "paragraphs": [
+            {
+              "sha256": "bd50b1604b3e68ff4cc4bd9a61e92d0f99ad778c38aeba8a2a2b053a8a796c93",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Orange A — Coherence Twins",
+          "body_sha256": "9c9f7356cafcc4a1caa89255ce407b6498418bab71600de7c0ec7f18605af897",
+          "paragraphs": [
+            {
+              "sha256": "9c9f7356cafcc4a1caa89255ce407b6498418bab71600de7c0ec7f18605af897",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Orange B — Shardfield creature",
+          "body_sha256": "31da5018bbb19998cebb07233f8b3f326df34ff41e6abeab8151d7ff29a50ed1",
+          "paragraphs": [
+            {
+              "sha256": "31da5018bbb19998cebb07233f8b3f326df34ff41e6abeab8151d7ff29a50ed1",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Yellow — Glasswing",
+          "body_sha256": "c328c265a6b56d8df14df89ad8f0a7ba85a49d18d358a04d0d11e589c1fdb75e",
+          "paragraphs": [
+            {
+              "sha256": "c328c265a6b56d8df14df89ad8f0a7ba85a49d18d358a04d0d11e589c1fdb75e",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Green — Walking Fortress",
+          "body_sha256": "ac191d450d5eda1f8b6be4bb28baeaf8dc1efcfd5445786c6bd1de6458ece29d",
+          "paragraphs": [
+            {
+              "sha256": "17cc2b95631c9cb980bc568d228a597892ea4fb50766a0f063ae36966e484157",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            },
+            {
+              "sha256": "589ad6ca9bcd3cb3fd189064719a7e3ab79031f4317631b9daf08dc9e1c09b18",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Design principle",
+          "body_sha256": "f2c588fb85dc127d6540681e3145e8bfc196cfdaa8087327325cfb8fc46cc1b3",
+          "paragraphs": [
+            {
+              "sha256": "f2c588fb85dc127d6540681e3145e8bfc196cfdaa8087327325cfb8fc46cc1b3",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Red-season character reward handling",
+          "body_sha256": "00bbea24d71e40b0fe7be1d2ea3c5b0f6cf08f362da27da485c6703a0c5446d9",
+          "paragraphs": [
+            {
+              "sha256": "00bbea24d71e40b0fe7be1d2ea3c5b0f6cf08f362da27da485c6703a0c5446d9",
+              "status": "MIXED_PARTIAL",
+              "reason": "R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+                "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reverse_diff": {
+    "source": "provenance/diplomatic-pouch-r2-r3/package/REVERSE_DIFF.csv",
+    "review": "provenance/diplomatic-pouch-r2-r3/REVERSE_DIFF.csv",
+    "source_rows": 36,
+    "source_row_sha256": [
+      "5b797c55e37d86e3db5782a3202ba6d498dd03a0f0229147960914b182d09a97",
+      "e9a41c65efdfb63a6fbd943fe82760fc986803988f62c44901218de8e4748662",
+      "61fec4c876fbbbe2cecbe3b5798eeed1595567168a863bd53318facd72d19e05",
+      "47df756504741d9dc892754aa2e36320effa0e05be19bbe5196412f04b4dee58",
+      "018b78eae0e00800b8f67a87ceb1666b7e07d4ed540e8b18f07774de7700133d",
+      "fb4ae0c6289784226d95aa2c86a83e3d9ac3e8ccc03384b2bdaf67dcc02671a6",
+      "4ca41bf931c346c901d7f95a0c96fa4c24f887ab85cbe9e7750760aafd402a3a",
+      "1e680155461e27071f55f740a422290ac238229df63c2b9c046c6e1d8386624d",
+      "953b52681db9f7aedce692d15f86152c066ec0f9e4e953b71f8e78a8a4957a04",
+      "f4b953f07f038917a6f99980d4041f16f2db52280b423d6416d40a7633690078",
+      "fe901db80ecb2d3b424e17468e5936bfbce5960d9c9164b7279126fb06d1676b",
+      "04d3489ab5e08251258d7dfa69e0846d66410f1638eb4a3fc4523654c83ae4e5",
+      "b2b8b2cba2996991eb3e612b1298b66c4fac688a49154b85c27f37a7cc91c0be",
+      "e997cac9e6b58d18312dca29f5a81337a6d4684eec31ae9b3ed6105aab314246",
+      "164444a37c6351b9557e279a74c271703e430e619583670545b68bebf2b76b04",
+      "0dca5c94ec177af0dc40c41845b8eadfbf7cb30be13f19c814788db3b8b4bcb8",
+      "341434f1a7c422b1ad829e673b36e84f689c567a0d10391d81f4c6908abd0c42",
+      "bba2fddd3de85168795b656fa74d71ce806a1acb3730fad3ca09eb99e0a6ce90",
+      "73a87425e6564673381330a54f3cdb8e2bb33000fac79c821563e8f1b10d57fc",
+      "8f5b5a4e1297ff1833648adefa313de89a6b977e4334e3b55b65e1e6e18ade88",
+      "3da7be5d89a6c9ae86433abb84078362f27c28cf5b631afaf1c09c4ff9368441",
+      "6692386a53145f25039700cd0c4e46cd3571cb8cbb547007f9eeadbfc70cafa5",
+      "b86a33a681b5e20e51d426fc53356e3fef7b81446e5adc9ee411e15e1e501ef9",
+      "5b3c9837a7372b1a3fbbc15be0403bb89a66725c74d489378d56c277ce88af2e",
+      "9cd75b90887146c2cb6dbd69a4b0958c24d7f85a93ee1acfc9f53f9822dc8762",
+      "334c5a5a4fb5178d40b76986b52b2a19e0d8bc7978dea0e70fd564d7ebc7556e",
+      "446fdfbe08a369ca4328c1330ff3292a30417f787c073ac7eb66161aea868f24",
+      "3d0c1a09c70f9b49eabd9265e2daa6df72b628e1cff58932b8cad25f5c14fb62",
+      "b95a67fd41dc1530c19feb268243a468965c07e0c5957c1081f1e02461c64206",
+      "31ef48696ce47c8cedcc02d7e2fbaab1ca254f1bf827dc4f8896d3e1d354d4c6",
+      "ec1db5d8e61c037e00303b23c9b9fc8a697fa7eb03a9e25dbb07730a63be710a",
+      "d3eceed32b8228463ce03262582dab250e6e6a1adde15234dd7bd8b79c086fa4",
+      "6683993ac3b491380f707b3f3b9c4a65d9f80dadfe06539bbb779624b5146904",
+      "1f4a1bc3da56254e1dd6b060ac20f42252610c8966f0b3367a01414a94315e0c",
+      "f59971249d20af7ca2948cfb22e4d9489f0b13fc5534045bb70e4bf80e00f09a",
+      "860aa0feb558a9b69d20128c03dbc7a6d9bb7945d7a1d78f0de5d37fbc081d52"
+    ],
+    "counts": {
+      "PRESENT": 36,
+      "PARTIAL": 0,
+      "MISSING": 0,
+      "CONFLICT": 0,
+      "SUPERSEDED": 0
+    },
+    "interpretation": "PRESENT means represented with its qualification; WORKING/OPEN and conditional choices are not promoted to fixed events."
+  },
+  "supersessions": [
+    {
+      "scope": "Recurring Highlights start and R2 dinner rhythm",
+      "decision": "27:00 replaces governing25:00; dinner~26 replaces earlier~23:30 illustrative rhythm, without locking sleep/end/wake. Exact historicalCP11 retained and explicitly superseded.",
+      "destinations": [
+        "live-model/WORLD_CLOCK.md#r2r3-cumulative-social-clock",
+        "live-model/SUPERSESSIONS.md#r2r3-cumulative-pouch--bounded-supersessions",
+        "world-clock/WORLD_CLOCK_TEMPLATE.csv"
+      ]
+    },
+    {
+      "scope": "R2D2–R2D7 unthickened narrative placeholder",
+      "decision": "Replace only missing scene direction; fixed paid rows, durations and purchase dates unchanged; R2D5 W2clear140 survives WORKING death scene.",
+      "destinations": [
+        "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two"
+      ]
+    },
+    {
+      "scope": "Wallet versus progression model",
+      "decision": "Minimum guaranteed progression income, not closed wallet; broader optional income, conditional+6250each additional specificRed+Orange clear without adding required dates.",
+      "destinations": [
+        "THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine",
+        "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+      ]
+    },
+    {
+      "scope": "Daily raeon versus seasonal circuit",
+      "decision": "Dailyprogram is additive; top-sixWORKING payouts do not resolve seasonal rewardOPENs or redefine rank/color semantics.",
+      "destinations": [
+        "live-model/RAEON.md#r2r3-daily-raeon-tournament"
+      ]
+    }
+  ],
+  "remaining_open": [
+    "R1D2 Duo before post-R1D3 Solo friendship dinner remains RECOVERY_GAP.",
+    "Chapter count, chapterization and prose remain uncreated.",
+    "WORKING property lifecycle, daily raeon prizes, Prism city-instance schedule, R2 scene/operational timing and Raid cavern environment retain qualifications.",
+    "Exact legal/auction system, raeon inventor/history/brackets, Prism payouts/tickets/guests, callsigns, Builder UI/ranking, recurring leader/rival names and Raid equipment remain OPEN.",
+    "A/B mapping to rank-only dated Raid rows, extra clear dates and actual wallet accounting remain OPEN; no conditional6250 credited to fixed ledger.",
+    "All compatible earlier OPENs, source firewalls and CP25 mechanical locks persist."
+  ],
+  "semantic_review": "All seven content documents and36 source decisions read. Exact content promoted into domain owners and concise views; paragraph partition accounts for qualifiers as well as positive claims. EXECUTABLE/manifest preserved as workflow evidence, not canon."
+}

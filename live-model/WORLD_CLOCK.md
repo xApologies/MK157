@@ -29,13 +29,13 @@ The clock is sparse by design. Do not write a diary just because a day exists.
 ## Recurring social tracks
 
 ### Nightly highlights
-Every night, implicit baseline.
+Every night at **27:00**, implicit baseline; latest R2/R3 correction governs the start.
 Only annotate specific nights when content matters to the manuscript.
 
 ### `raeon`
 Weeks 5–7 of every season.
 Week 7 final.
-Seven seasonal champions.
+Seven seasonal champions. A separate daily 10:00 tournament now runs alongside this seasonal circuit; see the R2/R3 section below.
 
 ### Auction
 End of every seven-week season.
@@ -204,7 +204,7 @@ Yellow W4 D2–D6 — deep Duo Trial, etc.
 
 ### Nightly Highlight Reels
 Every Valnak day:
-**25:00 — Nightly Highlight Reels**
+**27:00 — Nightly Highlight Reels** (R2/R3 cumulative correction to the CP11 start)
 
 Voluntary social/decompression event. It occurs daily whether or not Kira/illi attend.
 Specific reels are annotated only when narratively important.
@@ -292,7 +292,7 @@ Y6D3 closes Arc Four with illi Genesis Prime Red; Checkpoint 22 dates the Late Y
 
 Use the [49-day calendar](../world-clock/YELLOW_DIRECTOR_CALENDAR.md) over the retained historical CP21 scaffold. Y5D3 adds the first Builder invitation; Y5D5 is the first party with zero Trial credits. Orbs are acquired Y6D2; Arc Four closes Y6D3 and [Arc Five](../world-clock/ARC5_HANDOFF.md) opens Y6D4, ending G6D2 Coherence Prime Red. Y6D5/Y6D6 supply W18 Duos, followed by Y6D7 recovery. Each W18 remains a full-day 21–38-hour block; consecutive upper-range runs can spill into recovery, with exact intraday timings OPEN.
 
-Y7D1–D3 is personal raeon participation, out by D3 with match details OPEN. Y7D4 successful domai has an OPEN contextual award. Auction W7D5–D7 remains; late-day/evening attendance is author direction, exact hours OPEN. Standing tournament, 25:00 Highlights, Auctions and Prism schedule remain unchanged; no personal championship obligation. The weekly template is infrastructure, while the director calendar carries exact current character overlays. [Training Yard](TRAINING_YARD.md) and [Builder community](../builder/COMMUNITY.md) add practice/social direction without fabricated paid events.
+Y7D1–D3 is personal raeon participation, out by D3 with match details OPEN. Y7D4 successful domai has an OPEN contextual award. Auction W7D5–D7 remains; late-day/evening attendance is author direction, exact hours OPEN. Standing tournament, 27:00 Highlights, Auctions and Prism schedule remain unchanged; no personal championship obligation. The weekly template is infrastructure, while the director calendar carries exact current character overlays. [Training Yard](TRAINING_YARD.md) and [Builder community](../builder/COMMUNITY.md) add practice/social direction without fabricated paid events.
 
 ## Checkpoint 23 — Arc Five fully locked
 
@@ -330,6 +330,14 @@ No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase d
 
 ## Arc One R2 — narrative time and Opening Celebration
 
-R1D7 now hosts the supplied Opening Celebration, citywide with principal hub 007. This fills its social/recovery direction without changing a combat row. Nightly Highlights remain 25:00; suggested R1D3 wake/Trial/recovery/lunch/dinner times remain WORKING. Consult the [developed Red scene clock](STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock).
+R1D7 now hosts the supplied Opening Celebration, citywide with principal hub 007. This fills its social/recovery direction without changing a combat row. Nightly Highlights remain 27:00; suggested R1D3 wake/Trial/recovery/lunch/dinner times remain WORKING. Consult the [developed Red scene clock](STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock).
 
 Calendar is significant macro progression time; the novel selects significant narrative time. OPEN days can pass off-page. The [incidental Trial doctrine](../THREAD_DEVELOPMENT_CONSTITUTION.md#incidental-trial--lifestyle-credit-doctrine) permits optional shallow lifestyle income in available time, not new required combat or overwritten recovery blocks. Older Day-One Solo/Day-Two double-Duo labels remain superseded and the earlier friendship chronology remains RECOVERY_GAP.
+
+## R2/R3 cumulative social clock
+
+**Nightly Highlights start at 27:00 — LOCKED**, superseding the governing 25:00 start from Checkpoint 11 and earlier R2 scene text. Voluntary attendance and nightly cadence remain. Dinner is around 26:00; the Highlights end around 28:30 is WORKING. Typical bedtime is 28:00–30:00, centered around 29:00; waking is around 06:00–07:00. These dinner, end, sleep and wake clocks are cultural ranges, not additional compulsory anchors. Only 27:00 is the hard recurring anchor of this social rhythm.
+
+The separate daily `raeon` program starts at 10:00, with registration closing at 00:00 before allocation. See [daily tournament](RAEON.md#r2r3-daily-raeon-tournament) for instance routing and WORKING prizes. It supplements the seasonal W5–W7 circuit; no character attendance is booked. OPEN/recovery days can pass off-page; chapter count remains OPEN.
+
+[Approved clock source](../provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md#social-clock--lock). Historical CP11 master/provenance retains its original timestamp as evidence, explicitly superseded here. The 49-row weekly template changes only the Highlights time; mandatory combat, purchase dates and other standing appointments remain intact.

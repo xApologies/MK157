@@ -13,6 +13,7 @@ import sys
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'tools' / 'validation'))
 from validate_promotions import validated_city_replacements
+from validate_clock_promotion import current_clock_baseline, validated_replacements
 
 
 def audit(root):
@@ -133,12 +134,13 @@ def audit(root):
         *['live-model/'+p for p in ('01_KIRA.md','03_VALNEK_PATHS.md','04_COMBAT_WORLD.md','BLACK_SYSTEMS_MASTERY.md','COMBAT_ECOLOGY.md','COMBAT_THRESHOLDS.md','DOMAI_PARTICIPATION.md','ECONOMY_PURCHASE_SCHEDULE.md','GENESIS_CARDS.md','ILLI_PROGRESSION.md','INDEX.md','OPEN.md','PARTNERSHIP_AND_CARRY.md','PRIME_ELEMENTALS.md','RAEON.md','STORY_CLOCK_STATE.md','SUPERSESSIONS.md','TRIAL_ARENA.md','WORLD_CLOCK.md')],
         *['world-clock/'+p for p in ('WORLD_CLOCK.md','WORLD_CLOCK_TEMPLATE.csv','validate_arc3.py','validate_arc4_handoff.py','validate_arc4_yellow.py','validate_arc5.py','validate_arc6.py','validate_yellow_director.py','ARC3_ECONOMY_AUDIT.json','ARC4_HANDOFF_AUDIT.json','ARC4_YELLOW_AUDIT.json','ARC5_DIRECTOR_AUDIT.json','ARC6_DIRECTOR_AUDIT.json','YELLOW_DIRECTOR_AUDIT.json')],
         'trial-rewards/README.md','combat-rewards/README.md','combat-rewards/COMBAT_REWARD_TABLES.json','combat-rewards/DOMAI_PARTICIPATION_RULES.json','combat-rewards/validate_rewards.py','economy/validate_economy.py','economy/AUDIT.json'}
-    # Only the two explicitly promoted city surfaces may differ from this
-    # historical snapshot, and their complete promotion chain must validate.
+    # City and bounded R2/R3 prose replacements require a complete valid
+    # promotion chain; the clock exception separately verifies exact bytes.
     try:
         allowed.update(validated_city_replacements(root))
+        allowed.update(validated_replacements(root))
     except (OSError, ValueError, KeyError) as exc:
-        require(False, 'City promotion preservation: ' + str(exc))
+        require(False, 'Author promotion preservation: ' + str(exc))
     protected = []
     for p, digest in before['sha256'].items():
         if p not in allowed:
@@ -156,6 +158,10 @@ def audit(root):
     require(carry.search(old('live-model/PARTNERSHIP_AND_CARRY.md').decode()).group() == carry.search(text('live-model/PARTNERSHIP_AND_CARRY.md')).group(), 'Carry character doctrine changed')
     weekly = rows('world-clock/WORLD_CLOCK_TEMPLATE.csv')
     previous = list(csv.DictReader(io.StringIO(old('world-clock/WORLD_CLOCK_TEMPLATE.csv').decode('utf-8-sig'))))
+    try:
+        previous = current_clock_baseline(root, previous)
+    except (OSError, ValueError, KeyError) as exc:
+        require(False, 'Highlights promotion: ' + str(exc))
     changed = []
     require(len(weekly) == len(previous) == 49, 'Weekly row count changed')
     for a,b in zip(previous, weekly):
@@ -177,7 +183,7 @@ def audit(root):
     require('2.5M conversational price is not canon' in text('live-model/DIMENSIONAL_RINGS.md'), 'Ring placeholder price boundary missing')
     source_audit = js('provenance/checkpoint-25-correction-package/ARC7_REVISED_ECONOMY_AUDIT.json')
     require(source_audit['fixed_white_gross'] == gross and source_audit['white_trials'] == trial_totals and source_audit['white_core_breaks']['total_each'] == core_total and source_audit['illi']['remaining_first_white_legacy_bill'] == bill_total, 'Derived totals differ from corrected author audit')
-    return {'checkpoint':25,'result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':before['baseline_commit'],'calendar_rows':len(calendar),'source_files':sources,'trial_totals':trial_totals,'W96_each':cumulative(96),'W100_each':cumulative(100),'core_successes':len(core),'core_rank_counts':dict(Counter(r['rank'] for r in core)),'weekly_core_each':weekly_core,'core_each':core_total,'raids_each':raids,'fixed_white_gross':gross,'illi_remaining_bill':bill_total,'illi_fixed_gross_after_bill':gross['illi']-bill_total,'bill_by_binding':{n:sum(r['illi_cost'] for r in bill if r['binding']==n) for n in endpoints},'weekly_overlay_changes':changed,'protected_baseline_files':protected,'arc6_and_prior_calendars_byte_identical':True,'dated_illi_ledger_byte_identical':True,'fixed_combat_reward_numbers_unchanged':True,'ordinary_domai_participation_unchanged':True,'standing_world_tracks_unchanged':True,'carry_section_unchanged':True,'superseded_master_schedule_not_promoted':True,'no_invented_exact_training_or_purchase_dates':True}
+    return {'checkpoint':25,'result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':before['baseline_commit'],'calendar_rows':len(calendar),'source_files':sources,'trial_totals':trial_totals,'W96_each':cumulative(96),'W100_each':cumulative(100),'core_successes':len(core),'core_rank_counts':dict(Counter(r['rank'] for r in core)),'weekly_core_each':weekly_core,'core_each':core_total,'raids_each':raids,'fixed_white_gross':gross,'illi_remaining_bill':bill_total,'illi_fixed_gross_after_bill':gross['illi']-bill_total,'bill_by_binding':{n:sum(r['illi_cost'] for r in bill if r['binding']==n) for n in endpoints},'weekly_overlay_changes':changed,'protected_baseline_files':protected,'arc6_and_prior_calendars_byte_identical':True,'dated_illi_ledger_byte_identical':True,'fixed_combat_reward_numbers_unchanged':True,'ordinary_domai_participation_unchanged':True,'standing_world_tracks_unchanged_except_authorized_highlights':True,'carry_section_unchanged':True,'superseded_master_schedule_not_promoted':True,'no_invented_exact_training_or_purchase_dates':True}
 
 
 def main():

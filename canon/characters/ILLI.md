@@ -72,3 +72,7 @@ This is a resolved authoring view of existing sources. Explicit later correction
 | [world-clock/ARC5_HANDOFF.md — Spending / social liberty](../../world-clock/ARC5_HANDOFF.md#spending--social-liberty) | Read with the explicit qualifications and supersessions in this view; section status is item-specific. |
 
 [Local OPEN register](../OPEN.md) · [Authority map](../AUTHORITY_MAP.json) · [Section and item coverage](../../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json)
+
+## R2/R3 early partnership detail
+
+PC Orange remains R2D3 at 2,720, improving throughput/robustness without a fixed numerical healing ratio. It benefits groups more than an irrecoverably pinned Kira. R2D5 W2 remains cleared; the WORKING simulated-formation tunnel-vision/death scene, Kira’s consolation and 004→001 outing preserve unsupplied failure depth. illi reads at Ghost Base while Kira initially leads Builder obsession. [Scene owner](../../live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two).

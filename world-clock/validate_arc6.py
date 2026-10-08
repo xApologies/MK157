@@ -8,6 +8,11 @@ import json
 from pathlib import Path
 import re
 import subprocess
+import sys
+
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools" / "validation"))
+from validate_clock_promotion import current_clock_baseline, validated_replacements
 
 
 def audit(root):
@@ -135,6 +140,12 @@ def audit(root):
         require((root/'provenance/checkpoint-24-baseline'/name).read_bytes()==old('world-clock/'+name),'Archived old progression changed')
     # Preserve standing clocks exactly; CP24 plus CP25 changes affect only authored character-overlay weeks.
     weekly=rows('world-clock/WORLD_CLOCK_TEMPLATE.csv');old_weekly=list(csv.DictReader(old('world-clock/WORLD_CLOCK_TEMPLATE.csv').decode().splitlines()));changed=[]
+    promoted_prose = set()
+    try:
+        old_weekly = current_clock_baseline(root, old_weekly)
+        promoted_prose = validated_replacements(root)
+    except (OSError, ValueError, KeyError) as exc:
+        require(False, 'R2/R3 promotion: ' + str(exc))
     require(len(weekly)==len(old_weekly)==49,'Weekly clock size changed')
     for a,b in zip(old_weekly,weekly):
         require(all(a[k]==b[k] for k in a if k not in ('kira_clock','illi_clock')),'Standing schedule changed')
@@ -174,7 +185,7 @@ def audit(root):
               or p in ('live-model/TRAINING_YARD.md','live-model/BLACK_SYSTEMS_MASTERY.md','world-clock/ARC5_HANDOFF.md','world-clock/ARC5_HANDOFF.json','world-clock/ARC5_DIRECTOR_CALENDAR.md','world-clock/ARC5_DIRECTOR_CALENDAR.csv','world-clock/ARC5_DIRECTOR_CALENDAR.json','world-clock/PRISM_TEAM_TRACKER.csv')
               or (p.startswith('world-clock/') and 'CALENDAR' in p and p.endswith(('.csv','.json')) and 'AUDIT' not in p))
         # CP25 checks unchanged reward numbers/participant fields and exact prior Black doctrine prefix.
-        if keep and p not in {'trial-rewards/README.md', 'live-model/BLACK_SYSTEMS_MASTERY.md', 'combat-rewards/validate_rewards.py', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/COMBAT_REWARD_TABLES.json'}:require(sha(p)==digest,'Protected baseline altered: '+p);protected.append(p)
+        if keep and p not in promoted_prose and p not in {'trial-rewards/README.md', 'live-model/BLACK_SYSTEMS_MASTERY.md', 'combat-rewards/validate_rewards.py', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/COMBAT_REWARD_TABLES.json'}:require(sha(p)==digest,'Protected baseline altered: '+p);protected.append(p)
     carry=re.compile(r'(?ms)^## Project Princess Carry — LOCK\n.*?(?=^## )')
     require(carry.search(old('live-model/PARTNERSHIP_AND_CARRY.md').decode()).group()==carry.search(text('live-model/PARTNERSHIP_AND_CARRY.md')).group(),'Project Princess Carry altered')
     require(text('live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md').endswith(text(archive+'CHECKPOINT24_LIVE_MODEL_DELTA.md')),'Author delta incomplete')
@@ -190,7 +201,7 @@ def audit(root):
     for p,phrases in content.items():
         for phrase in phrases:require(phrase.lower() in text(p).lower(),'Content missing: '+p+': '+phrase)
     inputs=['world-clock/ARC6_DIRECTOR_CALENDAR.json','world-clock/ARC6_ILLI_CREDIT_LEDGER.json','world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json','world-clock/ILLI_PROGRESSION_SKELETON.json','world-clock/WORLD_CLOCK_TEMPLATE.csv','world-clock/ARC6_HANDOFF.json','world-clock/validate_arc6.py','economy/KIRA_BLACK_ACQUISITION_PRICES.json',*content]
-    return {'checkpoint':24,'result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':before['baseline_commit'],'arc':'G6D3→B6D3','arc7_open':'B6D4','calendar_rows':len(calendar),'counts':dict(counts),'gross':totals,'progression_spend':spend,'income_by_category':dict(category),'daily_accounting':daily,'reserve_transactions':len(reserve),'illi_earmarked_start':0,'illi_earmarked_end':reserve[-1]['running_progression_reserve'],'minimum_post_purchase_reserve':min(r['running_progression_reserve'] for r in reserve if r['kind']=='purchase'),'illi_events':len(ledger),'illi_cumulative_spend':cumulative,'first_13_events_unchanged':True,'raid_bookings':raid_bookings,'domai_awards':state['specific_domai_awards'],'builder_nights':nights,'clock_changed_weeks':changed,'standing_clock_fields_unchanged':True,'runtime_hours':{'Yellow':[5,10],'Green':[12,21],'Blue':[25,42],'W18':[21,38],'each_Blue_wave':[3.5,6],'W19_before_failure':[24.5,44],'W20_before_failure':[28,50],'raid':None},'arc5_calendar_and_handoff_byte_identical':True,'project_princess_carry_section_byte_identical':True,'registries':registry,'protected_baseline_files':protected,'sha256':{p:sha(p) for p in sorted(set(inputs))}}
+    return {'checkpoint':24,'result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':before['baseline_commit'],'arc':'G6D3→B6D3','arc7_open':'B6D4','calendar_rows':len(calendar),'counts':dict(counts),'gross':totals,'progression_spend':spend,'income_by_category':dict(category),'daily_accounting':daily,'reserve_transactions':len(reserve),'illi_earmarked_start':0,'illi_earmarked_end':reserve[-1]['running_progression_reserve'],'minimum_post_purchase_reserve':min(r['running_progression_reserve'] for r in reserve if r['kind']=='purchase'),'illi_events':len(ledger),'illi_cumulative_spend':cumulative,'first_13_events_unchanged':True,'raid_bookings':raid_bookings,'domai_awards':state['specific_domai_awards'],'builder_nights':nights,'clock_changed_weeks':changed,'standing_clock_fields_unchanged_except_authorized_highlights':True,'runtime_hours':{'Yellow':[5,10],'Green':[12,21],'Blue':[25,42],'W18':[21,38],'each_Blue_wave':[3.5,6],'W19_before_failure':[24.5,44],'W20_before_failure':[28,50],'raid':None},'arc5_calendar_data_and_handoff_byte_identical':True,'project_princess_carry_section_byte_identical':True,'registries':registry,'protected_baseline_files':protected,'sha256':{p:sha(p) for p in sorted(set(inputs))}}
 
 
 def main():

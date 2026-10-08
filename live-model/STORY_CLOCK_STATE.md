@@ -282,7 +282,7 @@ Immediate economic goals:
 - illi accumulates/ranks Persistent Coherence to Blue to unlock White Legacy access.
 - model the supplied illi milestone dates and solve the remaining ledger; do not invent post-B6D3 rank dates.
 
-White Legacy access requires Blue Persistent Coherence. Checkpoint 14 locks the supplied illi milestones; Kira seasonal acquisition labels remain a scaffold and do not assign exact purchase dates. Standing schedule: highlights 25:00 daily; raeon championship W7 D5; Auction W7 D5–D7; Prism White postseason follows [World Clock](WORLD_CLOCK.md).
+White Legacy access requires Blue Persistent Coherence. Checkpoint 14 locks the supplied illi milestones; Kira seasonal acquisition labels remain a scaffold and do not assign exact purchase dates. Standing schedule: highlights 27:00 daily; raeon championship W7 D5; Auction W7 D5–D7; Prism White postseason follows [World Clock](WORLD_CLOCK.md).
 
 ## Checkpoint 13 coupled progression
 
@@ -493,7 +493,7 @@ Layer over authoritative Red→Orange calendar; do not replace combat rows.
 - Armor normally absorbs/re-resolves damage. Concentrated repeated disruption can exceed local re-resolution, leave breaches, then injure projected biology.
 - Doctrine: sustain Kira while position is recoverable; once irrecoverably pinned/dogpiled, do not prolong death with healing.
 - Re-instance/debrief at Kira's; no immediate requeue.
-- City: 004 frosted abecca -> 001 `raeon` Flagship for hours -> light lunch -> 002 Genesis Card Flagship -> 003/general clothing district -> Champion Table dinner -> 25:00 Highlights.
+- City: 004 frosted abecca -> 001 `raeon` Flagship for hours -> light lunch -> 002 Genesis Card Flagship -> 003/general clothing district -> Champion Table dinner -> 27:00 Highlights.
 - Kira gravitates to dark neutrals: black/charcoal/graphite/deep gray. Exact style OPEN.
 - Rival Highlight may show embarrassing Orange death from mundane mistake; laughter is sympathetic combat humor; illi's snicker needles him.
 
@@ -504,7 +504,7 @@ Layer over authoritative Red→Orange calendar; do not replace combat rows.
 - illi may do a small incidental Solo during OPEN time; not a calendar replacement.
 - Afternoon: 001 deck building/testing/casual games; 002 window-shopping.
 - Fireball Genesis Card obsession begins/strengthens. Kira covets a White Fireball in million-credit territory; exact price OPEN/illustrative. Preserve later locked Arc Three Blue Fireball purchase at 86,000; do not move earlier.
-- Dinner ~23:30; Highlights locked 25:00.
+- Dinner now ~26:00 (cultural range); Highlights locked 27:00 under the cumulative R2/R3 correction.
 
 ### R1D4 — first Red Dungeon
 - Calendar: Red Dungeon clear, 1–2 h, +395 each.
@@ -559,8 +559,41 @@ Layer over authoritative Red→Orange calendar; do not replace combat rows.
 ### R2D1 current scene direction
 At Kira's residence the girls decide Trial vs Dungeon and choose Dungeon because group content sounds more fun. Use Group Finder. Their pseudo-Guardian + helkir pairing gets accepted. Chain two Red clears with same/compatible formation. At arc-outline level this can be compact; chapter pass may let Dungeon combat carry a chapter. Ordinary lunch/cards afterward can be compressed.
 
-R2D2 onward remains to be thickened later. Preserve the calendar rows above.
+R2D2–R2D7 scene direction is now supplied in the R2/R3 cumulative section below. Preserve the calendar rows above.
 
 ### Later Arc Two reservoir
 
 The [residence/Ghost Base material](03_VALNEK_PATHS.md#arc-one-r2--residences-and-ghost-base) follows later dinner/Highlights and some alcohol; it has no invented date or callsigns. The family introduction at R1D5 uses the [WORKING royal cast](03_VALNEK_PATHS.md#arc-one-r2--royal-family-working-canon), spread downstream rather than a cast dump. R1D6 #1 Duo is conditional WORKING public state, not an independently verified leaderboard snapshot.
+
+## R2/R3 developed Red Week Two
+
+Preserve locked calendar rows.
+
+R2D1: girls at Kira residence choose Dungeon over Trial; Group Finder; two Red clears. Calendar ~3h combat; author operational block ~4h
+including formation/queue/breaks. Late lunch can close the narrated day.
+
+R2D2: Kira Solo W9 push (~8.5h) can carry its own scene/chapter. illi may have ordinary/princess life and optional incidental shallow activity;
+do not add required progression combat.
+
+R2D3: illi purchases Persistent Coherence Orange (locked 2,720). Same mechanism, improved throughput/robustness; do not lock a numeric healing-rate ratio.
+Group benefit is larger than Kira Trial benefit because once Kira is irrecoverably dogpiled/Armor collapsing, extra biological healing does not solve the loss state.
+
+R2D4: first Orange Dungeon clear.
+
+R2D5: illi Solo W2. Working scene: tunnel vision on simulated formation/healing, misses flanking threat, panics/repositions/heals self, dies;
+returns frustrated and comically insists it was not her fault while Kira humors her. Kira proposes 004 frosted abecca then 001 `raeon` to blow off steam.
+This is a good point for first direct verbal/social interaction with the noble rival; illi already recognizes the tension, Kira finally becomes aware of it.
+
+R2D6: Duo W8 clear (~7h), then 003 everyday-clothing shopping for Kira; dinner/Highlights later.
+
+R2D7: Orange Dungeons x2. Working average **3h15m each**. A ~13:00–22:00 whole operation is plausible including group formation,
+inter-run recovery/debrief and post-run social overhead; calendar combat envelope remains 6–10h.
+Develop a recurring competent group leader/contact: leader handles LFM/roster/logistics; Kira+illi provide valuable pseudo-Guardian+helkir core.
+Friend/contact request after successful runs is natural.
+
+Afterward return to Ghost Base. illi reads; Kira discovers/deepens Builder obsession until dinner. With corrected social clock, ~22:00–26:00
+can be private downtime before dinner; 27:00 Highlights.
+
+R2D5 still clears W2 for the fixed 140 credits; the WORKING death scene does not revoke that clear or supply an exact subsequent failure depth. The rival and recurring leader remain unnamed. These are scene directions, not authored prose or assigned chapter boundaries. R3D1 may pass off-page as ordinary recovery/social life; no required combat is added. The R1D2/R1D3 friendship chronology RECOVERY_GAP remains unchanged.
+
+[Approved R2/R3 source](../provenance/diplomatic-pouch-r2-r3/package/R2_WEEK2_DELTA.md).

@@ -94,3 +94,9 @@ This is a resolved authoring view of existing sources. Explicit later correction
 | [live-model/DIMENSIONAL_RINGS.md — whole record / document](../live-model/DIMENSIONAL_RINGS.md) | Read with the explicit qualifications and supersessions in this view; section status is item-specific. |
 
 [Local OPEN register](OPEN.md) · [Authority map](AUTHORITY_MAP.json) · [Section and item coverage](../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json)
+
+## R2/R3 minimum progression income
+
+Fixed calendars supply a minimum guaranteed progression-income spine, not literal wallets or an earnings ceiling. Optional legitimate Trials, Dungeons/Raids, raeon, Prism and crafting may add discretionary surplus without moving Binding dates. A conditional additional Red+Orange Normal first-clear pays 6,250 each / 12,500 combined. Specific bosses, not rank pools, own once-per-season payout eligibility. No extra clears, balances or purchase dates are booked; wallet accounting awaits chapter outlining.
+
+[Owner 1](../THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine) · [Owner 2](../combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine)

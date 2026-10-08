@@ -723,3 +723,24 @@ Exact historical opening dates need not be over-specified. Age and repeated Valn
 The royal Valnak estate is a private family residence, not a barracks/court residence. Human permanent occupancy = royal family only. Valnak-bound NPC/personification attendants perform domestic service. The estate may nevertheless host large social events, receptions and galas.
 
 [Royal-family source](../provenance/diplomatic-pouch-arc1-r2/package/06_ROYAL_FAMILY.md). Naming follows the constitution's class-coded ae/ai convention, with lowercase illi the deliberate maternal exception. This does not change the existing Vaelle hierarchy or Aithre's landless civic status.
+
+## R2/R3 Ghost Base and private Kira
+
+Terminology:
+- **Ghost Base** = Kira's residence/base-of-operations nickname.
+- **The Dread Rainbow** = giant pirate flag/emblem eventually commissioned; not the house name.
+
+Private Kira differs sharply from public Kira. Alone with illi in the residence she becomes playful and theatrical, jokingly LARPing their pretend-Reaper
+identity: legendary monster-slayer, hero saving the princess, etc. illi plays foil. This is private safety/relationship characterization, not Kira's public persona.
+Callsigns eventually emerge organically; remain OPEN.
+
+Kira becomes strongly interested in Builder/build theory. Her armorsmith/system-thinking background makes Binding architecture a conceptual forge.
+illi can later become involved, but Kira is initially the obsessive one.
+
+Builder community presentation direction: posted builds primarily expose the Binding architecture/tree and traceable relationships, with lightweight
+discovery/ranking surfaces such as New/Trending/Rising and simple positive/negative valuation. Do not require essay-style build guides or comment culture.
+Exact UI/ranking algorithm remains OPEN.
+
+
+
+[Approved R2/R3 source](../provenance/diplomatic-pouch-r2-r3/package/GHOST_BASE_BUILDER.md).

@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "source_rows": 36,
+  "counts": {
+    "PRESENT": 36
+  },
+  "row_identity_order_preserved": true,
+  "all_destinations_exist": true,
+  "qualifications_preserved": true,
+  "semantic_review": "Every decision reviewed against source text and the resulting current owner; PRESENT does not lock WORKING/OPEN/conditional material. Owner bytes verified against INTEGRATION.json. Paragraph hashes account for all18 sections/43 paragraphs, beyond the36-item decision index."
+}

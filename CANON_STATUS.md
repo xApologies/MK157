@@ -2,7 +2,7 @@
 
 | Field | Current state |
 |---|---|
-| Canon source | Checkpoint 25 correction and compatible cumulative authority; Diplomatic Pouches 01 and Arc One R2 supply bounded opening / early Arc Two additions |
+| Canon source | Checkpoint 25 correction and compatible cumulative authority; Diplomatic Pouches 01, Arc One R2 and the cumulative R2/R3 pouch supply bounded author additions (including the current 27:00 Highlights correction) |
 | R1 audited baseline | `3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31` |
 | R1 baseline tree | `d2e80f13b3ea6a3e7a41754acb7897c9b479f29d`; 543 tracked files; main and fetched origin/main agreed at preflight |
 | Historical maintenance | authoring-cleanup-r1; authoring/navigation revision, not Checkpoint 26 |
@@ -21,3 +21,7 @@ The complete baseline inventory and byte/mode evidence are in [BASELINE.json](pr
 Current [Arc One promotion](provenance/diplomatic-pouch-01/package/ARC_ONE_DELTA.md) is integrated in place. Chapterization remains deferred. The linked R1 evidence describes the historical cleanup baseline; later source changes are accounted for by [author promotions](canon/PROMOTIONS.json), without rewriting that audit.
 
 Current [Arc One R2 source](provenance/diplomatic-pouch-arc1-r2/package/EXECUTABLE.md) adds the Red scene clock, WORKING family/residence model, recurring social spaces and incidental lifestyle-credit doctrine. CP25 and exact required calendars remain intact; the first-Solo/Duo/friendship RECOVERY_GAP persists. See [promotion accounting](canon/PROMOTIONS.json).
+
+## R2/R3 cumulative author delta
+
+The [cumulative pouch](provenance/diplomatic-pouch-r2-r3/INTEGRATION.json) adds Red Week Two scenes, first-season Raid design, city routing, daily raeon, Prism spectators, private Ghost Base/Builder life and the 27:00 Highlights correction. [All 36 decisions](provenance/diplomatic-pouch-r2-r3/REVERSE_DIFF.csv) retain their LOCKED/WORKING/OPEN qualifications. Required combat and purchase dates, Checkpoint 25 mechanical authority and the opening chronology RECOVERY_GAP remain. No numbered checkpoint or chapters are created.

@@ -259,6 +259,38 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/GHOST_BASE_BUILDER.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Residence/flag distinction, private character relationship and early Builder interest promoted; no callsigns, commission date or ranking/UI invented.",
+          "current_destinations": [
+            "live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira",
+            "builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/R2_WEEK2_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+            "story/ARC_02/ARC.md"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/PRISM_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Field/career/spectator and Champion privilege promoted; city-stack schedule WORKING; payout/tickets/guests OPEN.",
+          "current_destinations": [
+            "live-model/PRISM.md#r2r3-prism-fields-and-spectators"
+          ]
         }
       ],
       "open_status": "OPEN: exact anatomy, CSR/Domain timestamps, support names/count, Halo final visual, Orb ontology and full mastery, indefinite multi-Orb sustainment and Elara identity semantics."
@@ -454,6 +486,28 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/R2_WEEK2_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+            "story/ARC_02/ARC.md"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/GHOST_BASE_BUILDER.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Residence/flag distinction, private character relationship and early Builder interest promoted; no callsigns, commission date or ranking/UI invented.",
+          "current_destinations": [
+            "live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira",
+            "builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation"
+          ]
         }
       ],
       "open_status": "OPEN: rank-up dates after B6D3, final discretionary balances, future Solo standing beyond demonstrated milestones, specific social purchases and later Decoherence details."
@@ -776,6 +830,29 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/CITY_STACK.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: City geography/routing/property ownership promoted; permanent-death lifecycle WORKING with legal/auction OPEN; off-map residence retained.",
+          "current_destinations": [
+            "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Social LOCK with cultural ranges/WORKING end; calendar minimum income; Raid surplus conditional per more-specific roster source. All existing mandatory rows preserved.",
+          "current_destinations": [
+            "live-model/WORLD_CLOCK.md#r2r3-cumulative-social-clock",
+            "THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine",
+            "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine",
+            "story/ARC_02/ARC.md"
+          ]
         }
       ],
       "open_status": "OPEN: planet name, exact external time conversion, population/routing implementation, credential synchronization, generic Legacy discounts and unsupplied calendars."
@@ -957,6 +1034,28 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/GHOST_BASE_BUILDER.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Residence/flag distinction, private character relationship and early Builder interest promoted; no callsigns, commission date or ranking/UI invented.",
+          "current_destinations": [
+            "live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira",
+            "builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/R3_RAID_ROSTER.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+          "current_destinations": [
+            "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+            "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+          ]
         }
       ],
       "open_status": "OPEN: topology-derived basin combinations, candidate mechanism/White details, PE-004–009 selection finality, Creator assessment rates/property succession and Builder implementation."
@@ -1166,6 +1265,28 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/R2_WEEK2_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+            "story/ARC_02/ARC.md"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/R3_RAID_ROSTER.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+          "current_destinations": [
+            "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+            "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+          ]
         }
       ],
       "open_status": "OPEN: exact cap/inflow, extreme recovery physiology, encounter maps/populations, Hard/Raid runtimes, contribution/bonus formulas and unprovided core outcomes."
@@ -1406,6 +1527,40 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Social LOCK with cultural ranges/WORKING end; calendar minimum income; Raid surplus conditional per more-specific roster source. All existing mandatory rows preserved.",
+          "current_destinations": [
+            "live-model/WORLD_CLOCK.md#r2r3-cumulative-social-clock",
+            "THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine",
+            "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine",
+            "story/ARC_02/ARC.md"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/RAEON_DAILY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Daily schedule/cohort routing promoted separately from seasonal circuit; top-six payout WORKING; inventor/history/bracket detail OPEN; card ownership rules retained.",
+          "current_destinations": [
+            "live-model/RAEON.md#r2r3-daily-raeon-tournament"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/R3_RAID_ROSTER.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+          "current_destinations": [
+            "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+            "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+          ]
         }
       ],
       "open_status": "OPEN: actual cashflows, unsupplied contextual awards, partial/bonus formulas, discretionary inventory and Ring price. Historical numeric snapshots are not current balances."
@@ -1655,6 +1810,49 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/CITY_STACK.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: City geography/routing/property ownership promoted; permanent-death lifecycle WORKING with legal/auction OPEN; off-map residence retained.",
+          "current_destinations": [
+            "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/RAEON_DAILY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Daily schedule/cohort routing promoted separately from seasonal circuit; top-six payout WORKING; inventor/history/bracket detail OPEN; card ownership rules retained.",
+          "current_destinations": [
+            "live-model/RAEON.md#r2r3-daily-raeon-tournament"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/PRISM_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Field/career/spectator and Champion privilege promoted; city-stack schedule WORKING; payout/tickets/guests OPEN.",
+          "current_destinations": [
+            "live-model/PRISM.md#r2r3-prism-fields-and-spectators"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Social LOCK with cultural ranges/WORKING end; calendar minimum income; Raid surplus conditional per more-specific roster source. All existing mandatory rows preserved.",
+          "current_destinations": [
+            "live-model/WORLD_CLOCK.md#r2r3-cumulative-social-clock",
+            "THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine",
+            "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine",
+            "story/ARC_02/ARC.md"
+          ]
         }
       ],
       "open_status": "OPEN: planetary arithmetic, exact cosmology correspondence, legal/governance implementation, demographics/aging rates, sport details, map serials and Ring price."
@@ -1800,6 +1998,16 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/RAEON_DAILY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Daily schedule/cohort routing promoted separately from seasonal circuit; top-six payout WORKING; inventor/history/bracket detail OPEN; card ownership rules retained.",
+          "current_destinations": [
+            "live-model/RAEON.md#r2r3-daily-raeon-tournament"
+          ]
         }
       ],
       "open_status": "OPEN: exact card/set inventory, print quantities, exceptional lots, publisher legal identity, tournament details and personal spending."
@@ -1985,6 +2193,26 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/CITY_STACK.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: City geography/routing/property ownership promoted; permanent-death lifecycle WORKING with legal/auction OPEN; off-map residence retained.",
+          "current_destinations": [
+            "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/PRISM_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Field/career/spectator and Champion privilege promoted; city-stack schedule WORKING; payout/tickets/guests OPEN.",
+          "current_destinations": [
+            "live-model/PRISM.md#r2r3-prism-fields-and-spectators"
+          ]
         }
       ],
       "open_status": "OPEN: Halo color, unapproved overlays/serials, exact biological mechanism and unsupplied designs. Historical assets remain accessible but do not reinstate obsolete phenotypes."
@@ -2240,6 +2468,82 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Explicit later author additions, qualified by each source status and preserved CP25/required-calendar authority. Complete mapping is in the R2 integration manifest; the opening chronology conflict is not resolved."
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Social LOCK with cultural ranges/WORKING end; calendar minimum income; Raid surplus conditional per more-specific roster source. All existing mandatory rows preserved.",
+          "current_destinations": [
+            "live-model/WORLD_CLOCK.md#r2r3-cumulative-social-clock",
+            "THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine",
+            "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine",
+            "story/ARC_02/ARC.md"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/CITY_STACK.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: City geography/routing/property ownership promoted; permanent-death lifecycle WORKING with legal/auction OPEN; off-map residence retained.",
+          "current_destinations": [
+            "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/GHOST_BASE_BUILDER.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Residence/flag distinction, private character relationship and early Builder interest promoted; no callsigns, commission date or ranking/UI invented.",
+          "current_destinations": [
+            "live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira",
+            "builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/RAEON_DAILY.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Daily schedule/cohort routing promoted separately from seasonal circuit; top-six payout WORKING; inventor/history/bracket detail OPEN; card ownership rules retained.",
+          "current_destinations": [
+            "live-model/RAEON.md#r2r3-daily-raeon-tournament"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/PRISM_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Field/career/spectator and Champion privilege promoted; city-stack schedule WORKING; payout/tickets/guests OPEN.",
+          "current_destinations": [
+            "live-model/PRISM.md#r2r3-prism-fields-and-spectators"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/R2_WEEK2_DELTA.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: Narrative directions over unchanged exact calendar. R2D5 death follows fixed W2 clear without fabricated failure depth; approximate times/scene choices retain qualifications, names/chapters OPEN.",
+          "current_destinations": [
+            "live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two",
+            "story/ARC_02/ARC.md"
+          ]
+        },
+        {
+          "path": "provenance/diplomatic-pouch-r2-r3/package/R3_RAID_ROSTER.md",
+          "section": "whole record / document",
+          "anchor": null,
+          "status": "PARTIALLY_SUPERSEDED",
+          "authority_reason": "R2/R3 explicit author delta, with stated qualifications: R3D1 negative space; environment WORKING, boss mechanisms promoted without invented dated A/B allocations. Extra first-clear earnings remain conditional, not calendar entries.",
+          "current_destinations": [
+            "live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster",
+            "combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine"
+          ]
         }
       ],
       "open_status": "Local OPENs are protected canon states, not unfinished maintenance. Source review completeness is reported independently in coverage and completion evidence."

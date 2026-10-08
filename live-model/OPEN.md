@@ -88,7 +88,7 @@ Do not silently decide:
 - exact day Kira buys CSR;
 - exact standard card dimensions beyond the working trading-card form factor.
 
-Resolved by Checkpoint 11: Blue Persistent Coherence entry qualification, Valnak seven-day weeks, 25:00 highlights and standing championship/Auction/postseason placement. Older OPEN entries for these are superseded. Checkpoint 14 reopens the four post-Armor Black prices. Planetary month reconciliation, team names, detailed match schedules, actual credit income and purchase dates outside the supplied illi milestones remain OPEN.
+Resolved by Checkpoint 11: Blue Persistent Coherence entry qualification, Valnak seven-day weeks and standing championship/Auction/postseason placement. The current Highlights start is 27:00 under the later R2/R3 cumulative pouch. Older OPEN entries for these are superseded. Checkpoint 14 reopens the four post-Armor Black prices. Planetary month reconciliation, team names, detailed match schedules, actual credit income and purchase dates outside the supplied illi milestones remain OPEN.
 
 ## Checkpoint 12 limited pricing resolution
 
@@ -224,3 +224,13 @@ The [R2 instruction](../provenance/diplomatic-pouch-arc1-r2/package/EXECUTABLE.m
 Resolved within scope: R1D5 royal social direction, R1D7 Opening Celebration, 002 flagship location, supplied royal names/roles, and authentic external/temporary store card rules. Royal ages/bands and residence/recovery models retain WORKING scope. Exact callsigns, room counts/floorplans/prices, inventory/White Fireball price, dress price, flag date, W9 kill totals and chapter count remain OPEN. ~3 kills is only a WORKING author-level gap unknown to the rival. No separate Ellie or new ordinary Augmenter Binding follows.
 
 Chronology RECOVERY_GAP remains: R1D2 shared Duo/Champion-table social life predates the R1D3 first Solo and subsequent friendship dinner in Pouch 01. R2 also labels the same R1D3 event in the Arc Two scene clock; preserve one event and flag the unresolved opening/arc alignment. No meeting or replacement date is invented. [Scene owner](STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock).
+
+## R2/R3 cumulative qualifications
+
+The existing R1D2 shared Duo versus post-R1D3-Solo friendship dinner remains a chronology RECOVERY_GAP. No chapter count, chapter allocation or prose is created. All compatible earlier OPENs survive.
+
+New/current qualifications: property inheritance/availability/auction lifecycle WORKING, exact legal process OPEN; daily raeon top-six payouts WORKING, inventor/history and bracket algorithm/size OPEN; Prism A–D ordinary / Instance-A championship schedule WORKING, exact payout, ticket sale/auction mix and guest capacity OPEN; callsigns and Builder UI/ranking OPEN. Dinner/sleep/wake are cultural ranges, Highlights end ~28:30 WORKING; start 27:00 is LOCKED.
+
+R2D5 scene and possible rival exchange, R2D7 3h15-per-clear and whole-operation/private intervals retain WORKING qualifications. No exact healing ratio, leader/rival name, next-wave death depth or mandatory incidental activity is supplied. R3 cavern layout is WORKING; exact dated A/B boss allocations and extra-clear dates remain OPEN. Additional Red+Orange 6,250 each is conditional wallet surplus, not booked income; actual wallets await chapter outlining. Raid equipment remains unspecified; no extra add-spawn requirement or aggro/taunt is introduced.
+
+[Source decisions](../provenance/diplomatic-pouch-r2-r3/INTEGRATION.json); [36-decision reverse diff](../provenance/diplomatic-pouch-r2-r3/REVERSE_DIFF.csv).

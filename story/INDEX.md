@@ -19,3 +19,7 @@ Begin the next author-directed creative pass in [Arc One](ARC_01/ARC.md). The ch
 Full Yellow and Arc Five overlap at Y6D4–Y7D7; their two paid Duos are the same events. Earlier CP21 Yellow and CP25 master schedules survive as history, not current alternatives. Use [data routes](../data/INDEX.md) for the existing exact calendars and ledgers, [protected OPENs](../canon/OPEN.md) for local decisions, and [history](../upstream/HISTORICAL_INDEX.md) for original evidence.
 
 [R2 early Arc Two scene direction](ARC_02/ARC.md#developed-red-scene-clock--r2) thickens the existing macro scaffold. The opening chronology conflict remains explicit, and no chapters are created.
+
+## R2/R3 cumulative author delta
+
+The [cumulative pouch](../provenance/diplomatic-pouch-r2-r3/INTEGRATION.json) adds Red Week Two scenes, first-season Raid design, city routing, daily raeon, Prism spectators, private Ghost Base/Builder life and the 27:00 Highlights correction. [All 36 decisions](../provenance/diplomatic-pouch-r2-r3/REVERSE_DIFF.csv) retain their LOCKED/WORKING/OPEN qualifications. Required combat and purchase dates, Checkpoint 25 mechanical authority and the opening chronology RECOVERY_GAP remain. No numbered checkpoint or chapters are created.

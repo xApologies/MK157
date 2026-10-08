@@ -61,3 +61,9 @@ This is a resolved authoring view of existing sources. Explicit later correction
 | [builder/COMMUNITY.md — whole record / document](../builder/COMMUNITY.md) | Read with the explicit qualifications and supersessions in this view; section status is item-specific. |
 
 [Local OPEN register](OPEN.md) · [Authority map](AUTHORITY_MAP.json) · [Section and item coverage](../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json)
+
+## R2/R3 Builder culture
+
+Kira’s armorsmith/system-thinking background makes Builder a conceptual forge; she is initially the obsessive build theorist, with illi potentially joining later. Posted architecture/trees and traceable relationships support lightweight New/Trending/Rising discovery and positive/negative valuation. No mandatory essays/comments or new generated registries follow; UI/ranking details remain OPEN.
+
+[Owner 1](../builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation)

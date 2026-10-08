@@ -9,6 +9,10 @@
     {
       "id": "diplomatic-pouch-arc1-r2",
       "manifest": "provenance/diplomatic-pouch-arc1-r2/INTEGRATION.json"
+    },
+    {
+      "id": "diplomatic-pouch-r2-r3",
+      "manifest": "provenance/diplomatic-pouch-r2-r3/INTEGRATION.json"
     }
   ]
 }

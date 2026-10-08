@@ -21,3 +21,7 @@ That coverage records the historical R1 revision. [Later author promotions](PROM
 [Authority map](AUTHORITY_MAP.json) · [Seven arcs](../story/INDEX.md) · [Data owners](../data/INDEX.md) · [Source firewall](../upstream/INHERITANCE.md) · [Historical corpus](../upstream/HISTORICAL_INDEX.md)
 
 [Arc One R2](../provenance/diplomatic-pouch-arc1-r2/package/EXECUTABLE.md) adds early Arc Two, family/city/card detail and qualified lifestyle-credit doctrine; current source accounting is in [promotions](PROMOTIONS.json).
+
+## R2/R3 cumulative author delta
+
+The [cumulative pouch](../provenance/diplomatic-pouch-r2-r3/INTEGRATION.json) adds Red Week Two scenes, first-season Raid design, city routing, daily raeon, Prism spectators, private Ghost Base/Builder life and the 27:00 Highlights correction. [All 36 decisions](../provenance/diplomatic-pouch-r2-r3/REVERSE_DIFF.csv) retain their LOCKED/WORKING/OPEN qualifications. Required combat and purchase dates, Checkpoint 25 mechanical authority and the opening chronology RECOVERY_GAP remain. No numbered checkpoint or chapters are created.

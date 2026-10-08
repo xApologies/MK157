@@ -86,3 +86,7 @@ This is a resolved authoring view of existing sources. Explicit later correction
 | [live-model/09_CHECKPOINT_04_ADDENDUM.md — Elara can leave Valnak through an Orb](../../live-model/09_CHECKPOINT_04_ADDENDUM.md#elara-can-leave-valnak-through-an-orb) | Read with the explicit qualifications and supersessions in this view; section status is item-specific. |
 
 [Local OPEN register](../OPEN.md) · [Authority map](../AUTHORITY_MAP.json) · [Section and item coverage](../../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json)
+
+## R2/R3 private life
+
+At Ghost Base, Kira can be playful and theatrical with illi, acting out pretend-Reaper monster-slayer/princess-rescue humor with illi as foil. This expresses private safety and their bond, not a public persona. Callsigns remain OPEN. Early Builder obsession grows from her armorsmith/system-thinking background; Top-10 first-cycle Solo standing also grants reserved Prism hospitality, guest capacity OPEN. [Residence owner](../../live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira); [Builder](../../builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation); [Prism](../../live-model/PRISM.md#r2r3-prism-fields-and-spectators).

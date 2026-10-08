@@ -29,7 +29,7 @@ Gross earnings exclude the contextual Orange-domai award and failed-Dungeon part
 
 The 11 Yellow rows Y6D4–Y7D7 overlap the [full-Yellow calendar](YELLOW_DIRECTOR_CALENDAR.md), including 13,110 per person from two Duos. They are the same events, not additional income. Full-Yellow and Arc Five totals must not be summed without subtracting that overlap. The combined full-Yellow→G6D2 fixed gross is Kira 155,625 / illi 136,600, excluding the same contextual amounts.
 
-Girls' Builder Night recurs on Green G1D5–G5D5. Yellow Y6D5 is displaced by Duo Trial and Y7D5 by the Auction. Preserve the personal raeon block Y7D1–D3 (out by D3, exact matches OPEN), Auction W7D5–D7, nightly 25:00 Highlights, recovery and independent social blocks. No extra paid run is inferred from Y6D4 familiarization or independent Orb work; Training Yard awards no Trial credits. Normal paid Trial runs start W1 and stop between waves.
+Girls' Builder Night recurs on Green G1D5–G5D5. Yellow Y6D5 is displaced by Duo Trial and Y7D5 by the Auction. Preserve the personal raeon block Y7D1–D3 (out by D3, exact matches OPEN), Auction W7D5–D7, nightly 27:00 Highlights, recovery and independent social blocks. No extra paid run is inferred from Y6D4 familiarization or independent Orb work; Training Yard awards no Trial credits. Normal paid Trial runs start W1 and stop between waves.
 
 W18 timing remains 21–38 hours, central 29.5, within the 31-hour-day model. Locked dates do not supply exact intraday start/end, W19 failure duration, or recovery physiology. The dense G5D3/G5D4 and G5D6/G5D7 blocks remain authored placements; no shorter encounter duration or extra recovery day is invented.
 

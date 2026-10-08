@@ -61,3 +61,11 @@ The inviter is deliberately a female peer to keep this first peer-social invitat
 ## Checkpoint 23 — recurring Girls' Builder Night
 
 Girls' Builder Night uses the usual D5 Friday-equivalent slot when not displaced. The locked Arc Five calendar places it **G1D5, G2D5, G3D5, G4D5, G5D5** for ordinary social life, Raid/build analysis, Orb theorycrafting, Green-failure analysis and celebration/refinement. Yellow Y6D5 is displaced by the shared Trial; Y7D5 is Auction Day 1. First invitation Y5D3 and first party Y5D5 remain. G5D2 preserves Kira's post-Blue recovery/Highlights/social consequences while illi runs Solo. Prose may fill established social/open blocks without relocating combat or requiring new paid events.
+
+## R2/R3 early Builder interest and presentation
+
+Kira is initially the obsessive Builder/build-theory participant; her armorsmith/system-thinking background makes Binding architecture a conceptual forge. illi can join later. After R2D7, illi reads at Ghost Base while Kira discovers/deepens Builder interest during the WORKING ~22:00–26:00 private interval before dinner and 27:00 Highlights.
+
+Posted builds primarily expose the Binding architecture/tree and traceable relationships. New/Trending/Rising and simple positive/negative valuation supply lightweight discovery. Essay-style build guides and comment culture are not required. Exact UI and ranking algorithm remain OPEN. Existing 200 candidate trajectories and later first Builder-party dates remain intact.
+
+[Builder source](../provenance/diplomatic-pouch-r2-r3/package/GHOST_BASE_BUILDER.md); [R2D7 scene](../live-model/STORY_CLOCK_STATE.md#r2r3-developed-red-week-two).

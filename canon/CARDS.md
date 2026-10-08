@@ -52,3 +52,9 @@ This is a resolved authoring view of existing sources. Explicit later correction
 | [live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md — Valnak social-credit transfer firewall](../live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md#valnak-social-credit-transfer-firewall) | Read with the explicit qualifications and supersessions in this view; section status is item-specific. |
 
 [Local OPEN register](OPEN.md) · [Authority map](AUTHORITY_MAP.json) · [Section and item coverage](../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json)
+
+## R2/R3 daily raeon
+
+Daily tournament registration closes 00:00; play starts 10:00 in assigned 001-instance cohorts, with normal travel after elimination/completion. The WORKING top-six credits are Violet300 / Blue240 / Green190 / Yellow150 / Orange110 / Red70. Placement colors are iconography, not card/basin/Binding/combat ranks. This is separate from seasonal W5–W7 play; inventor, bracket algorithm and size remain OPEN.
+
+[Owner 1](../live-model/RAEON.md#r2r3-daily-raeon-tournament)

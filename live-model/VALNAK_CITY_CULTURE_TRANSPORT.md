@@ -211,7 +211,7 @@ This is an emergent title, not a Binding, Legacy or formal rank.
 
 Every night, Valnak runs a voluntary communal highlight reel.
 
-Approximate author duration: about ninety minutes; exact clock time remains OPEN.
+Approximate author duration: about ninety minutes; the R2/R3 cumulative pouch locks the start at 27:00, with a WORKING end around 28:30.
 
 Content primarily samples the day's combat/progression activity:
 - Solo/Duo/Trio Trials;
@@ -285,7 +285,7 @@ Character-facing abstraction:
 hail carriage -> board -> select destination -> ride -> exit.
 
 Do not over-engineer the underlying propulsion unless story requires it.
-Checkpoint 11 sets nightly highlights at 25:00 every Valnak day; the earlier exact-time OPEN is superseded. [Genesis Cards](GENESIS_CARDS.md) use the shared transparent maege-glass medium with structural basin colors, distinct from raeon classification/rarity colors.
+The R2/R3 cumulative pouch sets nightly Highlights at 27:00 every Valnak day, superseding the earlier Checkpoint 11 start; the earlier exact-time OPEN is superseded. [Genesis Cards](GENESIS_CARDS.md) use the shared transparent maege-glass medium with structural basin colors, distinct from raeon classification/rarity colors.
 
 ## Checkpoint 20 — social life and civic institutions
 
@@ -319,3 +319,27 @@ Kira's father owns a permanent Valnak smithy on Craftsman's Row. Father + brothe
 R1D7 fills an existing recovery/social OPEN row with the end-of-first-week celebration, not required combat. It is citywide, with 007 the principal outdoor hub: music/concerts, food/drinks/alcohol, dancing, performances, social areas, quiet gardens/edges and possible Transductive spectacle. Only a short formal welcome is required. Ordinary capacity-controlled tickets are desirable, sell quickly and are meaningful early-cycle expenses. Current Top 10 Solo, Duo and Trio standings receive invitations: Kira qualifies via Solo; Kira+illi via Duo. This does not book a Trio. illi guides Kira through her first major high-visibility formal event after BLACKOUT.
 
 [Flagship 001 operations](RAEON.md#arc-one-r2--flagship-play-and-ownership); [002 gallery](GENESIS_CARDS.md#arc-one-r2--location-002-and-early-fireball-interest); [supplied spaces](../provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md).
+
+## R2/R3 city stack and persistent property
+
+The ~20x20-mile author city map is a canonical major-geography template instantiated repeatedly for civilization-scale population:
+Instance A, B, C ... . This is Valnak realization architecture, not videogame-server ontology.
+
+Major geography/services can repeat across the stack. Valnak routes population so instances feel **alive but not overcrowded**;
+it need not equalize them exactly.
+
+Generic replicated destination (e.g. an unspecified 001 flagship): Valnak may load-balance to a suitable instance.
+Specific destination (particular craft shop/property/person/event/reservation): route to that specific instance.
+Participants may intentionally move between instances when capacity permits.
+
+Persistent mapped city property is instance-specific. Instance A is culturally prestigious/old/singular-event oriented, not
+universally "better." Famous businesses may be in any instance.
+
+Working property lifecycle: mapped persistent property does not automatically inherit when an owner permanently dies; it returns
+to Valnak availability and may be auctioned. Exact legal/auction implementation remains OPEN.
+
+Kira's lush volcanic-island beachfront residence is an addressable off-map residence domain, not a parcel on the city map.
+
+
+
+[Approved R2/R3 source](../provenance/diplomatic-pouch-r2-r3/package/CITY_STACK.md).

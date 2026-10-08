@@ -266,3 +266,13 @@ This is class-coded naming culture, not universal language law. Common/non-noble
 - `raeon`, not Rayon.
 - `abecca` = coffee-equivalent; conversational coffee maps to abecca.
 - `velis` canonical.
+
+## R2/R3 cumulative income and narrative doctrine
+
+The combat/purchase calendar is a **minimum guaranteed progression-income spine**, not a closed wallet or earnings ceiling. Extra legitimate income can come from optional Trials, Dungeons/Raids, `raeon`, Prism, crafting and other established activity. This broadens the earlier incidental shallow-Trial doctrine without inserting required events. Extra income does not automatically move locked Binding purchase dates earlier. Actual wallet bookkeeping is deferred to the later chapter-outline pass. Surplus may fund cards, clothes/formalwear, residence work, food/abecca, entertainment and gifts; existing progression-financing restrictions remain.
+
+Raid major payout remains once per participant per **specific boss per season**, with the existing Normal/Expedition opportunity distinction preserved. Distinct same-rank bosses can each pay once. If later story supplies an additional Red and an additional Orange Normal first-clear, each girl earns **2,500 + 3,750 = 6,250**, or **12,500 combined**, as wallet/social surplus. These additional clears are conditional, not booked events or present balances; do not erase surplus through the formal progression ledger or advance Binding dates.
+
+OPEN/recovery days may pass off-page. Calendar is macro time; narrative selects meaningful intersections. No chapter count is assigned.
+
+[Master source](provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md); [conditional Raid scope](provenance/diplomatic-pouch-r2-r3/package/R3_RAID_ROSTER.md#red-season-character-reward-handling). Checkpoint 25 and compatible earlier locks still govern their scopes; this is not a numbered checkpoint.

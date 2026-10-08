@@ -31,7 +31,7 @@ Elara personally supplies Kira's brief welcome and Node grammar: summon/dismiss,
 
 The Valnak coordinate is season/week/day: seven R→W seasons × seven weeks × seven days = 343 days, each 31 hours. The planetary year/month discrepancy and external subjective-time conversion are separate OPEN questions. Red–Violet use pleasant pastel skies; White the illuminated-world dark starscape. [Valnak calendar](../live-model/02_COSMOLOGY.md#checkpoint-11-calendar-clarification); [Seasonal presentation](../THREAD_DEVELOPMENT_CONSTITUTION.md#valnak).
 
-World, Kira and illi have synchronized but independent clocks. Highlights run at 25:00 daily; attendance is voluntary. Each season has raeon W5 qualification/opening, W6 progression, W7D1–D4 late bracket, W7D5 championship and Auction W7D5–D7. Prism runs Red W1–Violet W7, then White W1–2 round of 16, W3 quarters, W4 semis, W5 buildup, W6 championship and W7 closing. Author calendars are sparse; an OPEN/home/recovery day is meaningful, not an automatic farm slot. [Standing clock](../live-model/WORLD_CLOCK.md#nightly-highlight-reels); [Lived rhythm](../live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md#abecca-and-ordinary-days).
+World, Kira and illi have synchronized but independent clocks. Highlights run at 27:00 daily; attendance is voluntary. Each season has raeon W5 qualification/opening, W6 progression, W7D1–D4 late bracket, W7D5 championship and Auction W7D5–D7. Prism runs Red W1–Violet W7, then White W1–2 round of 16, W3 quarters, W4 semis, W5 buildup, W6 championship and W7 closing. Author calendars are sparse; an OPEN/home/recovery day is meaningful, not an automatic farm slot. [Standing clock](../live-model/WORLD_CLOCK.md#nightly-highlight-reels); [Lived rhythm](../live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md#abecca-and-ordinary-days).
 
 Kira's table, Builder friends, abecca, two card flagships, crafts, sport and foundations are part of lived civilization. The [world/culture view](WORLD_AND_CULTURE.md) retains institutional detail. The [seven arc dossiers](../story/INDEX.md) constrain selected events without converting every clock row into a chapter. Older Day-One Solo/Day-Two double-Duo timestamps yield to the CP18 combat scaffold; story beats survive with displaced timing OPEN.
 
@@ -65,3 +65,9 @@ This is a resolved authoring view of existing sources. Explicit later correction
 | [live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md — abecca and ordinary days](../live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md#abecca-and-ordinary-days) | Read with the explicit qualifications and supersessions in this view; section status is item-specific. |
 
 [Local OPEN register](OPEN.md) · [Authority map](AUTHORITY_MAP.json) · [Section and item coverage](../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json)
+
+## City stack, homes and clock
+
+The repeated ~20×20-mile A/B/C city template supports healthy population density. Generic destinations can load-balance; specific properties, people, events and reservations route to their specific instance. Mapped property is instance-specific; the nonautomatic inheritance/availability/possible auction lifecycle is WORKING. Kira’s island is an off-map addressable residence domain. Ghost Base is the residence nickname; The Dread Rainbow is its eventual flag/emblem. Highlights start 27:00; dinner ~26:00 and sleep/wake are cultural ranges.
+
+[Owner 1](../live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#r2r3-city-stack-and-persistent-property) · [Owner 2](../live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira) · [Owner 3](../live-model/WORLD_CLOCK.md#r2r3-cumulative-social-clock)

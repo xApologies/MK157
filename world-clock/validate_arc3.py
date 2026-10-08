@@ -13,6 +13,10 @@ sys.dont_write_bytecode = True
 BASELINE = '4982fd6ff43faaf1bf0e5fdd289d0831951e1ef4'
 
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools" / "validation"))
+from validate_clock_promotion import current_clock_baseline, validated_replacements
+
+
 def audit(root):
     errors = []
     def require(ok, message):
@@ -130,6 +134,10 @@ def audit(root):
     require('OPEN' in lookup[(7,3)]['notes'] and 'elapsed' in lookup[(7,6)]['notes'], 'domai payout/recovery assumption lost')
     weekly=rows('world-clock/WORLD_CLOCK_TEMPLATE.csv')
     previous_weekly=list(csv.DictReader(old('world-clock/WORLD_CLOCK_TEMPLATE.csv').decode('utf-8-sig').splitlines()))
+    try:
+        previous_weekly = current_clock_baseline(root, previous_weekly)
+    except (OSError, ValueError, KeyError) as exc:
+        require(False, 'Highlights promotion: ' + str(exc))
     changed_weeks=[]
     for before,after in zip(previous_weekly,weekly):
         require(all(before[k] == after[k] for k in before if k not in ('kira_clock','illi_clock')), 'Standing social/world track changed')
@@ -151,7 +159,7 @@ def audit(root):
             'protected_open_days':counts['OPEN'],'tournament_dates':['R5D4 participation/eliminated','O5D1 qualification','O5D6 eliminated','O7D5 recovery/optional viewing'],
             'scheduling_scope':'Day-level conflicts checked; intraday timings/qualitative durations remain OPEN',
             'raid_eligibility_constraint':'O4D2 Normal Red must be distinct from paid O1D6 boss; exact identities OPEN',
-            'weekly_character_rows_updated':len(changed_weeks),'standing_social_tracks_preserved':True,
+            'weekly_character_rows_updated':len(changed_weeks),'standing_social_tracks_preserved_except_authorized_highlights':True,
             'arc3_beam_cost_date_preserved':True,'post_G6D2_ledger_authority':'CP24','daily_cumulative_gross':daily,
             'sha256':{p:hashlib.sha256((root/p).read_bytes()).hexdigest() for p in inputs}}
 

@@ -1,0 +1,26 @@
+{
+  "package": "MK157 R2/R3 cumulative reverse-diff pouch",
+  "date": "2026-10-07",
+  "files": [
+    "CITY_STACK.md",
+    "EXECUTABLE.md",
+    "GHOST_BASE_BUILDER.md",
+    "MASTER_DELTA.md",
+    "PRISM_DELTA.md",
+    "R2_WEEK2_DELTA.md",
+    "R3_RAID_ROSTER.md",
+    "RAEON_DAILY.md",
+    "REVERSE_DIFF.csv"
+  ],
+  "decision_count": 36,
+  "publication_required": true,
+  "pipeline": [
+    "integrate",
+    "reverse-diff",
+    "validate",
+    "stage",
+    "commit",
+    "push",
+    "verify remote"
+  ]
+}

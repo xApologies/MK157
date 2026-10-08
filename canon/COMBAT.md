@@ -84,3 +84,9 @@ This is a resolved authoring view of existing sources. Explicit later correction
 | [live-model/32_CHECKPOINT_25_ARC7_FINALE.md — White W1 — Trial payoff and core-cracking discovery](../live-model/32_CHECKPOINT_25_ARC7_FINALE.md#white-w1--trial-payoff-and-core-cracking-discovery) | Read with the explicit qualifications and supersessions in this view; section status is item-specific. |
 
 [Local OPEN register](OPEN.md) · [Authority map](AUTHORITY_MAP.json) · [Section and item coverage](../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json)
+
+## R2/R3 first-season Raid design
+
+The R/R/O/O/Y/G roster now has Fire Dragon, Burrower, Coherence Twins, Shardfield creature, Glasswing and Walking Fortress mechanisms. The cavern/six-route environment is WORKING; dated A/B mapping stays OPEN. They are Valnak-designed Transductive constructs/creatures, not ordinary eldris. Anatomy, field geometry, fatigue, positioning and coordination govern difficulty. Walking Fortress’s opposite-end ~5+5 charge/front-limb strategy is emergent player discovery, with no aggro/taunt or Elara tutorial. No new clear is booked.
+
+[Owner 1](../live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster)

@@ -40,7 +40,7 @@ Red -> Orange -> Yellow -> Green -> Blue -> Violet -> White.
 Retail, deck Builder, casual play, tournament infrastructure, browsing/social space.
 
 ## Tournament cadence
-One tournament per Valnak season = 7 total.
+One major seasonal tournament per Valnak season = 7 total, alongside the separate daily program below.
 Weeks 1–4: ordinary play / build / shop / practice.
 Weeks 5–7: tournament bracket.
 Week 7: seasonal championship.
@@ -280,3 +280,25 @@ Interior:
 `raeon` exists civilization-wide through an authorized external production ecosystem between Valnak openings. Outside-produced cards are legitimate property and can be brought into Valnak/authenticated. Valnak also releases cycle-exclusive sets available only during that cycle's release window; existing physical cards remain valid after cycle closes.
 
 These are physical-store operations, not imported videogame UI or new detailed game rules. Genesis Cards remain a separate ecosystem. [Source](../provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md).
+
+## R2/R3 daily raeon tournament
+
+`raeon` is culturally significant and naturally reflects the civilization's mathematics, topology, Genesis-field/basin/configuration culture.
+Exact inventor/history remains OPEN.
+
+Daily tournament:
+- starts **10:00** every Valnak day;
+- registration through Node/Valnak/flagship interface closes **00:00** before allocation;
+- Valnak partitions the registered population into reasonably sized cohorts across available 001 flagship instances;
+- participant receives an instance assignment and selecting the event routes them there;
+- after elimination/completion, normal inter-instance travel resumes;
+- exact bracket algorithm/size OPEN;
+- Daily is separate from the existing seasonal W5–W7 circuit.
+
+WORKING top-six payout:
+1 Violet 300; 2 Blue 240; 3 Green 190; 4 Yellow 150; 5 Orange 110; 6 Red 70.
+Placement colors are iconography only, not basin/card/Binding/combat rank.
+
+The 00:00 registration and 10:00 event appointment apply to this program; the social-clock statement about a single hard anchor concerns dinner/Highlights/sleep, not all world events. Authenticated ownership remains required for sanctioned tournament decks. The established Valnak origin survives; exact inventor and history remain OPEN.
+
+[Approved R2/R3 source](../provenance/diplomatic-pouch-r2-r3/package/RAEON_DAILY.md).

@@ -22,7 +22,7 @@ Valnak/Arcs One–Seven are authorially closed at macro level. Local unknowns, r
 
 Do not reopen W36+ payouts (1,600), final Solo/Duo 100, White W1 Solo 96 intermediate record, Orbs Y6D2, Halo B1D5, two-Orb stability V2D3, three-Orb training V2D4, late V7 application stability, current 19-event 292,772 illi ledger, Arc Five/Six combat calendars, or the separate R/O/Y/G core layer and 63.5M each program. CP25 corrects the master's W2 Duo/W3 Solo/W4 Trio and 41M program; no Trio is booked. A hypothetical future third friend stays unassigned. [Current finale](../live-model/32_CHECKPOINT_25_ARC7_FINALE.md); [Current Arc Six](../live-model/31_CHECKPOINT_24_ARC6_GRADUATION.md).
 
-31-hour days, seven-day Valnak weeks, 25:00 Highlights, W7D5 raeon championships, W7D5–7 Auctions and the White Prism postseason are resolved. Planetary month arithmetic remains unresolved independently. Advanced card ranks are priced, but one specific Blue Fireball stays 86,000 and collectible inventories remain unknown. [Standing clock](../live-model/WORLD_CLOCK.md#2-standing-world-clock-schedule); [Card ladder](../economy/ADVANCED_CARD_PRICES.json).
+31-hour days, seven-day Valnak weeks, 27:00 Highlights, W7D5 raeon championships, W7D5–7 Auctions and the White Prism postseason are resolved. Planetary month arithmetic remains unresolved independently. Advanced card ranks are priced, but one specific Blue Fireball stays 86,000 and collectible inventories remain unknown. [Standing clock](../live-model/WORLD_CLOCK.md#2-standing-world-clock-schedule); [Card ladder](../economy/ADVANCED_CARD_PRICES.json).
 
 ## Working examples and recovery gaps
 
@@ -73,3 +73,13 @@ This is a resolved authoring view of existing sources. Explicit later correction
 ## Arc One R2 qualifications
 
 Royal family model, group recovery rooms, volcanic-island residence, approximate W9 best-gap (~3 kills), R1D3 intraday rhythm, R1D6 #1 Duo condition and a few-hundred-card gallery scale remain WORKING. Exact rival kill totals, names/identities beyond the supplied family, Reaper structure/identity, callsigns, floorplans/room counts, residence prices, shop/venue names, card inventory/White Fireball price, dress costs, flag commission date and chapter count remain OPEN. The existing Duo/first-Solo/friendship chronology RECOVERY_GAP persists; two references to R1D3 do not create two Solos. [R2 sources](../provenance/diplomatic-pouch-arc1-r2/package/EXECUTABLE.md).
+
+## R2/R3 cumulative qualifications
+
+The existing R1D2 shared Duo versus post-R1D3-Solo friendship dinner remains a chronology RECOVERY_GAP. No chapter count, chapter allocation or prose is created. All compatible earlier OPENs survive.
+
+New/current qualifications: property inheritance/availability/auction lifecycle WORKING, exact legal process OPEN; daily raeon top-six payouts WORKING, inventor/history and bracket algorithm/size OPEN; Prism A–D ordinary / Instance-A championship schedule WORKING, exact payout, ticket sale/auction mix and guest capacity OPEN; callsigns and Builder UI/ranking OPEN. Dinner/sleep/wake are cultural ranges, Highlights end ~28:30 WORKING; start 27:00 is LOCKED.
+
+R2D5 scene and possible rival exchange, R2D7 3h15-per-clear and whole-operation/private intervals retain WORKING qualifications. No exact healing ratio, leader/rival name, next-wave death depth or mandatory incidental activity is supplied. R3 cavern layout is WORKING; exact dated A/B boss allocations and extra-clear dates remain OPEN. Additional Red+Orange 6,250 each is conditional wallet surplus, not booked income; actual wallets await chapter outlining. Raid equipment remains unspecified; no extra add-spawn requirement or aggro/taunt is introduced.
+
+[Source decisions](../provenance/diplomatic-pouch-r2-r3/INTEGRATION.json); [36-decision reverse diff](../provenance/diplomatic-pouch-r2-r3/REVERSE_DIFF.csv).

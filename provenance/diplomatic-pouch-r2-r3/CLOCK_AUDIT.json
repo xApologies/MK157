@@ -1,0 +1,171 @@
+{
+  "result": "PASS",
+  "search": "All tracked baseline text plus new pouch files and validator sources; literal25:00 inventory. Active occurrences additionally inspected for Highlights wording and earlier23:30 dinner.",
+  "current_highlights": "27:00",
+  "weekly_rows": 49,
+  "weekly_change": "Only25:00→27:00 byte substitution; no other cell/order changes",
+  "remaining_25_references": [
+    {
+      "path": "live-model/18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md",
+      "line": 30,
+      "classification": "byte-exact CP11 master; explicitly superseded by current World Clock and SUPERSESSIONS"
+    },
+    {
+      "path": "live-model/SUPERSESSIONS.md",
+      "line": 245,
+      "classification": "explicit supersession statement"
+    },
+    {
+      "path": "live-model/WORLD_CLOCK.md",
+      "line": 339,
+      "classification": "explicit supersession statement"
+    },
+    {
+      "path": "provenance/CHECKPOINT_11_AUDIT.json",
+      "line": 72,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/CHECKPOINT_14_BEFORE_REVIEW.json",
+      "line": 131,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/CHECKPOINT_20_BOUNDARY_SEARCH.json",
+      "line": 563,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/CHECKPOINT_20_BOUNDARY_SEARCH.json",
+      "line": 781,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/checkpoint-11-package/18_CHECKPOINT_11_ECONOMY_CARDS_HANDOFF.md",
+      "line": 30,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/checkpoint-11-package/EXECUTABLE.md",
+      "line": 39,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-arc1-r2/COMPLETION.json",
+      "line": 69,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md",
+      "line": 11,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-arc1-r2/package/02_RED_WEEK1.md",
+      "line": 22,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-arc1-r2/package/09_AUDIT_NOTES.md",
+      "line": 21,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-r2-r3/CLOCK_AUDIT.json",
+      "line": 3,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-r2-r3/CLOCK_AUDIT.json",
+      "line": 6,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-r2-r3/INTEGRATION.json",
+      "line": 760,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-r2-r3/REVERSE_DIFF.csv",
+      "line": 2,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-r2-r3/package/EXECUTABLE.md",
+      "line": 18,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md",
+      "line": 4,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/diplomatic-pouch-r2-r3/package/REVERSE_DIFF.csv",
+      "line": 2,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "provenance/maintenance/authoring-cleanup-r1/SOURCE_STATUS_DECISIONS.md",
+      "line": 16,
+      "classification": "historical source or recorded evidence; superseded time is not governing"
+    },
+    {
+      "path": "tools/validation/README.md",
+      "line": 38,
+      "classification": "documented historical test/comparison input, not a current schedule"
+    },
+    {
+      "path": "tools/validation/test_clock_promotion.py",
+      "line": 21,
+      "classification": "documented historical test/comparison input, not a current schedule"
+    },
+    {
+      "path": "tools/validation/test_clock_promotion.py",
+      "line": 22,
+      "classification": "documented historical test/comparison input, not a current schedule"
+    },
+    {
+      "path": "tools/validation/test_clock_promotion.py",
+      "line": 23,
+      "classification": "documented historical test/comparison input, not a current schedule"
+    },
+    {
+      "path": "tools/validation/test_clock_promotion.py",
+      "line": 29,
+      "classification": "documented historical test/comparison input, not a current schedule"
+    },
+    {
+      "path": "tools/validation/test_clock_promotion.py",
+      "line": 40,
+      "classification": "documented historical test/comparison input, not a current schedule"
+    },
+    {
+      "path": "tools/validation/test_clock_promotion.py",
+      "line": 42,
+      "classification": "documented historical test/comparison input, not a current schedule"
+    },
+    {
+      "path": "tools/validation/validate_clock_promotion.py",
+      "line": 18,
+      "classification": "documented historical test/comparison input, not a current schedule"
+    },
+    {
+      "path": "tools/validation/validate_clock_promotion.py",
+      "line": 24,
+      "classification": "documented historical test/comparison input, not a current schedule"
+    },
+    {
+      "path": "tools/validation/validate_clock_promotion.py",
+      "line": 35,
+      "classification": "documented historical test/comparison input, not a current schedule"
+    },
+    {
+      "path": "world-clock/WORLD_CLOCK.md",
+      "line": 331,
+      "classification": "explicit supersession statement"
+    }
+  ],
+  "governing_25_references": 0,
+  "historical_cp11_bytes_preserved": true
+}
