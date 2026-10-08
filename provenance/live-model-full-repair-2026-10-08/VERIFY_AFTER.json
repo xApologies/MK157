@@ -1,0 +1,224 @@
+{
+  "result": "PASS",
+  "baseline": "22f806aaa5eed0a6ff0534fb186c6d1fbb59687f",
+  "checks": [
+    {
+      "item": 1,
+      "result": "PASS",
+      "evidence": {
+        "calendar": "R5D4 OPEN",
+        "stale_current_owner_claims": []
+      }
+    },
+    {
+      "item": 2,
+      "result": "PASS",
+      "evidence": "R7D6 10:00 knockout/Duo W10; R7D7 unchanged"
+    },
+    {
+      "item": 3,
+      "result": "PASS",
+      "evidence": "O5D1/O5D6 OPEN across current owners"
+    },
+    {
+      "item": 4,
+      "result": "PASS",
+      "evidence": "O7D5 recovery; O7D6 10:00 knockout before Duo; O7D7 unchanged"
+    },
+    {
+      "item": 5,
+      "result": "PASS",
+      "evidence": "PC/Legacy O1D3 952; Absorption O2D2 42; CSR O2D3 61,017"
+    },
+    {
+      "item": 6,
+      "result": "PASS",
+      "evidence": "O1D6 six outcomes plus second Red actual surplus ledger row"
+    },
+    {
+      "item": 7,
+      "result": "PASS",
+      "evidence": "O4D2 Black Orchard 3,750; Red repeats zero"
+    },
+    {
+      "item": 8,
+      "result": "PASS",
+      "evidence": {
+        "stored_equals_fresh": true,
+        "event_counts": {
+          "Duo Trial": 9,
+          "Kira Solo": 6,
+          "Dungeon": 7,
+          "OPEN": 12,
+          "Raid": 1,
+          "Hard Raid": 1,
+          "domai": 2,
+          "Recovery": 1
+        },
+        "gross": {
+          "illi": 56385,
+          "kira": 81415
+        },
+        "dates": [
+          {
+            "date": "R7D6",
+            "time": "10:00",
+            "outcome": "seasonal entry / early knockout",
+            "same_day_combat": "Duo Trial W10",
+            "per_participant_credits": 1950
+          },
+          {
+            "date": "O7D6",
+            "time": "10:00",
+            "outcome": "seasonal entry / early knockout",
+            "same_day_combat": "Duo Trial → W17",
+            "per_participant_credits": 5805
+          }
+        ],
+        "raid": "Both Normal Reds paid O1D6; O4D2 Red repeats unpaid; Black Orchard Orange-A pays once. No third Red."
+      }
+    },
+    {
+      "item": 9,
+      "result": "PASS",
+      "evidence": "63 sourced ledger rows in both mirrors"
+    },
+    {
+      "item": 10,
+      "result": "PASS",
+      "evidence": {
+        "row_differences": {
+          "json": [],
+          "csv": []
+        },
+        "income_by_kind": {
+          "No booked Kira reward": 0,
+          "Duo Trial": 20945,
+          "Kira Solo": 6405,
+          "Normal Dungeon": 22605,
+          "illi-only Solo excluded": 0,
+          "Normal Raid": 8750
+        }
+      }
+    },
+    {
+      "item": 11,
+      "result": "PASS",
+      "evidence": {
+        "computed": 63705,
+        "author_checkpoint": 63705,
+        "difference": 0
+      }
+    },
+    {
+      "item": 12,
+      "result": "PASS",
+      "evidence": {
+        "result": "PASS",
+        "scope": "Sourced numeric transactions only; exact actual wallet remains OPEN",
+        "authored_combat_gross_before_CSR": 63705,
+        "entry_grant": 2000,
+        "locked_numeric_pre_CSR_spend": 0,
+        "known_transaction_funds_before_CSR": 65705,
+        "CSR_cost": 61017,
+        "known_transaction_balance_after_CSR": 4688,
+        "combat_gross_less_CSR": 2688,
+        "actual_pre_CSR_balance": null,
+        "actual_post_CSR_balance": null,
+        "unquantified_debits": [
+          "Armor: approximately 1,000, not numerically locked",
+          "Discretionary life spending"
+        ],
+        "actual_affordability_condition": "Unquantified pre-CSR debits <= 4688; no such spending is assumed zero",
+        "failure_detail": null
+      }
+    },
+    {
+      "item": 13,
+      "result": "PASS",
+      "evidence": "Arc Two current scaffold corrected in place"
+    },
+    {
+      "item": 14,
+      "result": "PASS",
+      "evidence": "All three mirrored combat-owner statements corrected"
+    },
+    {
+      "item": 15,
+      "result": "PASS",
+      "evidence": "Both World Clock owners and raeon owner agree with dated calendars"
+    },
+    {
+      "item": 16,
+      "result": "PASS",
+      "evidence": "Hard doctrine and Orange boss roster sections byte-preserved (apart from surrounding line endings)"
+    },
+    {
+      "item": 17,
+      "result": "PASS",
+      "evidence": "Family, Kaevren, conventional bow and bookstore/festival registry survive unchanged"
+    },
+    {
+      "item": 18,
+      "result": "PASS",
+      "evidence": {
+        "all_existing_calendar_data_and_numbered_provenance_unchanged": true,
+        "drift": []
+      }
+    },
+    {
+      "item": 19,
+      "result": "PASS",
+      "evidence": "Every preexisting calendar CSV/JSON unchanged from fetched baseline; no combat event moved"
+    },
+    {
+      "item": 20,
+      "result": "PASS",
+      "evidence": {
+        "dependent_stored_audits_equal_fresh": true,
+        "calendar_mirrors": "PASS",
+        "remote_blob_check": "Publication receipt verifies every resulting commit blob after fetch; this function is read-only on the supplied tree."
+      }
+    }
+  ],
+  "kira": {
+    "result": "PASS",
+    "errors": [],
+    "rows": 63,
+    "minimum_combat_gross": 58705,
+    "authored_actual_surplus": 5000,
+    "authored_actual_combat_gross": 63705,
+    "expected_author_checkpoint": 63705,
+    "checkpoint_difference": 0,
+    "income_by_kind": {
+      "No booked Kira reward": 0,
+      "Duo Trial": 20945,
+      "Kira Solo": 6405,
+      "Normal Dungeon": 22605,
+      "illi-only Solo excluded": 0,
+      "Normal Raid": 8750
+    },
+    "affordability": {
+      "result": "PASS",
+      "scope": "Sourced numeric transactions only; exact actual wallet remains OPEN",
+      "authored_combat_gross_before_CSR": 63705,
+      "entry_grant": 2000,
+      "locked_numeric_pre_CSR_spend": 0,
+      "known_transaction_funds_before_CSR": 65705,
+      "CSR_cost": 61017,
+      "known_transaction_balance_after_CSR": 4688,
+      "combat_gross_less_CSR": 2688,
+      "actual_pre_CSR_balance": null,
+      "actual_post_CSR_balance": null,
+      "unquantified_debits": [
+        "Armor: approximately 1,000, not numerically locked",
+        "Discretionary life spending"
+      ],
+      "actual_affordability_condition": "Unquantified pre-CSR debits <= 4688; no such spending is assumed zero",
+      "failure_detail": null
+    }
+  },
+  "protected_files_checked": 568,
+  "stale_current_owner_claims": [],
+  "history_scope": "Numbered checkpoint records, provenance, pre-repair audit snapshots and past report hashes describe their pinned revisions, never current alternate Red/Orange facts."
+}

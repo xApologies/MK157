@@ -297,7 +297,7 @@
           "section": "whole record / document",
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
-          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 conflict resolved: both Reds pay O1D6, O4D2 repeats unpaid and Black Orchard pays3,750 only.",
           "current_destinations": [
             "live-model/01_KIRA.md#october-8--household-and-rival",
             "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
@@ -377,6 +377,27 @@
             "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
             "world-clock/ILLI_PROGRESSION_SKELETON.json"
           ]
+        },
+        {
+          "path": "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md",
+          "section": "Complete current Red/Orange delta",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current explicit repair source; compatible earlier detail and OPEN qualifications survive."
+        },
+        {
+          "path": "world-clock/KIRA_CREDIT_LEDGER.json",
+          "section": "Kira sourced transactions through O2D3",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Independent Kira event/reward computation; known numeric balance is not an exact wallet; Armor/discretionary debits OPEN."
+        },
+        {
+          "path": "provenance/live-model-full-repair-2026-10-08/package/package/KIRA_LEDGER_SPEC.md",
+          "section": "Kira sourced transactions through O2D3",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Independent Kira event/reward computation; known numeric balance is not an exact wallet; Armor/discretionary debits OPEN."
         }
       ],
       "open_status": "OPEN: exact anatomy, CSR/Domain timestamps, support names/count, Halo final visual, Orb ontology and full mastery, indefinite multi-Orb sustainment and Elara identity semantics."
@@ -600,7 +621,7 @@
           "section": "whole record / document",
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
-          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 conflict resolved: both Reds pay O1D6, O4D2 repeats unpaid and Black Orchard pays3,750 only.",
           "current_destinations": [
             "live-model/01_KIRA.md#october-8--household-and-rival",
             "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
@@ -689,6 +710,13 @@
             "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
             "world-clock/ILLI_PROGRESSION_SKELETON.json"
           ]
+        },
+        {
+          "path": "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md",
+          "section": "Complete current Red/Orange delta",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current explicit repair source; compatible earlier detail and OPEN qualifications survive."
         }
       ],
       "open_status": "OPEN: rank-up dates after B6D3, final discretionary balances, future Solo standing beyond demonstrated milestones, specific social purchases and later Decoherence details."
@@ -828,7 +856,7 @@
           "section": "whole record / document",
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
-          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 conflict resolved: both Reds pay O1D6, O4D2 repeats unpaid and Black Orchard pays3,750 only.",
           "current_destinations": [
             "live-model/01_KIRA.md#october-8--household-and-rival",
             "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
@@ -1081,7 +1109,7 @@
           "section": "whole record / document",
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
-          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 conflict resolved: both Reds pay O1D6, O4D2 repeats unpaid and Black Orchard pays3,750 only.",
           "current_destinations": [
             "live-model/01_KIRA.md#october-8--household-and-rival",
             "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
@@ -1169,6 +1197,13 @@
             "canon/COMBAT.md",
             "combat-rewards/README.md"
           ]
+        },
+        {
+          "path": "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md",
+          "section": "Complete current Red/Orange delta",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current explicit repair source; compatible earlier detail and OPEN qualifications survive."
         }
       ],
       "open_status": "OPEN: planet name, exact external time conversion, population/routing implementation, credential synchronization, generic Legacy discounts and unsupplied calendars."
@@ -1669,7 +1704,7 @@
           "section": "whole record / document",
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
-          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 conflict resolved: both Reds pay O1D6, O4D2 repeats unpaid and Black Orchard pays3,750 only.",
           "current_destinations": [
             "live-model/01_KIRA.md#october-8--household-and-rival",
             "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
@@ -1798,6 +1833,13 @@
             "canon/COMBAT.md",
             "combat-rewards/README.md"
           ]
+        },
+        {
+          "path": "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md",
+          "section": "Complete current Red/Orange delta",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current explicit repair source; compatible earlier detail and OPEN qualifications survive."
         }
       ],
       "open_status": "OPEN: exact cap/inflow, extreme recovery physiology, encounter maps/populations, Hard/Raid runtimes, contribution/bonus formulas and unprovided core outcomes."
@@ -2078,7 +2120,7 @@
           "section": "whole record / document",
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
-          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 conflict resolved: both Reds pay O1D6, O4D2 repeats unpaid and Black Orchard pays3,750 only.",
           "current_destinations": [
             "live-model/01_KIRA.md#october-8--household-and-rival",
             "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
@@ -2167,6 +2209,27 @@
             "live-model/RAEON.md",
             "live-model/WORLD_CLOCK.md"
           ]
+        },
+        {
+          "path": "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md",
+          "section": "Complete current Red/Orange delta",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current explicit repair source; compatible earlier detail and OPEN qualifications survive."
+        },
+        {
+          "path": "world-clock/KIRA_CREDIT_LEDGER.json",
+          "section": "Kira sourced transactions through O2D3",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Independent Kira event/reward computation; known numeric balance is not an exact wallet; Armor/discretionary debits OPEN."
+        },
+        {
+          "path": "provenance/live-model-full-repair-2026-10-08/package/package/KIRA_LEDGER_SPEC.md",
+          "section": "Kira sourced transactions through O2D3",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Independent Kira event/reward computation; known numeric balance is not an exact wallet; Armor/discretionary debits OPEN."
         }
       ],
       "open_status": "OPEN: actual cashflows, unsupplied contextual awards, partial/bonus formulas, discretionary inventory and Ring price. Historical numeric snapshots are not current balances."
@@ -2465,7 +2528,7 @@
           "section": "whole record / document",
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
-          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 conflict resolved: both Reds pay O1D6, O4D2 repeats unpaid and Black Orchard pays3,750 only.",
           "current_destinations": [
             "live-model/01_KIRA.md#october-8--household-and-rival",
             "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
@@ -2796,6 +2859,13 @@
             "live-model/RAEON.md",
             "live-model/WORLD_CLOCK.md"
           ]
+        },
+        {
+          "path": "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md",
+          "section": "Complete current Red/Orange delta",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current explicit repair source; compatible earlier detail and OPEN qualifications survive."
         }
       ],
       "open_status": "OPEN: exact card/set inventory, print quantities, exceptional lots, publisher legal identity, tournament details and personal spending."
@@ -3007,7 +3077,7 @@
           "section": "whole record / document",
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
-          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 conflict resolved: both Reds pay O1D6, O4D2 repeats unpaid and Black Orchard pays3,750 only.",
           "current_destinations": [
             "live-model/01_KIRA.md#october-8--household-and-rival",
             "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
@@ -3380,7 +3450,7 @@
           "section": "whole record / document",
           "anchor": null,
           "status": "PARTIALLY_SUPERSEDED",
-          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+          "authority_reason": "October8 explicit author source, retaining scoped qualifications: Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 conflict resolved: both Reds pay O1D6, O4D2 repeats unpaid and Black Orchard pays3,750 only.",
           "current_destinations": [
             "live-model/01_KIRA.md#october-8--household-and-rival",
             "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
@@ -3511,6 +3581,13 @@
             "canon/COMBAT.md",
             "combat-rewards/README.md"
           ]
+        },
+        {
+          "path": "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md",
+          "section": "Complete current Red/Orange delta",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Current explicit repair source; compatible earlier detail and OPEN qualifications survive."
         }
       ],
       "open_status": "Local OPENs are protected canon states, not unfinished maintenance. Source review completeness is reported independently in coverage and completion evidence."

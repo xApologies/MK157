@@ -17,6 +17,10 @@
     {
       "id": "diplomatic-pouch-2026-10-08",
       "manifest": "provenance/diplomatic-pouch-2026-10-08/INTEGRATION.json"
+    },
+    {
+      "id": "live-model-full-repair-2026-10-08",
+      "manifest": "provenance/live-model-full-repair-2026-10-08/INTEGRATION.json"
     }
   ]
 }

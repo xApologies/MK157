@@ -1,0 +1,236 @@
+{
+  "total": 57,
+  "modified": 31,
+  "added": 26,
+  "deleted_or_renamed": 0,
+  "files": [
+    {
+      "status": "M",
+      "path": "CANON_STATUS.md"
+    },
+    {
+      "status": "M",
+      "path": "README.md"
+    },
+    {
+      "status": "M",
+      "path": "THREAD_DEVELOPMENT_CONSTITUTION.md"
+    },
+    {
+      "status": "M",
+      "path": "canon/AUTHORITY_MAP.json"
+    },
+    {
+      "status": "M",
+      "path": "canon/ECONOMY.md"
+    },
+    {
+      "status": "M",
+      "path": "canon/PROMOTIONS.json"
+    },
+    {
+      "status": "M",
+      "path": "canon/characters/KIRA.md"
+    },
+    {
+      "status": "M",
+      "path": "data/INDEX.md"
+    },
+    {
+      "status": "M",
+      "path": "economy/AUDIT.json"
+    },
+    {
+      "status": "M",
+      "path": "live-model/04_COMBAT_WORLD.md"
+    },
+    {
+      "status": "M",
+      "path": "live-model/COMBAT_ECOLOGY.md"
+    },
+    {
+      "status": "M",
+      "path": "live-model/COMBAT_THRESHOLDS.md"
+    },
+    {
+      "status": "M",
+      "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md"
+    },
+    {
+      "status": "M",
+      "path": "live-model/INDEX.md"
+    },
+    {
+      "status": "M",
+      "path": "live-model/PARTNERSHIP_AND_CARRY.md"
+    },
+    {
+      "status": "M",
+      "path": "live-model/STORY_CLOCK_STATE.md"
+    },
+    {
+      "status": "M",
+      "path": "live-model/SUPERSESSIONS.md"
+    },
+    {
+      "status": "M",
+      "path": "live-model/WORLD_CLOCK.md"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/BASELINE.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/CHANGED_FILES.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/INTEGRATION.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/KIRA_CREDIT_AUDIT.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/PREFLIGHT.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/PRESERVATION_REPORT.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/REVERSE_DIFF.csv"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/VALIDATION_AFTER.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/VERIFY_AFTER.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/before-audits/economy/AUDIT.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/before-audits/world-clock/ARC3_ECONOMY_AUDIT.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/before-audits/world-clock/ARC4_HANDOFF_AUDIT.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/before-audits/world-clock/CALENDAR_AUDIT.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/package/EXECUTABLE.md"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/package/MANIFEST.json"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/package/package/KIRA_LEDGER_SPEC.md"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/package/package/STALE_GIT_AUDIT.md"
+    },
+    {
+      "status": "A",
+      "path": "provenance/live-model-full-repair-2026-10-08/package/package/VERIFY_AFTER.md"
+    },
+    {
+      "status": "M",
+      "path": "story/ARC_02/ARC.md"
+    },
+    {
+      "status": "M",
+      "path": "tools/validation/README.md"
+    },
+    {
+      "status": "A",
+      "path": "tools/validation/test_full_repair.py"
+    },
+    {
+      "status": "A",
+      "path": "tools/validation/test_kira_ledger.py"
+    },
+    {
+      "status": "M",
+      "path": "tools/validation/validate_authoring.py"
+    },
+    {
+      "status": "A",
+      "path": "tools/validation/validate_full_repair.py"
+    },
+    {
+      "status": "A",
+      "path": "tools/validation/validate_kira_ledger.py"
+    },
+    {
+      "status": "M",
+      "path": "tools/validation/validate_promotions.py"
+    },
+    {
+      "status": "M",
+      "path": "world-clock/ARC3_ECONOMY_AUDIT.json"
+    },
+    {
+      "status": "M",
+      "path": "world-clock/ARC3_ORANGE_CALENDAR.md"
+    },
+    {
+      "status": "M",
+      "path": "world-clock/ARC4_HANDOFF_AUDIT.json"
+    },
+    {
+      "status": "M",
+      "path": "world-clock/CALENDAR_AUDIT.json"
+    },
+    {
+      "status": "A",
+      "path": "world-clock/KIRA_CREDIT_LEDGER.csv"
+    },
+    {
+      "status": "A",
+      "path": "world-clock/KIRA_CREDIT_LEDGER.json"
+    },
+    {
+      "status": "M",
+      "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md"
+    },
+    {
+      "status": "M",
+      "path": "world-clock/WORLD_CLOCK.md"
+    },
+    {
+      "status": "M",
+      "path": "world-clock/validate_arc3.py"
+    },
+    {
+      "status": "M",
+      "path": "world-clock/validate_arc5.py"
+    },
+    {
+      "status": "M",
+      "path": "world-clock/validate_arc7.py"
+    }
+  ]
+}

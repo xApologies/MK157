@@ -39,7 +39,7 @@ Kira/illi gain a reputation for unusually persistent combat/death exposure and a
 
 ## Checkpoint 19 continuation and cultural appointment
 
-The [current Arc Three calendar](ARC3_ORANGE_CALENDAR.md) covers O2D4–O7D7. October8 explicitly supersedes the former R5D4/O5D1/O5D6 personal tournament appointments and O7D5 viewing. R7D6/O7D6 now contain seasonal10:00 entry/early knockout before the existing Duo. O4D2 repeats already-paid Reds without reward and clears Black Orchard for3,750 only. Historical CP19 packages/audits remain evidence of the prior state.
+The [current Arc Three calendar](ARC3_ORANGE_CALENDAR.md) covers O2D4–O7D7. October8 explicitly supersedes the former R5D4/O5D1/O5D6 personal tournament appointments and O7D5 viewing. R7D6/O7D6 now contain seasonal10:00 entry/early knockout before the existing Duo. O4D2 repeats already-paid Reds without reward and clears Black Orchard for3,750 only. Historical CP19 packages and archived audits remain evidence of the prior state; current derived audit owners are regenerated from the corrected calendars.
 
 ## October 8 repair — current author overlay
 

@@ -197,7 +197,7 @@ def audit(root):
         error = target_error('README.md', path)
         require(not error, f'owner/metadata target {path}: {error}')
     promotions = audit_promotions(root, git, require, root_target)
-    require(all(p in {'AGENTS.md', 'CANON_STATUS.md'} or p in promotions['asset_paths'] or p.startswith(PREFIXES + promotions['prefixes']) for p in added), 'new path outside allowed surfaces')
+    require(all(p in {'AGENTS.md', 'CANON_STATUS.md'} or p in promotions['asset_paths'] or p in promotions['owner_paths'] or p.startswith(PREFIXES + promotions['prefixes']) for p in added), 'new path outside allowed surfaces')
     checks['author_promotions'] = promotions['reports']
     def git_read(revision_path): return subprocess.check_output(git + ['show', revision_path])
     for topic in authority['topics']:

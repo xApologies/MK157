@@ -211,7 +211,7 @@
       "DUNGEON_REWARDS.csv": "9ec5ec8bc647733127d0b6ee513af0e8563fd35630616e740757ab691e860419",
       "RAID_BOSS_REWARDS.csv": "df6044fac5e0651eaf89adcef7f75a30cf9088afbf28b6085d98a227a51531a1",
       "COMBAT_REWARD_TABLES.json": "b0f7850d00bb2ca95508e0d527a5173213a2c54d7ed42524a2a9d246d888c02f",
-      "README.md": "a46aa5f202cec8abdd7cbfddace531a56ad3b90c775def36605a863c3b249671",
+      "README.md": "4d5c998a8d18fcc5647f6451484f38adc8665e4770733fbaf0932e3f7eaa709d",
       "validate_rewards.py": "68585569734a26b258850749660216231ca5210cbb1d34f447187e40c91adb0b",
       "builder/encounters/eldris/MANIFEST.json": "75f7c3f114b7001ea16044e3c99f3b693bf4271df542519cf40bbb98a284186f"
     }
@@ -219,7 +219,7 @@
   "illi_ledger": {
     "rows": 19,
     "total": 292772,
-    "first_13_dates_authority": "Original milestones except explicit October8 PC/Legacy O1D3 and Absorption O2D2 correction",
+    "first_13_dates_preserved": true,
     "post_G6D2_authority": "CP24 six-event replacement",
     "events": [
       {
@@ -257,7 +257,7 @@
       {
         "season": "Orange",
         "week": 1,
-        "day": 3,
+        "day": 4,
         "purchase_or_upgrade": "Persistent Coherence → Blue",
         "cost": 25705,
         "cumulative_progression_spend": 45303
@@ -265,7 +265,7 @@
       {
         "season": "Orange",
         "week": 1,
-        "day": 3,
+        "day": 4,
         "purchase_or_upgrade": "Accept White Legacy",
         "cost": 0,
         "cumulative_progression_spend": 45303
@@ -273,7 +273,7 @@
       {
         "season": "Orange",
         "week": 2,
-        "day": 2,
+        "day": 3,
         "purchase_or_upgrade": "Absorption Shield → Red",
         "cost": 9350,
         "cumulative_progression_spend": 54653
@@ -425,7 +425,7 @@
       {
         "season": "Orange",
         "week": 1,
-        "day": 3,
+        "day": 4,
         "purchase": "Persistent Coherence → Blue / White Legacy qualifies",
         "balance_before": 26657,
         "cost": 25705,
@@ -434,7 +434,7 @@
       {
         "season": "Orange",
         "week": 2,
-        "day": 2,
+        "day": 3,
         "purchase": "Absorption Shield → Red (White Legacy 55%)",
         "balance_before": 9392,
         "cost": 9350,
@@ -476,11 +476,11 @@
     "summons/PRIME_ELEMENTAL_PRICING.csv": "66602689dbad2886f75e0bc9618b516a6d2d65719c9e0a05dd0ac614d786d598",
     "trial-rewards/TRIAL_WAVE_CREDITS.csv": "53faa16faf4ff1f52cf63109b47d4b67317c837e8c8c23283d045dcb33941f5f",
     "trial-rewards/TRIAL_WAVE_CREDITS.json": "d3139b9821d315c2d7e00c4e07838571cd654df14d8fe7f1be9b497b9169a7b0",
-    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv": "841c29be1c5bacba3176c005876ec98633eeacddbc22e55d038dae7947c27ba4",
-    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json": "3190fbcf39d911b01733e46fa862f4361c664e0706c4caa5e90e940ec2feb557",
-    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv": "74dea62969d5d08fc90c6f28c7e8782c3cd55e8d967b9769b06399c2f2025f46",
-    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json": "a60ecb0d4a57b66faf9f6dd79b0c1abd861f8918fa04d05262189d75222bfeac",
+    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv": "a68bb2816b84167bf9ffda0cefbdb7659ec66a309750043631d61c148b233ef0",
+    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json": "0414425a6d94461fc2ea81c905bde475cf67a42a7ac0d0ea6ae41646ea7129e0",
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv": "95750b0b3c1c5f6f566b9ae102a6379dda79014c6ed4de266f0150ce52853b42",
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json": "1d1ba6c8cdd7c1b7d145e264a4254fdde3242319c17c5a895e12c33dc6d2b85a",
     "combat-rewards/DOMAI_PARTICIPATION_RULES.json": "f568dd9fc1a2c83d79368cee1e12be7b42786abbe4e8254e2eb4878fec4a4c0d",
-    "economy/validate_economy.py": "b908c44d7b06c67775e833540c2ff1aaa3240c6d23232ade9c928690388b0521"
+    "economy/validate_economy.py": "fc393bea5adaedfda27bded051c4dc71937ce6c47bc56f1128b72d783ec7a014"
   }
 }

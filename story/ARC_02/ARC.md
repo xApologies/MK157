@@ -17,7 +17,7 @@ The authoritative early calendar assigns R1D2 Duo W5, R1D3 Kira Solo W8, R1D4 Re
 
 illi ranks PC Orange R2D3, Yellow R4D2, Green R6D4 and Blue O1D3. Blue grants White Legacy access; Absorption Red O2D2 is the endpoint purchase. Kira prioritizes CSR before the later card indulgence; its purchase is locked to O2D3 at61,017. Immediate Green Trial capability after CSR belongs to the next arc's explicit rows. [Purchase sequence](../../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md#economy-and-purchase-gates); [CSR handoff](../../world-clock/ARC3_ORANGE_CALENDAR.md#locked-combat-and-income).
 
-Other fixed scaffold anchors: R3D2 Normal Red clear/Orange failures; R5D1–2 domai with no conquest payout, R5D3 recovery; R5D4 raeon participation/elimination with no required combat; R6D6 repeated paid-before Red boss awards no new major credit, then Orange first clear; O1D6 a new-season Red clear. Repeated Orange Dungeons are legitimate early group ecology. Optional failed Yellow ideas are not additional required events.
+Other fixed scaffold anchors: R3D2 Normal Red clear/Orange failures; R5D1–2 domai with no conquest payout, R5D3 recovery; R5D4 OPEN with no seasonal tournament; R6D6 repeated paid-before Red boss awards no new major credit, then Orange first clear; O1D6 Sixfold and Triumvirate Red clears paying 5,000 each actual (2,500 minimum plus 2,500 surplus), Black Orchard failure and later bosses not attempted. Repeated Orange Dungeons are legitimate early group ecology. Optional failed Yellow ideas are not additional required events.
 
 ## Developed Red scene clock — R2
 
@@ -33,7 +33,7 @@ illi chooses partnership while retaining royal/family ties and the original coho
 
 ## Economy and transition
 
-illi combat income through O2D2 is 52,695. Grant 2,000 plus that income funds 54,653 progression through O2D2, leaving 42. O1D3 after-PC balance is 952. PC through Blue is full-price 45,303; post-acceptance Absorption Red costs 9,350 under 55% HALF_UP. This account excludes discretionary life and Kira-only Solo income. Preserve all 21 NO REQUIRED COMBAT rows across the 59-day scaffold. Kira's source does not provide an analogous complete cash account.
+illi combat income through O2D2 is 52,695. Grant 2,000 plus that income funds 54,653 progression through O2D2, leaving 42. O1D3 after-PC balance is 952. PC through Blue is full-price 45,303; post-acceptance Absorption Red costs 9,350 under 55% HALF_UP. This account excludes discretionary life and Kira-only Solo income. Preserve all 21 NO REQUIRED COMBAT rows across the 59-day scaffold. Kira’s independently sourced [credit ledger](../../world-clock/KIRA_CREDIT_LEDGER.json) now reconstructs 58,705 minimum combat gross plus 5,000 authored surplus = 63,705 through O2D3. The 2,000 entry grant is separate; CSR costs 61,017. Known-transaction balance is 65,705 before / 4,688 after CSR, before unquantified Armor and discretionary debits; her exact wallet remains OPEN.
 
 Exit into Arc Three is O2D4 with Armor/CSR, PC Blue/Absorption Red and White Legacy accepted. The later Beam milestone is not advanced merely because funds exist.
 

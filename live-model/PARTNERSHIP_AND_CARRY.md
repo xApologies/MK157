@@ -50,7 +50,7 @@ Checkpoint 18 preserves these partnership/carry rules. During Red Season, Kira/i
 
 ## Checkpoint 19 — Arc Three scope
 
-The [Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) gives Kira six independent Solo runs while illi does not meaningfully Solo. Ten OPEN days protect their relationships, royal/family and city lives. In this arc, discretionary spending emphasizes new-cycle raeon cards/decks and Genesis Cards (Kira particularly Fireball), with no meaningful Auction purchases assigned. Exact spending remains OPEN. illi deliberately retains 6,050 for Y1D2 Beam; affordability does not force earlier acquisition. Checkpoint 20 supersedes Kira's endpoint Orb-reserve objective: she buys the 86,000-credit Blue Fireball card and rebuilds 61,017 for Orbs inside Arc Four. These arc-specific choices preserve the broader later economy and Project Princess Carry.
+The [Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) gives Kira six independent Solo runs while illi does not meaningfully Solo. Twelve OPEN days protect their relationships, royal/family and city lives. In this arc, discretionary spending emphasizes new-cycle raeon cards/decks and Genesis Cards (Kira particularly Fireball), with no meaningful Auction purchases assigned. Exact spending remains OPEN. illi deliberately retains 6,050 for Y1D2 Beam; affordability does not force earlier acquisition. Checkpoint 20 supersedes Kira's endpoint Orb-reserve objective: she buys the 86,000-credit Blue Fireball card and rebuilds 61,017 for Orbs inside Arc Four. These arc-specific choices preserve the broader later economy and Project Princess Carry.
 
 ## Checkpoint 20 — independent lives and recovery
 

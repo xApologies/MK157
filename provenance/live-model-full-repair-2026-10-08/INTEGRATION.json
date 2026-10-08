@@ -1,0 +1,481 @@
+{
+  "id": "live-model-full-repair-2026-10-08",
+  "baseline_commit": "22f806aaa5eed0a6ff0534fb186c6d1fbb59687f",
+  "source_documents": [
+    {
+      "source": "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Tournament/calendar corrections",
+          "body_sha256": "2eb1602c15fc959c4a4d8b1734c781a7fe2ff9fd29eed31dad459149d9113e44",
+          "paragraphs": [
+            {
+              "sha256": "2eb1602c15fc959c4a4d8b1734c781a7fe2ff9fd29eed31dad459149d9113e44",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "world-clock/WORLD_CLOCK.md",
+                "live-model/RAEON.md",
+                "world-clock/WORLD_CLOCK_TEMPLATE.csv",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json",
+                "world-clock/ARC3_ORANGE_CALENDAR.json",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Purchases",
+          "body_sha256": "e509f73dfd3cc2fb3f1fa99effd7de6f173026662316006f080ba1d8fda05b35",
+          "paragraphs": [
+            {
+              "sha256": "e509f73dfd3cc2fb3f1fa99effd7de6f173026662316006f080ba1d8fda05b35",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Red authored extras",
+          "body_sha256": "e3abf419962a3f44aeb7bbbe847a914f3da6bb3700759211eb7d799a747ca999",
+          "paragraphs": [
+            {
+              "sha256": "e3abf419962a3f44aeb7bbbe847a914f3da6bb3700759211eb7d799a747ca999",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "live-model/01_KIRA.md",
+                "live-model/ILLI_PROGRESSION.md",
+                "live-model/STORY_CLOCK_STATE.md",
+                "visual-references/CITY_LOCATION_REGISTRY.csv",
+                "world-clock/KIRA_CREDIT_LEDGER.json"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Orange Normal Raid",
+          "body_sha256": "9aa126a2383a75fdc83779e6ecc02439f68b4c5465d77cd6d9323eb0bd9f5853",
+          "paragraphs": [
+            {
+              "sha256": "683eaaf5e28ae47be746972ba252d30f6bb2f5d4bb98133ad923e91b9e0eadd9",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md",
+                "live-model/COMBAT_ECOLOGY.md",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "world-clock/ARC3_ECONOMY_AUDIT.json"
+              ]
+            },
+            {
+              "sha256": "f0372053bb0e0a0694ba8dcba740c965156cd4a48c4d2a226c9c499a6d626111",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md",
+                "live-model/COMBAT_ECOLOGY.md",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "world-clock/ARC3_ECONOMY_AUDIT.json"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Hard Raid",
+          "body_sha256": "6bb5b3c9e0ac066cf9e2c423aa9ad78a956cb60f8493ad351b79c8dc05e33387",
+          "paragraphs": [
+            {
+              "sha256": "6bb5b3c9e0ac066cf9e2c423aa9ad78a956cb60f8493ad351b79c8dc05e33387",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "live-model/COMBAT_ECOLOGY.md",
+                "live-model/04_COMBAT_WORLD.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Orange social/scene overlay",
+          "body_sha256": "6a4685033c40a1f94f46fb5d3b7d5aa9bf9732662e7c6c6548218860bc6da607",
+          "paragraphs": [
+            {
+              "sha256": "6a4685033c40a1f94f46fb5d3b7d5aa9bf9732662e7c6c6548218860bc6da607",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md",
+                "story/ARC_03/ARC.md",
+                "world-clock/ARC3_ORANGE_CALENDAR.json"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/live-model-full-repair-2026-10-08/package/package/KIRA_LEDGER_SPEC.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "de49bc6157ea21e9925fcd12d043828d02c195e5aa80d732f8b4e24b9b9d7873",
+          "paragraphs": [
+            {
+              "sha256": "312383a7107150f3f91f34f19b632a5f63bba8ce5510d501c06a7fe5bd63f67a",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_kira_ledger.py",
+                "world-clock/KIRA_CREDIT_LEDGER.json"
+              ]
+            },
+            {
+              "sha256": "ed598a0694dcffbaa1c67d843a0dcf19f9871e5ea63d590465e70a58179d6a6f",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_kira_ledger.py",
+                "world-clock/KIRA_CREDIT_LEDGER.json"
+              ]
+            },
+            {
+              "sha256": "2049a680ad5be365eafba4601f14eff03171b74db2c1936a560ddfad0712eeda",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_kira_ledger.py",
+                "world-clock/KIRA_CREDIT_LEDGER.json"
+              ]
+            },
+            {
+              "sha256": "9e61466b444b010da2f46fe1f64465245d9de4109f75aa2a1bf1ebb083a8900d",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_kira_ledger.py",
+                "world-clock/KIRA_CREDIT_LEDGER.json"
+              ]
+            },
+            {
+              "sha256": "50fdfa5dc1a5b8cc458df626ad47aed6499563707ab9077be0e8436fd22cb7f7",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_kira_ledger.py",
+                "world-clock/KIRA_CREDIT_LEDGER.json"
+              ]
+            },
+            {
+              "sha256": "453dea49ee919fd9ed630245a9acfbdb2f27252f7318902a362059b738f52eeb",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_kira_ledger.py",
+                "world-clock/KIRA_CREDIT_LEDGER.json"
+              ]
+            },
+            {
+              "sha256": "129651999a530a5f633d54c04cdbf106531bd96e304e7adfd9560fecc96b8655",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_kira_ledger.py",
+                "world-clock/KIRA_CREDIT_LEDGER.json"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/live-model-full-repair-2026-10-08/package/package/STALE_GIT_AUDIT.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "c9b76775e875e345b96f980af6a0ab3b722b43aafbf65a61923653165625a312",
+          "paragraphs": [
+            {
+              "sha256": "dc109c125d3df2ed27b52cae941642290345160edc739753c5b664411c18f693",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_full_repair.py",
+                "provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "71860da80c31b9dc310284eef65b3caeb34abdc6cd893eccf67fe8aae57191b7",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_full_repair.py",
+                "provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "95552e74b32e4d90141585e3c7fcde84662a6f3d7d3c441d5263621ddb706947",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_full_repair.py",
+                "provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "58b24c2754c56734a5a1dae751db20d22e6860ec2d60253fe4c276bceadc9a5c",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_full_repair.py",
+                "provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "2c026f9ee4c60fd6bded3ea338b1e403379949e7c02d1a604c4583855d85083d",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_full_repair.py",
+                "provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "93d48b71f3879aff7dcabc92fc0bf45d3bfe97c9e129d35d7d7767cf1034d9e0",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_full_repair.py",
+                "provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "a595353fdfda447203ff90aaa863adb92a857e446d128085be515ce389c3c1fa",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_full_repair.py",
+                "provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/live-model-full-repair-2026-10-08/package/package/VERIFY_AFTER.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "1f55b926d06337a3167c25c133c537910ad9900b6e51e656bf9f85a2277966bf",
+          "paragraphs": [
+            {
+              "sha256": "1f55b926d06337a3167c25c133c537910ad9900b6e51e656bf9f85a2277966bf",
+              "status": "CURRENT",
+              "reason": "Explicit repair requirement/author decision; exact transactions recomputed, unknown amounts and later canon preserved.",
+              "destinations": [
+                "tools/validation/validate_full_repair.py",
+                "provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "changed_paths": {
+    "CANON_STATUS.md": {
+      "before_sha256": "7c9af583ad4600e5976e24e401417e6e93a8267fe82350face71bdffd1720e3f",
+      "after_sha256": "5ad39e7df0a20ec0704d07c9481ff45911c2a2d2b36c76ca8e49f27abc60a519",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "README.md": {
+      "before_sha256": "82e58bce030f8f86a460c718522368e8fc0718165374da3bf08fbb16d4229978",
+      "after_sha256": "3c5f04bd0c1138fb96580c52c14c9c45abc60715e134a54b8c4332ac11bf466c",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "THREAD_DEVELOPMENT_CONSTITUTION.md": {
+      "before_sha256": "0c48ad1de7877fc4e24aa13fa0d622bed0a5f00d91d6893b35e4e494f042101a",
+      "after_sha256": "9e258786529045a9290f9fa8e8df6c0ad7bb91ea6da7d3aa4067e9779e2cda9a",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "canon/AUTHORITY_MAP.json": {
+      "before_sha256": "2b756961a64c52b8ec9e9b6656f22d928973eb20a5478d2b30faec73fd8e4e2a",
+      "after_sha256": "3a6263b02118cfed36738ead87d91256927059cb4ff0838883d388056efefa56",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "canon/ECONOMY.md": {
+      "before_sha256": "152fe4cd1f1650bdfefd80b6ea52dda678fc0fcab5087ad311189537f224b8d2",
+      "after_sha256": "01d10708362933aa4ebc0f86c1ec91ace2560cbe22d75a6aced6e8644967fa22",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "canon/PROMOTIONS.json": {
+      "before_sha256": "2c965ab650d35f36da0c6fb514c112d774406e37938532e4d29107298b495e19",
+      "after_sha256": "201d0fcef4575e8fd5a12609c498a05c44f44e0842ebde2d0e3208904ac187b3",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "canon/characters/KIRA.md": {
+      "before_sha256": "719463ebf744e8f00e909955a53914b1818f78fd78ed6ff74218507d1db9a32e",
+      "after_sha256": "e2850d7be8406a54b8a47ea1bda446a667b94f981e16fd2e038d1a7977f1430d",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "data/INDEX.md": {
+      "before_sha256": "fddac165c1903418a4147f4d04302cef2e153a7702aaef61e1016910602210a3",
+      "after_sha256": "f456ee360b2722579aeb53bad470ab22815d02a8afe8351be8883b08b8c975ba",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "economy/AUDIT.json": {
+      "before_sha256": "e64369833a6900c5c5f773a395a92fb91c1364676a4d8a4490f448f79802fe5c",
+      "after_sha256": "56b9456668e507b5cf7e15028bed3cea854ab4140e958edc39128c9eb00e2a3d",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "live-model/04_COMBAT_WORLD.md": {
+      "before_sha256": "a263595fd15eecfd0a43afa5baa70cbe9128640d32404086ef5d2f022bc63f1d",
+      "after_sha256": "521af23d32cc4d13374ef6820d882e659d18f5412b340fe6952aa1b0c2bfe68d",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "live-model/COMBAT_ECOLOGY.md": {
+      "before_sha256": "2803e4932091ceff60d2589bb341af4ef14792c9d63584837fc3c5ac259fb3e8",
+      "after_sha256": "1eef86c86c177fdb16ee9aa88acc09c8bf300c22733c35f99f3b74dfb7bd8e12",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "live-model/COMBAT_THRESHOLDS.md": {
+      "before_sha256": "3ec746e7ac4184b1117d69da3c782e815903d392dc14b837766130c2e791bebb",
+      "after_sha256": "3025961d4fc9ea96dec8bcd052f38221c7086faa0a79d281df703cb659fe5e06",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": {
+      "before_sha256": "f163e20f4e84bc2d5557af631115d4b439f08a240a3b5117f92f76bf1658ce47",
+      "after_sha256": "632898c2987f076b1cea0d1701facdcb4ba523a2dbeb541cbc333966243e24bf",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "live-model/INDEX.md": {
+      "before_sha256": "4d1f86a6830bffc7f6a6884fb79b422f2e5f471296fd9d8c8e089b14c412472e",
+      "after_sha256": "756a1c6d91e44fb76468c110371dca12a790df7d7f32fd5e58f3037c526cec0d",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "live-model/PARTNERSHIP_AND_CARRY.md": {
+      "before_sha256": "6d142da91cf75183959572b7bea9e57d05705b43b158974172221038cd8963d7",
+      "after_sha256": "c84fb7ccc2b5c8937b661d629786b2961013c649cbacda9531a046e1c9cebb78",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "live-model/STORY_CLOCK_STATE.md": {
+      "before_sha256": "b30ff5cb37faae10c640d28ef4cff1c6e830c0b8c045732cf87bdd305e556901",
+      "after_sha256": "d8a2c80dfbd868cfc26e4104416539fe9712cc47fddb5ec32fea2d78e9763f86",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "live-model/SUPERSESSIONS.md": {
+      "before_sha256": "f76bfdbb27731cac98e5e751158ac20079c192362677ab0bd4445fd5ca1de938",
+      "after_sha256": "07c948902801734f6cbfa950d9c7e2d5ea8447b5954e2d78b0f4ccd2ed2d3515",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "live-model/WORLD_CLOCK.md": {
+      "before_sha256": "d0b8863ed67d74643e2d1ca7cc80784e0defc402857a3ed6c53c6343738b5add",
+      "after_sha256": "1c9be022b14ac870d73b446e14583bef5045d13227b671d64cd2d21b7f53212a",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "story/ARC_02/ARC.md": {
+      "before_sha256": "af8c057a8e10f71d7ccaf82c79a7c2127ed3d9fd006ce06ff3e88fa304f020f4",
+      "after_sha256": "bf9e0608f4518429f0977c617e3765f46bbdc472650a2ed3c1d3b981f4421f1a",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "tools/validation/README.md": {
+      "before_sha256": "5247b012f1741c6d2e7c82bc072b3c9138f1c0f16678110ebd1af36abd7a133e",
+      "after_sha256": "6d2875ce013b30221d7f33ce919b237a33446958d99f2ea1aa7b2bc0d49ad3b7",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "tools/validation/validate_authoring.py": {
+      "before_sha256": "477670129d15308635ae8033affaf2a59ac4bdccc6733cb5fcec424bdd732487",
+      "after_sha256": "a41ee02a27c1db3041285fbc2f4cd1dd8442c99df17f516bc0b98bcd6e412700",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "tools/validation/validate_promotions.py": {
+      "before_sha256": "9f6b360efd99f9febb2ad76e01c1c9345c4c00a71d45203b47328e4bf6ecf4cd",
+      "after_sha256": "61e1eebdfd09442d23bf7ae4ebc6fbecec53a92b8b7713dba8724c02f714f4b6",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "world-clock/ARC3_ECONOMY_AUDIT.json": {
+      "before_sha256": "99be5c085ddd14abe068f9f67e49219445416e1d1e3a24c9ddc29047a3b59f5a",
+      "after_sha256": "dd605da6b81b3b5c79a4c08c3ba8992feefe10a3bfe7165217131ee457e298b2",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "world-clock/ARC3_ORANGE_CALENDAR.md": {
+      "before_sha256": "361fbfc455218992a4bf9f2edcb7bdb996b2c98152309e1f479091943163ba4d",
+      "after_sha256": "c4f18aeaef6bb7ec7ca5db04f7d559f8ed40cea8d061b75cc91e34cdc92956c6",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "world-clock/ARC4_HANDOFF_AUDIT.json": {
+      "before_sha256": "52d3cc2fcfce3d6695030c7a7f639343f077a8c8d66d5ab2b84c2e7b837349c9",
+      "after_sha256": "9d943930b5a19b51e011e1a1d62c4a0e1680b81f84e7a90493da15ba9d71e805",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "world-clock/CALENDAR_AUDIT.json": {
+      "before_sha256": "8fe7f50ae8c197683572c462682ebf9347a3ee975e1d742b6899469472569658",
+      "after_sha256": "aeafbb95717aa159fd02d91fa0310eb13e65e34e41fc9fe42bebe09fbecb36bc",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md": {
+      "before_sha256": "4ac602626248a1dcb296f62c227bfb0348d850e89035982b4d48dc4e986ea5bc",
+      "after_sha256": "783bd13299541b63a539046d3d8f3f2f394bde3aae902ba4a2e7038d13768f43",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "world-clock/WORLD_CLOCK.md": {
+      "before_sha256": "d92a4f5fc0a5b5aae132ac5fb83def51b0c28933cc53ac859447d4ae1d093f88",
+      "after_sha256": "67faa7750dd3d95ef815d82600a24a1e685f5317e0b169304926b51ad3985cb0",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "world-clock/validate_arc3.py": {
+      "before_sha256": "a4eed2035731ced58f6e2e2b30ee52b56ee8e25330dcbc46a8b554aa6dc7f556",
+      "after_sha256": "d1e23e7af7b7fb24b8a1155425ec3aff5b43ee4ddff0342cb1a9222f9fcbb289",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "world-clock/validate_arc5.py": {
+      "before_sha256": "ef69206bdb42edc17dff9c8108ea04609ab8b489d385c7b679ad93cfbb42e6f6",
+      "after_sha256": "b42b5159505c20f719533d2b33c43ade34152b7be87b882b0a7097cb55de132e",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    },
+    "world-clock/validate_arc7.py": {
+      "before_sha256": "df156f071ece1a395626971550a7583a138336ad3a759a09481a76b0921482ae",
+      "after_sha256": "4fdb35ebf84008830004b207628b6ceaecb96aa3adc46020f08bfe66b1b2b537",
+      "reason": "Bounded full repair: stale current-owner/derived audit correction, first-class Kira accounting and source validation/navigation."
+    }
+  },
+  "package_sha256": {
+    "provenance/live-model-full-repair-2026-10-08/package/EXECUTABLE.md": "2520afb95d27394d117e260f0e62303bfb218696c52056e76d084e4662ffdb81",
+    "provenance/live-model-full-repair-2026-10-08/package/MANIFEST.json": "20636f07dda65f03b4802315bf155c2cc5e5b87e4a4ec97000dc95e552fd2d6f",
+    "provenance/live-model-full-repair-2026-10-08/package/package/KIRA_LEDGER_SPEC.md": "c8f9864503a80efdad4bb4799a72c7977211c823ae5fe0ec4d3b9ccda49266c9",
+    "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md": "ff178cc2db6c95c582efdc06f260b1ddd22a1aa77bf2cddf922ca561d8f8369a",
+    "provenance/live-model-full-repair-2026-10-08/package/package/STALE_GIT_AUDIT.md": "52742030ac2431e1e5034d03e7edeb4403dbb6adb9afa0c2811430aa6b0a644f",
+    "provenance/live-model-full-repair-2026-10-08/package/package/VERIFY_AFTER.md": "501dc4d3c37cb2f9b48f00cf39aac929f9acca93197d66a8ea1ae29fe2637282"
+  },
+  "generated_owners": {
+    "world-clock/KIRA_CREDIT_LEDGER.csv": "28452cc0c795dd24e726d4c9f8f810e48c945751bbfd57610b99dcc1180dd709",
+    "world-clock/KIRA_CREDIT_LEDGER.json": "81e1356f60052cdcd2a1fc54470d1c1c8e45a74caef02bd7e297927857e6be00"
+  },
+  "supersessions": [
+    {
+      "scope": "Red/Orange current derived owners only",
+      "decision": "Remove stale personal tournament/Red payout claims in place; regenerate current audits; independent Kira ledger. Historical checkpoints and provenance preserved.",
+      "destinations": [
+        "world-clock/ARC3_ECONOMY_AUDIT.json",
+        "world-clock/KIRA_CREDIT_LEDGER.json",
+        "live-model/SUPERSESSIONS.md"
+      ]
+    }
+  ],
+  "remaining_open": [
+    "R1D2/R1D3 opening RECOVERY_GAP",
+    "Armor exact debit / actual wallets",
+    "optional illi Solo credits",
+    "contextual domai payouts and compatible earlier OPENs"
+  ]
+}

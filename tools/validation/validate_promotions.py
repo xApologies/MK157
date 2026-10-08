@@ -84,7 +84,7 @@ def current_tabular_rows(rows, destination, source_order, relocations, require):
 
 def audit_promotions(root, git, require, target):
     registry_path = root/'canon/PROMOTIONS.json'
-    empty = {'changed': set(), 'source_paths': set(), 'asset_paths': set(), 'prefixes': (), 'package_prefixes': (), 'reports': []}
+    empty = {'changed': set(), 'source_paths': set(), 'asset_paths': set(), 'owner_paths': set(), 'prefixes': (), 'package_prefixes': (), 'reports': []}
     if not registry_path.exists(): return empty
     registry = json.loads(registry_path.read_text(encoding='utf-8-sig'))
     entries = registry['promotions']
@@ -142,6 +142,16 @@ def audit_promotions(root, git, require, target):
         for p, expected in manifest['package_sha256'].items():
             require(safe_path(p) and p.startswith(prefix+'package/'), 'package outside promotion')
             if safe_path(p): require((root/p).is_file() and digest((root/p).read_bytes()) == expected, 'promotion package bytes: '+p)
+        for p, expected in manifest.get('generated_owners', {}).items():
+            require(entry['id'] == 'live-model-full-repair-2026-10-08' and
+                    p in {'world-clock/KIRA_CREDIT_LEDGER.csv', 'world-clock/KIRA_CREDIT_LEDGER.json'},
+                    'unapproved generated owner: '+p)
+            require(prefix+'package/package/KIRA_LEDGER_SPEC.md' in manifest['package_sha256'],
+                    'Kira ledger specification missing')
+            if safe_path(p):
+                require((root/p).is_file() and digest((root/p).read_bytes()) == expected,
+                        'generated owner drift: '+p)
+                result['owner_paths'].add(p)
         for asset in manifest.get('asset_copies', []):
             source, dest = asset['source'], asset['destination']
             require(source in manifest['package_sha256'], 'asset source not accounted for')

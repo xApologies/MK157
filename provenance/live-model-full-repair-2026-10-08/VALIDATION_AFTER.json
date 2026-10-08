@@ -1,0 +1,207 @@
+{
+  "result": "PASS",
+  "scope": "Fresh execution on precommit tree, not a historical PASS",
+  "commands": {
+    "validate_library": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "builder/encounters/eldris/validate_library.py",
+        "--directory",
+        "C:\\Users\\rando\\_MK157\\builder\\encounters\\eldris"
+      ],
+      "exit_code": 0,
+      "seconds": 0.1
+    },
+    "validate_rewards": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "combat-rewards/validate_rewards.py",
+        "--directory",
+        "C:\\Users\\rando\\_MK157\\combat-rewards",
+        "--repository",
+        "C:\\Users\\rando\\_MK157"
+      ],
+      "exit_code": 0,
+      "seconds": 0.09
+    },
+    "validate_economy": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "economy/validate_economy.py",
+        "--repository",
+        "C:\\Users\\rando\\_MK157"
+      ],
+      "exit_code": 0,
+      "seconds": 3.67
+    },
+    "validate_arc3": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc3.py",
+        "--repository",
+        "C:\\Users\\rando\\_MK157"
+      ],
+      "exit_code": 0,
+      "seconds": 12.6
+    },
+    "validate_arc4_handoff": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc4_handoff.py",
+        "--repository",
+        "C:\\Users\\rando\\_MK157"
+      ],
+      "exit_code": 0,
+      "seconds": 3.33
+    },
+    "validate_arc4_yellow": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc4_yellow.py",
+        "--repository",
+        "C:\\Users\\rando\\_MK157"
+      ],
+      "exit_code": 0,
+      "seconds": 3.19
+    },
+    "validate_arc5": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc5.py",
+        "--repository",
+        "C:\\Users\\rando\\_MK157"
+      ],
+      "exit_code": 0,
+      "seconds": 12.92
+    },
+    "validate_arc6": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc6.py",
+        "--repository",
+        "C:\\Users\\rando\\_MK157"
+      ],
+      "exit_code": 0,
+      "seconds": 19.62
+    },
+    "validate_arc7": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "world-clock/validate_arc7.py",
+        "--repository",
+        "C:\\Users\\rando\\_MK157"
+      ],
+      "exit_code": 0,
+      "seconds": 22.47
+    },
+    "validate_yellow_director": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "world-clock/validate_yellow_director.py",
+        "--repository",
+        "C:\\Users\\rando\\_MK157"
+      ],
+      "exit_code": 0,
+      "seconds": 3.37
+    },
+    "validate_kira_ledger": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "tools/validation/validate_kira_ledger.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.12
+    },
+    "validate_red_orange_reconciliation": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "tools/validation/validate_red_orange_reconciliation.py"
+      ],
+      "exit_code": 0,
+      "seconds": 3.11
+    },
+    "validate_full_repair": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "tools/validation/validate_full_repair.py"
+      ],
+      "exit_code": 0,
+      "seconds": 22.19
+    },
+    "validate_authoring": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "tools/validation/validate_authoring.py"
+      ],
+      "exit_code": 0,
+      "seconds": 7.73
+    },
+    "unit_tests": {
+      "command": [
+        "C:\\Users\\rando\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+        "-X",
+        "utf8",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tools/validation",
+        "-v"
+      ],
+      "exit_code": 0,
+      "seconds": 1.5
+    }
+  },
+  "unit_tests": {
+    "passed": 33,
+    "stderr": "test_balanced_destination_and_nested_label (test_authoring.AuthoringFixtures.test_balanced_destination_and_nested_label) ... ok\r\ntest_city_exception_never_exempts_numeric_data (test_authoring.AuthoringFixtures.test_city_exception_never_exempts_numeric_data) ... ok\r\ntest_code_fences_comments_and_inline_code (test_authoring.AuthoringFixtures.test_code_fences_comments_and_inline_code) ... ok\r\ntest_coverage_folds_wrapped_prose_but_keeps_items (test_authoring.AuthoringFixtures.test_coverage_folds_wrapped_prose_but_keeps_items) ... ok\r\ntest_duplicate_and_unicode_anchors (test_authoring.AuthoringFixtures.test_duplicate_and_unicode_anchors) ... ok\r\ntest_mixed_open_enumeration (test_authoring.AuthoringFixtures.test_mixed_open_enumeration) ... ok\r\ntest_multifile_coverage_keeps_royal_table_before_first_subheading (test_authoring.AuthoringFixtures.test_multifile_coverage_keeps_royal_table_before_first_subheading) ... ok\r\ntest_only_declared_promotion_uses_historical_coverage (test_authoring.AuthoringFixtures.test_only_declared_promotion_uses_historical_coverage) ... ok\r\ntest_promotion_paths_stay_in_repository (test_authoring.AuthoringFixtures.test_promotion_paths_stay_in_repository) ... ok\r\ntest_promotion_rejects_tampered_source_and_omitted_section (test_authoring.AuthoringFixtures.test_promotion_rejects_tampered_source_and_omitted_section) ... ok\r\ntest_promotion_requires_every_paragraph_and_real_destination (test_authoring.AuthoringFixtures.test_promotion_requires_every_paragraph_and_real_destination) ... ok\r\ntest_promotion_snapshot_rejects_undeclared_drift_and_tampering (test_authoring.AuthoringFixtures.test_promotion_snapshot_rejects_undeclared_drift_and_tampering) ... ok\r\ntest_reference_forms_and_missing_definition (test_authoring.AuthoringFixtures.test_reference_forms_and_missing_definition) ... ok\r\ntest_schema_rejects_missing_invalid_and_unsupported (test_authoring.AuthoringFixtures.test_schema_rejects_missing_invalid_and_unsupported) ... ok\r\ntest_only_later_declared_relocation_applies (test_city_relocation.CityRelocationTests.test_only_later_declared_relocation_applies) ... ok\r\ntest_only_serial_and_its_note_reference_change (test_city_relocation.CityRelocationTests.test_only_serial_and_its_note_reference_change) ... ok\r\ntest_clock_accepts_only_full_timestamp_correction (test_clock_promotion.ClockPromotionTests.test_clock_accepts_only_full_timestamp_correction) ... ok\r\ntest_clock_rejects_reordered_rows (test_clock_promotion.ClockPromotionTests.test_clock_rejects_reordered_rows) ... ok\r\ntest_prose_does_not_exempt_existing_content (test_clock_promotion.ClockPromotionTests.test_prose_does_not_exempt_existing_content) ... ok\r\ntest_repair_cannot_rewrite_prior_calendar_prose (test_clock_promotion.ClockPromotionTests.test_repair_cannot_rewrite_prior_calendar_prose) ... ok\r\ntest_repair_does_not_exempt_calendar_data_or_other_prose (test_clock_promotion.ClockPromotionTests.test_repair_does_not_exempt_calendar_data_or_other_prose) ... ok\r\ntest_fresh_audit_only (test_full_repair.FullRepairGuardTests.test_fresh_audit_only) ... ok\r\ntest_never_exempts_calendar_or_other_audit (test_full_repair.FullRepairGuardTests.test_never_exempts_calendar_or_other_audit) ... ok\r\ntest_dungeon_count (test_kira_ledger.KiraLedgerTests.test_dungeon_count) ... ok\r\ntest_duo_ignores_illi_amount (test_kira_ledger.KiraLedgerTests.test_duo_ignores_illi_amount) ... ok\r\ntest_kira_solo_and_illi_exclusion (test_kira_ledger.KiraLedgerTests.test_kira_solo_and_illi_exclusion) ... ok\r\ntest_locked_spend_can_fail_affordability (test_kira_ledger.KiraLedgerTests.test_locked_spend_can_fail_affordability) ... ok\r\ntest_row_diff_reports_added_missing_and_tampered_rewards (test_kira_ledger.KiraLedgerTests.test_row_diff_reports_added_missing_and_tampered_rewards) ... ok\r\ntest_unknown_event_fails (test_kira_ledger.KiraLedgerTests.test_unknown_event_fails) ... ok\r\ntest_duplicate_raid_reward_and_lost_duo_are_rejected (test_red_orange_reconciliation.ReconciliationFixtures.test_duplicate_raid_reward_and_lost_duo_are_rejected) ... ok\r\ntest_immediate_purchases_preserve_costs_and_end_balances (test_red_orange_reconciliation.ReconciliationFixtures.test_immediate_purchases_preserve_costs_and_end_balances) ... ok\r\ntest_later_milestone_and_cost_changes_are_rejected (test_red_orange_reconciliation.ReconciliationFixtures.test_later_milestone_and_cost_changes_are_rejected) ... ok\r\ntest_no_global_tournament_rewrite_or_row_reorder (test_red_orange_reconciliation.ReconciliationFixtures.test_no_global_tournament_rewrite_or_row_reorder) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 33 tests in 1.200s\r\n\r\nOK\r\n"
+  },
+  "authoring": {
+    "result": "PASS",
+    "active_links": {
+      "files": 70,
+      "links": 2255,
+      "broken": []
+    },
+    "historical_links": {
+      "files": 277,
+      "links": 650,
+      "broken_by_class": {
+        "existing baseline source": 44,
+        "byte-exact navigation backup with original relative base": 317
+      }
+    },
+    "historical_broken_count": 361,
+    "failures": [],
+    "phase": "Final report included; read-only recheck PASS"
+  },
+  "git_diff_check": "PASS"
+}

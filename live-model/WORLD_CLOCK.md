@@ -276,7 +276,7 @@ Available palette: Tea Parties; **one seasonal Gala per season**; residence Buil
 
 ## Checkpoint 20 — narrative overlay on preserved schedules
 
-The CP18/19 daily and weekly CSV/JSON calendars remain unchanged. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. Checkpoint 21 supplies the Yellow combat scaffold separately; social dates beyond existing appointments remain OPEN. Consult [Arc Four handoff](../world-clock/ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically.
+The CP18/19 calendars retain compatible rows; explicit October 8 Red/Orange purchase, personal tournament and O4D2 payment corrections govern their conflicts. Their CP19 endpoint Orb-reserve note is historical planning; current Arc Three closes at the Yellow-opening Beam Red boundary with Kira's 86,000 Blue Fireball card. Orbs stay 61,017 inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2; Arc Four closes Y6D3 with illi Genesis Prime Red. Checkpoint 21 supplies the Yellow combat scaffold separately; social dates beyond existing appointments remain OPEN. Consult [Arc Four handoff](../world-clock/ARC4_HANDOFF.md); the social palette and one-Gala-per-season cadence do not populate OPEN days automatically.
 
 ## Checkpoint 21 — Yellow calendar overlay
 

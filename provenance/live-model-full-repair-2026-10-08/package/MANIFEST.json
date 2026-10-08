@@ -1,0 +1,31 @@
+{
+  "package": "MK157 live model full repair",
+  "date": "2026-10-08",
+  "files": [
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 1649,
+      "sha256": "2520afb95d27394d117e260f0e62303bfb218696c52056e76d084e4662ffdb81"
+    },
+    {
+      "path": "package/KIRA_LEDGER_SPEC.md",
+      "bytes": 1930,
+      "sha256": "c8f9864503a80efdad4bb4799a72c7977211c823ae5fe0ec4d3b9ccda49266c9"
+    },
+    {
+      "path": "package/LIVE_MODEL_DELTA.md",
+      "bytes": 2491,
+      "sha256": "ff178cc2db6c95c582efdc06f260b1ddd22a1aa77bf2cddf922ca561d8f8369a"
+    },
+    {
+      "path": "package/STALE_GIT_AUDIT.md",
+      "bytes": 1496,
+      "sha256": "52742030ac2431e1e5034d03e7edeb4403dbb6adb9afa0c2811430aa6b0a644f"
+    },
+    {
+      "path": "package/VERIFY_AFTER.md",
+      "bytes": 1699,
+      "sha256": "501dc4d3c37cb2f9b48f00cf39aac929f9acca93197d66a8ea1ae29fe2637282"
+    }
+  ]
+}

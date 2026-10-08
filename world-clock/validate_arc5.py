@@ -165,6 +165,8 @@ def audit(root):
     try:
         allowed.update(validated_city_replacements(root))
         allowed.update(validated_replacements(root))
+        from validate_full_repair import validated_calendar_audit
+        allowed.update(validated_calendar_audit(root))
     except (OSError, ValueError, KeyError) as exc:
         require(False, 'Author promotion preservation: ' + str(exc))
     protected = []

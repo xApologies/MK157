@@ -104,3 +104,9 @@ Fixed calendars supply a minimum guaranteed progression-income spine, not litera
 ## October 8 — bonus versus minimum income
 
 R4D5 Burrower earns 2,500 each as newly authored wallet surplus; locked Binding dates stay fixed. O1D6 now supplies Sixfold/Triumvirate Red clears and Black Orchard failure. Its second 2,500-per-girl award conflicts with the Red award still booked in O4D2; publication awaits author reconciliation, and no duplicate reward or changed total is silently assumed. Optional illi Solo earnings remain OPEN; W2=140/W3=255 are only the existing completed-wave sums. [Current accounting owner](../live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting).
+
+## October 8 full repair
+
+The [full-repair source](../provenance/live-model-full-repair-2026-10-08/package/EXECUTABLE.md) reconciles stale Red/Orange current-owner text and derived audits. The [Kira ledger](../world-clock/KIRA_CREDIT_LEDGER.json) independently computes every dated earning through O2D3: 58,705 minimum combat gross + 5,000 authored surplus = **63,705**. The 2,000 entry grant is separate. Known-transaction funds are **65,705 before CSR / 4,688 after its 61,017 cost**, before unquantified Armor and discretionary debits. Exact wallet remains OPEN; approximately 1,000 for Armor is not an exact locked debit. No reward, date, run or funding is invented. [Execution and preservation report](../provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md).
+
+Current Arc Three audit computes 56,385 illi / 81,415 Kira and 12 OPEN rows; Normal Raid income is 3,750 each. Historical numbered checkpoints and provenance retain their original statements as history, not competing current Red/Orange owners. CP25/later-arc authority, required calendars and the opening RECOVERY_GAP remain unchanged.

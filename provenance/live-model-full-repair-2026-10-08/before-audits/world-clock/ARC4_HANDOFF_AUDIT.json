@@ -48,7 +48,7 @@
   "orbs_price": 61017,
   "orbs_date": "Y6D2, Late Yellow inside Arc Four; not Y1D2",
   "arc4_close": "Genesis Prime Red Y6D3",
-  "conditional_card_minus_orange_gross": 4585,
+  "conditional_card_minus_orange_gross": 2085,
   "card_full_funding_audit": "OPEN; no full cashflow solvency assertion",
   "current_yellow_rows": 49,
   "abecca": "abecca",
@@ -85,7 +85,7 @@
     },
     {
       "path": "world-clock/ARC4_HANDOFF.md",
-      "requirement": "4,585",
+      "requirement": "2,085",
       "result": "PASS"
     },
     {
@@ -371,16 +371,16 @@
   ],
   "sha256": {
     "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "056532016144fa8f1afccbc6a03c8f4853fecb128cf67c86e317795c2dfdd440",
-    "live-model/01_KIRA.md": "f2adb4b7427f33abdf0dfa27fa91a5af78fd5fe8c18b167a9ef750ee12665cf9",
+    "live-model/01_KIRA.md": "1551a64bdd8c537ac5a4b144780dff6387c77d679bb49f9da839c452d230e1f1",
     "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md": "686a9461fd24c885596bc8f364774f006903ec5448011de1fa4e9a734b996a41",
-    "live-model/DOMAI_PARTICIPATION.md": "195251e73ebf449cf819ad2125ce7da255ec93e7ec8a1436fdd8788dc0fab102",
-    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "632898c2987f076b1cea0d1701facdcb4ba523a2dbeb541cbc333966243e24bf",
-    "live-model/GENESIS_CARDS.md": "a62215834f75af9ceb11d06484669c89ce89e8e72c1fb1a7439ac7b44ff97d12",
-    "live-model/ILLI_PROGRESSION.md": "597f08c143ec7399b1058d76f606a96ca75f1cecdc83a096caa96cbacf4460e0",
-    "live-model/OPEN.md": "186db91e16bb3aa0ceb0b32eb59c89db6d8315ae59c14fa8937bf98a14a4b160",
+    "live-model/DOMAI_PARTICIPATION.md": "b28a41bd98d68c386b29cc7d57d410a8b8fce9fb07f67024344e8b3fab70a075",
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "25205373ca9fab3339316957e75f97f42b0ff021a2fdb733cc98f497484a61f4",
+    "live-model/GENESIS_CARDS.md": "2fbcbe4dcddc359a5aae2dc6fcd9a80af8c0561d138c84be454a5c9615ef2fc1",
+    "live-model/ILLI_PROGRESSION.md": "93684951f551c99638cbaa22c5d681c35e9c1c510cde5e5d2e8630167e9c335d",
+    "live-model/OPEN.md": "5c62421942698d46c12455c60ed9cf6d3467847829ae4ba55845eed04d64d854",
     "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "a90f44de5acf9cada1e92a7efe51f52d5aedd4b2291a3febe45afb3784cb0d0d",
-    "world-clock/ARC4_HANDOFF.json": "564e7d67172cc1ae1a4c31c38a43f295eeef37e25c2ff5a790b509685efba998",
-    "world-clock/ARC4_HANDOFF.md": "b648ad9d35af9368dcf3d2780bb9d3f5b295907ebb7543720987eb8292234749",
-    "world-clock/validate_arc4_handoff.py": "a919487dbb5da68ab6ebd145ff8fd91311de2663de166118d4ec9a775b53e54d"
+    "world-clock/ARC4_HANDOFF.json": "0e459f5558607438858e301a518c534aac5fcc78a2d286ea87794593a0f7a5ec",
+    "world-clock/ARC4_HANDOFF.md": "4fdb065feadff65c33301b2750629fe6262545d595353c474dfd00c07cf0833f",
+    "world-clock/validate_arc4_handoff.py": "b4efb1ee1bc0b43944043fe02df5b5ed897831e9f9bf6f5e791d359cf335c03a"
   }
 }
