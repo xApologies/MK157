@@ -1,0 +1,553 @@
+{
+  "result": "PASS",
+  "scope": "WORKING_TREE",
+  "revision": "d2e6a9eded93b0cc4061952a8e381875f06d86c9",
+  "checks": [
+    {
+      "item": 1,
+      "check": "Family names in current owner",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 2,
+      "check": "Kaevren in current Arc owners",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "story/ARC_01/ARC.md",
+          "line": 49,
+          "text": "The R1D2/R1D3 chronology conflict remains; the developed narrative close does not reopen later arcs or move their progression. Keep Kaevren’s house/surname, appearance/build/reconciliation, W9 kill counts, outfit purchase/price, microscopic biology, “Curious.” meaning and graphic-death editing OPEN. The source's rough lifespan and return interval are qualified examples. The October 8 pouch names Kaevren and Kira’s household; no chapters, extra dialogue or full bank balance is created."
+        },
+        {
+          "path": "story/ARC_02/ARC.md",
+          "line": 64,
+          "text": "Red Raid sequence: R3D2 Fire Dragon clears, Shardfield repeatedly fails and group dissolves; R4D5 bonus Burrower clear pays 2,500 each outside minimum progression; R6D6 Coherence Twins fails until 5+5 separation, then clears for booked 3,750. Red repeats do not repay. Shardfield remains their Red-season wall; Glasswing/Walking Fortress are not cleared. The recurring male leader remains unnamed; Kaevren is the rival. [October roster](../../live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster) develops the stronger cohort’s new encounters with Weaver/Wayfarer/Bloom NOT ATTEMPTED on O1D6 and later outcomes unassigned."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 3,
+      "check": "illi conventional bow competence",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 104,
+          "text": "illi enters Valnak already competent with a conventional bow, her principal early offensive equipment while Persistent Coherence is her only Binding. Competent does not mean legendary; no new Binding, named bow or price is supplied. Bow + PC + simulated formation explains early Solo. Successful ranged kills reduce incoming pressure; misses and poor awareness can cascade. Later Bindings reduce bow centrality without erasing the bow."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 104,
+          "text": "illi enters Valnak already competent with a conventional bow, her principal early offensive equipment while Persistent Coherence is her only Binding. Competent does not mean legendary; no new Binding, named bow or price is supplied. Bow + PC + simulated formation explains early Solo. Successful ranged kills reduce incoming pressure; misses and poor awareness can cascade. Later Bindings reduce bow centrality without erasing the bow."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 4,
+      "check": "R2D5 bad run preserved",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 108,
+          "text": "R2D5 is an intentional bad run, not a W2 capability ceiling: W2 clear/booked140 survives the tunnel-vision/flank/panic/death/frustration scene. R4D1’s old W3 wording is not a ceiling either; the author now describes a decent run into Orange pressure. The existing255 is the minimum scaffold’s booked W1–W3 sum, not a newly asserted complete actual payout. Exact optional depth/results/reward and any excess above that minimum remain OPEN. Later optional Solos may push deeper Orange as PC improves. R6D4 top-off, R7D5’s possible two attempts and O1D4 optional top-off acquire no guessed earnings, attendance or changed purchase dates."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 108,
+          "text": "R2D5 is an intentional bad run, not a W2 capability ceiling: W2 clear/booked140 survives the tunnel-vision/flank/panic/death/frustration scene. R4D1’s old W3 wording is not a ceiling either; the author now describes a decent run into Orange pressure. The existing255 is the minimum scaffold’s booked W1–W3 sum, not a newly asserted complete actual payout. Exact optional depth/results/reward and any excess above that minimum remain OPEN. Later optional Solos may push deeper Orange as PC improves. R6D4 top-off, R7D5’s possible two attempts and O1D4 optional top-off acquire no guessed earnings, attendance or changed purchase dates."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 5,
+      "check": "Unique007 bookstore; festival008 preserved",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 538,
+          "text": "- 008 = principal Opening Ceremony/festival grounds on southern lobe of main central island (author-marked target)."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 6,
+      "check": "R4D5 Burrower discretionary bonus",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 669,
+          "text": "R4D1 illi Solo variable, old W3 not ceiling. R4D2 PC Yellow. R4D3 family shopping. R4D4 Orange x2. R4D5 BONUS Burrower Red-B CLEAR +2,500 each ACTUAL/DISCRETIONARY only; minimum purchase dates unchanged. R4D6 Kira W10/books. R4D7 Duo W9."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": "All Red purchase dates unchanged; only explicitly authored Orange purchase corrections applied."
+    },
+    {
+      "item": 7,
+      "check": "R6D6 Coherence Twins3750",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 57,
+          "text": "| R6D6 | Red repeats unpaid; Coherence Twins Orange-A clear after working5/5 separation. |3,750 retained. |"
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 8,
+      "check": "R5D4 OPEN; seasonal appointment removed",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 670,
+          "text": "R5D1-2 domai; R5D3 recovery. R5D4 OPEN: REMOVE seasonal raeon participation/elimination. R5D5 Orange x2. R5D6 social/family. R5D7 Duo W9; domai payout zero if eligibility expires."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 9,
+      "check": "R7D6 seasonal knockout then Duo1950; D7 unchanged",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 673,
+          "text": "R7D6 10:00 SEASONAL raeon entry -> EARLY KNOCKOUT -> later existing Duo W10 CLEAR. Preserve +1,950 and running balance."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 10,
+      "check": "PC Blue/White Legacy O1D3;952 balance",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 635,
+          "text": "O1D3 Duo W10 then IMMEDIATE PC Blue SAME DAY: 24,707+1,950=26,657; -25,705=952. Move PC Blue/White Legacy date O1D4->O1D3 everywhere."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 11,
+      "check": "O1D6 outcomes and zero Orange reward",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 638,
+          "text": "O1D6: Sixfold CLEAR; Triumvirate CLEAR; Black Orchard repeated FAIL; Weaver/Wayfarer/Bloom NOT ATTEMPTED. Two Red first-clears=5,000 each actual total. Minimum scaffold books one +2,500; second +2,500 actual/discretionary. ZERO Orange reward."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 638,
+          "text": "O1D6: Sixfold CLEAR; Triumvirate CLEAR; Black Orchard repeated FAIL; Weaver/Wayfarer/Bloom NOT ATTEMPTED. Two Red first-clears=5,000 each actual total. Minimum scaffold books one +2,500; second +2,500 actual/discretionary. ZERO Orange reward."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": "Actual two-Red total5000 comprises minimum2500 plus discretionary2500; no Orange award."
+    },
+    {
+      "item": 12,
+      "check": "Absorption O2D2;42 balance",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 641,
+          "text": "O2D2 Duo W10 then IMMEDIATE Absorption Red SAME DAY: 7,442+1,950=9,392; -9,350=42. Move purchase O2D3->O2D2. Major White-Legacy celebration."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 13,
+      "check": "O2D3 optional W7/W8; CSR61017; no guessed credit",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 642,
+          "text": "O2D3 early illi Solo W7 CLEAR/W8 FAIL; exact optional credits OPEN. Later Kira purchases CSR 61,017 — exact date LOCKED. Family-smithy/social valid."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 642,
+          "text": "O2D3 early illi Solo W7 CLEAR/W8 FAIL; exact optional credits OPEN. Later Kira purchases CSR 61,017 — exact date LOCKED. Family-smithy/social valid."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 596,
+          "text": "Kira purchases **CSR on O2D3 for61,017**, later in the day after illi’s optional early W7-clear/W8-fail Solo. This resolves CSR’s exact purchase-day OPEN; it preserves O2D4 immediate Green Duo W13, all later Black acquisition dates and the existing rankless Black architecture. Family-smithy/social time is valid that day. The source supplies no new complete Kira cash ledger. [Explicit date](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md)."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 14,
+      "check": "O3D4 Kira late W14/3855 retained",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 648,
+          "text": "O3D4 illi Solo frontier/no new validated milestone AND Kira leisure then late-night Solo W14 CLEAR; preserve +3,855."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 15,
+      "check": "O4D2 Black Orchard3750 only; downstream reconciled",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 651,
+          "text": "O4D2 group may repeat Red but Kira/illi already claimed both Orange-season Reds O1D6: NO Red reward. Black Orchard Orange-A eventual CLEAR. Reward = +3,750 each ONLY, not +6,250. Reconcile ARC3 row/downstream economy. The other +2,500 was earned earlier at O1D6 as actual/discretionary; no third Red."
+        },
+        {
+          "path": "world-clock/ARC4_HANDOFF.md",
+          "line": 42,
+          "text": "Reconciled Orange deterministic gross is **56,385 illi /81,415 Kira**, excluding domai and actual discretionary spending. **86,000−81,415=4,585** under zero-opening-funds/no-other-income/no-prior-spending assumptions; this conditional difference is not a debt or award. Opening funds, earlier discretionary earnings, previous spending and contextual domai payout remain OPEN. No invented gift, run, transfer or altered reward closes the gap. The author-locked card purchase stands; full funding remains OPEN. Historical83,915/2,085 figures are superseded for current gross accounting."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 16,
+      "check": "O5D1/O5D6 OPEN",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 655,
+          "text": "O5D1 OPEN; remove seasonal qualification. O5D2 Duo W15. O5D3 morning open, smithy visit, late Kira Solo W15. O5D4 Yellow Dungeon FAIL. O5D5 residence recovery. O5D6 OPEN; remove seasonal elimination. O5D7 OPEN."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 655,
+          "text": "O5D1 OPEN; remove seasonal qualification. O5D2 Duo W15. O5D3 morning open, smithy visit, late Kira Solo W15. O5D4 Yellow Dungeon FAIL. O5D5 residence recovery. O5D6 OPEN; remove seasonal elimination. O5D7 OPEN."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 17,
+      "check": "O7D5 recovery/OPEN; no championship viewing",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 658,
+          "text": "O7D3 domai day1; O7D4 domai day2/exit. O7D5 mandatory post-domai recovery / otherwise OPEN; REMOVE championship viewing."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 18,
+      "check": "O7D6 knockout then Duo5805; D7 Dungeon1020",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 659,
+          "text": "O7D6 10:00 SEASONAL raeon entry -> EARLY KNOCKOUT -> later Duo W17 CLEAR. Preserve +5,805. O7D7 Orange Dungeon x1 unchanged +1,020."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 19,
+      "check": "Six Orange bosses/mechanisms in current owner",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 797,
+          "text": "### Red A — Sixfold"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 801,
+          "text": "### Red B — Triumvirate"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 804,
+          "text": "### Orange A — Black Orchard"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 807,
+          "text": "### Orange B — Weaver"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 813,
+          "text": "### Yellow — Wayfarer"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 816,
+          "text": "### Green — The Bloom"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 809,
+          "text": "Phase 1: jumps/weaves unpredictably; Raid spreads; landing/catching participant can pin/impale, with clean central impalement ordinarily catastrophic/lethal (not artificial one-shot). Raid concentrates damage on legs despite mobility. ANY four legs may be disabled."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 810,
+          "text": "Transition: at 4 remaining functional legs, jumping locomotion is mechanically unavailable."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 814,
+          "text": "~13-ft lean bipedal construct using paired spatial/dimensional gates. Paired boundaries preserve continuity; attacks/matter enter one and emerge from paired exit with momentum/energy substantially preserved. Can step through gates/walls and redirect incoming Fireball/Beam/projectile toward other participants, creating physically real friendly fire. Gate formation has readable Genesis expression; participants may exploit open gates. Guardrail: attack must cross gate BEFORE impact; no retroactive reflection after boss is hit. Identity: spatial/topological awareness."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 822,
+          "text": "Runaway is emergent, no hard numeric wipe: more Blooms -> more spores -> more melee pressure -> fatigue -> missed spores -> more Blooms. Eventually spore production exceeds physical suppression capacity and battlefield becomes unrecoverable. Green should feel survivable/attackable/understandable yet functionally impossible for immature first-cycle Orange-season groups."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 819,
+          "text": "Prime ejects spores. Immature spores draw on Genesis field. Physical/melee disruption destroys them. Direct Genesis-energy attacks are metabolized/absorbed and accelerate growth; NOT generic anti-magic. Unattended/energized spore matures into ~17-ft Secondary Bloom."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 805,
+          "text": "Gigantic black Genesis tree/root environment. Fine roots/tendrils/vines whip/grab/obstruct and must be penetrated. Central Orchard emits broad Decoherence/Genesis-field pulses with escalating pressure. Persistent Coherence is especially valuable for sustained raid stabilization; Directed Coherence remains acute rescue. Identity: environmental penetration + healing throughput + attrition. O1D6 repeated attempts FAIL; group dissolves. O4D2 later achieves the authored Orange-A CLEAR for3,750, with no duplicate Red reward."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 20,
+      "check": "Complete Hard Raid doctrine in current owner",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 661,
+          "text": "Hard uses SAME seasonal bosses as Normal; no second roster."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 662,
+          "text": "Normal encounters comparatively discrete with encounter-local fatigue normalization/reset between boss domains. Hard is one continuous hostile raid environment with ten-person-calibrated hostile populations between bosses and NO systemic fatigue reset. Ordinary in-instance rest != reset."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 663,
+          "text": "Roster locks at creation. Individual death re-instances participant outside Raid/residence; they cannot rejoin active attempt and cannot be replaced. Survivors may continue N-1. Voluntary exit likewise cannot rejoin."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 663,
+          "text": "Roster locks at creation. Individual death re-instances participant outside Raid/residence; they cannot rejoin active attempt and cannot be replaced. Survivors may continue N-1. Voluntary exit likewise cannot rejoin."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 664,
+          "text": "Casualties are role-dependent: evaluate surviving capabilities, not count only. Missing one of two Guardian-capable participants can make Coherence Twins 5/5 solution non-executable."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 665,
+          "text": "Individual death does NOT reset. Total elimination or survivors abandoning/end attempt terminates instance. Next attempt restarts at ingress with all environment/boss progression restored. No checkpoints. Reward eligibility persists across attempts; already-claimed bosses do not repay just because re-cleared."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 665,
+          "text": "Individual death does NOT reset. Total elimination or survivors abandoning/end attempt terminates instance. Next attempt restarts at ingress with all environment/boss progression restored. No checkpoints. Reward eligibility persists across attempts; already-claimed bosses do not repay just because re-cleared."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 665,
+          "text": "Individual death does NOT reset. Total elimination or survivors abandoning/end attempt terminates instance. Next attempt restarts at ingress with all environment/boss progression restored. No checkpoints. Reward eligibility persists across attempts; already-claimed bosses do not repay just because re-cleared."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 666,
+          "text": "Hard is always available; practical first-cycle accessibility emerges from DEPTH OF BUILD: Binding breadth/rank depth/equipment/role redundancy/endurance/group experience. Early Red underbuilt; late Orange can attempt meaningful Red/Orange Hard progression."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 666,
+          "text": "Hard is always available; practical first-cycle accessibility emerges from DEPTH OF BUILD: Binding breadth/rank depth/equipment/role redundancy/endurance/group experience. Early Red underbuilt; late Orange can attempt meaningful Red/Orange Hard progression."
+        },
+        {
+          "path": "live-model/COMBAT_ECOLOGY.md",
+          "line": 667,
+          "text": "Core optimization: encounter progress per fatigue/casualty."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 21,
+      "check": "Later-season/global tournament schedules not rewritten",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 660,
+          "text": "Do NOT infer global tournament cadence."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": "All35 Yellow–White clock rows and all standing/infrastructure fields are unchanged."
+    },
+    {
+      "item": 22,
+      "check": "Daily10:00 raeon stays distinct",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/RAEON.md",
+          "line": 218,
+          "text": "Current Red/Orange personal seasonal entries are **R7D6 and O7D6 at10:00**: Kira+illi are knocked out early, then complete the already-booked same-day Duo W10 (+1,950) or W17 (+5,805). **R5D4, O5D1 and O5D6 are OPEN**, superseding their former seasonal appointments. R7D7 Orange×2 (+2,040) and O7D7 Orange×1 (+1,020) remain. These personal corrections do not define a global tournament cadence or rewrite Yellow/Green/Blue/Violet/White schedules. Daily10:00 raeon is a separate circuit."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 656,
+          "text": "O6D1 Duo W16 ~10-11 start -> abecca -> 002 -> 001 casual raeon. O6D2 weekly girls/social. O6D3 one Orange CLEAR filling vacancy in existing group; group fizzles; lunch; illi reads/Kira Builder. O6D4 royal-estate breakfast/social; late Kira Solo W15. O6D5 first Hard Raid using HARD_RAID_DOCTRINE. O6D6 OPEN; DAILY 10:00 raeon optional/working, not seasonal. O6D7 Duo W16 unchanged; smithy/highlights."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 23,
+      "check": "R1D2/R1D3 RECOVERY_GAP explicit",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 68,
+          "text": "O1D1/O1D7 Duo W10, O1D2/O2D1 Orange×2 and other supplied combat remain. [Full Red/Orange social owner](../live-model/STORY_CLOCK_STATE.md#october-8-cumulative--orange-weeks-one-through-seven) retains all compatible family, books, Builder, leader and001 temporary-playtest detail. No chapter boundaries follow. The **R1D2/R1D3 RECOVERY_GAP remains explicit and unresolved**."
+        }
+      ],
+      "data_check": true,
+      "missing": [],
+      "qualification": ""
+    },
+    {
+      "item": 24,
+      "check": "Unrelated later canon preserved",
+      "result": "PASS",
+      "evidence": [],
+      "data_check": true,
+      "missing": [],
+      "qualification": "59 later dossier/checkpoint/calendar/audit files byte-identical. Arc Four handoff changes only the dependent Orange gross/conditional card gap; later event rows remain exact."
+    },
+    {
+      "item": 25,
+      "check": "Red/Orange/Arc3 economy and all repository validators pass",
+      "result": "PASS",
+      "evidence": [],
+      "data_check": true,
+      "missing": [],
+      "qualification": "Fresh execution evidence: reconcile08-final.json (or first audit until final exists); full current correction guard invoked by existing validators."
+    }
+  ],
+  "post_push_remote_verified": false,
+  "remaining_open": [
+    "R1D2/R1D3 paid-combat RECOVERY_GAP.",
+    "Optional illi Solo exact credits, including O2D3 W7 clear/W8 fail; unsupplied later optional results and O3D4 frontier.",
+    "Full actual wallets, discretionary spending and contextual domai payout/conquest timing.",
+    "Recurring male leader name (Jaeren rejected); Kaevren house/surname/appearance/build/reconciliation; exact shop/venue names.",
+    "First-domai overnight staging; Weaver alloy; qualified social attendance/times and all compatible later OPENs."
+  ]
+}

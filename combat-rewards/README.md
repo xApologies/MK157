@@ -40,7 +40,7 @@ The totals sum one boss at each listed rank. The mature standalone roster is R/O
 
 The major completion reward is earned **once per participant per boss per season**. Repeat assistance/practice/social kills remain legal and do not repeat the major payout for that participant. The unit is a boss, not a shared same-rank allowance. Existing season reset and 12 major opportunities (six standalone plus six Expedition bosses) remain. Participant maximum stays ten; smaller groups remain legal.
 
-Expedition/Hard Raid is an attrition expedition. Intervening eldris are the path to the next boss reward. An eliminated participant remains out for that expedition attempt, with **no mid-run replacement**. Remaining participants may continue short-handed or abandon. No additional resurrection or re-entry rules are supplied.
+Expedition/Hard Raid uses the same seasonal bosses as Normal in a continuous hostile environment. [Current complete doctrine](../live-model/COMBAT_ECOLOGY.md#october-8-cumulative--hard-raid-doctrine) locks roster, death/exit re-instancing, no re-entry/replacement, no systemic fatigue reset, complete-attempt restart without checkpoints, and persistent reward eligibility. Ordinary in-instance rest is not a systemic reset; accessibility follows build depth, not an availability gate.
 
 ## Valnak domai rewards — OPEN BY DESIGN
 
@@ -75,3 +75,19 @@ Raid major payout remains once per participant per **specific boss per season**,
 OPEN/recovery days may pass off-page. Calendar is macro time; narrative selects meaningful intersections. No chapter count is assigned.
 
 [Master source](../provenance/diplomatic-pouch-r2-r3/package/MASTER_DELTA.md); [conditional Raid scope](../provenance/diplomatic-pouch-r2-r3/package/R3_RAID_ROSTER.md#red-season-character-reward-handling). Checkpoint 25 and compatible earlier locks still govern their scopes; this is not a numbered checkpoint.
+
+## October 8 — authored bonus clears and Solo accounting
+
+The existing Red→O2D3 ledger remains the minimum progression scaffold. R4D5 Burrower (Red B) now clears for **2,500 per girl** in separate actual/discretionary wallet surplus. O1D6’s newly authored Sixfold (Red A) plus Triumvirate (Red B) clears each pay 2,500; the existing minimum row covers one Red only. The new source calls the second Red a further 2,500 per girl wallet surplus. Black Orchard fails and gives no Orange major reward.
+
+The cumulative Red/Orange reconciliation resolves O4D2: Black Orchard pays3,750 each; Red repeats pay0 after both Reds paid O1D6. Current Arc Three minimum gross is56,385 illi /81,415 Kira. The earlier second-Red2,500 stays O1D6 actual/discretionary surplus; no duplicate reward remains. Black Orchard Orange-A clears O4D2; any Red warm-up is unpaid. The current39-row minimum total decreases2,500 per girl, without reclassifying O1D6’s already-earned discretionary2,500 as another reward. No third Red, mode swap or deferred-payment device is created. Earlier optional extra Red+Orange examples stay conditional; no unsupplied Orange clear follows.
+
+Trial table audit: completed W1 pays 50, W1–W2 totals 140, W1–W3 totals 255; failed next waves pay zero. R2D5’s W2 clear remains 140 and is a bad run, not a ceiling. R4D1’s minimum 255 does not establish the final depth of its now-variable Orange-pressure run. Optional R6D4/R7D5/O1D4 efforts have no authored exact results and receive no guessed credits. All progression-spend values remain fixed; only the explicitly corrected PC Blue/Legacy O1D3 and Absorption O2D2 dates move. Actual/discretionary wallet closure awaits later outline accounting.
+
+[Author locks](../provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md); [Orange Week One](../provenance/diplomatic-pouch-2026-10-08/package/package/03_ORANGE_W1.md); [conflict audit](../provenance/diplomatic-pouch-2026-10-08/CONFLICTS.json).
+
+## October 8 cumulative — reconciled economy
+
+Current Arc Three O2D4–O7D7 minimum gross: **56,385 illi /81,415 Kira**; Kira-only Solo remains25,030. O4D2 pays only Black Orchard **3,750 each**; both Normal Reds already paid O1D6, whose actual5,000 includes2,500 booked+2,500 discretionary. R4D5 Burrower’s2,500 remains discretionary. Never add the same second-Red reward twice.
+
+PC Blue/White Legacy now O1D3 for25,705, post-balance952; Absorption Red O2D2 for9,350, post-balance42. Their minimum prebalances26,657/9,392 and total progression spend stay unchanged. CSR purchase O2D3 costs Kira61,017. Optional illi W7/W8 Solo credits remain OPEN. The conditional86,000−81,415=**4,585** card-funding difference assumes no opening funds/other income/prior spending; it is no canonical debt or invented award. Actual wallets and contextual domai payout remain OPEN. [Explicit correction](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md), [current calendar](../world-clock/ARC3_ORANGE_CALENDAR.md).

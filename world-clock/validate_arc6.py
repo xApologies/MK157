@@ -13,6 +13,7 @@ import sys
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools" / "validation"))
 from validate_clock_promotion import current_clock_baseline, validated_replacements
+from validate_red_orange_reconciliation import reconcile_dates, historical_clock_view, validated_replacements as reconciliation_replacements
 
 
 def audit(root):
@@ -30,12 +31,15 @@ def audit(root):
     require(set(before['package_source_sha256'])=={p.name for p in (root/archive).iterdir()} and len(before['package_source_sha256'])==16,'Package membership mismatch')
     for p,h in before['package_source_sha256'].items(): require(sha(archive+p)==h,'Source bytes changed: '+p)
     for item in js(archive+'FILE_INVENTORY.json'): require(sha(archive+item['path'])==item['sha256'] and (root/archive/item['path']).stat().st_size==item['bytes'],'Inventory mismatch: '+item['path'])
+    reconciled = reconciliation_replacements(root)
     pairs={
         'ARC6_DIRECTOR_CALENDAR':('ARC6_DIRECTOR_CALENDAR',['week','day','kira_income','illi_income','illi_progression_spend','kira_progression_spend']),
         'ARC6_ILLI_CREDIT_LEDGER':('ARC6_ILLI_CREDIT_LEDGER',['income','progression_spend','running_progression_reserve']),
         'ILLI_AUTHOR_PROGRESSION_LEDGER':('ILLI_PROGRESSION_LEDGER_REPLACEMENT',['week','day','cost','cumulative_progression_spend'])}
     for target,(source,numeric) in pairs.items():
-        for ext in ('csv','json'): require((root/f'world-clock/{target}.{ext}').read_bytes()==(root/f'{archive}{source}.{ext}').read_bytes(),'Promoted source differs: '+target+'.'+ext)
+        for ext in ('csv','json'):
+            if f'world-clock/{target}.{ext}' not in reconciled:
+                require((root/f'world-clock/{target}.{ext}').read_bytes()==(root/f'{archive}{source}.{ext}').read_bytes(),'Promoted source differs: '+target+'.'+ext)
         converted=rows('world-clock/'+target+'.csv')
         for row in converted:
             for key in numeric: row[key]=int(row[key])
@@ -111,7 +115,7 @@ def audit(root):
         require((transaction['date'],transaction['income'],transaction['progression_spend'],transaction['running_progression_reserve'])==(d['date'],d['illi'],d['illi_spend'],d['illi_progression_reserve']),'Reserve mismatch: '+d['date'])
         require(transaction['kind']==('purchase' if d['illi_spend'] else 'income'),'Reserve kind mismatch')
     require(reserve[-1]['running_progression_reserve']==7390,'Ending reserve mismatch')
-    ledger=js('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json');old_ledger=json.loads(old('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json'))
+    ledger=js('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json');old_ledger=reconcile_dates(json.loads(old('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json')))
     require(ledger[:13]==old_ledger[:13] and len(ledger)==19,'First 13 events changed or missing six-event tail')
     require([(date(r),r['purchase_or_upgrade'],r['cost']) for r in ledger[13:]]==[(d,p,c) for d,(p,c) in purchases.items()],'Replacement tail mismatch')
     bind={r['name']:r for r in js('bindings/BINDINGS.json')};prime={r['name']:r for r in js('summons/PRIME_ELEMENTAL_PRICING.json')}
@@ -124,7 +128,7 @@ def audit(root):
             cost=int((Decimal(value)*(Decimal('0.55') if accepted else Decimal(1))).quantize(Decimal(1),rounding=ROUND_HALF_UP))
         cumulative+=cost;require((r['cost'],r['cumulative_progression_spend'])==(cost,cumulative),'Pricing/cumulative error: '+r['purchase_or_upgrade'])
     require(cumulative==292772 and sum(r['cost'] for r in ledger[13:])==149675,'Progression sum mismatch')
-    skeleton=js('world-clock/ILLI_PROGRESSION_SKELETON.json');old_skeleton=json.loads(old('world-clock/ILLI_PROGRESSION_SKELETON.json'))
+    skeleton=js('world-clock/ILLI_PROGRESSION_SKELETON.json');old_skeleton=reconcile_dates(json.loads(old('world-clock/ILLI_PROGRESSION_SKELETON.json')))
     require(skeleton[:13]==old_skeleton[:13] and len(skeleton)==19,'Skeleton prefix/count mismatch')
     skcsv=rows('world-clock/ILLI_PROGRESSION_SKELETON.csv')
     for row in skcsv:row['week']=int(row['week']);row['day']=int(row['day'])
@@ -139,7 +143,7 @@ def audit(root):
     for name in ('ILLI_AUTHOR_PROGRESSION_LEDGER.csv','ILLI_AUTHOR_PROGRESSION_LEDGER.json','ILLI_PROGRESSION_SKELETON.csv','ILLI_PROGRESSION_SKELETON.json'):
         require((root/'provenance/checkpoint-24-baseline'/name).read_bytes()==old('world-clock/'+name),'Archived old progression changed')
     # Preserve standing clocks exactly; CP24 plus CP25 changes affect only authored character-overlay weeks.
-    weekly=rows('world-clock/WORLD_CLOCK_TEMPLATE.csv');old_weekly=list(csv.DictReader(old('world-clock/WORLD_CLOCK_TEMPLATE.csv').decode().splitlines()));changed=[]
+    weekly=historical_clock_view(root, rows('world-clock/WORLD_CLOCK_TEMPLATE.csv'));old_weekly=list(csv.DictReader(old('world-clock/WORLD_CLOCK_TEMPLATE.csv').decode().splitlines()));changed=[]
     promoted_prose = set()
     try:
         old_weekly = current_clock_baseline(root, old_weekly)
@@ -201,7 +205,7 @@ def audit(root):
     for p,phrases in content.items():
         for phrase in phrases:require(phrase.lower() in text(p).lower(),'Content missing: '+p+': '+phrase)
     inputs=['world-clock/ARC6_DIRECTOR_CALENDAR.json','world-clock/ARC6_ILLI_CREDIT_LEDGER.json','world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json','world-clock/ILLI_PROGRESSION_SKELETON.json','world-clock/WORLD_CLOCK_TEMPLATE.csv','world-clock/ARC6_HANDOFF.json','world-clock/validate_arc6.py','economy/KIRA_BLACK_ACQUISITION_PRICES.json',*content]
-    return {'checkpoint':24,'result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':before['baseline_commit'],'arc':'G6D3→B6D3','arc7_open':'B6D4','calendar_rows':len(calendar),'counts':dict(counts),'gross':totals,'progression_spend':spend,'income_by_category':dict(category),'daily_accounting':daily,'reserve_transactions':len(reserve),'illi_earmarked_start':0,'illi_earmarked_end':reserve[-1]['running_progression_reserve'],'minimum_post_purchase_reserve':min(r['running_progression_reserve'] for r in reserve if r['kind']=='purchase'),'illi_events':len(ledger),'illi_cumulative_spend':cumulative,'first_13_events_unchanged':True,'raid_bookings':raid_bookings,'domai_awards':state['specific_domai_awards'],'builder_nights':nights,'clock_changed_weeks':changed,'standing_clock_fields_unchanged_except_authorized_highlights':True,'runtime_hours':{'Yellow':[5,10],'Green':[12,21],'Blue':[25,42],'W18':[21,38],'each_Blue_wave':[3.5,6],'W19_before_failure':[24.5,44],'W20_before_failure':[28,50],'raid':None},'arc5_calendar_data_and_handoff_byte_identical':True,'project_princess_carry_section_byte_identical':True,'registries':registry,'protected_baseline_files':protected,'sha256':{p:sha(p) for p in sorted(set(inputs))}}
+    return {'checkpoint':24,'result':'FAIL' if errors else 'PASS','errors':errors,'baseline_commit':before['baseline_commit'],'arc':'G6D3→B6D3','arc7_open':'B6D4','calendar_rows':len(calendar),'counts':dict(counts),'gross':totals,'progression_spend':spend,'income_by_category':dict(category),'daily_accounting':daily,'reserve_transactions':len(reserve),'illi_earmarked_start':0,'illi_earmarked_end':reserve[-1]['running_progression_reserve'],'minimum_post_purchase_reserve':min(r['running_progression_reserve'] for r in reserve if r['kind']=='purchase'),'illi_events':len(ledger),'illi_cumulative_spend':cumulative,'first_13_events_preserved_except_explicit_october8_dates':True,'raid_bookings':raid_bookings,'domai_awards':state['specific_domai_awards'],'builder_nights':nights,'clock_changed_weeks':changed,'standing_clock_fields_unchanged_except_authorized_highlights':True,'runtime_hours':{'Yellow':[5,10],'Green':[12,21],'Blue':[25,42],'W18':[21,38],'each_Blue_wave':[3.5,6],'W19_before_failure':[24.5,44],'W20_before_failure':[28,50],'raid':None},'arc5_calendar_data_and_handoff_byte_identical':True,'project_princess_carry_section_byte_identical':True,'registries':registry,'protected_baseline_files':protected,'sha256':{p:sha(p) for p in sorted(set(inputs))}}
 
 
 def main():

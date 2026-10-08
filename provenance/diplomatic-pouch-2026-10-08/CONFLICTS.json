@@ -1,0 +1,37 @@
+{
+  "publication_gate": "ALL_PREPUBLICATION_CHECKS_PASS",
+  "opening_chronology": "Existing R1D2/R1D3 RECOVERY_GAP preserved; not resolved by this package.",
+  "resolved": [
+    {
+      "scope": "007 collision",
+      "decision": "007 bookstore;008 previously unused, receives former southern civic festival venue; other fields preserved except note serial reference."
+    },
+    {
+      "scope": "First Champion dinner",
+      "decision": "Elara-arranged surprise supersedes earlier advance explanation; later standing family invitation supplied, no paid-date repair."
+    },
+    {
+      "scope": "Personal names",
+      "decision": "Kaevren and Kira household resolved; leader remains unnamed,Jaeren rejected."
+    },
+    {
+      "scope": "illi W2/W3",
+      "decision": "Bad/minimum runs not capability ceilings; no actual optional reward invented."
+    },
+    {
+      "scope": "Red domai lockout",
+      "decision": "D1 leave cannot be formal exit then D2 reentry; exact staging OPEN, D2 exit/death and D3 full-day lockout preserved."
+    },
+    {
+      "scope": "O1D6/O4D2 Red payment",
+      "decision": "Latest author explicitly sets O4D2 Red0 and Black Orchard3750 each. Arc Three minimum gross56385/81415; earlier O1D6 second-Red2500 remains discretionary."
+    }
+  ],
+  "unresolved": [],
+  "checksum_warning": "9 content-file hashes match; SHA256SUMS.txt self-entry does not match its own bytes. Original list retained; every extracted file also independently hashed.",
+  "latest_repair": {
+    "status": "Superseded in conflicting scope by cumulative reconciliation",
+    "approval_question": "Resolved by new explicit source, not by an inferred answer.",
+    "current_source": "package/red-orange-reconciliation/package/ORANGE_W1_W4.md"
+  }
+}

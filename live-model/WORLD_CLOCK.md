@@ -254,13 +254,13 @@ Current [illi schedule](ILLI_PROGRESSION.md) follows prerequisite-first developm
 
 The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 250,884 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. Checkpoint 18 now supplies the separate 59-day combat scaffold; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged.
 
-[Checkpoint 18 combat calendar](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) governs the 59 supplied Red→O2D3 rows, retaining 21 NO REQUIRED COMBAT days and all milestone dates. Starter grant 2,000; illi combat income 52,695 through O2D2; PC Blue/Legacy leaves 952 at O1D4 and Absorption Red leaves 42 at O2D3. Discretionary spending and later income remain separate/OPEN.
+The [current Red→Orange calendar](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) retains59 rows,21 NO REQUIRED COMBAT rows,2,000 grant and52,695 minimum illi income. The cumulative correction buys PC Blue/White Legacy immediately after O1D3 Duo for25,705 (balance952), and Absorption Red immediately after O2D2 Duo for9,350 (balance42). CSR is Kira’s O2D3 purchase61,017; optional illi Solo W7/W8 credits remain OPEN and outside this minimum ledger.
 
 ## Checkpoint 19 — character tournament synchronization
 
-Kira + illi participate and are eliminated at **R5D4**; the Red calendar retains NO REQUIRED COMBAT. Orange qualification is **O5D1**; elimination progression and their elimination are **O5D6**. This explicit personal date governs while the standing world circuit remains W5 qualification/opening, W6 elimination progression, W7D1–D4 late bracket and W7D5 championship. They have no W7 personal bracket obligation.
+Current Red/Orange personal seasonal entries are **R7D6 and O7D6 at10:00**: Kira+illi are knocked out early, then complete the already-booked same-day Duo W10 (+1,950) or W17 (+5,805). **R5D4, O5D1 and O5D6 are OPEN**, superseding their former seasonal appointments. R7D7 Orange×2 (+2,040) and O7D7 Orange×1 (+1,020) remain. These personal corrections do not define a global tournament cadence or rewrite Yellow/Green/Blue/Violet/White schedules. Daily10:00 raeon is a separate circuit.
 
-**O7D5** combines full mandatory post-domai recovery and optional championship viewing with no combat. The successful operational block is O7D3–D4; payout/conquest timing remains OPEN. [Arc Three calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) covers O2D4–O7D7 and preserves ten OPEN slice-of-life days. Weekly character summaries reference the scaffold; standing social tracks, Auctions, Prism, nightly Highlights and 37 team placeholders remain unchanged. Exact bracket sizes, prizes and other match dates remain OPEN.
+**O7D5** is full mandatory post-domai recovery / otherwise OPEN; prior championship viewing is removed. The successful operational block remains O7D3–D4, payout/conquest timing OPEN. O7D6’s seasonal early knockout precedes the existing Duo after recovery. [Current Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) has12 OPEN rows; social texture is not mandatory combat. Other standing infrastructure, Auctions, Prism,27:00 Highlights and team placeholders remain unchanged; no global later-season tournament rewrite follows.
 
 ## Checkpoint 20 — social life and civic institutions
 
@@ -330,7 +330,7 @@ No exact B6D4→V7 daily schedule, full mastery, support names/count, purchase d
 
 ## Arc One R2 — narrative time and Opening Celebration
 
-R1D7 now hosts the supplied Opening Celebration, citywide with principal hub 007. This fills its social/recovery direction without changing a combat row. Nightly Highlights remain 27:00; suggested R1D3 wake/Trial/recovery/lunch/dinner times remain WORKING. Consult the [developed Red scene clock](STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock).
+R1D7 now hosts the supplied Opening Celebration, citywide with principal hub 008. This fills its social/recovery direction without changing a combat row. Nightly Highlights remain 27:00; suggested R1D3 wake/Trial/recovery/lunch/dinner times remain WORKING. Consult the [developed Red scene clock](STORY_CLOCK_STATE.md#arc-one-r2--red-weeks-one-and-two-scene-clock).
 
 Calendar is significant macro progression time; the novel selects significant narrative time. OPEN days can pass off-page. The [incidental Trial doctrine](../THREAD_DEVELOPMENT_CONSTITUTION.md#incidental-trial--lifestyle-credit-doctrine) permits optional shallow lifestyle income in available time, not new required combat or overwritten recovery blocks. Older Day-One Solo/Day-Two double-Duo labels remain superseded and the earlier friendship chronology remains RECOVERY_GAP.
 

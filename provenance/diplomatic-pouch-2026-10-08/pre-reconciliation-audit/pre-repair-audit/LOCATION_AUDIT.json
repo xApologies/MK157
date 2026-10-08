@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "unique_serials": [
+    "001",
+    "001-A",
+    "001-B",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008"
+  ],
+  "bookstore": "007",
+  "former_007_festival": "008",
+  "008_unused_in_baseline": true,
+  "venue_fields_preserved_except_serial_and_note_reference": true,
+  "all_other_supplied_R2_rows_preserved": true,
+  "new_map_bytes_match_supplied": true,
+  "historic_images_unchanged": true
+}

@@ -21,7 +21,7 @@
     "kira_credit": 3305,
     "duration": "late-night long block",
     "status": "CLEAR",
-    "notes": "illi not participating; Kira-only income. Background unless narratively featured."
+    "notes": "Optional failed Black Orchard daytime Raid/no reward; Kira late Solo W13 remains3305 Kira-only."
   },
   {
     "season": "Orange",
@@ -81,7 +81,7 @@
     "kira_credit": 0,
     "duration": "substantial group block",
     "status": "FAIL",
-    "notes": "No Yellow completion payout. Frontier attempt consumes time."
+    "notes": "About4 Yellow Dungeon attempts, all FAIL; group fizzles. No invented partial/completion reward."
   },
   {
     "season": "Orange",
@@ -93,7 +93,7 @@
     "kira_credit": 3855,
     "duration": "late-night long block",
     "status": "CLEAR",
-    "notes": "illi not participating; Kira-only income. Background unless narratively featured."
+    "notes": "illi independent Solo frontier, no new validated milestone or guessed credits. Kira leisure then late-night Solo W14 CLEAR;3855 Kira-only unchanged."
   },
   {
     "season": "Orange",
@@ -147,13 +147,13 @@
     "season": "Orange",
     "week": 4,
     "day": 2,
-    "event": "Normal Raid: Red + Orange",
+    "event": "Normal Raid: Black Orchard Orange-A; optional Red repeats",
     "kind": "Raid",
-    "illi_credit": 6250,
-    "kira_credit": 6250,
+    "illi_credit": 3750,
+    "kira_credit": 3750,
     "duration": "most of day",
-    "status": "BOTH CLEAR",
-    "notes": "Seasonal major rewards: Red 2,500 + Orange 3,750."
+    "status": "ORANGE CLEAR / RED REPEAT UNPAID",
+    "notes": "Both Orange-season Normal Reds already claimed O1D6. NO Red reward. Black Orchard first-clear3750 each ONLY; no third Red. Earlier second-Red2500 remains actual/discretionary income."
   },
   {
     "season": "Orange",
@@ -219,13 +219,13 @@
     "season": "Orange",
     "week": 5,
     "day": 1,
-    "event": "raeon seasonal tournament \u2014 qualification",
-    "kind": "Tournament",
+    "event": "OPEN \u2014 social / independent life / recovery",
+    "kind": "OPEN",
     "illi_credit": 0,
     "kira_credit": 0,
-    "duration": "scheduled cultural block",
-    "status": "PARTICIPATE",
-    "notes": "No combat scheduled over personal tournament participation."
+    "duration": "",
+    "status": "",
+    "notes": "Prior seasonal qualification/elimination removed. Daily10:00 raeon is separate; no required combat."
   },
   {
     "season": "Orange",
@@ -279,13 +279,13 @@
     "season": "Orange",
     "week": 5,
     "day": 6,
-    "event": "raeon tournament \u2014 elimination progression",
-    "kind": "Tournament",
+    "event": "OPEN \u2014 social / independent life / recovery",
+    "kind": "OPEN",
     "illi_credit": 0,
     "kira_credit": 0,
-    "duration": "scheduled cultural block",
-    "status": "PARTICIPATE / ELIMINATED",
-    "notes": "Girls do not reach late bracket; remaining W7 tournament is background/viewing."
+    "duration": "",
+    "status": "",
+    "notes": "Prior seasonal qualification/elimination removed. Daily10:00 raeon is separate; no required combat."
   },
   {
     "season": "Orange",
@@ -357,7 +357,7 @@
     "kira_credit": 3750,
     "duration": "most of day",
     "status": "RED CLEAR / ORANGE FAIL",
-    "notes": "First Hard Raid experience; attrition prevents Orange clear."
+    "notes": "First Hard Raid: same seasonal bosses as Normal, continuous hostile environment, no systemic fatigue reset, locked roster/no re-entry or replacement. Existing Red clear3750/Orange fail retained; no extra boss clearance inferred."
   },
   {
     "season": "Orange",
@@ -369,7 +369,7 @@
     "kira_credit": 0,
     "duration": "",
     "status": "",
-    "notes": "Protected slice-of-life space. May host card shopping/deck building, relationships, celebrity life, family/royal events, recovery, casual raeon, or optional failed content."
+    "notes": "OPEN; optional/WORKING DAILY10:00 raeon, not seasonal. No required combat."
   },
   {
     "season": "Orange",
@@ -435,13 +435,13 @@
     "season": "Orange",
     "week": 7,
     "day": 5,
-    "event": "domai suspended recovery + raeon championship viewing",
-    "kind": "Recovery / Tournament",
+    "event": "Mandatory post-domai recovery / otherwise OPEN",
+    "kind": "Recovery",
     "illi_credit": 0,
     "kira_credit": 0,
     "duration": "full day",
     "status": "RECOVERY",
-    "notes": "W7D5 championship is world-clock event; girls already eliminated and may watch. No combat."
+    "notes": "Full mandatory recovery; prior championship viewing removed. No combat."
   },
   {
     "season": "Orange",
@@ -453,7 +453,7 @@
     "kira_credit": 5805,
     "duration": "very long Green block",
     "status": "CLEAR",
-    "notes": "Assumes recovery lock has elapsed; domai may resolve within eligibility separately."
+    "notes": "10:00 SEASONAL raeon entry -> EARLY KNOCKOUT -> later same-day Duo W17 CLEAR5805. Recovery lock has elapsed; no global tournament cadence inferred."
   },
   {
     "season": "Orange",

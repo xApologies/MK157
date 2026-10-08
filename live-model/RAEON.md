@@ -215,9 +215,9 @@ Checkpoint 14: veteran discretionary economics include expensive specialty/cycle
 
 ## Checkpoint 19 — character tournament synchronization
 
-Kira + illi participate and are eliminated at **R5D4**; the Red calendar retains NO REQUIRED COMBAT. Orange qualification is **O5D1**; elimination progression and their elimination are **O5D6**. This explicit personal date governs while the standing world circuit remains W5 qualification/opening, W6 elimination progression, W7D1–D4 late bracket and W7D5 championship. They have no W7 personal bracket obligation.
+Current Red/Orange personal seasonal entries are **R7D6 and O7D6 at10:00**: Kira+illi are knocked out early, then complete the already-booked same-day Duo W10 (+1,950) or W17 (+5,805). **R5D4, O5D1 and O5D6 are OPEN**, superseding their former seasonal appointments. R7D7 Orange×2 (+2,040) and O7D7 Orange×1 (+1,020) remain. These personal corrections do not define a global tournament cadence or rewrite Yellow/Green/Blue/Violet/White schedules. Daily10:00 raeon is a separate circuit.
 
-**O7D5** combines full mandatory post-domai recovery and optional championship viewing with no combat. The successful operational block is O7D3–D4; payout/conquest timing remains OPEN. [Arc Three calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) covers O2D4–O7D7 and preserves ten OPEN slice-of-life days. Weekly character summaries reference the scaffold; standing social tracks, Auctions, Prism, nightly Highlights and 37 team placeholders remain unchanged. Exact bracket sizes, prizes and other match dates remain OPEN.
+**O7D5** is full mandatory post-domai recovery / otherwise OPEN; prior championship viewing is removed. The successful operational block remains O7D3–D4, payout/conquest timing OPEN. O7D6’s seasonal early knockout precedes the existing Duo after recovery. [Current Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) has12 OPEN rows; social texture is not mandatory combat. Other standing infrastructure, Auctions, Prism,27:00 Highlights and team placeholders remain unchanged; no global later-season tournament rewrite follows.
 
 ## Checkpoint 20 — deck-building and everyday social life
 
@@ -302,3 +302,7 @@ Placement colors are iconography only, not basin/card/Binding/combat rank.
 The 00:00 registration and 10:00 event appointment apply to this program; the social-clock statement about a single hard anchor concerns dinner/Highlights/sleep, not all world events. Authenticated ownership remains required for sanctioned tournament decks. The established Valnak origin survives; exact inventor and history remain OPEN.
 
 [Approved R2/R3 source](../provenance/diplomatic-pouch-r2-r3/package/RAEON_DAILY.md).
+
+## October 8 — temporary legal deck configurations
+
+Inside 001, legal deck configurations may be temporarily realized for in-store playtesting without ownership. The temporary realization ends outside the flagship and confers no ownership. Existing no-removal/sale/trade and authenticated-ownership requirements for sanctioned tournaments remain. R7D3 follows the Duo with this playtesting; no invented card purchase is needed. [Author source](../provenance/diplomatic-pouch-2026-10-08/package/package/01_CHARACTER_SOCIAL.md).

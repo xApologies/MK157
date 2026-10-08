@@ -14,6 +14,8 @@ import subprocess
 import sys
 
 sys.dont_write_bytecode = True
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools" / "validation"))
+from validate_red_orange_reconciliation import reconcile_dates, audit as reconciliation_audit
 BASELINE = '74d0bbeda7503110f9701edb8755400e34e45946'
 RANKS = ('Red','Orange','Yellow','Green','Blue','Violet','White')
 ANCHORS = dict(zip(('FOUNDATIONAL','COMMON_SPECIALIZATION','ADVANCED','POWERFUL','EXCEPTIONAL'),
@@ -160,15 +162,16 @@ def audit(root):
     require(domai['death_multiplier_per_death'] == 0.8
             and domai['eventual_payout_rule'] == 'validated contribution award * 0.8^deaths', 'domai cumulative death rule mismatch')
 
+    reconciliation_audit(root)
     ledger = rows('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv')
     for row in ledger:
         for key in ('week','day','cost','cumulative_progression_spend'): row[key] = int(row[key])
     require(ledger == js('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json'), 'illi ledger mirrors differ')
-    old_ledger = json.loads(previous('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json'))
+    old_ledger = reconcile_dates(json.loads(previous('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json')))
     omit = {'cost','cumulative_progression_spend'}
     require([{k:v for k,v in row.items() if k not in omit} for row in ledger[:13]] ==
             [{k:v for k,v in row.items() if k not in omit} for row in old_ledger[:13]], 'Pre-Arc-Six milestone dates/events changed')
-    require(ledger == js('provenance/checkpoint-24-package/ILLI_PROGRESSION_LEDGER_REPLACEMENT.json'), 'Current ledger differs from CP24 author source')
+    require(ledger == reconcile_dates(js('provenance/checkpoint-24-package/ILLI_PROGRESSION_LEDGER_REPLACEMENT.json')), 'Current ledger differs from CP24 author source')
     binding_lookup = {row['name']:row for row in registries['bindings/BINDINGS']}
     name_map = {'Genesis Prime':'Genesis Prime Elemental','Coherence Prime':'Coherence Prime Elemental',
                 'Resonance Prime / Juggernaut':'Resonance Prime Elemental'}
@@ -178,7 +181,7 @@ def audit(root):
     for row in ledger:
         item = row['purchase_or_upgrade']
         if item == 'Accept White Legacy':
-            require((row['season'],row['week'],row['day']) == ('Orange',1,4), 'Legacy acceptance date changed')
+            require((row['season'],row['week'],row['day']) == ('Orange',1,3), 'Legacy acceptance date changed')
             expected_cost = 0
             accepted = True
         else:
@@ -233,9 +236,9 @@ def audit(root):
     require(gross == 52695 and balance == 42, 'Calendar gross/end balance mismatch')
     require(sum(row['combat_event']=='NO REQUIRED COMBAT' for row in calendar) == 21, 'Protected negative-space row count changed')
     require(sum(row['combat_event'].startswith('illi Solo Trial') for row in calendar) == 2, 'illi Solo experiment count changed')
-    require(lookup[('Orange',1,4)]['illi_running_balance'] == 952
-            and 'White Legacy qualifies' in lookup[('Orange',1,4)]['purchase'], 'PC Blue/Legacy gate mismatch')
-    require('Absorption Shield' in lookup[('Orange',2,3)]['purchase'], 'Absorption gate missing')
+    require(lookup[('Orange',1,3)]['illi_running_balance'] == 952
+            and 'White Legacy qualifies' in lookup[('Orange',1,3)]['purchase'], 'PC Blue/Legacy gate mismatch')
+    require('Absorption Shield' in lookup[('Orange',2,2)]['purchase'], 'Absorption gate missing')
     require(lookup[('Red',5,3)]['combat_event'] == 'domai recovery lock', 'Mandatory recovery missing')
     require('no major reward' in lookup[('Red',6,6)]['result'], 'Red repeat eligibility lost')
     inputs=['bindings/PRICING_CLASS_MATRIX.json','bindings/BINDINGS.json','bindings/BINDINGS.csv','bindings/BINDINGS.jsonl','bindings/COMPENDIUM.md',
@@ -249,7 +252,7 @@ def audit(root):
     for summary in pricing.values(): summary['result']=result
     return {'checkpoint':18,'result':result,'errors':errors,'baseline_commit':BASELINE,'pricing_matrix':matrix,
             'pricing':pricing,'trial_total':total,'trial_rows':len(trials),'combat_rewards':reward_report,
-            'illi_ledger':{'rows':len(ledger),'total':cumulative,'first_13_dates_preserved':True,'post_G6D2_authority':'CP24 six-event replacement','events':ledger},
+            'illi_ledger':{'rows':len(ledger),'total':cumulative,'first_13_dates_authority':'Original milestones except explicit October8 PC/Legacy O1D3 and Absorption O2D2 correction','post_G6D2_authority':'CP24 six-event replacement','events':ledger},
             'calendar':{'result':result,'rows':len(calendar),'starting_credits':2000,'gross_illi_credits':gross,
                         'ending_balance':balance,'minimum_daily_closing_balance':min(row['illi_running_balance'] for row in calendar),
                         'negative_space_rows':21,'illi_solo_attempts':2,'purchase_gates':gates,'all_balances_nonnegative':not any('balance negative' in e for e in errors)},

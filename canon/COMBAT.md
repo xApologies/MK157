@@ -90,3 +90,11 @@ This is a resolved authoring view of existing sources. Explicit later correction
 The R/R/O/O/Y/G roster now has Fire Dragon, Burrower, Coherence Twins, Shardfield creature, Glasswing and Walking Fortress mechanisms. The cavern/six-route environment is WORKING; dated A/B mapping stays OPEN. They are Valnak-designed Transductive constructs/creatures, not ordinary eldris. Anatomy, field geometry, fatigue, positioning and coordination govern difficulty. Walking Fortress’s opposite-end ~5+5 charge/front-limb strategy is emergent player discovery, with no aggro/taunt or Elara tutorial. No new clear is booked.
 
 [Owner 1](../live-model/04_COMBAT_WORLD.md#r2r3-first-season-normal-raid-roster)
+
+## October 8 — seasonal Raid constructs
+
+Red authored clears now identify Fire Dragon R3D2, bonus Burrower R4D5 and Coherence Twins R6D6; Shardfield is the Red-season wall. Orange brings the LOCKED Sixfold / Triumvirate / Black Orchard / Weaver / Wayfarer / The Bloom roster. Morphology attrition, role separation, healing/environment pressure, leg-dependent locomotion, pre-impact dimensional redirection and spore/physical-suppression ecology supply real encounter mechanisms. These are Valnak constructs, not outside-world eldris or additions to the atomic library. No taunt/aggro/threat statistic is introduced. [Full boss owner](../live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster).
+
+## Current Hard Raid and Orange outcomes
+
+[Hard Raid doctrine](../live-model/COMBAT_ECOLOGY.md#october-8-cumulative--hard-raid-doctrine) uses the same seasonal bosses in a continuous environment with no systemic fatigue reset. Roster locks at creation; death re-instances outside, no re-entry/replacement; survivors can continue by remaining capabilities. Total elimination/abandonment ends the attempt; restart at ingress restores all progression, no checkpoints, already-claimed rewards do not repay. Always available; build breadth/depth/equipment/roles/endurance/experience govern practical access. Normal has encounter-local fatigue normalization. O1D6 two Normal Reds clear, Black Orchard fails; O4D2 Black Orchard clears for3,750 only. No additional Hard Red clear is invented.

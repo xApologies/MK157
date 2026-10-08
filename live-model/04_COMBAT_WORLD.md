@@ -789,3 +789,50 @@ each receives +6,250 wallet credits. Carry surplus into discretionary/social/car
 The cavern layout remains WORKING. The supplied boss identities/mechanisms develop the first-season R/R/O/O/Y/G roster; they do not assign a particular A/B boss to an existing rank-only calendar row. Exact dated A/B allocations, new attempts and any additional clear dates remain OPEN. No ordinary eldris registry entry, automatic boss-rank/basin equivalence, Elara tutorial, new equipment item or extra booked reward is inferred.
 
 [Approved R2/R3 source](../provenance/diplomatic-pouch-r2-r3/package/R3_RAID_ROSTER.md).
+
+## October 8 — Orange-season Normal Raid roster
+
+These are Valnak encounter constructs, not ordinary outside-world eldris.
+
+### Red A — Sixfold
+Amorphous Genesis construct forced through progressively simpler stable morphologies as structural disruption exceeds current state.
+Sixfold = 2 legs + 4 arms. Fivefold = 2 legs + 2 arms + tail. Fourfold = 4 legs/quadrupedal charge-pounce-trample. Threefold = 2 legs + 1 massive arm/heavy sweep-slam. Twofold = 2 legs/compact mobility-kick-leap-body-check. Onefold = no limbs/dense rolling-slamming blob trying to crush participants. Zero = coherence failure/CLEAR. Identity: attrition; keep damaging until it runs out of viable morphologies, not arbitrary health phases.
+
+### Red B — Triumvirate
+Three ~13–17 ft constructs: Keeper/healer (Persistent + Directed Coherence, weak offense); Bastion/Guardian (durable interception/obstruction, NO threat stat); Lance/ranged (Genesis Beam + explosive Genesis-energy orb/projectile, maintains range). Strategy: separate Keeper and hold it away; front line occupies Bastion; ranged/mobile kills Lance; collapse on Bastion; whole Raid finishes Keeper. Danger = synergy/role decomposition.
+
+### Orange A — Black Orchard
+Gigantic black Genesis tree/root environment. Fine roots/tendrils/vines whip/grab/obstruct and must be penetrated. Central Orchard emits broad Decoherence/Genesis-field pulses with escalating pressure. Persistent Coherence is especially valuable for sustained raid stabilization; Directed Coherence remains acute rescue. Identity: environmental penetration + healing throughput + attrition. O1D6 repeated attempts FAIL; group dissolves. O4D2 later achieves the authored Orange-A CLEAR for3,750, with no duplicate Red reward.
+
+### Orange B — Weaver
+Autonomous extremely durable metal-appearing construct with 8 articulated legs and central chassis; exact alloy/material OPEN.
+Phase 1: jumps/weaves unpredictably; Raid spreads; landing/catching participant can pin/impale, with clean central impalement ordinarily catastrophic/lethal (not artificial one-shot). Raid concentrates damage on legs despite mobility. ANY four legs may be disabled.
+Transition: at 4 remaining functional legs, jumping locomotion is mechanically unavailable.
+Phase 2: grounded/crawling rapid pursuit/charges; pin/impale persists; chassis uses straightforward Genesis Beam/ranged pressure; Raid dismantles remaining structure/chassis.
+
+### Yellow — Wayfarer
+~13-ft lean bipedal construct using paired spatial/dimensional gates. Paired boundaries preserve continuity; attacks/matter enter one and emerge from paired exit with momentum/energy substantially preserved. Can step through gates/walls and redirect incoming Fireball/Beam/projectile toward other participants, creating physically real friendly fire. Gate formation has readable Genesis expression; participants may exploit open gates. Guardrail: attack must cross gate BEFORE impact; no retroactive reflection after boss is hit. Identity: spatial/topological awareness.
+
+### Green — The Bloom
+Rooted alien carnivorous flower; composition/ecological attrition wall.
+Prime Bloom ~23 ft, extremely durable/high Green endurance. Ranged slowly damage it. Close envelope folds/lunges/chomps; vines whip/grab/pull. Ordinary melee near Prime is dangerous; hyper-mobile melee may opportunistically strike.
+Prime ejects spores. Immature spores draw on Genesis field. Physical/melee disruption destroys them. Direct Genesis-energy attacks are metabolized/absorbed and accelerate growth; NOT generic anti-magic. Unattended/energized spore matures into ~17-ft Secondary Bloom.
+Secondary Bloom is less durable but dangerous, also launches spores and retains carnivorous/vine behavior.
+Role split: ranged sustain damage on Prime; melee/physical suppress spores; helkir sustain both layers.
+Runaway is emergent, no hard numeric wipe: more Blooms -> more spores -> more melee pressure -> fatigue -> missed spores -> more Blooms. Eventually spore production exceeds physical suppression capacity and battlefield becomes unrecoverable. Green should feel survivable/attackable/understandable yet functionally impossible for immature first-cycle Orange-season groups.
+
+This is the supplied LOCKED seasonal roster, R/R/O/O/Y/G, distinct from the Red-season roster. Sixfold and Triumvirate are the O1D6 Red clears; Black Orchard fails after repeated pulls. Weaver, Wayfarer and The Bloom are NOT ATTEMPTED on O1D6; their mechanisms do not book a later clear or move later canon. No taunt, aggro or threat stat: Bastion intercepts/obstructs physically. Wayfarer redirects only attacks that cross a gate before impact; Bloom metabolizes direct Genesis energy, not generic magic; Weaver loses jumping at four remaining functional legs, regardless of which four were disabled. Approximate dimensions and unspecified alloy remain qualified. The cumulative correction resolves this: both Normal Reds pay O1D6, O4D2 repeats them unpaid and clears Black Orchard for3,750 only.
+
+[October 8 author source](../provenance/diplomatic-pouch-2026-10-08/package/package/04_ORANGE_RAID_ROSTER.md).
+
+## October 8 cumulative — Hard Raid doctrine
+
+Hard uses SAME seasonal bosses as Normal; no second roster.
+Normal encounters comparatively discrete with encounter-local fatigue normalization/reset between boss domains. Hard is one continuous hostile raid environment with ten-person-calibrated hostile populations between bosses and NO systemic fatigue reset. Ordinary in-instance rest != reset.
+Roster locks at creation. Individual death re-instances participant outside Raid/residence; they cannot rejoin active attempt and cannot be replaced. Survivors may continue N-1. Voluntary exit likewise cannot rejoin.
+Casualties are role-dependent: evaluate surviving capabilities, not count only. Missing one of two Guardian-capable participants can make Coherence Twins 5/5 solution non-executable.
+Individual death does NOT reset. Total elimination or survivors abandoning/end attempt terminates instance. Next attempt restarts at ingress with all environment/boss progression restored. No checkpoints. Reward eligibility persists across attempts; already-claimed bosses do not repay just because re-cleared.
+Hard is always available; practical first-cycle accessibility emerges from DEPTH OF BUILD: Binding breadth/rank depth/equipment/role redundancy/endurance/group experience. Early Red underbuilt; late Orange can attempt meaningful Red/Orange Hard progression.
+Core optimization: encounter progress per fatigue/casualty.
+
+The ordinary/Expedition reward opportunity distinction survives: re-clearing a boss during a restarted Hard attempt does not reset already-claimed Hard eligibility. O6D5 retains the existing one-Red-clear/Orange-fail outcome and3,750 booked reward; no extra paid boss is inferred. All bosses are Valnak encounter constructs, not ordinary outside-world eldris; no taunt/aggro/threat-stat. [Latest doctrine](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/HARD_RAID_DOCTRINE.md).

@@ -34,7 +34,7 @@
   {
     "season": "Orange",
     "week": 1,
-    "day": 4,
+    "day": 3,
     "purchase_or_upgrade": "Persistent Coherence \u2192 Blue",
     "cost": 25705,
     "cumulative_progression_spend": 45303
@@ -42,7 +42,7 @@
   {
     "season": "Orange",
     "week": 1,
-    "day": 4,
+    "day": 3,
     "purchase_or_upgrade": "Accept White Legacy",
     "cost": 0,
     "cumulative_progression_spend": 45303
@@ -50,7 +50,7 @@
   {
     "season": "Orange",
     "week": 2,
-    "day": 3,
+    "day": 2,
     "purchase_or_upgrade": "Absorption Shield \u2192 Red",
     "cost": 9350,
     "cumulative_progression_spend": 54653

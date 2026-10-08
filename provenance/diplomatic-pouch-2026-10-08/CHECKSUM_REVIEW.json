@@ -1,0 +1,62 @@
+[
+  {
+    "path": "./EXECUTABLE.md",
+    "matches": true,
+    "expected": "edf124ffd41b7d5f149346b9b622b68e3c1d066e718593630a84fe0f20c9c405",
+    "actual": "edf124ffd41b7d5f149346b9b622b68e3c1d066e718593630a84fe0f20c9c405"
+  },
+  {
+    "path": "./README.md",
+    "matches": true,
+    "expected": "16a236b516346fbf50b0aa8f19e1e518cb28ea1d798337b321a6af25b08875b5",
+    "actual": "16a236b516346fbf50b0aa8f19e1e518cb28ea1d798337b321a6af25b08875b5"
+  },
+  {
+    "path": "./SHA256SUMS.txt",
+    "matches": false,
+    "expected": "8c067065580d72d3443f826beda66012cc9b405cebc41187337f25dd7d641fe8",
+    "actual": "a2250b5a2a136934fd52ad9bb662ec94febf75ac148361bb4db6b41283e15387"
+  },
+  {
+    "path": "./package/00_CONFLICTS_AND_LOCKS.md",
+    "matches": true,
+    "expected": "42fa0936f2c8dd97f5710adae777cf779672e3d0ed6c25e6b6437005590f0b7e",
+    "actual": "42fa0936f2c8dd97f5710adae777cf779672e3d0ed6c25e6b6437005590f0b7e"
+  },
+  {
+    "path": "./package/01_CHARACTER_SOCIAL.md",
+    "matches": true,
+    "expected": "84645e5a2609d0395b8a4194271ed4ae13dc8a5a03231d6486baad0db68f70e0",
+    "actual": "84645e5a2609d0395b8a4194271ed4ae13dc8a5a03231d6486baad0db68f70e0"
+  },
+  {
+    "path": "./package/02_RED_W3_W7.md",
+    "matches": true,
+    "expected": "043eaf0d0bc3308149abc6a165f023a2f3c9cf9a1c78be1de5b44386c51e640d",
+    "actual": "043eaf0d0bc3308149abc6a165f023a2f3c9cf9a1c78be1de5b44386c51e640d"
+  },
+  {
+    "path": "./package/03_ORANGE_W1.md",
+    "matches": true,
+    "expected": "d2382c68be21748eb6a63f0f461f3f63579d96484dd20722b0ddb9210bb02847",
+    "actual": "d2382c68be21748eb6a63f0f461f3f63579d96484dd20722b0ddb9210bb02847"
+  },
+  {
+    "path": "./package/04_ORANGE_RAID_ROSTER.md",
+    "matches": true,
+    "expected": "b508021a9feba090478a2f1076be4c0ea184123f7097e4f754b3280ec941c3f7",
+    "actual": "b508021a9feba090478a2f1076be4c0ea184123f7097e4f754b3280ec941c3f7"
+  },
+  {
+    "path": "./package/05_AUDIT_CHECKLIST.md",
+    "matches": true,
+    "expected": "073fb008f7edb507a13c4a5bc6cd066e8b09fcbeca415448a82dc340c089859a",
+    "actual": "073fb008f7edb507a13c4a5bc6cd066e8b09fcbeca415448a82dc340c089859a"
+  },
+  {
+    "path": "./visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg",
+    "matches": true,
+    "expected": "662c83f7e1d42fdcac49dc9bd0e83a1b28c35afa56e0f6aff53cfc5128d4a2e9",
+    "actual": "662c83f7e1d42fdcac49dc9bd0e83a1b28c35afa56e0f6aff53cfc5128d4a2e9"
+  }
+]

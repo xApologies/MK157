@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "assertions": 33,
+  "source_observed_commit": "3a7a62407bf0f950f7b6469e5c67e2d6a3e80e31",
+  "failures": [],
+  "scope": "Selected supplied assertions only; review baseline drift and complete source semantics separately."
+}

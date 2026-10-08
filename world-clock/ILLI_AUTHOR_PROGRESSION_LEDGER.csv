@@ -3,9 +3,9 @@ Red,1,1,Persistent Coherence → Red,1700,1700
 Red,2,3,Persistent Coherence → Orange,2720,4420
 Red,4,2,Persistent Coherence → Yellow,4896,9316
 Red,6,4,Persistent Coherence → Green,10282,19598
-Orange,1,4,Persistent Coherence → Blue,25705,45303
-Orange,1,4,Accept White Legacy,0,45303
-Orange,2,3,Absorption Shield → Red,9350,54653
+Orange,1,3,Persistent Coherence → Blue,25705,45303
+Orange,1,3,Accept White Legacy,0,45303
+Orange,2,2,Absorption Shield → Red,9350,54653
 Yellow,1,2,Genesis Beam → Red,6050,60703
 Yellow,2,4,Genesis Beam → Orange,9680,70383
 Yellow,3,5,Genesis Beam → Yellow,17424,87807

@@ -1,0 +1,735 @@
+{
+  "id": "diplomatic-pouch-2026-10-08",
+  "baseline_commit": "d2e6a9eded93b0cc4061952a8e381875f06d86c9",
+  "branch": "main",
+  "execution_scope": "Current user authorizes EXECUTABLE integration, reverse-diff, validation, commit and push default main. Publication currently waits for a requested author reconciliation of O1D6/O4D2 paid Red duplication; no earlier archived handoff is executed.",
+  "package_sha256": {
+    "provenance/diplomatic-pouch-2026-10-08/package/EXECUTABLE.md": "edf124ffd41b7d5f149346b9b622b68e3c1d066e718593630a84fe0f20c9c405",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md": "42fa0936f2c8dd97f5710adae777cf779672e3d0ed6c25e6b6437005590f0b7e",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/01_CHARACTER_SOCIAL.md": "84645e5a2609d0395b8a4194271ed4ae13dc8a5a03231d6486baad0db68f70e0",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/02_RED_W3_W7.md": "043eaf0d0bc3308149abc6a165f023a2f3c9cf9a1c78be1de5b44386c51e640d",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/03_ORANGE_W1.md": "d2382c68be21748eb6a63f0f461f3f63579d96484dd20722b0ddb9210bb02847",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/04_ORANGE_RAID_ROSTER.md": "b508021a9feba090478a2f1076be4c0ea184123f7097e4f754b3280ec941c3f7",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/05_AUDIT_CHECKLIST.md": "073fb008f7edb507a13c4a5bc6cd066e8b09fcbeca415448a82dc340c089859a",
+    "provenance/diplomatic-pouch-2026-10-08/package/README.md": "16a236b516346fbf50b0aa8f19e1e518cb28ea1d798337b321a6af25b08875b5",
+    "provenance/diplomatic-pouch-2026-10-08/package/SHA256SUMS.txt": "a2250b5a2a136934fd52ad9bb662ec94febf75ac148361bb4db6b41283e15387",
+    "provenance/diplomatic-pouch-2026-10-08/package/visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg": "662c83f7e1d42fdcac49dc9bd0e83a1b28c35afa56e0f6aff53cfc5128d4a2e9"
+  },
+  "zip_sha256": "00ae208fc100835f04fc8875139860fde38608e7296253f8bd9bc84cae1d5d5a",
+  "changed_paths": {
+    "CANON_STATUS.md": {
+      "before_sha256": "00b8073b46ea59024c18afc59de632e98551d6942efc25b7af51fdc7017d8f54",
+      "after_sha256": "1c29b799157765d3699ab2ca94c1c8fb2deb5c72852507b489df27e2a8437e03"
+    },
+    "README.md": {
+      "before_sha256": "0e23fc0889b33cb8b166efe12f2a6d76a1d0795f4b27d128b0f9b0607f67d5e3",
+      "after_sha256": "04cf8a2d18e79732cec22bf463bd208b49371ae10adb38e3e23631004c4816d4"
+    },
+    "THREAD_DEVELOPMENT_CONSTITUTION.md": {
+      "before_sha256": "a2dba6e79929f2be26573eb2dc0f986e72a938531c8b0e072ce012f29efee080",
+      "after_sha256": "31214c417f719b1bf175ec89b60f3bc7dd4304cfef8ad660c6374f8ed5551a04"
+    },
+    "canon/AUTHORITY_MAP.json": {
+      "before_sha256": "995d43766382508e9dfb06418e7e92cc9d5efd32306e8c970147592e6fcf18d6",
+      "after_sha256": "3a2bebd5e6516b77600381b33adcbfb6119cca52434125764152c165160bf3f4"
+    },
+    "canon/COMBAT.md": {
+      "before_sha256": "3f6e2e4d5a52aecd18d9a3677140248132b9eeb4ab7fa62df03ac5f46761ca5a",
+      "after_sha256": "bcf8749ec62305dd4c42ac87c69fd2f9321f1a387b107debf0653d363fa3c471"
+    },
+    "canon/ECONOMY.md": {
+      "before_sha256": "956e1db1ba1f9580c0b216f4625197dacfc8c616101e5f63bd424e7476ca95d8",
+      "after_sha256": "7af2ec51f4fe0e19f75647105ebfd6176587f12ec3af17f926d392219156cac7"
+    },
+    "canon/INDEX.md": {
+      "before_sha256": "7cbd217ea3b2772c9df27c4720e2990ecc360f8fe2a722f796c899205eec08c4",
+      "after_sha256": "a4c267bf3397877091a8a117c397e7dad82460ec0782afaf83bad662ad4674a2"
+    },
+    "canon/OPEN.md": {
+      "before_sha256": "ca9edddd0095f608ddbf207cf0d959bdc38d67f01e58cdae44ca2c8bbc6bd4b0",
+      "after_sha256": "8c0eac297adf5df5d0dc4ca5d1b4528a052d3dee5128abeb5cb20f9eb5b7f736"
+    },
+    "canon/PROMOTIONS.json": {
+      "before_sha256": "ac93b4f6f164fd5a22f811357f1d42601ef0337635c20b19bafd604033eddc52",
+      "after_sha256": "2c965ab650d35f36da0c6fb514c112d774406e37938532e4d29107298b495e19"
+    },
+    "canon/VISUALS.md": {
+      "before_sha256": "8a45fbb2151a1e93d5730351e0f4912d999fed801cdb722f06917883411c1767",
+      "after_sha256": "f721d430b5cf5d9f12c847aa9f41ca39814b641c2663a52844e3a5f8196ca05a"
+    },
+    "canon/WORLD_AND_CULTURE.md": {
+      "before_sha256": "a80867970be25daf71b737e3a5c550bc3f32e4c47259cdadd8aeb1ed3c85f20b",
+      "after_sha256": "ddb7d8f32735b8cae9bfb38b2d2743a26e5d7883ca2085f117f864d7c5cbb173"
+    },
+    "canon/characters/ILLI.md": {
+      "before_sha256": "598a521d6a58ef6f0f55d7f135a9c5a9aa1c1052fda771a9ad042592e99e7faf",
+      "after_sha256": "acae17b9cf5d1bd2a6afe68d5b85d4bb9b20b11317b3aff5d8d6c9e93cdd3730"
+    },
+    "canon/characters/KIRA.md": {
+      "before_sha256": "310e8377575d36372fb28b2486d071e1182827d4c2eeb7514d5dd676e25b9730",
+      "after_sha256": "bf3aa56b445697aa73b18ee0e0e6f83a54de5ce69db831b1f34eca9a98479c87"
+    },
+    "combat-rewards/README.md": {
+      "before_sha256": "1e77dd6e54809e8356373ed0cb67e5cbf70e378de04640ca0c5da55d6d382fcb",
+      "after_sha256": "92b31a5f88e350c166458ef677001840fbcdb9338e32a1dd78bc1e51f403e09f"
+    },
+    "live-model/01_KIRA.md": {
+      "before_sha256": "de0a05a62082e2f620dd9a8ce9d95e4a8957c62b308818e0f9069d48e203bfd4",
+      "after_sha256": "80dcd6e9c8551b95d9b71ae81d64503fa36d7b2d33520e4fdc3f1956b6b0723a"
+    },
+    "live-model/03_VALNEK_PATHS.md": {
+      "before_sha256": "d4a3d09f04fa0c6dfb6c98cb5bd1971907291b932fe4a728623830084c9eed04",
+      "after_sha256": "8d2e84965bc35f3d97c8bd0c105cab84378b633134b4510dde53e3779d1b3894"
+    },
+    "live-model/04_COMBAT_WORLD.md": {
+      "before_sha256": "d06eaaa13c2d183ccac43aa0a7951fbaf23f2fd64043ada7bfb6d2b76b79bed7",
+      "after_sha256": "3f85d7555fad9b930375322c6ddf3860adcbffdda3c6ece9334f88fcd0c66d98"
+    },
+    "live-model/DOMAI_PARTICIPATION.md": {
+      "before_sha256": "b28a41bd98d68c386b29cc7d57d410a8b8fce9fb07f67024344e8b3fab70a075",
+      "after_sha256": "e72781dd8fde5ece93a93586692c2300223fb1fabd4193c7d6f17c2326f80a95"
+    },
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": {
+      "before_sha256": "b0066631dba0621664995043b8a791adb35e3c9c94714146f7920f11ce9fc1e1",
+      "after_sha256": "8fd0caf17eb06d4266d894002dbc3629409c8a5ae8d8dd316dc553257604b446"
+    },
+    "live-model/ILLI_PROGRESSION.md": {
+      "before_sha256": "93684951f551c99638cbaa22c5d681c35e9c1c510cde5e5d2e8630167e9c335d",
+      "after_sha256": "4ae48005392a64ee44b56977e3a49cbb441236ff7c8de714d14013cbab8c7631"
+    },
+    "live-model/INDEX.md": {
+      "before_sha256": "af980f5b8c0b23901bcb3c6875d6c5358b35d6d335a418808027c4b36d138f9a",
+      "after_sha256": "6b60c1ff57088ee91962e737db6f5fccac8b2a3b368b388d39d3a6882cea7f41"
+    },
+    "live-model/OPEN.md": {
+      "before_sha256": "228e9d60b57f123ea527a71fd3cf8c83ba210bcb0b2e804629dbf6d28dedb4c0",
+      "after_sha256": "7612568942441f36bd1f3c92a3b158e2d13b0f7da335d61cbd72b1c3c0cc7ed4"
+    },
+    "live-model/RAEON.md": {
+      "before_sha256": "2e54d97183eca4c4c1dd71a7483b88edeb2f130473804cca727de4ff4fbaec7a",
+      "after_sha256": "611177ee9654267eb63a856883f70b7f3111732a23a28964e1cd66e0f5343a2d"
+    },
+    "live-model/STORY_CLOCK_STATE.md": {
+      "before_sha256": "0d0a288858de0e0b9237b4a8e8d0a1fd9ff555b07029a317f49690cf02689772",
+      "after_sha256": "5a625d438386bc279989ddbfeee9c0aa4f27237af0db5792f3d35b9ac471e026"
+    },
+    "live-model/SUPERSESSIONS.md": {
+      "before_sha256": "a5a554a8493d33773043369a8d83f37af21484985627ccc2642b70677b0bca6a",
+      "after_sha256": "bcd12400a4bc7fc0ad17c82853e6019c7debb2b121a572fc6532d3cbbdc25d63"
+    },
+    "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md": {
+      "before_sha256": "d9a277323c12d53c859f49be6c76732ab6c7713c49375ed4f9a06225b353d79c",
+      "after_sha256": "6ef700bae13306416e199bcdfeaae713332dcac22430735543306cd50a03377b"
+    },
+    "live-model/WORLD_CLOCK.md": {
+      "before_sha256": "c15cc1198832c5b9c4d062aa4b17378a3324bc43b047a859f0c43e6c573b6036",
+      "after_sha256": "f12c915827d72c9ac8565b883c4e1539252b52ce86f4d7212dd65dbe0f5860e3"
+    },
+    "story/ARC_01/ARC.md": {
+      "before_sha256": "a5f0bdf18a5698e5ab24e71d981b964232fb1328db68e195d2c46d09c5a9b288",
+      "after_sha256": "f11b8b69861a2733a3e3654b9d3f3ae8b2ae3c8465f79f2785dc44f6bcddb1e3"
+    },
+    "story/ARC_02/ARC.md": {
+      "before_sha256": "9ca09a04ae61ec1bdf5cc6233c215d90e5afa2a9194567ae7a8e87aab5ac8edb",
+      "after_sha256": "16d660c58a842e81668a55e8d7e1e1de1b71f3a2c1bb9958612b0a87d279c26c"
+    },
+    "story/INDEX.md": {
+      "before_sha256": "071060e0d7b443227b289958b9eda9d03e178160ff80c0aac36d173776c64e87",
+      "after_sha256": "f1211ee6f2c7a839ffb9187a964ac2e4923ad2b287ea500ea77029781ac99ddb"
+    },
+    "tools/validation/README.md": {
+      "before_sha256": "84f2adbc63a7b4f8afedbc4b7cd6034712abc79821888a0bc68715500bbb4d79",
+      "after_sha256": "0b2d32b57dcd9b316a80ba5eb65b48d99f715846f333f9bbe9dd6ca131ea22c7"
+    },
+    "tools/validation/validate_authoring.py": {
+      "before_sha256": "72ec37c75a3d6198ade70b3a5c407fc7e41957b0fe09a2988149c7987d5168f5",
+      "after_sha256": "477670129d15308635ae8033affaf2a59ac4bdccc6733cb5fcec424bdd732487"
+    },
+    "tools/validation/validate_promotions.py": {
+      "before_sha256": "9a2aeaae235771d52423e29d72da0da6b0eeaecc6e5c97c46ce325b7f336f425",
+      "after_sha256": "9f6b360efd99f9febb2ad76e01c1c9345c4c00a71d45203b47328e4bf6ecf4cd"
+    },
+    "visual-references/CITY_LOCATION_REGISTRY.csv": {
+      "before_sha256": "6e786f8a8319bdab7e376116cbdc5ab27e65a2a3e90a2bd0ff4456a3915cf963",
+      "after_sha256": "e35f4873b7ebe92d1030865af1c22eebc8900bc9717dfea97e526c624e4f98b6"
+    },
+    "visual-references/INDEX.md": {
+      "before_sha256": "8b837fbb13d171f16f7d04f9aa4830d0a717321347f05d78c3d01ce27d6110c4",
+      "after_sha256": "ede3193efeac8942b6c9d54599e0ffcfcb2fc1434190a2f71377c0e380e01be0"
+    }
+  },
+  "source_documents": [
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Arc-One chronology",
+          "body_sha256": "28ccaf7a484447c04389df8fcc611dd40d317e0006be83919285714fac8609be",
+          "paragraphs": [
+            {
+              "sha256": "28ccaf7a484447c04389df8fcc611dd40d317e0006be83919285714fac8609be",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "007 collision",
+          "body_sha256": "6cbfb4e76cc1ef71a53189eb71bc0dfe3da2251d462eaf342e34a9ee949d2ade",
+          "paragraphs": [
+            {
+              "sha256": "6cbfb4e76cc1ef71a53189eb71bc0dfe3da2251d462eaf342e34a9ee949d2ade",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Kira household LOCK",
+          "body_sha256": "337cfa6259eba6df47b0f03c66793457972e14a439395b8c1a83884950e05c8f",
+          "paragraphs": [
+            {
+              "sha256": "337cfa6259eba6df47b0f03c66793457972e14a439395b8c1a83884950e05c8f",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Rival LOCK",
+          "body_sha256": "924ba837f4b1521afe621e03e1a26681dcaa8e3aa37c5bbef5acfe4be06c5082",
+          "paragraphs": [
+            {
+              "sha256": "924ba837f4b1521afe621e03e1a26681dcaa8e3aa37c5bbef5acfe4be06c5082",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Dungeon leader",
+          "body_sha256": "9fdaaff13c8fd8015ff52fc82d1d4c3b4a51c589db7f4cb8253fbb06668a7416",
+          "paragraphs": [
+            {
+              "sha256": "9fdaaff13c8fd8015ff52fc82d1d4c3b4a51c589db7f4cb8253fbb06668a7416",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "illi Solo",
+          "body_sha256": "7726e0ce246fcb482201743087f55088ef16fe13519662d681a728c2ed3415a3",
+          "paragraphs": [
+            {
+              "sha256": "7726e0ce246fcb482201743087f55088ef16fe13519662d681a728c2ed3415a3",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Wallet doctrine",
+          "body_sha256": "d65f17aaca2f22f03447883e14eae847b70e31ba5e9098a2936d075cd05ed957",
+          "paragraphs": [
+            {
+              "sha256": "d65f17aaca2f22f03447883e14eae847b70e31ba5e9098a2936d075cd05ed957",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/01_CHARACTER_SOCIAL.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "a56a9cf264e047f3e2b996dfb1809c44d0e6ed017ba3f75c0ddbf89e5629700c",
+          "paragraphs": [
+            {
+              "sha256": "a11e9937650b3c67e25896247905890ebac87bfca38a8ffd24b3ba1e28db1bee",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            },
+            {
+              "sha256": "09bb72455207996e539ac2506547d38272e9294fa194f0ce8638aa6dea24b1b9",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            },
+            {
+              "sha256": "8953ba678e489265750b4946d7ec33a2764fbe56ba05d6c6ad29ea0e1ce2e4dd",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            },
+            {
+              "sha256": "5f42a0c873cd9941f3d1287527fa3b5cd7bb470ba2c543d7497d47611146580b",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            },
+            {
+              "sha256": "40d68ac6dfaf6008ca206ae824358b801a1de3774b2a8cfe7572b8cf41d45a66",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            },
+            {
+              "sha256": "69b5a570a13e590f628be9fc43247fc2453aacb17dba70023e3b0b047afa3033",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/02_RED_W3_W7.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "11a974b5310bf273960eead4f06a5a0124766fe6f5d5a6fb7245eb24a07062e6",
+          "paragraphs": [
+            {
+              "sha256": "76564a8000abffb58a1a3be064b74de425acae327ba4b0dc06ff88ec33618c91",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "3a90a700f11fab4b07c902c47b78f844ae979bb15e65b993f9d1bb812d90b339",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "94b2c0854f1b8fc78ab9c41b8c3dc5c5044889e566bafe2cfee842bcbe1bf6a8",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "5a1097f7e8f20345fdab0169126b9618b81a3752b36b1cd067ae659c75bd1321",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "8b1806bb073e576dae2d0c2a61e8ae5cd7b8d6656d6a0be76a9b78be2ffc6675",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "0b83260da1bf8c342a43f82aaa6775a20bb55a60707b0f94ddf578a0414ef487",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "ebfb57a9afcbb4f12a2eaea4ca2c189832daf02594b1de2faacf5ed7b73827ca",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/03_ORANGE_W1.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "89689f428aa67a20db27738aa37c83c6f9a023e39b84335deafb24e3afa6beb1",
+          "paragraphs": [
+            {
+              "sha256": "dc887a0fa541849ea75c7ddd9f54c68e3e86275b6f17214ddebffaea57edaf16",
+              "status": "MIXED_PARTIAL",
+              "reason": "All7 day directions preserved; O1D5 attendance flexible and optional Solo rewards OPEN. Both Red clears specified; second payout collides with existing O4D2 award and remains a publication blocker pending author answer.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--orange-week-one",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "22e5d20d6163a3e50115606a1967054674554cba216c177bc9e14336012250ff",
+              "status": "MIXED_PARTIAL",
+              "reason": "All7 day directions preserved; O1D5 attendance flexible and optional Solo rewards OPEN. Both Red clears specified; second payout collides with existing O4D2 award and remains a publication blocker pending author answer.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--orange-week-one",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/04_ORANGE_RAID_ROSTER.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "91343a7c897edde2f6e47eceabbd30df9947821f79fef0ae6917eb3cce3e8a86",
+          "paragraphs": [
+            {
+              "sha256": "91343a7c897edde2f6e47eceabbd30df9947821f79fef0ae6917eb3cce3e8a86",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Red A — Sixfold",
+          "body_sha256": "fb2257f11fbf1b7136a567367127f36efcdf394fe782c408cec3993f687089de",
+          "paragraphs": [
+            {
+              "sha256": "fb2257f11fbf1b7136a567367127f36efcdf394fe782c408cec3993f687089de",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Red B — Triumvirate",
+          "body_sha256": "73491e6141df9f726dc4de7af2bd3c40d260a9e745190aae61f38abc036651fc",
+          "paragraphs": [
+            {
+              "sha256": "73491e6141df9f726dc4de7af2bd3c40d260a9e745190aae61f38abc036651fc",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Orange A — Black Orchard",
+          "body_sha256": "d61437c3fbd423c4dce8916d5a31209b02e3ad7a3d81345437c774c24566eb78",
+          "paragraphs": [
+            {
+              "sha256": "d61437c3fbd423c4dce8916d5a31209b02e3ad7a3d81345437c774c24566eb78",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Orange B — Weaver",
+          "body_sha256": "49efb897c11560f6f435719e1bcc47c5cb0b6c099f0297efba20c3d14baf2bbf",
+          "paragraphs": [
+            {
+              "sha256": "49efb897c11560f6f435719e1bcc47c5cb0b6c099f0297efba20c3d14baf2bbf",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Yellow — Wayfarer",
+          "body_sha256": "9bdbd97cfdc3f4f9078ce8c62e3f169720c8de4abcf3c19850b89da3272979d0",
+          "paragraphs": [
+            {
+              "sha256": "9bdbd97cfdc3f4f9078ce8c62e3f169720c8de4abcf3c19850b89da3272979d0",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Green — The Bloom",
+          "body_sha256": "d494cb832c26a328fba0f17ba20682fe0471843c73ef1f78a2f64ebb6b617dfc",
+          "paragraphs": [
+            {
+              "sha256": "d494cb832c26a328fba0f17ba20682fe0471843c73ef1f78a2f64ebb6b617dfc",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/05_AUDIT_CHECKLIST.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "548dddce5a67afc9bfa5b57c22c934d589c1ce404a1478251ff32dcf998effdc",
+          "paragraphs": [
+            {
+              "sha256": "548dddce5a67afc9bfa5b57c22c934d589c1ce404a1478251ff32dcf998effdc",
+              "status": "MIXED_PARTIAL",
+              "reason": "Workflow checks, not additional story canon; exact checklist verification separately recorded. Consistency/publication blocked on Red reward conflict.",
+              "destinations": [
+                "provenance/diplomatic-pouch-2026-10-08/CHECKLIST_AUDIT.json",
+                "provenance/diplomatic-pouch-2026-10-08/CONFLICTS.json"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "asset_copies": [
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg",
+      "destination": "visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg"
+    }
+  ],
+  "registry_relocations": [
+    {
+      "destination": "visual-references/CITY_LOCATION_REGISTRY.csv",
+      "key": "serial",
+      "from_value": "007",
+      "to_value": "008",
+      "before_row": {
+        "serial": "007",
+        "canonical_name": "Opening Ceremony / civic festival grounds",
+        "type": "civic/ceremonial venue",
+        "map_region": "southern lobe of main central island",
+        "status": "WORKING",
+        "parent": "",
+        "story_use": "R1D7 and later major civic events",
+        "notes": "Principal hub for Opening Celebration; outdoor festival/assembly complex; citywide celebration extends beyond 007. Exact formal venue name OPEN."
+      },
+      "after_row": {
+        "serial": "008",
+        "canonical_name": "Opening Ceremony / civic festival grounds",
+        "type": "civic/ceremonial venue",
+        "map_region": "southern lobe of main central island",
+        "status": "WORKING",
+        "parent": "",
+        "story_use": "R1D7 and later major civic events",
+        "notes": "Principal hub for Opening Celebration; outdoor festival/assembly complex; citywide celebration extends beyond 008. Exact formal venue name OPEN."
+      },
+      "new_row": {
+        "serial": "007",
+        "canonical_name": "bookstore",
+        "type": "commercial / books",
+        "map_region": "northeast/right of 003 in north-central built-up district",
+        "status": "LOCKED",
+        "parent": "",
+        "story_use": "R6D4 and later reading/social life",
+        "notes": "Author-assigned bookstore marker; exact shop name OPEN. Former 007 southern civic festival venue survives as 008."
+      },
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md#007-collision",
+      "reason": "Newest explicit author decision assigns007 to bookstore;008 audited unused, southern venue preserved by renumbering."
+    }
+  ],
+  "reverse_diff": {
+    "review": "provenance/diplomatic-pouch-2026-10-08/REVERSE_DIFF.csv",
+    "decisions": 65,
+    "counts": {
+      "PRESENT": 63,
+      "PARTIAL": 0,
+      "MISSING": 0,
+      "CONFLICT": 2,
+      "SUPERSEDED": 0
+    },
+    "qualifiers": "PRESENT preserves LOCKED/WORKING/OPEN/optional distinctions; not every narrative direction is a fixed event. Two entries describe the same unresolved payout conflict."
+  },
+  "supersessions": [
+    {
+      "scope": "007 location",
+      "decision": "Newest explicit bookstore assignment; southern venue survives as008, unused in baseline.",
+      "destinations": [
+        "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+        "visual-references/CITY_LOCATION_REGISTRY.csv"
+      ]
+    },
+    {
+      "scope": "Names and Champion reveal",
+      "decision": "Household and Kaevren locked, leader unnamed; first dinner an Elara-arranged surprise, no earlier paid-date reconciliation.",
+      "destinations": [
+        "live-model/01_KIRA.md#october-8--household-and-rival",
+        "story/ARC_01/ARC.md"
+      ]
+    },
+    {
+      "scope": "illi early Solo ceilings",
+      "decision": "R2D5 poor run and R4D1 minimum accounting do not cap ability. Optional actual earnings remainOPEN.",
+      "destinations": [
+        "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope"
+      ]
+    },
+    {
+      "scope": "Seasonal Raid identities",
+      "decision": "Red dated boss allocations and separate locked Orange roster supplied. Both O1D6 Red clears cause unresolvedO4D2 reward conflict, not a payout-rule exception.",
+      "destinations": [
+        "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+        "live-model/STORY_CLOCK_STATE.md#october-8--orange-week-one",
+        "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+        "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting"
+      ]
+    }
+  ],
+  "remaining_open": [
+    "Arc-One R1D2/R1D3 paid-combat RECOVERY_GAP.",
+    "O1D6/O4D2 Red payout duplicate: explicit author decision pending; do not publish as reconciled.",
+    "Recurring male leader name; Kaevren house/surname/appearance/build/kill totals; exact household ages/surnames; shop/venue names.",
+    "Optional illi Solo depth/results/exact credits; actual complete wallets; R5D1 overnight staging.",
+    "Weaver material; qualified boss sizes, scene timings, social attendance and finale Highlights duration; all compatible prior OPENs."
+  ],
+  "publication_gate": "BLOCKED_PENDING_AUTHOR",
+  "checksum_status": "Nine content hashes match; self-hash entry mismatch preserved and reported."
+}

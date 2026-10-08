@@ -4,7 +4,7 @@
 
 > Checkpoint 24 current progression: 19 events, 292,772 total through B6D3. Earlier checkpoint sections below retain development history; any 17-event/250,884 or Violet-endpoint projection is superseded by the [current illi ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json). Arc Five dates/outcomes through G6D2 remain locked.
 
-Checkpoint 24 locks Arc Six G6D3–B6D3, the revised 19-event illi ledger and exact Halo B1D5. Checkpoint 23 fully locks Arc Five combat/progression dates Y6D4–G6D2. Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs and preserved social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries and the specific Blue Fireball card purchase. Checkpoint 19 governs the unchanged Orange combat calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections.
+Checkpoint 24 locks Arc Six G6D3–B6D3, the revised 19-event illi ledger and exact Halo B1D5. Checkpoint 23 fully locks Arc Five combat/progression dates Y6D4–G6D2. Checkpoint 22 governs the full Yellow director calendar, Y6D2 Orbs and preserved social/mastery direction. Checkpoint 21 retains non-conflicting combat and seasonal doctrine. Checkpoint 20 retains arc boundaries and the specific Blue Fireball card purchase. The October8 cumulative reconciliation corrects two early purchases, Red/Orange personal tournament dates and O4D2 income; Checkpoint19 otherwise governs the Orange combat calendar and Kira's 61,017 post-Armor Black tier. Checkpoint 18 continues to govern ordinary pricing/rewards, entry grant, illi costs and Red→O2D3 combat. Earlier sections record historical decisions; old numbers and Black-price OPENs do not override the current Checkpoint 18/19 sections.
 
 Checkpoint 25 correction > 25 master > 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01 for explicit conflicts. All non-conflicting detail accumulates, including prior-checkpoint-source. The original package is retained for provenance; older prose and historical manifests are not independently authoritative against newer addenda.
 
@@ -228,7 +228,7 @@ The author-approved [Arc One delta](../provenance/diplomatic-pouch-01/package/AR
 
 Resolved: opening emotional spine, personal primers, embodied Armor/claw learning, participant PSSP death/return, W8/W9 result and 1,275 payout with no standings bonus, the rival's #2 placement, free walkabout/both flagships and the dinner friendship/Highlights close. First paid Solo remains R1D3; stale Day-One Solo assertions are superseded throughout older records.
 
-Preserved OPEN/WORKING: exact W9 kills; rival name/appearance/build/reconciliation; Elara's unexplained eye observation; microscopic biology; exact cheap-outfit purchase/price (100–200 is WORKING); approximately 15 experiential seconds (not a timer); roughly 11–17 Afflicted lifespan (not a universal cutoff); death treatment in public Highlights; extra UI rules and chapter boundaries.
+Preserved OPEN/WORKING: exact W9 kills; Kaevren house/surname/appearance/build/reconciliation; Elara's unexplained eye observation; microscopic biology; exact cheap-outfit purchase/price (100–200 is WORKING); approximately 15 experiential seconds (not a timer); roughly 11–17 Afflicted lifespan (not a universal cutoff); death treatment in public Highlights; extra UI rules and chapter boundaries.
 
 **Chronology RECOVERY_GAP:** the locked R1D2 shared Duo precedes the R1D3 Solo and subsequent friendship dinner in the pouch. Preserve both the approved narrative and the unchanged calendar pending author reconciliation. No earlier meeting, replacement date, extra paid combat or retrospective financial adjustment is invented. [Current narrative](STORY_CLOCK_STATE.md#arc-one-developed-narrative--diplomatic-pouch-01).
 
@@ -247,3 +247,23 @@ Nightly Highlights **27:00** supersedes every governing **25:00** start, includi
 The earlier R2D2-onward narrative placeholder yields to [developed Week Two](STORY_CLOCK_STATE.md#r2r3-developed-red-week-two). Optional income doctrine now covers legitimate Trials/Dungeons/Raids/raeon/Prism/crafting, without changing exact progression data or automatically advancing purchases. Same-rank Raid bosses have separate first-clear eligibility; an additional Red+Orange is conditional 6,250 each, not an inserted event. Daily raeon is distinct from the seasonal circuit; its WORKING award table does not replace seasonal prize OPENs. Ghost Base is the house nickname; Dread Rainbow the flag. CP25 correction, macro closure, existing OPENs and the opening chronology RECOVERY_GAP survive.
 
 [Integration and scope](../provenance/diplomatic-pouch-r2-r3/INTEGRATION.json).
+
+## October 8 — explicit corrections and preserved boundaries
+
+The [new locks](../provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md) resolve Kaevren’s personal name and Kira’s six-person household. Earlier name-OPEN language yields only for these names; surnames and the male recurring leader’s identity remain OPEN (Jaeren rejected).
+
+Bookstore007 explicitly replaces the old serial assignment. The former southern Opening Celebration venue is retained as 008 after confirming that serial unused. The current registry, scene references and separate supplied map overlay agree; prior maps and provenance preserve their original bytes and serial history.
+
+The first Champion dinner is now an Elara-arranged surprise; older wording that disclosed table access beforehand yields to that reveal. Once informed, Kira gives family a standing invitation. This does not repair or move the R1D2/R1D3 paid-combat RECOVERY_GAP.
+
+R2D5 W2 and old R4D1 W3 wording are not ability ceilings; existing minimum entries stay 140/255 pending exact actual-run accounting. Red Raid identities and R4D5 Burrower bonus are supplied; additional discretionary income does not advance locked purchases. The later cumulative reconciliation removes O4D2’s duplicate Red payment; Black Orchard alone pays3,750.
+
+First-domai D1–D2 activity and D3 lockout survive: the word leave cannot create next-day same-domai re-entry after formal exit. The Red finale Highlights length is WORKING ~2–2.5h, compatible with the locked 27:00 start. Existing later arc structure, rewards, source firewalls, macro closure and unrelated OPENs survive.
+
+## October 8 cumulative — resolved Red/Orange corrections
+
+[Latest Orange source](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md) supersedes PC Blue/White Legacy O1D4→O1D3 and Absorption O2D3→O2D2, preserving costs/post-balances952/42; CSR O2D3 at61,017 resolves its exact-day OPEN. Optional O2D3 illi W7 clear/W8 fail has exact credits OPEN. O4D2 former Red+Orange6,250 becomes Black Orchard3,750 only, Red repeats unpaid; current Arc Three gross56,385/81,415. Earlier O1D6 second-Red2,500 remains discretionary. The former publication blocker is resolved, not retained OPEN.
+
+[Red](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/CORE_AND_RED.md) and [Orange finale](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W5_W7.md) remove R5D4/O5D1/O5D6 seasonal appointments and O7D5 championship viewing. R7D6/O7D6 at10:00 are seasonal entry/early knockout before the existing same-day Duo1,950/5,805; following-day Dungeons2,040/1,020 stay unchanged. Daily10:00 remains separate. No global later-season schedule is inferred or rewritten. Earlier checkpoint summaries in this file describe their historical source states and yield to these explicit corrections only.
+
+The [Hard doctrine](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/HARD_RAID_DOCTRINE.md) supplies same seasonal roster, continuous environment, fatigue normalization contrast, full-attempt restart, roster/death/exit limits and persistent rewards. All compatible prior boss mechanics, social detail, later dates/rewards, macro closure, source firewall and unrelated OPENs survive.

@@ -1,0 +1,41 @@
+{
+  "package": "MK157 Red Orange cumulative reconciliation",
+  "date": "2026-10-08",
+  "files": [
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 820,
+      "sha256": "a17f3f7af1a7c6b0a4b5c5f235b87eb75f33c91c59d074f70d3faaca10d6fd39"
+    },
+    {
+      "path": "package/CORE_AND_RED.md",
+      "bytes": 1910,
+      "sha256": "c08a74cdf32a76136d1fc3ccea9d036f6df5682cd9ed0aca80e70b551d8774d4"
+    },
+    {
+      "path": "package/HARD_RAID_DOCTRINE.md",
+      "bytes": 1401,
+      "sha256": "78c100d31768c58718f4f8da86019500658886116e26972fc68c9897c397ff5e"
+    },
+    {
+      "path": "package/ORANGE_NORMAL_RAID_ROSTER.md",
+      "bytes": 1470,
+      "sha256": "877ff51c0847904ffcb53dd2c72d09f37faa4e956425187a9d2140c2e8bd121d"
+    },
+    {
+      "path": "package/ORANGE_W1_W4.md",
+      "bytes": 2011,
+      "sha256": "06d27b8475788e6dddf5a17982baf8393f2cb5e1b7781a58cee4c38a9531644f"
+    },
+    {
+      "path": "package/ORANGE_W5_W7.md",
+      "bytes": 1067,
+      "sha256": "d59f78c65e19a0680995587d1cdaf2710d1737fadad39af124cdc833b583a808"
+    },
+    {
+      "path": "package/VERIFY_AFTER.md",
+      "bytes": 1227,
+      "sha256": "0c1a202945f3ca4b193956407d631a99cd9f5109d4d55cbd7fef2ed38b86bb26"
+    }
+  ]
+}

@@ -15,6 +15,7 @@ BASELINE = '4982fd6ff43faaf1bf0e5fdd289d0831951e1ef4'
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools" / "validation"))
 from validate_clock_promotion import current_clock_baseline, validated_replacements
+from validate_red_orange_reconciliation import reconcile_arc3, historical_clock_view, audit as reconciliation_audit
 
 
 def audit(root):
@@ -32,19 +33,19 @@ def audit(root):
     manifest = js(archive+'FINAL_MANIFEST.json')
     expected_sources = set(manifest['files']) | {'FINAL_MANIFEST.json'}
     require({p.name for p in (root/archive).iterdir()} == expected_sources, 'Source archive file set mismatch')
-    source_rows = js(archive+'ARC3_ORANGE_CALENDAR.json')
+    reconciliation_audit(root)
+    source_rows = reconcile_arc3(js(archive+'ARC3_ORANGE_CALENDAR.json'))
     calendar = rows('world-clock/ARC3_ORANGE_CALENDAR.csv')
     for row in calendar:
         for field in ('week','day','illi_credit','kira_credit'): row[field] = int(row[field])
     require(calendar == js('world-clock/ARC3_ORANGE_CALENDAR.json') == source_rows, 'Calendar mirrors/source differ')
-    for suffix in ('csv','json'):
-        name = 'ARC3_ORANGE_CALENDAR.'+suffix
-        require((root/'world-clock'/name).read_bytes() == (root/archive/name).read_bytes(), name+' source bytes changed')
+    # Original package bytes stay protected by promotion and later-checkpoint audits.
+    # Current CSV/JSON must equal the exact, scoped author correction above.
     coordinates = [('Orange',2,d) for d in range(4,8)] + [('Orange',w,d) for w in range(3,8) for d in range(1,8)]
     require([(r['season'],r['week'],r['day']) for r in calendar] == coordinates, '39-day coverage/order mismatch')
     counts = Counter(r['kind'] for r in calendar)
     require(counts == Counter({'Duo Trial':9,'Kira Solo':6,'Dungeon':7,'Raid':1,'Hard Raid':1,
-                              'Tournament':2,'domai':2,'Recovery / Tournament':1,'OPEN':10}), 'Event count mismatch')
+                              'domai':2,'Recovery':1,'OPEN':12}), 'Event count mismatch')
     trials = {r['wave']:r['cumulative'] for r in js('trial-rewards/TRIAL_WAVE_CREDITS.json')}
     rewards = js('combat-rewards/COMBAT_REWARD_TABLES.json')
     totals = {'illi':0,'kira':0}
@@ -72,13 +73,13 @@ def audit(root):
                 require(event == 'Yellow Dungeon attempt' and row['status'] == 'FAIL', 'Unexpected Dungeon or Yellow completion')
                 yellow_attempts += 1
         elif kind == 'Raid':
-            require((row['week'],row['day']) == (4,2) and row['status'] == 'BOTH CLEAR', 'Normal Raid schedule/outcome mismatch')
-            expected_i = expected_k = sum(rewards['raids']['normal'][c] for c in ('Red','Orange'))
+            require((row['week'],row['day']) == (4,2) and row['status'] == 'ORANGE CLEAR / RED REPEAT UNPAID', 'Normal Raid schedule/outcome mismatch')
+            expected_i = expected_k = rewards['raids']['normal']['Orange']
         elif kind == 'Hard Raid':
             require((row['week'],row['day']) == (6,5) and row['status'] == 'RED CLEAR / ORANGE FAIL', 'Hard Raid schedule/outcome mismatch')
             expected_i = expected_k = rewards['raids']['hard']['Red']
         else:
-            require(kind in ('OPEN','Tournament','domai','Recovery / Tournament'), 'Unexpected event kind')
+            require(kind in ('OPEN','domai','Recovery'), 'Unexpected event kind')
         require((row['illi_credit'],row['kira_credit']) == (expected_i,expected_k), f"O{row['week']}D{row['day']}: incorrect credits")
         for who, value in [('illi',row['illi_credit']),('kira',row['kira_credit'])]:
             require(value >= 0, 'Negative gross income')
@@ -87,7 +88,7 @@ def audit(root):
     require(waves['Duo Trial'] == [13,14,14,15,15,16,16,17,17], 'Duo progression mismatch')
     require(waves['Kira Solo'] == [13,14,14,15,15,16], 'Solo progression mismatch')
     require(orange_clears == 7 and yellow_attempts == 2, 'Dungeon count mismatch')
-    require(totals == {'illi':58885,'kira':83915}, 'Deterministic gross mismatch')
+    require(totals == {'illi':56385,'kira':81415}, 'Deterministic gross mismatch')
     require(by_kind['Kira Solo'] == {'illi':0,'kira':25030}, 'Kira-only income attribution mismatch')
     require(totals['kira']-totals['illi'] == 25030, 'Shared income topology mismatch')
     price = js('economy/KIRA_BLACK_ACQUISITION_PRICES.json')
@@ -95,7 +96,7 @@ def audit(root):
     require(price['ordinary_binding_class_matrix_applies'] is False, 'Black class-pricing firewall lost')
     require('1000' in price['armor_of_the_abyss'] and 'unchanged' in price['armor_of_the_abyss'], 'Armor repriced')
     orbs = price['post_armor_acquisition_prices']['Genesis Orbs']
-    require(totals['kira']-orbs == 22898 == manifest['kira_pre_domai_discretionary_headroom'], 'Orbs reserve/headroom mismatch')
+    require(totals['kira']-orbs == 20398 and manifest['kira_pre_domai_discretionary_headroom'] == 22898, 'Orbs reserve/headroom mismatch')
     require(manifest['locked_kira_orbs_price'] == orbs and manifest['domai_payout'] == 'OPEN', 'Final manifest lock mismatch')
     ledger = js('world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json')
     beam = [r for r in ledger if r['purchase_or_upgrade'] == 'Genesis Beam → Red']
@@ -108,31 +109,20 @@ def audit(root):
                  'world-clock/PRISM_TEAM_TRACKER.csv'):
         if path not in {'trial-rewards/README.md', 'combat-rewards/COMBAT_REWARD_TABLES.json', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/validate_rewards.py', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}:
             require((root/path).read_bytes() == old(path), 'Protected baseline changed: '+path)
-    prior_calendar = json.loads(old('world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json'))
     current_calendar = js('world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json')
-    expected_red = ('Red',5,4)
-    modified=[]
-    for before,after in zip(prior_calendar,current_calendar):
-        coord = (after['season'],after['week'],after['day'])
-        if before != after:
-            modified.append(coord)
-            require(coord == expected_red and set(before) == set(after), 'Unapproved prior calendar change')
-            require(all(before[k] == after[k] for k in before if k not in ('kira_combat','illi_combat','author_notes')), 'Prior combat/money changed')
-    require(len(current_calendar) == len(prior_calendar) == 59 and modified == [expected_red], 'Red appointment update missing/extra')
-    red = next(r for r in current_calendar if (r['season'],r['week'],r['day']) == expected_red)
-    require(red['combat_event'] == 'NO REQUIRED COMBAT' and red['duration_block'] == ''
-            and all('eliminated' in red[k] for k in ('kira_combat','illi_combat')), 'Red tournament conflicts with combat')
+    # Complete 59-row correction was validated against d2e6a9e above.
+    red = next(r for r in current_calendar if (r['season'],r['week'],r['day']) == ('Red',5,4))
+    require(red['combat_event'] == 'NO REQUIRED COMBAT' and 'OPEN' in red['kira_combat'], 'Red OPEN correction lost')
     combined=[(r['season'],r['week'],r['day']) for r in current_calendar]+coordinates
     require(combined == [(season,w,d) for season in ('Red','Orange') for w in range(1,8) for d in range(1,8)], 'Combined 98-day gap/overlap')
     lookup={(r['week'],r['day']):r for r in calendar}
-    for date, status in [((5,1),'PARTICIPATE'),((5,6),'PARTICIPATE / ELIMINATED'),((7,5),'RECOVERY')]:
-        row=lookup[date]
-        require('Tournament' in row['kind'] and row['status'] == status
-                and row['illi_credit'] == row['kira_credit'] == 0, 'Tournament/recovery conflict')
+    require(all(lookup[d]['kind']=='OPEN' and lookup[d]['illi_credit']==lookup[d]['kira_credit']==0 for d in ((5,1),(5,6))), 'Orange personal OPEN dates lost')
+    require(lookup[(7,5)]['kind']=='Recovery' and lookup[(7,5)]['status']=='RECOVERY', 'Orange recovery lost')
+    require('10:00 SEASONAL' in lookup[(7,6)]['notes'] and lookup[(7,6)]['illi_credit']==5805, 'Orange same-day seasonal/Duo sequence lost')
     require(lookup[(7,3)]['kind'] == lookup[(7,4)]['kind'] == 'domai'
             and lookup[(7,4)]['status'] == 'EXIT' and lookup[(7,5)]['duration'] == 'full day', 'domai recovery sequence mismatch')
     require('OPEN' in lookup[(7,3)]['notes'] and 'elapsed' in lookup[(7,6)]['notes'], 'domai payout/recovery assumption lost')
-    weekly=rows('world-clock/WORLD_CLOCK_TEMPLATE.csv')
+    weekly=historical_clock_view(root, rows('world-clock/WORLD_CLOCK_TEMPLATE.csv'))
     previous_weekly=list(csv.DictReader(old('world-clock/WORLD_CLOCK_TEMPLATE.csv').decode('utf-8-sig').splitlines()))
     try:
         previous_weekly = current_clock_baseline(root, previous_weekly)

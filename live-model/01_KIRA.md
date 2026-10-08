@@ -141,7 +141,7 @@ She clears W1–W8, then fails W9 under spatial/population saturation. W8/W9 are
 
 The exact payout is **1,275 credits**: 50+90+115+140+170+200+235+275. Failed W9 pays zero; there is **no standings cash bonus**. This is earned Trial income, not an asserted complete bank balance. [Reward rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv).
 
-The unnamed rival is approximately 21, the son of a Blue/Raelon landed noble: a genuine prodigy prepared with elite armor, weapons, ru’ne, Alchemy, instructors and optimized planning. His cohort expected him to be champion. Both clear W8 and fail W9; Kira advances farther into W9 and takes #1, leaving him #2. Exact W9 kill counts stay OPEN. This fits the existing working highest-completed-wave/validated-next-wave-progress tiebreak direction without adding a scoring formula or new UI rule. He is pompous, snobbish and arrogant, but talented rather than evil or incompetent. Name, appearance, exact build and final reconciliation remain OPEN. He is a competitive foil, not a newly prescribed villain arc.
+Kaevren is approximately 21, the son of a Blue/Raelon landed noble: a genuine prodigy prepared with elite armor, weapons, ru’ne, Alchemy, instructors and optimized planning. His cohort expected him to be champion. Both clear W8 and fail W9; Kira advances farther into W9 and takes #1, leaving him #2. Exact W9 kill counts stay OPEN. This fits the existing working highest-completed-wave/validated-next-wave-progress tiebreak direction without adding a scoring formula or new UI rule. He is pompous, snobbish and arrogant, but talented rather than evil or incompetent. House/surname, appearance, exact build and final reconciliation remain OPEN. He is a competitive foil, not a newly prescribed villain arc.
 
 ## Genesis-Orb blender — promote to active canon
 Kira's Genesis Orbs are persistent external Black Genesis-energy bodies, roughly cannonball-sized (~8 in / 20 cm), dense/solid in interaction and capable of acting as mobile Transducers.
@@ -502,7 +502,7 @@ Current Checkpoint 14 behavior: meaningful free time without overriding recovery
 
 ## Checkpoint 19 — Arc Three capability and choices
 
-CSR is held by O2D3 and immediately enables Green Solo/Duo Trial territory. Mobility/repositioning solves lock-down without mass-clear/distributed offense; the later Genesis Orbs discontinuity remains. The [Arc Three scaffold](../world-clock/ARC3_ORANGE_CALENDAR.md) locks nine Duo and six Kira-only Solo runs, no Yellow Dungeon completions, and ten OPEN days. Card collecting (especially Fireball Genesis Cards) and new-cycle raeon decks dominate discretionary choices; no meaningful Auction purchases are assigned. Gross 83,915 remains unchanged; the earlier Orb-reserve/headroom plan is superseded at the Arc Three endpoint by the specific 86,000-credit Blue Fireball card. Funding remains OPEN; Kira later rebuilds the 61,017 Orb fund inside Arc Four. Reserves do not establish a new acquisition timestamp or automatic mastery.
+CSR is purchased O2D3 for61,017 and immediately enables Green Solo/Duo Trial territory. Mobility/repositioning solves lock-down without mass-clear/distributed offense; the later Genesis Orbs discontinuity remains. The [Arc Three scaffold](../world-clock/ARC3_ORANGE_CALENDAR.md) locks nine Duo and six Kira-only Solo runs, no Yellow Dungeon completions, and twelve OPEN days. Card collecting (especially Fireball Genesis Cards) and new-cycle raeon decks dominate discretionary choices; no meaningful Auction purchases are assigned. Current gross is81,415 after the explicit O4D2 duplicate-Red removal; the earlier Orb-reserve/headroom plan is superseded at the Arc Three endpoint by the specific 86,000-credit Blue Fireball card. Funding remains OPEN; Kira later rebuilds the 61,017 Orb fund inside Arc Four. Reserves do not establish a new acquisition timestamp or automatic mastery.
 
 ## Checkpoint 20 — human milestone, abecca and independent Arc Four
 
@@ -578,3 +578,19 @@ Armor is responsive liquid-black abyss continuous with Kira's Black Binding/Gene
 Kira/Elara follow the BFF trajectory; Kira/illi the sister-level bond. Both Kira and the legitimate Blue/Raelon-house rival publicly display W8 Solo clear. Kira retains #1 through deeper validated W9 progress; the rival does not know the exact gap. An author-level best gap of **roughly three kills is WORKING**, not an exact result; all exact W9 kill totals remain OPEN. His attempts are noisy and can end early, including in Orange, without making him incompetent.
 
 Kira favors black/charcoal/graphite/deep-gray everyday clothes; exact style stays OPEN. Her [family smithy at 005](VALNAK_CITY_CULTURE_TRANSPORT.md#arc-one-r2--recurring-city-locations) belongs to her father; father and brothers work there. Mother is not a blacksmith: she manages the outside business and enjoys Valnak leisure. [Approved handoff](../provenance/diplomatic-pouch-arc1-r2/package/01_ARC1_ARC2_DELTA.md).
+
+## October 8 — household and rival
+
+**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied.
+
+**Kaevren — LOCKED** is the talented, prepared landed-noble first-cycle Solo rival/foil. This resolves his personal-name OPEN only; house/surname, exact appearance/build, kill totals and final reconciliation remain OPEN. Earlier Blue/Raelon-parentage and qualified competitive-gap detail survive.
+
+After the first major Solo/Armor breakthrough, Kira reconnects with family and excitedly shows Armor, transformation and performance. The first Champion dinner is an Elara-arranged surprise. Once she understands standing table access, she gives family a standing invitation. Their sparse daytime contact reflects intense individual combat/craft journeys, not estrangement; flexible/off-page Champion dinners allow convergence. Later roughly weekly deliberate catch-up is a possible settling rhythm, not a mandatory appointment.
+
+The recurring male Dungeon leader/friend repeatedly forms groups for Kira+illi. His name remains OPEN; **Jaeren is rejected**. The author prefers harder/archaic N/M/K/L/V/C sounds, with D possible; do not generate a name from that preference.
+
+[Locks source](../provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md); [social source](../provenance/diplomatic-pouch-2026-10-08/package/package/01_CHARACTER_SOCIAL.md). The R1D2/R1D3 paid-combat RECOVERY_GAP survives. These social details do not move a paid event or assign chapter boundaries.
+
+## October 8 cumulative — CSR acquisition day
+
+Kira purchases **CSR on O2D3 for61,017**, later in the day after illi’s optional early W7-clear/W8-fail Solo. This resolves CSR’s exact purchase-day OPEN; it preserves O2D4 immediate Green Duo W13, all later Black acquisition dates and the existing rankless Black architecture. Family-smithy/social time is valid that day. The source supplies no new complete Kira cash ledger. [Explicit date](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md).

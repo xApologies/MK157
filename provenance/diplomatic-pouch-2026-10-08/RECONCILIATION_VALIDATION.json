@@ -1,0 +1,15 @@
+{
+  "result": "PASS",
+  "source": "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/",
+  "baseline": "d2e6a9eded93b0cc4061952a8e381875f06d86c9",
+  "data_files": 10,
+  "arc3_gross": {
+    "illi": 56385,
+    "kira": 81415
+  },
+  "PC_Blue": "O1D3",
+  "Absorption_Red": "O2D2",
+  "CSR": "O2D3",
+  "later_clock_rows_unchanged": 35,
+  "fixed_reward_tables_unchanged_by_correction": true
+}

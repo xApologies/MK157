@@ -22,3 +22,7 @@ Checkpoint 08 map rule: preserve the uploaded base map unchanged; approximate wo
 ## Checkpoint 10 Trial base map
 
 [Valnak Trial arena](VALNAK_TRIAL_ARENA_3X3.png) is the approved fixed 3×3-mile/9-square-mile geography shared by Solo/Duo/Trio. Central Basin, Pillars, Lake/Wetlands/stream, Open Rise and Broken Ground are author labels; embedded text is author annotation. Perimeter ingress and tactical detail follow [Trial arena](../live-model/TRIAL_ARENA.md). This map does not regenerate between attempts; Dungeon realization remains procedural.
+
+## October 8 — bookstore overlay
+
+[007 bookstore map](VALNAK_MAP_007_BOOKSTORE.jpeg) is the new author-supplied overlay, preserved byte-exact. 007 is northeast/right of 003; the previous southern festival venue is now registry serial 008, without a newly invented map marker. [Registry](CITY_LOCATION_REGISTRY.csv) and [city owner](../live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials) govern. The base map and earlier overlays remain at their original paths. This image supplies location markers, not blanket canon for generated microfeatures or an exact expanded city scale. [Source](../provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md#007-collision).

@@ -13,6 +13,10 @@
     {
       "id": "diplomatic-pouch-r2-r3",
       "manifest": "provenance/diplomatic-pouch-r2-r3/INTEGRATION.json"
+    },
+    {
+      "id": "diplomatic-pouch-2026-10-08",
+      "manifest": "provenance/diplomatic-pouch-2026-10-08/INTEGRATION.json"
     }
   ]
 }

@@ -6,6 +6,10 @@ from fractions import Fraction
 import hashlib
 import json
 from pathlib import Path
+import sys
+sys.dont_write_bytecode = True
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools" / "validation"))
+from validate_red_orange_reconciliation import validated_replacements as reconciliation_replacements
 import re
 
 
@@ -124,6 +128,7 @@ def audit(root):
     require('move' in handoff['hard_raid_date_policy'] and 'preserving' in handoff['hard_raid_date_policy'],'Future tournament conflict rule missing')
     # Preserve all earlier archived evidence, checkpoint masters, priced registries and dated data.
     protected=[]
+    reconciled=reconciliation_replacements(root)
     for p,expected_hash in before['sha256'].items():
         should_preserve=(p.startswith(('provenance/','prior-checkpoint-source/','bindings/','summons/','trial-rewards/'))
             # CP22 appends current group-allocation documentation; fixed reward/participant data stays exact.
@@ -132,7 +137,7 @@ def audit(root):
             or (p.startswith('builder/encounters/eldris/') and not p.endswith(('/README.md','/AUDIT.json')))
             or p=='builder/encounters/NORMAL_DUNGEON_AUTHOR_SCALE.csv'
             or p in ['world-clock/'+n for n in ('WORLD_CLOCK_TEMPLATE.csv','PRISM_TEAM_TRACKER.csv','ILLI_PROGRESSION_SKELETON.csv','ILLI_PROGRESSION_SKELETON.json','ILLI_AUTHOR_PROGRESSION_LEDGER.csv','ILLI_AUTHOR_PROGRESSION_LEDGER.json','RED_TO_ORANGE_COMBAT_CALENDAR.csv','RED_TO_ORANGE_COMBAT_CALENDAR.json','ARC3_ORANGE_CALENDAR.csv','ARC3_ORANGE_CALENDAR.json')])
-        if should_preserve and p not in {'trial-rewards/README.md', 'combat-rewards/COMBAT_REWARD_TABLES.json', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/validate_rewards.py', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'bindings/PRICING_MODEL.md', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}:
+        if should_preserve and p not in reconciled and p not in {'trial-rewards/README.md', 'combat-rewards/COMBAT_REWARD_TABLES.json', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/validate_rewards.py', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'bindings/PRICING_MODEL.md', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}:
             require(sha(p)==expected_hash,'Protected baseline bytes changed: '+p); protected.append(p)
     source=text(archive+'CHECKPOINT21_LIVE_MODEL_DELTA.md')
     require(text('live-model/28_CHECKPOINT_21_ARC4_YELLOW.md').endswith(source),'Full author delta not retained')

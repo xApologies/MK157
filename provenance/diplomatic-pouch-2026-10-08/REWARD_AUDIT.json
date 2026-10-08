@@ -1,0 +1,18 @@
+{
+  "result": "BLOCKED_PENDING_AUTHOR",
+  "trial_rows_audited": 35,
+  "W2_cumulative": 140,
+  "W3_cumulative": 255,
+  "optional_solo_rewards_booked": false,
+  "all_original_reward_and_progression_data_unchanged": true,
+  "R4D5_Burrower_bonus_each": 2500,
+  "O1D6_Sixfold_each": 2500,
+  "O1D6_Triumvirate_each": 2500,
+  "O4D2_preexisting_Red_reward_each": 2500,
+  "conflict": "Two Orange-season Normal Red bosses already paid O1D6; O4D2 cannot pay another Red major reward in same season. Author reconciliation requested.",
+  "no_final_wallet_or_revised_gross_asserted": true,
+  "repair_review": "Repair explicitly preserves minimum arithmetic and both O1D6 Red clears. O4D2 remains OPEN; author publication decision requested without inventing reconciliation.",
+  "historical_snapshot": true,
+  "current_successor": "RECONCILIATION_VERIFY_AFTER.json",
+  "scope_note": "Result describes the earlier local repair execution, not the later cumulative correction. Exact pre-reconciliation copies remain in pre-reconciliation-audit/."
+}

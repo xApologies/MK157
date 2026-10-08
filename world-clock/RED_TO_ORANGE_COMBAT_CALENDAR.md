@@ -6,7 +6,7 @@ This scaffold governs required combat and progression income in its interval. It
 
 ## Economy and purchase gates
 
-Starter grant **2,000** plus **52,695** illi combat income through O2D2 funds **54,653** progression purchases through O2D3, leaving **42**. Kira-only Solo income is excluded. Discretionary spending stays separate; this is a progression-capital scaffold, not an assumption that all other purchases cost zero. Tight calibration is accepted.
+Starter grant **2,000** plus **52,695** illi combat income through O2D2 funds **54,653** progression purchases through O2D2, leaving **42**. Kira-only Solo income is excluded. Discretionary spending stays separate; this is a progression-capital scaffold, not an assumption that all other purchases cost zero. Tight calibration is accepted.
 
 | Purchase | Date | Balance before | Cost | Balance after |
 |---|---|---:|---:|---:|
@@ -14,10 +14,10 @@ Starter grant **2,000** plus **52,695** illi combat income through O2D2 funds **
 | PC Orange | R2D3 | 3,050 | 2,720 | 330 |
 | PC Yellow | R4D2 | 10,875 | 4,896 | 5,979 |
 | PC Green | R6D4 | 17,229 | 10,282 | 6,947 |
-| PC Blue / White Legacy acceptance | O1D4 | 26,657 | 25,705 | 952 |
-| Absorption Shield Red | O2D3 | 9,392 | 9,350 | 42 |
+| PC Blue / White Legacy acceptance | O1D3 | 26,657 | 25,705 | 952 |
+| Absorption Shield Red | O2D2 | 9,392 | 9,350 | 42 |
 
-The 17-event milestone dates remain unchanged. PC is full-price before Legacy; accepted-package purchases pay 55% HALF_UP. This calendar assigns no later income or post-Violet-W2 rank dates.
+The current19-event ledger retains all costs and later dates; October8 explicitly changes PC Blue/Legacy to O1D3 and Absorption to O2D2. PC is full-price before Legacy; accepted-package purchases pay 55% HALF_UP. This calendar assigns no later income or post-Violet-W2 rank dates.
 
 ## Required combat anchors
 
@@ -39,4 +39,30 @@ Kira/illi gain a reputation for unusually persistent combat/death exposure and a
 
 ## Checkpoint 19 continuation and cultural appointment
 
-R5D4 now explicitly records Kira + illi raeon participation/elimination in character/notes fields. NO REQUIRED COMBAT, combat duration, money and all 59 coordinates remain unchanged. The exact [Arc Three Orange continuation](ARC3_ORANGE_CALENDAR.md) starts O2D4 and ends O7D7; it does not retroactively add income to this ledger. Its O4D2 paid Red Raid must use a distinct previously unpaid boss from O1D6 under the existing two-Red first-cycle roster.
+The [current Arc Three calendar](ARC3_ORANGE_CALENDAR.md) covers O2D4–O7D7. October8 explicitly supersedes the former R5D4/O5D1/O5D6 personal tournament appointments and O7D5 viewing. R7D6/O7D6 now contain seasonal10:00 entry/early knockout before the existing Duo. O4D2 repeats already-paid Reds without reward and clears Black Orchard for3,750 only. Historical CP19 packages/audits remain evidence of the prior state.
+
+## October 8 repair — current author overlay
+
+The [cumulative source](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/CORE_AND_RED.md) and [Orange correction](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md) govern the current59-row minimum progression ledger. All combat income rows remain unchanged; the two purchase dates explicitly move, changing only those same-day post-purchase balances. Bonus/discretionary income and optional Solo credit remain outside this ledger.
+
+| Date | Current authored event | Accounting |
+|---|---|---|
+| R1D7 | Opening Celebration at southern festival grounds008;006 dressmaker;007 bookstore northeast/right of003. | No paid chronology repair. |
+| R2D5 | W2 clear bad run: tunnel vision/missed flank/death; abecca/raeon. |140 retained; not a ceiling. |
+| R3D2 | Fire Dragon Red-A clear; Shardfield Orange-B fails. |2,500 retained. |
+| R4D5 | BONUS Burrower Red-B CLEAR. |2,500 each ACTUAL/DISCRETIONARY, excluded from minimum. |
+| R5D1–D3 | domai D1/D2; D2 exits/deaths, D3 mandatory recovery. | No D1 formal exit/D2 re-entry exception; payout0 if eligibility expires. |
+| R5D4 | OPEN; former seasonal tournament removed. |0. |
+| R6D4 | PC Green; bookstore007; optional Solo/top-off. | Date/cost unchanged; optional credits OPEN. |
+| R6D6 | Red repeats unpaid; Coherence Twins Orange-A clear after working5/5 separation. |3,750 retained. |
+| R7D5 | Ghost Base; optional illi Solos. | Exact results/rewards OPEN. |
+| R7D6 |10:00 SEASONAL entry -> EARLY KNOCKOUT -> existing same-day Duo W10 CLEAR. |1,950 and running balance unchanged. |
+| R7D7 | Orange×2 unchanged. |2,040. |
+| O1D3 | Duo W10 -> IMMEDIATE PC Blue/White Legacy. |24,707+1,950−25,705=952. |
+| O1D4 | Recognition/royal aftermath, no required purchase/combat. |952 retained. |
+| O1D5 | Girls day Elara+Kira+illi+Naira+Laina. | No added required combat. |
+| O1D6 | Sixfold CLEAR; Triumvirate CLEAR; Black Orchard repeated FAIL; Weaver/Wayfarer/Bloom NOT ATTEMPTED. |5,000 each actual Red total:2,500 minimum+2,500 discretionary; ZERO Orange reward. |
+| O2D2 | Duo W10 -> IMMEDIATE Absorption Red; major White-Legacy celebration. |7,442+1,950−9,350=42. |
+| O2D3 | Early optional illi Solo W7 CLEAR/W8 FAIL; later Kira buys CSR61,017; smithy/social valid. | Optional Solo credits OPEN/unbooked; CSR is Kira’s separate cost. |
+
+O1D1/O1D7 Duo W10, O1D2/O2D1 Orange×2 and other supplied combat remain. [Full Red/Orange social owner](../live-model/STORY_CLOCK_STATE.md#october-8-cumulative--orange-weeks-one-through-seven) retains all compatible family, books, Builder, leader and001 temporary-playtest detail. No chapter boundaries follow. The **R1D2/R1D3 RECOVERY_GAP remains explicit and unresolved**.

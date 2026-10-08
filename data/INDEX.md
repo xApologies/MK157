@@ -210,3 +210,7 @@ Check route: [provenance/maintenance/authoring-cleanup-r1/PRESERVATION_REPORT.js
 - [visual-references/VALNAK_DUNGEON_DOMAI_BASE_MAP.jpeg](../visual-references/VALNAK_DUNGEON_DOMAI_BASE_MAP.jpeg)
 - [visual-references/VALNAK_TRIAL_ARENA_3X3.png](../visual-references/VALNAK_TRIAL_ARENA_3X3.png)
 - [visual-references/VALNEK_PATH_PLAQUES.jpeg](../visual-references/VALNEK_PATH_PLAQUES.jpeg)
+
+## October 8 current Red/Orange corrections
+
+Current Red→Orange/Arc Three CSV/JSON, illi ledger/skeleton and scoped weekly character fields implement the [author correction](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md). Costs and later-season data remain preserved; O4D2 reward is3,750 only. [New reconciliation evidence](../provenance/diplomatic-pouch-2026-10-08/RECONCILIATION.json) owns fresh checks. Existing CALENDAR/ECONOMY/HANDOFF audit JSON files are historical executions with their recorded dates and amounts; they were not regenerated or relabeled as current proof.

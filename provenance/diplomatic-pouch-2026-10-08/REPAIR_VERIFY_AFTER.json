@@ -1,0 +1,609 @@
+{
+  "result": "PASS",
+  "scope": "WORKING_TREE",
+  "revision": "d2e6a9eded93b0cc4061952a8e381875f06d86c9",
+  "post_push_remote_verified": false,
+  "source": "package/arc1-arc2-repair/package/VERIFY_AFTER.md",
+  "checks": [
+    {
+      "item": 1,
+      "title": "Kira household names and two older brothers",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 584,
+          "text": "**Kira’s household — LOCKED:** Maelor (father), Naira (mother), Caelen (older brother), Vaedren (older brother), Kira, Laina (younger sister). Parents + two older brothers + Kira + younger sister. Maelor/Caelen/Vaedren are the smithing side at 005; Naira remains non-blacksmith and her prior business role survives. No extra ages, surnames or sibling precedence beyond older/younger is supplied."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 2,
+      "title": "Kaevren named in current Kira and Arc owners",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 144,
+          "text": "Kaevren is approximately 21, the son of a Blue/Raelon landed noble: a genuine prodigy prepared with elite armor, weapons, ru’ne, Alchemy, instructors and optimized planning. His cohort expected him to be champion. Both clear W8 and fail W9; Kira advances farther into W9 and takes #1, leaving him #2. Exact W9 kill counts stay OPEN. This fits the existing working highest-completed-wave/validated-next-wave-progress tiebreak direction without adding a scoring formula or new UI rule. He is pompous, snobbish and arrogant, but talented rather than evil or incompetent. House/surname, appearance, exact build and final reconciliation remain OPEN. He is a competitive foil, not a newly prescribed villain arc."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 144,
+          "text": "Kaevren is approximately 21, the son of a Blue/Raelon landed noble: a genuine prodigy prepared with elite armor, weapons, ru’ne, Alchemy, instructors and optimized planning. His cohort expected him to be champion. Both clear W8 and fail W9; Kira advances farther into W9 and takes #1, leaving him #2. Exact W9 kill counts stay OPEN. This fits the existing working highest-completed-wave/validated-next-wave-progress tiebreak direction without adding a scoring formula or new UI rule. He is pompous, snobbish and arrogant, but talented rather than evil or incompetent. House/surname, appearance, exact build and final reconciliation remain OPEN. He is a competitive foil, not a newly prescribed villain arc."
+        },
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 144,
+          "text": "Kaevren is approximately 21, the son of a Blue/Raelon landed noble: a genuine prodigy prepared with elite armor, weapons, ru’ne, Alchemy, instructors and optimized planning. His cohort expected him to be champion. Both clear W8 and fail W9; Kira advances farther into W9 and takes #1, leaving him #2. Exact W9 kill counts stay OPEN. This fits the existing working highest-completed-wave/validated-next-wave-progress tiebreak direction without adding a scoring formula or new UI rule. He is pompous, snobbish and arrogant, but talented rather than evil or incompetent. House/surname, appearance, exact build and final reconciliation remain OPEN. He is a competitive foil, not a newly prescribed villain arc."
+        },
+        {
+          "path": "story/ARC_01/ARC.md",
+          "line": 33,
+          "text": "W1–W8 pays exactly **1,275** (50+90+115+140+170+200+235+275); failed W9 pays zero. **No standings cash bonus.** This is Trial income, not her complete bank balance. The approximately-21-year-old Kaevren, son of a Blue/Raelon landed noble also clears W8/fails W9. Elite equipment, ru’ne, Alchemy, instructors and planning support real prodigy talent. Kira's greater W9 progress makes her #1 and him #2; kill counts stay OPEN. He is arrogant/snobbish and disappointed, a competitive foil rather than an evil/incompetent villain. [Reward rows](../../trial-rewards/TRIAL_WAVE_CREDITS.csv)."
+        },
+        {
+          "path": "story/ARC_02/ARC.md",
+          "line": 30,
+          "text": "Before Orbs, population/spatial saturation constrains melee throughput. Working early Solo/Duo W8–10 and inefficient mid-Orange Trio ceilings are calibration, not final standings or a booked Trio. illi's PC support Trials use simulated combatants and remain weak experiments; only supplied attempts enter the formal progression ledger. Optional incidental shallow runs now follow the explicit R2 lifestyle-credit doctrine, without invented totals or shifted milestones. Kaevren, the skilled equipped noble rival reaching Yellow, is credible and is not made incompetent to elevate Kira."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 3,
+      "title": "Conventional bow competence and early offense",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 104,
+          "text": "illi enters Valnak already competent with a conventional bow, her principal early offensive equipment while Persistent Coherence is her only Binding. Competent does not mean legendary; no new Binding, named bow or price is supplied. Bow + PC + simulated formation explains early Solo. Successful ranged kills reduce incoming pressure; misses and poor awareness can cascade. Later Bindings reduce bow centrality without erasing the bow."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 104,
+          "text": "illi enters Valnak already competent with a conventional bow, her principal early offensive equipment while Persistent Coherence is her only Binding. Competent does not mean legendary; no new Binding, named bow or price is supplied. Bow + PC + simulated formation explains early Solo. Successful ranged kills reduce incoming pressure; misses and poor awareness can cascade. Later Bindings reduce bow centrality without erasing the bow."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 104,
+          "text": "illi enters Valnak already competent with a conventional bow, her principal early offensive equipment while Persistent Coherence is her only Binding. Competent does not mean legendary; no new Binding, named bow or price is supplied. Bow + PC + simulated formation explains early Solo. Successful ranged kills reduce incoming pressure; misses and poor awareness can cascade. Later Bindings reduce bow centrality without erasing the bow."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 104,
+          "text": "illi enters Valnak already competent with a conventional bow, her principal early offensive equipment while Persistent Coherence is her only Binding. Competent does not mean legendary; no new Binding, named bow or price is supplied. Bow + PC + simulated formation explains early Solo. Successful ranged kills reduce incoming pressure; misses and poor awareness can cascade. Later Bindings reduce bow centrality without erasing the bow."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 104,
+          "text": "illi enters Valnak already competent with a conventional bow, her principal early offensive equipment while Persistent Coherence is her only Binding. Competent does not mean legendary; no new Binding, named bow or price is supplied. Bow + PC + simulated formation explains early Solo. Successful ranged kills reduce incoming pressure; misses and poor awareness can cascade. Later Bindings reduce bow centrality without erasing the bow."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 4,
+      "title": "R2D5 booked W2/140 and bad-run firewall",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 108,
+          "text": "R2D5 is an intentional bad run, not a W2 capability ceiling: W2 clear/booked140 survives the tunnel-vision/flank/panic/death/frustration scene. R4D1’s old W3 wording is not a ceiling either; the author now describes a decent run into Orange pressure. The existing255 is the minimum scaffold’s booked W1–W3 sum, not a newly asserted complete actual payout. Exact optional depth/results/reward and any excess above that minimum remain OPEN. Later optional Solos may push deeper Orange as PC improves. R6D4 top-off, R7D5’s possible two attempts and O1D4 optional top-off acquire no guessed earnings, attendance or changed purchase dates."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 108,
+          "text": "R2D5 is an intentional bad run, not a W2 capability ceiling: W2 clear/booked140 survives the tunnel-vision/flank/panic/death/frustration scene. R4D1’s old W3 wording is not a ceiling either; the author now describes a decent run into Orange pressure. The existing255 is the minimum scaffold’s booked W1–W3 sum, not a newly asserted complete actual payout. Exact optional depth/results/reward and any excess above that minimum remain OPEN. Later optional Solos may push deeper Orange as PC improves. R6D4 top-off, R7D5’s possible two attempts and O1D4 optional top-off acquire no guessed earnings, attendance or changed purchase dates."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 583,
+          "text": "R2D5: illi Solo W2. Working scene: tunnel vision on simulated formation/healing, misses flanking threat, panics/repositions/heals self, dies;"
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 584,
+          "text": "returns frustrated and comically insists it was not her fault while Kira humors her. Kira proposes 004 frosted abecca then 001 `raeon` to blow off steam."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 584,
+          "text": "returns frustrated and comically insists it was not her fault while Kira humors her. Kira proposes 004 frosted abecca then 001 `raeon` to blow off steam."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 5,
+      "title": "Unique bookstore007 and festival008; R1D7 references",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 538,
+          "text": "- 008 = principal Opening Ceremony/festival grounds on southern lobe of main central island (author-marked target)."
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 50,
+          "text": "| R1D7 | Opening Celebration at southern festival grounds **008**; 006 remains the formal/event dressmaker. Bookstore **007** is northeast/right of 003. | Social overlay; serial relocation preserves the venue. |"
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 50,
+          "text": "| R1D7 | Opening Celebration at southern festival grounds **008**; 006 remains the formal/event dressmaker. Bookstore **007** is northeast/right of 003. | Social overlay; serial relocation preserves the venue. |"
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 6,
+      "title": "R4D5 Burrower bonus outside minimum ledger",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 53,
+          "text": "| R4D5 | Red-B **Burrower** progression, eventual CLEAR. | **2,500 each actual/discretionary surplus**, excluded from the minimum progression balance; the old OPEN row is now narratively occupied without adding required progression income. |"
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 53,
+          "text": "| R4D5 | Red-B **Burrower** progression, eventual CLEAR. | **2,500 each actual/discretionary surplus**, excluded from the minimum progression balance; the old OPEN row is now narratively occupied without adding required progression income. |"
+        },
+        {
+          "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+          "line": 373,
+          "text": "The existing Red→O2D3 ledger remains the minimum progression scaffold. R4D5 Burrower (Red B) now clears for **2,500 per girl** in separate actual/discretionary wallet surplus. O1D6’s newly authored Sixfold (Red A) plus Triumvirate (Red B) clears each pay 2,500; the existing minimum row covers one Red only. The new source calls the second Red a further 2,500 per girl wallet surplus. Black Orchard fails and gives no Orange major reward."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 7,
+      "title": "R6D6 Coherence Twins and booked3750",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 57,
+          "text": "| R6D6 | Red repeat warm-up pays no major reward; Orange-A **Coherence Twins**, two monsters mutually sustaining through overlapping coherence; repeated failures then CLEAR using working 5/5 separation. | Existing Orange **3,750** retained. |"
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 57,
+          "text": "| R6D6 | Red repeat warm-up pays no major reward; Orange-A **Coherence Twins**, two monsters mutually sustaining through overlapping coherence; repeated failures then CLEAR using working 5/5 separation. | Existing Orange **3,750** retained. |"
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 57,
+          "text": "| R6D6 | Red repeat warm-up pays no major reward; Orange-A **Coherence Twins**, two monsters mutually sustaining through overlapping coherence; repeated failures then CLEAR using working 5/5 separation. | Existing Orange **3,750** retained. |"
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 8,
+      "title": "Red W5 domai chronology and zero payout",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/DOMAI_PARTICIPATION.md",
+          "line": 88,
+          "text": "R5D1–D2 remain the existing active operational block, followed by R5D3 mandatory beach/books/naps/food recovery. First-day survival/withdrawal language must not become a formal same-domai exit and forbidden next-day re-entry. Exact first-night staging is OPEN; no new lockout exception is authorized. On D2 illi fatigues/dies/exits first; Kira continues until overrun/death/exit. Existing one-full-day lockout remains. R5D4 is the raeon tournament, where both girls participate and are eliminated. On R5D7 eligibility expires without conquest; payout = 0. Highlights may reveal scale without requiring an incompatible travel/exit action. [Scene source](../provenance/diplomatic-pouch-2026-10-08/package/package/02_RED_W3_W7.md)."
+        },
+        {
+          "path": "live-model/DOMAI_PARTICIPATION.md",
+          "line": 88,
+          "text": "R5D1–D2 remain the existing active operational block, followed by R5D3 mandatory beach/books/naps/food recovery. First-day survival/withdrawal language must not become a formal same-domai exit and forbidden next-day re-entry. Exact first-night staging is OPEN; no new lockout exception is authorized. On D2 illi fatigues/dies/exits first; Kira continues until overrun/death/exit. Existing one-full-day lockout remains. R5D4 is the raeon tournament, where both girls participate and are eliminated. On R5D7 eligibility expires without conquest; payout = 0. Highlights may reveal scale without requiring an incompatible travel/exit action. [Scene source](../provenance/diplomatic-pouch-2026-10-08/package/package/02_RED_W3_W7.md)."
+        },
+        {
+          "path": "live-model/DOMAI_PARTICIPATION.md",
+          "line": 88,
+          "text": "R5D1–D2 remain the existing active operational block, followed by R5D3 mandatory beach/books/naps/food recovery. First-day survival/withdrawal language must not become a formal same-domai exit and forbidden next-day re-entry. Exact first-night staging is OPEN; no new lockout exception is authorized. On D2 illi fatigues/dies/exits first; Kira continues until overrun/death/exit. Existing one-full-day lockout remains. R5D4 is the raeon tournament, where both girls participate and are eliminated. On R5D7 eligibility expires without conquest; payout = 0. Highlights may reveal scale without requiring an incompatible travel/exit action. [Scene source](../provenance/diplomatic-pouch-2026-10-08/package/package/02_RED_W3_W7.md)."
+        },
+        {
+          "path": "live-model/DOMAI_PARTICIPATION.md",
+          "line": 88,
+          "text": "R5D1–D2 remain the existing active operational block, followed by R5D3 mandatory beach/books/naps/food recovery. First-day survival/withdrawal language must not become a formal same-domai exit and forbidden next-day re-entry. Exact first-night staging is OPEN; no new lockout exception is authorized. On D2 illi fatigues/dies/exits first; Kira continues until overrun/death/exit. Existing one-full-day lockout remains. R5D4 is the raeon tournament, where both girls participate and are eliminated. On R5D7 eligibility expires without conquest; payout = 0. Highlights may reveal scale without requiring an incompatible travel/exit action. [Scene source](../provenance/diplomatic-pouch-2026-10-08/package/package/02_RED_W3_W7.md)."
+        },
+        {
+          "path": "live-model/DOMAI_PARTICIPATION.md",
+          "line": 88,
+          "text": "R5D1–D2 remain the existing active operational block, followed by R5D3 mandatory beach/books/naps/food recovery. First-day survival/withdrawal language must not become a formal same-domai exit and forbidden next-day re-entry. Exact first-night staging is OPEN; no new lockout exception is authorized. On D2 illi fatigues/dies/exits first; Kira continues until overrun/death/exit. Existing one-full-day lockout remains. R5D4 is the raeon tournament, where both girls participate and are eliminated. On R5D7 eligibility expires without conquest; payout = 0. Highlights may reveal scale without requiring an incompatible travel/exit action. [Scene source](../provenance/diplomatic-pouch-2026-10-08/package/package/02_RED_W3_W7.md)."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": "Exact first-night staging remains OPEN; D1 leave does not authorize a lockout exception."
+    },
+    {
+      "item": 9,
+      "title": "Red W6/W7 social overlay and family anchors",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 611,
+          "text": "R6: D1 Orange x2 via recurring leader; leader may suffer funny death; trio coffee/lunch. D2 beach/read leisure. D3 Duo W10. D4 optional illi Solo/top-off exact reward OPEN; PC->Green; lunch + bookstore 007. D5 Kira+Maelor+Caelen+Vaedren smithing-side lunch. D6 Raid: Red repeats may warm up/no repeat reward; Orange-A Coherence Twins are two monsters whose overlapping coherence permits mutual sustain/healing; repeated failures -> working 5/5 separation -> CLEAR, +3,750 booked. D7 leisure."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 611,
+          "text": "R6: D1 Orange x2 via recurring leader; leader may suffer funny death; trio coffee/lunch. D2 beach/read leisure. D3 Duo W10. D4 optional illi Solo/top-off exact reward OPEN; PC->Green; lunch + bookstore 007. D5 Kira+Maelor+Caelen+Vaedren smithing-side lunch. D6 Raid: Red repeats may warm up/no repeat reward; Orange-A Coherence Twins are two monsters whose overlapping coherence permits mutual sustain/healing; repeated failures -> working 5/5 separation -> CLEAR, +3,750 booked. D7 leisure."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 611,
+          "text": "R6: D1 Orange x2 via recurring leader; leader may suffer funny death; trio coffee/lunch. D2 beach/read leisure. D3 Duo W10. D4 optional illi Solo/top-off exact reward OPEN; PC->Green; lunch + bookstore 007. D5 Kira+Maelor+Caelen+Vaedren smithing-side lunch. D6 Raid: Red repeats may warm up/no repeat reward; Orange-A Coherence Twins are two monsters whose overlapping coherence permits mutual sustain/healing; repeated failures -> working 5/5 separation -> CLEAR, +3,750 booked. D7 leisure."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 613,
+          "text": "R7: D1 Orange x2: morning Builder; illi reads; ~13:00 PUG, reputation makes pair desirable. D2 girls' day/open. D3 Duo W10; afterward 001 temporary raeon deck playtest. D4 Orange x2 via recurring leader; frosted abecca + lunch. D5 Ghost Base; Kira read/Builder; illi may do TWO optional Solo attempts, exact results/credits OPEN. D6 Duo W10, working 11:00–13:00 start, ~8–10h; late salad/dinner/highlights. D7 Orange x2: Kira/illi recruit recurring leader and make him lead again; ~12:00 formation, finish as late as ~22:00; frosted abecca; invite leader to Champion Table. Extended Red-season finale Highlights ~2–2.5h WORKING duration."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 613,
+          "text": "R7: D1 Orange x2: morning Builder; illi reads; ~13:00 PUG, reputation makes pair desirable. D2 girls' day/open. D3 Duo W10; afterward 001 temporary raeon deck playtest. D4 Orange x2 via recurring leader; frosted abecca + lunch. D5 Ghost Base; Kira read/Builder; illi may do TWO optional Solo attempts, exact results/credits OPEN. D6 Duo W10, working 11:00–13:00 start, ~8–10h; late salad/dinner/highlights. D7 Orange x2: Kira/illi recruit recurring leader and make him lead again; ~12:00 formation, finish as late as ~22:00; frosted abecca; invite leader to Champion Table. Extended Red-season finale Highlights ~2–2.5h WORKING duration."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 613,
+          "text": "R7: D1 Orange x2: morning Builder; illi reads; ~13:00 PUG, reputation makes pair desirable. D2 girls' day/open. D3 Duo W10; afterward 001 temporary raeon deck playtest. D4 Orange x2 via recurring leader; frosted abecca + lunch. D5 Ghost Base; Kira read/Builder; illi may do TWO optional Solo attempts, exact results/credits OPEN. D6 Duo W10, working 11:00–13:00 start, ~8–10h; late salad/dinner/highlights. D7 Orange x2: Kira/illi recruit recurring leader and make him lead again; ~12:00 formation, finish as late as ~22:00; frosted abecca; invite leader to Champion Table. Extended Red-season finale Highlights ~2–2.5h WORKING duration."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 613,
+          "text": "R7: D1 Orange x2: morning Builder; illi reads; ~13:00 PUG, reputation makes pair desirable. D2 girls' day/open. D3 Duo W10; afterward 001 temporary raeon deck playtest. D4 Orange x2 via recurring leader; frosted abecca + lunch. D5 Ghost Base; Kira read/Builder; illi may do TWO optional Solo attempts, exact results/credits OPEN. D6 Duo W10, working 11:00–13:00 start, ~8–10h; late salad/dinner/highlights. D7 Orange x2: Kira/illi recruit recurring leader and make him lead again; ~12:00 formation, finish as late as ~22:00; frosted abecca; invite leader to Champion Table. Extended Red-season finale Highlights ~2–2.5h WORKING duration."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 613,
+          "text": "R7: D1 Orange x2: morning Builder; illi reads; ~13:00 PUG, reputation makes pair desirable. D2 girls' day/open. D3 Duo W10; afterward 001 temporary raeon deck playtest. D4 Orange x2 via recurring leader; frosted abecca + lunch. D5 Ghost Base; Kira read/Builder; illi may do TWO optional Solo attempts, exact results/credits OPEN. D6 Duo W10, working 11:00–13:00 start, ~8–10h; late salad/dinner/highlights. D7 Orange x2: Kira/illi recruit recurring leader and make him lead again; ~12:00 formation, finish as late as ~22:00; frosted abecca; invite leader to Champion Table. Extended Red-season finale Highlights ~2–2.5h WORKING duration."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 613,
+          "text": "R7: D1 Orange x2: morning Builder; illi reads; ~13:00 PUG, reputation makes pair desirable. D2 girls' day/open. D3 Duo W10; afterward 001 temporary raeon deck playtest. D4 Orange x2 via recurring leader; frosted abecca + lunch. D5 Ghost Base; Kira read/Builder; illi may do TWO optional Solo attempts, exact results/credits OPEN. D6 Duo W10, working 11:00–13:00 start, ~8–10h; late salad/dinner/highlights. D7 Orange x2: Kira/illi recruit recurring leader and make him lead again; ~12:00 formation, finish as late as ~22:00; frosted abecca; invite leader to Champion Table. Extended Red-season finale Highlights ~2–2.5h WORKING duration."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "line": 752,
+          "text": "Family anchors: R2D1 late lunch may include Kira+illi+Naira+Laina; R3D6 family catch-up; R4D3 Kira/Naira/Laina shopping (illi optional); R5D6 Kira/Naira/Laina/illi girls' day and family dinner; R6D5 Kira takes Maelor/Caelen/Vaedren from 005 to Champion Table lunch while Naira/Laina are elsewhere and illi is independent."
+        },
+        {
+          "path": "live-model/03_VALNEK_PATHS.md",
+          "line": 752,
+          "text": "Family anchors: R2D1 late lunch may include Kira+illi+Naira+Laina; R3D6 family catch-up; R4D3 Kira/Naira/Laina shopping (illi optional); R5D6 Kira/Naira/Laina/illi girls' day and family dinner; R6D5 Kira takes Maelor/Caelen/Vaedren from 005 to Champion Table lunch while Naira/Laina are elsewhere and illi is independent."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 10,
+      "title": "O1D6 clear/fail and not-attempted outcomes",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 628,
+          "text": "O1D6 NEW seasonal Raid roster: Sixfold CLEAR; Triumvirate CLEAR; Black Orchard several pulls/repeated deaths FAIL; people stop wanting to wipe and group disbands. Orange B Weaver, Yellow Wayfarer and Green The Bloom are NOT ATTEMPTED on O1D6. Calendar books Red A Sixfold first-clear +2,500 each; Red B Triumvirate adds +2,500 each actual/discretionary wallet surplus; ZERO Orange Raid credits."
+        },
+        {
+          "path": "live-model/STORY_CLOCK_STATE.md",
+          "line": 628,
+          "text": "O1D6 NEW seasonal Raid roster: Sixfold CLEAR; Triumvirate CLEAR; Black Orchard several pulls/repeated deaths FAIL; people stop wanting to wipe and group disbands. Orange B Weaver, Yellow Wayfarer and Green The Bloom are NOT ATTEMPTED on O1D6. Calendar books Red A Sixfold first-clear +2,500 each; Red B Triumvirate adds +2,500 each actual/discretionary wallet surplus; ZERO Orange Raid credits."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 824,
+          "text": "This is the supplied LOCKED seasonal roster, R/R/O/O/Y/G, distinct from the Red-season roster. Sixfold and Triumvirate are the O1D6 Red clears; Black Orchard fails after repeated pulls. Weaver, Wayfarer and The Bloom are NOT ATTEMPTED on O1D6; their mechanisms do not book a later clear or move later canon. No taunt, aggro or threat stat: Bastion intercepts/obstructs physically. Wayfarer redirects only attacks that cross a gate before impact; Bloom metabolizes direct Genesis energy, not generic magic; Weaver loses jumping at four remaining functional legs, regardless of which four were disabled. Approximate dimensions and unspecified alloy remain qualified. O1D6’s new second-Red credit versus the prior O4D2 paid-Red entry requires explicit author reconciliation before publication."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 11,
+      "title": "ZERO Orange reward O1D6; minimum arithmetic unchanged",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 62,
+          "text": "| O1D6 | **Sixfold CLEAR; Triumvirate CLEAR; Black Orchard repeated FAIL**, remains alive; group disbands after repeated deaths. **Weaver / Wayfarer / The Bloom NOT ATTEMPTED.** | Sixfold **2,500** booked; Triumvirate **2,500 each actual/discretionary surplus** outside this minimum ledger; **ZERO Orange Raid credits**. |"
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 46,
+          "text": "The [repair delta](../provenance/diplomatic-pouch-2026-10-08/package/arc1-arc2-repair/package/REPAIR_DELTA.md) names and develops these rows. The CSV/JSON remain the **minimum progression ledger**, not an exhaustive activity log or actual wallet. All 59 rows, credits, balances and purchase dates retain their original bytes. Later CP24/25 authority still governs later progression; this is no new numbered checkpoint. The earlier generic Raid descriptions above must be read through the identities below."
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 60,
+          "text": "| O1D4 | PC Blue / White Legacy qualification and acceptance. | Cost **25,705**, minimum balance **952**; optional Solo credit remains OPEN. |"
+        },
+        {
+          "path": "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+          "line": 375,
+          "text": "**Unresolved cross-calendar conflict:** O4D2 currently includes another 2,500 Red first-clear per girl, requiring a previously unpaid second Red. Both Reds have now cleared on O1D6, so the later Red payment cannot also be new income. Keep existing exact tables/ledgers intact while the author decides the reconciliation; do not add these amounts into a claimed final balance or introduce a third Red boss, mode swap or payout exception. The earlier conditional extra Red+Orange 6,250 scenario is not blanket permission to book an extra Orange; Shardfield remains the Red-season wall."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": "PASS verifies zero Orange reward and byte-identical minimum arithmetic, not reconciliation of the separate O4D2 Red payment conflict. All 56 existing exact-data/audit CSV/JSON files in clock/rewards/economy are byte-preserved."
+    },
+    {
+      "item": 12,
+      "title": "All six Orange Raid constructs and full mechanisms",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 797,
+          "text": "### Red A — Sixfold"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 801,
+          "text": "### Red B — Triumvirate"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 804,
+          "text": "### Orange A — Black Orchard"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 807,
+          "text": "### Orange B — Weaver"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 813,
+          "text": "### Yellow — Wayfarer"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 816,
+          "text": "### Green — The Bloom"
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 799,
+          "text": "Sixfold = 2 legs + 4 arms. Fivefold = 2 legs + 2 arms + tail. Fourfold = 4 legs/quadrupedal charge-pounce-trample. Threefold = 2 legs + 1 massive arm/heavy sweep-slam. Twofold = 2 legs/compact mobility-kick-leap-body-check. Onefold = no limbs/dense rolling-slamming blob trying to crush participants. Zero = coherence failure/CLEAR. Identity: attrition; keep damaging until it runs out of viable morphologies, not arbitrary health phases."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 799,
+          "text": "Sixfold = 2 legs + 4 arms. Fivefold = 2 legs + 2 arms + tail. Fourfold = 4 legs/quadrupedal charge-pounce-trample. Threefold = 2 legs + 1 massive arm/heavy sweep-slam. Twofold = 2 legs/compact mobility-kick-leap-body-check. Onefold = no limbs/dense rolling-slamming blob trying to crush participants. Zero = coherence failure/CLEAR. Identity: attrition; keep damaging until it runs out of viable morphologies, not arbitrary health phases."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 802,
+          "text": "Three ~13–17 ft constructs: Keeper/healer (Persistent + Directed Coherence, weak offense); Bastion/Guardian (durable interception/obstruction, NO threat stat); Lance/ranged (Genesis Beam + explosive Genesis-energy orb/projectile, maintains range). Strategy: separate Keeper and hold it away; front line occupies Bastion; ranged/mobile kills Lance; collapse on Bastion; whole Raid finishes Keeper. Danger = synergy/role decomposition."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 802,
+          "text": "Three ~13–17 ft constructs: Keeper/healer (Persistent + Directed Coherence, weak offense); Bastion/Guardian (durable interception/obstruction, NO threat stat); Lance/ranged (Genesis Beam + explosive Genesis-energy orb/projectile, maintains range). Strategy: separate Keeper and hold it away; front line occupies Bastion; ranged/mobile kills Lance; collapse on Bastion; whole Raid finishes Keeper. Danger = synergy/role decomposition."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 805,
+          "text": "Gigantic black Genesis tree/root environment. Fine roots/tendrils/vines whip/grab/obstruct and must be penetrated. Central Orchard emits broad Decoherence/Genesis-field pulses with escalating pressure. Persistent Coherence is especially valuable for sustained raid stabilization; Directed Coherence remains acute rescue. Identity: environmental penetration + healing throughput + attrition. O1D6 repeated attempts FAIL; group dissolves."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 809,
+          "text": "Phase 1: jumps/weaves unpredictably; Raid spreads; landing/catching participant can pin/impale, with clean central impalement ordinarily catastrophic/lethal (not artificial one-shot). Raid concentrates damage on legs despite mobility. ANY four legs may be disabled."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 810,
+          "text": "Transition: at 4 remaining functional legs, jumping locomotion is mechanically unavailable."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 814,
+          "text": "~13-ft lean bipedal construct using paired spatial/dimensional gates. Paired boundaries preserve continuity; attacks/matter enter one and emerge from paired exit with momentum/energy substantially preserved. Can step through gates/walls and redirect incoming Fireball/Beam/projectile toward other participants, creating physically real friendly fire. Gate formation has readable Genesis expression; participants may exploit open gates. Guardrail: attack must cross gate BEFORE impact; no retroactive reflection after boss is hit. Identity: spatial/topological awareness."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 819,
+          "text": "Prime ejects spores. Immature spores draw on Genesis field. Physical/melee disruption destroys them. Direct Genesis-energy attacks are metabolized/absorbed and accelerate growth; NOT generic anti-magic. Unattended/energized spore matures into ~17-ft Secondary Bloom."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 819,
+          "text": "Prime ejects spores. Immature spores draw on Genesis field. Physical/melee disruption destroys them. Direct Genesis-energy attacks are metabolized/absorbed and accelerate growth; NOT generic anti-magic. Unattended/energized spore matures into ~17-ft Secondary Bloom."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 822,
+          "text": "Runaway is emergent, no hard numeric wipe: more Blooms -> more spores -> more melee pressure -> fatigue -> missed spores -> more Blooms. Eventually spore production exceeds physical suppression capacity and battlefield becomes unrecoverable. Green should feel survivable/attackable/understandable yet functionally impossible for immature first-cycle Orange-season groups."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 795,
+          "text": "These are Valnak encounter constructs, not ordinary outside-world eldris."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 13,
+      "title": "No taunt/aggro/threat-stat mechanic introduced",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 802,
+          "text": "Three ~13–17 ft constructs: Keeper/healer (Persistent + Directed Coherence, weak offense); Bastion/Guardian (durable interception/obstruction, NO threat stat); Lance/ranged (Genesis Beam + explosive Genesis-energy orb/projectile, maintains range). Strategy: separate Keeper and hold it away; front line occupies Bastion; ranged/mobile kills Lance; collapse on Bastion; whole Raid finishes Keeper. Danger = synergy/role decomposition."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 824,
+          "text": "This is the supplied LOCKED seasonal roster, R/R/O/O/Y/G, distinct from the Red-season roster. Sixfold and Triumvirate are the O1D6 Red clears; Black Orchard fails after repeated pulls. Weaver, Wayfarer and The Bloom are NOT ATTEMPTED on O1D6; their mechanisms do not book a later clear or move later canon. No taunt, aggro or threat stat: Bastion intercepts/obstructs physically. Wayfarer redirects only attacks that cross a gate before impact; Bloom metabolizes direct Genesis energy, not generic magic; Weaver loses jumping at four remaining functional legs, regardless of which four were disabled. Approximate dimensions and unspecified alloy remain qualified. O1D6’s new second-Red credit versus the prior O4D2 paid-Red entry requires explicit author reconciliation before publication."
+        },
+        {
+          "path": "live-model/04_COMBAT_WORLD.md",
+          "line": 778,
+          "text": "not an aggro/taunt mechanic or Elara tutorial."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": "Source and added mechanics reviewed: Bastion uses physical interception; no threat statistics. Exact combat reward/system data unchanged."
+    },
+    {
+      "item": 14,
+      "title": "Recurring male leader unnamed; Jaeren rejected",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/01_KIRA.md",
+          "line": 590,
+          "text": "The recurring male Dungeon leader/friend repeatedly forms groups for Kira+illi. His name remains OPEN; **Jaeren is rejected**. The author prefers harder/archaic N/M/K/L/V/C sounds, with D possible; do not generate a name from that preference."
+        },
+        {
+          "path": "live-model/OPEN.md",
+          "line": 240,
+          "text": "Resolved personal names: Maelor, Naira, Caelen, Vaedren and Laina in Kira’s household; Kaevren as the prepared landed-noble rival. Kaevren’s house/surname, appearance/build/kill totals and ultimate reconciliation remain OPEN. The male recurring Dungeon leader stays unnamed; Jaeren is rejected. Shop 007 is the bookstore; southern festival grounds survive as 008 with prior WORKING status. Exact shop/venue names are not invented."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 15,
+      "title": "Opening R1D2/R1D3 RECOVERY_GAP preserved",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 69,
+          "text": "The existing **R1D2/R1D3 RECOVERY_GAP remains explicit and unresolved**. This repair supplies no replacement meeting or paid-combat date."
+        },
+        {
+          "path": "live-model/OPEN.md",
+          "line": 230,
+          "text": "The existing R1D2 shared Duo versus post-R1D3-Solo friendship dinner remains a chronology RECOVERY_GAP. No chapter count, chapter allocation or prose is created. All compatible earlier OPENs survive."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 16,
+      "title": "Optional illi Solo credits not guessed",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 108,
+          "text": "R2D5 is an intentional bad run, not a W2 capability ceiling: W2 clear/booked140 survives the tunnel-vision/flank/panic/death/frustration scene. R4D1’s old W3 wording is not a ceiling either; the author now describes a decent run into Orange pressure. The existing255 is the minimum scaffold’s booked W1–W3 sum, not a newly asserted complete actual payout. Exact optional depth/results/reward and any excess above that minimum remain OPEN. Later optional Solos may push deeper Orange as PC improves. R6D4 top-off, R7D5’s possible two attempts and O1D4 optional top-off acquire no guessed earnings, attendance or changed purchase dates."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 108,
+          "text": "R2D5 is an intentional bad run, not a W2 capability ceiling: W2 clear/booked140 survives the tunnel-vision/flank/panic/death/frustration scene. R4D1’s old W3 wording is not a ceiling either; the author now describes a decent run into Orange pressure. The existing255 is the minimum scaffold’s booked W1–W3 sum, not a newly asserted complete actual payout. Exact optional depth/results/reward and any excess above that minimum remain OPEN. Later optional Solos may push deeper Orange as PC improves. R6D4 top-off, R7D5’s possible two attempts and O1D4 optional top-off acquire no guessed earnings, attendance or changed purchase dates."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 108,
+          "text": "R2D5 is an intentional bad run, not a W2 capability ceiling: W2 clear/booked140 survives the tunnel-vision/flank/panic/death/frustration scene. R4D1’s old W3 wording is not a ceiling either; the author now describes a decent run into Orange pressure. The existing255 is the minimum scaffold’s booked W1–W3 sum, not a newly asserted complete actual payout. Exact optional depth/results/reward and any excess above that minimum remain OPEN. Later optional Solos may push deeper Orange as PC improves. R6D4 top-off, R7D5’s possible two attempts and O1D4 optional top-off acquire no guessed earnings, attendance or changed purchase dates."
+        },
+        {
+          "path": "live-model/ILLI_PROGRESSION.md",
+          "line": 108,
+          "text": "R2D5 is an intentional bad run, not a W2 capability ceiling: W2 clear/booked140 survives the tunnel-vision/flank/panic/death/frustration scene. R4D1’s old W3 wording is not a ceiling either; the author now describes a decent run into Orange pressure. The existing255 is the minimum scaffold’s booked W1–W3 sum, not a newly asserted complete actual payout. Exact optional depth/results/reward and any excess above that minimum remain OPEN. Later optional Solos may push deeper Orange as PC improves. R6D4 top-off, R7D5’s possible two attempts and O1D4 optional top-off acquire no guessed earnings, attendance or changed purchase dates."
+        },
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 58,
+          "text": "| R7D5 | Ghost Base; Kira reads/Builder; illi may run two optional Solos. | No guessed results or credits. |"
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": ""
+    },
+    {
+      "item": 17,
+      "title": "Later-arc canon preserved",
+      "result": "PASS",
+      "evidence": [
+        {
+          "path": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+          "line": 46,
+          "text": "The [repair delta](../provenance/diplomatic-pouch-2026-10-08/package/arc1-arc2-repair/package/REPAIR_DELTA.md) names and develops these rows. The CSV/JSON remain the **minimum progression ledger**, not an exhaustive activity log or actual wallet. All 59 rows, credits, balances and purchase dates retain their original bytes. Later CP24/25 authority still governs later progression; this is no new numbered checkpoint. The earlier generic Raid descriptions above must be read through the identities below."
+        }
+      ],
+      "missing": [],
+      "structural_checks_pass": true,
+      "qualification": "All 75 later arc dossiers/checkpoints/calendars/progression/clock files byte-identical to baseline. Arc Three calendar explanation retains its original prefix and adds only a scoped conflict annotation."
+    }
+  ],
+  "open_conflict": "O1D6 two Red clears versus preexisting O4D2 paid Red; no duplicate payment authorized.",
+  "publication_gate": "Awaiting author decision on publishing with explicit conflict OPEN.",
+  "historical_snapshot": true,
+  "current_successor": "RECONCILIATION_VERIFY_AFTER.json",
+  "scope_note": "Result describes the earlier local repair execution, not the later cumulative correction. Exact pre-reconciliation copies remain in pre-reconciliation-audit/."
+}

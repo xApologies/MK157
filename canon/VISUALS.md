@@ -58,3 +58,7 @@ This is a resolved authoring view of existing sources. Explicit later correction
 | [live-model/DOMAI_PARTICIPATION.md — whole record / document](../live-model/DOMAI_PARTICIPATION.md) | Read with the explicit qualifications and supersessions in this view; section status is item-specific. |
 
 [Local OPEN register](OPEN.md) · [Authority map](AUTHORITY_MAP.json) · [Section and item coverage](../provenance/maintenance/authoring-cleanup-r1/SOURCE_COVERAGE.json)
+
+## October 8 bookstore marker
+
+The [new author overlay](../visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg) marks LOCKED bookstore 007 northeast/right of 003. The older southern civic festival venue remains WORKING as 008, with its venue/citywide celebration preserved. No base pixels or earlier visual files were replaced. [Current serial owner](../live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials).

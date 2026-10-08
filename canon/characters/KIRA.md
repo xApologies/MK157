@@ -20,7 +20,7 @@ The initial evaluation offers five ordinary directions plus unprecedented Black 
 | System | Acquisition scope | Competency boundary |
 |---|---|---|
 | Armor of the Abyss | Entry/Red; approximately 1,000-credit anomaly, separate from the 2,000 grant | Restoring armor does not heal her body; initial brawler |
-| CSR, Continuous Spatial Resolution | Early Orange; held by O2D3; exact purchase day OPEN; 61,017 | Repositioning and escape from lock-down, not mass-clear |
+| CSR, Continuous Spatial Resolution | O2D3 purchase LOCKED;61,017 | Repositioning and escape from lock-down, not mass-clear |
 | Genesis Orbs | Y6D2; 61,017 | Acquisition opens a poorly understood system |
 | Halo | B1D5; 61,017 | Purchase does not establish mastery; final color OPEN |
 | Domain | Late Violet; 61,017; day OPEN | Completes compulsory foundation, then self-directed/support development |
@@ -31,7 +31,7 @@ The initial evaluation offers five ordinary directions plus unprecedented Black 
 
 Her first Solo clears W8 and fails W9 under population pressure. She has no prior Binding, combat equipment, consumables, career or meaningful combat training. She fights as an inelegant close-range brawler; smithy competence is not swordsmanship. The saturation death is traumatic; resurrection does not erase pain. She enjoys solving the fight, not pain itself. The current calendar places the W8 Solo at R1D3; the older Day-One label is superseded. The rival first-trial Yellow is a genuinely talented, well-equipped son of a Blue/Raelon landed noble; no name or incompetence is invented. [First Solo](../../prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md#kira-first-combat-trial); [rival](../../prior-checkpoint-source/LIVE_MODEL_03_SYSTEMS_STORY.md#rival-first-trial-yellow); [current early calendar](../../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md).
 
-The first Solo earns exactly **1,275**, failed W9 earns zero, and #1 grants **no standings cash bonus**. The approximately-21-year-old rival also clears W8/fails W9; Kira's deeper W9 progress separates them. Kill counts, his name/appearance/build and final reconciliation remain OPEN. He is a prepared, arrogant competitive foil, not a villain or incompetent. [Current result and foil](../../live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01).
+The first Solo earns exactly **1,275**, failed W9 earns zero, and #1 grants **no standings cash bonus**. The approximately-21-year-old rival also clears W8/fails W9; Kira's deeper W9 progress separates them. His personal name is Kaevren; kill counts, house/surname, appearance/build and final reconciliation remain OPEN. He is a prepared, arrogant competitive foil, not a villain or incompetent. [Current result and foil](../../live-model/01_KIRA.md#first-solo-and-rival--diplomatic-pouch-01).
 
 Orbs are approximately 8-inch/20-cm cannonball-like bodies and eventual mobile Transducers; their ontology remains anomalous. They are not assigned a singularity/black-hole explanation. There is no intrinsic range cutoff: distance, velocity, count and complexity raise control costs, and unmaintained Orbs may drift/hover/settle rather than automatically despawn. Ordinary multi-object shaping already exists; Kira did not invent orbital weapons. With ordinary Halo support one Orb can eventually persist full-time at negligible energetic fatigue; cognition remains necessary, and indefinite two/three-Orb sustainment is OPEN. [Mechanics and applications](../../live-model/BLACK_SYSTEMS_MASTERY.md); [Sustainment](../../live-model/09_CHECKPOINT_04_ADDENDUM.md#genesis-orb-persistent-sustainment).
 
@@ -90,3 +90,7 @@ This is a resolved authoring view of existing sources. Explicit later correction
 ## R2/R3 private life
 
 At Ghost Base, Kira can be playful and theatrical with illi, acting out pretend-Reaper monster-slayer/princess-rescue humor with illi as foil. This expresses private safety and their bond, not a public persona. Callsigns remain OPEN. Early Builder obsession grows from her armorsmith/system-thinking background; Top-10 first-cycle Solo standing also grants reserved Prism hospitality, guest capacity OPEN. [Residence owner](../../live-model/03_VALNEK_PATHS.md#r2r3-ghost-base-and-private-kira); [Builder](../../builder/COMMUNITY.md#r2r3-early-builder-interest-and-presentation); [Prism](../../live-model/PRISM.md#r2r3-prism-fields-and-spectators).
+
+## October 8 household and family continuity
+
+Maelor/Naira are Kira’s parents; Caelen/Vaedren her older brothers; Laina her younger sister. Maelor and the older brothers work at 005; Naira remains non-blacksmith. Intense independent Red-season days are not estrangement. The first Champion dinner is Elara’s surprise; after understanding table access Kira gives family a standing invitation. Later deliberate catch-ups and flexible dinners need no diary. Kaevren is the rival’s locked personal name, with house/surname OPEN. Kira begins leisure reading from illi’s recommendations by late Red. [Current owner](../../live-model/01_KIRA.md#october-8--household-and-rival).

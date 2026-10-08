@@ -33,8 +33,8 @@ Ordinary domai contribution stays contextual OPEN BY DESIGN: earned group total 
 
 | Scope | Kira fixed gross | illi fixed gross | Qualification |
 |---|---:|---:|---|
-| Red→O2D2 progression scaffold | Not a full Kira account | 52,695 | Plus entry 2,000 funds 54,653 through O2D3, leaving 42 |
-| Arc Three Orange O2D4–O7D7 | 83,915 | 58,885 | Excludes contextual domai and spending |
+| Red→O2D2 progression scaffold | Not a full Kira account | 52,695 | Plus entry 2,000 funds 54,653 through O2D2, leaving 42 |
+| Arc Three Orange O2D4–O7D7 |81,415 |56,385 | Excludes contextual domai and spending |
 | Arc Four Y1D3–Y6D3 | 67,030 | 58,170 | illi post-Beam-Red spend 73,044; no actual balance proof |
 | Full Yellow | 80,140 | 71,280 | Includes two Arc Five Duos |
 | Arc Five Y6D4–G6D2 | 88,595 | 78,430 | Excludes Orange domai/failed-Dungeon partials |
@@ -49,7 +49,7 @@ White core income per girl is 8.5M in W1 +50M in W2–6 +5M W7 =63.5M, from 27 s
 
 ## Consumption and superseded projections
 
-raeon and Genesis Cards use Advanced R5,700/O9,120/Y16,416/G34,474/B86,185/V258,555/W1,034,220. Preserve the specific Blue Fireball 86,000 exception at Y1D2; it is not a typo or a Binding. Conditional 86,000−83,915=2,085 is not canonical debt. Exact carry-in, earlier spending and contextual awards stay OPEN. Old CP19 Orbs-reserve headroom is superseded as Arc Three's endpoint objective. [Card ladder](../economy/ADVANCED_CARD_PRICES.json); [Specific-card funding qualification](../world-clock/ARC4_HANDOFF.md#calendar-and-funding-boundaries).
+raeon and Genesis Cards use Advanced R5,700/O9,120/Y16,416/G34,474/B86,185/V258,555/W1,034,220. Preserve the specific Blue Fireball 86,000 exception at Y1D2; it is not a typo or a Binding. Conditional 86,000−81,415=4,585 is not canonical debt. Exact carry-in, earlier spending and contextual awards stay OPEN. Old CP19 Orbs-reserve headroom is superseded as Arc Three's endpoint objective. [Card ladder](../economy/ADVANCED_CARD_PRICES.json); [Specific-card funding qualification](../world-clock/ARC4_HANDOFF.md#calendar-and-funding-boundaries).
 
 Civic/social gifts may fund residences, clothes, amenities, meals and cards; they may not directly or indirectly fund Binding/rank progression. No donor or loophole is invented. Creator evaluation, Prism, raeon and other legitimate routes coexist with combat; unprovided rates are OPEN. Rare Auction lots, White Dimensional Ring, living vaen, clothing/gifts and social purchases are legitimate late discretionary sinks; Ring price and exact inventories remain OPEN, and the conversational 2.5M is rejected. [Transfers](../live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md#valnak-social-credit-transfer-firewall); [Ring limits](../live-model/DIMENSIONAL_RINGS.md).
 
@@ -100,3 +100,7 @@ This is a resolved authoring view of existing sources. Explicit later correction
 Fixed calendars supply a minimum guaranteed progression-income spine, not literal wallets or an earnings ceiling. Optional legitimate Trials, Dungeons/Raids, raeon, Prism and crafting may add discretionary surplus without moving Binding dates. A conditional additional Red+Orange Normal first-clear pays 6,250 each / 12,500 combined. Specific bosses, not rank pools, own once-per-season payout eligibility. No extra clears, balances or purchase dates are booked; wallet accounting awaits chapter outlining.
 
 [Owner 1](../THREAD_DEVELOPMENT_CONSTITUTION.md#r2r3-cumulative-income-and-narrative-doctrine) · [Owner 2](../combat-rewards/README.md#r2r3-cumulative-income-and-narrative-doctrine)
+
+## October 8 — bonus versus minimum income
+
+R4D5 Burrower earns 2,500 each as newly authored wallet surplus; locked Binding dates stay fixed. O1D6 now supplies Sixfold/Triumvirate Red clears and Black Orchard failure. Its second 2,500-per-girl award conflicts with the Red award still booked in O4D2; publication awaits author reconciliation, and no duplicate reward or changed total is silently assumed. Optional illi Solo earnings remain OPEN; W2=140/W3=255 are only the existing completed-wave sums. [Current accounting owner](../live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting).

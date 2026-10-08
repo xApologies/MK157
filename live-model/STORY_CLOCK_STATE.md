@@ -28,7 +28,7 @@ Ordinary shopping includes trying clothes on her transformed approximately 5'11"
 
 ### Champion evening and relationship beginnings
 
-Champion Tables are famous before entrants arrive: prestige, combat recognition and a place to see/be seen. Ten tables follow current Top-10 first-cycle Solo standings. Elara explains the #1 reservation during onboarding; standing, rather than a permanent personal gift, controls entitlement. The premier restaurant above the raeon flagship supplies exceptional views and nightly Highlights.
+Champion Tables are famous before entrants arrive: prestige, combat recognition and a place to see/be seen. Ten tables follow current Top-10 first-cycle Solo standings. The first Champion dinner is an Elara-arranged surprise; after Kira understands standing table access, she invites her family to join flexibly; standing, rather than a permanent personal gift, controls entitlement. The premier restaurant above the raeon flagship supplies exceptional views and nightly Highlights.
 
 The rival sits at #2 with his prepared friends/cohort. Kira has eclipsed the glory he expected and irritates him; he remains a talented arrogant competitive foil, not an incompetent villain. illi attends as princess/public figure to acknowledge the current champion, expecting a conventional prodigy. Kira's continued Afflicted-associated appearance and Black/spectral eyes surprise her.
 
@@ -242,7 +242,7 @@ rank Persistent Coherence R -> O -> Y -> G -> B.
 Once Blue Persistent Coherence is achieved, the White Legacy becomes available and can prescribe/enable the next major acquisition:
 **Absorption Shield**.
 
-Checkpoint 14 locks Blue Persistent Coherence and White Legacy acceptance at Orange W1 D4, then Absorption Shield Red at Orange W2 D3. These supplied milestones constrain the future ledger; the older arbitrary Orange W1 D4 Absorption date remains superseded.
+The October8 cumulative correction locks Blue Persistent Coherence and White Legacy acceptance at **Orange W1 D3**, then Absorption Shield Red at **Orange W2 D2**. These explicit same-day post-Duo purchases supersede the former O1D4/O2D3 dates only. Costs and post-purchase952/42 are preserved; the much older Orange W1 D4 Absorption projection remains superseded.
 
 Existing later White-Legacy gates remain:
 - Genesis Beam GREEN -> Genesis Prime RED available
@@ -358,11 +358,11 @@ Checkpoint 14 historical projection (post-G6D2 tail superseded by Checkpoint 24)
 
 The [illi progression-cost ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 250,884 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. Checkpoint 18 now supplies the separate 59-day combat scaffold; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged.
 
-[Checkpoint 18 combat calendar](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) governs the 59 supplied Red→O2D3 rows, retaining 21 NO REQUIRED COMBAT days and all milestone dates. Starter grant 2,000; illi combat income 52,695 through O2D2; PC Blue/Legacy leaves 952 at O1D4 and Absorption Red leaves 42 at O2D3. Discretionary spending and later income remain separate/OPEN.
+The [current Red→Orange calendar](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) retains59 rows,21 NO REQUIRED COMBAT rows,2,000 grant and52,695 minimum illi income. The cumulative correction buys PC Blue/White Legacy immediately after O1D3 Duo for25,705 (balance952), and Absorption Red immediately after O2D2 Duo for9,350 (balance42). CSR is Kira’s O2D3 purchase61,017; optional illi Solo W7/W8 credits remain OPEN and outside this minimum ledger.
 
 ## Checkpoint 19 — Arc Three economy
 
-The [39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes gross deterministic income at **58,885 illi / 83,915 Kira**, including **25,030 Kira-only Solo income**. domai contribution is OPEN and excluded. The former 61,017 Orb-reserve / 22,898-headroom calculation is CP19 planning history. CP20 closes Arc Three with the 86,000-credit Blue Fireball card and defers Orbs into Arc Four; actual funding/balance remains OPEN. CSR is already acquired and is not charged again. illi reserves **6,050** for Genesis Beam Red at **Y1D2**, retaining all 17 milestone dates and the 250,884 progression ledger. She deliberately defers acquisition despite earlier affordability.
+The [current39-day Orange calendar](../world-clock/ARC3_ORANGE_CALENDAR.md) fixes **56,385 illi /81,415 Kira** minimum gross, including25,030 Kira-only Solo. O4D2 Black Orchard pays3,750 only, removing the duplicate Red payment. Contextual domai and actual wallets remain OPEN. Old61,017 Orb-reserve/22,898 headroom is CP19 planning history, superseded as the endpoint objective. The86,000 Blue Fireball card remains Y1D2, Orbs Y6D2; illi reserves6,050 for Y1D2 Beam. Current19-event ledger has292,772 spend with the explicitly corrected O1D3/O2D2 early dates.
 
 Arc Three primarily spends discretionary credits on new-cycle raeon cards/deck building and Genesis Cards, particularly Kira's Fireball collection. Exact purchases/prices/totals remain OPEN. No meaningful Auction purchasing or fabricated luxury sink is assigned. Ten OPEN rows protect social/royal life, celebrity/Eternal Standing life, relationships, restaurants, Highlights and recovery. A contextual successful-domai award may finance additional card collecting without an invented amount. Checkpoint 20 makes illi Beam Red plus the Blue Fireball card the Arc Three close; Genesis Orbs occur inside Arc Four at Y6D2 under Checkpoint 22, not Y1D2. Ordinary class prices, grant, rewards and domai participation rules remain Checkpoint 18.
 
@@ -372,7 +372,7 @@ illi's Binding progression is the primary arc clock. Arc 1 closes PC Red/Armor; 
 
 After Beam Red's 6,050 is already paid, unchanged illi milestones are **Y2D4 Beam Orange 9,680; Y3D5 Beam Yellow 17,424; Y5D2 Beam Green 36,590; Y6D3 Genesis Prime Red 9,350**. Beam ranks total **63,694**, and Arc Four totals **73,044**. All 17 dates/costs remain; affordability does not force earlier purchase.
 
-The card is a loved collectible tied to Kira's childhood blacksmith/Fireball fascination. She previously prioritized CSR, now delightedly chooses this card, and rebuilds the Orb fund later. Its price is specific, not a universal Blue-card tier. Orange gross 83,915 alone is 2,085 below 86,000 only under zero-opening-funds/no-other-income/no-prior-spend assumptions. Full funding remains OPEN; no domai award, gift or extra run is invented. [Current handoff](../world-clock/ARC4_HANDOFF.md) and [social life](SOCIAL_LIFE_AND_FOUNDATIONS.md) separate narrative locks from unsupplied finances/dates.
+The card is a loved collectible tied to Kira's childhood blacksmith/Fireball fascination. She previously prioritized CSR, now delightedly chooses this card, and rebuilds the Orb fund later. Its price is specific, not a universal Blue-card tier. Orange gross81,415 alone is4,585 below86,000 only under zero-opening-funds/no-other-income/no-prior-spend assumptions. Full funding remains OPEN; no domai award, gift or extra run is invented. [Current handoff](../world-clock/ARC4_HANDOFF.md) and [social life](SOCIAL_LIFE_AND_FOUNDATIONS.md) separate narrative locks from unsupplied finances/dates.
 
 ## Checkpoint 21 — Yellow scaffold (historical totals; superseded by Checkpoint 22)
 
@@ -535,8 +535,8 @@ Layer over authoritative Red→Orange calendar; do not replace combat rows.
 - Calendar row OPEN/recovery-social; author fills it with end-of-first-week Opening Celebration.
 - Breakfast at Kira's; late-morning frosted abecca; 006 formal/event dress shopping; light lunch; return home/get ready.
 - Kira buys high-quality conventional formal dress for a few hundred credits; exact cost OPEN. illi may buy one too.
-- 007 = principal Opening Ceremony/festival grounds on southern lobe of main central island (author-marked target).
-- Celebration is citywide; 007 is main hub. Outdoor festival: concert/live music, food, alcohol/drinks, dancing, performances, social areas, quiet gardens/edges, Transductive spectacle as desired.
+- 008 = principal Opening Ceremony/festival grounds on southern lobe of main central island (author-marked target).
+- Celebration is citywide; 008 is main hub. Outdoor festival: concert/live music, food, alcohol/drinks, dancing, performances, social areas, quiet gardens/edges, Transductive spectacle as desired.
 - Short formal welcome only.
 - Ordinary admission uses desirable/capacity-controlled tickets that sell quickly and are meaningful early-cycle expenses.
 - Current Top 10 Solo, Duo, Trio standings receive invitations. Kira qualifies via Solo; Kira+illi via Duo.
@@ -594,6 +594,83 @@ Friend/contact request after successful runs is natural.
 Afterward return to Ghost Base. illi reads; Kira discovers/deepens Builder obsession until dinner. With corrected social clock, ~22:00–26:00
 can be private downtime before dinner; 27:00 Highlights.
 
-R2D5 still clears W2 for the fixed 140 credits; the WORKING death scene does not revoke that clear or supply an exact subsequent failure depth. The rival and recurring leader remain unnamed. These are scene directions, not authored prose or assigned chapter boundaries. R3D1 may pass off-page as ordinary recovery/social life; no required combat is added. The R1D2/R1D3 friendship chronology RECOVERY_GAP remains unchanged.
+R2D5 still clears W2 for the fixed 140 credits; the WORKING death scene does not revoke that clear or supply an exact subsequent failure depth. The rival is now Kaevren; the recurring male leader remains unnamed. These are scene directions, not authored prose or assigned chapter boundaries. R3D1 may pass off-page as ordinary recovery/social life; no required combat is added. The R1D2/R1D3 friendship chronology RECOVERY_GAP remains unchanged.
 
 [Approved R2/R3 source](../provenance/diplomatic-pouch-r2-r3/package/R2_WEEK2_DELTA.md).
+
+## October 8 — Red Weeks Three through Seven
+
+No chapter-per-day requirement; layer over authoritative combat rows.
+
+R3: D1 OPEN. D2 Fire Dragon eventual CLEAR after formation friction; then Shardfield repeated FAIL and group dissolves. D3 tea party + 006 formalwear. D4 Kira W9 ~8.5h, working 11:00–19:30. D5 Orange x2 ~12:00–20:00 + debrief meal. D6 family/social. D7 Duo W8 + dinner/highlights.
+
+R4: D1 illi Solo variable; old W3 wording is not capability ceiling; decent run into Orange pressure, exact reward reconciliation requires audit. D2 PC->Yellow. D3 Kira/Naira/Laina shopping; illi optional. D4 Orange x2 new group. D5 BONUS Raid: Burrower eventual CLEAR, +2,500 each actual-wallet surplus. D6 Kira W10; Ghost Base; Kira gets hooked on illi book. D7 Duo W9 + dinner/highlights.
+
+R5: D1 domai active day 1, major first-domai chapter; survive/leave without D2 lockout contradiction; highlights can reveal operation scale. D2 domai active day 2; illi eventually fatigues/dies/exits; Kira continues then is overrun/dies/exits. D3 mandatory recovery: beach/books/naps/food. D4 OPEN; former seasonal raeon participation/elimination removed. D5 Orange x2 via recurring leader; modest wardrobe spending optional. D6 girls' day Kira/Naira/Laina/illi and family dinner. D7 eligibility expires without conquest, payout = 0; Duo W9; Kira may suffer spectacular decapitation; post-recovery frosted abecca; death on Highlights becomes safe humor.
+
+R6: D1 Orange x2 via recurring leader; leader may suffer funny death; trio coffee/lunch. D2 beach/read leisure. D3 Duo W10. D4 optional illi Solo/top-off exact reward OPEN; PC->Green; lunch + bookstore 007. D5 Kira+Maelor+Caelen+Vaedren smithing-side lunch. D6 Raid: Red repeats may warm up/no repeat reward; Orange-A Coherence Twins are two monsters whose overlapping coherence permits mutual sustain/healing; repeated failures -> working 5/5 separation -> CLEAR, +3,750 booked. D7 leisure.
+
+R7: D1 Orange x2: morning Builder; illi reads; ~13:00 PUG, reputation makes pair desirable. D2 girls' day/open. D3 Duo W10; afterward 001 temporary raeon deck playtest. D4 Orange x2 via recurring leader; frosted abecca + lunch. D5 Ghost Base; Kira read/Builder; illi may do TWO optional Solo attempts, exact results/credits OPEN. D6 10:00 SEASONAL raeon entry -> EARLY KNOCKOUT -> later existing Duo W10 CLEAR,1,950 unchanged; late meal/dinner/highlights. Earlier illustrative start window yields to this authored sequence. D7 Orange x2: Kira/illi recruit recurring leader and make him lead again; ~12:00 formation, finish as late as ~22:00; frosted abecca; invite leader to Champion Table. Extended Red-season finale Highlights ~2–2.5h WORKING duration.
+
+Red raid line: R3D2 Fire Dragon CLEAR; R4D5 Burrower CLEAR; R6D6 Coherence Twins CLEAR; Shardfield Red-season wall; Glasswing/Walking Fortress not cleared by Kira+illi.
+
+R5D1’s “leave” cannot mean formal exit from the same domai followed by R5D2 re-entry: voluntary exit or death triggers one full day of same-domai lockout. Preserve the R5D1–D2 operational block, stage any first-day withdrawal consistently within it, and leave exact overnight/recovery staging OPEN. The girls formally exit/die on D2 and observe D3 mandatory recovery; no exception to the rule or extra payout is supplied. R5D7 decapitation and safe humor are possible scene treatment, not a blanket resolution of the public graphic-death editorial OPEN. R4D1 and other optional Solo rewards follow the [current illi scope](ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope). Approximate operational hours and finale Highlights duration remain WORKING; start stays 27:00. Mandatory purchase dates and the minimum progression ledger remain intact.
+
+[October 8 author source](../provenance/diplomatic-pouch-2026-10-08/package/package/02_RED_W3_W7.md).
+
+## October 8 — Orange Week One
+
+The later [cumulative Orange owner](#october-8-cumulative--orange-weeks-one-through-seven) supersedes this earlier pouch’s O1D4 purchase/O1D5 candidate timing and resolves the O4D2 reward conflict. O1D3 now buys PC Blue/accepts White Legacy immediately after Duo W10; O1D4 is recognition/royal aftermath, O1D5 girls day Elara+Kira+illi+Naira+Laina. O1D6 Sixfold/Triumvirate clear, Black Orchard fails, others are not attempted;5,000 each actual Red income includes2,500 minimum and2,500 discretionary. ZERO Orange reward. O1D7 Duo W10 remains. Exact earlier source stays [preserved](../provenance/diplomatic-pouch-2026-10-08/package/package/03_ORANGE_W1.md).
+
+## October 8 repair — calendar cross-reference
+
+[Current calendar annotations](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md#october-8-repair--current-author-overlay) preserve the named Red bonus/Twins outcomes and social detail. The later cumulative correction moves the two purchases and personal seasonal entries, fixes CSR’s date, and removes the O4D2 duplicate Red payment. The original R1D2/R1D3 RECOVERY_GAP remains; minimum and actual/discretionary income stay separate.
+
+## October 8 cumulative — Orange Weeks One through Seven
+
+Latest explicit author calendar; supersedes only conflicting earlier dates/outcomes. Required combat stays on its authored day. OPTIONAL/WORKING wording is preserved; no chapter-per-day rule or guessed Solo payout.
+
+O1D1 Duo W10 + Champion dinner/highlights.
+O1D2 Orange x2 recurring leader ~11:00 + abecca/meal.
+O1D3 Duo W10 then IMMEDIATE PC Blue SAME DAY: 24,707+1,950=26,657; -25,705=952. Move PC Blue/White Legacy date O1D4->O1D3 everywhere.
+O1D4 no required purchase/combat; White-Legacy recognition/royal aftermath.
+O1D5 girls day Elara+Kira+illi+Naira+Laina.
+O1D6: Sixfold CLEAR; Triumvirate CLEAR; Black Orchard repeated FAIL; Weaver/Wayfarer/Bloom NOT ATTEMPTED. Two Red first-clears=5,000 each actual total. Minimum scaffold books one +2,500; second +2,500 actual/discretionary. ZERO Orange reward.
+O1D7 Duo W10; Builder/books/dinner.
+O2D1 Orange x2.
+O2D2 Duo W10 then IMMEDIATE Absorption Red SAME DAY: 7,442+1,950=9,392; -9,350=42. Move purchase O2D3->O2D2. Major White-Legacy celebration.
+O2D3 early illi Solo W7 CLEAR/W8 FAIL; exact optional credits OPEN. Later Kira purchases CSR 61,017 — exact date LOCKED. Family-smithy/social valid.
+O2D4 Duo W13. O2D5 failed Black Orchard raid may occupy daytime/no reward; Kira late Solo W13 remains. O2D6 Orange x2. O2D7 social/daily raeon optional.
+
+O3D1 Duo W14 -> abecca; Kaevren encounter; Builder/books/highlights.
+O3D2 girls day Kira+illi+Naira+Elara.
+O3D3 Yellow Dungeon ~4 attempts, all FAIL; group fizzles.
+O3D4 illi Solo frontier/no new validated milestone AND Kira leisure then late-night Solo W14 CLEAR; preserve +3,855.
+O3D5 one Orange CLEAR; PUG bickering/disband. O3D6 royal-estate family day. O3D7 Duo W14 + card shops/social.
+O4D1 Kira late Solo W14 CLEAR.
+O4D2 group may repeat Red but Kira/illi already claimed both Orange-season Reds O1D6: NO Red reward. Black Orchard Orange-A eventual CLEAR. Reward = +3,750 each ONLY, not +6,250. Reconcile ARC3 row/downstream economy. The other +2,500 was earned earlier at O1D6 as actual/discretionary; no third Red.
+O4D3 family girls day. O4D4 Duo W15. O4D5 recovery/Builder. O4D6 Orange x2 recurring leader.
+O4D7 006 formalwear -> private noble gala; illi expected, Kira guest, Kaevren present.
+
+O5D1 OPEN; remove seasonal qualification. O5D2 Duo W15. O5D3 morning open, smithy visit, late Kira Solo W15. O5D4 Yellow Dungeon FAIL. O5D5 residence recovery. O5D6 OPEN; remove seasonal elimination. O5D7 OPEN.
+O6D1 Duo W16 ~10-11 start -> abecca -> 002 -> 001 casual raeon. O6D2 weekly girls/social. O6D3 one Orange CLEAR filling vacancy in existing group; group fizzles; lunch; illi reads/Kira Builder. O6D4 royal-estate breakfast/social; late Kira Solo W15. O6D5 first Hard Raid using HARD_RAID_DOCTRINE. O6D6 OPEN; DAILY 10:00 raeon optional/working, not seasonal. O6D7 Duo W16 unchanged; smithy/highlights.
+O7D1 Duo W17 -> abecca/debrief/highlights. O7D2 illi independent; Kira smithy lunch with Caelen+Vaedren (Maelor optional), Builder, late Solo W16.
+O7D3 domai day1; O7D4 domai day2/exit. O7D5 mandatory post-domai recovery / otherwise OPEN; REMOVE championship viewing.
+O7D6 10:00 SEASONAL raeon entry -> EARLY KNOCKOUT -> later Duo W17 CLEAR. Preserve +5,805. O7D7 Orange Dungeon x1 unchanged +1,020.
+Do NOT infer global tournament cadence.
+
+The O2D3 optional W7 clear/W8 fail is a validated narrative result with exact optional credits explicitly OPEN. O3D4 gives illi no new validated milestone and does not remove Kira’s late W14 or3,855. The O6D5 Hard first-clear profile remains the existing one Red clear/Orange fail and3,750; the source does not identify a second paid Red or change its identity. O4D2’s corrected gross is56,385 illi/81,415 Kira across Arc Three. O1D6 extra2,500 and R4D5 bonus2,500 stay outside the minimum ledger. Daily10:00 raeon and later-season schedules remain distinct.
+
+[Orange W1–W4 source](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md); [W5–W7 source](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W5_W7.md).
+
+## October 8 cumulative — Red continuity
+
+R3D2 Fire Dragon Red-A CLEAR then Shardfield Orange-B repeated FAIL/group dissolves. R3D3 tea party+006. R3D4 Kira W9 ~11:00-19:30. R3D5 Orange x2. R3D6 family. R3D7 Duo W8.
+R4D1 illi Solo variable, old W3 not ceiling. R4D2 PC Yellow. R4D3 family shopping. R4D4 Orange x2. R4D5 BONUS Burrower Red-B CLEAR +2,500 each ACTUAL/DISCRETIONARY only; minimum purchase dates unchanged. R4D6 Kira W10/books. R4D7 Duo W9.
+R5D1-2 domai; R5D3 recovery. R5D4 OPEN: REMOVE seasonal raeon participation/elimination. R5D5 Orange x2. R5D6 social/family. R5D7 Duo W9; domai payout zero if eligibility expires.
+R6D1 Orange x2 recurring leader. R6D2 beach/read. R6D3 Duo W10. R6D4 PC Green + bookstore 007; optional Solo reward OPEN. R6D5 Kira+Maelor+Caelen+Vaedren lunch. R6D6 Red repeat/no reward -> Coherence Twins 5/5 separation -> CLEAR +3,750. R6D7 leisure.
+R7D1 Orange x2. R7D2 social. R7D3 Duo W10 + 001 temporary deck playtest (no ownership). R7D4 Orange x2. R7D5 Ghost Base; optional illi Solos exact results/rewards OPEN.
+R7D6 10:00 SEASONAL raeon entry -> EARLY KNOCKOUT -> later existing Duo W10 CLEAR. Preserve +1,950 and running balance.
+R7D7 Orange x2 unchanged +2,040. Do not infer a global tournament template.
+
+[Current source](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/CORE_AND_RED.md). Earlier compatible family/social scenes survive; only R5D4 seasonal participation and the R7D6 sequence change. No required combat moves and no optional Solo credit is guessed.

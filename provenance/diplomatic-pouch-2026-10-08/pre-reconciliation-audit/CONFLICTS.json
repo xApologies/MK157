@@ -1,0 +1,46 @@
+{
+  "publication_gate": "BLOCKED_PENDING_AUTHOR",
+  "opening_chronology": "Existing R1D2/R1D3 RECOVERY_GAP preserved; not resolved by this package.",
+  "resolved": [
+    {
+      "scope": "007 collision",
+      "decision": "007 bookstore;008 previously unused, receives former southern civic festival venue; other fields preserved except note serial reference."
+    },
+    {
+      "scope": "First Champion dinner",
+      "decision": "Elara-arranged surprise supersedes earlier advance explanation; later standing family invitation supplied, no paid-date repair."
+    },
+    {
+      "scope": "Personal names",
+      "decision": "Kaevren and Kira household resolved; leader remains unnamed,Jaeren rejected."
+    },
+    {
+      "scope": "illi W2/W3",
+      "decision": "Bad/minimum runs not capability ceilings; no actual optional reward invented."
+    },
+    {
+      "scope": "Red domai lockout",
+      "decision": "D1 leave cannot be formal exit then D2 reentry; exact staging OPEN, D2 exit/death and D3 full-day lockout preserved."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "ORANGE_RED_DOUBLE_PAYMENT",
+      "source": "New O1D6 Sixfold + Triumvirate both clear; +2500 second Red per girl beyond minimum ledger.",
+      "existing": "O4D2 normal Red+Orange pays6250 each and expressly requires an unpaid second Red distinct from O1D6.",
+      "invariant": "Once per participant per specific boss per season; only two first-cycle Normal Red bosses.",
+      "required_author_decision": "Either make O4D2 Red an unpaid repeat and explicitly recalculate affected totals while retaining purchase dates, or explicitly retain source discrepancy OPEN without publishing contradictory totals as reconciled.",
+      "question_sent": true,
+      "no_silent_reconciliation": true
+    }
+  ],
+  "checksum_warning": "9 content-file hashes match; SHA256SUMS.txt self-entry does not match its own bytes. Original list retained; every extracted file also independently hashed.",
+  "latest_repair": {
+    "source": "package/arc1-arc2-repair/package/REPAIR_DELTA.md",
+    "all_13_sections_accounted": true,
+    "all_17_working_checks": "PASS",
+    "remote_checks": "NOT_RUN",
+    "request_to_author": "Preserve minimum arithmetic, explicitly retain O4D2 Red payment conflict OPEN, and authorize commit/push with that disclosed limitation?",
+    "answer_received": false
+  }
+}

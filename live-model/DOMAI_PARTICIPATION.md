@@ -82,3 +82,7 @@ Core-break bonus is separate from ordinary contextual participant contribution a
 Existing first-kill seven-day eligibility, one-day same-domai exit/death lockout and ×0.8^deaths remain.
 illi establishes legitimate participation; Kira performs penetration/core break.
 After Kira prematurely resolves fresh domai, Elara admonishes her for depriving others of contribution opportunity. Kira voluntarily changes doctrine: crack only mature established campaigns. She becomes a closer.
+
+## October 8 — first Red domai narrative guard
+
+R5D1–D2 remain the active operational block; illi fatigues/dies/exits on D2, Kira continues until overrun/death/exit. R5D3 is mandatory beach/books/naps/food recovery. First-day withdrawal must not mean formal exit followed by forbidden D2 re-entry; exact overnight staging stays OPEN. **R5D4 is OPEN** under the cumulative correction; the former seasonal participation/elimination is removed. R5D7 eligibility expiration without conquest pays0. No new lockout exception or conquest income follows. Orange O7D3–D4 activity/exit and O7D5 mandatory recovery remain; no championship viewing is imposed.

@@ -1,0 +1,26 @@
+{
+  "package": "MK157 Arc1 Arc2 Repair Pouch",
+  "date": "2026-10-08",
+  "files": [
+    {
+      "path": "EXECUTABLE.md",
+      "bytes": 2069,
+      "sha256": "7365ef9d8082c4558b785c8edfec06b505d104bd8ad62115562b362d37df3c3c"
+    },
+    {
+      "path": "package/REPAIR_DELTA.md",
+      "bytes": 10835,
+      "sha256": "c8bb3a1e46c966ef70c22bcd76ca198aaa866c138b0f57c9edea1421e65c6c6d"
+    },
+    {
+      "path": "package/VERIFY_AFTER.md",
+      "bytes": 1926,
+      "sha256": "696b9b63946205934022d6a6c9c76dd05b6ca3468573b62403b7814b3738fc15"
+    },
+    {
+      "path": "visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg",
+      "bytes": 878599,
+      "sha256": "662c83f7e1d42fdcac49dc9bd0e83a1b28c35afa56e0f6aff53cfc5128d4a2e9"
+    }
+  ]
+}

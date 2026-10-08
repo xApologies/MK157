@@ -1,0 +1,1473 @@
+{
+  "id": "diplomatic-pouch-2026-10-08",
+  "baseline_commit": "d2e6a9eded93b0cc4061952a8e381875f06d86c9",
+  "branch": "main",
+  "execution_scope": "Latest user requests cumulative reconciliation against current Git. Existing uncommitted October8 and repair integration retained. Explicit author correction resolves the prior O4D2 blocker and authorizes affected data/economy/validator updates, commit and normal push to default main; no new approval is needed.",
+  "package_sha256": {
+    "provenance/diplomatic-pouch-2026-10-08/package/arc1-arc2-repair/EXECUTABLE.md": "7365ef9d8082c4558b785c8edfec06b505d104bd8ad62115562b362d37df3c3c",
+    "provenance/diplomatic-pouch-2026-10-08/package/arc1-arc2-repair/MANIFEST.json": "1afb33f311e9b0942414767b4a429bd6fb5e77c195b35da331ca6571c83bac67",
+    "provenance/diplomatic-pouch-2026-10-08/package/arc1-arc2-repair/package/REPAIR_DELTA.md": "c8bb3a1e46c966ef70c22bcd76ca198aaa866c138b0f57c9edea1421e65c6c6d",
+    "provenance/diplomatic-pouch-2026-10-08/package/arc1-arc2-repair/package/VERIFY_AFTER.md": "696b9b63946205934022d6a6c9c76dd05b6ca3468573b62403b7814b3738fc15",
+    "provenance/diplomatic-pouch-2026-10-08/package/arc1-arc2-repair/visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg": "662c83f7e1d42fdcac49dc9bd0e83a1b28c35afa56e0f6aff53cfc5128d4a2e9",
+    "provenance/diplomatic-pouch-2026-10-08/package/EXECUTABLE.md": "edf124ffd41b7d5f149346b9b622b68e3c1d066e718593630a84fe0f20c9c405",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md": "42fa0936f2c8dd97f5710adae777cf779672e3d0ed6c25e6b6437005590f0b7e",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/01_CHARACTER_SOCIAL.md": "84645e5a2609d0395b8a4194271ed4ae13dc8a5a03231d6486baad0db68f70e0",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/02_RED_W3_W7.md": "043eaf0d0bc3308149abc6a165f023a2f3c9cf9a1c78be1de5b44386c51e640d",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/03_ORANGE_W1.md": "d2382c68be21748eb6a63f0f461f3f63579d96484dd20722b0ddb9210bb02847",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/04_ORANGE_RAID_ROSTER.md": "b508021a9feba090478a2f1076be4c0ea184123f7097e4f754b3280ec941c3f7",
+    "provenance/diplomatic-pouch-2026-10-08/package/package/05_AUDIT_CHECKLIST.md": "073fb008f7edb507a13c4a5bc6cd066e8b09fcbeca415448a82dc340c089859a",
+    "provenance/diplomatic-pouch-2026-10-08/package/README.md": "16a236b516346fbf50b0aa8f19e1e518cb28ea1d798337b321a6af25b08875b5",
+    "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/EXECUTABLE.md": "a17f3f7af1a7c6b0a4b5c5f235b87eb75f33c91c59d074f70d3faaca10d6fd39",
+    "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/MANIFEST.json": "5fa557cb2ea1e84ee8b52e95f090fede0a6819917cfe1f69fc80a64b2dbb9c84",
+    "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/CORE_AND_RED.md": "c08a74cdf32a76136d1fc3ccea9d036f6df5682cd9ed0aca80e70b551d8774d4",
+    "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/HARD_RAID_DOCTRINE.md": "78c100d31768c58718f4f8da86019500658886116e26972fc68c9897c397ff5e",
+    "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_NORMAL_RAID_ROSTER.md": "877ff51c0847904ffcb53dd2c72d09f37faa4e956425187a9d2140c2e8bd121d",
+    "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md": "06d27b8475788e6dddf5a17982baf8393f2cb5e1b7781a58cee4c38a9531644f",
+    "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W5_W7.md": "d59f78c65e19a0680995587d1cdaf2710d1737fadad39af124cdc833b583a808",
+    "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/VERIFY_AFTER.md": "0c1a202945f3ca4b193956407d631a99cd9f5109d4d55cbd7fef2ed38b86bb26",
+    "provenance/diplomatic-pouch-2026-10-08/package/SHA256SUMS.txt": "a2250b5a2a136934fd52ad9bb662ec94febf75ac148361bb4db6b41283e15387",
+    "provenance/diplomatic-pouch-2026-10-08/package/visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg": "662c83f7e1d42fdcac49dc9bd0e83a1b28c35afa56e0f6aff53cfc5128d4a2e9"
+  },
+  "zip_sha256": "00ae208fc100835f04fc8875139860fde38608e7296253f8bd9bc84cae1d5d5a",
+  "changed_paths": {
+    "CANON_STATUS.md": {
+      "before_sha256": "00b8073b46ea59024c18afc59de632e98551d6942efc25b7af51fdc7017d8f54",
+      "after_sha256": "7c9af583ad4600e5976e24e401417e6e93a8267fe82350face71bdffd1720e3f"
+    },
+    "README.md": {
+      "before_sha256": "0e23fc0889b33cb8b166efe12f2a6d76a1d0795f4b27d128b0f9b0607f67d5e3",
+      "after_sha256": "82e58bce030f8f86a460c718522368e8fc0718165374da3bf08fbb16d4229978"
+    },
+    "THREAD_DEVELOPMENT_CONSTITUTION.md": {
+      "before_sha256": "a2dba6e79929f2be26573eb2dc0f986e72a938531c8b0e072ce012f29efee080",
+      "after_sha256": "0c48ad1de7877fc4e24aa13fa0d622bed0a5f00d91d6893b35e4e494f042101a"
+    },
+    "canon/AUTHORITY_MAP.json": {
+      "before_sha256": "995d43766382508e9dfb06418e7e92cc9d5efd32306e8c970147592e6fcf18d6",
+      "after_sha256": "2b756961a64c52b8ec9e9b6656f22d928973eb20a5478d2b30faec73fd8e4e2a"
+    },
+    "canon/CARDS.md": {
+      "before_sha256": "4a04873ceb1f21d3db930e254f6baa2d638143fbbcbe404b6fc2ff830f17e020",
+      "after_sha256": "ebc7dfd4c7213f2c0b0506f1d8bd4113f95098320fc6bf0333cfcbbf550b259b"
+    },
+    "canon/COMBAT.md": {
+      "before_sha256": "3f6e2e4d5a52aecd18d9a3677140248132b9eeb4ab7fa62df03ac5f46761ca5a",
+      "after_sha256": "0def3c80589419ca94b87312f75d50c1f7e7904722516c0a65c4077fcc52acda"
+    },
+    "canon/ECONOMY.md": {
+      "before_sha256": "956e1db1ba1f9580c0b216f4625197dacfc8c616101e5f63bd424e7476ca95d8",
+      "after_sha256": "152fe4cd1f1650bdfefd80b6ea52dda678fc0fcab5087ad311189537f224b8d2"
+    },
+    "canon/INDEX.md": {
+      "before_sha256": "7cbd217ea3b2772c9df27c4720e2990ecc360f8fe2a722f796c899205eec08c4",
+      "after_sha256": "2f66ebde4d0ccbaf0138d912806314238511530b126d9f4f12d6dcf0dc3e2d15"
+    },
+    "canon/OPEN.md": {
+      "before_sha256": "ca9edddd0095f608ddbf207cf0d959bdc38d67f01e58cdae44ca2c8bbc6bd4b0",
+      "after_sha256": "60eadc2ec50f127c793e0a709cc5ed8e6d182e8756359bd379cba58cb3030be0"
+    },
+    "canon/PROMOTIONS.json": {
+      "before_sha256": "ac93b4f6f164fd5a22f811357f1d42601ef0337635c20b19bafd604033eddc52",
+      "after_sha256": "2c965ab650d35f36da0c6fb514c112d774406e37938532e4d29107298b495e19"
+    },
+    "canon/VISUALS.md": {
+      "before_sha256": "8a45fbb2151a1e93d5730351e0f4912d999fed801cdb722f06917883411c1767",
+      "after_sha256": "f721d430b5cf5d9f12c847aa9f41ca39814b641c2663a52844e3a5f8196ca05a"
+    },
+    "canon/WORLD_AND_CULTURE.md": {
+      "before_sha256": "a80867970be25daf71b737e3a5c550bc3f32e4c47259cdadd8aeb1ed3c85f20b",
+      "after_sha256": "ddb7d8f32735b8cae9bfb38b2d2743a26e5d7883ca2085f117f864d7c5cbb173"
+    },
+    "canon/characters/ILLI.md": {
+      "before_sha256": "598a521d6a58ef6f0f55d7f135a9c5a9aa1c1052fda771a9ad042592e99e7faf",
+      "after_sha256": "b483b9ff97588fdccd9330fcc2cf1e44a5440d445af492f99b3bab29a6bee2b6"
+    },
+    "canon/characters/KIRA.md": {
+      "before_sha256": "310e8377575d36372fb28b2486d071e1182827d4c2eeb7514d5dd676e25b9730",
+      "after_sha256": "719463ebf744e8f00e909955a53914b1818f78fd78ed6ff74218507d1db9a32e"
+    },
+    "combat-rewards/README.md": {
+      "before_sha256": "1e77dd6e54809e8356373ed0cb67e5cbf70e378de04640ca0c5da55d6d382fcb",
+      "after_sha256": "a46aa5f202cec8abdd7cbfddace531a56ad3b90c775def36605a863c3b249671"
+    },
+    "data/INDEX.md": {
+      "before_sha256": "810a84c32f0af884214b3370e675f697a9b48b678937f0870e92c89d87c61dc5",
+      "after_sha256": "fddac165c1903418a4147f4d04302cef2e153a7702aaef61e1016910602210a3"
+    },
+    "economy/validate_economy.py": {
+      "before_sha256": "fc393bea5adaedfda27bded051c4dc71937ce6c47bc56f1128b72d783ec7a014",
+      "after_sha256": "b908c44d7b06c67775e833540c2ff1aaa3240c6d23232ade9c928690388b0521"
+    },
+    "live-model/01_KIRA.md": {
+      "before_sha256": "de0a05a62082e2f620dd9a8ce9d95e4a8957c62b308818e0f9069d48e203bfd4",
+      "after_sha256": "f2adb4b7427f33abdf0dfa27fa91a5af78fd5fe8c18b167a9ef750ee12665cf9"
+    },
+    "live-model/03_VALNEK_PATHS.md": {
+      "before_sha256": "d4a3d09f04fa0c6dfb6c98cb5bd1971907291b932fe4a728623830084c9eed04",
+      "after_sha256": "a2fc34ecc0767d165a1b652074dce04e862a6ebf2a856aeeb6cded67b53e48ab"
+    },
+    "live-model/04_COMBAT_WORLD.md": {
+      "before_sha256": "d06eaaa13c2d183ccac43aa0a7951fbaf23f2fd64043ada7bfb6d2b76b79bed7",
+      "after_sha256": "a263595fd15eecfd0a43afa5baa70cbe9128640d32404086ef5d2f022bc63f1d"
+    },
+    "live-model/COMBAT_ECOLOGY.md": {
+      "before_sha256": "f346dde405b76e9916968e529e3631a6109dc33278581d04b9d66a8a9e2fc8d7",
+      "after_sha256": "2803e4932091ceff60d2589bb341af4ef14792c9d63584837fc3c5ac259fb3e8"
+    },
+    "live-model/DOMAI_PARTICIPATION.md": {
+      "before_sha256": "b28a41bd98d68c386b29cc7d57d410a8b8fce9fb07f67024344e8b3fab70a075",
+      "after_sha256": "195251e73ebf449cf819ad2125ce7da255ec93e7ec8a1436fdd8788dc0fab102"
+    },
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": {
+      "before_sha256": "b0066631dba0621664995043b8a791adb35e3c9c94714146f7920f11ce9fc1e1",
+      "after_sha256": "f163e20f4e84bc2d5557af631115d4b439f08a240a3b5117f92f76bf1658ce47"
+    },
+    "live-model/ILLI_PROGRESSION.md": {
+      "before_sha256": "93684951f551c99638cbaa22c5d681c35e9c1c510cde5e5d2e8630167e9c335d",
+      "after_sha256": "597f08c143ec7399b1058d76f606a96ca75f1cecdc83a096caa96cbacf4460e0"
+    },
+    "live-model/INDEX.md": {
+      "before_sha256": "af980f5b8c0b23901bcb3c6875d6c5358b35d6d335a418808027c4b36d138f9a",
+      "after_sha256": "4d1f86a6830bffc7f6a6884fb79b422f2e5f471296fd9d8c8e089b14c412472e"
+    },
+    "live-model/OPEN.md": {
+      "before_sha256": "228e9d60b57f123ea527a71fd3cf8c83ba210bcb0b2e804629dbf6d28dedb4c0",
+      "after_sha256": "186db91e16bb3aa0ceb0b32eb59c89db6d8315ae59c14fa8937bf98a14a4b160"
+    },
+    "live-model/RAEON.md": {
+      "before_sha256": "2e54d97183eca4c4c1dd71a7483b88edeb2f130473804cca727de4ff4fbaec7a",
+      "after_sha256": "825067bca3fab7bc6c45a97612e3e7c9ffa0c1582ec7506cfe2ac772ca589d56"
+    },
+    "live-model/STORY_CLOCK_STATE.md": {
+      "before_sha256": "0d0a288858de0e0b9237b4a8e8d0a1fd9ff555b07029a317f49690cf02689772",
+      "after_sha256": "b30ff5cb37faae10c640d28ef4cff1c6e830c0b8c045732cf87bdd305e556901"
+    },
+    "live-model/SUPERSESSIONS.md": {
+      "before_sha256": "a5a554a8493d33773043369a8d83f37af21484985627ccc2642b70677b0bca6a",
+      "after_sha256": "f76bfdbb27731cac98e5e751158ac20079c192362677ab0bd4445fd5ca1de938"
+    },
+    "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md": {
+      "before_sha256": "d9a277323c12d53c859f49be6c76732ab6c7713c49375ed4f9a06225b353d79c",
+      "after_sha256": "6ef700bae13306416e199bcdfeaae713332dcac22430735543306cd50a03377b"
+    },
+    "live-model/WORLD_CLOCK.md": {
+      "before_sha256": "c15cc1198832c5b9c4d062aa4b17378a3324bc43b047a859f0c43e6c573b6036",
+      "after_sha256": "d0b8863ed67d74643e2d1ca7cc80784e0defc402857a3ed6c53c6343738b5add"
+    },
+    "story/ARC_01/ARC.md": {
+      "before_sha256": "a5f0bdf18a5698e5ab24e71d981b964232fb1328db68e195d2c46d09c5a9b288",
+      "after_sha256": "f11b8b69861a2733a3e3654b9d3f3ae8b2ae3c8465f79f2785dc44f6bcddb1e3"
+    },
+    "story/ARC_02/ARC.md": {
+      "before_sha256": "9ca09a04ae61ec1bdf5cc6233c215d90e5afa2a9194567ae7a8e87aab5ac8edb",
+      "after_sha256": "af8c057a8e10f71d7ccaf82c79a7c2127ed3d9fd006ce06ff3e88fa304f020f4"
+    },
+    "story/ARC_03/ARC.md": {
+      "before_sha256": "24d80c97275be31699f77bca0ff04b48ed47e4a8c54a360f4a6dc27115266c73",
+      "after_sha256": "1eef3330f6662c60117edf72c15e3471704e588421d3dec1a717cb2839c231c9"
+    },
+    "story/ARC_MAP.json": {
+      "before_sha256": "de5f6691f85915907d5cc8310f8969f065bebfec037194a663c88afb7ba49f78",
+      "after_sha256": "cb91ad7082594102ff974da924b1f3c8fa543fd8b5200be6a258b0ef2ccca4f0"
+    },
+    "story/INDEX.md": {
+      "before_sha256": "071060e0d7b443227b289958b9eda9d03e178160ff80c0aac36d173776c64e87",
+      "after_sha256": "745bee55e306d0724b9a4724ff09e9a7f8fbf7131fd70701466c5b72cdfc1e52"
+    },
+    "tools/validation/README.md": {
+      "before_sha256": "84f2adbc63a7b4f8afedbc4b7cd6034712abc79821888a0bc68715500bbb4d79",
+      "after_sha256": "5247b012f1741c6d2e7c82bc072b3c9138f1c0f16678110ebd1af36abd7a133e"
+    },
+    "tools/validation/test_clock_promotion.py": {
+      "before_sha256": "f3a7f4646a931e05c5ffeded9b664a59dbd8148e8ec347ed8e612188d3e9f218",
+      "after_sha256": "a40339b68e27cc329e2a78a3abd61cd069c2ab11241d9f0fe7d56440c8786425"
+    },
+    "tools/validation/validate_authoring.py": {
+      "before_sha256": "72ec37c75a3d6198ade70b3a5c407fc7e41957b0fe09a2988149c7987d5168f5",
+      "after_sha256": "477670129d15308635ae8033affaf2a59ac4bdccc6733cb5fcec424bdd732487"
+    },
+    "tools/validation/validate_clock_promotion.py": {
+      "before_sha256": "1eacf3ba9201953766e8fdc68a6f28a8b2feab469256902da3a32d1b4d24fd9f",
+      "after_sha256": "2241334283974840032b4a70cd4b7a0b726cdb49a0f3ed0560ba73e827fa9427"
+    },
+    "tools/validation/validate_promotions.py": {
+      "before_sha256": "9a2aeaae235771d52423e29d72da0da6b0eeaecc6e5c97c46ce325b7f336f425",
+      "after_sha256": "9f6b360efd99f9febb2ad76e01c1c9345c4c00a71d45203b47328e4bf6ecf4cd"
+    },
+    "visual-references/CITY_LOCATION_REGISTRY.csv": {
+      "before_sha256": "6e786f8a8319bdab7e376116cbdc5ab27e65a2a3e90a2bd0ff4456a3915cf963",
+      "after_sha256": "e35f4873b7ebe92d1030865af1c22eebc8900bc9717dfea97e526c624e4f98b6"
+    },
+    "visual-references/INDEX.md": {
+      "before_sha256": "8b837fbb13d171f16f7d04f9aa4830d0a717321347f05d78c3d01ce27d6110c4",
+      "after_sha256": "ede3193efeac8942b6c9d54599e0ffcfcb2fc1434190a2f71377c0e380e01be0"
+    },
+    "world-clock/ARC3_ORANGE_CALENDAR.csv": {
+      "before_sha256": "a987a98cec44b4b1c05af7381536de28ba345aada0c323ab315e8c35a137cdfc",
+      "after_sha256": "8851a146acbdd12f5c39cdb17eda18a3e39a0eea2329b92b752da6f3962bc9e4"
+    },
+    "world-clock/ARC3_ORANGE_CALENDAR.json": {
+      "before_sha256": "38d17224a0e4a4400c72c446f79a9cf7b3d86e9ad926a342925830d24d242b5f",
+      "after_sha256": "fd0af605fee06f23bf51527fe5aba6ce221aa7a48e9b2cfffa561f5628b44a06"
+    },
+    "world-clock/ARC3_ORANGE_CALENDAR.md": {
+      "before_sha256": "b285aa03076796ba66a1b3fa4e5221a2f50aa3e15daafd6b2e7a71b33aa8d149",
+      "after_sha256": "361fbfc455218992a4bf9f2edcb7bdb996b2c98152309e1f479091943163ba4d"
+    },
+    "world-clock/ARC4_HANDOFF.json": {
+      "before_sha256": "0e459f5558607438858e301a518c534aac5fcc78a2d286ea87794593a0f7a5ec",
+      "after_sha256": "564e7d67172cc1ae1a4c31c38a43f295eeef37e25c2ff5a790b509685efba998"
+    },
+    "world-clock/ARC4_HANDOFF.md": {
+      "before_sha256": "4fdb065feadff65c33301b2750629fe6262545d595353c474dfd00c07cf0833f",
+      "after_sha256": "b648ad9d35af9368dcf3d2780bb9d3f5b295907ebb7543720987eb8292234749"
+    },
+    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv": {
+      "before_sha256": "a68bb2816b84167bf9ffda0cefbdb7659ec66a309750043631d61c148b233ef0",
+      "after_sha256": "841c29be1c5bacba3176c005876ec98633eeacddbc22e55d038dae7947c27ba4"
+    },
+    "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json": {
+      "before_sha256": "0414425a6d94461fc2ea81c905bde475cf67a42a7ac0d0ea6ae41646ea7129e0",
+      "after_sha256": "3190fbcf39d911b01733e46fa862f4361c664e0706c4caa5e90e940ec2feb557"
+    },
+    "world-clock/ILLI_PROGRESSION_SKELETON.csv": {
+      "before_sha256": "1d326089cb45043319f8932be33ad815f92f9ee842ff3f6cfaa27c311f05a7f0",
+      "after_sha256": "d86b3d1674542d6c4a4336e032dcf9d698b2280c10b19d49ef04d863dc852617"
+    },
+    "world-clock/ILLI_PROGRESSION_SKELETON.json": {
+      "before_sha256": "3e9f335ffc6f5ae80af8f3571e22465eb369b9481cdfa23edc31857061454223",
+      "after_sha256": "1574d7666ae682d216b717f022285b91ea333136226bdc741b6030281d598234"
+    },
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv": {
+      "before_sha256": "95750b0b3c1c5f6f566b9ae102a6379dda79014c6ed4de266f0150ce52853b42",
+      "after_sha256": "74dea62969d5d08fc90c6f28c7e8782c3cd55e8d967b9769b06399c2f2025f46"
+    },
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json": {
+      "before_sha256": "1d1ba6c8cdd7c1b7d145e264a4254fdde3242319c17c5a895e12c33dc6d2b85a",
+      "after_sha256": "a60ecb0d4a57b66faf9f6dd79b0c1abd861f8918fa04d05262189d75222bfeac"
+    },
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md": {
+      "before_sha256": "508c3ff22e258e9934446e05db28d6f40281a1b3bde0d539890af64d1f2c430f",
+      "after_sha256": "4ac602626248a1dcb296f62c227bfb0348d850e89035982b4d48dc4e986ea5bc"
+    },
+    "world-clock/WORLD_CLOCK.md": {
+      "before_sha256": "2a7369f07773614cdddb06396257770840a984543056043a461b66becba4be57",
+      "after_sha256": "d92a4f5fc0a5b5aae132ac5fb83def51b0c28933cc53ac859447d4ae1d093f88"
+    },
+    "world-clock/WORLD_CLOCK_TEMPLATE.csv": {
+      "before_sha256": "0aa1e85396c11c460a1981c26105c3ce5436c1da186188565ac2508c334e6ced",
+      "after_sha256": "c408e8c947a4cd61f545765d1ed4c3919d5b0281dd4f33c5388711fa7b630ba8"
+    },
+    "world-clock/validate_arc3.py": {
+      "before_sha256": "1abca67b646cddf8dff95bcb78a557e2818c09194aa6898a0dc98ba5c7201c43",
+      "after_sha256": "a4eed2035731ced58f6e2e2b30ee52b56ee8e25330dcbc46a8b554aa6dc7f556"
+    },
+    "world-clock/validate_arc4_handoff.py": {
+      "before_sha256": "b4efb1ee1bc0b43944043fe02df5b5ed897831e9f9bf6f5e791d359cf335c03a",
+      "after_sha256": "a919487dbb5da68ab6ebd145ff8fd91311de2663de166118d4ec9a775b53e54d"
+    },
+    "world-clock/validate_arc4_yellow.py": {
+      "before_sha256": "7f05bffb85185bb0289c50757a837a678f6942691e605d1a0bb113bae92224fe",
+      "after_sha256": "cd98ada677ebd63acae84c3651d71aab17a075af342e02434ed5559ce748c17f"
+    },
+    "world-clock/validate_arc6.py": {
+      "before_sha256": "c861b5397b2542f8743094984a5ba78a96d394321e86cc8a880bd1d4be27bd54",
+      "after_sha256": "6ae57c9a415bbcede7b6c96c3d691f72e6b430338df3e2d15928243edbf19256"
+    },
+    "world-clock/validate_arc7.py": {
+      "before_sha256": "7a245b09395d1a81902370598fd1b4457e0dcc3673c31028ef5ca1f105d8526f",
+      "after_sha256": "df156f071ece1a395626971550a7583a138336ad3a759a09481a76b0921482ae"
+    },
+    "world-clock/validate_yellow_director.py": {
+      "before_sha256": "7ebb5a27e457e35bedba7df3551f08b5bef983fbe8976a1086af5f95ba4860bc",
+      "after_sha256": "6376a1d0508d755b82fd5816087dae705dde17d1fc740295d87277431d99b443"
+    }
+  },
+  "source_documents": [
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Arc-One chronology",
+          "body_sha256": "28ccaf7a484447c04389df8fcc611dd40d317e0006be83919285714fac8609be",
+          "paragraphs": [
+            {
+              "sha256": "28ccaf7a484447c04389df8fcc611dd40d317e0006be83919285714fac8609be",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "007 collision",
+          "body_sha256": "6cbfb4e76cc1ef71a53189eb71bc0dfe3da2251d462eaf342e34a9ee949d2ade",
+          "paragraphs": [
+            {
+              "sha256": "6cbfb4e76cc1ef71a53189eb71bc0dfe3da2251d462eaf342e34a9ee949d2ade",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Kira household LOCK",
+          "body_sha256": "337cfa6259eba6df47b0f03c66793457972e14a439395b8c1a83884950e05c8f",
+          "paragraphs": [
+            {
+              "sha256": "337cfa6259eba6df47b0f03c66793457972e14a439395b8c1a83884950e05c8f",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Rival LOCK",
+          "body_sha256": "924ba837f4b1521afe621e03e1a26681dcaa8e3aa37c5bbef5acfe4be06c5082",
+          "paragraphs": [
+            {
+              "sha256": "924ba837f4b1521afe621e03e1a26681dcaa8e3aa37c5bbef5acfe4be06c5082",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Dungeon leader",
+          "body_sha256": "9fdaaff13c8fd8015ff52fc82d1d4c3b4a51c589db7f4cb8253fbb06668a7416",
+          "paragraphs": [
+            {
+              "sha256": "9fdaaff13c8fd8015ff52fc82d1d4c3b4a51c589db7f4cb8253fbb06668a7416",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "illi Solo",
+          "body_sha256": "7726e0ce246fcb482201743087f55088ef16fe13519662d681a728c2ed3415a3",
+          "paragraphs": [
+            {
+              "sha256": "7726e0ce246fcb482201743087f55088ef16fe13519662d681a728c2ed3415a3",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Wallet doctrine",
+          "body_sha256": "d65f17aaca2f22f03447883e14eae847b70e31ba5e9098a2936d075cd05ed957",
+          "paragraphs": [
+            {
+              "sha256": "d65f17aaca2f22f03447883e14eae847b70e31ba5e9098a2936d075cd05ed957",
+              "status": "MIXED_PARTIAL",
+              "reason": "Personal/household names,007/008 and bow/Solo boundaries promoted; opening gap preserved. Wallet doctrine retained, O1D6/O4D2 payout conflict awaiting author decision. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "live-model/OPEN.md#october-8--remaining-author-decisions"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/01_CHARACTER_SOCIAL.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "a56a9cf264e047f3e2b996dfb1809c44d0e6ed017ba3f75c0ddbf89e5629700c",
+          "paragraphs": [
+            {
+              "sha256": "a11e9937650b3c67e25896247905890ebac87bfca38a8ffd24b3ba1e28db1bee",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            },
+            {
+              "sha256": "09bb72455207996e539ac2506547d38272e9294fa194f0ce8638aa6dea24b1b9",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            },
+            {
+              "sha256": "8953ba678e489265750b4946d7ec33a2764fbe56ba05d6c6ad29ea0e1ce2e4dd",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            },
+            {
+              "sha256": "5f42a0c873cd9941f3d1287527fa3b5cd7bb470ba2c543d7497d47611146580b",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            },
+            {
+              "sha256": "40d68ac6dfaf6008ca206ae824358b801a1de3774b2a8cfe7572b8cf41d45a66",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            },
+            {
+              "sha256": "69b5a570a13e590f628be9fc43247fc2453aacb17dba70023e3b0b047afa3033",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family contact not estrangement; optional attendance/rhythm retains qualifications; conventional bow not extra Binding; PC/DC comparison not early DC ownership; temporary decks remain non-owned and tournament ownership firewall survives. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/RAEON.md#october-8--temporary-legal-deck-configurations"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/02_RED_W3_W7.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "11a974b5310bf273960eead4f06a5a0124766fe6f5d5a6fb7245eb24a07062e6",
+          "paragraphs": [
+            {
+              "sha256": "76564a8000abffb58a1a3be064b74de425acae327ba4b0dc06ff88ec33618c91",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "3a90a700f11fab4b07c902c47b78f844ae979bb15e65b993f9d1bb812d90b339",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "94b2c0854f1b8fc78ab9c41b8c3dc5c5044889e566bafe2cfee842bcbe1bf6a8",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "5a1097f7e8f20345fdab0169126b9618b81a3752b36b1cd067ae659c75bd1321",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "8b1806bb073e576dae2d0c2a61e8ae5cd7b8d6656d6a0be76a9b78be2ffc6675",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "0b83260da1bf8c342a43f82aaa6775a20bb55a60707b0f94ddf578a0414ef487",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "ebfb57a9afcbb4f12a2eaea4ca2c189832daf02594b1de2faacf5ed7b73827ca",
+              "status": "MIXED_PARTIAL",
+              "reason": "All35 day directions preserved against minimum scaffold. R4D5 bonus separated; optional Solo depths/credits OPEN; D1 withdrawal cannot bypass same-domai lockout. Finale duration/precise hours and possible comic death scenes remain WORKING/optional. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+                "live-model/DOMAI_PARTICIPATION.md#october-8--first-red-domai-narrative-guard",
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/03_ORANGE_W1.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "89689f428aa67a20db27738aa37c83c6f9a023e39b84335deafb24e3afa6beb1",
+          "paragraphs": [
+            {
+              "sha256": "dc887a0fa541849ea75c7ddd9f54c68e3e86275b6f17214ddebffaea57edaf16",
+              "status": "MIXED_PARTIAL",
+              "reason": "All7 day directions preserved; O1D5 attendance flexible and optional Solo rewards OPEN. Both Red clears specified; second payout collides with existing O4D2 award and remains a publication blocker pending author answer. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--orange-week-one",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "22e5d20d6163a3e50115606a1967054674554cba216c177bc9e14336012250ff",
+              "status": "MIXED_PARTIAL",
+              "reason": "All7 day directions preserved; O1D5 attendance flexible and optional Solo rewards OPEN. Both Red clears specified; second payout collides with existing O4D2 award and remains a publication blocker pending author answer. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8--orange-week-one",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/04_ORANGE_RAID_ROSTER.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "91343a7c897edde2f6e47eceabbd30df9947821f79fef0ae6917eb3cce3e8a86",
+          "paragraphs": [
+            {
+              "sha256": "91343a7c897edde2f6e47eceabbd30df9947821f79fef0ae6917eb3cce3e8a86",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Red A — Sixfold",
+          "body_sha256": "fb2257f11fbf1b7136a567367127f36efcdf394fe782c408cec3993f687089de",
+          "paragraphs": [
+            {
+              "sha256": "fb2257f11fbf1b7136a567367127f36efcdf394fe782c408cec3993f687089de",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Red B — Triumvirate",
+          "body_sha256": "73491e6141df9f726dc4de7af2bd3c40d260a9e745190aae61f38abc036651fc",
+          "paragraphs": [
+            {
+              "sha256": "73491e6141df9f726dc4de7af2bd3c40d260a9e745190aae61f38abc036651fc",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Orange A — Black Orchard",
+          "body_sha256": "d61437c3fbd423c4dce8916d5a31209b02e3ad7a3d81345437c774c24566eb78",
+          "paragraphs": [
+            {
+              "sha256": "d61437c3fbd423c4dce8916d5a31209b02e3ad7a3d81345437c774c24566eb78",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Orange B — Weaver",
+          "body_sha256": "49efb897c11560f6f435719e1bcc47c5cb0b6c099f0297efba20c3d14baf2bbf",
+          "paragraphs": [
+            {
+              "sha256": "49efb897c11560f6f435719e1bcc47c5cb0b6c099f0297efba20c3d14baf2bbf",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Yellow — Wayfarer",
+          "body_sha256": "9bdbd97cfdc3f4f9078ce8c62e3f169720c8de4abcf3c19850b89da3272979d0",
+          "paragraphs": [
+            {
+              "sha256": "9bdbd97cfdc3f4f9078ce8c62e3f169720c8de4abcf3c19850b89da3272979d0",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "Green — The Bloom",
+          "body_sha256": "d494cb832c26a328fba0f17ba20682fe0471843c73ef1f78a2f64ebb6b617dfc",
+          "paragraphs": [
+            {
+              "sha256": "d494cb832c26a328fba0f17ba20682fe0471843c73ef1f78a2f64ebb6b617dfc",
+              "status": "MIXED_PARTIAL",
+              "reason": "LOCKED six seasonal constructs with physical/Genesis mechanisms. Approximate dimensions remain approximate; Weaver material OPEN. No ordinary-eldris export, threat stat, retroactive gate reflection or generic anti-magic; no unprovided later clears. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/05_AUDIT_CHECKLIST.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "548dddce5a67afc9bfa5b57c22c934d589c1ce404a1478251ff32dcf998effdc",
+          "paragraphs": [
+            {
+              "sha256": "548dddce5a67afc9bfa5b57c22c934d589c1ce404a1478251ff32dcf998effdc",
+              "status": "MIXED_PARTIAL",
+              "reason": "Workflow checks, not additional story canon; exact checklist verification separately recorded. Consistency/publication blocked on Red reward conflict. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "provenance/diplomatic-pouch-2026-10-08/CHECKLIST_AUDIT.json",
+                "provenance/diplomatic-pouch-2026-10-08/CONFLICTS.json"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/arc1-arc2-repair/package/REPAIR_DELTA.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "1. Kira family names — REQUIRED",
+          "body_sha256": "0eb374f7a5c5aa1c1fca461f8cbe2458848474c221a1ae34ecf616cf981bb8b3",
+          "paragraphs": [
+            {
+              "sha256": "ce6c5805a774d5f88211f0f275f4ccdcd49139c46ad03304ed74d821bc75f8f9",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life"
+              ]
+            },
+            {
+              "sha256": "fbe7a4a5ba31f1d9f4c7f4672737f63eadfd827211d73bb23d60fa6b2f88c271",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life"
+              ]
+            },
+            {
+              "sha256": "4c417817a2b5ec2ab10f0afc3a5999242d6fec039d9b44fbada48efa81ec6746",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life"
+              ]
+            },
+            {
+              "sha256": "9b51f8b13757e96aa5e97710e56b04a4508b8e64c2394c9a62e82279d9ca696c",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md#october-8--household-and-rival",
+                "live-model/03_VALNEK_PATHS.md#october-8--family-and-independent-social-life"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "2. Kaevren — REQUIRED",
+          "body_sha256": "81b34705eddc45019ac4a853b9493417a6679a444f81f960bad77301280ebd98",
+          "paragraphs": [
+            {
+              "sha256": "1d57b126591ac9cad767df3919db4576c44fcee9af93e11934fc9478aece8ddd",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md",
+                "story/ARC_01/ARC.md",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "3d12f0c3ffbdceeaaa4618d0382208970e4048763383118a0614a4e93f6d7f2a",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md",
+                "story/ARC_01/ARC.md",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "3. illi bow baseline — REQUIRED",
+          "body_sha256": "8507410ad5f1e857f0084ce4b62a5d3f27655aa5f8ca281bc4f6f5ef27a0d63f",
+          "paragraphs": [
+            {
+              "sha256": "8507410ad5f1e857f0084ce4b62a5d3f27655aa5f8ca281bc4f6f5ef27a0d63f",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "4. R2D5 bad-run firewall — REQUIRED",
+          "body_sha256": "7b62ae821b82a2eb53aab0f2808b08d893a6e82f219404013ecd21bf642d66b6",
+          "paragraphs": [
+            {
+              "sha256": "7b62ae821b82a2eb53aab0f2808b08d893a6e82f219404013ecd21bf642d66b6",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/ILLI_PROGRESSION.md",
+                "live-model/STORY_CLOCK_STATE.md",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "5. Location 007 collision — REQUIRED",
+          "body_sha256": "32f20a54aceef2dad5b862f2d019f6bf24d6c8e5a66d62c2318c51ef7ac9f73f",
+          "paragraphs": [
+            {
+              "sha256": "1e636976b85570a51f792ca2efaa2cd8b3d10d30f13027b854f4b475f612a181",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "visual-references/CITY_LOCATION_REGISTRY.csv",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+                "live-model/STORY_CLOCK_STATE.md",
+                "story/ARC_01/ARC.md",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md"
+              ]
+            },
+            {
+              "sha256": "49135bf9a458f827e09699f037f46ba2e6d957598e79d58a00387abfb63c3b31",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "visual-references/CITY_LOCATION_REGISTRY.csv",
+                "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md",
+                "live-model/STORY_CLOCK_STATE.md",
+                "story/ARC_01/ARC.md",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "6. Family/social overlay — REQUIRED recoverability",
+          "body_sha256": "d01fcc6addcec3ebfda3623bd955ece1ba6214b8a5a007d9f7d658049a42fc84",
+          "paragraphs": [
+            {
+              "sha256": "21f7a339f2d171d6c8e8eec76d3f4f3d672f3824244d793b9e918e5003b56fbd",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md",
+                "live-model/03_VALNEK_PATHS.md",
+                "live-model/STORY_CLOCK_STATE.md"
+              ]
+            },
+            {
+              "sha256": "9379bb6d8f9e18a6cad9e9881188aea303298abca0c56c18546f40dc9e5ace76",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md",
+                "live-model/03_VALNEK_PATHS.md",
+                "live-model/STORY_CLOCK_STATE.md"
+              ]
+            },
+            {
+              "sha256": "d6453f3160d4772a74ce9c5a03b3f832976db5fcacafc614932aeb6528fb4e6e",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/01_KIRA.md",
+                "live-model/03_VALNEK_PATHS.md",
+                "live-model/STORY_CLOCK_STATE.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "7. R4D5 Burrower — REQUIRED",
+          "body_sha256": "cb88b835abefc5decfb94f0816ec993d508cd36a0db1cb8a3bcbc2ddaa09a30c",
+          "paragraphs": [
+            {
+              "sha256": "cb88b835abefc5decfb94f0816ec993d508cd36a0db1cb8a3bcbc2ddaa09a30c",
+              "status": "MIXED_PARTIAL",
+              "reason": "Bonus2500 each belongs to actual/discretionary surplus; no change to minimum balance or purchase dates. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+                "live-model/STORY_CLOCK_STATE.md",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "8. R6D6 specificity — REQUIRED",
+          "body_sha256": "462393f9d8bbb9fdb35ffa34d29bd68e6b83e89780a128a2d07138db9d7e5e26",
+          "paragraphs": [
+            {
+              "sha256": "462393f9d8bbb9fdb35ffa34d29bd68e6b83e89780a128a2d07138db9d7e5e26",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+                "live-model/STORY_CLOCK_STATE.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "9. Red W5 domai social chronology — REQUIRED",
+          "body_sha256": "033b40b0427bcf6a5c1b2b20b3fe148f15f426079e1263b993f9d63addcb2dc8",
+          "paragraphs": [
+            {
+              "sha256": "033b40b0427bcf6a5c1b2b20b3fe148f15f426079e1263b993f9d63addcb2dc8",
+              "status": "MIXED_PARTIAL",
+              "reason": "D1/D2 activity, D3 full-day same-domai recovery, D4 elimination and D7 expiry/zero retained; no lockout bypass. Exact first-night staging OPEN. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/DOMAI_PARTICIPATION.md",
+                "live-model/STORY_CLOCK_STATE.md",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "10. Red W6/W7 social overlay — REQUIRED recoverability",
+          "body_sha256": "93f2bde7d1934a95f3e6a0bb8cfc7987edfc01c82192c4c19cf9d6953f788e94",
+          "paragraphs": [
+            {
+              "sha256": "255ece987649ef9392d67b40b00c07694f418275a4585602123ff26e2db28a76",
+              "status": "MIXED_PARTIAL",
+              "reason": "All supplied daily directions present, optional Solos/results/credits remain OPEN; no chapter allocations; temporary decks do not confer ownership. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md",
+                "live-model/RAEON.md",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "c2df72548916012a60ce5a29f334df1e583646c16bb5f8b4ae96953338d23dd1",
+              "status": "MIXED_PARTIAL",
+              "reason": "All supplied daily directions present, optional Solos/results/credits remain OPEN; no chapter allocations; temporary decks do not confer ownership. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md",
+                "live-model/RAEON.md",
+                "story/ARC_02/ARC.md"
+              ]
+            },
+            {
+              "sha256": "b667e7e9b23820cb7baa8a6650de087485cbc7cc0c4d27079f1081d3cb410f5f",
+              "status": "MIXED_PARTIAL",
+              "reason": "All supplied daily directions present, optional Solos/results/credits remain OPEN; no chapter allocations; temporary decks do not confer ownership. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md",
+                "live-model/RAEON.md",
+                "story/ARC_02/ARC.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "11. Orange Week 1 — REQUIRED",
+          "body_sha256": "9cb36742686977c6456fdd3388cfe4d198c268aa4e7ad46c0a144522caf26bb5",
+          "paragraphs": [
+            {
+              "sha256": "3f39031856da3d886664cab9eac4e01cbc59d7edf4ba26285ef018bbebe2b430",
+              "status": "MIXED_PARTIAL",
+              "reason": "O1D6 six outcomes and zero Orange reward explicit; minimum ledger bytes preserved. O4D2 Red duplicate remains an explicitly disclosed cross-calendar conflict pending author decision; not silently reconciled. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+                "live-model/STORY_CLOCK_STATE.md",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+                "world-clock/ARC3_ORANGE_CALENDAR.md"
+              ]
+            },
+            {
+              "sha256": "f97f101da93d8a27f8d6b0dc125a981556f88e826e8e9440ad0f5e75322638b9",
+              "status": "MIXED_PARTIAL",
+              "reason": "O1D6 six outcomes and zero Orange reward explicit; minimum ledger bytes preserved. O4D2 Red duplicate remains an explicitly disclosed cross-calendar conflict pending author decision; not silently reconciled. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+                "live-model/STORY_CLOCK_STATE.md",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+                "world-clock/ARC3_ORANGE_CALENDAR.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "12. Orange-season Normal Raid roster — REQUIRED current owner",
+          "body_sha256": "f2758a1bef2d4a54140a6cf697da4a09b664c1e2b2bf2e365f1315b755c75a18",
+          "paragraphs": [
+            {
+              "sha256": "aac7a26e3ee99c31d1497319c5b72e2442e82f9fe421edb6c2f5f5af2d7e4959",
+              "status": "MIXED_PARTIAL",
+              "reason": "All six Valnak constructs and mechanisms preserved; no outside-world inheritance, threat stat, retroactive reflection, generic anti-magic or fabricated clear. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            },
+            {
+              "sha256": "6f56ab404bab6dbd6db4987b524d2876e190cd7ec2addbe350be60193a574edd",
+              "status": "MIXED_PARTIAL",
+              "reason": "All six Valnak constructs and mechanisms preserved; no outside-world inheritance, threat stat, retroactive reflection, generic anti-magic or fabricated clear. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            },
+            {
+              "sha256": "ed220e0e0f34349f3e21b4a3a4f53fb595b05aa032ae7f2ec1df5d3e3ebb2f86",
+              "status": "MIXED_PARTIAL",
+              "reason": "All six Valnak constructs and mechanisms preserved; no outside-world inheritance, threat stat, retroactive reflection, generic anti-magic or fabricated clear. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            },
+            {
+              "sha256": "5c6de0ee1012f78b78cdaf7f68072a1406932bb80b4100d2f1611ede16d670e8",
+              "status": "MIXED_PARTIAL",
+              "reason": "All six Valnak constructs and mechanisms preserved; no outside-world inheritance, threat stat, retroactive reflection, generic anti-magic or fabricated clear. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            },
+            {
+              "sha256": "d7f20b87bad6a85372137656db1841f1c4e8ea2d284fcb71eba0d1b952fcfae5",
+              "status": "MIXED_PARTIAL",
+              "reason": "All six Valnak constructs and mechanisms preserved; no outside-world inheritance, threat stat, retroactive reflection, generic anti-magic or fabricated clear. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            },
+            {
+              "sha256": "9eedf4c2948c2d20ba42ee17b6f54a15c7b206fddc4ccb25c6f786de8a31335a",
+              "status": "MIXED_PARTIAL",
+              "reason": "All six Valnak constructs and mechanisms preserved; no outside-world inheritance, threat stat, retroactive reflection, generic anti-magic or fabricated clear. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            },
+            {
+              "sha256": "48c6f7bbcb61a7a0583aa6ff230a48d038bcad78c11e2ccd78437a80f387b631",
+              "status": "MIXED_PARTIAL",
+              "reason": "All six Valnak constructs and mechanisms preserved; no outside-world inheritance, threat stat, retroactive reflection, generic anti-magic or fabricated clear. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "13. Arc-One chronology guard — REQUIRED",
+          "body_sha256": "3c34b08fe7e34f270cafb30c7155fc89b147df215ad7efb59318e0681af0d99c",
+          "paragraphs": [
+            {
+              "sha256": "3c34b08fe7e34f270cafb30c7155fc89b147df215ad7efb59318e0681af0d99c",
+              "status": "MIXED_PARTIAL",
+              "reason": "Retain exact authored detail in current owners; preserve qualifications, later canon and unrelated OPENs. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "live-model/OPEN.md",
+                "live-model/STORY_CLOCK_STATE.md",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/arc1-arc2-repair/package/VERIFY_AFTER.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "20a953b99938328bd4439ce33ff14c1b6a89d21e65534183d5996201281033fc",
+          "paragraphs": [
+            {
+              "sha256": "1133f70e709e8b33f97d6022b9c4b9a54134e53118c53dd39e428652b68b9449",
+              "status": "MIXED_PARTIAL",
+              "reason": "Execution checklist, not story canon. Working-tree checks are separate from post-push remote verification; publication waits for conflict decision. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "provenance/diplomatic-pouch-2026-10-08/REPAIR_VERIFY_AFTER.json"
+              ]
+            },
+            {
+              "sha256": "d4e4c12b79db680cefd9aa4b4152fd464266fe75aad1dd95eaa3a3bf64f1cfa0",
+              "status": "MIXED_PARTIAL",
+              "reason": "Execution checklist, not story canon. Working-tree checks are separate from post-push remote verification; publication waits for conflict decision. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "provenance/diplomatic-pouch-2026-10-08/REPAIR_VERIFY_AFTER.json"
+              ]
+            },
+            {
+              "sha256": "8b92637d5d95d846ca75c89acbdf322852e90172a846884791bc72038b4ccb36",
+              "status": "MIXED_PARTIAL",
+              "reason": "Execution checklist, not story canon. Working-tree checks are separate from post-push remote verification; publication waits for conflict decision. Later cumulative authority: former date/tournament/payout claims yield to the explicit Red/Orange reconciliation; original audit scope remains historical, no publication blocker remains.",
+              "destinations": [
+                "provenance/diplomatic-pouch-2026-10-08/REPAIR_VERIFY_AFTER.json"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/CORE_AND_RED.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "5c75e2baf48407e6792529abb6196947e116135d6b5c1a160f78e955836b5c22",
+          "paragraphs": [
+            {
+              "sha256": "4b28c30f868e60661daec8fa4f19446fb768e91cc458938692c8a3c3038b4219",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family,Kaevren,bow,007/008 and dated boss identities preserved. R5D4 seasonal appointment removed; R7D6 seasonal10:00 knockout precedes existing Duo1950. Bonus and optional credits stay separate.",
+              "destinations": [
+                "live-model/01_KIRA.md",
+                "live-model/ILLI_PROGRESSION.md",
+                "live-model/STORY_CLOCK_STATE.md#october-8-cumulative--red-continuity",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+                "visual-references/CITY_LOCATION_REGISTRY.csv"
+              ]
+            },
+            {
+              "sha256": "01dee30219a03881486eb5d2111d3287ff93da1106dd96aa7f6f7b86c12c6b32",
+              "status": "MIXED_PARTIAL",
+              "reason": "Family,Kaevren,bow,007/008 and dated boss identities preserved. R5D4 seasonal appointment removed; R7D6 seasonal10:00 knockout precedes existing Duo1950. Bonus and optional credits stay separate.",
+              "destinations": [
+                "live-model/01_KIRA.md",
+                "live-model/ILLI_PROGRESSION.md",
+                "live-model/STORY_CLOCK_STATE.md#october-8-cumulative--red-continuity",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+                "visual-references/CITY_LOCATION_REGISTRY.csv"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "e35d88083fa3c47ca40c52eb750d2ebb777442a068ed5a3f16c3598c0081c727",
+          "paragraphs": [
+            {
+              "sha256": "c4b2ffc87737c3d5fadeae1baf265e5b3229ea10fb56345ac1f08d6af3cbe43a",
+              "status": "MIXED_PARTIAL",
+              "reason": "PC/Legacy O1D3,Absorption O2D2 and CSR O2D3 explicitly govern. O4D2 is3750 Orange only; duplicate Red removed and downstream gross56385/81415. O2D3 optional W7/W8 credits explicitly OPEN. No later-arc purchase moved.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8-cumulative--orange-weeks-one-through-seven",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+                "world-clock/ARC3_ORANGE_CALENDAR.md",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+                "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+                "world-clock/ILLI_PROGRESSION_SKELETON.json"
+              ]
+            },
+            {
+              "sha256": "32c18da67b0779f4388b113cec969e01e859a8003f56339d3cf69b8c211d8b18",
+              "status": "MIXED_PARTIAL",
+              "reason": "PC/Legacy O1D3,Absorption O2D2 and CSR O2D3 explicitly govern. O4D2 is3750 Orange only; duplicate Red removed and downstream gross56385/81415. O2D3 optional W7/W8 credits explicitly OPEN. No later-arc purchase moved.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8-cumulative--orange-weeks-one-through-seven",
+                "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+                "world-clock/ARC3_ORANGE_CALENDAR.md",
+                "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+                "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+                "world-clock/ILLI_PROGRESSION_SKELETON.json"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W5_W7.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "7d2e157e04c8f034667a04f145ead2fd65ee6752f7ee6d7386ab9b807081b3f5",
+          "paragraphs": [
+            {
+              "sha256": "7d2e157e04c8f034667a04f145ead2fd65ee6752f7ee6d7386ab9b807081b3f5",
+              "status": "MIXED_PARTIAL",
+              "reason": "Every supplied daily direction retained. O5D1/O5D6 OPEN; O7D5 recovery/no championship; O7D6 seasonal10:00 knockout before same-day W17/5805. O7D7 1020 unchanged; daily circuit and later-season schedules separate.",
+              "destinations": [
+                "live-model/STORY_CLOCK_STATE.md#october-8-cumulative--orange-weeks-one-through-seven",
+                "world-clock/ARC3_ORANGE_CALENDAR.md",
+                "live-model/RAEON.md",
+                "live-model/WORLD_CLOCK.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_NORMAL_RAID_ROSTER.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "22e8e5d37f7bbcf5e6bcfc025c980e361eae323cabb43a05c7ab40ce5b2912b6",
+          "paragraphs": [
+            {
+              "sha256": "22e8e5d37f7bbcf5e6bcfc025c980e361eae323cabb43a05c7ab40ce5b2912b6",
+              "status": "MIXED_PARTIAL",
+              "reason": "Explicit author correction retained in current owners; compatible older details accumulate; original source/qualification preserved.",
+              "destinations": [
+                "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+                "canon/COMBAT.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/HARD_RAID_DOCTRINE.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "29a3c425d4eac9ecd62c209e2a743988d0ead01c5c7c105b086482a5d3c8fe23",
+          "paragraphs": [
+            {
+              "sha256": "29a3c425d4eac9ecd62c209e2a743988d0ead01c5c7c105b086482a5d3c8fe23",
+              "status": "MIXED_PARTIAL",
+              "reason": "Same seasonal bosses,continuous environment,no systemic fatigue reset,locked roster,no re-entry/replacement,role-dependent survival,full-attempt restart/no checkpoints,persistent reward eligibility and build-depth accessibility. Existing O6D5 reward/outcome retained without inventing boss identity.",
+              "destinations": [
+                "live-model/COMBAT_ECOLOGY.md#october-8-cumulative--hard-raid-doctrine",
+                "live-model/04_COMBAT_WORLD.md#october-8-cumulative--hard-raid-doctrine",
+                "canon/COMBAT.md",
+                "combat-rewards/README.md"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/VERIFY_AFTER.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "ed580a9b98631ad860b179c42fcc8540e36d23b0d2186018e8375426ca621173",
+          "paragraphs": [
+            {
+              "sha256": "ed580a9b98631ad860b179c42fcc8540e36d23b0d2186018e8375426ca621173",
+              "status": "MIXED_PARTIAL",
+              "reason": "Execution requirements, not canon. Working-tree checks and fetched post-push remote checks are reported separately; no success claim until both pass.",
+              "destinations": [
+                "provenance/diplomatic-pouch-2026-10-08/RECONCILIATION_VERIFY_AFTER.json",
+                "provenance/diplomatic-pouch-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "asset_copies": [
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg",
+      "destination": "visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg"
+    },
+    {
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/arc1-arc2-repair/visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg",
+      "destination": "visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg"
+    }
+  ],
+  "registry_relocations": [
+    {
+      "destination": "visual-references/CITY_LOCATION_REGISTRY.csv",
+      "key": "serial",
+      "from_value": "007",
+      "to_value": "008",
+      "before_row": {
+        "serial": "007",
+        "canonical_name": "Opening Ceremony / civic festival grounds",
+        "type": "civic/ceremonial venue",
+        "map_region": "southern lobe of main central island",
+        "status": "WORKING",
+        "parent": "",
+        "story_use": "R1D7 and later major civic events",
+        "notes": "Principal hub for Opening Celebration; outdoor festival/assembly complex; citywide celebration extends beyond 007. Exact formal venue name OPEN."
+      },
+      "after_row": {
+        "serial": "008",
+        "canonical_name": "Opening Ceremony / civic festival grounds",
+        "type": "civic/ceremonial venue",
+        "map_region": "southern lobe of main central island",
+        "status": "WORKING",
+        "parent": "",
+        "story_use": "R1D7 and later major civic events",
+        "notes": "Principal hub for Opening Celebration; outdoor festival/assembly complex; citywide celebration extends beyond 008. Exact formal venue name OPEN."
+      },
+      "new_row": {
+        "serial": "007",
+        "canonical_name": "bookstore",
+        "type": "commercial / books",
+        "map_region": "northeast/right of 003 in north-central built-up district",
+        "status": "LOCKED",
+        "parent": "",
+        "story_use": "R6D4 and later reading/social life",
+        "notes": "Author-assigned bookstore marker; exact shop name OPEN. Former 007 southern civic festival venue survives as 008."
+      },
+      "source": "provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md#007-collision",
+      "reason": "Newest explicit author decision assigns007 to bookstore;008 audited unused, southern venue preserved by renumbering."
+    }
+  ],
+  "reverse_diff": {
+    "review": "provenance/diplomatic-pouch-2026-10-08/REVERSE_DIFF.csv",
+    "decisions": 65,
+    "counts": {
+      "PRESENT": 63,
+      "PARTIAL": 0,
+      "MISSING": 0,
+      "CONFLICT": 2,
+      "SUPERSEDED": 0
+    },
+    "qualifiers": "PRESENT preserves LOCKED/WORKING/OPEN/optional distinctions; not every narrative direction is a fixed event. Two entries describe the same unresolved payout conflict."
+  },
+  "supersessions": [
+    {
+      "scope": "007 location",
+      "decision": "Newest explicit bookstore assignment; southern venue survives as008, unused in baseline.",
+      "destinations": [
+        "live-model/VALNAK_CITY_CULTURE_TRANSPORT.md#october-8--bookstore-and-venue-serials",
+        "visual-references/CITY_LOCATION_REGISTRY.csv"
+      ]
+    },
+    {
+      "scope": "Names and Champion reveal",
+      "decision": "Household and Kaevren locked, leader unnamed; first dinner an Elara-arranged surprise, no earlier paid-date reconciliation.",
+      "destinations": [
+        "live-model/01_KIRA.md#october-8--household-and-rival",
+        "story/ARC_01/ARC.md"
+      ]
+    },
+    {
+      "scope": "illi early Solo ceilings",
+      "decision": "R2D5 poor run and R4D1 minimum accounting do not cap ability. Optional actual earnings remainOPEN.",
+      "destinations": [
+        "live-model/ILLI_PROGRESSION.md#october-8--early-bow-coherence-and-solo-scope"
+      ]
+    },
+    {
+      "scope": "Seasonal Raid identities",
+      "decision": "Red dated boss allocations and separate locked Orange roster supplied. Both O1D6 Red clears cause unresolvedO4D2 reward conflict, not a payout-rule exception.",
+      "destinations": [
+        "live-model/STORY_CLOCK_STATE.md#october-8--red-weeks-three-through-seven",
+        "live-model/STORY_CLOCK_STATE.md#october-8--orange-week-one",
+        "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+        "live-model/ECONOMY_PURCHASE_SCHEDULE.md#october-8--authored-bonus-clears-and-solo-accounting"
+      ]
+    },
+    {
+      "scope": "October8 cumulative Red/Orange",
+      "decision": "O1D3 PC/Legacy,O2D2 Absorption,O2D3 CSR; O4D2 Red0/Black Orchard3750 and gross56385/81415; R5D4/O5D1/O5D6 OPEN,O7D5 recovery without championship; R7D6/O7D6 early seasonal knockout then existing Duo. Hard same roster/continuous-fatigue doctrine. Prior conflicting claims survive as historical source only.",
+      "destinations": [
+        "live-model/01_KIRA.md",
+        "live-model/ILLI_PROGRESSION.md",
+        "live-model/STORY_CLOCK_STATE.md#october-8-cumulative--red-continuity",
+        "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md",
+        "visual-references/CITY_LOCATION_REGISTRY.csv",
+        "live-model/STORY_CLOCK_STATE.md#october-8-cumulative--orange-weeks-one-through-seven",
+        "world-clock/ARC3_ORANGE_CALENDAR.md",
+        "live-model/ECONOMY_PURCHASE_SCHEDULE.md",
+        "world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json",
+        "world-clock/ILLI_PROGRESSION_SKELETON.json",
+        "live-model/RAEON.md",
+        "live-model/WORLD_CLOCK.md",
+        "live-model/04_COMBAT_WORLD.md#october-8--orange-season-normal-raid-roster",
+        "canon/COMBAT.md",
+        "live-model/COMBAT_ECOLOGY.md#october-8-cumulative--hard-raid-doctrine",
+        "live-model/04_COMBAT_WORLD.md#october-8-cumulative--hard-raid-doctrine",
+        "combat-rewards/README.md",
+        "provenance/diplomatic-pouch-2026-10-08/RECONCILIATION_VERIFY_AFTER.json",
+        "provenance/diplomatic-pouch-2026-10-08/COMPLETION_REPORT.md"
+      ]
+    }
+  ],
+  "remaining_open": [
+    "R1D2/R1D3 paid-combat RECOVERY_GAP.",
+    "Optional illi Solo exact credits, including O2D3 W7 clear/W8 fail; unsupplied later optional results and O3D4 frontier.",
+    "Full actual wallets, discretionary spending and contextual domai payout/conquest timing.",
+    "Recurring male leader name (Jaeren rejected); Kaevren house/surname/appearance/build/reconciliation; exact shop/venue names.",
+    "First-domai overnight staging; Weaver alloy; qualified social attendance/times and all compatible later OPENs."
+  ],
+  "publication_gate": "ALL_PREPUBLICATION_CHECKS_PASS",
+  "checksum_status": "Nine content hashes match; self-hash entry mismatch preserved and reported.",
+  "repair_package": {
+    "zip_sha256": "f982575353fcef0264002570c7776eeed6395a82085a7789ee71d3d359567f5b",
+    "manifest_checks": "4/4 PASS",
+    "baseline_remote_head": "d2e6a9eded93b0cc4061952a8e381875f06d86c9",
+    "source_premise_correction": "The October8 integration was pending locally, not pushed. This repair augments those existing changes; it does not rerun the prior pouch.",
+    "reverse_diff": "provenance/diplomatic-pouch-2026-10-08/REPAIR_REVERSE_DIFF.csv",
+    "decision_lines": 165,
+    "sections": 13,
+    "verification": "provenance/diplomatic-pouch-2026-10-08/REPAIR_VERIFY_AFTER.json",
+    "pre_repair_audit": "provenance/diplomatic-pouch-2026-10-08/pre-repair-audit/COMPLETION_REPORT.md"
+  },
+  "cumulative_reconciliation": {
+    "package_zip_sha256": "89d7f3bfa5eb8795ee89f99ea6baed91e290dcd050d92468c6ce9e313ef2f0ed",
+    "manifest": "7/7 PASS",
+    "source_prefix": "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/",
+    "reverse_diff": "provenance/diplomatic-pouch-2026-10-08/RECONCILIATION_REVERSE_DIFF.csv",
+    "decisions": 53,
+    "earlier_reports": "The pre-reconciliation audit and earlier17-item review describe the previous local snapshot; current25-item review supersedes conflicting current-state claims.",
+    "evidence": "provenance/diplomatic-pouch-2026-10-08/RECONCILIATION.json"
+  }
+}

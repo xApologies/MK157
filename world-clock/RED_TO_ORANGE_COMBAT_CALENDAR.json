@@ -177,7 +177,7 @@
     "purchase_cost": 0,
     "illi_running_balance": 1490,
     "duration_block": "~1 h",
-    "author_notes": "One of only two meaningful illi Solo experiments."
+    "author_notes": "One of only two meaningful illi Solo experiments. Intentional bad run, not capability ceiling; healing tunnel vision/missed flank/death, then abecca/raeon decompression. Booked W2 remains140."
   },
   {
     "season": "Red",
@@ -231,13 +231,13 @@
     "kira_combat": "Normal Raid",
     "illi_combat": "Normal Raid",
     "combat_event": "Raid group #1: Red boss \u2192 Orange attempts",
-    "result": "Red cleared; Orange fails",
+    "result": "Fire Dragon Red-A CLEAR; Shardfield Orange-B repeated FAIL",
     "illi_credits_earned": 2500,
     "purchase": "",
     "purchase_cost": 0,
     "illi_running_balance": 7305,
     "duration_block": "most of day",
-    "author_notes": "Red major reward earned. Multiple Orange attempts fail."
+    "author_notes": "Group dissolves after failed Shardfield pulls; booked Red first-clear2500 retained."
   },
   {
     "season": "Red",
@@ -327,7 +327,7 @@
     "purchase_cost": 0,
     "illi_running_balance": 10875,
     "duration_block": "~1.5 h",
-    "author_notes": "Second/final early Solo experiment; confirms Duo is better."
+    "author_notes": "Second/final early Solo experiment; confirms Duo is better. Old W3 is minimum accounting, not a capability ceiling; variable Solo frontier and any actual excess reward remain OPEN."
   },
   {
     "season": "Red",
@@ -387,7 +387,7 @@
     "purchase_cost": 0,
     "illi_running_balance": 8019,
     "duration_block": "",
-    "author_notes": "Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+    "author_notes": "Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats. Authored BONUS Burrower Red-B CLEAR:2500 each actual/discretionary surplus, excluded from this minimum progression ledger."
   },
   {
     "season": "Red",
@@ -468,8 +468,8 @@
     "season": "Red",
     "week": 5,
     "day": 4,
-    "kira_combat": "No combat; raeon tournament participation / eliminated",
-    "illi_combat": "No combat; raeon tournament participation / eliminated",
+    "kira_combat": "OPEN / recovery-social",
+    "illi_combat": "OPEN / recovery-social",
     "combat_event": "NO REQUIRED COMBAT",
     "result": "",
     "illi_credits_earned": 0,
@@ -477,7 +477,7 @@
     "purchase_cost": 0,
     "illi_running_balance": 9609,
     "duration_block": "",
-    "author_notes": "Checkpoint 19: Kira + illi participate in the Red-season raeon tournament and are eliminated. No required combat; other time remains recovery/social space."
+    "author_notes": "OPEN; prior seasonal raeon participation/elimination removed by explicit October8 correction. Daily10:00 raeon remains separate."
   },
   {
     "season": "Red",
@@ -582,7 +582,7 @@
     "purchase_cost": 10282,
     "illi_running_balance": 6947,
     "duration_block": "",
-    "author_notes": "Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+    "author_notes": "Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats. PC Green followed by bookstore007; optional Solo/top-off credits OPEN."
   },
   {
     "season": "Red",
@@ -606,13 +606,13 @@
     "kira_combat": "Normal Raid",
     "illi_combat": "Normal Raid",
     "combat_event": "Raid group #2: Red repeat \u2192 Orange boss",
-    "result": "Red repeat no major reward; Orange cleared",
+    "result": "Red repeat: no major reward; Coherence Twins Orange-A CLEAR",
     "illi_credits_earned": 3750,
     "purchase": "",
     "purchase_cost": 0,
     "illi_running_balance": 10697,
     "duration_block": "most of day",
-    "author_notes": "Second group succeeds where first failed."
+    "author_notes": "Repeated failures; overlapping mutual coherence requires working5/5 separation. Existing3750 minimum reward retained."
   },
   {
     "season": "Red",
@@ -717,7 +717,7 @@
     "purchase_cost": 0,
     "illi_running_balance": 18677,
     "duration_block": "~10 h",
-    "author_notes": "Shared grind."
+    "author_notes": "Shared grind. 10:00 SEASONAL raeon entry and EARLY KNOCKOUT, then the existing same-day Duo W10 clear;1950 and running balance unchanged. No global tournament cadence inferred."
   },
   {
     "season": "Red",
@@ -773,26 +773,26 @@
     "combat_event": "Duo Trial W10",
     "result": "Clear through W10",
     "illi_credits_earned": 1950,
-    "purchase": "",
-    "purchase_cost": 0,
-    "illi_running_balance": 26657,
+    "purchase": "Persistent Coherence \u2192 Blue / White Legacy qualifies",
+    "purchase_cost": 25705,
+    "illi_running_balance": 952,
     "duration_block": "~10 h",
-    "author_notes": "Final income before PC Blue gate."
+    "author_notes": "Duo W10 then IMMEDIATE PC Blue/White Legacy same day:24707+1950=26657; minus25705 leaves952."
   },
   {
     "season": "Orange",
     "week": 1,
     "day": 4,
-    "kira_combat": "OPEN / purchase-social",
-    "illi_combat": "Purchase / no required combat",
+    "kira_combat": "OPEN / recognition-social",
+    "illi_combat": "OPEN / recognition-social",
     "combat_event": "NO REQUIRED COMBAT",
     "result": "",
     "illi_credits_earned": 0,
-    "purchase": "Persistent Coherence \u2192 Blue / White Legacy qualifies",
-    "purchase_cost": 25705,
+    "purchase": "",
+    "purchase_cost": 0,
     "illi_running_balance": 952,
     "duration_block": "",
-    "author_notes": "Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+    "author_notes": "No required purchase/combat. White-Legacy recognition/royal aftermath after O1D3 acceptance."
   },
   {
     "season": "Orange",
@@ -807,7 +807,7 @@
     "purchase_cost": 0,
     "illi_running_balance": 952,
     "duration_block": "",
-    "author_notes": "Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+    "author_notes": "Girls day Elara+Kira+illi+Naira+Laina; no required combat."
   },
   {
     "season": "Orange",
@@ -816,13 +816,13 @@
     "kira_combat": "Normal Raid",
     "illi_combat": "Normal Raid",
     "combat_event": "New-season Red Raid boss",
-    "result": "Clear",
+    "result": "Sixfold CLEAR; Triumvirate CLEAR; Black Orchard FAIL; Weaver/Wayfarer/Bloom NOT ATTEMPTED",
     "illi_credits_earned": 2500,
     "purchase": "",
     "purchase_cost": 0,
     "illi_running_balance": 3452,
     "duration_block": "~half\u2013full day",
-    "author_notes": "Season reset permits new Red major reward."
+    "author_notes": "Two Red first-clears5000 each actual total; Sixfold2500 booked here, Triumvirate2500 actual/discretionary surplus outside minimum. ZERO Orange reward. No Red reward again O4D2."
   },
   {
     "season": "Orange",
@@ -863,25 +863,25 @@
     "combat_event": "Duo Trial W10",
     "result": "Clear through W10",
     "illi_credits_earned": 1950,
-    "purchase": "",
-    "purchase_cost": 0,
-    "illi_running_balance": 9392,
+    "purchase": "Absorption Shield \u2192 Red (White Legacy 55%)",
+    "purchase_cost": 9350,
+    "illi_running_balance": 42,
     "duration_block": "~10 h",
-    "author_notes": "Final income before Absorption purchase."
+    "author_notes": "Duo W10 then IMMEDIATE Absorption Red same day:7442+1950=9392; minus9350 leaves42. Major White-Legacy celebration."
   },
   {
     "season": "Orange",
     "week": 2,
     "day": 3,
-    "kira_combat": "OPEN / purchase-social",
-    "illi_combat": "Purchase / no required combat",
+    "kira_combat": "CSR purchase61017 later; family-smithy/social",
+    "illi_combat": "Optional early Solo W7 CLEAR/W8 FAIL; reward OPEN",
     "combat_event": "NO REQUIRED COMBAT",
     "result": "",
     "illi_credits_earned": 0,
-    "purchase": "Absorption Shield \u2192 Red (White Legacy 55%)",
-    "purchase_cost": 9350,
+    "purchase": "",
+    "purchase_cost": 0,
     "illi_running_balance": 42,
     "duration_block": "",
-    "author_notes": "Reserved negative space for recovery, relationships, city life, raeon, Prism, royal/family obligations, shopping, highlights, or later story beats."
+    "author_notes": "CSR exact purchase day O2D3 LOCKED;61017 Kira-specific cost, not charged to illi ledger. Early illi Solo milestone explicit but optional credits remain OPEN and unbooked."
   }
 ]

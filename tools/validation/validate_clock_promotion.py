@@ -10,6 +10,10 @@ import json
 import subprocess
 
 from validate_promotions import audit_promotions
+from validate_red_orange_reconciliation import (
+    SOURCE as RECONCILIATION_SOURCE, BASELINE as RECONCILIATION_BASELINE,
+    validated_replacements as reconciliation_replacements,
+)
 
 PREFIX = 'provenance/diplomatic-pouch-r2-r3/'
 CLOCK = 'world-clock/WORLD_CLOCK_TEMPLATE.csv'
@@ -17,6 +21,19 @@ PROSE = {'live-model/PRISM.md', 'builder/COMMUNITY.md',
          'world-clock/ARC5_DIRECTOR_CALENDAR.md'}
 OLD = 'Every day at 25:00 (voluntary; implicit baseline)'
 NEW = 'Every day at 27:00 (voluntary; implicit baseline)'
+REPAIR_PREFIX = 'provenance/diplomatic-pouch-2026-10-08/'
+REPAIR_CALENDAR_PROSE = {
+    'world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md',
+    'world-clock/ARC3_ORANGE_CALENDAR.md',
+}
+
+
+def check_calendar_annotation(path, before, after):
+    """Later author annotations preserve every byte of the minimum scaffold."""
+    if path not in REPAIR_CALENDAR_PROSE:
+        raise ValueError('Unapproved calendar annotation: ' + path)
+    if not after.startswith(before) or after == before:
+        raise ValueError('Calendar annotation must append to the intact source: ' + path)
 
 
 def check_clock_bytes(before, after):
@@ -60,10 +77,31 @@ def validated_replacements(root):
         raise ValueError('Missing explicit R2/R3 replacement records')
     def old(path):
         return subprocess.check_output(git + ['show', manifest['baseline_commit'] + ':' + path])
-    check_clock_bytes(old(CLOCK), (root / CLOCK).read_bytes())
+    # The R2/R3 timestamp remains exact at its successor baseline. The later
+    # author correction independently validates only selected Red/Orange cells.
+    reconciled = (root / (RECONCILIATION_SOURCE + 'ORANGE_W1_W4.md')).exists()
+    current_replacements = reconciliation_replacements(root) if reconciled else set()
+    clock_bytes = (subprocess.check_output(git + ['show', RECONCILIATION_BASELINE + ':' + CLOCK])
+                   if reconciled else (root / CLOCK).read_bytes())
+    check_clock_bytes(old(CLOCK), clock_bytes)
     for path in PROSE:
         check_prose_bytes(path, old(path), (root / path).read_bytes())
-    return set(PROSE)
+    replacements = set(PROSE) | current_replacements
+    repair_path = root / (REPAIR_PREFIX + 'INTEGRATION.json')
+    if repair_path.exists():
+        repair = json.loads(repair_path.read_text(encoding='utf-8-sig'))
+        source = REPAIR_PREFIX + 'package/arc1-arc2-repair/package/REPAIR_DELTA.md'
+        if REPAIR_CALENDAR_PROSE & repair['changed_paths'].keys():
+            if ('diplomatic-pouch-2026-10-08' not in {r['id'] for r in audited['reports']}
+                    or source not in audited['source_paths']
+                    or not REPAIR_CALENDAR_PROSE <= repair['changed_paths'].keys()):
+                raise ValueError('Calendar annotations require the complete registered repair source')
+            if not reconciled:
+                for path in REPAIR_CALENDAR_PROSE:
+                    before = subprocess.check_output(git + ['show', repair['baseline_commit'] + ':' + path])
+                    check_calendar_annotation(path, before, (root / path).read_bytes())
+            replacements.update(REPAIR_CALENDAR_PROSE)
+    return replacements
 
 
 def current_clock_baseline(root, historical_rows):

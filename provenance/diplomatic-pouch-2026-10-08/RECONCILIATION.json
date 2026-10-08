@@ -1,0 +1,37 @@
+{
+  "status": "ALL_PREPUBLICATION_CHECKS_PASS",
+  "baseline": "d2e6a9eded93b0cc4061952a8e381875f06d86c9",
+  "source": "provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/",
+  "source_manifest": "7/7 PASS",
+  "decisions": 53,
+  "resolved_blocker": "O4D2 Red repeats pay0; Black Orchard3750 only.",
+  "current_arc3_gross": {
+    "illi": 56385,
+    "kira": 81415
+  },
+  "current_purchase_dates": {
+    "PC_Blue_White_Legacy": "O1D3",
+    "Absorption_Red": "O2D2",
+    "CSR": "O2D3"
+  },
+  "previous_local_audit": "pre-reconciliation-audit/COMPLETION_REPORT.md",
+  "remaining_open": [
+    "R1D2/R1D3 paid-combat RECOVERY_GAP.",
+    "Optional illi Solo exact credits, including O2D3 W7 clear/W8 fail; unsupplied later optional results and O3D4 frontier.",
+    "Full actual wallets, discretionary spending and contextual domai payout/conquest timing.",
+    "Recurring male leader name (Jaeren rejected); Kaevren house/surname/appearance/build/reconciliation; exact shop/venue names.",
+    "First-domai overnight staging; Weaver alloy; qualified social attendance/times and all compatible later OPENs."
+  ],
+  "validators": {
+    "original_repository_routes": "10/10 PASS",
+    "red_orange_reconciliation": "PASS",
+    "authoring": "PASS",
+    "unit_tests": "25/25 PASS",
+    "critical_assertions": 33,
+    "required_local_checks": "25/25 PASS",
+    "active_broken_links": 0,
+    "whitespace": "PASS"
+  },
+  "historical_audits_preserved": true,
+  "publication_note": "This versioned report records the validated precommit tree. Commit SHA and fetched post-push verification are recorded in the delivery receipt after publication."
+}

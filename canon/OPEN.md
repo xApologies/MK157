@@ -33,7 +33,7 @@ Diplomatic Pouch 01 supplies the Arc One narrative through Champion dinner/Highl
 
 ## Arc One promotion — remaining precision
 
-Rival name/appearance/exact build/final reconciliation, W9 kill counts, Elara's “Curious.” meaning, microscopic biology, exact inexpensive outfit price and whether it is purchased, and public Highlights' treatment of graphic death remain OPEN. Rough 100–200-credit clothing, roughly 15 experiential seconds returning from death and the roughly 11–17 culturally expected Afflicted lifespan retain their approximate author scope. No new Node/UI rules or chapter boundaries are supplied. [Promotion and temporal conflict](../live-model/OPEN.md#diplomatic-pouch-01--arc-one-promotion).
+Kaevren’s house/surname, appearance/exact build/final reconciliation, W9 kill counts, Elara's “Curious.” meaning, microscopic biology, exact inexpensive outfit price and whether it is purchased, and public Highlights' treatment of graphic death remain OPEN. Rough 100–200-credit clothing, roughly 15 experiential seconds returning from death and the roughly 11–17 culturally expected Afflicted lifespan retain their approximate author scope. No new Node/UI rules or chapter boundaries are supplied. [Promotion and temporal conflict](../live-model/OPEN.md#diplomatic-pouch-01--arc-one-promotion).
 
 ## Factual ownership
 
@@ -80,6 +80,16 @@ The existing R1D2 shared Duo versus post-R1D3-Solo friendship dinner remains a c
 
 New/current qualifications: property inheritance/availability/auction lifecycle WORKING, exact legal process OPEN; daily raeon top-six payouts WORKING, inventor/history and bracket algorithm/size OPEN; Prism A–D ordinary / Instance-A championship schedule WORKING, exact payout, ticket sale/auction mix and guest capacity OPEN; callsigns and Builder UI/ranking OPEN. Dinner/sleep/wake are cultural ranges, Highlights end ~28:30 WORKING; start 27:00 is LOCKED.
 
-R2D5 scene and possible rival exchange, R2D7 3h15-per-clear and whole-operation/private intervals retain WORKING qualifications. No exact healing ratio, leader/rival name, next-wave death depth or mandatory incidental activity is supplied. R3 cavern layout is WORKING; exact dated A/B boss allocations and extra-clear dates remain OPEN. Additional Red+Orange 6,250 each is conditional wallet surplus, not booked income; actual wallets await chapter outlining. Raid equipment remains unspecified; no extra add-spawn requirement or aggro/taunt is introduced.
+R2D5 scene and possible rival exchange, R2D7 3h15-per-clear and whole-operation/private intervals retain WORKING qualifications. No exact healing ratio, leader name, next-wave death depth or mandatory incidental activity is supplied. The October 8 author lock resolves the rival’s personal name as Kaevren; his house/surname remains OPEN. R3 cavern layout is WORKING; dated A/B allocations and extra-clear dates were OPEN at that source revision; the October 8 overlay now supplies R3D2 Fire Dragon, R4D5 Burrower, R6D6 Coherence Twins and O1D6 Sixfold/Triumvirate, with O4D2 now explicitly Black Orchard3,750 only and unpaid Red repeats under the cumulative correction. Additional Red+Orange 6,250 each is conditional wallet surplus, not booked income; actual wallets await chapter outlining. Raid equipment remains unspecified; no extra add-spawn requirement or aggro/taunt is introduced.
 
 [Source decisions](../provenance/diplomatic-pouch-r2-r3/INTEGRATION.json); [36-decision reverse diff](../provenance/diplomatic-pouch-r2-r3/REVERSE_DIFF.csv).
+
+## October 8 — remaining author decisions
+
+Resolved personal names: Maelor, Naira, Caelen, Vaedren and Laina in Kira’s household; Kaevren as the prepared landed-noble rival. Kaevren’s house/surname, appearance/build/kill totals and ultimate reconciliation remain OPEN. The male recurring Dungeon leader stays unnamed; Jaeren is rejected. Shop 007 is the bookstore; southern festival grounds survive as 008 with prior WORKING status. Exact shop/venue names are not invented.
+
+R2D5 is a poor W2 run, not a ceiling; R4D1 may reach Orange pressure beyond the minimum W3 accounting. Exact optional Solo results/credits, including R6D4/R7D5/O1D4 ideas, remain OPEN. No numeric PC healing ratio or early Directed Coherence ownership follows. Household attendance and approximate clock/duration suggestions retain their source qualifications; chapter count stays OPEN. R5D1 departure wording must not evade the one-full-day same-domai exit/death lockout; exact overnight staging remains OPEN.
+
+Orange Raid mechanisms are locked, but Weaver material is OPEN; dimensions are approximate. No unsupplied later boss clear or ordinary-eldris species is created. Existing Arc-One R1D2/R1D3 paid-combat RECOVERY_GAP persists.
+
+**Resolved by the cumulative correction:** O1D6 pays both Normal Reds; O4D2 Red repeats pay0 and Black Orchard pays3,750 only. The corresponding current Arc Three gross is56,385 illi/81,415 Kira. PC Blue/White Legacy O1D3, Absorption O2D2 and CSR O2D3 are explicit. Full actual wallets, contextual domai and optional Solo credits remain OPEN. The original R1D2/R1D3 RECOVERY_GAP remains unresolved.

@@ -1,0 +1,70 @@
+{
+  "result": "BLOCKED_PENDING_AUTHOR",
+  "checks": [
+    {
+      "check": "family names are in authoritative current owner, not provenance only",
+      "status": "PASS"
+    },
+    {
+      "check": "Kaevren replaces unnamed rival where appropriate without invented surname",
+      "status": "PASS"
+    },
+    {
+      "check": "recurring Dungeon leader remains unnamed/open",
+      "status": "PASS"
+    },
+    {
+      "check": "illi bow baseline is current-owner recoverable",
+      "status": "PASS"
+    },
+    {
+      "check": "R2D5 bad-run notes remain intact",
+      "status": "PASS"
+    },
+    {
+      "check": "R4D5 Burrower bonus does not move Binding dates",
+      "status": "PASS"
+    },
+    {
+      "check": "Red W3–W7 social overlay is recoverable",
+      "status": "PASS"
+    },
+    {
+      "check": "domai R5D1–D3 respects one-full-day same-domai lockout",
+      "status": "PASS"
+    },
+    {
+      "check": "007 bookstore unique; Opening Celebration venue renumbered and references updated",
+      "status": "PASS"
+    },
+    {
+      "check": "O1D6 = Sixfold + Triumvirate clears, Black Orchard fail; minimum ledger still books only required Red-A unless actual-wallet ledger is explicitly added",
+      "status": "BLOCKED"
+    },
+    {
+      "check": "Orange-season six-boss roster recoverable from current owner",
+      "status": "PASS"
+    },
+    {
+      "check": "no threat/aggro mechanic introduced",
+      "status": "PASS"
+    },
+    {
+      "check": "raid constructs not exported as ordinary eldris",
+      "status": "PASS"
+    },
+    {
+      "check": "optional illi Solo credits not guessed",
+      "status": "PASS"
+    },
+    {
+      "check": "Arc-One R1D2/R1D3 RECOVERY_GAP remains explicit",
+      "status": "PASS"
+    },
+    {
+      "check": "later arc canon preserved.",
+      "status": "PASS"
+    }
+  ],
+  "evidence": "Current owners reviewed against source,65-decision reverse diff,location/reward audits,byte preservation,10 repository validators,authoring audit,19 tests and33 critical assertions."
+}

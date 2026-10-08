@@ -5,6 +5,10 @@ import csv
 import hashlib
 import json
 from pathlib import Path
+import sys
+sys.dont_write_bytecode = True
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools" / "validation"))
+from validate_red_orange_reconciliation import validated_replacements as reconciliation_replacements
 import re
 import subprocess
 
@@ -143,6 +147,7 @@ def audit(root):
     families=Counter(r['role_family'] for r in js('builder/paths/PATHS.json'))
     require(families=={'Combat Medic':30,'Augmenter':45,'Maege':65,'Summoner':60},'Builder paths reclassified')
     protected=[]
+    reconciled=reconciliation_replacements(root)
     for p,h in before['sha256'].items():
         keep=(p.startswith(('provenance/','prior-checkpoint-source/','bindings/','summons/','trial-rewards/','builder/encounters/'))
               or (p.startswith('builder/paths/') and not p.endswith('/README.md'))
@@ -150,7 +155,7 @@ def audit(root):
               or bool(re.fullmatch(r'live-model/\d+_CHECKPOINT_.*\.md',p))
               or p=='live-model/ELDRIS_REFERENCE.md'
               or p in ['world-clock/'+n for n in ('WORLD_CLOCK_TEMPLATE.csv','PRISM_TEAM_TRACKER.csv','ILLI_PROGRESSION_SKELETON.csv','ILLI_PROGRESSION_SKELETON.json','ILLI_AUTHOR_PROGRESSION_LEDGER.csv','ILLI_AUTHOR_PROGRESSION_LEDGER.json','RED_TO_ORANGE_COMBAT_CALENDAR.csv','RED_TO_ORANGE_COMBAT_CALENDAR.json','ARC3_ORANGE_CALENDAR.csv','ARC3_ORANGE_CALENDAR.json','ARC4_YELLOW_COMBAT_CALENDAR.csv','ARC4_YELLOW_COMBAT_CALENDAR.json')])
-        if keep and p not in {'trial-rewards/README.md', 'combat-rewards/COMBAT_REWARD_TABLES.json', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/validate_rewards.py', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'bindings/PRICING_MODEL.md', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}:
+        if keep and p not in reconciled and p not in {'trial-rewards/README.md', 'combat-rewards/COMBAT_REWARD_TABLES.json', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/validate_rewards.py', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'bindings/PRICING_MODEL.md', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}:
             require(sha(p)==h,'Protected baseline bytes changed: '+p);protected.append(p)
     # The exact late-cycle carry section must survive, not merely its title.
     old_partner=subprocess.check_output(['git','-c',f'safe.directory={root.as_posix()}','show',before['baseline_commit']+':live-model/PARTNERSHIP_AND_CARRY.md'],cwd=root).decode('utf-8')

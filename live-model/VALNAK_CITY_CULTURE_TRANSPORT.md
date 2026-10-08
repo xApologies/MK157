@@ -301,7 +301,7 @@ Available palette: Tea Parties; **one seasonal Gala per season**; residence Buil
 
 ## Arc One R2 — recurring city locations
 
-The [registry](../visual-references/CITY_LOCATION_REGISTRY.csv) preserves 001/001-A/001-B and adds the supplied 002–007 rows. 002 is the LOCKED Genesis Card flagship adjacent to 001. WORKING locations: 003 general clothing north-central main island; 004 abecca immediately west of 002; 005 family smithy on Craftsman's Row island; 006 formalwear north-central dense district, distinct from 003; 007 principal festival grounds on the southern lobe. Unnamed shops/venues stay unnamed. These are place markers, not new map pixels or invented coordinates.
+The [registry](../visual-references/CITY_LOCATION_REGISTRY.csv) preserves 001/001-A/001-B and retains the R2 additions, with the former 007 venue now 008 and the new 007 bookstore. 002 is the LOCKED Genesis Card flagship adjacent to 001. WORKING locations: 003 general clothing north-central main island; 004 abecca immediately west of 002; 005 family smithy on Craftsman's Row island; 006 formalwear north-central dense district, distinct from 003; 008 principal festival grounds on the southern lobe (renumbered from 007 by the October 8 author correction). Unnamed shops/venues stay unnamed. These are place markers, not new map pixels or invented coordinates.
 
 ### Frosted abecca
 
@@ -316,7 +316,7 @@ Kira's father owns a permanent Valnak smithy on Craftsman's Row. Father + brothe
 
 ### Opening Celebration
 
-R1D7 fills an existing recovery/social OPEN row with the end-of-first-week celebration, not required combat. It is citywide, with 007 the principal outdoor hub: music/concerts, food/drinks/alcohol, dancing, performances, social areas, quiet gardens/edges and possible Transductive spectacle. Only a short formal welcome is required. Ordinary capacity-controlled tickets are desirable, sell quickly and are meaningful early-cycle expenses. Current Top 10 Solo, Duo and Trio standings receive invitations: Kira qualifies via Solo; Kira+illi via Duo. This does not book a Trio. illi guides Kira through her first major high-visibility formal event after BLACKOUT.
+R1D7 fills an existing recovery/social OPEN row with the end-of-first-week celebration, not required combat. It is citywide, with 008 the principal outdoor hub: music/concerts, food/drinks/alcohol, dancing, performances, social areas, quiet gardens/edges and possible Transductive spectacle. Only a short formal welcome is required. Ordinary capacity-controlled tickets are desirable, sell quickly and are meaningful early-cycle expenses. Current Top 10 Solo, Duo and Trio standings receive invitations: Kira qualifies via Solo; Kira+illi via Duo. This does not book a Trio. illi guides Kira through her first major high-visibility formal event after BLACKOUT.
 
 [Flagship 001 operations](RAEON.md#arc-one-r2--flagship-play-and-ownership); [002 gallery](GENESIS_CARDS.md#arc-one-r2--location-002-and-early-fireball-interest); [supplied spaces](../provenance/diplomatic-pouch-arc1-r2/package/07_SOCIAL_SPACES_AND_CARDS.md).
 
@@ -343,3 +343,11 @@ Kira's lush volcanic-island beachfront residence is an addressable off-map resid
 
 
 [Approved R2/R3 source](../provenance/diplomatic-pouch-r2-r3/package/CITY_STACK.md).
+
+## October 8 — bookstore and venue serials
+
+**007 is the bookstore — LOCKED**, northeast/right of 003 in the north-central built-up district, as marked on the [supplied overlay](../visual-references/VALNAK_MAP_007_BOOKSTORE.jpeg). Its exact shop name remains OPEN. R6D4 lunch/bookstore follows PC Green and any optional Solo whose exact reward remains OPEN.
+
+The southern Opening Celebration / civic festival grounds are preserved as **008**; the serial was unused when audited. This changes the location ID and its references, not the venue, R1D7 celebration, geography or WORKING status. Older 007 venue references in provenance are historical. Existing base-map pixels remain untouched; this is a separate author-supplied marker overlay.
+
+005 remains the family smithy on Craftsman’s Row: Maelor, Caelen and Vaedren work on its smithing side. Naira is not a blacksmith. See [household](01_KIRA.md#october-8--household-and-rival) and [source](../provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md#007-collision).

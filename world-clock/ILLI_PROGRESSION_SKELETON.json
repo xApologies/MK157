@@ -38,7 +38,7 @@
   {
     "season": "Orange",
     "week": 1,
-    "day": 4,
+    "day": 3,
     "binding": "Persistent Coherence",
     "event": "Rank",
     "result": "Blue",
@@ -47,7 +47,7 @@
   {
     "season": "Orange",
     "week": 1,
-    "day": 4,
+    "day": 3,
     "binding": "White Legacy",
     "event": "Accept",
     "result": "Accepted",
@@ -56,11 +56,11 @@
   {
     "season": "Orange",
     "week": 2,
-    "day": 3,
+    "day": 2,
     "binding": "Absorption Shield",
     "event": "Acquire",
     "result": "Red",
-    "note": "Intentionally deferred after acquisition."
+    "note": "Immediate same-day purchase after Duo W10; White Legacy celebration."
   },
   {
     "season": "Yellow",

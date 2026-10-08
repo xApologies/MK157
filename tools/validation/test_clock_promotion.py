@@ -3,6 +3,7 @@ import io
 import unittest
 
 from validate_clock_promotion import OLD, NEW, check_clock_bytes, check_prose_bytes
+from validate_clock_promotion import check_calendar_annotation, REPAIR_CALENDAR_PROSE
 
 
 class ClockPromotionTests(unittest.TestCase):
@@ -42,6 +43,22 @@ class ClockPromotionTests(unittest.TestCase):
             check_prose_bytes(path, b'25:00; fixed combat', b'27:00; moved combat')
         with self.assertRaises(ValueError):
             check_prose_bytes('combat-rewards/RAID_BOSS_REWARDS.csv', b'old', b'old new')
+
+    def test_repair_cannot_rewrite_prior_calendar_prose(self):
+        before = b'Minimum balance 952; purchase 25705\r\n'
+        for path in REPAIR_CALENDAR_PROSE:
+            check_calendar_annotation(path, before, before + b'Explicit later annotation\r\n')
+            for after in (before, before.replace(b'952', b'3452') + b'annotation',
+                          before.replace(b'\r\n', b'\n') + b'annotation'):
+                with self.subTest(path=path, after=after), self.assertRaises(ValueError):
+                    check_calendar_annotation(path, before, after)
+
+    def test_repair_does_not_exempt_calendar_data_or_other_prose(self):
+        for path in ('world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv',
+                     'world-clock/ARC3_ORANGE_CALENDAR.json',
+                     'world-clock/ARC6_DIRECTOR_CALENDAR.md'):
+            with self.subTest(path=path), self.assertRaises(ValueError):
+                check_calendar_annotation(path, b'original', b'original annotation')
 
 
 if __name__ == '__main__':

@@ -252,7 +252,7 @@ Current [illi schedule](../live-model/ILLI_PROGRESSION.md) follows prerequisite-
 
 The [illi progression-cost ledger](ILLI_AUTHOR_PROGRESSION_LEDGER.csv) adds exact costs to the same 17 dates, totaling 250,884 credits of progression spend by Violet W2 D2. These minimum progression-capital breakpoints constrain future authored Trials, Dungeons, Hard Dungeons, Raids and Valnak domai placement. [Normal Dungeon doctrine](../live-model/NORMAL_DUNGEONS.md) adds R→W scale/runtime targets, pre-populated encounters and the White completion base. Checkpoint 18 now supplies the separate 59-day combat scaffold; standing events, character dates, discretionary lives and Project Princess Carry remain unchanged.
 
-[Checkpoint 18 combat calendar](../live-model/25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) governs the 59 supplied Red→O2D3 rows, retaining 21 NO REQUIRED COMBAT days and all milestone dates. Starter grant 2,000; illi combat income 52,695 through O2D2; PC Blue/Legacy leaves 952 at O1D4 and Absorption Red leaves 42 at O2D3. Discretionary spending and later income remain separate/OPEN.
+The current [Red→Orange calendar](RED_TO_ORANGE_COMBAT_CALENDAR.md) preserves59 rows,21 NO REQUIRED COMBAT days,2,000 grant and52,695 minimum illi income. The explicit cumulative correction buys PC Blue/White Legacy O1D3 (25,705; balance952) and Absorption Red O2D2 (9,350; balance42). Optional Solo rewards and full wallets remain OPEN; later milestone dates/costs are unchanged.
 
 ## Checkpoint 19 — character tournament synchronization
 

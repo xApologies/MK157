@@ -3,6 +3,10 @@ import argparse
 import hashlib
 import json
 from pathlib import Path
+import sys
+sys.dont_write_bytecode = True
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools" / "validation"))
+from validate_red_orange_reconciliation import validated_replacements as reconciliation_replacements
 import subprocess
 
 BASELINE='ca6481ec0bb0bd6baf7c9d6a63d53dfb6902c02d'
@@ -60,7 +64,7 @@ def audit(root):
         'binding_rank_progression_financing_allowed':False,'indirect_progression_shortcuts_allowed':False,
         'enforcement_ui_limits':'OPEN'}, 'Gift/progression firewall mismatch')
     require(handoff['domai_payout']=='OPEN BY DESIGN' and 'OPEN' in handoff['foundation_patent_royalty_rules'], 'OPEN scoring/legal boundary lost')
-    require(handoff['preserved_orange_gross']=={'illi':58885,'kira':83915}, 'Orange gross changed')
+    require(handoff['preserved_orange_gross']=={'illi':56385,'kira':81415}, 'Orange gross changed')
 
     protected=['world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv','world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json',
        'world-clock/ARC3_ORANGE_CALENDAR.csv','world-clock/ARC3_ORANGE_CALENDAR.json',
@@ -71,12 +75,14 @@ def audit(root):
        'combat-rewards/COMBAT_REWARD_TABLES.json','combat-rewards/DOMAI_PARTICIPATION_RULES.json',
        'bindings/PRICING_CLASS_MATRIX.json','live-model/AITHREN_VAELUM_ACCORD.md']
     protected=[p for p in protected if p not in {'trial-rewards/README.md', 'combat-rewards/COMBAT_REWARD_TABLES.json', 'combat-rewards/DOMAI_PARTICIPATION_RULES.json', 'combat-rewards/validate_rewards.py', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json', 'world-clock/WORLD_CLOCK_TEMPLATE.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.csv', 'world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv', 'world-clock/ILLI_PROGRESSION_SKELETON.json'}]
-    for path in protected: require((root/path).read_bytes()==old(path), 'Protected file changed: '+path)
+    reconciled=reconciliation_replacements(root)
+    for path in protected:
+        if path not in reconciled: require((root/path).read_bytes()==old(path), 'Protected file changed: '+path)
     source=read('provenance/checkpoint-20-package/CHECKPOINT20_LIVE_MODEL_DELTA.md')
     require(read('live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md').endswith(source), 'Exhaustive author delta not retained')
     # These are documentation requirements, not substitute claims of economic solvency or legal implementation.
     content={
-      'world-clock/ARC4_HANDOFF.md':['not acquired at Y1D2','86,000','73,044','2,085','funding remains OPEN',
+      'world-clock/ARC4_HANDOFF.md':['not acquired at Y1D2','86,000','73,044','4,585','funding remains OPEN',
         'first of the pair','illi remains Orange-cleared','omniscient','seven-day','inside Arc Four'],
       'live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md':['**`abecca`**','A-B-E-C-C-A','around', 'Tea House','Tea Party',
         'charity/foundation','age 17','marriage','merchant','research','royalties','public','patent','OPEN',

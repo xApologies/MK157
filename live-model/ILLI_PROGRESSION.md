@@ -25,7 +25,7 @@ Desired end-state:
 PC White; Absorption White; Genesis Beam may remain Green; Genesis Prime White; Coherence Prime White; Resonance Prime/Juggernaut White.
 Exact rank dates after B6D3 remain OPEN pending later Arc Seven development.
 
-[Exact 19-event CSV](../world-clock/ILLI_PROGRESSION_SKELETON.csv) and [JSON](../world-clock/ILLI_PROGRESSION_SKELETON.json) lock milestones through B6D3. The first 13 events through G6D2 are unchanged. Genesis Prime O/Y now precede graduation, followed by Absorption O/Y/G and Resonance Prime Red; later rank dates remain OPEN.
+[Exact 19-event CSV](../world-clock/ILLI_PROGRESSION_SKELETON.csv) and [JSON](../world-clock/ILLI_PROGRESSION_SKELETON.json) lock milestones through B6D3. The first13 events retain their amounts/order, with the explicit October8 PC Blue/Legacy O1D3 and Absorption O2D2 date correction; later dates are unchanged. Genesis Prime O/Y now precede graduation, followed by Absorption O/Y/G and Resonance Prime Red; later rank dates remain OPEN.
 
 All list prices and existing compressed Prime gates remain. Prequalification Persistent Coherence is full-price; after accepted White Legacy, approved package purchases/ranks pay 55% under HALF_UP. Prerequisite availability, affordability and chosen purchase timing are separate.
 
@@ -33,11 +33,11 @@ All list prices and existing compressed Prime gates remain. Prequalification Per
 
 The [17-event cost ledger CSV](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) and [JSON](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.json) add exact transaction costs and cumulative progression expenditure to the existing locked milestones. All dates remain unchanged. Final cumulative progression spend at Violet W2 D2 is **250,884 credits**. This is expenditure, not bank balance or gross earnings; discretionary spending remains outside the ledger. It supplies minimum progression-capital breakpoints for future authored content, without assigning later rank dates.
 
-[Checkpoint 18 combat calendar](25_CHECKPOINT_18_MASTER_LIVE_MODEL.md) governs the 59 supplied Red→O2D3 rows, retaining 21 NO REQUIRED COMBAT days and all milestone dates. Starter grant 2,000; illi combat income 52,695 through O2D2; PC Blue/Legacy leaves 952 at O1D4 and Absorption Red leaves 42 at O2D3. Discretionary spending and later income remain separate/OPEN.
+The current [Red→Orange calendar](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) preserves59 rows,21 NO REQUIRED COMBAT days,2,000 grant and52,695 minimum illi income. The explicit cumulative correction buys PC Blue/White Legacy O1D3 (25,705; balance952) and Absorption Red O2D2 (9,350; balance42). Optional Solo rewards and full wallets remain OPEN; later milestone dates/costs are unchanged.
 
 ## Checkpoint 19 — Orange income and unchanged Beam milestone
 
-Arc Three O2D4–O7D7 earns illi **58,885 deterministic gross** with no Solo income; successful-domai contribution and discretionary card spending remain OPEN. Reserve **6,050 for Genesis Beam Red at Yellow W1 D2**, using the existing 55% White-Legacy cost. Earlier affordability does not trigger earlier purchase. All 17 dates and the 250,884 progression-spend ledger remain unchanged. [Arc Three calendar and audit](../world-clock/ARC3_ORANGE_CALENDAR.md) preserve the distinction between gross income and actual balance.
+Current Arc Three O2D4–O7D7 earns illi **56,385 deterministic gross**, with no booked optional Solo income. Reserve6,050 for Y1D2 Beam Red; earlier affordability does not advance that date. Current19-event progression remains292,772 through B6D3, with only the two early purchase dates explicitly corrected. Contextual domai, discretionary spending and full bank balance remain OPEN. [Current calendar](../world-clock/ARC3_ORANGE_CALENDAR.md).
 
 ## Checkpoint 20 — illi as the arc clock
 
@@ -98,3 +98,19 @@ From B6D3, remaining cost to intended first White-Legacy endpoint = **9,513,297*
 Target: Persistent Coherence White / Absorption White / Genesis Prime White / Coherence Prime White / Resonance Prime White; Genesis Beam may remain Green.
 After completion a second White path becomes available: **Decoherence**.
 Elara asks illi not to accept/start it this cycle. illi agrees. No mechanical block and no stripping of her legitimate first White Legacy.
+
+## October 8 — early bow, Coherence and Solo scope
+
+illi enters Valnak already competent with a conventional bow, her principal early offensive equipment while Persistent Coherence is her only Binding. Competent does not mean legendary; no new Binding, named bow or price is supplied. Bow + PC + simulated formation explains early Solo. Successful ranged kills reduce incoming pressure; misses and poor awareness can cascade. Later Bindings reduce bow centrality without erasing the bow.
+
+illi intentionally deepens PC: ranked sustained healing is fatigue-efficient. Directed Coherence is stronger acute intervention but costly when spammed; it is a comparison, not early ownership of an extra Binding. Better PC keeps her simulated formation alive longer and frees attention without making her personally strong at combat. Equal wave populations can present variable spawn geometry/organization; no fixed heal-ratio or altered population table follows.
+
+R2D5 is an intentional bad run, not a W2 capability ceiling: W2 clear/booked140 survives the tunnel-vision/flank/panic/death/frustration scene. R4D1’s old W3 wording is not a ceiling either; the author now describes a decent run into Orange pressure. The existing255 is the minimum scaffold’s booked W1–W3 sum, not a newly asserted complete actual payout. Exact optional depth/results/reward and any excess above that minimum remain OPEN. Later optional Solos may push deeper Orange as PC improves. R6D4 top-off, R7D5’s possible two attempts and O1D4 optional top-off acquire no guessed earnings, attendance or changed purchase dates.
+
+[Author locks](../provenance/diplomatic-pouch-2026-10-08/package/package/00_CONFLICTS_AND_LOCKS.md#illi-solo); [character source](../provenance/diplomatic-pouch-2026-10-08/package/package/01_CHARACTER_SOCIAL.md); [exact existing Trial rows](../trial-rewards/TRIAL_WAVE_CREDITS.csv).
+
+## October 8 cumulative — early Orange purchase correction
+
+**O1D3:** Duo W10, then immediate PC Blue/White Legacy acceptance:24,707+1,950=26,657; minus25,705 leaves**952**. O1D4 has no required purchase/combat and hosts recognition/royal aftermath. **O2D2:** Duo W10, then immediate Absorption Red:7,442+1,950=9,392; minus9,350 leaves**42**; major White-Legacy celebration. These replace O1D4/O2D3 dates everywhere in current ledgers; all19 events and292,772 total spend survive, with all later dates/costs unchanged.
+
+**O2D3 early optional Solo: W7 CLEAR/W8 FAIL; exact optional credits OPEN.** Do not calculate a new booked payout. O3D4 illi Solo frontier establishes no new validated milestone. R2D5 remains bad-run W2/140, never a ceiling. [Author correction](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md).
