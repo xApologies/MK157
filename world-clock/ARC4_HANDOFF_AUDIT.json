@@ -370,17 +370,17 @@
     }
   ],
   "sha256": {
-    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "056532016144fa8f1afccbc6a03c8f4853fecb128cf67c86e317795c2dfdd440",
-    "live-model/01_KIRA.md": "f2adb4b7427f33abdf0dfa27fa91a5af78fd5fe8c18b167a9ef750ee12665cf9",
+    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "a8029500a2c367e35929e2a784c7c481a882c51a6fc247a9e43af29edc0afb80",
+    "live-model/01_KIRA.md": "d2791c88510bc61cc0a3c870e1eebfc7270772f696e72b2bdfc3c28404a56c60",
     "live-model/27_CHECKPOINT_20_SOCIAL_LIFE_ARC4.md": "686a9461fd24c885596bc8f364774f006903ec5448011de1fa4e9a734b996a41",
     "live-model/DOMAI_PARTICIPATION.md": "195251e73ebf449cf819ad2125ce7da255ec93e7ec8a1436fdd8788dc0fab102",
-    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "632898c2987f076b1cea0d1701facdcb4ba523a2dbeb541cbc333966243e24bf",
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": "65ce6c094a085d7274ae346ed55681510bdde546858b3248b80a3352d1e9a7da",
     "live-model/GENESIS_CARDS.md": "a62215834f75af9ceb11d06484669c89ce89e8e72c1fb1a7439ac7b44ff97d12",
     "live-model/ILLI_PROGRESSION.md": "597f08c143ec7399b1058d76f606a96ca75f1cecdc83a096caa96cbacf4460e0",
-    "live-model/OPEN.md": "186db91e16bb3aa0ceb0b32eb59c89db6d8315ae59c14fa8937bf98a14a4b160",
+    "live-model/OPEN.md": "1e5301c63b48abbf98dc395ee629710d1d66522db261fd866b1e92bf40be3c3a",
     "live-model/SOCIAL_LIFE_AND_FOUNDATIONS.md": "a90f44de5acf9cada1e92a7efe51f52d5aedd4b2291a3febe45afb3784cb0d0d",
     "world-clock/ARC4_HANDOFF.json": "564e7d67172cc1ae1a4c31c38a43f295eeef37e25c2ff5a790b509685efba998",
     "world-clock/ARC4_HANDOFF.md": "b648ad9d35af9368dcf3d2780bb9d3f5b295907ebb7543720987eb8292234749",
-    "world-clock/validate_arc4_handoff.py": "a919487dbb5da68ab6ebd145ff8fd91311de2663de166118d4ec9a775b53e54d"
+    "world-clock/validate_arc4_handoff.py": "69d598867f731a848cf6df50b138e7838b79cec66ddb55c79e5809a80f7f9c36"
   }
 }

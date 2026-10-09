@@ -19,7 +19,7 @@ The initial evaluation offers five ordinary directions plus unprecedented Black 
 
 | System | Acquisition scope | Competency boundary |
 |---|---|---|
-| Armor of the Abyss | Entry/Red; approximately 1,000-credit anomaly, separate from the 2,000 grant | Restoring armor does not heal her body; initial brawler |
+| Armor of the Abyss | Entry/Red; exactly 2,000 credits, consuming the 2,000 grant; post-Armor zero | Restoring armor does not heal her body; initial brawler |
 | CSR, Continuous Spatial Resolution | O2D3 purchase LOCKED;61,017 | Repositioning and escape from lock-down, not mass-clear |
 | Genesis Orbs | Y6D2; 61,017 | Acquisition opens a poorly understood system |
 | Halo | B1D5; 61,017 | Purchase does not establish mastery; final color OPEN |
@@ -97,6 +97,6 @@ Maelor/Naira are Kira’s parents; Caelen/Vaedren her older brothers; Laina her 
 
 ## October 8 full repair
 
-The [full-repair source](../../provenance/live-model-full-repair-2026-10-08/package/EXECUTABLE.md) reconciles stale Red/Orange current-owner text and derived audits. The [Kira ledger](../../world-clock/KIRA_CREDIT_LEDGER.json) independently computes every dated earning through O2D3: 58,705 minimum combat gross + 5,000 authored surplus = **63,705**. The 2,000 entry grant is separate. Known-transaction funds are **65,705 before CSR / 4,688 after its 61,017 cost**, before unquantified Armor and discretionary debits. Exact wallet remains OPEN; approximately 1,000 for Armor is not an exact locked debit. No reward, date, run or funding is invented. [Execution and preservation report](../../provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md).
+The [full-repair source](../../provenance/live-model-full-repair-2026-10-08/package/EXECUTABLE.md) reconciles stale Red/Orange current-owner text and derived audits. The [Kira ledger](../../world-clock/KIRA_CREDIT_LEDGER.json) independently computes every dated earning through O2D3: 58,705 minimum combat gross + 5,000 authored surplus = **63,705**. The initial Armor purchase costs exactly **2,000**, consuming the entire entry grant and leaving **0**. The later explicit Armor correction locks available funds to **63,705 before CSR / 2,688 after its 61,017 cost on O2D3**. These balances are exact; unrelated later spending remains OPEN. No reward, date, run or funding is invented. [Execution and preservation report](../../provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md).
 
 Current Arc Three audit computes 56,385 illi / 81,415 Kira and 12 OPEN rows; Normal Raid income is 3,750 each. Historical numbered checkpoints and provenance retain their original statements as history, not competing current Red/Orange owners. CP25/later-arc authority, required calendars and the opening RECOVERY_GAP remain unchanged.

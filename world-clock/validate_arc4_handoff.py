@@ -47,7 +47,10 @@ def audit(root):
         '4':['illi Genesis Prime Elemental Red at Yellow W6 D3'],
         '5':['illi Coherence Prime Elemental Red at Green W6 D2']}, 'Arc closure mismatch')
     price=js('economy/KIRA_BLACK_ACQUISITION_PRICES.json');old_price=json.loads(old('economy/KIRA_BLACK_ACQUISITION_PRICES.json'))
-    require({k:v for k,v in price.items() if k!='acquisition_dates'}=={k:v for k,v in old_price.items() if k!='acquisition_dates'}, 'Black price data changed beyond timing note')
+    # Apply only the later author-locked initial Armor price to this historical comparison.
+    old_price['armor_of_the_abyss']=2000
+    old_price['armor_price_source']='../provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md'
+    require({k:v for k,v in price.items() if k!='acquisition_dates'}=={k:v for k,v in old_price.items() if k!='acquisition_dates'}, 'Black price data changed beyond timing note and exact initial Armor correction')
     require(price['post_armor_acquisition_prices']==dict.fromkeys(('CSR','Genesis Orbs','Halo','Domain'),61017), 'Black tier repriced')
     require('not Yellow W1 D2' in price['acquisition_dates'] and 'Yellow W6 D2 (Y6D2)' in price['acquisition_dates'], 'Active price record timing stale')
     first=handoff['kira_first_yellow_dungeon']

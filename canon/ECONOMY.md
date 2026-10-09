@@ -9,7 +9,7 @@ All 1,016 Bindings, 229 summoned-entity prices and the nine Prime-price mirrors 
 
 The entry grant is 2,000. Pre-Legacy PC R→Blue costs 45,303 at full price; after acceptance the approved package pays 55% of each ordinary list rank, independently HALF_UP. Do not recursively discount discounted ranks or infer a universal discount for every Legacy. PC and Directed Coherence are Foundational; Coherence Field Common Specialization; Beam Powerful; Absorption and all nine Primes Exceptional. Prime cumulative ordinary R→W list cost is 4,308,616; illi's Red Absorption/each Prime costs 9,350. [Access and discount](../bindings/PRICING_MODEL.md#entry-and-white-legacy).
 
-Kira's approximately 1,000 Armor anomaly remains separate. CSR/Orbs/Halo/Domain cost 61,017 each, with competence/access gates and no ordinary paid ranks. Later selected Black supports use that tier; names/count remain OPEN. The next node's 999,999,999,999 is temporary administrative pricing, not its natural price. [Black prices](../economy/KIRA_BLACK_ACQUISITION_PRICES.json); [Finale support/next-node scope](../live-model/32_CHECKPOINT_25_ARC7_FINALE.md).
+Kira's initial Armor costs exactly 2,000, consuming her 2,000 entry grant and leaving zero. CSR/Orbs/Halo/Domain cost 61,017 each, with competence/access gates and no ordinary paid ranks. Later selected Black supports use that tier; names/count remain OPEN. The next node's 999,999,999,999 is temporary administrative pricing, not its natural price. [Black prices](../economy/KIRA_BLACK_ACQUISITION_PRICES.json); [Finale support/next-node scope](../live-model/32_CHECKPOINT_25_ARC7_FINALE.md).
 
 ## Reward ownership
 
@@ -33,7 +33,7 @@ Ordinary domai contribution stays contextual OPEN BY DESIGN: earned group total 
 
 | Scope | Kira fixed gross | illi fixed gross | Qualification |
 |---|---:|---:|---|
-| Red→O2D2 progression scaffold | Not a full Kira account | 52,695 | Plus entry 2,000 funds 54,653 through O2D2, leaving 42 |
+| Red→O2D2 progression scaffold | 63,705 authored combat gross | 52,695 | Kira: grant 2,000 entirely spent on Armor; pre-CSR 63,705, O2D3 post-CSR 2,688. illi: grant 2,000 plus income funds 54,653, leaving 42. |
 | Arc Three Orange O2D4–O7D7 |81,415 |56,385 | Excludes contextual domai and spending |
 | Arc Four Y1D3–Y6D3 | 67,030 | 58,170 | illi post-Beam-Red spend 73,044; no actual balance proof |
 | Full Yellow | 80,140 | 71,280 | Includes two Arc Five Duos |
@@ -107,6 +107,6 @@ R4D5 Burrower earns 2,500 each as newly authored wallet surplus; locked Binding 
 
 ## October 8 full repair
 
-The [full-repair source](../provenance/live-model-full-repair-2026-10-08/package/EXECUTABLE.md) reconciles stale Red/Orange current-owner text and derived audits. The [Kira ledger](../world-clock/KIRA_CREDIT_LEDGER.json) independently computes every dated earning through O2D3: 58,705 minimum combat gross + 5,000 authored surplus = **63,705**. The 2,000 entry grant is separate. Known-transaction funds are **65,705 before CSR / 4,688 after its 61,017 cost**, before unquantified Armor and discretionary debits. Exact wallet remains OPEN; approximately 1,000 for Armor is not an exact locked debit. No reward, date, run or funding is invented. [Execution and preservation report](../provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md).
+The [full-repair source](../provenance/live-model-full-repair-2026-10-08/package/EXECUTABLE.md) reconciles stale Red/Orange current-owner text and derived audits. The [Kira ledger](../world-clock/KIRA_CREDIT_LEDGER.json) independently computes every dated earning through O2D3: 58,705 minimum combat gross + 5,000 authored surplus = **63,705**. The initial Armor purchase costs exactly **2,000**, consuming the entire entry grant and leaving **0**. The later explicit Armor correction locks available funds to **63,705 before CSR / 2,688 after its 61,017 cost on O2D3**. These balances are exact; unrelated later spending remains OPEN. No reward, date, run or funding is invented. [Execution and preservation report](../provenance/live-model-full-repair-2026-10-08/COMPLETION_REPORT.md).
 
 Current Arc Three audit computes 56,385 illi / 81,415 Kira and 12 OPEN rows; Normal Raid income is 3,750 each. Historical numbered checkpoints and provenance retain their original statements as history, not competing current Red/Orange owners. CP25/later-arc authority, required calendars and the opening RECOVERY_GAP remain unchanged.

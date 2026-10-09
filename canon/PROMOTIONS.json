@@ -21,6 +21,10 @@
     {
       "id": "live-model-full-repair-2026-10-08",
       "manifest": "provenance/live-model-full-repair-2026-10-08/INTEGRATION.json"
+    },
+    {
+      "id": "armor-economy-fix-2026-10-08",
+      "manifest": "provenance/armor-economy-fix-2026-10-08/INTEGRATION.json"
     }
   ]
 }

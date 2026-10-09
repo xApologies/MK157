@@ -359,7 +359,7 @@
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv": "74dea62969d5d08fc90c6f28c7e8782c3cd55e8d967b9769b06399c2f2025f46",
     "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json": "a60ecb0d4a57b66faf9f6dd79b0c1abd861f8918fa04d05262189d75222bfeac",
     "world-clock/WORLD_CLOCK_TEMPLATE.csv": "c408e8c947a4cd61f545765d1ed4c3919d5b0281dd4f33c5388711fa7b630ba8",
-    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "056532016144fa8f1afccbc6a03c8f4853fecb128cf67c86e317795c2dfdd440",
-    "world-clock/validate_arc3.py": "d1e23e7af7b7fb24b8a1155425ec3aff5b43ee4ddff0342cb1a9222f9fcbb289"
+    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "a8029500a2c367e35929e2a784c7c481a882c51a6fc247a9e43af29edc0afb80",
+    "world-clock/validate_arc3.py": "1bc51bd735dd5236eac61cdee389a4a218f555712c8535473bdbd35a8a44be15"
   }
 }

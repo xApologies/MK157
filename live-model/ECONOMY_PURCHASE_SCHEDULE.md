@@ -6,7 +6,7 @@ Current authority: Checkpoint 25, cumulative with earlier non-conflicting rules.
 
 ## Kira Black acquisition economics — current
 
-Armor of the Abyss remains the approximately 1,000-credit anomalous starter. Checkpoint 19 locks CSR → Genesis Orbs → Halo → Domain at **61,017 credits each**, in that acquisition order. This character-specific post-Armor Black tier reflects Valnak/Elara realization burden and does not use the ordinary five-class Binding matrix. The former 61,000 figure remains superseded; Armor is not repriced. Acquisition, affordability and later competency remain distinct.
+Armor of the Abyss initially costs exactly 2,000 credits; the full entry grant is spent, leaving zero. Checkpoint 19 locks CSR → Genesis Orbs → Halo → Domain at **61,017 credits each**, in that acquisition order. This character-specific post-Armor Black tier reflects Valnak/Elara realization burden and does not use the ordinary five-class Binding matrix. The former 61,000 figure remains superseded; the explicit Armor-only correction leaves every post-Armor price unchanged. Acquisition, affordability and later competency remain distinct.
 
 Availability/admissibility, affordability, and competency/discovery/integration after acquisition are separate. Black foundations do not use ordinary paid rank ladders. Ordinary registry prices cannot supply replacement character-specific prices. See [Checkpoint 19](26_CHECKPOINT_19_ARC_THREE.md) and the [Black acquisition prices](../economy/KIRA_BLACK_ACQUISITION_PRICES.json).
 
@@ -145,7 +145,7 @@ Do not silently decide:
 
 Current ordinary prices are in the [Binding registry](../bindings/BINDINGS.json), [summon price atlas](../summons/SUMMON_PRICING.json) and [Prime price atlas](../summons/PRIME_ELEMENTAL_PRICING.json). Checkpoint 18 prices Persistent Coherence by its Foundational class: B=1700, R 1700/O 2720/Y 4896/G 10282/B 25705; cumulative R-through-Blue **45,303**, or **43,603** after Red. The above B=1000 calculation remains historical illustration only. Absorption Shield and all Primes are Exceptional B=17000; Genesis Beam is Powerful B=11000; White Legacy access compression is separate from the Checkpoint 13 45% package deduction; illi pays 55% after acceptance.
 
-Checkpoint 19 locks Kira's CSR/Genesis Orbs/Halo/Domain acquisitions at 61,017 each. The old 61,000 claim is SUPERSEDED; Armor remains approximately 1,000. Ordinary list prices and all unrelated canon remain governed by their existing rules.
+Checkpoint 19 locks Kira's CSR/Genesis Orbs/Halo/Domain acquisitions at 61,017 each. The old 61,000 claim is SUPERSEDED; initial Armor is exactly 2,000, consuming the entry grant. Ordinary list prices and all unrelated canon remain governed by their existing rules.
 
 ## Checkpoint 13 list prices, Legacy subsidy and Trial target
 
@@ -383,3 +383,7 @@ Trial table audit: completed W1 pays 50, W1–W2 totals 140, W1–W3 totals 255;
 Current Arc Three O2D4–O7D7 minimum gross: **56,385 illi /81,415 Kira**; Kira-only Solo remains25,030. O4D2 pays only Black Orchard **3,750 each**; both Normal Reds already paid O1D6, whose actual5,000 includes2,500 booked+2,500 discretionary. R4D5 Burrower’s2,500 remains discretionary. Never add the same second-Red reward twice.
 
 PC Blue/White Legacy now O1D3 for25,705, post-balance952; Absorption Red O2D2 for9,350, post-balance42. Their minimum prebalances26,657/9,392 and total progression spend stay unchanged. CSR purchase O2D3 costs Kira61,017. Optional illi W7/W8 Solo credits remain OPEN. The conditional86,000−81,415=**4,585** card-funding difference assumes no opening funds/other income/prior spending; it is no canonical debt or invented award. Actual wallets and contextual domai payout remain OPEN. [Explicit correction](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W1_W4.md), [current calendar](../world-clock/ARC3_ORANGE_CALENDAR.md).
+
+## Exact initial Armor economy correction
+
+The [author correction](../provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md) fixes initial Armor of the Abyss at exactly **2,000 credits**. It consumes the entire 2,000 entry grant; post-Armor balance is **0**. Unchanged authored combat gross through O2D3 is **63,705**, also the exact available pre-CSR balance. CSR remains **O2D3 / 61,017**, leaving **2,688 LOCKED**. This supersedes earlier approximate/unknown Armor prices and conditional early balances only. No calendar, reward, other purchase or unrelated OPEN changes; historical packages remain evidence.

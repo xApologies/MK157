@@ -94,7 +94,7 @@ def audit(root):
     price = js('economy/KIRA_BLACK_ACQUISITION_PRICES.json')
     require(price['post_armor_acquisition_prices'] == dict.fromkeys(('CSR','Genesis Orbs','Halo','Domain'),61017), 'Black tier mismatch')
     require(price['ordinary_binding_class_matrix_applies'] is False, 'Black class-pricing firewall lost')
-    require('1000' in price['armor_of_the_abyss'] and 'unchanged' in price['armor_of_the_abyss'], 'Armor repriced')
+    require(price['armor_of_the_abyss'] == 2000, 'Exact initial Armor price must be 2,000')
     orbs = price['post_armor_acquisition_prices']['Genesis Orbs']
     require(totals['kira']-orbs == 20398 and manifest['kira_pre_domai_discretionary_headroom'] == 22898, 'Orbs reserve/headroom mismatch')
     require(manifest['locked_kira_orbs_price'] == orbs and manifest['domai_payout'] == 'OPEN', 'Final manifest lock mismatch')

@@ -33,7 +33,7 @@ Daily10:00 raeon remains a separate circuit. These personal Red/Orange correctio
 
 ## Reserves and spending
 
-Kira's character-specific [post-Armor Black acquisition tier](../economy/KIRA_BLACK_ACQUISITION_PRICES.json) is **61,017 each for CSR / Genesis Orbs / Halo / Domain**. Armor remains its approximately 1,000-credit anomaly. Ordinary class pricing never supplies these prices. CSR is already held at Arc Three entry, so its purchase is not charged again against this arc's income.
+Kira's character-specific [post-Armor Black acquisition tier](../economy/KIRA_BLACK_ACQUISITION_PRICES.json) is **61,017 each for CSR / Genesis Orbs / Halo / Domain**. Initial Armor costs exactly 2,000 and consumes the full entry grant; O2D3 CSR leaves the author-locked 2,688 balance. Ordinary class pricing never supplies these prices. CSR is already held at Arc Three entry, so its purchase is not charged again against this arc's income.
 
 Checkpoint 19's 83,915 − 61,017 = 22,898 reserve calculation is historical planning. **Checkpoint 20 supersedes the Orb-reserve endpoint objective:** Arc Three closes at the Yellow opening with illi Beam Red and Kira's specific **86,000-credit Blue Fireball Genesis Card**. She rebuilds the **61,017** Orb fund during Arc Four. Funding and actual balances remain OPEN; no domai award or gift is fabricated.
 

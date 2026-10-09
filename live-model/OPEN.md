@@ -98,7 +98,7 @@ Red base costs, ordinary semantic acquisition bands, deterministic HALF_UP ladde
 
 ## Checkpoint 14 current resolution and reopenings
 
-Exact W1–35 rows are LOCKED at cumulative 53910; Checkpoint 25 locks every completed W36+ at 1,600 credits per eligible participant. Seventeen illi milestones through Violet W2 D2 are LOCKED; later rank dates remain OPEN. Coherence Prime late Green and Resonance Prime early Violet supersede Early Blue/White windows. CSR/Orbs/Halo/Domain final acquisition prices are reopened with no replacements. Armor ~1000 remains.
+Exact W1–35 rows are LOCKED at cumulative 53910; Checkpoint 25 locks every completed W36+ at 1,600 credits per eligible participant. Seventeen illi milestones through Violet W2 D2 are LOCKED; later rank dates remain OPEN. Coherence Prime late Green and Resonance Prime early Violet supersede Early Blue/White windows. CSR/Orbs/Halo/Domain final acquisition prices are reopened with no replacements. Initial Armor is now exactly 2,000 LOCKED; its prior approximate/unknown debit is superseded.
 **Historical OPEN snapshot; Checkpoint 25 resolves W36+ payout, Solo/Duo records and R/O/Y/G core awards; other listed questions retain their scope.** Final standings, W96/low-40s examples, illi final Solo wave/rank, literal Orb velocity/energy and exact commodity prices remain OPEN or illustrative. Earlier OPEN entries for the supplied reward rows/milestones are superseded only to this extent. Planetary month reconciliation and other unrelated OPENs remain.
 
 ## Checkpoint 15 encounter-builder boundaries
@@ -244,3 +244,7 @@ R2D5 is a poor W2 run, not a ceiling; R4D1 may reach Orange pressure beyond the 
 Orange Raid mechanisms are locked, but Weaver material is OPEN; dimensions are approximate. No unsupplied later boss clear or ordinary-eldris species is created. Existing Arc-One R1D2/R1D3 paid-combat RECOVERY_GAP persists.
 
 **Resolved by the cumulative correction:** O1D6 pays both Normal Reds; O4D2 Red repeats pay0 and Black Orchard pays3,750 only. The corresponding current Arc Three gross is56,385 illi/81,415 Kira. PC Blue/White Legacy O1D3, Absorption O2D2 and CSR O2D3 are explicit. Full actual wallets, contextual domai and optional Solo credits remain OPEN. The original R1D2/R1D3 RECOVERY_GAP remains unresolved.
+
+## Exact initial Armor economy correction
+
+The [author correction](../provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md) fixes initial Armor of the Abyss at exactly **2,000 credits**. It consumes the entire 2,000 entry grant; post-Armor balance is **0**. Unchanged authored combat gross through O2D3 is **63,705**, also the exact available pre-CSR balance. CSR remains **O2D3 / 61,017**, leaving **2,688 LOCKED**. This supersedes earlier approximate/unknown Armor prices and conditional early balances only. No calendar, reward, other purchase or unrelated OPEN changes; historical packages remain evidence.

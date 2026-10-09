@@ -19,17 +19,17 @@
     "season": "Red",
     "week": 1,
     "day": 1,
-    "event": "Armor of the Abyss — entry/Red; exact transaction day OPEN",
-    "source_kind": "Unquantified progression spend",
+    "event": "Armor of the Abyss — initial acquisition",
+    "source_kind": "Locked progression spend",
     "kira_credits_earned": 0,
-    "kira_progression_spend": null,
+    "kira_progression_spend": 2000,
     "kira_actual_surplus_earned": 0,
     "kira_minimum_running_gross": 0,
     "kira_actual_running_gross": 0,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 2000,
+    "kira_known_running_balance": 0,
     "source": "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
-    "notes": "Entry bucket is not a newly locked purchase day. Approximate 1,000 is not an exact debit; null is OPEN, not free. Known balance excludes this debit."
+    "notes": "Exact initial purchase consumes the entire entry grant; post-Armor balance is zero. Existing entry bucket retained."
   },
   {
     "season": "Red",
@@ -43,9 +43,9 @@
     "kira_minimum_running_gross": 0,
     "kira_actual_running_gross": 0,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 2000,
+    "kira_known_running_balance": 0,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D1;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -59,9 +59,9 @@
     "kira_minimum_running_gross": 565,
     "kira_actual_running_gross": 565,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 2565,
+    "kira_known_running_balance": 565,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D2;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=5",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -75,9 +75,9 @@
     "kira_minimum_running_gross": 1840,
     "kira_actual_running_gross": 1840,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 3840,
+    "kira_known_running_balance": 1840,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D3;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=8",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -91,9 +91,9 @@
     "kira_minimum_running_gross": 2235,
     "kira_actual_running_gross": 2235,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 4235,
+    "kira_known_running_balance": 2235,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D4;combat-rewards/DUNGEON_REWARDS.csv:rank=Red;count=1",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -107,9 +107,9 @@
     "kira_minimum_running_gross": 2235,
     "kira_actual_running_gross": 2235,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 4235,
+    "kira_known_running_balance": 2235,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -123,9 +123,9 @@
     "kira_minimum_running_gross": 3235,
     "kira_actual_running_gross": 3235,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 5235,
+    "kira_known_running_balance": 3235,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D6;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=7",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -139,9 +139,9 @@
     "kira_minimum_running_gross": 3235,
     "kira_actual_running_gross": 3235,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 5235,
+    "kira_known_running_balance": 3235,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D7;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -155,9 +155,9 @@
     "kira_minimum_running_gross": 4025,
     "kira_actual_running_gross": 4025,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 6025,
+    "kira_known_running_balance": 4025,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D1;combat-rewards/DUNGEON_REWARDS.csv:rank=Red;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -171,9 +171,9 @@
     "kira_minimum_running_gross": 5615,
     "kira_actual_running_gross": 5615,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 7615,
+    "kira_known_running_balance": 5615,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D2;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=9",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -187,9 +187,9 @@
     "kira_minimum_running_gross": 5615,
     "kira_actual_running_gross": 5615,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 7615,
+    "kira_known_running_balance": 5615,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D3;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -203,9 +203,9 @@
     "kira_minimum_running_gross": 6635,
     "kira_actual_running_gross": 6635,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 8635,
+    "kira_known_running_balance": 6635,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D4;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=1",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -219,9 +219,9 @@
     "kira_minimum_running_gross": 6635,
     "kira_actual_running_gross": 6635,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 8635,
+    "kira_known_running_balance": 6635,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:illi-only;no Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -235,9 +235,9 @@
     "kira_minimum_running_gross": 7910,
     "kira_actual_running_gross": 7910,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 9910,
+    "kira_known_running_balance": 7910,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D6;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=8",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -251,9 +251,9 @@
     "kira_minimum_running_gross": 9950,
     "kira_actual_running_gross": 9950,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 11950,
+    "kira_known_running_balance": 9950,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D7;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -267,9 +267,9 @@
     "kira_minimum_running_gross": 9950,
     "kira_actual_running_gross": 9950,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 11950,
+    "kira_known_running_balance": 9950,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D1;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -283,9 +283,9 @@
     "kira_minimum_running_gross": 12450,
     "kira_actual_running_gross": 12450,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 14450,
+    "kira_known_running_balance": 12450,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D2;combat-rewards/RAID_BOSS_REWARDS.csv:boss_rank=Red;normal",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -299,9 +299,9 @@
     "kira_minimum_running_gross": 12450,
     "kira_actual_running_gross": 12450,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 14450,
+    "kira_known_running_balance": 12450,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D3;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -315,9 +315,9 @@
     "kira_minimum_running_gross": 14040,
     "kira_actual_running_gross": 14040,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 16040,
+    "kira_known_running_balance": 14040,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D4;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=9",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -331,9 +331,9 @@
     "kira_minimum_running_gross": 16080,
     "kira_actual_running_gross": 16080,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 18080,
+    "kira_known_running_balance": 16080,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D5;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -347,9 +347,9 @@
     "kira_minimum_running_gross": 16080,
     "kira_actual_running_gross": 16080,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 18080,
+    "kira_known_running_balance": 16080,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D6;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -363,9 +363,9 @@
     "kira_minimum_running_gross": 17355,
     "kira_actual_running_gross": 17355,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 19355,
+    "kira_known_running_balance": 17355,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D7;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=8",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -379,9 +379,9 @@
     "kira_minimum_running_gross": 17355,
     "kira_actual_running_gross": 17355,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 19355,
+    "kira_known_running_balance": 17355,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D1;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:illi-only;no Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -395,9 +395,9 @@
     "kira_minimum_running_gross": 17355,
     "kira_actual_running_gross": 17355,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 19355,
+    "kira_known_running_balance": 17355,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D2;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -411,9 +411,9 @@
     "kira_minimum_running_gross": 17355,
     "kira_actual_running_gross": 17355,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 19355,
+    "kira_known_running_balance": 17355,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D3;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -427,9 +427,9 @@
     "kira_minimum_running_gross": 19395,
     "kira_actual_running_gross": 19395,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 21395,
+    "kira_known_running_balance": 19395,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D4;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -443,9 +443,9 @@
     "kira_minimum_running_gross": 19395,
     "kira_actual_running_gross": 19395,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 21395,
+    "kira_known_running_balance": 19395,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -459,7 +459,7 @@
     "kira_minimum_running_gross": 19395,
     "kira_actual_running_gross": 21895,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 23895,
+    "kira_known_running_balance": 21895,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D5;combat-rewards/RAID_BOSS_REWARDS.csv:boss_rank=Red;provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md",
     "notes": "Actual eligible combat income; outside minimum progression accounting. Per-boss/season payment only once."
   },
@@ -475,9 +475,9 @@
     "kira_minimum_running_gross": 21345,
     "kira_actual_running_gross": 23845,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 25845,
+    "kira_known_running_balance": 23845,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D6;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -491,9 +491,9 @@
     "kira_minimum_running_gross": 22935,
     "kira_actual_running_gross": 25435,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 27435,
+    "kira_known_running_balance": 25435,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D7;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=9",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -507,9 +507,9 @@
     "kira_minimum_running_gross": 22935,
     "kira_actual_running_gross": 25435,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 27435,
+    "kira_known_running_balance": 25435,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D1;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -523,9 +523,9 @@
     "kira_minimum_running_gross": 22935,
     "kira_actual_running_gross": 25435,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 27435,
+    "kira_known_running_balance": 25435,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D2;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -539,9 +539,9 @@
     "kira_minimum_running_gross": 22935,
     "kira_actual_running_gross": 25435,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 27435,
+    "kira_known_running_balance": 25435,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D3;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -555,9 +555,9 @@
     "kira_minimum_running_gross": 22935,
     "kira_actual_running_gross": 25435,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 27435,
+    "kira_known_running_balance": 25435,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D4;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -571,9 +571,9 @@
     "kira_minimum_running_gross": 24975,
     "kira_actual_running_gross": 27475,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 29475,
+    "kira_known_running_balance": 27475,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D5;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -587,9 +587,9 @@
     "kira_minimum_running_gross": 24975,
     "kira_actual_running_gross": 27475,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 29475,
+    "kira_known_running_balance": 27475,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D6;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -603,9 +603,9 @@
     "kira_minimum_running_gross": 26565,
     "kira_actual_running_gross": 29065,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 31065,
+    "kira_known_running_balance": 29065,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D7;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=9",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -619,9 +619,9 @@
     "kira_minimum_running_gross": 28605,
     "kira_actual_running_gross": 31105,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 33105,
+    "kira_known_running_balance": 31105,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D1;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -635,9 +635,9 @@
     "kira_minimum_running_gross": 28605,
     "kira_actual_running_gross": 31105,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 33105,
+    "kira_known_running_balance": 31105,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D2;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -651,9 +651,9 @@
     "kira_minimum_running_gross": 30555,
     "kira_actual_running_gross": 33055,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 35055,
+    "kira_known_running_balance": 33055,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D3;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -667,9 +667,9 @@
     "kira_minimum_running_gross": 30555,
     "kira_actual_running_gross": 33055,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 35055,
+    "kira_known_running_balance": 33055,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D4;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -683,9 +683,9 @@
     "kira_minimum_running_gross": 30555,
     "kira_actual_running_gross": 33055,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 35055,
+    "kira_known_running_balance": 33055,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -699,9 +699,9 @@
     "kira_minimum_running_gross": 34305,
     "kira_actual_running_gross": 36805,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 38805,
+    "kira_known_running_balance": 36805,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D6;combat-rewards/RAID_BOSS_REWARDS.csv:boss_rank=Orange;normal",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -715,9 +715,9 @@
     "kira_minimum_running_gross": 34305,
     "kira_actual_running_gross": 36805,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 38805,
+    "kira_known_running_balance": 36805,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D7;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -731,9 +731,9 @@
     "kira_minimum_running_gross": 36345,
     "kira_actual_running_gross": 38845,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 40845,
+    "kira_known_running_balance": 38845,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D1;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -747,9 +747,9 @@
     "kira_minimum_running_gross": 36345,
     "kira_actual_running_gross": 38845,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 40845,
+    "kira_known_running_balance": 38845,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D2;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -763,9 +763,9 @@
     "kira_minimum_running_gross": 38295,
     "kira_actual_running_gross": 40795,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 42795,
+    "kira_known_running_balance": 40795,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D3;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -779,9 +779,9 @@
     "kira_minimum_running_gross": 40335,
     "kira_actual_running_gross": 42835,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 44835,
+    "kira_known_running_balance": 42835,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D4;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -795,9 +795,9 @@
     "kira_minimum_running_gross": 40335,
     "kira_actual_running_gross": 42835,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 44835,
+    "kira_known_running_balance": 42835,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -811,9 +811,9 @@
     "kira_minimum_running_gross": 42285,
     "kira_actual_running_gross": 44785,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 46785,
+    "kira_known_running_balance": 44785,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D6;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Red",
@@ -827,9 +827,9 @@
     "kira_minimum_running_gross": 44325,
     "kira_actual_running_gross": 46825,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 48825,
+    "kira_known_running_balance": 46825,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D7;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Orange",
@@ -843,9 +843,9 @@
     "kira_minimum_running_gross": 46275,
     "kira_actual_running_gross": 48775,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 50775,
+    "kira_known_running_balance": 48775,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D1;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Orange",
@@ -859,9 +859,9 @@
     "kira_minimum_running_gross": 48315,
     "kira_actual_running_gross": 50815,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 52815,
+    "kira_known_running_balance": 50815,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D2;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Orange",
@@ -875,9 +875,9 @@
     "kira_minimum_running_gross": 50265,
     "kira_actual_running_gross": 52765,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 54765,
+    "kira_known_running_balance": 52765,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D3;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Orange",
@@ -891,9 +891,9 @@
     "kira_minimum_running_gross": 50265,
     "kira_actual_running_gross": 52765,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 54765,
+    "kira_known_running_balance": 52765,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D4;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Orange",
@@ -907,9 +907,9 @@
     "kira_minimum_running_gross": 50265,
     "kira_actual_running_gross": 52765,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 54765,
+    "kira_known_running_balance": 52765,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Orange",
@@ -923,9 +923,9 @@
     "kira_minimum_running_gross": 52765,
     "kira_actual_running_gross": 55265,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 57265,
+    "kira_known_running_balance": 55265,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D6;combat-rewards/RAID_BOSS_REWARDS.csv:boss_rank=Red;normal",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Orange",
@@ -939,7 +939,7 @@
     "kira_minimum_running_gross": 52765,
     "kira_actual_running_gross": 57765,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 59765,
+    "kira_known_running_balance": 57765,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D6;combat-rewards/RAID_BOSS_REWARDS.csv:boss_rank=Red;provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md",
     "notes": "Actual eligible combat income; outside minimum progression accounting. Per-boss/season payment only once."
   },
@@ -955,9 +955,9 @@
     "kira_minimum_running_gross": 54715,
     "kira_actual_running_gross": 59715,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 61715,
+    "kira_known_running_balance": 59715,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D7;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Orange",
@@ -971,9 +971,9 @@
     "kira_minimum_running_gross": 56755,
     "kira_actual_running_gross": 61755,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 63755,
+    "kira_known_running_balance": 61755,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O2D1;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Orange",
@@ -987,9 +987,9 @@
     "kira_minimum_running_gross": 58705,
     "kira_actual_running_gross": 63705,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 65705,
+    "kira_known_running_balance": 63705,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O2D2;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. Failed encounters and optional unsourced awards add no invented reward."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. Failed encounters and optional unsourced awards add no invented reward."
   },
   {
     "season": "Orange",
@@ -1003,8 +1003,8 @@
     "kira_minimum_running_gross": 58705,
     "kira_actual_running_gross": 63705,
     "kira_noncombat_credits": 0,
-    "kira_known_running_balance": 4688,
+    "kira_known_running_balance": 2688,
     "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O2D3;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward",
-    "notes": "Known balance excludes unquantified Armor/lifestyle debits. CSR purchase; optional illi Solo credits excluded."
+    "notes": "Exact Armor debit included; no additional unsourced transaction introduced. CSR purchase; optional illi Solo credits excluded."
   }
 ]

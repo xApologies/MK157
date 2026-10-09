@@ -189,7 +189,7 @@ Acquisition is not mastery. Orb competency continues one→two→three across la
 
 
 ## Black economics / Elara comedy engine
-Armor's initial ~1,000-credit availability is an anomaly caused by Black being outside ordinary pricing knowledge. Elara repairs later pricing. Later Black Bindings require meaningful credits plus competency/admissibility.
+Armor’s initial acquisition costs exactly 2,000 credits, consuming Kira’s whole entry grant and leaving zero. Its availability remains anomalous because Black is outside ordinary pricing knowledge. Elara repairs later pricing. Later Black Bindings require meaningful credits plus competency/admissibility.
 
 Kira's later Trial credit explosions legitimately finance further Black development.
 
@@ -424,7 +424,7 @@ Other participants use the fixed geography strategically.
 
 ## Kira Black acquisition economics — current
 
-Armor of the Abyss remains the approximately 1,000-credit anomalous starter. Checkpoint 19 locks CSR → Genesis Orbs → Halo → Domain at **61,017 credits each**, in that acquisition order. This character-specific post-Armor Black tier reflects Valnak/Elara realization burden and does not use the ordinary five-class Binding matrix. The former 61,000 figure remains superseded; Armor is not repriced. Acquisition, affordability and later competency remain distinct.
+Armor of the Abyss initially costs exactly 2,000 credits; the full entry grant is spent, leaving zero. Checkpoint 19 locks CSR → Genesis Orbs → Halo → Domain at **61,017 credits each**, in that acquisition order. This character-specific post-Armor Black tier reflects Valnak/Elara realization burden and does not use the ordinary five-class Binding matrix. The former 61,000 figure remains superseded; the explicit Armor-only correction leaves every post-Armor price unchanged. Acquisition, affordability and later competency remain distinct.
 
 Armor's anomaly arose because Valnak/Elara did not yet know how to price Black. Later acquisitions remain meaningful economic objectives: Kira can farm Solo independently, and her later architecture makes her an exceptional credit generator; Elara is not giving the other foundations away.
 

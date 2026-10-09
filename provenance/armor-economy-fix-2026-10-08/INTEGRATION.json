@@ -1,0 +1,572 @@
+{
+  "id": "armor-economy-fix-2026-10-08",
+  "baseline_commit": "edfda188e942fc54c5c5db39e6ece5b42bca1e9a",
+  "changed_paths": {
+    "CANON_STATUS.md": {
+      "before_sha256": "5ad39e7df0a20ec0704d07c9481ff45911c2a2d2b36c76ca8e49f27abc60a519",
+      "after_sha256": "6c95759f29cec5a67b027f5feb54f1762920952e401daaf2ede5067e3de4a6c4",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "README.md": {
+      "before_sha256": "3c5f04bd0c1138fb96580c52c14c9c45abc60715e134a54b8c4332ac11bf466c",
+      "after_sha256": "67045420310756e78937ae8d60ca77b7eb1fd67a29fef3b6942f2bb724cafc22",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "THREAD_DEVELOPMENT_CONSTITUTION.md": {
+      "before_sha256": "9e258786529045a9290f9fa8e8df6c0ad7bb91ea6da7d3aa4067e9779e2cda9a",
+      "after_sha256": "c4b93af7a78f6a84bc4f235991aafb04d870cc19c6dd3d8b810d536aa3db84d8",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "bindings/PRICING_MODEL.md": {
+      "before_sha256": "77a01fa6c1b526ee8addb1f5ef306edffa003ffa76a889509f586241e4b84565",
+      "after_sha256": "b79c55520c47d6f0324893fa069040cb74ad23afc3762a0a229863f63fc20f28",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "canon/AUTHORITY_MAP.json": {
+      "before_sha256": "3a6263b02118cfed36738ead87d91256927059cb4ff0838883d388056efefa56",
+      "after_sha256": "20b550a5f004ecd6e1b54aac7e31755abad99794a3479cead246cea7cb2b98ea",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "canon/ECONOMY.md": {
+      "before_sha256": "01d10708362933aa4ebc0f86c1ec91ace2560cbe22d75a6aced6e8644967fa22",
+      "after_sha256": "2acb89b1af204e639dfc479acfb18dfc0b9ae28f169de5ce6ea0db068a1dfba0",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "canon/PROMOTIONS.json": {
+      "before_sha256": "201d0fcef4575e8fd5a12609c498a05c44f44e0842ebde2d0e3208904ac187b3",
+      "after_sha256": "a7b6aa6c72ddfc357c257e0474af7a4b76a704ce0db84bf95bfbf30ee9ed27b4",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "canon/VALNAK.md": {
+      "before_sha256": "b589f64a178ae4b6cf2fa51196dbbdd21bb33b4d0563840c549246b4095bc0eb",
+      "after_sha256": "a60a925f2a905547c626f2f659001b9afb74dabe6045f512e586aada291e7cfc",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "canon/characters/KIRA.md": {
+      "before_sha256": "e2850d7be8406a54b8a47ea1bda446a667b94f981e16fd2e038d1a7977f1430d",
+      "after_sha256": "d42c2faf8edb15f96e7c6eaa5cee48fec8a7d33b57e3de225815479f9f71c91d",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "data/INDEX.md": {
+      "before_sha256": "f456ee360b2722579aeb53bad470ab22815d02a8afe8351be8883b08b8c975ba",
+      "after_sha256": "0bd5d2c7c99e714c6d1fe75eb7cebf512aad5b2742089300ef1c22e51dede4cf",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": {
+      "before_sha256": "056532016144fa8f1afccbc6a03c8f4853fecb128cf67c86e317795c2dfdd440",
+      "after_sha256": "a8029500a2c367e35929e2a784c7c481a882c51a6fc247a9e43af29edc0afb80",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "live-model/01_KIRA.md": {
+      "before_sha256": "f2adb4b7427f33abdf0dfa27fa91a5af78fd5fe8c18b167a9ef750ee12665cf9",
+      "after_sha256": "d2791c88510bc61cc0a3c870e1eebfc7270772f696e72b2bdfc3c28404a56c60",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "live-model/ECONOMY_PURCHASE_SCHEDULE.md": {
+      "before_sha256": "632898c2987f076b1cea0d1701facdcb4ba523a2dbeb541cbc333966243e24bf",
+      "after_sha256": "65ce6c094a085d7274ae346ed55681510bdde546858b3248b80a3352d1e9a7da",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "live-model/INDEX.md": {
+      "before_sha256": "756a1c6d91e44fb76468c110371dca12a790df7d7f32fd5e58f3037c526cec0d",
+      "after_sha256": "84fea6226f753cb1797ad3901771b9afbc2fad7ef300590c48d98c9bf6ee4fc4",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "live-model/OPEN.md": {
+      "before_sha256": "186db91e16bb3aa0ceb0b32eb59c89db6d8315ae59c14fa8937bf98a14a4b160",
+      "after_sha256": "1e5301c63b48abbf98dc395ee629710d1d66522db261fd866b1e92bf40be3c3a",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "live-model/SUPERSESSIONS.md": {
+      "before_sha256": "07c948902801734f6cbfa950d9c7e2d5ea8447b5954e2d78b0f4ccd2ed2d3515",
+      "after_sha256": "c8b633e2263bc77192143d70f1c91f16732e8581efb57b8183dcc43718d1429d",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "story/ARC_02/ARC.md": {
+      "before_sha256": "bf9e0608f4518429f0977c617e3765f46bbdc472650a2ed3c1d3b981f4421f1a",
+      "after_sha256": "d35615131652283d4ca0913165974c20fa3f016bc392644c24ad623acc1951a0",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "tools/validation/README.md": {
+      "before_sha256": "6d2875ce013b30221d7f33ce919b237a33446958d99f2ea1aa7b2bc0d49ad3b7",
+      "after_sha256": "78ea156e013713898d1fff73bce015be06eee7f3b489cb8ec9f4354097160800",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "tools/validation/test_kira_ledger.py": {
+      "before_sha256": "a776d470fa9c10e48b3b91edd3a190635d9418412013d2935d65224d513203f8",
+      "after_sha256": "b54bf7889b1e023475301c3859292e75059d9ba8cb0a99d6fb0986312c65368a",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "tools/validation/validate_kira_ledger.py": {
+      "before_sha256": "bf893b11359360ca2e9f1156a61f18527d944fd9dd5b15af0a0371b77452111c",
+      "after_sha256": "15b06fac41dc921069c6fb0a4e67ba17c84246bc708ffa3a0be2872ec99df038",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "tools/validation/validate_promotions.py": {
+      "before_sha256": "61e1eebdfd09442d23bf7ae4ebc6fbecec53a92b8b7713dba8724c02f714f4b6",
+      "after_sha256": "f65bada2564cd3a8549b90257efd6c7e99d6507ce38732d72e25db0bae5ac4d1",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "world-clock/ARC3_ECONOMY_AUDIT.json": {
+      "before_sha256": "dd605da6b81b3b5c79a4c08c3ba8992feefe10a3bfe7165217131ee457e298b2",
+      "after_sha256": "1d7cdbbd4a1156c23a49b95742744f21936d2f128c22c07688eccff3cb5b7848",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "world-clock/ARC3_ORANGE_CALENDAR.md": {
+      "before_sha256": "c4f18aeaef6bb7ec7ca5db04f7d559f8ed40cea8d061b75cc91e34cdc92956c6",
+      "after_sha256": "d935d87a392fbe031696155e2aded020affcce24ce24c264f32bb273f41d4a30",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "world-clock/ARC4_HANDOFF_AUDIT.json": {
+      "before_sha256": "9d943930b5a19b51e011e1a1d62c4a0e1680b81f84e7a90493da15ba9d71e805",
+      "after_sha256": "f5f6cd5ab8cf18fe9bc8d2bc24cdf80146d38dda143dc64300499ce74e0178d3",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "world-clock/KIRA_CREDIT_LEDGER.csv": {
+      "before_sha256": "28452cc0c795dd24e726d4c9f8f810e48c945751bbfd57610b99dcc1180dd709",
+      "after_sha256": "7c22e0960ac66d18d354142ab8fa4b46d09b5dc737aa940f392dc604e8fa9272",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "world-clock/KIRA_CREDIT_LEDGER.json": {
+      "before_sha256": "81e1356f60052cdcd2a1fc54470d1c1c8e45a74caef02bd7e297927857e6be00",
+      "after_sha256": "8c0bd4c6bd5196945632a41065089c868f50cb2982190101e1cc50b754d00ac1",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "world-clock/validate_arc3.py": {
+      "before_sha256": "d1e23e7af7b7fb24b8a1155425ec3aff5b43ee4ddff0342cb1a9222f9fcbb289",
+      "after_sha256": "1bc51bd735dd5236eac61cdee389a4a218f555712c8535473bdbd35a8a44be15",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "world-clock/validate_arc4_handoff.py": {
+      "before_sha256": "a919487dbb5da68ab6ebd145ff8fd91311de2663de166118d4ec9a775b53e54d",
+      "after_sha256": "69d598867f731a848cf6df50b138e7838b79cec66ddb55c79e5809a80f7f9c36",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "world-clock/validate_arc6.py": {
+      "before_sha256": "6ae57c9a415bbcede7b6c96c3d691f72e6b430338df3e2d15928243edbf19256",
+      "after_sha256": "69522747dca8372fbaabf82bfe13b6885fa574750a8460032870db0c733a645d",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    },
+    "world-clock/validate_arc7.py": {
+      "before_sha256": "4fdb35ebf84008830004b207628b6ceaecb96aa3adc46020f08bfe66b1b2b537",
+      "after_sha256": "c1b9b776360fc11ad12f367736a8833d91b68e057645b32898de334e0158fb4f",
+      "reason": "Exact initial Armor debit and dependent balances/current wording, validation, fresh audit hashes or source accounting only."
+    }
+  },
+  "package_sha256": {
+    "provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md": "15342139e809c73313581019166399be3cd9dd929e205e080f60856e5e7a03f7"
+  },
+  "source_documents": [
+    {
+      "source": "provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md",
+      "include_preamble": true,
+      "coverage": [
+        {
+          "section": "Document introduction",
+          "body_sha256": "1b2043336ffab57987565a3bfbf78c44437d0dbc7923c4527b17314897494095",
+          "paragraphs": [
+            {
+              "sha256": "7d25c28cc6464e805ba113eb08433d16bf612ef5676fe6b5ccc0bee8121cf995",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "fda22ee64899a062a93b7b6dd66c33a09fe068994b2702bcb21664dd3ac92592",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "e1397ccfccf4317abcc473425838b01bbaf58fa79c8adcb231028a16262c4f27",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "d8c3df21c7295d2afd5408972a569986a1bfc61851f98ad4045edcc9293d123b",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "REQUIRED UPDATES",
+          "body_sha256": "7d4bf1484db16acbb44ce8889c23b245da257a764a5c0ef87bdb489e08b57608",
+          "paragraphs": [
+            {
+              "sha256": "ab1b7de242b29856fe4414534ff0078bc6ed71803dfb79aa03da79894272b72a",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "79d8a2759f33e227b941c865ff9de5b65ad1720108debf9043907788c67f6916",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "a36db2609d606e188faee152eb6a73cf54f8a3a77d9d136739a5b7989b98ce7b",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "418c381b844fe03af40f29648d9dc8f8a024fc472d1f1cd9eb0913dc3659ad2e",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "46059e5207ff338e704fdbe11608d1399acd8ea810060864732b786666d10c0b",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "b5a827b5e9b9650e2033e45e6c3a8a3b1515d46ba5c84de5ec52fa17a4647805",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "aa0f538fdf8e9ca1d9ef1347ee56c75514d88f755392fa0b2014e42c2542dab8",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "1d8759333b10ec18e163fc06d88c9c15fcb6d5678149eef7506a7c35ff178833",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "98c52fcc2f112fbe8f17d1d57b35aaf4acb25ec1e10d92cc8be2c8cb1dac6f23",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "e44a9c958553b3cb429bb7cad4a85380dc33847fc94289fd48438cc1e6d46304",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "98c52fcc2f112fbe8f17d1d57b35aaf4acb25ec1e10d92cc8be2c8cb1dac6f23",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "c2fd904d0c21306c4d0fd0aee65f2fd5d07688dbc3c3f4e90d2ff03a554c51bb",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "4fedb547e63079c70205e13620aaf7d1916d9b4aabc6333372e8b0118bece636",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "167faad60941bb858b9ae0e407607b4e4a75417d7181fcc1a0fc2e5c3d4d1346",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "ab016d54650a13f98f1390830c9f6865005b397dd6a188add7c9f437012ba088",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "43265a96e85472caf71394ddcad9947631cec08185b82168123ac68c831ad99a",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "1b394d95b78c43823bdb6048e71e2e1f9ff3ec8ba5a447ad599ae44c4490891e",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "caeb877bf9789d8881831c15b38c803520d4978b6fabc6ba907615589cf9a186",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "3f9744cd9d7953ec2842f36bf8cdaf8f4d476a96c5f5f3210bd9368aa58ab452",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "99c4b1c6e4b6095ac7a66bda3ba528572c7acd54e893b239345830bd67a8cdc8",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "b17709f0cddcb632cc4ab37b5d7b249f1f56b2507903176a1352334d9e832e7f",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            }
+          ]
+        },
+        {
+          "section": "VALIDATE",
+          "body_sha256": "e44052bdb2c453434e1098d746f2f0aa8550e8506c8509b008f6210b56cd1d5e",
+          "paragraphs": [
+            {
+              "sha256": "e72e303dc1c232d2113090f57beb02baced4984c3e9b49ef34d78bd4d813cd89",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "1f0123c1b352de492f241fd96db2bd1d06304bf35a72362b6253fc3e658d6587",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "9cb4534b40b23be8b6fa61b09ec391d405238f256e0b474612c2958d614054c9",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "9dd6fc441699951fb80e6e783faa508e6dcc02f85e99549b0bf6de4eef74bcc5",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "c5df221530ee5779095591505131f842fde8adb1777ef30e0e4a16b94efa9fce",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "2c6fbf468ee5dbc61128f8f588c82095600f151933f38dd28dbe66e709b55a0a",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "5994c1d6e85be442e5c18f84a220a50cdb5e04a83924c8aa28c6c96b24014a20",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "5bbbf79c34136f37170f412fe5e28b62439a65e6740d6d7dc25c057b7184a3a5",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            },
+            {
+              "sha256": "549e3ee9a9ed85faf9631a775808d22e2000dfb2cbede3630f67940276dbb51c",
+              "status": "CURRENT",
+              "reason": "Explicit Armor-only economic lock or its implementation/preservation/validation requirement. Existing income, other purchases and calendars preserved.",
+              "destinations": [
+                "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+                "world-clock/KIRA_CREDIT_LEDGER.json",
+                "tools/validation/validate_kira_ledger.py",
+                "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "supersessions": [
+    {
+      "scope": "Initial Kira Armor price/debit and dependent balances only",
+      "decision": "Armor 2,000 consumes entry grant, post-Armor zero; pre-CSR available 63,705, CSR 61,017 O2D3, post-CSR 2,688 LOCKED. Earlier packages preserve superseded approximate/unknown claims as historical evidence.",
+      "destinations": [
+        "economy/KIRA_BLACK_ACQUISITION_PRICES.json",
+        "world-clock/KIRA_CREDIT_LEDGER.json",
+        "tools/validation/validate_kira_ledger.py",
+        "provenance/armor-economy-fix-2026-10-08/COMPLETION_REPORT.md"
+      ]
+    }
+  ],
+  "preserved": "All calendar events/rewards and other purchases; prior provenance bytes and paths; combat gross 63,705."
+}

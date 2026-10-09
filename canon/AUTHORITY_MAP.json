@@ -390,14 +390,21 @@
           "section": "Kira sourced transactions through O2D3",
           "anchor": null,
           "status": "CURRENT",
-          "authority_reason": "Independent Kira event/reward computation; known numeric balance is not an exact wallet; Armor/discretionary debits OPEN."
+          "authority_reason": "Independent Kira combat computation preserved. The later explicit Armor correction locks Armor 2,000, post-Armor zero, pre-CSR 63,705 and post-CSR 2,688; this supersedes the prior unknown-debit qualification."
         },
         {
           "path": "provenance/live-model-full-repair-2026-10-08/package/package/KIRA_LEDGER_SPEC.md",
           "section": "Kira sourced transactions through O2D3",
           "anchor": null,
           "status": "CURRENT",
-          "authority_reason": "Independent Kira event/reward computation; known numeric balance is not an exact wallet; Armor/discretionary debits OPEN."
+          "authority_reason": "Independent Kira combat computation preserved. The later explicit Armor correction locks Armor 2,000, post-Armor zero, pre-CSR 63,705 and post-CSR 2,688; this supersedes the prior unknown-debit qualification."
+        },
+        {
+          "path": "provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md",
+          "section": "Exact initial Armor and early balance correction",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit author decision: Armor exactly 2,000 consumes entry grant; unchanged 63,705 combat gross, CSR O2D3 61,017 and post-CSR 2,688. No other canon changes."
         }
       ],
       "open_status": "OPEN: exact anatomy, CSR/Domain timestamps, support names/count, Halo final visual, Orb ontology and full mastery, indefinite multi-Orb sustainment and Elara identity semantics."
@@ -1204,6 +1211,13 @@
           "anchor": null,
           "status": "CURRENT",
           "authority_reason": "Current explicit repair source; compatible earlier detail and OPEN qualifications survive."
+        },
+        {
+          "path": "provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md",
+          "section": "Exact initial Armor and early balance correction",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit author decision: Armor exactly 2,000 consumes entry grant; unchanged 63,705 combat gross, CSR O2D3 61,017 and post-CSR 2,688. No other canon changes."
         }
       ],
       "open_status": "OPEN: planet name, exact external time conversion, population/routing implementation, credential synchronization, generic Legacy discounts and unsupplied calendars."
@@ -2222,14 +2236,21 @@
           "section": "Kira sourced transactions through O2D3",
           "anchor": null,
           "status": "CURRENT",
-          "authority_reason": "Independent Kira event/reward computation; known numeric balance is not an exact wallet; Armor/discretionary debits OPEN."
+          "authority_reason": "Independent Kira combat computation preserved. The later explicit Armor correction locks Armor 2,000, post-Armor zero, pre-CSR 63,705 and post-CSR 2,688; this supersedes the prior unknown-debit qualification."
         },
         {
           "path": "provenance/live-model-full-repair-2026-10-08/package/package/KIRA_LEDGER_SPEC.md",
           "section": "Kira sourced transactions through O2D3",
           "anchor": null,
           "status": "CURRENT",
-          "authority_reason": "Independent Kira event/reward computation; known numeric balance is not an exact wallet; Armor/discretionary debits OPEN."
+          "authority_reason": "Independent Kira combat computation preserved. The later explicit Armor correction locks Armor 2,000, post-Armor zero, pre-CSR 63,705 and post-CSR 2,688; this supersedes the prior unknown-debit qualification."
+        },
+        {
+          "path": "provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md",
+          "section": "Exact initial Armor and early balance correction",
+          "anchor": null,
+          "status": "CURRENT",
+          "authority_reason": "Explicit author decision: Armor exactly 2,000 consumes entry grant; unchanged 63,705 combat gross, CSR O2D3 61,017 and post-CSR 2,688. No other canon changes."
         }
       ],
       "open_status": "OPEN: actual cashflows, unsupplied contextual awards, partial/bonus formulas, discretionary inventory and Ring price. Historical numeric snapshots are not current balances."

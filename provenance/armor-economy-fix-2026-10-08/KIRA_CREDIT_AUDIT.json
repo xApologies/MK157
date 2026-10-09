@@ -1,0 +1,627 @@
+{
+  "result": "PASS",
+  "errors": [],
+  "rows": 63,
+  "minimum_combat_gross": 58705,
+  "authored_actual_surplus": 5000,
+  "authored_actual_combat_gross": 63705,
+  "expected_author_checkpoint": 63705,
+  "checkpoint_difference": 0,
+  "income_by_kind": {
+    "No booked Kira reward": 0,
+    "Duo Trial": 20945,
+    "Kira Solo": 6405,
+    "Normal Dungeon": 22605,
+    "illi-only Solo excluded": 0,
+    "Normal Raid": 8750
+  },
+  "affordability": {
+    "result": "PASS",
+    "scope": "Exact initial Armor and O2D3 CSR balances under the surgical author correction",
+    "authored_combat_gross_before_CSR": 63705,
+    "entry_grant": 2000,
+    "locked_numeric_pre_CSR_spend": 2000,
+    "known_transaction_funds_before_CSR": 63705,
+    "CSR_cost": 61017,
+    "known_transaction_balance_after_CSR": 2688,
+    "combat_gross_less_CSR": 2688,
+    "actual_pre_CSR_balance": 63705,
+    "actual_post_CSR_balance": 2688,
+    "failure_detail": null,
+    "armor_cost": 2000,
+    "post_armor_balance": 0,
+    "balance_status": "LOCKED"
+  },
+  "source_rows": [
+    {
+      "season": "Red",
+      "week": 1,
+      "day": 1,
+      "event": "Entry grant",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "live-model/25_CHECKPOINT_18_MASTER_LIVE_MODEL.md"
+    },
+    {
+      "season": "Red",
+      "week": 1,
+      "day": 1,
+      "event": "Armor of the Abyss — initial acquisition",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "economy/KIRA_BLACK_ACQUISITION_PRICES.json"
+    },
+    {
+      "season": "Red",
+      "week": 1,
+      "day": 1,
+      "event": "OPEN / purchase-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D1;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 1,
+      "day": 2,
+      "event": "Duo Trial | Duo Trial W5",
+      "kira_credits_earned": 565,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D2;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=5"
+    },
+    {
+      "season": "Red",
+      "week": 1,
+      "day": 3,
+      "event": "Solo Trial W8 | Kira Solo Trial",
+      "kira_credits_earned": 1275,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D3;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=8"
+    },
+    {
+      "season": "Red",
+      "week": 1,
+      "day": 4,
+      "event": "Red Dungeon | Red Dungeon",
+      "kira_credits_earned": 395,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D4;combat-rewards/DUNGEON_REWARDS.csv:rank=Red;count=1"
+    },
+    {
+      "season": "Red",
+      "week": 1,
+      "day": 5,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 1,
+      "day": 6,
+      "event": "Duo Trial | Duo Trial W7",
+      "kira_credits_earned": 1000,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D6;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=7"
+    },
+    {
+      "season": "Red",
+      "week": 1,
+      "day": 7,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R1D7;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 2,
+      "day": 1,
+      "event": "Red Dungeons ×2 | Red Dungeon ×2",
+      "kira_credits_earned": 790,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D1;combat-rewards/DUNGEON_REWARDS.csv:rank=Red;count=2"
+    },
+    {
+      "season": "Red",
+      "week": 2,
+      "day": 2,
+      "event": "Solo Trial W9 | Kira Solo Trial",
+      "kira_credits_earned": 1590,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D2;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=9"
+    },
+    {
+      "season": "Red",
+      "week": 2,
+      "day": 3,
+      "event": "OPEN / purchase-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D3;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 2,
+      "day": 4,
+      "event": "Orange Dungeon | Orange Dungeon",
+      "kira_credits_earned": 1020,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D4;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=1"
+    },
+    {
+      "season": "Red",
+      "week": 2,
+      "day": 5,
+      "event": "OPEN / rest | illi Solo Trial W2",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:illi-only;no Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 2,
+      "day": 6,
+      "event": "Duo Trial | Duo Trial W8",
+      "kira_credits_earned": 1275,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D6;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=8"
+    },
+    {
+      "season": "Red",
+      "week": 2,
+      "day": 7,
+      "event": "Orange Dungeons ×2 | Orange Dungeon ×2",
+      "kira_credits_earned": 2040,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R2D7;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2"
+    },
+    {
+      "season": "Red",
+      "week": 3,
+      "day": 1,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D1;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 3,
+      "day": 2,
+      "event": "Normal Raid | Raid group #1: Red boss → Orange attempts",
+      "kira_credits_earned": 2500,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D2;combat-rewards/RAID_BOSS_REWARDS.csv:boss_rank=Red;normal"
+    },
+    {
+      "season": "Red",
+      "week": 3,
+      "day": 3,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D3;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 3,
+      "day": 4,
+      "event": "Solo Trial W9 | Kira Solo Trial",
+      "kira_credits_earned": 1590,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D4;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=9"
+    },
+    {
+      "season": "Red",
+      "week": 3,
+      "day": 5,
+      "event": "Orange Dungeons ×2 | Orange Dungeon ×2",
+      "kira_credits_earned": 2040,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D5;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2"
+    },
+    {
+      "season": "Red",
+      "week": 3,
+      "day": 6,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D6;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 3,
+      "day": 7,
+      "event": "Duo Trial | Duo Trial W8",
+      "kira_credits_earned": 1275,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R3D7;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=8"
+    },
+    {
+      "season": "Red",
+      "week": 4,
+      "day": 1,
+      "event": "OPEN / rest | illi Solo Trial W3",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D1;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:illi-only;no Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 4,
+      "day": 2,
+      "event": "OPEN / purchase-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D2;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 4,
+      "day": 3,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D3;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 4,
+      "day": 4,
+      "event": "Orange Dungeons ×2 | Orange Dungeon ×2",
+      "kira_credits_earned": 2040,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D4;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2"
+    },
+    {
+      "season": "Red",
+      "week": 4,
+      "day": 5,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 4,
+      "day": 5,
+      "event": "Burrower Red-B first clear",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 2500,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D5;combat-rewards/RAID_BOSS_REWARDS.csv:boss_rank=Red;provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md"
+    },
+    {
+      "season": "Red",
+      "week": 4,
+      "day": 6,
+      "event": "Solo Trial W10 | Kira Solo Trial",
+      "kira_credits_earned": 1950,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D6;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10"
+    },
+    {
+      "season": "Red",
+      "week": 4,
+      "day": 7,
+      "event": "Duo Trial | Duo Trial W9",
+      "kira_credits_earned": 1590,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R4D7;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=9"
+    },
+    {
+      "season": "Red",
+      "week": 5,
+      "day": 1,
+      "event": "domai incursion | domai excursion — active day 1",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D1;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 5,
+      "day": 2,
+      "event": "domai incursion | domai excursion — active day 2",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D2;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 5,
+      "day": 3,
+      "event": "Suspended recovery | domai recovery lock",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D3;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 5,
+      "day": 4,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D4;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 5,
+      "day": 5,
+      "event": "Orange Dungeons ×2 | Orange Dungeon ×2",
+      "kira_credits_earned": 2040,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D5;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2"
+    },
+    {
+      "season": "Red",
+      "week": 5,
+      "day": 6,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D6;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 5,
+      "day": 7,
+      "event": "Duo Trial | Duo Trial W9",
+      "kira_credits_earned": 1590,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R5D7;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=9"
+    },
+    {
+      "season": "Red",
+      "week": 6,
+      "day": 1,
+      "event": "Orange Dungeons ×2 | Orange Dungeon ×2",
+      "kira_credits_earned": 2040,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D1;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2"
+    },
+    {
+      "season": "Red",
+      "week": 6,
+      "day": 2,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D2;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 6,
+      "day": 3,
+      "event": "Duo Trial | Duo Trial W10",
+      "kira_credits_earned": 1950,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D3;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10"
+    },
+    {
+      "season": "Red",
+      "week": 6,
+      "day": 4,
+      "event": "OPEN / purchase-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D4;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 6,
+      "day": 5,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 6,
+      "day": 6,
+      "event": "Normal Raid | Raid group #2: Red repeat → Orange boss",
+      "kira_credits_earned": 3750,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D6;combat-rewards/RAID_BOSS_REWARDS.csv:boss_rank=Orange;normal"
+    },
+    {
+      "season": "Red",
+      "week": 6,
+      "day": 7,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R6D7;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 7,
+      "day": 1,
+      "event": "Orange Dungeons ×2 | Orange Dungeon ×2",
+      "kira_credits_earned": 2040,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D1;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2"
+    },
+    {
+      "season": "Red",
+      "week": 7,
+      "day": 2,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D2;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 7,
+      "day": 3,
+      "event": "Duo Trial | Duo Trial W10",
+      "kira_credits_earned": 1950,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D3;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10"
+    },
+    {
+      "season": "Red",
+      "week": 7,
+      "day": 4,
+      "event": "Orange Dungeons ×2 | Orange Dungeon ×2",
+      "kira_credits_earned": 2040,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D4;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2"
+    },
+    {
+      "season": "Red",
+      "week": 7,
+      "day": 5,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Red",
+      "week": 7,
+      "day": 6,
+      "event": "Duo Trial | Duo Trial W10",
+      "kira_credits_earned": 1950,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D6;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10"
+    },
+    {
+      "season": "Red",
+      "week": 7,
+      "day": 7,
+      "event": "Orange Dungeons ×2 | Orange Dungeon ×2",
+      "kira_credits_earned": 2040,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:R7D7;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2"
+    },
+    {
+      "season": "Orange",
+      "week": 1,
+      "day": 1,
+      "event": "Duo Trial | Duo Trial W10",
+      "kira_credits_earned": 1950,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D1;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10"
+    },
+    {
+      "season": "Orange",
+      "week": 1,
+      "day": 2,
+      "event": "Orange Dungeons ×2 | Orange Dungeon ×2",
+      "kira_credits_earned": 2040,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D2;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2"
+    },
+    {
+      "season": "Orange",
+      "week": 1,
+      "day": 3,
+      "event": "Duo Trial | Duo Trial W10",
+      "kira_credits_earned": 1950,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D3;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10"
+    },
+    {
+      "season": "Orange",
+      "week": 1,
+      "day": 4,
+      "event": "OPEN / recognition-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D4;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Orange",
+      "week": 1,
+      "day": 5,
+      "event": "OPEN / recovery-social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D5;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    },
+    {
+      "season": "Orange",
+      "week": 1,
+      "day": 6,
+      "event": "Normal Raid | New-season Red Raid boss",
+      "kira_credits_earned": 2500,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D6;combat-rewards/RAID_BOSS_REWARDS.csv:boss_rank=Red;normal"
+    },
+    {
+      "season": "Orange",
+      "week": 1,
+      "day": 6,
+      "event": "Triumvirate Red-B first clear",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 2500,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D6;combat-rewards/RAID_BOSS_REWARDS.csv:boss_rank=Red;provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md"
+    },
+    {
+      "season": "Orange",
+      "week": 1,
+      "day": 7,
+      "event": "Duo Trial | Duo Trial W10",
+      "kira_credits_earned": 1950,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O1D7;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10"
+    },
+    {
+      "season": "Orange",
+      "week": 2,
+      "day": 1,
+      "event": "Orange Dungeons ×2 | Orange Dungeon ×2",
+      "kira_credits_earned": 2040,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O2D1;combat-rewards/DUNGEON_REWARDS.csv:rank=Orange;count=2"
+    },
+    {
+      "season": "Orange",
+      "week": 2,
+      "day": 2,
+      "event": "Duo Trial | Duo Trial W10",
+      "kira_credits_earned": 1950,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O2D2;trial-rewards/TRIAL_WAVE_CREDITS.csv:wave=10"
+    },
+    {
+      "season": "Orange",
+      "week": 2,
+      "day": 3,
+      "event": "CSR purchase61017 later; family-smithy/social | NO REQUIRED COMBAT",
+      "kira_credits_earned": 0,
+      "kira_actual_surplus_earned": 0,
+      "source": "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:O2D3;world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv:no sourced numeric Kira reward"
+    }
+  ],
+  "sha256": {
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.csv": "74dea62969d5d08fc90c6f28c7e8782c3cd55e8d967b9769b06399c2f2025f46",
+    "world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.json": "a60ecb0d4a57b66faf9f6dd79b0c1abd861f8918fa04d05262189d75222bfeac",
+    "trial-rewards/TRIAL_WAVE_CREDITS.csv": "53faa16faf4ff1f52cf63109b47d4b67317c837e8c8c23283d045dcb33941f5f",
+    "combat-rewards/DUNGEON_REWARDS.csv": "9ec5ec8bc647733127d0b6ee513af0e8563fd35630616e740757ab691e860419",
+    "combat-rewards/RAID_BOSS_REWARDS.csv": "df6044fac5e0651eaf89adcef7f75a30cf9088afbf28b6085d98a227a51531a1",
+    "economy/KIRA_BLACK_ACQUISITION_PRICES.json": "a8029500a2c367e35929e2a784c7c481a882c51a6fc247a9e43af29edc0afb80",
+    "live-model/25_CHECKPOINT_18_MASTER_LIVE_MODEL.md": "46305e6c4b9467467289a9f9758abf7c106e94eb75689fab348b688d92a1847f",
+    "provenance/live-model-full-repair-2026-10-08/package/package/KIRA_LEDGER_SPEC.md": "c8f9864503a80efdad4bb4799a72c7977211c823ae5fe0ec4d3b9ccda49266c9",
+    "provenance/live-model-full-repair-2026-10-08/package/package/LIVE_MODEL_DELTA.md": "ff178cc2db6c95c582efdc06f260b1ddd22a1aa77bf2cddf922ca561d8f8369a",
+    "tools/validation/validate_kira_ledger.py": "15b06fac41dc921069c6fb0a4e67ba17c84246bc708ffa3a0be2872ec99df038",
+    "provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md": "15342139e809c73313581019166399be3cd9dd929e205e080f60856e5e7a03f7"
+  },
+  "row_differences": {
+    "json": [],
+    "csv": []
+  },
+  "armor_only_preservation": {
+    "result": "PASS",
+    "baseline": "edfda188e942fc54c5c5db39e6ece5b42bca1e9a",
+    "protected_files": 604,
+    "all_combat_and_other_ledger_fields_preserved": true
+  }
+}

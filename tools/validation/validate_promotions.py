@@ -149,8 +149,9 @@ def audit_promotions(root, git, require, target):
             require(prefix+'package/package/KIRA_LEDGER_SPEC.md' in manifest['package_sha256'],
                     'Kira ledger specification missing')
             if safe_path(p):
-                require((root/p).is_file() and digest((root/p).read_bytes()) == expected,
-                        'generated owner drift: '+p)
+                # A later source-accounted promotion may correct this owner;
+                # the final latest-hash pass still rejects undeclared drift.
+                latest.setdefault(p, expected)
                 result['owner_paths'].add(p)
         for asset in manifest.get('asset_copies', []):
             source, dest = asset['source'], asset['destination']

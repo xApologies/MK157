@@ -1,0 +1,18 @@
+{
+  "result": "PASS",
+  "baseline_files": 794,
+  "unchanged_files": 764,
+  "modified_files": 30,
+  "deleted": [],
+  "renamed": [],
+  "all_prior_provenance_byte_identical": true,
+  "all_reward_files_byte_identical": true,
+  "all_existing_calendar_data_except_kira_ledger_byte_identical": true,
+  "kira_row_preservation": {
+    "result": "PASS",
+    "baseline": "edfda188e942fc54c5c5db39e6ece5b42bca1e9a",
+    "protected_files": 604,
+    "all_combat_and_other_ledger_fields_preserved": true
+  },
+  "other_prices_unchanged": true
+}

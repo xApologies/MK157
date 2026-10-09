@@ -30,7 +30,7 @@ Starter grant is **2,000 credits**. Full-price Foundational PC R→Blue costs **
 
 The [19-event ledger](../world-clock/ILLI_AUTHOR_PROGRESSION_LEDGER.csv) retains the first 13 events through G6D2 and totals **292,772** progression expenditure after Checkpoint 24’s six-event Arc Six tail. The earlier 17-event/250,884 projection is superseded. This is not total income or bank balance. The [early combat calendar](../world-clock/RED_TO_ORANGE_COMBAT_CALENDAR.md) supplies a separate progression balance scaffold.
 
-Kira's Black acquisition gates remain separate: Armor is the approximately 1,000-credit anomaly; Checkpoint 19 locks CSR/Genesis Orbs/Halo/Domain at 61,017 credits each in their character-specific post-Armor acquisition tier ([price record](../economy/KIRA_BLACK_ACQUISITION_PRICES.json)). The starter grant does not reprice Armor. Ordinary registry prices do not determine her Black gates.
+Kira's Black acquisition gates remain separate: initial Armor costs exactly 2,000 credits, consuming the whole 2,000 entry grant and leaving zero; Checkpoint 19 locks CSR/Genesis Orbs/Halo/Domain at 61,017 credits each in their character-specific post-Armor acquisition tier ([price record](../economy/KIRA_BLACK_ACQUISITION_PRICES.json)). This explicit author correction supersedes the prior approximate Armor price. Ordinary registry prices do not determine her Black gates.
 
 ## Mirrors and validation
 

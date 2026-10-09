@@ -10,8 +10,9 @@
     "Domain": 61017
   },
   "ordinary_binding_class_matrix_applies": false,
-  "armor_of_the_abyss": "Approximately 1000-credit anomalous starter; unchanged",
+  "armor_of_the_abyss": 2000,
   "scope": "Character-specific post-Armor Black acquisition tier; no ordinary paid rank ladder",
   "acquisition_dates": "Checkpoint 24: Entry/Red Armor → Early Orange CSR → Late Yellow Genesis Orbs at Yellow W6 D2 (Y6D2) → Early Blue Halo at Blue W1 D5 (B1D5) → Late Violet Domain, exact Domain day OPEN. Orbs are not Yellow W1 D2 or the Arc Three endpoint. Halo 61,017 is author-declared solvent with prior carry-in; no Arc Six zero-start cash balance is asserted for Kira. The acquisition tier remains Checkpoint 19; acquisition is not mastery.",
-  "source": "../provenance/checkpoint-19-package/ARC3_FINAL_AUTHOR_LOCKS.md"
+  "source": "../provenance/checkpoint-19-package/ARC3_FINAL_AUTHOR_LOCKS.md",
+  "armor_price_source": "../provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md"
 }

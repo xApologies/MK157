@@ -142,6 +142,8 @@ def audit(root):
         allowed.update(validated_replacements(root))
         from validate_full_repair import validated_calendar_audit
         allowed.update(validated_calendar_audit(root))
+        from validate_kira_ledger import validated_armor_replacements
+        allowed.update(validated_armor_replacements(root))
     except (OSError, ValueError, KeyError) as exc:
         require(False, 'Author promotion preservation: ' + str(exc))
     protected = []

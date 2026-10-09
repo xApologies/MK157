@@ -178,6 +178,8 @@ def audit(root):
     require(nights==state['builder_nights']==['G6D5','B1D5','B2D5','B3D5','B4D5','B5D5'],'Builder nights changed')
     require(all(lookup[f'G7D{d}']['event']=='Seasonal Auction' for d in (5,6,7)),'Green Auction displaced')
     price=js('economy/KIRA_BLACK_ACQUISITION_PRICES.json');old_price=json.loads(old('economy/KIRA_BLACK_ACQUISITION_PRICES.json'))
+    old_price['armor_of_the_abyss']=2000
+    old_price['armor_price_source']='../provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md'
     require({k:v for k,v in price.items() if k!='acquisition_dates'}=={k:v for k,v in old_price.items() if k!='acquisition_dates'},'Black prices changed')
     require('B1D5' in price['acquisition_dates'] and 'Domain day OPEN' in price['acquisition_dates'],'Current price timing stale')
     protected=[]

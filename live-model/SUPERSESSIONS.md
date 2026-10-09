@@ -14,7 +14,7 @@ Checkpoint 25 correction > 25 master > 24 > 23 > 22 > 21 > 20 > 19 > 18 > 17 > 1
 | Valnek spelling | Valnak | 07_CHECKPOINT_02_ADDENDUM.md |
 | In-world Legacies | Legacy; one-off Offers/Discounts remain distinct; White acceptance makes a True Legacy | 07_CHECKPOINT_02_ADDENDUM.md |
 | Six historical named Black placeholders / six Black-role options | At initial evaluation five ordinary directions plus unprecedented Black Armor; prescribed foundation is Armor of the Abyss, CSR, Halo, Genesis Orbs, Domain | 09_CHECKPOINT_04_ADDENDUM.md |
-| Every initial Black option costs 1,000 credits | Armor's starter-scale price is an anomaly; Elara repairs later pricing; later acquisitions require credits and competency; exact table OPEN | 09_CHECKPOINT_04_ADDENDUM.md |
+| Every initial Black option costs 1,000 credits | Initial Armor is now exactly 2,000; post-Armor acquisitions remain 61,017 with competency gates. Earlier approximate pricing is superseded | 09_CHECKPOINT_04_ADDENDUM.md |
 | Repeated compulsory Black sequences indefinitely | Domain completes the compulsory foundation, then self-directed learning and individual support/interface acquisitions | 09_CHECKPOINT_04_ADDENDUM.md |
 | Permanent matte-black skin, gold hair and eyes | Energized multilayered WHITE skin, healthy WHITE hair, black eyes with internal R–V spectrum, perfect symmetry, Genesis/crystalline biology | 08_CHECKPOINT_03_ADDENDUM.md |
 | Canonical gold Halo | Superseded; final Genesis/Black coloration OPEN | 08_CHECKPOINT_03_ADDENDUM.md |
@@ -89,7 +89,7 @@ Calendar conflict: supplied months sum to 353 rather than 360; 360 days/60 weeks
 
 ## Checkpoint 11 governing delta
 
-20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations use the Checkpoint 19 acquisition tier of 61,017 each. Their former 61,000 prices remain historical; ordinary registry rank pricing remains separate. Armor remains the ~1,000-credit anomalous starter. Checkpoint 14 reopened the prices; Checkpoint 19 resolves them.
+20 > 19 > 18 > 17 > 16 > 15 > 14 > 13 > 12 > 11 > 10 > 09 > 08 > 07B/07 > 06 > 05 > 04 > 03 > 02 > 01. Post-Armor Black foundations use the Checkpoint 19 acquisition tier of 61,017 each. Their former 61,000 prices remain historical; ordinary registry rank pricing remains separate. Initial Armor is now exactly 2,000 under the surgical author correction. Checkpoint 14 reopened the prices; Checkpoint 19 resolves them.
 illi's Persistent Coherence BLUE is required for White Legacy entry. This supersedes immediate-entry access and arbitrary Absorption acquisition dates; individual Prime GREEN-to-RED gates remain unchanged. The 26,648 cumulative example is illustrative B=1,000, not a new registry price assignment.
 Valnak weeks have seven days (343 days/deployment). Planetary month-total conflict remains OPEN. The standing Highlights time (now 27:00 under the R2/R3 cumulative pouch), raeon W7 D5 final, W7 D5–D7 Auctions and White-season Prism playoff placement supersede older timing OPENs. Fine match schedules remain OPEN.
 Genesis Cards are active inherited collectibles, not Binding grants/casts. Their colors express actual manifold basins; raeon colors express game classification/rarity. Both share transparent durable maege glass. No universal color/element mapping follows from illustrative card examples.
@@ -129,7 +129,7 @@ Dungeon distribution/partial-progress/boss/contribution/first-clear bonus formul
 
 ## Checkpoint 18 master reconciliation
 
-Fixed Red anchors by existing class (1700/3100/5700/11000/17000) supersede CP12 bands/microprices/hand numeric anchors and CP13 Absorption 10000. Classes, IDs, mechanisms and all non-price fields remain; nine Primes stay Exceptional. Starter grant 2000 supersedes ~1000; Armor's separate ~1000 anomaly remains. Sequential HALF_UP rank multipliers and accepted White-Legacy pay55% remain. The same 17 illi dates now cost 250884; PC R→B is 45303 and post-Legacy Absorption Red 9350.
+Fixed Red anchors by existing class (1700/3100/5700/11000/17000) supersede CP12 bands/microprices/hand numeric anchors and CP13 Absorption 10000. Classes, IDs, mechanisms and all non-price fields remain; nine Primes stay Exceptional. Starter grant 2000 supersedes ~1000; the surgical author correction now fixes initial Armor at exactly 2,000, consuming that grant. Sequential HALF_UP rank multipliers and accepted White-Legacy pay55% remain. The same 17 illi dates now cost 250884; PC R→B is 45303 and post-Legacy Absorption Red 9350.
 
 Trial total 26955 supersedes 53910. The current Dungeon/Raid tables halve CP17 deterministic values, with Hard recalculated as 1.5× new Normal HALF_UP; old exact-integer arithmetic assumptions are superseded. White Normal is 34455, Hard 51683; Raid R→V totals 47500/71250. Ecology, areas, eligibility and Expedition attrition remain. Domai awards are not halved; OPEN scoring coexists with new 7-day first-kill eligibility, same-domai one-day exit/death lockout and cumulative 0.8^deaths deduction.
 
@@ -139,7 +139,7 @@ Applicable MK-147 aithren/vaelum/Accord doctrine is promoted, with generic insti
 
 ## Checkpoint 19 — Arc Three final locks
 
-The explicit final 61,017 acquisition tier supersedes prior post-Armor Black-price OPENs and the package delta/audit's earlier ~50k–60k provisioning text. CSR/Genesis Orbs/Halo/Domain each use this character-specific tier; neither old 61,000 nor ordinary class pricing substitutes for it. Armor remains ~1,000. Package sources and earlier checkpoint masters remain immutable history.
+The explicit final 61,017 acquisition tier supersedes prior post-Armor Black-price OPENs and the package delta/audit's earlier ~50k–60k provisioning text. CSR/Genesis Orbs/Halo/Domain each use this character-specific tier; neither old 61,000 nor ordinary class pricing substitutes for it. Initial Armor is now exactly 2,000; the prior approximate value is superseded. Package sources and earlier checkpoint masters remain immutable history.
 
 The exact O2D4–O7D7 scaffold governs Arc Three required combat, with immediate Green after CSR, 9 Duo/6 Kira Solo runs, 7 Orange Dungeon clears, 2 failed Yellow attempts and zero Yellow clears/no Red Dungeons. Kira's general free-time Solo tendency does not consume its 12 protected OPEN rows after the October 8 correction. Scope-specific card collecting/no meaningful Auction purchases leaves broader economy doctrine intact.
 
@@ -267,3 +267,7 @@ First-domai D1–D2 activity and D3 lockout survive: the word leave cannot creat
 [Red](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/CORE_AND_RED.md) and [Orange finale](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/ORANGE_W5_W7.md) remove R5D4/O5D1/O5D6 seasonal appointments and O7D5 championship viewing. R7D6/O7D6 at10:00 are seasonal entry/early knockout before the existing same-day Duo1,950/5,805; following-day Dungeons2,040/1,020 stay unchanged. Daily10:00 remains separate. No global later-season schedule is inferred or rewritten. Earlier checkpoint summaries in this file describe their historical source states and yield to these explicit corrections only.
 
 The [Hard doctrine](../provenance/diplomatic-pouch-2026-10-08/package/red-orange-reconciliation/package/HARD_RAID_DOCTRINE.md) supplies same seasonal roster, continuous environment, fatigue normalization contrast, full-attempt restart, roster/death/exit limits and persistent rewards. All compatible prior boss mechanics, social detail, later dates/rewards, macro closure, source firewall and unrelated OPENs survive.
+
+## Exact initial Armor economy correction
+
+The [author correction](../provenance/armor-economy-fix-2026-10-08/package/AUTHOR_DECISION.md) fixes initial Armor of the Abyss at exactly **2,000 credits**. It consumes the entire 2,000 entry grant; post-Armor balance is **0**. Unchanged authored combat gross through O2D3 is **63,705**, also the exact available pre-CSR balance. CSR remains **O2D3 / 61,017**, leaving **2,688 LOCKED**. This supersedes earlier approximate/unknown Armor prices and conditional early balances only. No calendar, reward, other purchase or unrelated OPEN changes; historical packages remain evidence.
